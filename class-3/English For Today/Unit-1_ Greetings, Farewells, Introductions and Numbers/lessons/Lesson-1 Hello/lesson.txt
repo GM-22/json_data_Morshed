@@ -1,0 +1,2581 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 740842,
+      "value": {
+        "options": [],
+        "question": "Sanjoy says that,",
+        "solution": "his name is Sanjoy."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740850,
+      "value": {
+        "options": [],
+        "question": "Im good, thanks",
+        "solution": "I&#39;m good, thanks."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740849,
+      "value": {
+        "options": [],
+        "question": "How do you know that Fatiha and Sanjoy are polite?",
+        "solution": "They greet each other and ask about well-being."
+      },
+      "question_type_id": 23,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740849,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740848,
+      "value": {
+        "options": {
+          "a": "What’s your name?",
+          "b": "How are you?",
+          "c": "Where do you live?",
+          "d": "What is the time?"
+        },
+        "question": "What does Sanjoy ask after saying he is good?",
+        "solution": "b. How are you?"
+      },
+      "question_type_id": 2,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740848,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740847,
+      "value": {
+        "options": [],
+        "question": "Sanjoy asks Fatiha how she is.",
+        "solution": "True"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740847,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740846,
+      "value": {
+        "options": [],
+        "question": "Sanjoy says 'Good morning' to Fatiha.",
+        "solution": "True"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740846,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740845,
+      "value": {
+        "options": [],
+        "question": "Sanjoy does not reply to Fatiha's question.",
+        "solution": "False"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740845,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740844,
+      "value": {
+        "options": [],
+        "question": "Fatiha says that",
+        "solution": "her name is Fatiha."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740844,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740843,
+      "value": {
+        "options": [],
+        "question": "Then Fatiha asks Sanjoy",
+        "solution": "how he is."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740851,
+      "value": {
+        "options": [],
+        "question": "Im also good",
+        "solution": "I&#39;m also good."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740841,
+      "value": {
+        "options": [],
+        "question": "Fatiha/day/nice/a/have.",
+        "solution": "Fatiha says, 'Have a nice day.'"
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740841,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740840,
+      "value": {
+        "options": [],
+        "question": "soon/see/Sanjoy/you.",
+        "solution": "Sanjoy says, 'See you soon.'"
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740840,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740839,
+      "value": {
+        "options": [],
+        "question": "goodbye/Sanjoy/says/Fatiha.",
+        "solution": "Fatiha says goodbye to Sanjoy."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740839,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740838,
+      "value": {
+        "options": [],
+        "question": "Sanjoy/my/name/is/Sanjoy.",
+        "solution": "Sanjoy says, 'My name is Sanjoy.'"
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740838,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740837,
+      "value": {
+        "options": [],
+        "question": "Sanjoy/how/asks/Fatiha/are/you.",
+        "solution": "Sanjoy asks Fatiha, 'How are you?'"
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740837,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740836,
+      "value": {
+        "options": [],
+        "question": "he/good/that/replies/Sanjoy/is.",
+        "solution": "Sanjoy replies that he is good."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740835,
+      "value": {
+        "options": [],
+        "question": "good afternoon teacher",
+        "solution": "Good afternoon, teacher!"
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740835,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740834,
+      "value": {
+        "options": [],
+        "question": "nice to meet you",
+        "solution": "Nice to meet you!"
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740834,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740852,
+      "value": {
+        "options": [],
+        "question": "hi im fine",
+        "solution": "Hi! I'm fine."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740852,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740853,
+      "value": {
+        "options": [],
+        "question": "hey lets play",
+        "solution": "Hey! Let's play."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740853,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740854,
+      "value": {
+        "options": [],
+        "question": "hello/Sanjoy/says/Fatiha.",
+        "solution": "Fatiha says hello to Sanjoy."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740854,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740855,
+      "value": {
+        "options": [],
+        "question": "Fatiha/friend/good/Sanjoy/is/a.",
+        "solution": "Sanjoy is a good friend of Fatiha."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740855,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740856,
+      "value": {
+        "options": [],
+        "question": "Sanjoy greets Fatiha",
+        "solution": "with good morning."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740856,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740857,
+      "value": {
+        "options": [],
+        "question": "Fatiha asks Sanjoy",
+        "solution": "how he is feeling."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740857,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740858,
+      "value": {
+        "options": [],
+        "question": "Fatiha replies",
+        "solution": "see you soon."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740858,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740859,
+      "value": {
+        "options": [],
+        "question": "Fatiha: Good morning. What's your name?\u003Cbr\u003E\nSanjoy: Good morning. My name's Sanjoy.\u003Cbr\u003E\nFatiha: How are you?\u003Cbr\u003E\nSanjoy: I'm good, thanks. And you?\u003Cbr\u003E\nFatiha: I'm also good.",
+        "solution": "no answer"
+      },
+      "question_type_id": 24,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 24,
+        "name": "Text/Passgage",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740860,
+      "value": {
+        "options": [],
+        "question": "Sanjoy tells Fatiha his name.",
+        "solution": "True"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740860,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740861,
+      "value": {
+        "options": [],
+        "question": "Sanjoy says, 'I'm bad, thanks.'",
+        "solution": "False"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740861,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740862,
+      "value": {
+        "options": [],
+        "question": "Fatiha says her name is Sanjoy.",
+        "solution": "False"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740862,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740863,
+      "value": {
+        "options": {
+          "a": "I’m also good",
+          "b": "I’m not fine",
+          "c": "My name is Fatiha",
+          "d": "Good morning"
+        },
+        "question": "How does Fatiha respond when Sanjoy asks about her well-being?",
+        "solution": "a. I’m also good"
+      },
+      "question_type_id": 2,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740863,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740864,
+      "value": {
+        "options": [],
+        "question": "Who greets first in the conversation?",
+        "solution": "Fatiha greets first."
+      },
+      "question_type_id": 23,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740864,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740865,
+      "value": {
+        "options": [],
+        "question": "Why does Fatiha ask Sanjoy’s name?",
+        "solution": "Fatiha asks Sanjoy’s name to get to know him."
+      },
+      "question_type_id": 23,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740865,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740866,
+      "value": {
+        "options": [],
+        "question": "If Sanjoy was meeting a teacher instead of Fatiha, how might his response change?",
+        "solution": "Sanjoy might use more respectful words like 'Good morning, sir/madam.'"
+      },
+      "question_type_id": 23,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740866,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740818,
+      "value": {
+        "options": [],
+        "question": "hello how are you",
+        "solution": "Hello! How are you?"
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740818,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740803,
+      "value": {
+        "options": [],
+        "question": "bye see you soon",
+        "solution": "Bye! See you soon."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740803,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740804,
+      "value": {
+        "options": [],
+        "question": "greets/morning/ Fatiha/ Sanjoy/ with/good.",
+        "solution": "Fatiha greets Sanjoy with good morning."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740805,
+      "value": {
+        "options": [],
+        "question": "name/his/Fatiha/tells/Sanjoy/to.",
+        "solution": "Sanjoy tells his name to Fatiha."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740806,
+      "value": {
+        "options": [],
+        "question": "about/Fatiha/well-being/asks/Sanjoy's.",
+        "solution": "Fatiha asks about Sanjoy&#39;s well-being."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740807,
+      "value": {
+        "options": [],
+        "question": "fine/am/I/replies/Fatiha.",
+        "solution": "Fatiha replies, 'I am fine.'"
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740807,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740808,
+      "value": {
+        "options": [],
+        "question": "morning/good/Sanjoy/says.",
+        "solution": "Sanjoy says, 'Good morning.'"
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740808,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740809,
+      "value": {
+        "options": [],
+        "question": "Fatiha and Sanjoy are",
+        "solution": "talking"
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740810,
+      "value": {
+        "options": [],
+        "question": "Sanjoy replies that",
+        "solution": "he is good."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740811,
+      "value": {
+        "options": [],
+        "question": "Sanjoy tells Fatiha",
+        "solution": "that he is fine."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740811,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740812,
+      "value": {
+        "options": [],
+        "question": "Then Sanjoy asks Fatiha",
+        "solution": "what her name is."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740812,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740813,
+      "value": {
+        "options": [],
+        "question": "Sanjoy says goodbye",
+        "solution": "and waves at Fatiha."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740813,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740814,
+      "value": {
+        "options": [],
+        "question": "Fatiha asks Sanjoy how he is.",
+        "solution": "True"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740814,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740815,
+      "value": {
+        "options": [],
+        "question": "Sanjoy asks Fatiha about her age.",
+        "solution": "False"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740815,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740816,
+      "value": {
+        "options": {
+          "a": "Good evening",
+          "b": "Good morning",
+          "c": "How are you?",
+          "d": "What’s your name?"
+        },
+        "question": "What does Fatiha say first?",
+        "solution": "b. Good morning"
+      },
+      "question_type_id": 2,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740816,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740817,
+      "value": {
+        "options": [],
+        "question": "Whats your name",
+        "solution": "What&#39;s your name?"
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740802,
+      "value": {
+        "options": [],
+        "question": "good night see you",
+        "solution": "Good night! See you."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740802,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740819,
+      "value": {
+        "options": [],
+        "question": "good morning",
+        "solution": "Good morning!"
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740819,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740820,
+      "value": {
+        "options": [],
+        "question": "whats your name",
+        "solution": "What's your name?"
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740820,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740821,
+      "value": {
+        "options": [],
+        "question": "my names rafi",
+        "solution": "My name's Rafi."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740821,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740822,
+      "value": {
+        "options": [],
+        "question": "good/Sanjoy/morning/responds/with.",
+        "solution": "Sanjoy responds with good morning."
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740823,
+      "value": {
+        "options": [],
+        "question": "Fatiha/name/your/what/is.",
+        "solution": "Fatiha asks, 'What is your name?'"
+      },
+      "question_type_id": 20,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 20,
+        "name": "Rearrange words",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740823,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740824,
+      "value": {
+        "options": [],
+        "question": "Fatiha asks Sanjoy",
+        "solution": "his name"
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740825,
+      "value": {
+        "options": [],
+        "question": "Sanjoy and Fatiha are",
+        "solution": "talking to each other."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740825,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740826,
+      "value": {
+        "options": [],
+        "question": "Sanjoy thanks Fatiha",
+        "solution": "for her kind words."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740826,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740827,
+      "value": {
+        "options": [],
+        "question": "Fatiha wishes Sanjoy",
+        "solution": "a happy day."
+      },
+      "question_type_id": 21,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 21,
+        "name": "Match info (Col A / Col B)",
+        "answer_type": "matching"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740827,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740828,
+      "value": {
+        "options": [],
+        "question": "Fatiha says she is also good.",
+        "solution": "True"
+      },
+      "question_type_id": 22,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 22,
+        "name": "True/False",
+        "answer_type": "true_false"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740828,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740829,
+      "value": {
+        "options": {
+          "a": "I’m fine",
+          "b": "Good morning",
+          "c": "My name’s Sanjoy",
+          "d": "How are you?"
+        },
+        "question": "What is Sanjoy's reply when Fatiha asks his name?",
+        "solution": "c. My name’s Sanjoy"
+      },
+      "question_type_id": 2,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740829,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740830,
+      "value": {
+        "options": {
+          "a": "Names and greetings",
+          "b": "Books",
+          "c": "Food",
+          "d": "Presents"
+        },
+        "question": "What do Fatiha and Sanjoy exchange in their conversation?",
+        "solution": "a. Names and greetings"
+      },
+      "question_type_id": 2,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740830,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740831,
+      "value": {
+        "options": [],
+        "question": "What does Sanjoy say after Fatiha asks his name?",
+        "solution": "Sanjoy says, 'My name’s Sanjoy.'"
+      },
+      "question_type_id": 23,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 8,
+          "name": "ইউনিক",
+          "pivot": {
+            "question_bank_id": 740831,
+            "question_bank_label_id": 8
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 740832,
+      "value": {
+        "options": [],
+        "question": "My names sanjoy",
+        "solution": "My name&#39;s Sanjoy."
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 740833,
+      "value": {
+        "options": [],
+        "question": "how are you",
+        "solution": "How are you?"
+      },
+      "question_type_id": 19,
+      "book_id": 122,
+      "book_grade_id": 9,
+      "content_chunk_id": 7190,
+      "created_at": "2025-11-24T05:45:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 19,
+        "name": "Punctuation",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 122,
+        "title": "English For Today",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7190&grade=9&lesson=13353&question_paper_id=47656&subject=122&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7190&grade=9&lesson=13353&question_paper_id=47656&subject=122&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7190&grade=9&lesson=13353&question_paper_id=47656&subject=122&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 65,
+  "total": 65
+}

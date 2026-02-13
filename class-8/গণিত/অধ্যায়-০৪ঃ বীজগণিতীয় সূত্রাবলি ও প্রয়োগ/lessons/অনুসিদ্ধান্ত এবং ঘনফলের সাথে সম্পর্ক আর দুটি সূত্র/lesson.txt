@@ -1,0 +1,4533 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 801516,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817914c922c0a616b398cf9\"\u003E[math]\\mathrm{x}+\\frac{1}{\\mathrm{x}}=\\sqrt{3}[/math] হলে [math]\\mathrm{x}^3+\\frac{1}{\\mathrm{x}^3}[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]x+\\frac{1}{x}=\\sqrt{3}[/math]\u003Cbr /\u003Eপ্রদত্ত রাশি [math]=x^3+\\frac{1}{x^3}[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; =\\left(x+\\frac{1}{x}\\right)^3-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) \\\\\u003Cbr /\u003E&amp; =(\\sqrt{3})^3-3 \\sqrt{3}=3 \\sqrt{3}-3 \\sqrt{3}=0\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান [math]0.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801501,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178ee3922c0a616b39873e\"\u003E[math]a^2-3 a+1=0[/math] হলে, দেখাও যে, [math]a^3+\\frac{1}{a^3}=18[/math]\u003C/div\u003E",
+        "solution": "দেওয়া আছে,[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\quad a^2-3 a+1=0 \\\\\u003Cbr /\u003E&amp; \\text { বা, } a^2+1=3 a\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eবা, [math]a+\\frac{1}{a}=3[/math] [উভয়পক্ষকে[math]a[/math] দ্বারা ভাগ করে][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { বামপক্ষ } &amp; =a^3+\\frac{1}{a^3} \\\\\u003Cbr /\u003E&amp; =\\left(a+\\frac{1}{a}\\right)^3-3. a. \\frac{1}{a}\\left(a+\\frac{1}{a}\\right) \\\\\u003Cbr /\u003E&amp; =3^3-3.3=27-9=18=\\text { ডানপক্ষ } \\\\\u003Cbr /\u003E\\therefore \\quad a^3 &amp; +\\frac{1}{a^3}=18. \\text { (দেখানো হলো) }\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801502,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178f58922c0a616b398877\"\u003E[math]3m + 2n = 13[/math] এবং [math]mn = 6[/math] হলে, [math]27m ^ 3 + 8n ^ 3[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]3 m+2 n=13[/math] এবং [math]m n=6[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { প্রদত্ত রাশি } &amp; =27 m^3+8 n^3 \\\\\u003Cbr /\u003E&amp; =(3 m)^3+(2 n)^3 \\\\\u003Cbr /\u003E&amp; =(3 m+2 n)^3-3.3 m .2 n(3 m+2 n) \\\\\u003Cbr /\u003E&amp; =(3 m+2 n)^3-18 m n(3 m+2 n) \\\\\u003Cbr /\u003E&amp; =(13)^3-18 \\times 6 \\times 13\\\\&amp;=2197-1404=793\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান: [math]793.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801503,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179195922c0a616b398d7a\"\u003E[math]\\mathrm{m}-\\frac{1}{\\mathrm{~m}}=5[/math] হলে, [math]\\mathrm{m}^3-\\frac{1}{\\mathrm{~m}^3}[/math]এর মান কত?\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]\\mathrm{m}-\\frac{1}{\\mathrm{~m}}=5[/math]\u003Cbr /\u003Eপ্রদত্ত রাশি [math]=\\mathrm{m}^3-\\frac{1}{\\mathrm{~m}^3}[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; =\\left(m-\\frac{1}{m}\\right)^3+3 \\cdot m \\frac{1}{m}\\left(m-\\frac{1}{m}\\right) \\\\\u003Cbr /\u003E&amp; =(5)^3+3.5=125+15=140\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান: [math]140.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801504,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178cfc922c0a616b39812e\"\u003E[math]m - n = 8[/math] এবং [math]mn = 15[/math] হলে, [math]m ^ 3 - n ^ 3[/math] এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} \\text { প্রদত্ত রাশি } &amp; =m^3-n^3 \\\\ &amp; =(m-n)^3+3 \\operatorname{mn}(m-n) \\\\ &amp; =(8)^3+3.15 .8=512+360=872\\end{aligned}[/math]\u003Cbr /\u003Eনির্ণেয় মান [math]872.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801505,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178e0c922c0a616b3984b9\"\u003E[math]x+\\frac{1}{x}=8[/math] হলে, [math]x^3+\\frac{1}{x^3}[/math] এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]x+\\frac{1}{x}=8[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { প্রদত্ত রাশি } &amp; =x^3+\\frac{1}{x^3} \\\\\u003Cbr /\u003E&amp; =\\left(x+\\frac{1}{x}\\right)^3-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) \\\\\u003Cbr /\u003E&amp; =(8)^3-3.8=512-24=488\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান: [math]488.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801506,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681790ea922c0a616b398b91\"\u003E[math]a + b+c=0[/math] হলে, প্রমাণ কর যে, [math]\\mathrm{a}^3+\\mathrm{b}^3+\\mathrm{c}^3=3 \\mathrm{abc}.[/math]\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]a+b+c=0[math]\u003Cbr /\u003E\\therefore a+b=-c\u003Cbr /\u003E[/math]\u003Cbr /\u003Eবামপক্ষ [math]=a^3+b^3+c^3[/math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; =(a+b)^3-3 a b(a+b)+c^3 \\\\\u003Cbr /\u003E&amp; =(-c)^3-3 a b(-c)+c^3 \\\\\u003Cbr /\u003E&amp; =-c^3+3 a b c+c^3=3 a b c=\\text { ডানপক্ষ }\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math][math]\\therefore \\mathrm{a}^3+\\mathrm{b}^3+\\mathrm{c}^3=3 \\mathrm{abc}[/math]. (প্রমাণিত)",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801507,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178a3c922c0a616b3979e7\"\u003E[math]\\mathrm{a}^3-2[/math] এর ঘন নির্ণয় কর।\u003C/div\u003E",
+        "solution": "[math]\\mathrm{a}^3-2[/math] এর ঘন[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; =\\left(a^3-2\\right)^3 \\\\\u003Cbr /\u003E&amp; =\\left(a^3\\right)^3-3 \\cdot\\left(a^3\\right)^2 \\cdot 2+3 \\cdot a^3 \\cdot 2^2-(2)^3\u003Cbr /\u003E&amp;\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[math]\\left[\\because(a-b)^3=a^3-3 a^2 b+3 a b^2-b^3\\right][/math]=a^9-6 a^6+12 a^3-8 .[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801508,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178c0d922c0a616b397e50\"\u003E[math]\\begin{aligned} \n&amp; \\text { সরল কর : }(x+3 y)^3-3(x+3 y)^2(x-3 y)+ \\\\ \n&amp; 3(x+3 y)(x-3 y)^2-(x-3 y)^3 \n\\end{aligned}[/math]\u003C/div\u003E",
+        "solution": "ধরি, [math]x+3 y=a[/math] এরং [math]x-3 y=b[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { প্রদত্ত রাশি } &amp; =a^3-3 a^2 b+3 a b^2-b^3 \\\\\u003Cbr /\u003E&amp; =(a-b)^3 \\\\\u003Cbr /\u003E&amp; =\\{(x+3 y)-(x-3 y)\\}^3 \\\\\u003Cbr /\u003E&amp; =(x+3 y-x+3 y)^3=(6 y)^3=216 y^3\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801510,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179057922c0a616b398a12\"\u003E[math]\\sqrt{x}+\\frac{1}{\\sqrt{x}}=\\sqrt{3}[/math] হলে, [math]x^3+\\frac{1}{x^3}[/math] এর এর মান কত?\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]\\sqrt{x}+\\frac{1}{\\sqrt{x}}=\\sqrt{3}[/math]\u003Cbr /\u003Eবा, [math]\\left(\\sqrt{x}+\\frac{1}{\\sqrt{x}}\\right)^2=(\\sqrt{3})^2[/math] [বর্গ করে]\u003Cbr /\u003Eবा, [math](\\sqrt{x})^2+2 \\cdot \\sqrt{x} \\cdot \\frac{1}{\\sqrt{x}}+\\left(\\frac{1}{\\sqrt{x}}\\right)^2=3[/math]\u003Cbr /\u003Eবा, [math]x+2+\\frac{1}{x}=3[math]\\therefore x+\\frac{1}{x}=3-2=1[/math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { প্রদত্ত রাশি } &amp; =x^3+\\frac{1}{x^3} \\\\\u003Cbr /\u003E&amp; =\\left(x+\\frac{1}{x}\\right)^3-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right) \\\\\u003Cbr /\u003E&amp; =(1)^3-3.1=1-3=-2\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান : [math]- 2 .[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801511,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681791ff922c0a616b398e84\"\u003Eসূত্রের সাহায্যে [math](a ^ 2 + 3)[/math] ও [math](a ^ 4 - 3a ^ 2 + 9)[/math] এর গুণফল নির্ণয় কর।\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\text { }\\left(\\mathrm{a}^2+3\\right)\\left(\\mathrm{a}^4-3 \\mathrm{a}^2+9\\right) \\\\\u003Cbr /\u003E&amp; =\\left(\\mathrm{a}^2+3\\right)\\left\\{\\left(\\mathrm{a}^2\\right)^2-\\mathrm{a}^2 \\cdot 3+(3)^2\\right\\} \\\\\u003Cbr /\u003E&amp; =\\left(\\mathrm{a}^2\\right)^3+(3)^3=\\mathrm{a}^6+27\u003Cbr /\u003E\\end{aligned}[/math]\u003Cbr /\u003Eনির্ণেয় গুণফল : [math]a^6+27[/math].",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801512,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179266922c0a616b398f46\"\u003Eসুত্রের সাহায্যে [math](2p-3q)[/math] ও [math](4p ^ 2 + 6pq + 9q ^ 2)[/math] এর গুণফল নির্ণয় কর।\u003C/div\u003E",
+        "solution": "[math](2 p-3 q)\\left(4 p^2+6 p q+9 q^2\\right)[math]=(2 p-3 q)\\left\\{(2 p)^2+2 p \\cdot 3 q+(3 q)^2\\right\\}[/math]=(2 p)^3-(3 q)^3=8 p^3-27 q^3[/math]\u003Cbr /\u003Eনির্ণেয় গুণফল : [math]8 p^3-27 q^3[/math].",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801513,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178d69922c0a616b3982ad\"\u003E[math]p + q =7[/math]&nbsp;হলে, [math]p ^ 3 + q ^ 3 + 21pq[/math] এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]p + q = 7[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { প্রদত্ত রাশি } &amp; =\\mathrm{p}^3+\\mathrm{q}^3+21 \\mathrm{pq} \\\\\u003Cbr /\u003E&amp; =(\\mathrm{p}+\\mathrm{q})^3-3 \\mathrm{pq}(\\mathrm{p}+\\mathrm{q})+21 \\mathrm{pq} \\\\\u003Cbr /\u003E&amp; =(7)^3-3 \\mathrm{pq} \\times 7+21 \\mathrm{pq} \\\\\u003Cbr /\u003E&amp; =343-21 \\mathrm{pq}+21 \\mathrm{pq}=343\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান: [math]343.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801514,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178db9922c0a616b39838a\"\u003E[math]4a - 3 =5[/math]&nbsp;হলে, [math]64a ^ 3 - 27 - 180a[/math] এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} \\text { প্রদত্ত রাশি } &amp; =64 a^3-27-180 \\mathrm{a} \\\\ &amp; =(4 a)^3-(3)^3-180 \\mathrm{a} \\\\ &amp; =(4 a-3)^3+3.4 \\mathrm{a} \\cdot 3(4 \\mathrm{a}-3)-180 \\mathrm{a} \\\\ &amp; =(5)^3+3.4 \\mathrm{a} \\cdot 3.5-180 \\mathrm{a} \\\\ &amp; =125+180 \\mathrm{a}-180 \\mathrm{a}=125\\end{aligned}[/math]\u003Cbr /\u003Eনির্ণেয় মান: [math]125.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801515,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178fcf922c0a616b398927\"\u003E[math]x =-7[/math] হলে, [math]x ^ 3 + 6x ^ 2 + 12x + 1[/math] এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]x=-7[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { প্রদত্ত রাশি } &amp; =x^3+6 x^2+12 x+1 \\\\\u003Cbr /\u003E&amp; =x^3+3 \\cdot x^2 \\cdot 2+3 \\cdot x \\cdot 2^2+2^3-7 \\\\\u003Cbr /\u003E&amp; =(x+2)^3-7 \\\\\u003Cbr /\u003E&amp; =(-7+2)^3-7=(-5)^3-7\\\\&amp;=-125-7=-132\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান : [math]- 132 .[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801509,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68178c66922c0a616b397edb\"\u003E[math]a + b = 4[/math] এবং [math]ab = 3[/math] হলে, [math]a ^ 3 + b ^ 3[/math] এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "দেওয়া আছে, [math]a + b = 4[/math] এবং [math]a b=3[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { প্রদত্ত রাশি } &amp; =a^3+b^3 \\\\\u003Cbr /\u003E&amp; =(a+b)^3-3 a b(a+b) \\\\\u003Cbr /\u003E&amp; =(4)^3-3.3 .4=64-36=28\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় মান: [math]28.[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801487,
+      "value": {
+        "options": {
+          "ক": "35",
+          "খ": "65",
+          "গ": "185",
+          "ঘ": "215"
+        },
+        "question": "\u003Cdiv\u003E[math]x-y=5 \\text { এবং } x y=6[/math]\u003Cbr\u003E\n[math]\\mathrm{x}^3-\\mathrm{y}^3[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; x^3-y^3=(x-y)^3+3 x y(x-y) \\\\\u003Cbr /\u003E&amp; \\quad=5^3+3.6 .5=125+90=215\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 801487,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801487,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801487,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801487,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801486,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{a}^3-\\mathrm{b}^3[/math] কে প্রকাশ করা যায়-\u003Cbr\u003E\ni. [math](a-b)\\left(a^2+a b+b^2\\right)[/math]\u003Cbr\u003E\nii. [math](a-b)^3+3 a b(a-b)[/math]\u003Cbr\u003E\niii. [math]a^3-3 a^2 b+3 a b^2-b^3[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801486,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801486,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801486,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801485,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]p+q=7 \\text { এবৎ } p q=2 \\text { হলে- }[/math]\u003Cbr\u003E\ni. [math]p^2-q^2=7 \\sqrt{41}[/math]\u003Cbr\u003E\nii. [math]p^2+q^2=45[/math]\u003Cbr\u003E\niii. [math]p^3-q^3=45 \\sqrt{41}[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4106,
+          "full_name": "ঢা. বো.'২০১৮",
+          "short_name": "ঢা. বো.'২০১৮",
+          "slug": "dha-bo2018",
+          "pivot": {
+            "question_bank_id": 801485,
+            "tag_id": 4106,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801485,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801485,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801485,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801484,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "9",
+          "গ": "18",
+          "ঘ": "27"
+        },
+        "question": "\u003Cdiv\u003Ex + y = 3 হলে x\u003Csup\u003E3\u003C/sup\u003E + y\u003Csup\u003E3\u003C/sup\u003E + 9xy এর মান কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 801484,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801484,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801484,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801483,
+      "value": {
+        "options": {
+          "খ": "2",
+          "গ": "12",
+          "ঘ": "14"
+        },
+        "question": "\u003Cdiv\u003Eযদি [math]x+\\frac{1}{x}=2[/math] হয় তাহলে [math]x^3+\\frac{1}{x^3}[/math] এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003Ex^3+\\frac{1}{x^3}=\\left(x+\\frac{1}{x}\\right)^3-3 \\cdot x \\cdot \\frac{1}{x}\\left(x+\\frac{1}{x}\\right)[/math][math]=2^3-3 \\times 2=2\u003Cbr /\u003E[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5638,
+          "full_name": "রা. বো.'২০১৭;রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৭;রা. বো.'২০১৬",
+          "slug": "ra-bo2017ra-bo2016",
+          "pivot": {
+            "question_bank_id": 801483,
+            "tag_id": 5638,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801483,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801483,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801482,
+      "value": {
+        "options": {
+          "ক": "25",
+          "খ": "125",
+          "গ": "140",
+          "ঘ": "305"
+        },
+        "question": "\u003Cdiv\u003E4x - 3 = 5 হলে,&nbsp;64x\u003Csup\u003E3\u003C/sup\u003E - 27 - 180x = কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 801482,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801482,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801482,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801481,
+      "value": {
+        "options": {
+          "ক": "-2",
+          "খ": "2",
+          "গ": "4",
+          "ঘ": "6"
+        },
+        "question": "\u003Cdiv\u003Ep\u003Csup\u003E3\u003C/sup\u003E - q\u003Csup\u003E3\u003C/sup\u003E = 45, p - q = 3 হলে, pq = কত?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; \\mathrm{p}^3-\\mathrm{q}^3=(\\mathrm{p}-\\mathrm{q})^3+3 \\mathrm{pq}(\\mathrm{p}-\\mathrm{q}) \\\\ &amp; \\Rightarrow 45=3^3+3 \\cdot \\mathrm{pq} \\cdot 3 \\\\&amp; \\Rightarrow 9 \\mathrm{pq}=45-27 \\Rightarrow \\mathrm{pq}=\\frac{18}{9}=2\\end{aligned}[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 801481,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801481,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801481,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801480,
+      "value": {
+        "options": {
+          "ক": "[math]x^6+8[/math]",
+          "খ": "[math]x^9+8[/math]",
+          "গ": "[math]x^6+4 x^3+4[/math]",
+          "ঘ": "[math]x^9+6 x^6+12 x^3+8[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{x}^3+2[/math] এর ঘন নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\left(x^3+2\\right)^3\\\\=\\left(x^3\\right)^3 +3 \\left({x}^3\\right)^2 \\cdot 2+3 \\cdot x^3 \\cdot(2)^2+(2)^3 \\\\\u003Cbr /\u003E=x^9+6 x^6+12 x^3+8\u003Cbr /\u003E[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4508,
+          "full_name": "ঢা. বো.'২০১৭;রা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৭;রা. বো.'২০১৬",
+          "slug": "dha-bo2017ra-bo2016",
+          "pivot": {
+            "question_bank_id": 801480,
+            "tag_id": 4508,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801480,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801480,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801479,
+      "value": {
+        "options": {
+          "ক": "[math]22 \\sqrt{2}[/math]",
+          "খ": "[math]10 \\sqrt{2}[/math]",
+          "গ": "[math]18 \\sqrt{3}[/math]",
+          "ঘ": "[math]30 \\sqrt{3}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{x}^2=5+2 \\sqrt{6}[/math]&nbsp;\u003Cbr\u003E\n[math]x^3-\\frac{1}{x^3}[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\left(x-\\frac{1}{x}\\right)^2=\\left(x+\\frac{1}{x}\\right)^2-4 \\cdot x \\cdot \\frac{1}{x}\\\\&amp;=(2 \\sqrt{3})^2-4=8 \\\\\u003Cbr /\u003E&amp; \\therefore x-\\frac{1}{x}=2 \\sqrt{2} \\\\\u003Cbr /\u003E&amp; x^3-\\frac{1}{x^3}=\\left(x-\\frac{1}{x}\\right)^3+3 \\cdot x \\frac{1}{x}\\left(x-\\frac{1}{x}\\right)\\\\&amp;=(2 \\sqrt{2})^3+3 \\times 2 \\sqrt{2}=22 \\sqrt{2}\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801479,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801479,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801479,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801478,
+      "value": {
+        "options": {
+          "ক": "[math]\\sqrt{3}-\\sqrt{2}[/math]",
+          "খ": "[math]\\sqrt{3}+\\sqrt{5}[/math]",
+          "গ": "[math]\\sqrt{3}+\\sqrt{2}[/math]",
+          "ঘ": "[math]\\sqrt{5}+\\sqrt{2}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{x}^2=5+2 \\sqrt{6}[/math]&nbsp;\u003Cbr\u003E\nx এর মান কত?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; x^2=5+2 \\sqrt{6}\\\\&amp;=(\\sqrt{3})^2+2 \\sqrt{3} \\cdot \\sqrt{2}+(\\sqrt{2})^2=(\\sqrt{3}+\\sqrt{2})^2 \\\\\u003Cbr /\u003E&amp; \\therefore x=\\sqrt{3}+\\sqrt{2}\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801478,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801478,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801478,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801477,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "3",
+          "গ": "5",
+          "ঘ": "[math]3 \\sqrt{2}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x^2+\\sqrt{3} x+1=0[/math]\u003Cbr\u003E\n[math]x^2+\\frac{1}{x^2}=[/math] কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801477,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801477,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801477,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801476,
+      "value": {
+        "options": {
+          "খ": "6",
+          "গ": "8",
+          "ঘ": "14"
+        },
+        "question": "\u003Cdiv\u003E[math]a+\\frac{1}{a}=2[/math]\u003Cbr\u003E\n[math]a^3-\\frac{1}{a^3}=[/math]&nbsp;এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801476,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801476,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801476,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801474,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "7",
+          "গ": "11",
+          "ঘ": "13"
+        },
+        "question": "\u003Cdiv\u003E[math]2x + y = 3, xy = 1[/math]\u003Cbr\u003E\n[math]4x ^ 2 + y ^ 2[/math] এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E(2 x+y)=3[/math]\u003Cbr /\u003Eবা, [math](2 x+y)^2=3^2[/math]\u003Cbr /\u003Eবা, [math]4 x^2+4 x y+y^2=9[/math]\u003Cbr /\u003Eবা, [math]4 x^2+4.1+y^2=9[\\because x y=1][/math][math]\u003Cbr /\u003E\\therefore 4 x^2+y^2=5\u003Cbr /\u003E[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4665,
+          "full_name": "সি. বো.'২০১৮",
+          "short_name": "সি. বো.'২০১৮",
+          "slug": "si-bo2018",
+          "pivot": {
+            "question_bank_id": 801474,
+            "tag_id": 4665,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801474,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801474,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801474,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801475,
+      "value": {
+        "options": {
+          "ক": "9",
+          "খ": "18",
+          "গ": "36",
+          "ঘ": "45"
+        },
+        "question": "\u003Cdiv\u003E[math]2x + y = 3, xy = 1[/math]\u003Cbr\u003E\n[math]8x ^ 3 + y ^ 3[/math] এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; 8 x^3+y^3=(2 x)^3+y^3 \\\\ &amp; =(2 x+y)^3-3 \\cdot 2 x \\cdot y(2 x+y) \\\\ &amp; =3^3-6 \\cdot 1 \\cdot 3=27-18=9\\end{aligned}[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4665,
+          "full_name": "সি. বো.'২০১৮",
+          "short_name": "সি. বো.'২০১৮",
+          "slug": "si-bo2018",
+          "pivot": {
+            "question_bank_id": 801475,
+            "tag_id": 4665,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801475,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801475,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801475,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801488,
+      "value": {
+        "options": {
+          "ক": "- 35",
+          "খ": "- 17",
+          "গ": "19",
+          "ঘ": "35"
+        },
+        "question": "\u003Cdiv\u003E[math]x + y = 5[/math] এবং [math]x - y = 1[/math]\u003Cbr\u003E\n[math]x ^ 3 - y ^ 3[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4658,
+          "full_name": "দি. বো.'২০১৮",
+          "short_name": "দি. বো.'২০১৮",
+          "slug": "di-bo2018",
+          "pivot": {
+            "question_bank_id": 801488,
+            "tag_id": 4658,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801488,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801488,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801488,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801489,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "5",
+          "গ": "10",
+          "ঘ": "16"
+        },
+        "question": "\u003Cdiv\u003E[math]a+\\frac{1}{a}=2[/math]\u003Cbr\u003E\n[math]a^5+\\frac{1}{a^5}[/math]&nbsp;এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801489,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801489,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801489,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801490,
+      "value": {
+        "options": {
+          "ক": "[math]x^6+3 x^4+3 x^2+1[/math]",
+          "খ": "[math]x^6-3 x^4+3 x^2-1[/math]",
+          "গ": "[math]x^5+3 x^4+3 x^2+1[/math]",
+          "ঘ": "[math]x^5+3 x^4+3 x+1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{A}=\\mathrm{x}^2-1, \\mathrm{~B}=\\mathrm{x}^4+\\mathrm{x}^2+1[/math]&nbsp;\u003Cbr\u003E\nA এর ঘন নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4294,
+          "full_name": "গভর্নমেন্ট ল্যাবরেটরি হাই স্কুল, ঢাকা",
+          "short_name": "গভর্নমেন্ট ল্যাবরেটরি হাই স্কুল, ঢাকা",
+          "slug": "gvrnment-lzabretri-hai-skul-dhaka",
+          "pivot": {
+            "question_bank_id": 801490,
+            "tag_id": 4294,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801490,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801490,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801490,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801491,
+      "value": {
+        "options": {
+          "ক": "793",
+          "খ": "2089",
+          "গ": "2305",
+          "ঘ": "2521"
+        },
+        "question": "\u003Cdiv\u003E3p + 2q = 13 এবং pq = 6 হলে, 27p\u003Csup\u003E3\u003C/sup\u003E + 8q\u003Csup\u003E3\u003C/sup\u003E এর মান কত?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; 27 p^3+8 q^3=(3 p)^3+(2 q)^3 \\\\ &amp; =(3 p+2 q)^3-3.3 p .2 q(3 p+2 q)\\\\&amp;=(13)^3-18.6 .13 \\\\ &amp; =2197-1404=793\\end{aligned}[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 801491,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801491,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801491,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801492,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x^2-2 x+1=0 \\text { হলে- }[/math]\u003Cbr\u003E\ni. [math]\\left(x-\\frac{1}{x}\\right)^2=0[/math]\u003Cbr\u003E\nii. [math]x^2+\\frac{1}{x^2}=2[/math]\u003Cbr\u003E\niii. [math]x^3-\\frac{1}{x^3}=3[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 801492,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801492,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801492,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801492,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801493,
+      "value": {
+        "options": {
+          "ক": "[math]x^6-1[/math]",
+          "খ": "[math]\\mathrm{x}^6+1[/math]",
+          "গ": "[math]\\mathrm{x}^4+1[/math]",
+          "ঘ": "[math]x^4-1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{A}=\\mathrm{x}^2-1, \\mathrm{~B}=\\mathrm{x}^4+\\mathrm{x}^2+1[/math]&nbsp;\u003Cbr\u003E\nA ও B এর গুণফল কত?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4294,
+          "full_name": "গভর্নমেন্ট ল্যাবরেটরি হাই স্কুল, ঢাকা",
+          "short_name": "গভর্নমেন্ট ল্যাবরেটরি হাই স্কুল, ঢাকা",
+          "slug": "gvrnment-lzabretri-hai-skul-dhaka",
+          "pivot": {
+            "question_bank_id": 801493,
+            "tag_id": 4294,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801493,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801493,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801493,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801494,
+      "value": {
+        "options": {
+          "ক": "[math]2^{\\frac{1}{3}}[/math]",
+          "খ": "[math]2 \\sqrt{2}[/math]",
+          "গ": "[math]3 \\sqrt{2}[/math]",
+          "ঘ": "[math]8[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\sqrt{2}[/math] এর ঘন কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 801494,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801494,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801494,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801495,
+      "value": {
+        "options": {
+          "ক": "27",
+          "খ": "26",
+          "গ": "8",
+          "ঘ": "1"
+        },
+        "question": "\u003Cdiv\u003Ea + b = 4 এবং a - b = 2 হলে a\u003Csup\u003E3\u003C/sup\u003E&nbsp;- b\u003Csup\u003E3\u003C/sup\u003E&nbsp;= কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 801495,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801495,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801495,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801496,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{p}^3[/math]",
+          "খ": "[math]\\mathrm{p}^3-3 \\mathrm{p}[/math]",
+          "গ": "[math]\\mathrm{p}^3+3 \\mathrm{p}[/math]",
+          "ঘ": "[math]0[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\frac{a}{b}+\\frac{b}{a}=p[/math] হলে, [math]\\frac{a^3}{b^3}+\\frac{b^3}{a^3}[/math] এর মান কত?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801496,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801496,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801497,
+      "value": {
+        "options": {
+          "ক": "[math]1[/math]",
+          "খ": "[math]0[/math]",
+          "গ": "[math]x^2+z^2[/math]",
+          "ঘ": "[math]6 x y z+2 z^3[/math]"
+        },
+        "question": "\u003Cdiv\u003Eযদি [math]\\mathrm{x}+\\mathrm{y}=-\\mathrm{z}[/math] হয়, তবে [math]\\mathrm{x}^3+\\mathrm{y}^3+\\mathrm{z}^3-3 \\mathrm{xyz}[/math] এর মান কত?&nbsp;\u003C/div\u003E",
+        "solution": "[math]x+y=-z[/math] বা, [math]x^3+y^3+3 x y(x+y)=-z^3[/math]\u003Cbr /\u003Eবা, [math]\\mathrm{x}^3+\\mathrm{y}^3+3 \\mathrm{xy}(-\\mathrm{z})+\\mathrm{z}^3=0 \\quad [/math][math]\\therefore \\mathrm{x}^3+\\mathrm{y}^3+\\mathrm{z}^3-3 \\mathrm{xyz}=0[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3843,
+          "full_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "short_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "slug": "dhaka-residensiyal-mdel-klej",
+          "pivot": {
+            "question_bank_id": 801497,
+            "tag_id": 3843,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801497,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801497,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801498,
+      "value": {
+        "options": {
+          "ক": "[math]a^3-b^3[/math]",
+          "খ": "[math]a^3+b^3[/math]",
+          "গ": "[math](\\mathrm{a}+\\mathrm{b})^3[/math]",
+          "ঘ": "[math](\\mathrm{a}-\\mathrm{b})^3[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a+b[/math] এর সাথে [math]a^2-a b+b^2[/math] কে গুণ করলে কী পাওয়া যায়?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801498,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801498,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801499,
+      "value": {
+        "options": {
+          "খ": "[math]6 \\sqrt{3}[/math]",
+          "গ": "[math]3 \\sqrt{3}[/math]",
+          "ঘ": "[math]6 \\sqrt{2}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x^2+\\sqrt{3} x+1=0[/math]\u003Cbr\u003E\n[math]x^3+\\frac{1}{x^3}[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801499,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801499,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801499,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801500,
+      "value": {
+        "options": {
+          "ক": "[math]2 \\sqrt{3}[/math]",
+          "খ": "[math]2 \\sqrt{2}[/math]",
+          "গ": "[math]3 \\sqrt{2}[/math]",
+          "ঘ": "[math]3 \\sqrt{3}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{x}^2=5+2 \\sqrt{6}[/math]&nbsp;\u003Cbr\u003E\n[math]x+\\frac{1}{x}[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003Ex=\\sqrt{3}+\\sqrt{2} \\text { বা, } \\frac{1}{x}=\\frac{1}{\\sqrt{3}+\\sqrt{2}}=\\frac{\\sqrt{3}-\\sqrt{2}}{(\\sqrt{3}+\\sqrt{2})(\\sqrt{3}-\\sqrt{2})}[/math]\u003Cbr /\u003Eবা, [math]\\frac{1}{x}=\\frac{\\sqrt{3}-\\sqrt{2}}{(\\sqrt{3})^2-(\\sqrt{2})^2} \\therefore \\frac{1}{x}=\\sqrt{3}-\\sqrt{2}[/math][math]\u003Cbr /\u003E\\therefore x+\\frac{1}{x}=\\sqrt{3}+\\sqrt{2}+\\sqrt{3}-\\sqrt{2}=2 \\sqrt{3}\u003Cbr /\u003E[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801500,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801500,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801500,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801442,
+      "value": {
+        "options": {
+          "ক": "81",
+          "খ": "91",
+          "গ": "100",
+          "ঘ": "110"
+        },
+        "question": "\u003Cdiv\u003E[math]x - y = 1[/math] এবং [math]xy =30[/math]&nbsp;হলে, [math]x ^ 3 - y ^ 3[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "খ. 91",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801442,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801452,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "2",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "\u003Cdiv\u003E[math]3 \\mathrm{a}-\\frac{3}{\\mathrm{a}}=6[/math] হলে, [math]\\mathrm{a}-\\frac{1}{\\mathrm{a}}[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "খ. 2",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801451,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "9",
+          "গ": "18",
+          "ঘ": "27"
+        },
+        "question": "\u003Cdiv\u003E[math]x + y =3[/math]&nbsp;হলে, [math]x³ + y³ + 9xy[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "ঘ. 27",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801451,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801450,
+      "value": {
+        "options": {
+          "ক": "[math]a ^ 3 - b ^ 3 + 3ab(a - b) [/math]",
+          "খ": "[math]a ^ 3 - b ^ 3 - 3ab(a - b) [/math]",
+          "গ": "[math]a ^ 3 + 3a ^ 2 * b - 3a * b ^ 2 + b ^ 3 [/math]",
+          "ঘ": "[math](a - b)(a ^ 2 - ab + b ^ 2)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a - b[/math] এর ঘনফল নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. [math]a ^ 3 - b ^ 3 - 3ab(a - b) [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801450,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801449,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "\u003Cdiv\u003E[math]x^2+2, a^2+b^2, x^4-2 x^2+4, a^4-a^2 b^2+b^4[/math] চারটি বীজগণিতীয় রাশি।\u003Cbr\u003E\n[math]a = - 1, b = 1[/math] হলে, ২য় ও ৪র্থ রাশির গুণফলের মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. 2",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801449,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801449,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801448,
+      "value": {
+        "options": {
+          "ক": "65",
+          "খ": "64",
+          "গ": "63",
+          "ঘ": "62"
+        },
+        "question": "\u003Cdiv\u003E[math]a = 4[/math] এবং [math]b = 1[/math] হলে, [math](a - b)(a ^ 2 + ab + b ^ 2)[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "গ. 63",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801447,
+      "value": {
+        "options": {
+          "ক": "[math](a - b)(a ^ 2 - ab + b ^ 2)[/math]",
+          "খ": "[math](a - b)(a ^ 2 + ab + b ^ 2)[/math]",
+          "গ": "[math](a + b)(a ^ 2 + ab + b ^ 2)[/math]",
+          "ঘ": "[math](a + b)(a ^ 2 - ab + b ^ 2) [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a ^ 3 - b ^ 3[/math] =&nbsp;কত?\u003C/div\u003E",
+        "solution": "খ. [math](a - b)(a ^ 2 + ab + b ^ 2)[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801447,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801446,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "4 &nbsp; ",
+          "গ": "6",
+          "ঘ": "8"
+        },
+        "question": "\u003Cdiv\u003E[math]x + y = 2[/math] হলে\u003Cbr\u003E\n[math]xy = 1[/math] হলে [math]x ^ 3 + y ^ 3 =[/math] কত?\u003C/div\u003E",
+        "solution": "ক. 2",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801446,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801446,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801445,
+      "value": {
+        "options": {
+          "ক": "380",
+          "খ": "400 ",
+          "গ": "3800",
+          "ঘ": "4000"
+        },
+        "question": "\u003Cdiv\u003E[math]a - b = 10[/math] এবং [math]ab = 30[/math] হলে, [math]2(a ^ 3 - b ^ 3) =[/math]&nbsp;কত ?\u003C/div\u003E",
+        "solution": "গ. 3800",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801444,
+      "value": {
+        "options": {
+          "ক": "6",
+          "খ": "7 ",
+          "গ": "8",
+          "ঘ": "4"
+        },
+        "question": "\u003Cdiv\u003E[math]x-\\frac{1}{x}=1[/math] হলে [math]x^3-\\frac{1}{x^3}=[/math] কত?\u003C/div\u003E",
+        "solution": "ঘ. 4",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801443,
+      "value": {
+        "options": {
+          "খ": "2",
+          "গ": "32",
+          "ঘ": "40"
+        },
+        "question": "\u003Cdiv\u003E[math]p+\\frac{1}{p}=2[/math] হলে [math]\\left(p^3-\\frac{1}{p^3}\\right)\\left(p^3+\\frac{1}{p^3}\\right)[/math]&nbsp;এর মান কোনটি?\u003C/div\u003E",
+        "solution": "ক. 0",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801443,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801453,
+      "value": {
+        "options": {
+          "ক": "3(a + b)",
+          "খ": "(a + b) (a - b)\u003Csup\u003E2\u003C/sup\u003E",
+          "গ": "3(a + b)(a + b)",
+          "ঘ": "(a + b) (a + b)\u003Csup\u003E2\u003C/sup\u003E"
+        },
+        "question": "\u003Cdiv\u003E(a + b)\u003Csup\u003E3\u003C/sup\u003E এর আকার নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. (a + b) (a + b)\u003Csup\u003E2\u003C/sup\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801441,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "6",
+          "গ": "9",
+          "ঘ": "11"
+        },
+        "question": "\u003Cdiv\u003E[math]x^2+2, a^2+b^2, x^4-2 x^2+4, a^4-a^2 b^2+b^4[/math] চারটি বীজগণিতীয় রাশি।\u003Cbr\u003E\n[math]x = 1[/math] হলে ১ম ও ৩য় রাশির গুণফলের মান কত?\u003C/div\u003E",
+        "solution": "গ. 9",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801441,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801441,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801440,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{9}{8}[/math]",
+          "খ": "[math]-\\frac{9}{8}[/math]",
+          "গ": "[math]\\frac{27}{2}[/math]",
+          "ঘ": "[math]\\frac{-27}{8}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]3 x+\\frac{1}{2 x}=3[/math] হলে, [math]27 x^3+\\frac{1}{8 x^3}=[/math] কত ?\u003C/div\u003E",
+        "solution": "গ. [math]\\frac{27}{2}[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801439,
+      "value": {
+        "options": {
+          "ক": "36",
+          "খ": "54 ",
+          "গ": "9",
+          "ঘ": "27"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{a}-\\frac{1}{\\mathrm{a}}=4[/math] এবং [math]\\mathrm{a}-\\frac{1}{\\mathrm{a}}=3[/math] হলে-\u003Cbr\u003E\n[math]a-\\frac{1}{a}[/math]&nbsp;এর ঘন এর মান কত?\u003C/div\u003E",
+        "solution": "ঘ. 27",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801439,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801438,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii ",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math](a-b)^3[/math] এর সমান -\u003Cbr\u003E\ni. [math](a-b)^3=a^3-b^3+3 a b(a-b)[/math]\u003Cbr\u003E\nii. [math](a-b)^3=a^3-3 a^2 b+3 a b^2-b^3[/math]\u003Cbr\u003E\niii. [math](a - b) ^ 3 = a ^ 3 - b ^ 3 - 3ab(a - b)[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "খ. ii ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801438,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801437,
+      "value": {
+        "options": {
+          "ক": "8",
+          "খ": "10 ",
+          "গ": "15",
+          "ঘ": "18"
+        },
+        "question": "\u003Cdiv\u003E[math]a+\\frac{1}{a}=3[/math] হলে [math]a^3+\\frac{1}{a^3}=[/math] কত?\u003C/div\u003E",
+        "solution": "ঘ. 18",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801436,
+      "value": {
+        "options": {
+          "ক": "620",
+          "খ": "520 ",
+          "গ": "420",
+          "ঘ": "320"
+        },
+        "question": "\u003Cdiv\u003E[math]a + b = 10,ab=16[/math] হলে [math]a ^ 3 + b ^ 3 =[/math] কত?\u003C/div\u003E",
+        "solution": "খ. 520",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801435,
+      "value": {
+        "options": {
+          "ক": "18 - 9xy",
+          "খ": "18 + 9xy",
+          "গ": "[math]\\frac{63}{4}[/math]",
+          "ঘ": "27 + 3xy"
+        },
+        "question": "\u003Cdiv\u003E[math]x + y = 3, x - y = 2[/math] হলে [math]x ^ 3 + y ^ 3[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "গ. [math]\\frac{63}{4}[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801434,
+      "value": {
+        "options": {
+          "ক": "18",
+          "খ": "27",
+          "গ": "36",
+          "ঘ": "45"
+        },
+        "question": "\u003Cdiv\u003E[math]a-\\frac{1}{a}=3[/math] হলে [math]a^3-\\frac{1}{a^3}=[/math] কত?\u003C/div\u003E",
+        "solution": "গ. 36",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801433,
+      "value": {
+        "options": {
+          "ক": "[math](\\sqrt{3})^3+\\sqrt{3}[/math]",
+          "খ": "[math](\\sqrt{3})^3-3[/math]",
+          "গ": "[math]\\sqrt{3}+3[/math]",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(0\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cdiv\u003E[math]\\left(x+\\frac{1}{x}\\right)^2=3[/math] হলে, [math]x^3+\\frac{1}{x^3}=[/math] কত?\u003C/div\u003E",
+        "solution": null,
+        "correct_answer": null
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801432,
+      "value": {
+        "options": {
+          "ক": "[math]3\\sqrt{3}[/math]",
+          "খ": "2",
+          "গ": "[math]2+\\sqrt{3}[/math]",
+          "ঘ": "[math]3\\sqrt{2}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x+\\frac{1}{x}=\\sqrt{3}[/math] হলে, [math]x^3+\\frac{1}{x^3}+2[/math] কত?\u003C/div\u003E",
+        "solution": "খ. 2",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801432,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801463,
+      "value": {
+        "options": {
+          "ক": "338",
+          "খ": "336",
+          "গ": "334",
+          "ঘ": "332"
+        },
+        "question": "\u003Cdiv\u003E[math]a = 5[/math] হলে, [math]a ^ 3 + 6a ^ 2 + 12a + 1[/math] এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. 336",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801463,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801473,
+      "value": {
+        "options": {
+          "ক": "12",
+          "খ": "13",
+          "গ": "24",
+          "ঘ": "26"
+        },
+        "question": "\u003Cdiv\u003E[math]x + y = 5[/math] এবং [math]x - y = 1[/math]\u003Cbr\u003E\n[math]2(x ^ 2 + y ^ 2)[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4658,
+          "full_name": "দি. বো.'২০১৮",
+          "short_name": "দি. বো.'২০১৮",
+          "slug": "di-bo2018",
+          "pivot": {
+            "question_bank_id": 801473,
+            "tag_id": 4658,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801473,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801473,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801473,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801472,
+      "value": {
+        "options": {
+          "ক": "37",
+          "খ": "35",
+          "গ": "25",
+          "ঘ": "5"
+        },
+        "question": "\u003Cdiv\u003E[math]x-y=5 \\text { এবং } x y=6[/math]\u003Cbr\u003E\n[math]\\mathrm{x}^2-\\mathrm{y}^2[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; (x+y)^2=(x-y)^2+4 x y\\\\&amp;=5^2+4.6=25+24=49 \\\\\u003Cbr /\u003E&amp; \\therefore x+y=7 \\\\\u003Cbr /\u003E&amp; \\therefore x^2-y^2=(x+y)(x-y)=7 \\times 5=35\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 801472,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801472,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801472,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801472,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801471,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x+y=6 \\text { এবং } x y=5 \\text { হলে- }[/math]\u003Cbr\u003E\ni. [math]x-y=4[/math]\u003Cbr\u003E\nii. [math]x^3-y^3=124[/math]\u003Cbr\u003E\niii. [math]x^3+y^3=130[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "(i) [math]x+y=6[/math]\u003Cbr /\u003Eবা, [math](x+y)^2=36[/math] বা,[math](x-y)^2+4 x y=36[/math]\u003Cbr /\u003Eবা, [math](x-y)^2=36-20 \\therefore x-y=4[/math]\u003Cbr /\u003E(ii) [math]x^3-y^3=(x-y)^3+3 x y(x-y)[math]=(4)^3+3.5 .4=124[/math]\u003Cbr /\u003E(iii) [math]x^3+y^3=(x+y)^3-3 x y(x+y)[/math]=(6)^3-3.5 .6=126[/math][math]\\therefore[/math] (iii) নং সত্য নয়।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 801471,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801471,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801471,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801471,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801470,
+      "value": {
+        "options": {
+          "ক": "[math]3 \\sqrt{3}[/math]",
+          "খ": "[math]2 \\sqrt{3}[/math]",
+          "গ": "[math]1[/math]",
+          "ঘ": "[math]0[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x+y=\\sqrt{3}, x y=1 \\text { হলে } x^3+y^3=\\text { কত ? }[/math]\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; x^3+y^3=(x+y)^3-3 x y(x+y)\\\\&amp;=(\\sqrt{3})^3-3 \\times 1 \\times \\sqrt{3} \\\\\u003Cbr /\u003E&amp; =3 \\sqrt{3}-3 \\sqrt{3}=0\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4303,
+          "full_name": "আদমজী ক্যান্টনমেন্ট পাবলিক স্কুল, ঢাকা",
+          "short_name": "আদমজী ক্যান্টনমেন্ট পাবলিক স্কুল, ঢাকা",
+          "slug": "admjee-kzantnment-pablik-skul-dhaka",
+          "pivot": {
+            "question_bank_id": 801470,
+            "tag_id": 4303,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801470,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801470,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801469,
+      "value": {
+        "options": {
+          "ক": "[math]0[/math]",
+          "খ": "[math]\\sqrt{3}[/math]",
+          "গ": "[math]5 \\sqrt{3}[/math]",
+          "ঘ": "[math]6 \\sqrt{3}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x+\\frac{1}{x}=\\sqrt{3} \\text { হলে, } x^3+\\frac{1}{x^3}=\\text { কত? }[/math]\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 801469,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801469,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801469,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801468,
+      "value": {
+        "options": {
+          "ক": "242",
+          "খ": "422",
+          "গ": "622",
+          "ঘ": "722"
+        },
+        "question": "\u003Cdiv\u003Ex = 7 হলে, x\u003Csup\u003E3\u003C/sup\u003E&nbsp;+ 6x\u003Csup\u003E2\u003C/sup\u003E&nbsp;+ 12x + 1 এর মান কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3852,
+          "full_name": "য. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৫",
+          "slug": "z-bo2015",
+          "pivot": {
+            "question_bank_id": 801468,
+            "tag_id": 3852,
+            "year": null,
+            "created_at": "2025-12-16T14:23:11.000000Z",
+            "updated_at": "2025-12-16T14:23:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801468,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801468,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801467,
+      "value": {
+        "options": {
+          "ক": "[math](a - b) ^ 3 [/math]",
+          "খ": "[math](a - b) ^ 3 + 3ab(a - b) [/math]",
+          "গ": "[math](a - b) ^ 3 - 3ab(a - b) [/math]",
+          "ঘ": "[math](a + b) ^ 3 + 3ab(a + b)[/math]"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি [math]a ^ 3 - b ^ 3[/math] এর মান?\u003C/div\u003E",
+        "solution": "খ. [math](a - b) ^ 3 + 3ab(a - b) [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801466,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii ",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eনিচের তথ্যগুলো লক্ষ কর:\u003Cbr\u003E\ni. [math]a^3+b^3=(a+b)^3-3 a b(a+b)[/math]\u003Cbr\u003E\nii. [math](a-b)^3=(a-b)\\left(a^2-2 a b+b^2\\right)[/math]\u003Cbr\u003E\niii. [math]a-b=3[/math] এবং [math]a b=1[/math] হলে [math]a^3-b^3=27[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801466,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801466,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801465,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "2",
+          "গ": "1",
+          "ঘ": "4"
+        },
+        "question": "\u003Cdiv\u003Ex = 2a - 3b&nbsp;এবং&nbsp;a = 2, b = 1 হলে, x\u003Csup\u003E3\u003C/sup\u003E এর মান কত?\u003C/div\u003E",
+        "solution": "গ. 1",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801464,
+      "value": {
+        "options": {
+          "ক": "125",
+          "খ": "110",
+          "গ": "75",
+          "ঘ": "25"
+        },
+        "question": "\u003Cdiv\u003E[math]4x - 3 = 5[/math]&nbsp;হলে [math]64x ^ 3 - 27 - 180x[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "ক. 125",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801464,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801431,
+      "value": {
+        "options": {
+          "ক": "[math](a + b) ^ 3 - 3ab(a + b) [/math]",
+          "খ": "[math](a - b) ^ 3 + 3ab(a + b) [/math]",
+          "গ": "[math](a + b)(a ^ 2 + ab + b ^ 2) [/math]",
+          "ঘ": "[math](a - b)(a ^ 2 + ab + b ^ 2)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a ^ 3 + b ^ 3 =[/math]&nbsp;কত?\u003C/div\u003E",
+        "solution": "খ. [math](a - b) ^ 3 + 3ab(a + b) [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801431,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801462,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "-1",
+          "গ": "2",
+          "ঘ": "-2"
+        },
+        "question": "\u003Cdiv\u003E[math]a = 2, b = - 1[/math] হলে [math]8a ^ 3 + 36a ^ 2&nbsp; b + 54a&nbsp; b ^ 2 + 27b ^ 3[/math] এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. 1",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801462,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801461,
+      "value": {
+        "options": {
+          "ক": "[math](a + b) ^ 3 - 3ab(a + b) [/math]",
+          "খ": "[math](a + b) ^ 3 - 3ab(a - b) [/math]",
+          "গ": "[math](a - b) ^ 3 + 3ab(a - b) [/math]",
+          "ঘ": "[math](a + b)(a ^ 2 - ab + b ^ 2)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a ^ 3 - b ^ 3 &nbsp;=[/math]&nbsp;কত?\u003C/div\u003E",
+        "solution": "গ. [math](a - b) ^ 3 + 3ab(a - b) [/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801461,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801460,
+      "value": {
+        "options": {
+          "খ": "1",
+          "গ": "2",
+          "ঘ": "3"
+        },
+        "question": "\u003Cdiv\u003E[math]a = 2, b = - 1[/math] হলে [math]a ^ 3 + 3a ^ 2&nbsp; b + 3a&nbsp; b ^ 2 + b ^ 3[/math] এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. 1",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801460,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801459,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eনিচের তথ্যগুলো লক্ষ কর:\u003Cbr\u003E\ni. [math](x+a)\\left(x^2-a x+a^2\\right)=x^3+a^3[/math]\u003Cbr\u003E\nii. [math](x-a)\\left(x^2+a x+a^2\\right)=x^3-a^3[/math]\u003Cbr\u003E\niii. [math]\\mathrm{x}^3-1=(\\mathrm{x}+1)\\left(\\mathrm{x}^2-\\mathrm{x}+1\\right)[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801459,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801459,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801458,
+      "value": {
+        "options": {
+          "ক": "216",
+          "খ": "633",
+          "গ": "512",
+          "ঘ": "729"
+        },
+        "question": "\u003Cdiv\u003E[math]a=4[/math] হলে, [math]8a ^ 3 + 6a ^ 2 + 6a + 1[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "খ. 633",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801457,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "\u003Cdiv\u003E[math]a = 1, b=-1[/math] হলে [math]\\left(a^2+b^2\\right)\\left(a^4-a^2 b^2+b^4\\right)[/math] এর মান কত?\u003C/div\u003E",
+        "solution": "খ. 2",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801457,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801456,
+      "value": {
+        "options": {
+          "ক": "[math](a + b)(a ^ 2 - ab + b ^ 2) [/math]",
+          "খ": "[math](a + b)(a ^ 2 + ab + b ^ 2) [/math] ",
+          "গ": "[math](a - b)(a ^ 2 - ab + b ^ 2) [/math]",
+          "ঘ": "[math](a - b)(a ^ 2 + ab + b ^ 2)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a ^ 3 + b ^ 3[/math] সমান কোনটি?\u003C/div\u003E",
+        "solution": "ক. [math](a + b)(a ^ 2 - ab + b ^ 2) [/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801456,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801455,
+      "value": {
+        "options": {
+          "ক": "66",
+          "খ": "54 ",
+          "গ": "56",
+          "ঘ": "52"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{a}-\\frac{1}{\\mathrm{a}}=4[/math] এবং [math]\\mathrm{a}-\\frac{1}{\\mathrm{a}}=3[/math] হলে-\u003Cbr\u003E\n[math]a^3+\\frac{1}{a^3}[/math]&nbsp;এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. 52",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801455,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801454,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "4 ",
+          "গ": "6",
+          "ঘ": "8"
+        },
+        "question": "\u003Cdiv\u003E[math]x + y = 2[/math] হলে\u003Cbr\u003E\n[math]x ^ 3 + y ^ 3 + 6xy[/math] এর মান নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. 8",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801454,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801454,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15566&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15566&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15566&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 86,
+  "total": 86
+}

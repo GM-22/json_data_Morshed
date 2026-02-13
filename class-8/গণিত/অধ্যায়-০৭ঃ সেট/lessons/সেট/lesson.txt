@@ -1,0 +1,1840 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 802369,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818d0e7922c0a616b3cba44\"\u003EC = {x : x, মৌলিক সংখ্যা এবং x &lt; 25} সেটটি তালিকা পদ্ধতিতে প্রকাশ কর।\u003C/div\u003E",
+        "solution": "দেওয়া আছে, C = {x : x, মৌলিক সংখ্যা এবং x &lt; 25}\u003Cbr /\u003Eপ্রদত্ত সেটটি 25 অপেক্ষা ছোট মৌলিক সংখ্যাসমূহের সেট।\u003Cbr /\u003E25 অপেক্ষা ছোট মৌলিক সংখ্যাসমূহ:\u003Cbr /\u003E2, 3, 5, 7, 11, 13, 17, 19, 23[math]\\therefore[/math]C = {2, 3, 5, 7, 11, 13, 17, 19, 23}\u003Cbr /\u003Eনির্ণেয় সেট C = {2, 3, 5, 7, 11, 13, 17, 19, 23}.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802357,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c788922c0a616b3c8fd5\"\u003Eসেটের তালিকা পদ্ধতি বলতে কী বুঝ?\u003C/div\u003E",
+        "solution": "যে পদ্ধতিতে সেটের সকল উপাদান সুনির্দিষ্টভাবে উল্লেখ করা থাকে, তাকে সেটের তালিকা পদ্ধতি বলা হয়। উপাদান সংখ্যা একাধিক হলে কমা ব্যবহার করে উপাদানগুলোকে পৃথক করা হয়। যেমন: A = {1, 2, 3}.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802358,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c7aa922c0a616b3c907a\"\u003Eউদাহরণসহ সেট গঠন পদ্ধতি ব্যাখ্যা কর।\u003C/div\u003E",
+        "solution": "সেট গঠন পদ্ধতিতে সেটের সকল উপাদান সুনির্দিষ্টভাবে উল্লেখ না করে উপাদান নির্ধারণের জন্য শর্ত দেওয়া থাকে। যেমন: 8 এর চেয়ে ছোট স্বাভাবিক জোড় সংখ্যার সেট A হলে, A = {x : x স্বাভাবিক জোড় সংখ্যা এবং x &lt; ৪}.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802359,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818cc2e922c0a616b3ca591\"\u003E[math]\\left\\{x: x\\right.[/math], পূর্ণসংখ্যা এবং [math]\\left.x^2&lt;15\\right\\}[/math] সেটটিকে তালিকা পদ্ধতিতে প্রকাশ কর।\u003C/div\u003E",
+        "solution": "ধরি, [math]A=\\left\\{x: x\\right.[/math]. পূর্ণসংখ্যা এবং [math]\\left.x^2&lt;15\\right\\}[/math]\u003Cbr /\u003Eপ্রদত্ত সেটটি পূর্ণসংখ্যার সেট যার বর্গ 15 অপেক্ষা ছোট\u003Cbr /\u003Eএখন,[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; x=0 \\text { হলে, } x^2=(0)^2=0&lt;15 \\\\\u003Cbr /\u003E&amp; x= \\pm 1 \\text { হলে, } x^2=( \\pm 1)^2=1&lt;15 \\\\\u003Cbr /\u003E&amp; x= \\pm 2 \\text { হলে, } x^2=( \\pm 2)^2=4&lt;15 \\\\\u003Cbr /\u003E&amp; x= \\pm 3 \\text { হলে, } x^2 =( \\pm 3)^2=9&lt;15 \\\\\u003Cbr /\u003E&amp; x= \\pm 4 \\text { হলে, } x^2=( \\pm 4)^2=16 \\nless 15\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনির্ণেয় সেট [math]A=\\{-3,-2,-1,0,1,2,3\\}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802360,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c8e4922c0a616b3c9519\"\u003EB = {3, 6, 9, 12, 15} সেটটি সেট গঠন পদ্ধতিতে প্রকাশ কর।\u003C/div\u003E",
+        "solution": "B সেটের উপাদানসমূহ 3, 6, 9, 12, 15\u003Cbr /\u003Eএখানে, প্রত্যেকটি উপাদান স্বাভাবিক সংখ্যা, 3 এর গুণিতক\u003Cbr /\u003Eএবং 15 এর বড় নয়।[math]\\therefore[/math]B = {x &isin; N : x, 3 এর গুণিতক এবং x[math]\\leq[/math] 15}",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802361,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818d147922c0a616b3cbba7\"\u003EQ = {- 3, - 2, - 1, 0, 1} সেটটিকে সেট গঠন পদ্ধতিতে প্রকাশ কর।\u003C/div\u003E",
+        "solution": "দেওয়া আছে, Q = {- 3, - 2, - 1, 0, 1}\u003Cbr /\u003Eএখানে, Q একটি পূর্ণসংখ্যার সেট। এর উপাদানগুলো - 3 অপেক্ষা ক্ষুদ্রতর নয় এবং 1 অপেক্ষা বৃহত্তর নয়।[math]\\therefore[/math] সেট গঠন পদ্ধতিতে, [math]Q=\\{x \\in Z:-3 \\leq x \\leq 1\\}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802362,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c763922c0a616b3c8ed9\"\u003Eসেট বলতে কী বুঝ?\u003C/div\u003E",
+        "solution": "বাস্তব বা চিন্তাজগতের সু-সংজ্ঞায়িত বস্তুর সমাবেশ বা সংগ্রহকে সেট বলে। যেমন: {a, b, c, d} একটি সেট। সেটের প্রত্যেকটি বস্তুকে সেটের উপাদান বলা হয়। সেটকে সাধারণত ইংরেজি বর্ণমালার বড় হাতের অক্ষর দ্বারা প্রকাশ করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802363,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c77c922c0a616b3c8f39\"\u003Eসেট প্রকাশের পদ্ধতি কয়টি ও কী কী?\u003C/div\u003E",
+        "solution": "সেটকে প্রধানত দুই পদ্ধতিতে প্রকাশ করা হয়। যথা:\u003Cbr /\u003E(১) তালিকা পদ্ধতি;\u003Cbr /\u003E(২) সেট গঠন পদ্ধতি।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802364,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c7ee922c0a616b3c90f0\"\u003E1 থেকে 12 পর্যন্ত মৌলিক সংখ্যার সেট লেখ।\u003C/div\u003E",
+        "solution": "ধরি, 1 থেকে 12 পর্যন্ত মৌলিক সংখ্যার সেট A.\u003Cbr /\u003Eএখন, 1 &ndash; 12 পর্যন্ত মৌলিক সংখ্যাসমূহ: 2, 3, 5, 7, 11[math]\\therefore[/math]A = {2, 3, 5, 7, 11}\u003Cbr /\u003Eনির্ণেয় সেট: {2, 3, 5, 7, 11}.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802365,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c83a922c0a616b3c91fb\"\u003Eপ্রথম ছয়টি বিজোড় সংখ্যার সেট লেখ।\u003C/div\u003E",
+        "solution": "ধরি, প্রথম ছয়টি বিজোড় সংখ্যার সেট C.\u003Cbr /\u003Eবিজোড় সংখ্যাসমূহ: 1, 3, 5, 7, 9, 11, 13, 15,............[math]\\therefore[/math]প্রথম ছয়টি বিজোড় সংখ্যা = 1, 3, 5, 7, 9, 11[math]\\therefore[/math]C = {1, 3, 5, 7, 9, 11}\u003Cbr /\u003Eনির্ণেয় সেট {1, 3, 5, 7, 9, 11}.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802366,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c896922c0a616b3c92f5\"\u003E24 এর গুণনীয়কের সেট নির্ণয় কর।\u003C/div\u003E",
+        "solution": "ধরি, 24 এর গুণনীয়কের সেট A\u003Cbr /\u003Eএখানে, 24 = 1&times; 24\u003Cbr /\u003E       = 2&times; 12 = 3&times; 8 = 4&times; 6[math]\\therefore[/math]24 এর গুণনীয়কসমূহ 1, 2, 3, 4, 6, 8, 12, 24\u003Cbr /\u003Eনির্ণেয় সেট A = {1, 2, 3, 4, 6, 8, 12, 24}",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802367,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818cc68922c0a616b3ca6b3\"\u003E{3, 5, 7, 11, 13} সেটটিকে সেট গঠন পদ্ধতিতে প্রকাশ কর।\u003C/div\u003E",
+        "solution": "ধরি, B = {3, 5, 7, 11, 13}\u003Cbr /\u003Eপ্রদত্ত সেটটি মৌলিক সংখ্যার সেট যা 2 এর চেয়ে বড় এবং 17 এর চেয়ে ছোট।\u003Cbr /\u003Eনির্ণেয় সেট A = {x : x, মৌলিক সংখ্যা এবং 2 &lt; x &lt; 17}",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802368,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6818c9d8922c0a616b3c9804\"\u003EP = {x : x, 42 এর মৌলিক গুণনীয়ক} সেটটিকে তালিকা পদ্ধতিতে প্রকাশ কর।\u003C/div\u003E",
+        "solution": "P সেটটি 42 এর মৌলিক গুণনীয়কসমূহের সেট।\u003Cbr /\u003E42 = 1&times; 42\u003Cbr /\u003E  = 2&times; 21 = 3&times; 14 = 6&times; 7[math]\\therefore[/math]42 এর 14, 21, 42 যার মধ্যে মৌলিক গুণনীয়কসমূহ: 2, 3, 7\u003Cbr /\u003Eনির্নেয় সেট P = {2, 3, 7}",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802352,
+      "value": {
+        "options": {
+          "ক": "{4, 5, 6}",
+          "খ": "{4, 6}",
+          "গ": "{5}",
+          "ঘ": "{ }"
+        },
+        "question": "\u003Cdiv\u003EA = {x : x জোড় সংখ্যা এবং 4 &lt; x &lt; 6} এর তালিকা পদ্ধতি কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5646,
+          "full_name": "সি. বো.'২০১৬;সি. বো.",
+          "short_name": "সি. বো.'২০১৬;সি. বো.",
+          "slug": "si-bo2016si-bo",
+          "pivot": {
+            "question_bank_id": 802352,
+            "tag_id": 5646,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802352,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802352,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802356,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003EP = {x ∈ [math]\\mathbb N[/math] : 4 ≤ x ≤ 16 এবং x, 4 এর গুণিতক } হলে-\u003Cbr\u003E\ni. P এর উপসেট সংখ্যা = 8\u003Cbr\u003E\nii. P সেটে 2 দ্বারা বিভাজ্য সংখ্যা 4টি\u003Cbr\u003E\niii. P সেটে মৌলিক সংখ্যা = 0টি\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802356,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802356,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802355,
+      "value": {
+        "options": {
+          "ক": "A = {0, 1, 2, ...}",
+          "খ": "B = {a, b, c, ..., z}",
+          "গ": "C = {2, 4, 6, ...}",
+          "ঘ": "D = {1, 3, 5, ...}"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি সসীম সেট?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802355,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802355,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802354,
+      "value": {
+        "options": {
+          "ক": "{x : x জোড় সংখ্যা এবং 4 &lt; x &lt; 100}",
+          "খ": "{x : x বিজোড় সংখ্যা এবং 3 &lt; x &lt; 90}",
+          "গ": "{x : 86 এর গুণনীয়ক}",
+          "ঘ": "{x : 5 এর গুণিতক}"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি অসীম সেট?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802354,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802354,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802353,
+      "value": {
+        "options": {
+          "ক": "[math]\\{0,1,2,3\\}[/math]",
+          "খ": "[math]\\{-3,-2,-1,0\\}[/math]",
+          "গ": "[math]\\{-2,-1,0,1,2\\}[/math]",
+          "ঘ": "[math]\\{-0,1,2,3\\}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{A}=\\left\\{\\mathrm{x}: \\mathrm{x}\\right.[/math] পূর্ণসংখ্যা এবং [math]\\left.\\mathrm{x}^2&lt;9\\right\\}[/math] কে তালিকা পদ্ধতিতে প্রকাশ করলে নিচের কোনটি হবে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802353,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 802353,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802343,
+      "value": {
+        "options": {
+          "ক": "{1, 2, 4, 5}",
+          "খ": "{1, 2, 4}",
+          "গ": "{2, 4, 5}",
+          "ঘ": "{2, 5}"
+        },
+        "question": "\u003Cdiv\u003E{x : x হলো 20 এর মৌলিক উৎপাদক }&nbsp;সেটটির রোস্টার পদ্ধতির&nbsp;প্রকাশ কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 802343,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802343,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802343,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802335,
+      "value": {
+        "options": {
+          "ক": "x, A সেটের উপাদান নয়",
+          "খ": "A, x সেটের উপাদান নয়",
+          "গ": "x, A সেটের গুণিতক নয়&nbsp;",
+          "ঘ": "x এবং A পরস্পর পরিপূরক নয়"
+        },
+        "question": "\u003Cdiv\u003Ex&nbsp;\u003Cspan class=\"math-tex\"\u003E[math]\\notin[/math]\u003C/span\u003E&nbsp;A&nbsp;এর অর্থ কী?\u003C/div\u003E",
+        "solution": "ক. x, A সেটের উপাদান নয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802335,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802336,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eনিচের তথ্যগুলো লক্ষ কর:\u003Cbr\u003E\ni. a, b, c, ........ x, y, z সেটের উপাদান প্রকাশ করে\u003Cbr\u003E\nii. সেটের সদস্যগুলো { } এই প্রতীকের মধ্যে অন্তর্ভুক্ত থাকে\u003Cbr\u003E\niii. x, A এর উপাদানকে x ∈ A প্রতীক দ্বারা লেখা হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802336,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802336,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802337,
+      "value": {
+        "options": {
+          "ক": "4 [math]\\notin[/math]&nbsp; A",
+          "খ": "3 [math]\\notin[/math]&nbsp; A",
+          "গ": "2 [math]\\notin[/math]&nbsp; A",
+          "ঘ": "1 [math]\\notin[/math]&nbsp; A"
+        },
+        "question": "\u003Cdiv\u003EA = {1, 2, 3} হলে-\u003C/div\u003E",
+        "solution": "ক. 4 [math]\\notin[/math] A",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802337,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802338,
+      "value": {
+        "options": {
+          "ক": "স্বাভাবিক সংখ্যা",
+          "খ": "বাস্তব সংখ্যা",
+          "গ": "সেটের উপাদান",
+          "ঘ": "উপসেট"
+        },
+        "question": "\u003Cdiv\u003Eসেটের প্রত্যেক সদস্যকে কী বলা হয়?\u003C/div\u003E",
+        "solution": "গ. সেটের উপাদান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 802338,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802339,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003EA = {1, 3, 5, 7, 9} হলে-\u003Cbr\u003E\ni. 5 ∈ A\u003Cbr\u003E\nii. 4 ∈ A\u003Cbr\u003E\niii. 10 [math]\\notin[/math]&nbsp; A\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "i. তথ্যানুসারে সঠিক\u003Cbr /\u003Eii. সঠিক নয়। কারণ 4, A সেটের সদস্য নয়\u003Cbr /\u003Eiii. 10, A সেটের সদস্য নয়। সুতরাং উক্তিটি সঠিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802339,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802339,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802340,
+      "value": {
+        "options": {
+          "ক": ", b, c, ..... x, y, z",
+          "খ": "1, 2, 3, ........",
+          "গ": "A, B, C, ..... X, Y, Z",
+          "ঘ": "ক, খ, গ, ঘ, ......"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি দ্বারা সেট প্রকাশ করা হয়?\u003C/div\u003E",
+        "solution": "গ. A, B, C, ..... X, Y, Z",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802340,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802341,
+      "value": {
+        "options": {
+          "ক": "{2, 3, 4}",
+          "খ": "{1, 2, 3}",
+          "গ": "(2, 3}",
+          "ঘ": "{1, 2, 3, 4}"
+        },
+        "question": "\u003Cdiv\u003EA = {x : x ∈ [math]\\mathbb N[/math], যেখানে 1 &lt; x ≤ 4}-কে তালিকা পদ্ধতিতে প্রকাশ করলে কোনটি হবে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4106,
+          "full_name": "ঢা. বো.'২০১৮",
+          "short_name": "ঢা. বো.'২০১৮",
+          "slug": "dha-bo2018",
+          "pivot": {
+            "question_bank_id": 802341,
+            "tag_id": 4106,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802341,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802341,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802342,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm S=\\{2,3,5,7\\} \\text { হলে— }[/math]\u003Cbr\u003E\ni. [math]\\mathrm{S}=\\{\\mathrm{x} \\in \\mathbb{N}: 1 \\leq \\mathrm{x}&lt;7[/math] এবং x মৌলিক সংখ্যা [math]\\}[/math]\u003Cbr\u003E\nii. [math]\\mathrm S=\\{x \\in \\mathbb{N}: 1&lt;x \\leq 7[/math] এবং [math]x[/math] মৌলিক সংখ্যা [math]\\}[/math]\u003Cbr\u003E\niii. [math]\\mathrm{S}=\\{\\mathrm{x} \\in \\mathbb{N}: 2 \\leq \\mathrm{x} \\leq 7[/math] এবং x মৌলিক সংখ্যা [math]\\}[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4657,
+          "full_name": "য. বো.'২০১৮",
+          "short_name": "য. বো.'২০১৮",
+          "slug": "z-bo2018",
+          "pivot": {
+            "question_bank_id": 802342,
+            "tag_id": 4657,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802342,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802342,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802342,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802334,
+      "value": {
+        "options": {
+          "ক": "{ ]",
+          "খ": "{ }",
+          "গ": "[ ]",
+          "ঘ": "( )"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি সেট প্রকাশ করে?\u003C/div\u003E",
+        "solution": "খ. { }",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802334,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802344,
+      "value": {
+        "options": {
+          "ক": "{2, 4, 6}",
+          "খ": "{1, 3, 6}",
+          "গ": "{2, 3, 5}",
+          "ঘ": "{1, 3, 5}"
+        },
+        "question": "\u003Cdiv\u003ER = {x : x বিজোড় সংখ্যা এবং 1 ≤&nbsp; x&nbsp; ≤&nbsp; 6} হলে নিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 802344,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802344,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802344,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802345,
+      "value": {
+        "options": {
+          "ক": "{1, 2, 3}",
+          "খ": "{2, 3}",
+          "গ": "{2, 3, 6}",
+          "ঘ": "{1, 2, 3, 6}"
+        },
+        "question": "\u003Cdiv\u003ES = {x : x, 12 এর মৌলিক গুণনীয়ক} এর তালিকা পদ্ধতির প্রকাশ কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 802345,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802345,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802345,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802346,
+      "value": {
+        "options": {
+          "ক": "[math]\\{2,4,6\\}[/math]",
+          "খ": "[math]\\{2,4,8\\}[/math]",
+          "গ": "[math]\\{4,6,8\\}[/math]",
+          "ঘ": "[math]\\{2,4,6,8\\}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{A}=\\{\\mathrm{x}\\text{ ঃ }\\mathrm{x}[/math] জোড় সংখ্যা এবং [math]2 \\leq \\mathrm{x}&lt;8\\}[/math] এর তালিকা পদ্ধতি নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 802346,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802346,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802346,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802347,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003EA = {x ∈&nbsp;[math]\\mathbb N[/math] : x &lt; 22 এবং x, 3 এর গুণিতক্য হলে-\u003Cbr\u003E\ni. A সেটে 7 টি উপাদান আছে।\u003Cbr\u003E\nii. 6 ∈ A\u003Cbr\u003E\niii. A সেটের উপসেট সংখ্যা 2\u003Csup\u003E7\u003C/sup\u003E টি।\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802347,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802347,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802347,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802348,
+      "value": {
+        "options": {
+          "ক": "4",
+          "খ": "5",
+          "গ": "6",
+          "ঘ": "7"
+        },
+        "question": "\u003Cdiv\u003EA = {x ∈ [math]\\mathbb N[/math], x মৌলিক সংখ্যা, x ≤ 11} হলে A এর সেটটির উপাদান কয়টি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802348,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802348,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802349,
+      "value": {
+        "options": {
+          "ক": "[math]\\{\\}[/math]",
+          "খ": "[math]\\{1,2,3,4\\}[/math]",
+          "গ": "[math]\\{1 ; 2,3,4,5\\}[/math]",
+          "ঘ": "[math]\\{\\ldots \\ldots .2,3,4\\}[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm B=\\left\\{x: x \\in \\mathbb{N} \\text { এবং } x^2&lt;25\\right\\} \\text { হলে, } \\mathrm B=\\text { ? }[/math]\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 802349,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802349,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802349,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802350,
+      "value": {
+        "options": {
+          "ক": "[math]\\{4,8,12\\}[/math]",
+          "খ": "[math]\\{4,8,12,16\\}[/math]",
+          "গ": "[math]\\{2,4,6\\}[/math]",
+          "ঘ": "[math]\\{4,6,8,10\\}[/math]"
+        },
+        "question": "\u003Cdiv\u003Eযদি [math]\\mathrm A=\\{x: x, 4[/math] এর গুণিতক এবং [math]x&lt;16\\}[/math] হলে-\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 802350,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-16T14:39:14.000000Z",
+            "updated_at": "2025-12-16T14:39:14.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802350,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802350,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802351,
+      "value": {
+        "options": {
+          "ক": "{1, 5, 10}",
+          "খ": "{1, 2, 5, 10}",
+          "গ": "{1, 10}",
+          "ঘ": "{10}"
+        },
+        "question": "\u003Cdiv\u003E10 এর গুণনীয়কগুলির সেট নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7909,
+      "created_at": "2025-12-16T14:39:14.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802351,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802351,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7909&grade=2&lesson=15580&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7909&grade=2&lesson=15580&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7909&grade=2&lesson=15580&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 36,
+  "total": 36
+}

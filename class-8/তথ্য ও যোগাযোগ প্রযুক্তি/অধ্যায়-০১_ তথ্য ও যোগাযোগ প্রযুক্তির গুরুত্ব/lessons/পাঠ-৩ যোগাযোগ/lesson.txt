@@ -1,0 +1,1918 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 769880,
+      "value": {
+        "options": [],
+        "question": "কোন কোন ক্ষেত্রে ব্রডকাস্ট ব্যবহার করা হয়?",
+        "solution": "ব্রডকাস্ট বিভিন্ন ক্ষেত্রে ব্যবহার করা হয়, যেমন- সংবাদ প্রচার, বিনোদন, শিক্ষা, বিজ্ঞাপন এবং সরকারি ঘোষণা। টেলিভিশন চ্যানেলগুলো সংবাদ, ধারাবাহিক নাটক, চলচ্চিত্র প্রচারের জন্য ব্রডকাস্টিং ব্যবহার করে। রেডিও চ্যানেলগুলো সংবাদ, গান এবং অন্যান্য শ্রবণযোগ্য বিষয় প্রচার করে। ইন্টারনেটের মাধ্যমে লাইভ স্ট্রিমিং, ভিডিয়ো অন ডিমান্ড এবং ওয়েবকাস্টিংয়ের মতো সেবাগুলো ব্রডকাস্টিংয়ের উদাহরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769870,
+      "value": {
+        "options": {
+          "ক": "রেডিওতে একজন ব্যক্তি অনুষ্ঠান সম্প্রচার করে",
+          "খ": "রেডিওতে অনুষ্ঠান প্রচারের জন্য একটি স্টেশন রয়েছে",
+          "গ": "রেডিওর শ্রোতারা পাল্টা যোগাযোগ করতে পারে না",
+          "ঘ": "রেডিওতে একটির বেশি চ্যানেল থাকে না"
+        },
+        "question": "রেডিও'র সম্প্রচার পদ্ধতিকে একমুখী বলার কারণ কী?",
+        "solution": "গ. রেডিওর শ্রোতারা পাল্টা যোগাযোগ করতে পারে না",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769870,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769871,
+      "value": {
+        "options": {
+          "ক": "টেলিভিশন স্কিনের খবরের কাগজ",
+          "খ": "কম্পিউটার স্কিনের খবরের কাগজ",
+          "গ": "রেডিওতে সংবাদ প্রচারের চ্যানেলগুলো",
+          "ঘ": "সংবাদ সংস্থার সাপ্তাহিক পত্রিকা"
+        },
+        "question": "ধীরে ধীরে কাগজে ছাপা খবরের কাগজের স্থান দখল করছে কোনটি?",
+        "solution": "খ. কম্পিউটার স্কিনের খবরের কাগজ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769871,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769872,
+      "value": {
+        "options": {
+          "ক": "তার নাম",
+          "খ": "তার পার্মানেন্ট এড্রেস",
+          "গ": "তার ই-মেইল অ্যাড্রেস",
+          "ঘ": "তার ভোটার আইডি কার্ড"
+        },
+        "question": "আজমল সাহেবকে ব্যবসায়িক প্রয়োজনে বিভিন্ন দেশের মানুষের সাথে সবসময় যোগাযোগ রাখতে হয়। এরূপ যোগাযোগে সে কোনটি ব্যবহার করে?",
+        "solution": "গ. তার ই-মেইল অ্যাড্রেস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769872,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769873,
+      "value": {
+        "options": {
+          "ক": "এক জনের সাথে যোগাযোগ",
+          "খ": "দুই জনের সাথে যোগাযোগ",
+          "গ": "কিছু লোকের সাথে যোগাযোগ",
+          "ঘ": "অনেক লোকের সাথে যোগাযোগ"
+        },
+        "question": "একমুখী পদ্ধতিতে একজন ব্যক্তি কী করে?",
+        "solution": "ঘ. অনেক লোকের সাথে যোগাযোগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769873,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769874,
+      "value": {
+        "options": [],
+        "question": "মহান মুক্তিযুদ্ধে আইসিটির গুরুত্ব ব্যাখ্যা কর।",
+        "solution": "১৯৭১ সালের মহান মুক্তিযুদ্ধে অংশগ্রহণকারী মুক্তিযোদ্ধাদেরকে সংকেত দেওয়ার জন্য আইসিটি যন্ত্র রেডিও গুরুত্বপূর্ণ ভূমিকা রাখে। মুক্তিযোদ্ধাদের অনুরোধে আকাশবানী রেডিও থেকে ১৩ই আগস্ট বেজে উঠে বিখ্যাত গায়ক পঙ্কজ মল্লিকের গাওয়া একটি গান &quot;আমি তোমায় যত শুনিয়েছিলাম গান&quot;। সেই গানটি একটি ছিল একটি সংকেত, সেটি শুনে নৌ কমান্ডোরা বুঝতে পেরেছিল তাদের এখন. আঘাত হানার সময় এসেছে। এভাবেই আইসিটি যন্ত্র রেডিওটি মহান মুক্তিযুদ্ধের স্বাধীনতা অর্জনে গুরুত্বপূর্ণ ভূমিকা রাখে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769875,
+      "value": {
+        "options": [],
+        "question": "দ্বিমুখী যোগাযোগ বলতে কী বুঝায়?",
+        "solution": "দ্বিমুখী যোগাযোগ হলো এমন একটি যোগাযোগ ব্যবস্থা যেখানে দুই পক্ষই পরস্পরের সাথে তথ্য আদান-প্রদান করতে পারে। এটি একটি ইন্টারেক্টিভ প্রক্রিয়া যেখানে প্রেরক এবং গ্রাহক উভয়ই তাদের মতামত, চিন্তাভাবনা এবং তথ্য একই সময়ে বিনিময় করতে পারে। ফোন কল, ভিডিয়ো কনফারেন্স, চ্যাট এবং ই-মেইল হলো দ্বিমুখী যোগাযোগের কিছু উদাহরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769876,
+      "value": {
+        "options": [],
+        "question": "সামাজিক যোগাযোগ মাধ্যম এর ব্যবহার লিখ।",
+        "solution": "সামাজিক যোগাযোগ মাধ্যম ব্যবহার করে একজন ব্যক্তি একই সময়ে অনেকের সাথে যোগাযোগ করতে পারে। এটি সংগঠিত হতে, উন্নয়নমূলক কর্মকাণ্ডে অংশগ্রহণ করতে এবং তথ্য বিনিময় করতে সহায়তা করে। এতে কোনো ব্যক্তি তার পরিচিত লোকদের সাথে যোগাযোগ রক্ষা করতে পারে এবং তার জীবনের নানা ঘটনা, মতামত, অনুভূতি পরিচিতিজনদেরকে জানাতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769877,
+      "value": {
+        "options": [],
+        "question": "ভিডিয়ো কনফারেন্সিং কিভাবে পরিচালিত হয়?",
+        "solution": "ভিডিয়ো কনফারেন্সিং সফটওয়্যার উপযুক্ত হার্ডওয়্যার ব্যবহার করে ভিন্ন ভৌগোলিক দূরত্বে অবস্থানকারী ব্যক্তিদেরকে মিটিং চলাকালে ভার্চুয়ালভাবে মুখোমুখি থাকার অভিজ্ঞতা দেয়। এই সফ্টওয়&zwj;্যার একটি ভার্চুয়াল সভাঘর স্থাপন করে যেখানে দুজন ব্যক্তি থেকে শুরু করে কয়েক হাজার অংশগ্রহণকারী পর্যন্ত একত্র হতে পারে। এক্ষেত্রে একজন মডারেটর বা উপস্থাপক সভার নিয়ন্ত্রণ করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769878,
+      "value": {
+        "options": [],
+        "question": "ব্রডকাস্ট বলতে কী বুঝায়?",
+        "solution": "ব্রডকাস্ট হলো এক ধরনের যোগাযোগ ব্যবস্থা যেখানে একজন প্রেরক তার বার্তা একসাথে অনেক গ্রাহকের কাছে পাঠাতে পারে। এটি টেলিভিশন, রেডিও এবং ইন্টারনেটের মতো মাধ্যমে ব্যবহৃত হয়। একজন ব্রডকাস্টার তার বার্তা একটি নির্দিষ্ট চ্যানেলের মাধ্যমে প্রচার করে এবং তার শ্রোতা বা দর্শকরা সেই চ্যানেলের মাধ্যমে সেই বার্তা গ্রহণ করে। তবে এক্ষত্রে দর্শক বা শ্রোতারা পাল্টা যোগাযোগ করতে পারে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769879,
+      "value": {
+        "options": [],
+        "question": "মুক্তিযুদ্ধের সময় সংকেত ব্যবহার করে কীভাবে যোগাযোগ করা হয়েছিল?",
+        "solution": "মুক্তিযুদ্ধের সময় ১৯৭১ সালের ১৫ই আগস্ট মুক্তিযোদ্ধা নৌ কমান্ডোরা চট্টগ্রাম বন্দরে অনেক পাকিস্তানি জাহাজে মাইন লাগিয়ে ডুবিয়ে দিয়েছিলো। এই দুঃসাহসিক অভিযানের দিনক্ষন জানানোর জন্য মুক্তিযোদ্ধারা বিশেষ সংকেত ব্যবহার করে। তাদের অনুরোধে আকাশবাণী রেডিয়োতে ১৩ই আগস্ট পঙ্কজ মল্লিকের গাওয়া গান &quot;আমি তোমায় যত শুনিয়েছিলাম গান&quot; বাজায়। সেই গান শুনে মুক্তিযোদ্ধারা বুঝতে পারে যে আঘাত হানার সময় হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769869,
+      "value": {
+        "options": {
+          "ক": "একমুখী",
+          "খ": "বহুমুখী",
+          "গ": "দ্বিমুখী",
+          "ঘ": "ত্রিমুখী"
+        },
+        "question": "ব্রডকাস্ট এর বাংলা অর্থ কী?",
+        "solution": "ক. একমুখী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769881,
+      "value": {
+        "options": [],
+        "question": "ভার্চুয়াল জগতে সভা আয়োজনের সুবিধা কী?",
+        "solution": "ভার্চুয়াল জগতে সভা আয়োজনের সুবিধা হলো ভৌগোলিক দূরত্ব অতিক্রম করে ভিডিয়ো বা অডিয়ো কনফারেন্সিং করা যায়। এটি ব্যবসায়িক সভা, টেলিমেডিসিন এবং সামাজিক যোগাযোগ রক্ষার জন্য ব্যবহৃত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769882,
+      "value": {
+        "options": [],
+        "question": "ওয়েব কনফারেন্সিং এ গোপনীয়তা রক্ষা করা হয় কিভাবে?",
+        "solution": "নিরাপদ ওয়েব কনফারেন্সিং সফ্টওয়্যার সভার গোপনীয়তা রক্ষা করে থাকে। সভায় নতুন যোগদানকারীর পরিচয় যাচাই করার জন্য ভার্চুয়&zwj;্যাল ওয়েটিং রুম বা অনুমতি সেটিংসের মাধ্যমে ব্যবস্থা নেওয়া হয়। তাছাড়া তথ্য চুরি ঠেকাতে বিভিন্ন ধরনের এনক্রিপশন পদ্ধতিরও প্রয়োগ করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769883,
+      "value": {
+        "options": [],
+        "question": "যোগাযোগের পদ্ধতিকে কয়ভাগে ভাগ করা যায়?",
+        "solution": "যোগাযোগের পদ্ধতিকে দুই ভাগে ভাগ করা যায়: একমুখী এবং দ্বিমুখী। একমুখী পদ্ধতিতে একজন ব্যক্তি বা প্রতিষ্ঠান অনেকের সাথে যোগাযোগ করে, যেমন রেডিও ও টেলিভিশন। অন্যদিকে, দ্বিমুখী পদ্ধতিতে উভয়পক্ষ যোগাযোগে অংশগ্রহণ করতে পারে, যেমন টেলিফোন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769884,
+      "value": {
+        "options": [],
+        "question": "একমুখী যোগাযোগ বলতে কী বুঝায়?",
+        "solution": "একমুখী যোগাযোগ এমন একটি পদ্ধতি, যেখানে তথ্য একদিক থেকে পাঠানো হয় এবং প্রাপক তা গ্রহণ করেন কিন্তু উত্তর দেওয়ার সুযোগ থাকে না। রেডিও এবং টেলিভিশন একমুখী যোগাযোগের উদাহরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769885,
+      "value": {
+        "options": [],
+        "question": "সামাজিক যোগাযোগ মাধ্যম তথ্যপ্রযুক্তির অন্যতম একটি গুরুত্বপূর্ণ বিষয় কেন?",
+        "solution": "সামাজিক যোগাযোগ মাধ্যম মানুষকে বিশ্বের যেকোনো প্রান্তে থাকা কোনো ব্যক্তির সাথে সহজেই যোগাযোগ করতে সাহায্য করে। এছাড়াও, সামাজিক যোগাযোগ মাধ্যম ব্যবসা, শিক্ষা এবং রাজনীতির ক্ষেত্রেও বিপুল প্রভাব ফেলে। ফেসবুক, টুইটার, ইনস্টাগ্রাম এবং ইউটিউবের মতো সামাজিক যোগাযোগ মাধ্যমগুলো মানুষের জীবনযাত্রাকে বদলে দিয়েছে। এসব কারণে সামাজিক যোগাযোগ মাধ্যম তথ্যপ্রযুক্তির অন্যতম গুরুত্বপূর্ণ বিষয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769886,
+      "value": {
+        "options": [],
+        "question": "ব্রডকাস্ট পদ্ধতির উদাহরণ কী কী?",
+        "solution": "ব্রডকাস্ট পদ্ধতির উদাহরণ হলো রেডিও, টেলিভিশন, খবরের কাগজ, ম্যাগাজিন, এবং অনলাইন পত্রিকা। এই পদ্ধতিতে তথ্য অনেকের কাছে একমুখীভাবে পৌছে দেওয়া হয়। তবে এক্ষেত্রে দর্শক বা শ্রোতারা পাল্টা যোগাযোগ করতে পারে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769887,
+      "value": {
+        "options": [],
+        "question": "ওয়েব কনফারেন্সিং বলতে কী বুঝায়?",
+        "solution": "ওয়েব কনফারেন্সিং এমন একটি প্রযুক্তি, যা ইন্টারনেট ব্যবহার করে অনলাইন মিটিং, সেমিনার এবং ভিডিয়ো বা অডিয়ো কনফারেন্সিং করতে সাহায্য করে। এটি ভৌগোলিক দূরত্ব অতিক্রম করে ভার্চুয়াল সভা আয়োজনের সুযোগ দেয়। এর মাধ্যমে দুইজন থেকে কয়েক হাজার লোক পর্যন্ত একই সময়ে পরস্পরের সাথে যোগাযোগ করার সুযোগ পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769888,
+      "value": {
+        "options": [],
+        "question": "ওয়েব কনফারেন্সিং এর ব্যবহার ক্ষেত্র উল্লেখ কর।",
+        "solution": "ওয়েব কনফারেন্সিং বলতে ইন্টারনেটে বিভিন্ন মিডিয়া (অডিয়ো, ভিডিয়ো অথবা উভয়) ব্যবহার করে ওয়েব সেমিনার, ওয়েবকাস্ট এবং ওয়েব মিটিংসহ বিভিন্ন ধরনের অনলাইন কনফারেন্সিং সেবাকে বুঝানো হয়। ব্যবসা বাণিজ্যের ক্ষেত্রে প্রতিষ্ঠানের কর্মীদের মধ্যে সভা করা, টেলিমেডিসিনের ক্ষেত্রে ডাক্তার, রোগী ও হসপিটালের সাথে সভা করা, সামাজিক যোগাযোগ রক্ষার ক্ষেত্রে কমিউনিটির মধ্যে ভার্চুয়াল গেট-টু-গেদার আয়োজন করা ইত্যাদি কাজে বর্তমানে ওয়েব কনফারেন্সিং প্রযুক্তি ব্যপকভাবে ব্যবহৃত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769889,
+      "value": {
+        "options": [],
+        "question": "ওয়েব কনফারেন্সিং সফটওয়‍্যারের বৈশিষ্ট্য কী কী?",
+        "solution": "ওয়েব কনফারেন্সিং সফটওয়্যারের বৈশিষ্ট্যের মধ্যে ভিডিয়ো কনফারেন্সিং, অডিয়ো কনফারেন্সিং, স্লাইডশো উপস্থাপনা, ফাইল শেয়ারিং, অভ্যন্তরীণ বার্তা চ্যাট, এবং সেশনের রেকর্ডিং অন্তর্ভুক্ত। এটি ভার্চুয়াল সভার জন্য অপরিহার্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769890,
+      "value": {
+        "options": [],
+        "question": "অডিয়ো কনফারেন্সিং কীভাবে কাজ করে? বুঝিয়ে লেখ।",
+        "solution": "অডিয়ো কনফারেন্সিং সফটওয়্যার ব্যবহার করে কম খরচে ফোন কল এবং কনফারেন্স কল করা যায়। এটি সাধারনত ভিডিয়ো কনফারেন্সিং সফটওয়&zwj;্যারের সাথেই অন্তর্ভুক্ত থাকতে পারে। এক্ষত্রে ভিডিয়ো ক্যামেরা বন্ধ রেখে কনফারেন্সে যুক্ত ব্যক্তিদের সাথে যোগাযোগ করা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769858,
+      "value": {
+        "options": {
+          "ক": "একমুখী",
+          "খ": "দ্বিমুখী",
+          "গ": "ত্রিমুখী",
+          "ঘ": "চতুর্মুখী"
+        },
+        "question": "টেলিফোনে কী ধরনের যোগাযোগ পদ্ধতি ব্যবহার করা হয়?",
+        "solution": "খ. দ্বিমুখী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769858,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769848,
+      "value": {
+        "options": {
+          "ক": "দ্বিমুখী যোগাযোগ",
+          "খ": "বহুমুখী যোগাযোগ",
+          "গ": "ত্রিমুখী যোগাযোগ",
+          "ঘ": "একমুখী যোগাযোগ"
+        },
+        "question": "যোগাযোগের একমুখী পদ্ধতির সম্পূরক রূপ কোনটি?",
+        "solution": "ক. দ্বিমুখী যোগাযোগ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769848,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769849,
+      "value": {
+        "options": {
+          "ক": "তথ্য প্রযুক্তির যুগান্তকারী উন্নয়ন",
+          "খ": "টেলিভিশন প্রযুক্তির উন্নয়ন",
+          "গ": "ব্রডকাস্ট পদ্ধতির উন্নয়ন",
+          "ঘ": "দ্বিমুখী প্রচার ব্যবস্থার উন্নয়ন"
+        },
+        "question": "টেলিভিশনে শত শত চ্যানেল দেখতে পাওয়ার যথার্থ কারণ কী?",
+        "solution": "ক. তথ্য প্রযুক্তির যুগান্তকারী উন্নয়ন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769849,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769850,
+      "value": {
+        "options": {
+          "ক": "টেলিভিশন প্রযুক্তির",
+          "খ": "তথ্যপ্রযুক্তির",
+          "গ": "কম্পিউটার প্রযুক্তির",
+          "ঘ": "মোবাইল প্রযুক্তির"
+        },
+        "question": "পৃথিবীর যেকোনো প্রান্তে ঘটে যাওয়া ঘটনা আমরা কিছুক্ষণের মধ্যেই দেখতে পাই। এটা কার অবদান?",
+        "solution": "খ. তথ্যপ্রযুক্তির",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769850,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769851,
+      "value": {
+        "options": {
+          "ক": "One mouth",
+          "খ": "One way",
+          "গ": "Unique",
+          "ঘ": "Broadcast"
+        },
+        "question": "একমুখী পদ্ধতিকে ইংরেজিতে কী বলে?",
+        "solution": "ঘ. Broadcast",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769851,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769852,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জলির প্রতিদিন সকালে ঘুম থেকে ওঠে খবরের কাগজ পড়ার অভ্যাস। এই কাজে সে ব্যবহার করতে পারবে-\u003Cbr\u003E\ni. কম্পিউটার\u003Cbr\u003E\nii. স্মার্ট মোবাইল ফোন\u003Cbr\u003E\niii. এলসিডি টেলিভিশন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769852,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769852,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769853,
+      "value": {
+        "options": {
+          "ক": "তার একটি নাম",
+          "খ": "তার একটি পরিচয়",
+          "গ": "তার একটি সম্পদ",
+          "ঘ": "তার একটি গুণ"
+        },
+        "question": "অষ্টম শ্রেণিতে ওঠার পর সোহানার বড় ভাই তাকে একটি ই-মেইল অ্যাড্রেস খুলে দেয়। ফলে সে তার বিভিন্ন দেশের বন্ধুদের সাথে এখন সহজেই যোগাযোগ করতে পারে।\u003Cbr\u003E\nসোহানার এড্রেসটি মূলত কী?",
+        "solution": "খ. তার একটি পরিচয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769853,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769853,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769854,
+      "value": {
+        "options": {
+          "ক": "রেডিও",
+          "খ": "কম্পিউটার",
+          "গ": "ই-মেইল",
+          "ঘ": "মোবাইল ফোন"
+        },
+        "question": "একমুখী পদ্ধতির সবচেয়ে সহজ উদাহরণ কোনটি?",
+        "solution": "ক. রেডিও",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769854,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769855,
+      "value": {
+        "options": {
+          "ক": "মোবাইল নম্বর",
+          "খ": "ফ্যাক্স নম্বর",
+          "গ": "ওয়েব অ্যাড্রেস",
+          "ঘ": "ই-মেইল অ্যাড্রেস"
+        },
+        "question": "এখন মানুষের নামের পাশাপাশি আরেকটি গুরুত্বপূর্ণ পরিচয় কী?",
+        "solution": "ঘ. ই-মেইল অ্যাড্রেস",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769855,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769856,
+      "value": {
+        "options": {
+          "ক": "কয়েকটি অক্ষর",
+          "খ": "কয়েকটি শব্দ",
+          "গ": "কয়েকটি বাক্য",
+          "ঘ": "কয়েকটি অ্যাড্রেস"
+        },
+        "question": "ই-মেইল অ্যাড্রেস কী দ্বারা গঠিত?",
+        "solution": "ক. কয়েকটি অক্ষর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769856,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769857,
+      "value": {
+        "options": {
+          "ক": "www.yahoo.com",
+          "খ": "www.google.com",
+          "গ": "www.facebook.com",
+          "ঘ": "www.msn.com"
+        },
+        "question": "একমুখী ব্রডকাস্ট ও দ্বিমুখী ব্যক্তিগত যোগাযোগে ব্যবহার করার জন্য কোন ওয়েবসাইটটি অধিক কার্যকর?",
+        "solution": "গ. www.facebook.com",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769857,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769847,
+      "value": {
+        "options": {
+          "ক": "১৯৭১ সালের ১৪ আগস্ট",
+          "খ": "১৯৭১ সালের ১৫ আগস্ট",
+          "গ": "১৯৭১ সালের ১৬ আগস্ট",
+          "ঘ": "১৯৭১ সালের ১৭ আগস্ট"
+        },
+        "question": "চট্টগ্রামে নৌ-কমান্ডোদের দ্বারা পরিচালিত অভিযানটি কত তারিখে পরিচালিত হয়?",
+        "solution": "খ. ১৯৭১ সালের ১৫ আগস্ট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769847,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769859,
+      "value": {
+        "options": {
+          "ক": "মোবাইল",
+          "খ": "ফ্যাক্স",
+          "গ": "ই-মেইল",
+          "ঘ": "রেডিও"
+        },
+        "question": "পৃথিবীর বেশির ভাগ মানুষের মধ্যকার যোগাযোগ মাধ্যমটি কী?",
+        "solution": "গ. ই-মেইল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769859,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769860,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দ্বিমুখী যোগাযোগ পদ্ধতি ব্যবহার করা হয়-\u003Cbr\u003E\ni. মোবাইলে\u003Cbr\u003E\nii. টিভি চ্যানেলে\u003Cbr\u003E\niii. টেলিফোনে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769860,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769860,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769861,
+      "value": {
+        "options": {
+          "ক": "Electric Mail",
+          "খ": "Electronic Mail",
+          "গ": "Electric Method",
+          "ঘ": "Electronic Methodology"
+        },
+        "question": "E-mail-এর পূর্ণরূপ কোনটি?",
+        "solution": "খ. Electronic Mail",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769861,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769862,
+      "value": {
+        "options": {
+          "ক": "ব্রডব্যান্ড",
+          "খ": "ব্রডকাস্ট",
+          "গ": "ন্যারোকাস্ট",
+          "ঘ": "মাল্টিকাস্ট"
+        },
+        "question": "টিভি চ্যানেলগুলো কোন পদ্ধতি ব্যবহার করে তাদের অনুষ্ঠান প্রচার করে?",
+        "solution": "খ. ব্রডকাস্ট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769862,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769863,
+      "value": {
+        "options": {
+          "ক": "খবরের কাগজ",
+          "খ": "টেলিফোন",
+          "গ": "মোবাইল ফোন",
+          "ঘ": "আলোচনা সভা"
+        },
+        "question": "ব্রডকাস্ট পদ্ধতির একটা সহজ উদাহরণ কোনটি?",
+        "solution": "ক. খবরের কাগজ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769863,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769864,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মানুষ সামাজিক ওয়েবসাইট ব্যবহার করে-\u003Cbr\u003E\ni. একে অপরের সাথে যোগাযোগ করার জন্য\u003Cbr\u003E\nii. সবাই মিলে সংগঠিত হওয়ার জন্য\u003Cbr\u003E\niii. সবাই মিলে আন্দোলন করার জন্য\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769864,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769864,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769865,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ব্রডকাস্ট পদ্ধতি ব্যবহার করে যোগাযোগ করে থাকে-\u003Cbr\u003E\ni. খবরের কাগজ\u003Cbr\u003E\nii. টিভি চ্যানেল\u003Cbr\u003E\niii. ম্যাগাজিন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769865,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769865,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769866,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অষ্টম শ্রেণিতে ওঠার পর সোহানার বড় ভাই তাকে একটি ই-মেইল অ্যাড্রেস খুলে দেয়। ফলে সে তার বিভিন্ন দেশের বন্ধুদের সাথে এখন সহজেই যোগাযোগ করতে পারে।\u003Cbr\u003E\nসোহানার ব্যবহৃত পদ্ধতিতে যোগাযোগ করতে একান্ত আবশ্যক-\u003Cbr\u003E\ni. কম্পিউটার ও ইন্টারনেট\u003Cbr\u003E\nii. একটি স্থায়ী ঠিকানা\u003Cbr\u003E\niii. একটি ই-মেইল অ্যাড্রেস\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769866,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769866,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769866,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769867,
+      "value": {
+        "options": {
+          "ক": "মোবাইল ফোন আবিষ্কার না হওয়ায়",
+          "খ": "মুক্তিযোদ্ধার কাছে মোবাইল না থাকায়",
+          "গ": "মোবাইলের নেটওয়ার্কে সমস্যা থাকায়",
+          "ঘ": "তথ্য ও যোগাযোগ প্রযুক্তি অনুন্নত থাকায়"
+        },
+        "question": "বাংলাদেশের মুক্তিযুদ্ধের সময় যোদ্ধাদের সাথে যোগাযোগ করা কষ্টকর ছিল কেন?",
+        "solution": "ঘ. তথ্য ও যোগাযোগ প্রযুক্তি অনুন্নত থাকায়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769867,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769868,
+      "value": {
+        "options": {
+          "ক": "আমার ভাইয়ের রক্তে রাঙানো একুশে ফেব্রুয়ারি",
+          "খ": "আমি তোমায় যত শুনিয়েছিলাম গান",
+          "গ": "জয় বাংলা, বাংলার জয়",
+          "ঘ": "সব কটা জানালা খুলে দাও না"
+        },
+        "question": "মুক্তিযুদ্ধের সময় নিচের কোন গানটি সংকেত হিসেবে আকাশবাণী রেডিওতে প্রচার হয়েছিল?",
+        "solution": "খ. আমি তোমায় যত শুনিয়েছিলাম গান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:09:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769868,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14445&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14445&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14445&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 44,
+  "total": 44
+}

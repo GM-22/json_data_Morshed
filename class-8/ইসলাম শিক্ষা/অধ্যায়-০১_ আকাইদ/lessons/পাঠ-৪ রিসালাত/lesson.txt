@@ -1,0 +1,834 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 782179,
+      "value": {
+        "options": {
+          "ক": "মদিনা পর্যন্ত",
+          "খ": "সমগ্র আরব",
+          "গ": "সমগ্র পৃথিবী",
+          "ঘ": "মক্কা পর্যন্ত"
+        },
+        "question": "মহানবি (স) কে রিসালাত দিয়ে প্রেরণ করা হয়েছে। তাঁর রিসালাতের ব্যাপ্তি কতটুকু?",
+        "solution": "গ. সমগ্র পৃথিবী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 782179,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782187,
+      "value": {
+        "options": [],
+        "question": "রিসালাতের তাৎপর্য সংক্ষেপে লেখ।",
+        "solution": "নবি-রাসুলগণ ছিলেন মানুষের প্রতি আল্লাহ তায়ালার বিশেষ নিয়ামতস্বরূপ। তাঁরা সকলকে তাওহিদের পথে ডাকতেন। কুফর, শিরক, নিফাক থেকে সতর্ক করতেন। উত্তম চরিত্র ও নৈতিক শিক্ষা প্রদান করতেন। নবিগণের দাওয়াতের মূলকথা আল্লাহর একত্ববাদ এবং তাঁর বিধিবিধান প্রচার করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782186,
+      "value": {
+        "options": [],
+        "question": "\"প্রত্যেক রাসুলই নবি কিন্তু প্রত্যেক নবি রাসুল নন\"-বুঝিয়ে লেখ।",
+        "solution": "আল্লাহ তায়ালা যাঁদের প্রতি আসমানি কিতাব নাযিল করেছেন কিংবা নতুন শরিয়ত প্রদান করেছেন, তারা হলেন রাসুল। আর যাঁদের প্রতি কোনো কিতাব অবতীর্ণ হয়নি কিংবা নতুন শরিয়ত দেওয়া হয়নি তাঁদেরকে নবি বলা হয়। নবিগণ পূর্ববর্তী রাসুলগণের শরিয়ত প্রচার করতেন। রাসুলগণ একই সাথে রিসালাত ও নবুয়ত দুই দায়িত্ব পালন করতেন আর নবিগণ শুধু নবুয়তের দায়িত্ব পালন করতেন। সে কারণে প্রত্যেক রাসুলই নবি কিন্তু প্রত্যেক নবি রাসুল নন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782185,
+      "value": {
+        "options": [],
+        "question": "আল্লাহ তায়ালা কাদের জন্য নবি-রাসুল প্রেরণ করেছেন?",
+        "solution": "আল্লাহ তায়ালা মানবজাতির হিদায়াতের জন্য বহু নবি-রাসুল এ দুনিয়াতে পাঠিয়েছেন। পৃথিবীতে এমন কোনো জাতি ছিল না যেখানে আল্লাহ তায়ালা নবি-রাসুল প্রেরণ করেননি। আল কুরআনে আল্লাহ তায়ালা বলেছেন, &quot;আর প্রত্যেক জাতির জন্য পথপ্রদর্শক রয়েছে।&quot; (সূরা আর-রা&#39;দ: ৭)",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782184,
+      "value": {
+        "options": [],
+        "question": "রিসালাত শব্দ দ্বারা কী বুঝায়?",
+        "solution": "রিসালাত অর্থ সংবাদ বহন, খবর বা চিঠি পৌঁছানো। ইসলামি পরিভাষায় আল্লাহ তায়ালার বাণী, আদেশ-নিষেধ মানুষের নিকট পৌঁছানোকে রিসালাত বলে। যাঁরা এ সংবাদ পৌঁছানোর কাজ করেন তাঁরা হলেন নবি-রাসুল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782183,
+      "value": {
+        "options": {
+          "ক": "নবি",
+          "খ": "প্রদর্শক",
+          "গ": "রাসুল",
+          "ঘ": "শিক্ষক"
+        },
+        "question": "ঈসা (আঃ)-এর নিকট কিতাব নাজিল হয়েছে। এক্ষেত্রে তাঁকে কী বলা যায়?",
+        "solution": "গ. রাসুল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782183,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782182,
+      "value": {
+        "options": {
+          "ক": "সংবাদবাহক",
+          "খ": "সমাপ্ত",
+          "গ": "মনোনীত",
+          "ঘ": "বাহন"
+        },
+        "question": "রাসুল শব্দের অর্থ কী?",
+        "solution": "ক. সংবাদবাহক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782182,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782181,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক কারণে",
+          "খ": "পাপাচারের কারণে",
+          "গ": "ভূমিকম্পের কারণে",
+          "ঘ": "সুনামির কারণে"
+        },
+        "question": "কেন পৃথিবীতে বিপর্যয় সৃষ্টি হয়?",
+        "solution": "খ. পাপাচারের কারণে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782181,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782180,
+      "value": {
+        "options": {
+          "ক": "২০",
+          "খ": "২২",
+          "গ": "২৫",
+          "ঘ": "২৬"
+        },
+        "question": "পবিত্র কুরআনে কতজন নবি-রাসুলের নাম উল্লেখ আছে?",
+        "solution": "গ. ২৫",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782180,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782170,
+      "value": {
+        "options": {
+          "ক": "হযরত আদম (আ)",
+          "খ": "হযরত ঈসা (আ)",
+          "গ": "হযরত মুহাম্মদ (স)",
+          "ঘ": "হযরত হুদ (আ)"
+        },
+        "question": "সমগ্র জাহানের নবি কে?",
+        "solution": "গ. হযরত মুহাম্মদ (স)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782170,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782178,
+      "value": {
+        "options": {
+          "ক": "দাওয়াত",
+          "খ": "তাবলিগ",
+          "গ": "ঘুম",
+          "ঘ": "শিরক"
+        },
+        "question": "আল্লাহ সকল নবি-রাসুলকে কী থেকে দূরে থাকার নির্দেশ দিয়েছেন?",
+        "solution": "ঘ. শিরক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782178,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782177,
+      "value": {
+        "options": {
+          "ক": "রাসুল",
+          "খ": "রিসালাত",
+          "গ": "রক্ষক",
+          "ঘ": "জিন"
+        },
+        "question": "যিনি আল্লাহ তায়ালার ওহি বহন করেন তাকে কী বলে?",
+        "solution": "ক. রাসুল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782177,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782176,
+      "value": {
+        "options": {
+          "ক": "জ্ঞান",
+          "খ": "তাকওয়া",
+          "গ": "কিতাব",
+          "ঘ": "হিকমত"
+        },
+        "question": "সব নবিই রাসুল নন, কিন্তু সব রাসুলই নবি। এ পার্থক্য নিরূপণ করা হয় কীসের ভিত্তিতে?",
+        "solution": "গ. কিতাব",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782176,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782175,
+      "value": {
+        "options": {
+          "ক": "রাসুল",
+          "খ": "ওলি",
+          "গ": "নবি",
+          "ঘ": "নবি ও রাসুল"
+        },
+        "question": "যাদের নিকট আসমানি কিতাব অবতীর্ণ হয়নি তাঁরা কী?",
+        "solution": "গ. নবি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782175,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782174,
+      "value": {
+        "options": {
+          "ক": "মূর্তিপূজা করতেন",
+          "খ": "মানুষকে রাজনীতি শিখাতেন",
+          "গ": "পূর্ববর্তী রাসুলের শরিয়ত প্রচার করতেন",
+          "ঘ": "জান্নাতের লোভ দেখাতেন"
+        },
+        "question": "নবিগণ কী প্রচার করতেন?",
+        "solution": "গ. পূর্ববর্তী রাসুলের শরিয়ত প্রচার করতেন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782174,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782173,
+      "value": {
+        "options": {
+          "ক": "শাফাআত করা",
+          "খ": "হিদায়াত করা",
+          "গ": "রিসালাত প্রচার",
+          "ঘ": "কারামত প্রকাশ করা"
+        },
+        "question": "নবি-রাসুল পৃথিবীতে আসার কারণ কী?",
+        "solution": "খ. হিদায়াত করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782173,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782172,
+      "value": {
+        "options": {
+          "ক": "সত্যবাদী",
+          "খ": "ন্যায়পরায়ণতা",
+          "গ": "উন্নত চরিত্রের অধিকারী",
+          "ঘ": "প্রতারণা"
+        },
+        "question": "নবি ও রাসুলগণের চারিত্রিক বৈশিষ্ট্য কলুষমুক্ত। তাদের চারিত্রিক বৈশিষ্ট্য নয় কোনটি?",
+        "solution": "ঘ. প্রতারণা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 782172,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782171,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রাসুল প্রেরণের প্রয়োজন হতো-\u003Cbr\u003E\ni. মানুষের পাপাচারের কারণে\u003Cbr\u003E\nii. মানুষকে তাওহীদের পথে ডাকতে\u003Cbr\u003E\niii. আল্লাহকে ভুলে যাওয়ার কারণে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7878,
+      "created_at": "2025-12-02T09:29:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 782171,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 782171,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7878&grade=2&lesson=14847&question_paper_id=47612&subject=47&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7878&grade=2&lesson=14847&question_paper_id=47612&subject=47&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7878&grade=2&lesson=14847&question_paper_id=47612&subject=47&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

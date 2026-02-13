@@ -1,0 +1,3261 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 801654,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179b49922c0a616b39a29f\"\u003E[math]a ^ 2 - 4, a ^ 2 + 4a + 4[/math] এবং [math]a ^ 3 - 8[/math] এর ল.সা.গু. কত?\u003C/div\u003E",
+        "solution": "এখানে,[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\text { ১ম রাশি }=a^2-4=a^2-2^2=(a+2)(a-2) \\\\\u003Cbr /\u003E&amp; \\text { ২য় রাশি }=a^2+4 a+4 \\\\\u003Cbr /\u003E&amp; =a^2+2 a+2 a+4 \\\\\u003Cbr /\u003E&amp; =a(a+2)+2(a+2)=(a+2)(a+2) \\\\\u003Cbr /\u003E&amp; \\text { ৩য় রাশি }=\\mathrm{a}^3-8 \\\\\u003Cbr /\u003E&amp; =\\mathrm{a}^3-2^3 \\\\\u003Cbr /\u003E&amp; =(a-2)\\left(a^2+2 a+4\\right) \\\\\u003Cbr /\u003E&amp; \\text { নির্ণেয় ল.সা.গু. }\\\\&amp;=(a+2)(a-2)(a+2)\\left(a^2+2 a+4\\right) \\\\\u003Cbr /\u003E&amp; =(a+2)^2\\left(a^3-8\\right)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801643,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179763922c0a616b399acb\"\u003E[math](a + 2) ^ 2, (a ^ 2 + 2a)[/math] এবং [math](a ^ 2 + 5a + 6)[/math] গ.সা.গু. নির্ণয় কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} \\text { এখানে, ১ম রাশি } &amp; =(a+2)^2=(a+2)(a+2) \\\\ \\text { ২য় রাশি } &amp; =a^2+2 a=a(a+2) \\\\ \\text { ৩য় রাশি } &amp; =a^2+5 a+6 \\\\ &amp; =a^2+2 a+3 a+6 \\\\ &amp; =a(a+2)+3(a+2) \\\\ &amp; =(a+2)(a+3)\\end{aligned}[/math]\u003Cbr /\u003Eনির্ণেয়গ.সা.গু. [math]= a + 2[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801644,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681798c0922c0a616b399e0a\"\u003E[math]x + 1, x ^ 2 - 1[/math] এবং [math]x ^ 3 - 1[/math] এর গ.সা.গু. নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে, ১ম রাশি [math]= x + 1[/math]\u003Cbr /\u003E২য় রাশি [math]=x^2-1=x^2-1^2=(x+1)(x-1)[/math]\u003Cbr /\u003E৩য় রাশি [math]=\\mathrm{x}^3-1=\\mathrm{x}^3-1^3=(\\mathrm{x}-1)\\left(\\mathrm{x}^2+\\mathrm{x}+1\\right)[/math]\u003Cbr /\u003Eনির্ণেয় গ.সা.গু. [math]= 1[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801645,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179a1e922c0a616b39a100\"\u003E[math]4ab^2x^3, 9a^3c[/math] এবং [math]12a^3bc^4x^4[/math] রাশি তিনটির ল.সা.গু. কত?\u003C/div\u003E",
+        "solution": "এখানে [math]4, 9[/math] এবং [math]12[/math] এর ল.সা.গু. [math]=36[/math]\u003Cbr /\u003Eপ্রদত্ত রাশিগুলোর সর্বোচ্চ সাধারণ ঘাতের উৎপাদক যথাক্রমে [math]a^3, b^2, c^4, x^4[/math][math]\\therefore[/math] নির্ণেয় ল.সা.গু. [math]=36 a^3 b^2 c^4 x^4[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801646,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179947922c0a616b399f53\"\u003E[math]3(m + n), 9(m ^ 2 - n ^ 2)[/math] ও [math]18(m ^ 3 + n ^ 3)[/math] এর গ.সা.গু. কত?\u003C/div\u003E",
+        "solution": "এখানে, ১ম রাশি = [math]3(m+n)[/math]\u003Cbr /\u003E২য় রাশি [math]=9\\left(m^2-n^2\\right)=3.3(m+n)(m-n)[/math][math]\\text{ ৩য় রাশি }=18\\left(m^3+n^3\\right)\\\\=2 \\cdot 3.3(m+n)\\left(m^2-m n+n^2\\right)[/math]\u003Cbr /\u003Eনির্ণেয় গ.সা.গু. [math]=3(m+n)[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801647,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179705922c0a616b3999ee\"\u003E[math]2 x^3 y^2 z^2, 12 x^2 y z[/math] ও [math]20 x y^3 z^3[/math] এর গ.সা.গু. নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে, [math]2, 12, 20[/math] এর গ.সা.গু [math]= 2[math]x^3, x^2, x[/math] এর গ.সা.গু = [math]x[/math]y^2, y, y^3[/math] এর গ.সা.গু = [math]y[/math][math]z^2, z z^3[/math] এর গ.সা.গু = [math]z[/math]\u003Cbr /\u003Eনির্ণেয় গ.সা.গু [math]= 2xyz[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801648,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817986f922c0a616b399da0\"\u003E[math]a ^ 3&nbsp; b ^ 4&nbsp; c ^ 4, 12a ^ 2&nbsp; b ^ 3&nbsp; c ^ 2[/math] ও [math]3a^4b^2c^3[/math] এর গ.সা.গু. নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে [math]1,12,3[/math] এর গ.সা.গু. [math]= 1[math]\\mathrm{a}^3, \\mathrm{a}^2, \\mathrm{a}^4[/math] এর গ.সা.গু. [math]=\\mathrm{a}^2[/math]b^4, b^3, b^2[/math] এর গ.সা.গু. [math]=b^2[/math][math]c^4, c^2, c^3[/math] এর গ.সা.গু. [math]=c^2[/math]\u003Cbr /\u003Eনির্ণেয় গ.সা.গু. [math]=a^2 b^2 c^2[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801649,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179bbe922c0a616b39a3f6\"\u003E[math]a ^ 2 - b ^ 2, a ^ 2 - ab + b ^ 2[/math] এবং [math]a ^ 3 + b ^ 3[/math] রাশি তিনটির ল.সা.গু. নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে,[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\text { ১ম রাশি }=a^2-b^2=(a+b)(a-b) \\\\\u003Cbr /\u003E&amp; \\text { ২য় রাশি }=a^2-a b+b^2 \\\\\u003Cbr /\u003E&amp; \\text { ৩য় রাশি }=a^3+b^3=(a+b)\\left(a^2-a b+b^2\\right) \\\\\u003Cbr /\u003E&amp; \\text { নির্ণেয় ল.সা.গু. }=(a+b)(a-b)\\left(a^2-a b+b^2\\right) \\\\\u003Cbr /\u003E&amp; =(a-b)\\left(a^3+b^3\\right)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801650,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179c1b922c0a616b39a4bd\"\u003E[math]x + 1, x ^ 2 - 1[/math] এবং [math]x ^ 3 + 1[/math] এর ল.সা.গু. নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে, ১ম রাশি [math]= x + 1[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\text { ২য় রাশি }=x^2-1 \\\\\u003Cbr /\u003E&amp; =x^2-1^2 \\\\\u003Cbr /\u003E&amp; =(x+1)(x-1) \\\\\u003Cbr /\u003E&amp; \\text { ৩য় রাশি }=x^3+1 \\\\\u003Cbr /\u003E&amp; =x^3+1^3 \\\\\u003Cbr /\u003E&amp; =(x+1)\\left(x^2-x+1\\right) \\\\\u003Cbr /\u003E&amp; \\text { নির্ণেয় ল.সা.গু. }=(x+1)(x-1)\\left(x^2-x+1\\right) \\\\\u003Cbr /\u003E&amp; =(x-1)\\left(x^3+1\\right)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801651,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179c9c922c0a616b39a59f\"\u003E[math]a ^ 2 - b ^ 2[/math] এবং [math]a ^ 4 + a ^ 2 b ^ 2 + b ^ 4[/math] এর ল.সা.গু. কত?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { এখানে, ১ম রাশি } &amp; =a^2-b^2 \\\\\u003Cbr /\u003E&amp; =(a+b)(a-b)\u003Cbr /\u003E\\end{aligned}[/math]\u003Cbr /\u003E[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { ২য় রাশি } &amp; =a^4+a^2 b^2+b^4 \\\\\u003Cbr /\u003E&amp; =(a)^2+2 a^2 b^2+\\left(b^2\\right)^2-a^2 b^2 \\\\\u003Cbr /\u003E&amp; =\\left(a^2+b^2\\right)^2-(a b)^2 \\\\\u003Cbr /\u003E&amp; =\\left(a^2+b^2+a b\\right)\\left(a^2+b^2-a b\\right)\u003Cbr /\u003E\\end{aligned}[/math]\u003Cbr /\u003Eনির্ণেয় ল.সা.গু. [math]=(a+b)(a-b)\\left(a^2+a b+b^2\\right)\\left(a^2-a b+b^2\\right)[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; =\\left(a^3+b^3\\right)\\left(a^3-b^3\\right) \\\\\u003Cbr /\u003E&amp; =a^6-b^6\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801652,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681797ca922c0a616b399c7b\"\u003E[math]6x ^ 2 + 3xy,[/math] [math]2x ^ 3 + 5x ^ 2 - 12x[/math] এবং [math]x ^ 4 - 8x[/math] এর গ.সা.গু. নির্ণয় কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} \\text { এখানে, ১ম রাশि } &amp; =6 x^2+3 x y \\\\ &amp; =3 x(2 x+y) \\\\ \\text { ২য় রাশি } &amp; =2 x^3+5 x^2-12 x \\\\ &amp; =x\\left(2 x^2+5 x-12\\right) \\\\ &amp; =x\\left(2 x^2+8 x-3 x-12\\right) \\\\ &amp; =x\\{2 x(x+4)-3(x+4)\\} \\\\ &amp; =x(x+4)(2 x-3) \\\\ \\text { ৩য় রাশি } &amp; =x^4-8 x \\\\ &amp; =x\\left(x^3-8\\right) \\\\ &amp; =x\\left(x^3-2^3\\right) \\\\ &amp; =x(x-2)\\left(x^2+x \\cdot 2+2^2\\right) \\\\ &amp; =x(x-2)\\left(x^2+2 x+4\\right)\\end{aligned}[/math]\u003Cbr /\u003Eনির্ণেয় গ.সা.গু. [math]= x[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801653,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179ad5922c0a616b39a25d\"\u003E[math]5x^2y^3z^2, 10xy^2z^3[/math] এবং [math]15xy^3z[/math] এর ল.সা.গু. নির্ণয়।\u003C/div\u003E",
+        "solution": "এখানে [math]5, 10[/math] এবং [math]15 [/math] এর ল.সা.গু. [math]=30 [/math]\u003Cbr /\u003Eপ্রদত্ত রাশিগুলোর সর্বোচ্চ সাধারণ ঘাতের উৎপাদক যথাক্রমে [math]x^2, y^3, z^3[/math][math]\\therefore[/math] নির্ণেয় ল.সা.গু. [math]=30 x^2 y^3 z^3[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801625,
+      "value": {
+        "options": {
+          "ক": "[math]x^4+x^2 y^2+y^4[/math]",
+          "খ": "[math]\\mathrm{x}^6-\\mathrm{y}^6[/math]",
+          "গ": "[math]x^6+y^6[/math]",
+          "ঘ": "[math](x+y)^3(x-y)^3\\left(x^2+x y+y^2\\right)^2[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x^3+y^3, x^3-y^3[/math] এবং [math]x^4+x^2 y^2+y^4[/math] তিনটি বীজগাণিতিক রাশি। রাশি তিনটির ল.সা.গু কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801625,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801625,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801624,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{a}(\\mathrm{a}-\\mathrm{b})[/math]",
+          "খ": "[math]\\mathrm{a}(\\mathrm{a}+\\mathrm{b})[/math]",
+          "গ": "[math]\\mathrm{a}\\left(\\mathrm{a}^2-\\mathrm{b}^2\\right)[/math]",
+          "ঘ": "[math]\\mathrm{a}\\left(\\mathrm{a}^2+\\mathrm{b}^2\\right)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a-b, a^2-a b, a^2-b^2[/math] এর ল.সা.গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "১ম রাশি = [math]a-b[/math]; ২য় রাশি = [math]a(a-b)[/math]\u003Cbr /\u003E৩য় রাশি [math]=(a+b)(a-b)[/math][math]\\therefore[/math] নির্ণেয় ল.সা.গু. [math]=a(a-b)(a+b)=a\\left(a^2-b^2\\right)[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801624,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801624,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801626,
+      "value": {
+        "options": {
+          "ক": "গ.সা.গু",
+          "খ": "ল.সা.গু.",
+          "গ": "গুণনীয়ক",
+          "ঘ": "কোনটিই নয়"
+        },
+        "question": "\u003Cdiv\u003Eদুই বা ততোধিক রাশির সকল উৎপাদকের সর্বোচ্চ ঘাতের গুণফল&nbsp;নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801626,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801626,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801627,
+      "value": {
+        "options": {
+          "ক": "31",
+          "খ": "15",
+          "গ": "63",
+          "ঘ": "127"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{a}=2[/math] হলে, [math]\\mathrm{a}^3-1, \\mathrm{a}^3+1[/math] এবং [math]\\mathrm{a}^4+\\mathrm{a}^2+1[/math] রাশি তিনটির ল.সা.গু এর সাংখ্যিক মান কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801627,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801627,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801628,
+      "value": {
+        "options": {
+          "ক": "[math](a - b)&nbsp; (a + b) ^ 2[/math]",
+          "খ": "[math](a + b)(a - b)[/math]",
+          "গ": "[math]a ^ 2 + b ^ 2[/math]",
+          "ঘ": "[math](a - b) ^ 2&nbsp; (a - b)[/math]"
+        },
+        "question": "\u003Cdiv\u003Eকোন ক্ষুদ্রতম রাশিকে [math](a + b), a ^ 2 - b ^ 2[/math] ও [math](a + b) ^ 2[/math] দ্বারা ভাগ করলে&nbsp;নিঃশেষে বিভাজ্য হবে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801628,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801628,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801629,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eনিচের তথ্যগুলো লক্ষ কর:\u003Cbr\u003E\ni. [math]9 a^4+2 a^2 b^2-32 b^4[/math] রাশিটির একটি উৎপাদক [math]a^2+2 b^2[/math]\u003Cbr\u003E\nii. [math]a^3-1, a^3+1[/math], এবং [math]a^4+a^2+1[/math] এর ল.সা.গু. [math]a^6-1[/math]\u003Cbr\u003E\niii. [math]18(\\mathrm{x}+\\mathrm{y})^3, 24(\\mathrm{x}+\\mathrm{y})^2[/math] এবং [math]32\\left(\\mathrm{x}^2-\\mathrm{y}^2\\right)[/math] এর গ.সা.গু. [math]2(\\mathrm{x}+\\mathrm{y})[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801629,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801629,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801629,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801630,
+      "value": {
+        "options": {
+          "ক": "[math]12(a + b)[/math]",
+          "খ": "[math]12(a ^ 2 - b ^ 2)[/math]",
+          "গ": "[math]12ab(a ^ 2 - b ^ 2)[/math]",
+          "ঘ": "[math]2ab(a ^ 2 - b ^ 2)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]2(a+b), 4\\left(a^2-b^2\\right)[/math] এবং [math]12\\left(a^2 b+a b^2\\right)[/math] তিনটি বীজগাণিতিক রাশি।\u003Cbr\u003E\nরাশি তিনটির ল.সা.গু নিচের কোনটি?\u003C/div\u003E",
+        "solution": "উপরের ব্যাখ্যা অনুযায়ী ল.সা.গু. [math]= 12ab(a ^ 2 - b ^ 2)[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4658,
+          "full_name": "দি. বো.'২০১৮",
+          "short_name": "দি. বো.'২০১৮",
+          "slug": "di-bo2018",
+          "pivot": {
+            "question_bank_id": 801630,
+            "tag_id": 4658,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801630,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801630,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801630,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801631,
+      "value": {
+        "options": {
+          "খ": "1",
+          "গ": "[math]a-b[/math]",
+          "ঘ": "[math]a+b[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{a}^3-\\mathrm{b}^3[/math] এবং [math]\\mathrm{a}^3+\\mathrm{b}^3[/math] এর গ. সা. গু কত?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\mathrm{a}^3-\\mathrm{b}^3=(\\mathrm{a}-\\mathrm{b})\\left(\\mathrm{a}^2+\\mathrm{ab}+\\mathrm{b}^2\\right) \\\\\u003Cbr /\u003E&amp; \\mathrm{a}^3+\\mathrm{b}^3=(\\mathrm{a}+\\mathrm{b})\\left(\\mathrm{a}^2-\\mathrm{ab}+\\mathrm{b}^2\\right) \\\\\u003Cbr /\u003E&amp; \\therefore \\text { গ. সা. গু }=1\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3966,
+          "full_name": "ব. বো.'২০১৮",
+          "short_name": "ব. বো.'২০১৮",
+          "slug": "b-bo2018",
+          "pivot": {
+            "question_bank_id": 801631,
+            "tag_id": 3966,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801631,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801631,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801632,
+      "value": {
+        "options": {
+          "ক": "[math]x - 3[/math]",
+          "খ": "[math]x + 3[/math]",
+          "গ": "[math]4-x[/math]",
+          "ঘ": "[math]x ^ 2 + 3x + 9[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - 9, x ^ 2 - 7x + 12[/math] এবং&nbsp;[math]x ^ 3 - 27[/math]&nbsp;রাশি তিনটির গ.সা.গু. কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3972,
+          "full_name": "কু. বো.",
+          "short_name": "কু. বো.",
+          "slug": "ku-bo",
+          "pivot": {
+            "question_bank_id": 801632,
+            "tag_id": 3972,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801632,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801632,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801633,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x^4-1, x^2+2 x+1, x^2-2 x+1[/math] তিনটি বীজগণিতীয় রাশির-\u003Cbr\u003E\ni. ল.সা.গু. [math]=\\left(x^2+1\\right)(x+1)^2(x-1)^2[/math]\u003Cbr\u003E\nii. গ.সা.গু. [math]=1[/math]\u003Cbr\u003E\niii. গণফল [math]=\\left(\\mathrm{x}^2-1\\right)^3\\left(\\mathrm{x}^2+1\\right)[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801633,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801633,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801633,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801634,
+      "value": {
+        "options": {
+          "ক": "[math]\\mathrm{a}+\\mathrm{b}[/math]",
+          "খ": "[math]2(a+b)[/math]",
+          "গ": "[math]4(\\mathrm{a}+\\mathrm{b})[/math]",
+          "ঘ": "[math]12(\\mathrm{a}+\\mathrm{b})[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]2(a+b), 4\\left(a^2-b^2\\right)[/math] এবং [math]12\\left(a^2 b+a b^2\\right)[/math] তিনটি বীজগাণিতিক রাশি।\u003Cbr\u003E\nরাশি তিনটির গ.সা.গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "প্রথম রাশি [math]=2(a+b)[/math]\u003Cbr /\u003Eদ্বিতীয় রাশি [math]=4\\left(a^2-b^2\\right)=2.2(a+b)(a-b)[/math]\u003Cbr /\u003Eতৃতীয় রাশি [math]=12\\left(a^2 b+a b^2\\right)=2 \\cdot 2 \\cdot 3 \\cdot a b(a+b)[/math][math]\\therefore[/math] গ.সা.গু. [math]=2(a+b)[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4658,
+          "full_name": "দি. বো.'২০১৮",
+          "short_name": "দি. বো.'২০১৮",
+          "slug": "di-bo2018",
+          "pivot": {
+            "question_bank_id": 801634,
+            "tag_id": 4658,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801634,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801634,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801634,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801635,
+      "value": {
+        "options": {
+          "ক": "[math]1 + 3x + 9x ^ 2[/math]",
+          "খ": "[math](3x - 1)(1 + 3&nbsp; x+ 9x ^ 2)[/math]",
+          "গ": "[math]3x - 1[/math]",
+          "ঘ": "[math]3x + 1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]9x ^ 2 - 1, 27x^ 3-1, 9x ^ 2 + 3x + 1[/math]\u003Cbr\u003E\n২য় ও ৩য় রাশির ল.সা.গু. কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801635,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801635,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801635,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801636,
+      "value": {
+        "options": {
+          "ক": "[math]9 x^2 y^2[/math]",
+          "খ": "[math]9 x y^2[/math]",
+          "গ": "[math]9 x^2 y[/math]",
+          "ঘ": "[math]9 x y[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]18 x^3 y^2, 27 x^2 y, 45 x y^3[/math] এর গ.সা.গু কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4656,
+          "full_name": "ম. বো.'২০১৯",
+          "short_name": "ম. বো.'২০১৯",
+          "slug": "m-bo2019",
+          "pivot": {
+            "question_bank_id": 801636,
+            "tag_id": 4656,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801636,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801636,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801637,
+      "value": {
+        "options": {
+          "ক": "[math]1[/math]",
+          "খ": "[math]\\mathrm{x}-2[/math]",
+          "গ": "[math]x^2 y(x-2)[/math]",
+          "ঘ": "[math]{x}^2 y\\left(x^2-4\\right)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x^3-2 x^2, x^2-4[/math] এবং [math]x y-2 y[/math] এর গ.সা.গু. কত?&nbsp;\u003C/div\u003E",
+        "solution": "১ম রাশি [math]=\\mathrm{x}^3-2 \\mathrm{x}^2=\\mathrm{x}^2(\\mathrm{x}-2)[/math]\u003Cbr /\u003E২য় রাশি [math]=x^2-4=(x+2)(x-2)[/math]\u003Cbr /\u003E৩য় রাশি [math]=x y-2 y=y(x-2)[/math][math]\\therefore[/math] গ.সা.গু. [math]=(x-2)[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 801637,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801637,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801637,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801638,
+      "value": {
+        "options": {
+          "ক": "[math]2 x[/math]",
+          "খ": "[math]2 x(x+1)[/math]",
+          "গ": "[math]2 x(x-1)[/math]",
+          "ঘ": "[math]4 x^2\\left(x^2-1\\right)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]2 x\\left(x^3-1\\right), 4 x^2\\left(x^2-1\\right)[/math] এর গ.সা.গু. কত?\u003C/div\u003E",
+        "solution": "১ম রাশি [math]=2 \\mathrm{x}\\left(\\mathrm{x}^3-1\\right)=2 \\mathrm{x}(\\mathrm{x}-1)\\left(\\mathrm{x}^2+\\mathrm{x}+1\\right)[/math]\u003Cbr /\u003E২য় রাশি [math]=4 \\mathrm{x}^2\\left(\\mathrm{x}^2-1\\right)=4 \\mathrm{x}^2(\\mathrm{x}+1)(\\mathrm{x}-1)[/math][math]\\therefore[/math] নির্ণেয় গ. সা.গু [math]=2 \\mathrm{x}(\\mathrm{x}-1)[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3811,
+          "full_name": "য. বো.'২০১৭",
+          "short_name": "য. বো.'২০১৭",
+          "slug": "z-bo2017",
+          "pivot": {
+            "question_bank_id": 801638,
+            "tag_id": 3811,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801638,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801638,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801639,
+      "value": {
+        "options": {
+          "ক": "[math]x - 3[/math]",
+          "খ": "[math]x + 3[/math]",
+          "গ": "[math]x - 4[/math]",
+          "ঘ": "[math]x + 4[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - 16, x ^ 2 + x - 12[/math] ও [math]x ^ 3 + 64[/math] এর গ.সা.গু. কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801639,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801639,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801640,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]p ^ 2 - 4p + 3[/math] এবং [math]p ^ 2 - 9[/math] দুইটি বীজগাণিতিক রাশি হলে-\u003Cbr\u003E\ni. রাশি দুইটির গ.সা.গু [math]p - 3[/math]\u003Cbr\u003E\nii. রাশি দুইটির ল.সা.গু [math]p(p + 3)(p - 3)(p - 1)[/math]\u003Cbr\u003E\niii. ১ম রাশিতে [math]p ^ 2[/math] এর সহগ [math]1[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; \\mathrm{p}^2-4 \\mathrm{p}+3=\\mathrm{p}^2-3 \\mathrm{p}-\\mathrm{p}+3=(\\mathrm{p}-3)(\\mathrm{p}-1) \\\\ &amp; \\mathrm{p}^2-9=(\\mathrm{p}+3)(\\mathrm{p}-3) \\\\ &amp; \\therefore \\text { গ.সা.গু }=\\mathrm{p}-3 \\\\ &amp; \\text { এবং ল.সা.গু }=(\\mathrm{p}+3)(\\mathrm{p}-3)(\\mathrm{p}-1)\\end{aligned}[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3959,
+          "full_name": "চ. বো.'২০১৮",
+          "short_name": "চ. বো.'২০১৮",
+          "slug": "c-bo2018",
+          "pivot": {
+            "question_bank_id": 801640,
+            "tag_id": 3959,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801640,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801640,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801640,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801641,
+      "value": {
+        "options": {
+          "ক": "[math]1[/math]",
+          "খ": "[math]1 - 2x[/math]",
+          "গ": "[math]1 - 4x ^ 2[/math]",
+          "ঘ": "[math]1 - 8x ^ 3[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]1 - 2x, 1 - 4x ^ 2[/math] ও [math]1 - 8x ^ 3[/math] তিনটি বীজগণিতীয় রাশি\u003Cbr\u003E\nরাশি তিনটির গ.সা.গু কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 801641,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801641,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801641,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801641,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801642,
+      "value": {
+        "options": {
+          "ক": "[math]1[/math]",
+          "খ": "[math]3x - 1[/math]",
+          "গ": "[math]3x + 2[/math]",
+          "ঘ": "[math]3x - 3[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]9x ^ 2 - 1, 27x^ 3-1, 9x ^ 2 + 3x + 1[/math]\u003Cbr\u003E\nরাশি তিনটির গ.সা.গু. কত?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801642,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801642,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801642,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801609,
+      "value": {
+        "options": {
+          "ক": "[math](x + 2) [/math]",
+          "খ": "[math](x - 2) [/math]",
+          "গ": "[math](x - 4) [/math]",
+          "ঘ": "[math](x + 4) [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x²-4[/math] এবং [math]xy - 2y[/math] এর গ. সা. গু নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. [math](x - 2) [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801609,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801595,
+      "value": {
+        "options": {
+          "ক": "[math]x + 2 [/math]",
+          "খ": "[math]x - 2 [/math]",
+          "গ": "[math]x ^ 2 + 2x + 4 [/math]",
+          "ঘ": "[math]x ^ 2 - 2x + 8 [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - 4, x³-8[/math] ও [math]x ^ 2 - 2x[/math] এর গ.সা.গু. কত?\u003C/div\u003E",
+        "solution": "খ. [math]x - 2 [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801595,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801596,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]4 (a + 2) ^ 2[/math] এবং [math]2(a ^ 2 - b ^ 2)[/math] রাশি দুটির জন্য&nbsp;\u003Cbr\u003E\ni. সংখ্যা সহগের গ. সা. গু. [math]2[/math]&nbsp;\u003Cbr\u003E\nii. সাধারণ উৎপাদক [math]2(a + b)[/math]\u003Cbr\u003E\niii. গ. সা. গু [math]2(a + b)[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801596,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801596,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801597,
+      "value": {
+        "options": {
+          "ক": "[math]x ^ 2&nbsp; y(x ^ 2 - y ^ 2) [/math]",
+          "খ": "[math]xy(x + y) [/math]",
+          "গ": "[math]xy&sup2;(x + y) [/math]",
+          "ঘ": "[math]x&sup2;y(x - y)&nbsp;[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - y ^ 2, x + y, x ^ 3&nbsp; y + x ^ 2&nbsp; y ^ 2[/math] তিনটি রাশি।\u003Cbr\u003E\nরাশি তিনটির ল. সা. গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. [math]x ^ 2 y(x ^ 2 - y ^ 2) [/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801597,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801597,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801598,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eনিচের তথ্যগুলো লক্ষ কর:&nbsp;\u003Cbr\u003E\ni. যে রাশি দুই বা ততোধিক রাশির প্রত্যেকটির গুণনীয়ক তাকে উক্ত রাশিগুলোর সাধারণ গুণনীয়ক বলে&nbsp;\u003Cbr\u003E\nii. [math]a²b, ab, 5bc[/math] এর সাধারণ গুণনীয়ক ৮&nbsp;\u003Cbr\u003E\niii. [math](a ^ 2 - b ^ 2) odot(a^ 2 +b^ 2 )[/math] এর সাধারণ গুণনীয়ক [math](a + b) ^ 2[/math]&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801598,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801598,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801599,
+      "value": {
+        "options": {
+          "ক": "[math]xy [/math]",
+          "খ": "[math]x + y &nbsp;[/math]",
+          "গ": "[math]xy(x + y) &nbsp;[/math]",
+          "ঘ": "[math]x ^ 3&nbsp; y(x + y) [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 3 + x ^ 2&nbsp; y, x ^ 2&nbsp; y + x&nbsp; y ^ 2[/math] এর ল.সা.গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. [math]x ^ 3 y(x + y) [/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801600,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]p(q+r), pq(q + r)[/math]- এর ক্ষেত্রে&nbsp;\u003Cbr\u003E\ni. সহগগুলোর গুণফল [math]pq[/math]\u003Cbr\u003E\nii. সাধারণ উৎপাদক [math]p(q + r)[/math]\u003Cbr\u003E\niii. গ. সা. গু. [math]p(q + r)[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "খ. ii ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801600,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801600,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801601,
+      "value": {
+        "options": {
+          "ক": "3(x + y)",
+          "খ": "2(x + y)",
+          "গ": "(x + y)\u003Csup\u003E2\u003C/sup\u003E",
+          "ঘ": "24(x + y)"
+        },
+        "question": "\u003Cdiv\u003E[math](x + y) ^ 3, 24&nbsp; (x + y) ^ 2, 32(x² - y²)[/math] তিনটি রাশি\u003Cbr\u003E\n১ম ও ২য় রাশির গ. সা. গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "গ. (x + y)\u003Csup\u003E2\u003C/sup\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801601,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801601,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801602,
+      "value": {
+        "options": {
+          "ক": "[math]x ^ 2 y ^ 2&nbsp; z[/math]",
+          "খ": "[math]x ^ 2&nbsp; y ^ 2&nbsp; z ^ 2[/math] ",
+          "গ": "[math]x ^ 2&nbsp; yz[/math]",
+          "ঘ": "[math]xyz[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 yz, x&nbsp; y ^ 2[/math] ও [math]xyz[/math] এর ল.সা.গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. [math]x ^ 2 y ^ 2 z[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801602,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801603,
+      "value": {
+        "options": {
+          "ক": "[math]x ^ 3 + y ^ 3 [/math]",
+          "খ": "[math]x ^ 3 - y ^ 3 [/math]",
+          "গ": "[math](x ^ 3 - y ^ 3)(x ^ 6 - y ^ 6) [/math]",
+          "ঘ": "[math]x ^ 6 - y ^ 6[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 3 - y ^ 3[/math] এবং [math]x ^ 6 - y ^ 6[/math] এর ল.সা.গু. কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. [math]x ^ 6 - y ^ 6[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801603,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801604,
+      "value": {
+        "options": {
+          "ক": "[math]x + y [/math]",
+          "খ": "[math]x - y [/math]",
+          "গ": "[math]x ^ 2 - y ^ 2 [/math]",
+          "ঘ": "[math](x + y) ^ 2 [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - y ^ 2, x + y, x ^ 3&nbsp; y + x ^ 2&nbsp; y ^ 2[/math] তিনটি রাশি।\u003Cbr\u003E\n১ম ও ২য় রাশির ল. সা. গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "১ম রাশি, [math]x^2-y^2=(x+y)(x-y)[/math]\u003Cbr /\u003E২য় রাশি [math]=x+y[/math]\u003Cbr /\u003Eনির্ণেয় ল. সা. গু. [math]=(x+y)(x-y)=x^2-y^2[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801604,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801604,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801605,
+      "value": {
+        "options": {
+          "ক": "[math]x[/math]",
+          "খ": "[math]y [/math]",
+          "গ": "[math]xy [/math]",
+          "ঘ": "[math]xy ^ 2[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]xy, x y ^ 2, 5x[/math] রাশিগুলোর সাধারণ গুণনীয়ক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. [math]x[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801606,
+      "value": {
+        "options": {
+          "ক": "[math]x-y [/math]",
+          "খ": "[math]x(x - y) &nbsp;[/math]",
+          "গ": "[math]x ^ 2 - y ^ 2 &nbsp;[/math]",
+          "ঘ": "[math]x(x ^ 2 - y ^ 2) [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x - y, x ^ 2 - xy, x ^ 2 - y ^ 2[/math] এর ল, সা, গু নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. [math]x(x ^ 2 - y ^ 2) [/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801607,
+      "value": {
+        "options": {
+          "ক": "[math]a^3b^2c^2[/math]",
+          "খ": "[math]a^3b^2c^3[/math]",
+          "গ": "[math]a^5b^2c^3[/math]",
+          "ঘ": "[math]a^5b^3c^3[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a^3b^2c^3[/math] এবং [math]a^5b^2c^4[/math] এর গ.সা.গু নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. [math]a^3b^2c^3[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801607,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801608,
+      "value": {
+        "options": {
+          "ক": "[math]x+y [/math]",
+          "খ": "[math]x&sup2; + y&sup2; [/math]",
+          "গ": "[math]x&sup2; - y&sup2;[/math]",
+          "ঘ": "[math]1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math](x²+ y²)²[/math] এবং [math](x^4 + y^4)[/math] এর গ. সা. গু. কত?\u003C/div\u003E",
+        "solution": "১ম রাশি [math]\\left(x^2+y^2\\right)^2=\\left(x^2+y^2\\right)\\left(x^2+y^2\\right)[/math]\u003Cbr /\u003E২য় রাশি [math]\\left(x^4+y^4\\right)=\\left(x^2\\right)^2+\\left(y^2\\right)^2[/math][math]\u003Cbr /\u003E=\\left(x^2+y^2\\right)^2-2 x^2 y^2\u003Cbr /\u003E[/math]\u003Cbr /\u003Eনিণেয় গ. সা. গু.।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801608,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801594,
+      "value": {
+        "options": {
+          "ক": "[math]x-y [/math]",
+          "খ": "[math]x ^ 3 - y ^ 3 &nbsp;[/math]",
+          "গ": "[math](x - y) ^ 2 &nbsp;[/math]",
+          "ঘ": "[math]x ^ 2 + xy + y ^ 2 [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x-y,x^ 2 +xy+y^ 2[/math] ও [math]x ^ 3 - y ^ 3[/math] এর ল.সা.গু কত?\u003C/div\u003E",
+        "solution": "খ. [math]x ^ 3 - y ^ 3 [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801610,
+      "value": {
+        "options": {
+          "ক": "[math](x + y) ^ 3 [/math]",
+          "খ": "[math](x + y) ^ 3 [/math]",
+          "গ": "[math]x ^ 3 + y ^ 3&nbsp; [/math]",
+          "ঘ": "[math](x + y) [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math](x + y) ^ 3[/math] এবং [math]x ^ 3 + y ^ 3[/math] এর গ.সা.গু. কত?\u003C/div\u003E",
+        "solution": "ঘ. [math](x + y) [/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801610,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801611,
+      "value": {
+        "options": {
+          "ক": "[math]а [/math]",
+          "খ": "[math]a(a + 2) [/math]",
+          "গ": "[math]a&nbsp; (a + 2) ^ 2 [/math]",
+          "ঘ": "[math]a(a ^ 2 - 4) [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a ^ 3 - 3a ^ 2 - 10a, a ^ 3 + 6a ^ 2 + 8a[/math] ও [math]a ^ 4 - 5a ^ 3 - 14a ^ 2[/math] এর গ.সা.গু. কোনটি?\u003C/div\u003E",
+        "solution": "খ. [math]a(a + 2) [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801611,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801612,
+      "value": {
+        "options": {
+          "ক": "6",
+          "খ": "4",
+          "গ": "3",
+          "ঘ": "1"
+        },
+        "question": "\u003Cdiv\u003E[math](x + y) ^ 3, 24&nbsp; (x + y) ^ 2, 32(x² - y²)[/math] তিনটি রাশি\u003Cbr\u003E\nপ্রদত্ত রাশিগুলোর সহগগুলোর গ. সা. গু. কত?\u003C/div\u003E",
+        "solution": "1, 24 ও 32 এর গ. সা. গু. = 1",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801612,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801612,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801613,
+      "value": {
+        "options": {
+          "ক": "2(x + y)",
+          "খ": "2(x + y)\u003Csup\u003E2\u003C/sup\u003E",
+          "গ": "(x + y)\u003Csup\u003E2\u003C/sup\u003E",
+          "ঘ": "(x + y)"
+        },
+        "question": "\u003Cdiv\u003E[math](x + y) ^ 3, 24&nbsp; (x + y) ^ 2, 32(x² - y²)[/math] তিনটি রাশি\u003Cbr\u003E\nপ্রদত্ত রাশিগুলোর গ. সা. গু. নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. (x + y)",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801613,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801613,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801614,
+      "value": {
+        "options": {
+          "ক": "[math]5x ^ 2&nbsp; y[/math]",
+          "খ": "[math]20x ^ 4&nbsp; y ^ 2[/math]",
+          "গ": "[math]50x ^ 9&nbsp; y ^ 4[/math]",
+          "ঘ": "[math]100x ^ {24}&nbsp; y ^ 2[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]5x ^ 3, 10x ^ 2&nbsp; y[/math] ও [math]20x ^ 4[/math] এর ল. সা. গু. নির্ণয় কর?\u003C/div\u003E",
+        "solution": "ক. [math]5x ^ 2 y[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801614,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801615,
+      "value": {
+        "options": {
+          "ক": "[math]x ^ 2&nbsp; y ^ 2 [/math]",
+          "খ": "[math]x + y [/math]",
+          "গ": "[math](x + y) ^ 2 [/math]",
+          "ঘ": "[math]x ^ 2 + y ^ 2&nbsp;[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - y ^ 2, x + y, x ^ 3&nbsp; y + x ^ 2&nbsp; y ^ 2[/math] তিনটি রাশি।\u003Cbr\u003E\n৩য় রাশির উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. [math]x + y [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801615,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801615,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801616,
+      "value": {
+        "options": {
+          "ক": "[math]x[/math]",
+          "খ": "[math]x - 5[/math]",
+          "গ": "[math]x - 2[/math]",
+          "ঘ": "[math]x + 5[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - 5x, x ^ 2 - 25[/math] এবং [math]x ^ 2 - 7x + 10[/math] এর গ.সা.গু. কোনটি?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; \\text { প্রথম রাশি }=x(x-5) \\\\ &amp; \\text { দ্বিতীয় রাশি }=(x+5)(x-5) \\\\ &amp; \\text { তৃতীয় রাশি }=x^2-5 x-2 x+10 \\\\ &amp; \\quad=x(x-5)-2(x-5)=(x-5)(x-2) \\\\ &amp; \\therefore \\text { নির্ণেয় গ.সা.গু }=x-5\\end{aligned}[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3965,
+          "full_name": "রা. বো.'২০১৮",
+          "short_name": "রা. বো.'২০১৮",
+          "slug": "ra-bo2018",
+          "pivot": {
+            "question_bank_id": 801616,
+            "tag_id": 3965,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801616,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801616,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801617,
+      "value": {
+        "options": {
+          "ক": "[math]2 x y\\left(x^4-y^4\\right)[/math]",
+          "খ": "[math]2 x y\\left(x^2+y^2\\right)(x-y)[/math]",
+          "গ": "[math]2 x y\\left(x^4+y^4\\right)[/math]",
+          "ঘ": "[math]2 x y\\left(x^2-y^2\\right)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\left(x^4-y^4\\right), 2(x+y),\\left(2 x^2 y+2 x y^2\\right)[/math] এদের ল.সা.গু কত?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801617,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801617,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801618,
+      "value": {
+        "options": {
+          "ক": "[math]x + y[/math]",
+          "খ": "[math]x - y[/math]",
+          "গ": "[math]x ^ 3 + y ^ 3[/math]",
+          "ঘ": "[math]x ^ 2 + y ^ 2[/math]"
+        },
+        "question": "\u003Cdiv\u003Eদুইটি রাশির গ.সা.গু [math]1[/math] এবং ল.সা.গু [math]x ^ 3 + y ^ 3[/math] । তাদের একটি&nbsp;[math]x ^ 2 - xy + y ^ 2[/math] হলে অপরটি কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801618,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801618,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801619,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 3 + 1[/math] এবং [math]x ^ 3 - 1[/math] রাশি দুইটির-\u003Cbr\u003E\ni. গ.সা.গু. [math]= 1[/math]\u003Cbr\u003E\nii. ল.সা.গু. [math]= x ^ 6 - 1[/math]\u003Cbr\u003E\niii. গুণফল [math]= x ^ 6 - 1[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801619,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801619,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801619,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801620,
+      "value": {
+        "options": {
+          "ক": "[math](1 - 2x)(1 - 8x ^ 3)[/math]",
+          "খ": "[math](1 + 4x ^ 2)(1 + 2x + 4x ^ 2)[/math]",
+          "গ": "[math](1 + 2x)(1 - 8x ^ 3)[/math]",
+          "ঘ": "[math](1 - 4x ^ 2)(1 - 2x + 4x ^ 2)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]1 - 2x, 1 - 4x ^ 2[/math] ও [math]1 - 8x ^ 3[/math] তিনটি বীজগণিতীয় রাশি\u003Cbr\u003E\nরাশি তিনটির ল.সা.গু কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801620,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801620,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801620,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801621,
+      "value": {
+        "options": {
+          "ক": "[math](1 - 3x) ^ 2[/math]",
+          "খ": "[math]1[/math]",
+          "গ": "[math]1 - 3x[/math]",
+          "ঘ": "[math]3x - 1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]9x ^ 2 - 1, 27x^ 3-1, 9x ^ 2 + 3x + 1[/math]\u003Cbr\u003E\n১ম ও ২য় রাশির গ.সা.গু. কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801621,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801621,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801621,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801622,
+      "value": {
+        "options": {
+          "ক": "[math]a+b[/math]",
+          "খ": "[math]3(\\mathrm{a}+\\mathrm{b})[/math]",
+          "গ": "[math](a-b)\\left(a^3+b^3\\right)[/math]",
+          "ঘ": "[math]18(a-b)\\left(a^3+b^3\\right)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]3(a+b), 9\\left(a^2-b^2\\right)[/math] ও [math]18\\left(a^3+b^3\\right)[/math] এর গ. সা. গু কত?\u003C/div\u003E",
+        "solution": "প্রথম রাশি [math]=3(\\mathrm{a}+\\mathrm{b})[/math]\u003Cbr /\u003Eদ্বিতীয় রাশি [math]=9\\left(\\mathrm{a}^2-\\mathrm{b}^2\\right)=3.3(\\mathrm{a}+\\mathrm{b})(\\mathrm{a}-\\mathrm{b})[/math]\u003Cbr /\u003Eতৃতীয় রাশি [math]=18\\left(\\mathrm{a}^3+\\mathrm{b}^3\\right)=6.3 .(\\mathrm{a}+\\mathrm{b})\\left(\\mathrm{a}^2-\\mathrm{ab}+\\mathrm{b}^2\\right)[/math][math]\\therefore[/math] গ. সা. গু [math]=3(a+b)[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4665,
+          "full_name": "সি. বো.'২০১৮",
+          "short_name": "সি. বো.'২০১৮",
+          "slug": "si-bo2018",
+          "pivot": {
+            "question_bank_id": 801622,
+            "tag_id": 4665,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801622,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801622,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801623,
+      "value": {
+        "options": {
+          "ক": "[math]x-y[/math]",
+          "খ": "[math](x-y)^2[/math]",
+          "গ": "[math]x^3-y^3[/math]",
+          "ঘ": "[math]x^2+x y+y^2[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x-y, x^2-x y[/math] ও [math]x^3-y^3[/math] এর গ.সা.গু কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:25:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 801623,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-16T14:25:11.000000Z",
+            "updated_at": "2025-12-16T14:25:11.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801623,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801623,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15568&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15568&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15568&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 61,
+  "total": 61
+}

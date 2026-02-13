@@ -1,0 +1,843 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 803948,
+      "value": {
+        "options": [],
+        "question": "The words in a dictionary are presented in alphabetical order. It follows the alphabetical order of letters. It means words starting with the letter D will be before the words starting with the letter E. In the same way words starting with the letter F will come after the words starting with E.\u003Cbr\u003E\nAgain the words starting with the same letter are also arranged one after another in alphabetical order in the dictionary. For example, the words dark, doctor and deep all start with the letter D. These words appear in the dictionary in the order of dark, deep and doctor.\u003Cbr\u003E\nTo find the words with a letter, look at the words at the top of the page.\u003Cbr\u003E\nWhile doing the activities, use a dictionary or a dictionary page as much as you can.",
+        "solution": "\u003Cp style=\"text-align: justify;\"\u003Eঅভিধানে (ডিকশনারিতে) শব্দগুলো বর্ণানুক্রমিক (alphabetical) ক্রমে সাজানো থাকে। অর্থাৎ এটি অক্ষরগুলোর বর্ণানুক্রম অনুসরণ করে। এর মানে হলো, \u003Cstrong\u003ED\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর আগে থাকবে। একইভাবে, \u003Cstrong\u003EF\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর পরে আসবে।\u003Cbr /\u003Eআবার, একই অক্ষর দিয়ে শুরু হওয়া শব্দগুলোও একটির পর একটি বর্ণানুক্রমে সাজানো থাকে। উদাহরণস্বরূপ, \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edoctor\u003C/strong\u003E এবং \u003Cstrong\u003Edeep\u003C/strong\u003E&mdash;এই তিনটি শব্দই \u003Cstrong\u003ED\u003C/strong\u003E দিয়ে শুরু হয়েছে। এই শব্দগুলো অভিধানে \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edeep\u003C/strong\u003E এবং \u003Cstrong\u003Edoctor\u003C/strong\u003E ক্রমে থাকে।\u003Cbr /\u003Eকোনো নির্দিষ্ট অক্ষর দিয়ে শুরু হওয়া শব্দ খুঁজতে হলে, পৃষ্ঠার উপরের দিকে থাকা শব্দগুলোর দিকে তাকাও।\u003Cbr /\u003Eকার্যক্রমগুলো করার সময় যতটা সম্ভব অভিধান বা অভিধানের পৃষ্ঠা ব্যবহার করো।\u003C/p\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13397,
+      "created_at": "2025-12-22T05:01:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803949,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "jumble",
+              "b": "untidy",
+              "c": "disposition",
+              "d": "chaotic"
+            },
+            "question": "'order' refers to-",
+            "solution": "c. disposition"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803950,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "alphabetical",
+              "b": "unsystematic",
+              "c": "disarrayed",
+              "d": "disarranged"
+            },
+            "question": "Words in a dictionary are usually found in a/an _____ order.",
+            "solution": "a. alphabetical"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803951,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "discard",
+              "b": "precede",
+              "c": "forward",
+              "d": "chase"
+            },
+            "question": "What does the word 'follow' mean?",
+            "solution": "d. chase"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803952,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "parts of speech",
+              "b": "dead language",
+              "c": "noun",
+              "d": "verb"
+            },
+            "question": "We can find the use of _____&nbsp;in dictionary.",
+            "solution": "a. parts of speech"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803953,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "refer to",
+              "b": "conclusion",
+              "c": "ending",
+              "d": "finish"
+            },
+            "question": "The word 'mean' means-",
+            "solution": "a. refer to"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803954,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "letter",
+              "b": "application",
+              "c": "dictionary",
+              "d": "provision"
+            },
+            "question": "Lexicography means-",
+            "solution": "c. dictionary"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803955,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "occasionally",
+              "b": "periodically",
+              "c": "repeatedly",
+              "d": "never"
+            },
+            "question": "What does the word 'again' refer to?",
+            "solution": "c. repeatedly"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803956,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "pronunciation",
+              "b": "announcement",
+              "c": "publication",
+              "d": "proclamation"
+            },
+            "question": "Proper spelling and _____&nbsp;of a word can be found in a&nbsp;dictionary.",
+            "solution": "a. pronunciation"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803957,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "different",
+              "b": "diversity",
+              "c": "unequal",
+              "d": "alike"
+            },
+            "question": "'same' refers to-",
+            "solution": "d. alike"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803958,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": {
+              "a": "letter",
+              "b": "essay",
+              "c": "sentence",
+              "d": "composition"
+            },
+            "question": "Word application in a/an _____ is available in a dictionary.",
+            "solution": "c. sentence"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803959,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": [],
+            "question": "How are the words presented in a dictionary?",
+            "solution": "The words in a dictionary are presented in alphabetical order."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803960,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": [],
+            "question": "What does the alphabetical order of letters mean?",
+            "solution": "The alphabetical order of letters means words starting with the letter D will be before the words starting with the letter E."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803961,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": [],
+            "question": "How are words starting with the same letter arranged?",
+            "solution": "The words starting with the same letter are also arranged one after another in alphabetical order in the dictionary."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803962,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": [],
+            "question": "How many words are there with the letter D in the example? What are they?",
+            "solution": "There are three words with the letter D in the example. They are dark, deep and doctor."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803963,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": [],
+            "question": "What do you do to find a word with a letter in a dictionary?",
+            "solution": "We look at the words at the top of the page to find a word with a letter in a dictionary."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803964,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": [],
+            "question": "What should we do while doing the activities?",
+            "solution": "We should use a dictionary or dictionary page as much as we can while doing the activities."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803965,
+          "linked_parent_id": 803948,
+          "value": {
+            "options": [],
+            "question": "What can be the appropriate title of the text according to you?",
+            "solution": "According to me the appropriate title of the text can be &quot;How to read a dictionary&quot;."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803966,
+      "value": {
+        "options": [],
+        "question": "The words in a dictionary are presented in alphabetical order. It follows the alphabetical order of letters. It means words starting with the letter D will be before the words starting with the letter E. In the same way words starting with the letter F will come after the words starting with E.\u003Cbr\u003E\nAgain the words starting with the same letter are also arranged one after another in alphabetical order in the dictionary. For example, the words dark, doctor and deep all start with the letter D. These words appear in the dictionary in the order of dark, deep and doctor.\u003Cbr\u003E\nTo find the words with a letter, look at the words at the top of the page.\u003Cbr\u003E\nWhile doing the activities, use a dictionary or a dictionary page as much as you can.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eঅভিধানে (ডিকশনারিতে) শব্দগুলো বর্ণানুক্রমিক (alphabetical) ক্রমে সাজানো থাকে। অর্থাৎ এটি অক্ষরগুলোর বর্ণানুক্রম অনুসরণ করে। এর মানে হলো,\u003Cstrong\u003ED\u003C/strong\u003Eঅক্ষর দিয়ে শুরু হওয়া শব্দগুলো\u003Cstrong\u003EE\u003C/strong\u003Eঅক্ষর দিয়ে শুরু হওয়া শব্দগুলোর আগে থাকবে। একইভাবে,\u003Cstrong\u003EF\u003C/strong\u003Eঅক্ষর দিয়ে শুরু হওয়া শব্দগুলো\u003Cstrong\u003EE\u003C/strong\u003Eঅক্ষর দিয়ে শুরু হওয়া শব্দগুলোর পরে আসবে।\u003C/div\u003E\u003Cdiv style=\"text-align: justify;\"\u003Eআবার, একই অক্ষর দিয়ে শুরু হওয়া শব্দগুলোও একটির পর একটি বর্ণানুক্রমে সাজানো থাকে। উদাহরণস্বরূপ,\u003Cstrong\u003Edark\u003C/strong\u003E,\u003Cstrong\u003Edoctor\u003C/strong\u003Eএবং\u003Cstrong\u003Edeep\u003C/strong\u003E&mdash;এই তিনটি শব্দই\u003Cstrong\u003ED\u003C/strong\u003Eদিয়ে শুরু হয়েছে। এই শব্দগুলো অভিধানে\u003Cstrong\u003Edark\u003C/strong\u003E,\u003Cstrong\u003Edeep\u003C/strong\u003Eএবং\u003Cstrong\u003Edoctor\u003C/strong\u003Eক্রমে থাকে।\u003Cbr /\u003Eকোনো নির্দিষ্ট অক্ষর দিয়ে শুরু হওয়া শব্দ খুঁজতে হলে, পৃষ্ঠার উপরের দিকে থাকা শব্দগুলোর দিকে তাকাও।\u003Cbr /\u003Eকার্যক্রমগুলো করার সময় যতটা সম্ভব অভিধান বা অভিধানের পৃষ্ঠা ব্যবহার করো।\u003C/div\u003E"
+      },
+      "question_type_id": 15,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13397,
+      "created_at": "2025-12-22T05:01:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803967,
+          "linked_parent_id": 803966,
+          "value": {
+            "options": [],
+            "question": "In Dictionary, words are presented in (a) _____ order. For example, words starting with D will come before words (b)&nbsp;_____ with E. Again the words starting with the same letter are also (c)&nbsp;_____. For (d) _____, dark, deep, doctor etc. To final words with a letter, we have to look at the (e) _____ of a dictionary page.",
+            "solution": "(a) alphabetical (b) starting (c) arranged (d) example (e) top"
+          },
+          "question_type_id": 16,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 16,
+            "name": "Gap Filling"
+          },
+          "flags": []
+        },
+        {
+          "id": 803968,
+          "linked_parent_id": 803966,
+          "value": {
+            "options": [],
+            "question": "heritage (synonym)",
+            "solution": "legacy"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803969,
+          "linked_parent_id": 803966,
+          "value": {
+            "options": [],
+            "question": "fitment (synonym)",
+            "solution": "equipment"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803970,
+          "linked_parent_id": 803966,
+          "value": {
+            "options": [],
+            "question": "order (synonym)",
+            "solution": "serial"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803971,
+          "linked_parent_id": 803966,
+          "value": {
+            "options": [],
+            "question": "same (antonym)",
+            "solution": "different"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803972,
+          "linked_parent_id": 803966,
+          "value": {
+            "options": [],
+            "question": "deep (antonym)",
+            "solution": "light"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 15,
+        "name": "Seen Passage 2",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803886,
+      "value": {
+        "options": [],
+        "question": "The words in a dictionary are presented in alphabetical order. It follows the alphabetical order of letters. It means words starting with the letter D will be before the words starting with the letter E. In the same way words starting with the letter F will come after the words starting with E.\u003Cbr\u003E\nAgain the words starting with the same letter are also arranged one after another in alphabetical order in the dictionary. For example, the words dark, doctor and deep all start with the letter D. These words appear in the dictionary in the order of dark, deep and doctor.\u003Cbr\u003E\nTo find the words with a letter, look at the words at the top of the page.\u003Cbr\u003E\nWhile doing the activities, use a dictionary or a dictionary page as much as you can.",
+        "solution": "\u003Cp style=\"text-align: justify;\"\u003Eঅভিধানে (ডিকশনারিতে) শব্দগুলো বর্ণানুক্রমিক (alphabetical) ক্রমে সাজানো থাকে। অর্থাৎ এটি অক্ষরগুলোর বর্ণানুক্রম অনুসরণ করে। এর মানে হলো, \u003Cstrong\u003ED\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর আগে থাকবে। একইভাবে, \u003Cstrong\u003EF\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর পরে আসবে।\u003Cbr /\u003Eআবার, একই অক্ষর দিয়ে শুরু হওয়া শব্দগুলোও একটির পর একটি বর্ণানুক্রমে সাজানো থাকে। উদাহরণস্বরূপ, \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edoctor\u003C/strong\u003E এবং \u003Cstrong\u003Edeep\u003C/strong\u003E&mdash;এই তিনটি শব্দই \u003Cstrong\u003ED\u003C/strong\u003E দিয়ে শুরু হয়েছে। এই শব্দগুলো অভিধানে \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edeep\u003C/strong\u003E এবং \u003Cstrong\u003Edoctor\u003C/strong\u003E ক্রমে থাকে।\u003Cbr /\u003Eকোনো নির্দিষ্ট অক্ষর দিয়ে শুরু হওয়া শব্দ খুঁজতে হলে, পৃষ্ঠার উপরের দিকে থাকা শব্দগুলোর দিকে তাকাও।\u003Cbr /\u003Eকার্যক্রমগুলো করার সময় যতটা সম্ভব অভিধান বা অভিধানের পৃষ্ঠা ব্যবহার করো।\u003C/p\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13397,
+      "created_at": "2025-12-22T05:01:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803889,
+          "linked_parent_id": 803886,
+          "value": {
+            "options": {
+              "a": "jumble",
+              "b": "untidy",
+              "c": "disposition",
+              "d": "chaotic"
+            },
+            "question": "'order' refers to-",
+            "solution": "c. disposition"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:01:33.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803441,
+      "value": {
+        "options": [],
+        "question": "The words in a dictionary are presented in alphabetical order. It follows the alphabetical order of letters. It means words starting with the letter D will be before the words starting with the letter E. In the same way words starting with the letter F will come after the words starting with E.\u003Cbr\u003E\nAgain the words starting with the same letter are also arranged one after another in alphabetical order in the dictionary. For example, the words dark, doctor and deep all start with the letter D. These words appear in the dictionary in the order of dark, deep and doctor.\u003Cbr\u003E\nTo find the words with a letter, look at the words at the top of the page.\u003Cbr\u003E\nWhile doing the activities, use a dictionary or a dictionary page as much as you can.",
+        "solution": "\u003Cp style=\"text-align: justify;\"\u003Eঅভিধানে (ডিকশনারিতে) শব্দগুলো বর্ণানুক্রমিক (alphabetical) ক্রমে সাজানো থাকে। অর্থাৎ এটি অক্ষরগুলোর বর্ণানুক্রম অনুসরণ করে। এর মানে হলো, \u003Cstrong\u003ED\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর আগে থাকবে। একইভাবে, \u003Cstrong\u003EF\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর পরে আসবে।\u003Cbr /\u003Eআবার, একই অক্ষর দিয়ে শুরু হওয়া শব্দগুলোও একটির পর একটি বর্ণানুক্রমে সাজানো থাকে। উদাহরণস্বরূপ, \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edoctor\u003C/strong\u003E এবং \u003Cstrong\u003Edeep\u003C/strong\u003E&mdash;এই তিনটি শব্দই \u003Cstrong\u003ED\u003C/strong\u003E দিয়ে শুরু হয়েছে। এই শব্দগুলো অভিধানে \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edeep\u003C/strong\u003E এবং \u003Cstrong\u003Edoctor\u003C/strong\u003E ক্রমে থাকে।\u003Cbr /\u003Eকোনো নির্দিষ্ট অক্ষর দিয়ে শুরু হওয়া শব্দ খুঁজতে হলে, পৃষ্ঠার উপরের দিকে থাকা শব্দগুলোর দিকে তাকাও।\u003Cbr /\u003Eকার্যক্রমগুলো করার সময় যতটা সম্ভব অভিধান বা অভিধানের পৃষ্ঠা ব্যবহার করো।\u003C/p\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13397,
+      "created_at": "2025-12-22T05:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803444,
+          "linked_parent_id": 803441,
+          "value": {
+            "options": {
+              "a": "jumble",
+              "b": "untidy",
+              "c": "disposition",
+              "d": "chaotic"
+            },
+            "question": "'order' refers to-",
+            "solution": "c. disposition"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:00:45.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803402,
+      "value": {
+        "options": [],
+        "question": "The words in a dictionary are presented in alphabetical order. It follows the alphabetical order of letters. It means words starting with the letter D will be before the words starting with the letter E. In the same way words starting with the letter F will come after the words starting with E.\u003Cbr\u003E\nAgain the words starting with the same letter are also arranged one after another in alphabetical order in the dictionary. For example, the words dark, doctor and deep all start with the letter D. These words appear in the dictionary in the order of dark, deep and doctor.\u003Cbr\u003E\nTo find the words with a letter, look at the words at the top of the page.\u003Cbr\u003E\nWhile doing the activities, use a dictionary or a dictionary page as much as you can.",
+        "solution": "\u003Cp style=\"text-align: justify;\"\u003Eঅভিধানে (ডিকশনারিতে) শব্দগুলো বর্ণানুক্রমিক (alphabetical) ক্রমে সাজানো থাকে। অর্থাৎ এটি অক্ষরগুলোর বর্ণানুক্রম অনুসরণ করে। এর মানে হলো, \u003Cstrong\u003ED\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর আগে থাকবে। একইভাবে, \u003Cstrong\u003EF\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর পরে আসবে।\u003Cbr /\u003Eআবার, একই অক্ষর দিয়ে শুরু হওয়া শব্দগুলোও একটির পর একটি বর্ণানুক্রমে সাজানো থাকে। উদাহরণস্বরূপ, \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edoctor\u003C/strong\u003E এবং \u003Cstrong\u003Edeep\u003C/strong\u003E&mdash;এই তিনটি শব্দই \u003Cstrong\u003ED\u003C/strong\u003E দিয়ে শুরু হয়েছে। এই শব্দগুলো অভিধানে \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edeep\u003C/strong\u003E এবং \u003Cstrong\u003Edoctor\u003C/strong\u003E ক্রমে থাকে।\u003Cbr /\u003Eকোনো নির্দিষ্ট অক্ষর দিয়ে শুরু হওয়া শব্দ খুঁজতে হলে, পৃষ্ঠার উপরের দিকে থাকা শব্দগুলোর দিকে তাকাও।\u003Cbr /\u003Eকার্যক্রমগুলো করার সময় যতটা সম্ভব অভিধান বা অভিধানের পৃষ্ঠা ব্যবহার করো।\u003C/p\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13397,
+      "created_at": "2025-12-22T05:00:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803405,
+          "linked_parent_id": 803402,
+          "value": {
+            "options": {
+              "a": "jumble",
+              "b": "untidy",
+              "c": "disposition",
+              "d": "chaotic"
+            },
+            "question": "'order' refers to-",
+            "solution": "c. disposition"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T05:00:21.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803356,
+      "value": {
+        "options": [],
+        "question": "The words in a dictionary are presented in alphabetical order. It follows the alphabetical order of letters. It means words starting with the letter D will be before the words starting with the letter E. In the same way words starting with the letter F will come after the words starting with E.\u003Cbr\u003E\nAgain the words starting with the same letter are also arranged one after another in alphabetical order in the dictionary. For example, the words dark, doctor and deep all start with the letter D. These words appear in the dictionary in the order of dark, deep and doctor.\u003Cbr\u003E\nTo find the words with a letter, look at the words at the top of the page.\u003Cbr\u003E\nWhile doing the activities, use a dictionary or a dictionary page as much as you can.",
+        "solution": "\u003Cp style=\"text-align: justify;\"\u003Eঅভিধানে (ডিকশনারিতে) শব্দগুলো বর্ণানুক্রমিক (alphabetical) ক্রমে সাজানো থাকে। অর্থাৎ এটি অক্ষরগুলোর বর্ণানুক্রম অনুসরণ করে। এর মানে হলো, \u003Cstrong\u003ED\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর আগে থাকবে। একইভাবে, \u003Cstrong\u003EF\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলো \u003Cstrong\u003EE\u003C/strong\u003E অক্ষর দিয়ে শুরু হওয়া শব্দগুলোর পরে আসবে।\u003Cbr /\u003Eআবার, একই অক্ষর দিয়ে শুরু হওয়া শব্দগুলোও একটির পর একটি বর্ণানুক্রমে সাজানো থাকে। উদাহরণস্বরূপ, \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edoctor\u003C/strong\u003E এবং \u003Cstrong\u003Edeep\u003C/strong\u003E&mdash;এই তিনটি শব্দই \u003Cstrong\u003ED\u003C/strong\u003E দিয়ে শুরু হয়েছে। এই শব্দগুলো অভিধানে \u003Cstrong\u003Edark\u003C/strong\u003E, \u003Cstrong\u003Edeep\u003C/strong\u003E এবং \u003Cstrong\u003Edoctor\u003C/strong\u003E ক্রমে থাকে।\u003Cbr /\u003Eকোনো নির্দিষ্ট অক্ষর দিয়ে শুরু হওয়া শব্দ খুঁজতে হলে, পৃষ্ঠার উপরের দিকে থাকা শব্দগুলোর দিকে তাকাও।\u003Cbr /\u003Eকার্যক্রমগুলো করার সময় যতটা সম্ভব অভিধান বা অভিধানের পৃষ্ঠা ব্যবহার করো।\u003C/p\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13397,
+      "created_at": "2025-12-22T04:54:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803357,
+          "linked_parent_id": 803356,
+          "value": {
+            "options": {
+              "a": "jumble",
+              "b": "untidy",
+              "c": "disposition",
+              "d": "chaotic"
+            },
+            "question": "'order' refers to-",
+            "solution": "c. disposition"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13397,
+          "created_at": "2025-12-22T04:54:56.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13397&grade=2&lesson=15612&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13397&grade=2&lesson=15612&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13397&grade=2&lesson=15612&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

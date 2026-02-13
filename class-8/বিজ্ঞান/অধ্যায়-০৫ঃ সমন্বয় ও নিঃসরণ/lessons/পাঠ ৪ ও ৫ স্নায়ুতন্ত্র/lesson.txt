@@ -1,0 +1,2242 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 780159,
+      "value": {
+        "options": {
+          "ক": "নিউরন",
+          "খ": "ডেনড্রন",
+          "গ": "অ্যাক্সন",
+          "ঘ": "কোষদেহ"
+        },
+        "question": "মানবদেহে দীর্ঘতম কোষ নিচের কোনটি?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 780159,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780159,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780159,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780149,
+      "value": {
+        "options": [],
+        "question": "অ্যাক্সন কী? বুঝিয়ে লেখ।",
+        "solution": "কোষদেহ থেকে উৎপন্ন লম্বা সুতার মতো অংশকে অ্যাক্সন বলে। অ্যাক্সনের যে প্রান্তে কোষদেহ থাকে তার বিপরীত প্রান্ত থেকে শাখা বের হয়। সাধারণত একটি নিউরনে একটিমাত্র অ্যাক্সন থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780150,
+      "value": {
+        "options": [],
+        "question": "সিন্যাপস বলতে কী বুঝায়?",
+        "solution": "একটি স্নায়ুকোষের অ্যাক্সন অন্য একটি স্নায়ুকোষের ডেনড্রাইটের সাথে মিলিত হওয়ার স্থানকে সিন্যাপস বলে। সিন্যাপসের মাধ্যমেই স্নায়ু তাড়না এক স্নায়ুকোষ থেকে অন্য স্নায়ুকোষে পরিবাহিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780151,
+      "value": {
+        "options": [],
+        "question": "স্নায়ুতন্ত্র কী? ব্যাখ্যা কর।",
+        "solution": "প্রাণিদেহের যে তন্ত্র দেহের বিভিন্ন অঙ্গের সংযোগ রক্ষা করে, বিভিন্ন জৈবিক কার্যাবলির সমন্বয় সাধন করে এবং উদ্দীপনায় সাড়া দিয়ে উপযুক্ত প্রতিবেদন সৃষ্টি করার মাধ্যমে পরিবেশের সাথে সম্পর্ক রক্ষা করে তাকে স্নায়ুতন্ত্র বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780152,
+      "value": {
+        "options": [],
+        "question": "স্নায়ুতন্ত্রের দুটি কাজ উল্লেখ কর।",
+        "solution": "স্নায়ুতন্ত্রের দুটি কাজ হলো-\u003Cbr /\u003E\n১. দেহের বিভিন্ন অংশের উদ্দীপনা বহন করা।\u003Cbr /\u003E\n২. দেহের বিভিন্ন অঙ্গের কাজের সমন্বয় সাধন করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780153,
+      "value": {
+        "options": [],
+        "question": "নিউরনের কতটি অংশ ও কী কী?",
+        "solution": "নিউরন দুটি অংশ নিয়ে গঠিত। যথা- ১. কোষদেহ ও ২. প্রলম্বিত অংশ। প্রলম্বিত অংশ আবার দুই প্রকার- (i) অ্যাক্সন ও (ii) ডেনড্রন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780154,
+      "value": {
+        "options": [],
+        "question": "কোষদেহের দুটি বৈশিষ্ট্য লেখ।",
+        "solution": "কোষদেহের দুটি বৈশিষ্ট্য হলো-\u003Cbr /\u003E\n১. কোষদেহ কোষ আবরণী, সাইটোপ্লাজম ও নিউক্লিয়াস দ্বারা গঠিত।\u003Cbr /\u003E\n২. কোষে সেন্ট্রিওল থাকে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780155,
+      "value": {
+        "options": [],
+        "question": "নিউরনের দুটি কাজ উল্লেখ কর।",
+        "solution": "নিউরনের দুটি কাজ হলো-\u003Cbr /\u003E\n১. প্রাণিদেহের ভিতরের ও বাইরের পরিবেশের সাথে সংযোগ রক্ষা করা।\u003Cbr /\u003E\n২. মস্তিষ্কে স্মৃতিধারণ করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780156,
+      "value": {
+        "options": [],
+        "question": "স্বয়ংক্রিয় স্নায়ুতন্ত্র বলতে কী বুঝায়?",
+        "solution": "যে তন্ত্রের কার্যকারিতার উপর মস্তিষ্ক ও মেরুরজ্জুর কোনো প্রভাব না থাকায় এরা স্বাধীন ও স্বতন্ত্রভাবে আপন কর্তব্য সম্পাদন করে তাদেরকে স্বয়ংক্রিয় স্নায়ুতন্ত্র বলে। যেমন- হৃৎপিণ্ড, পাকস্থলী, ফুসফুস, ক্ষরণকারী গ্রন্থি ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780157,
+      "value": {
+        "options": {
+          "ক": "নিউরন",
+          "খ": "অ্যাক্সন",
+          "গ": "ডেনড্রন",
+          "ঘ": "নিউক্লিয়াস"
+        },
+        "question": "স্নায়ুতন্ত্রের গঠন ও কার্যকরী একক কী?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780157,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780157,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780158,
+      "value": {
+        "options": {
+          "ক": "স্নায়ুতন্ত্র",
+          "খ": "স্নায়ুকোষ",
+          "গ": "মেরুরজ্জু",
+          "ঘ": "গুরুমস্তিষ্ক"
+        },
+        "question": "দেহের বিভিন্ন অঙ্গের কাজের সমন্বয় সাধন করা কোনটির প্রধান কাজ?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 780158,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780158,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780158,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780148,
+      "value": {
+        "options": [],
+        "question": "স্বয়ংক্রিয় স্নায়ুতন্ত্র দ্বারা নিয়ন্ত্রিত হয় এমন দুটি অঙ্গের নাম লেখ।",
+        "solution": "স্বয়ংক্রিয় স্নায়ুতন্ত্র দ্বারা নিয়ন্ত্রিত হয় এমন দুটি অঙ্গের নাম হচ্ছে- ১. ফুসফুস ও ২. হৃৎপিণ্ড।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780160,
+      "value": {
+        "options": {
+          "ক": "অ্যাক্সন",
+          "খ": "ডেনড্রন",
+          "গ": "কোষদেহ",
+          "ঘ": "সিন্যাপস"
+        },
+        "question": "নিউরনের প্রধান অংশের নাম কী?",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 780160,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780160,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780160,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780161,
+      "value": {
+        "options": {
+          "ক": "মাইটোকন্ড্রিয়া নেই",
+          "খ": "সেন্ট্রিওল নেই",
+          "গ": "নিউক্লিয়াস নেই",
+          "ঘ": "সেন্ট্রোমিয়ার নেই"
+        },
+        "question": "নিউরন কোষ বিভাজিত হয় না কেন?&nbsp;",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 780161,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780161,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780161,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780162,
+      "value": {
+        "options": {
+          "ক": "ডেনড্রন",
+          "খ": "অ্যাক্সন",
+          "গ": "সিন্যাপস",
+          "ঘ": "থায়োলিন সিথ"
+        },
+        "question": "কোষদেহ হতে উৎপন্ন লম্বা সুতার মতো অংশকে কী বলে?&nbsp;",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4621,
+          "full_name": "চ. বো.'২০১৫;সি. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫;সি. বো.'২০১৫",
+          "slug": "c-bo2015si-bo2015",
+          "pivot": {
+            "question_bank_id": 780162,
+            "tag_id": 4621,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780162,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780162,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780163,
+      "value": {
+        "options": {
+          "ক": "সিন্যাপস",
+          "খ": "অ্যাক্সন",
+          "গ": "ডেনড্রন",
+          "ঘ": "ডেনড্রাইট"
+        },
+        "question": "স্নায়ু তাড়না এক স্নায়ুকোষ থেকে অন্য স্নায়ুকোষে কোনটির মাধ্যমে&nbsp;পরিবাহিত হয়?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3965,
+          "full_name": "রা. বো.'২০১৮",
+          "short_name": "রা. বো.'২০১৮",
+          "slug": "ra-bo2018",
+          "pivot": {
+            "question_bank_id": 780163,
+            "tag_id": 3965,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780163,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780163,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780164,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিউরনে-&nbsp;\u003Cbr\u003E\ni. স্নায়ুতন্ত্রের গঠন ও কাজের একক\u003Cbr\u003E\nii. মানবদেহের দীর্ঘতম কোষ\u003Cbr\u003E\niii. এর প্রধান দুটি অংশ থাকে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4312,
+          "full_name": "সেন্ট যোসেফ উচ্চ মাধ্যমিক বিদ্যালয়, ঢাকা",
+          "short_name": "সেন্ট যোসেফ উচ্চ মাধ্যমিক বিদ্যালয়, ঢাকা",
+          "slug": "sent-zosef-ucc-madhzmik-bidzaly-dhaka",
+          "pivot": {
+            "question_bank_id": 780164,
+            "tag_id": 4312,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780164,
+            "question_bank_label_id": 3
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780164,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780164,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780165,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি নিউরনের কোষদেহে থাকে-\u003Cbr\u003E\ni. কোষ ঝিল্লি\u003Cbr\u003E\nii. সাইটোপ্লাজম\u003Cbr\u003E\niii. সেন্ট্রিওল\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4038,
+          "full_name": "বরিশাল ক্যাডেট কলেজ",
+          "short_name": "বরিশাল ক্যাডেট কলেজ",
+          "slug": "brisal-kzadet-klej",
+          "pivot": {
+            "question_bank_id": 780165,
+            "tag_id": 4038,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780165,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780165,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780165,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780166,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্নায়ুকোষের কাজ-\u003Cbr\u003E\ni. উদ্দীপনা বহন করা\u003Cbr\u003E\nii. মস্তিষ্কে স্মৃতি সংরক্ষণ করা\u003Cbr\u003E\niii. বিভিন্ন জৈবিক কার্যাবলির সমন্বয় সাধন করা\u003Cbr\u003E\nনিচের কোন সঠিক?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 780166,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780166,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780166,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780166,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780167,
+      "value": {
+        "options": {
+          "ক": "D অংশ",
+          "খ": "C অংশ",
+          "গ": "B অংশ",
+          "ঘ": "A ও C অংশ"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1759827010745_1764655797_Sj4I3lX5.webp\"\u003Eচিত্রের কোন অংশের সাহায্যে কোষটি অপর নিউরনের সাথে যুক্ত থাকে?&nbsp;",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 780167,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780167,
+            "question_bank_label_id": 3
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780167,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 780167,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780167,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780168,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1759827010745_1764655797_kBOovw0J.webp\"\u003Eচিত্রের B অংশটির আকৃতি হয়-&nbsp;\u003Cbr\u003E\ni. গোলাকার, ডিম্বাকার অথবা তারকাকার\u003Cbr\u003E\nii. ইহা কোষ আবরণী, সাইটোপ্লাজম ও নিউক্লিয়াস দ্বারা গঠিত\u003Cbr\u003E\niii. ইহা দুই প্রকার\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 780168,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780168,
+            "question_bank_label_id": 4
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780168,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 780168,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780168,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780168,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780147,
+      "value": {
+        "options": [],
+        "question": "স্নায়ুতন্ত্রের শ্রেণিবিভাগ উল্লেখ কর।",
+        "solution": "স্নায়ুতন্ত্রকে তিন ভাগে ভাগ করা হয়। যথা-\u003Cbr /\u003E\n১. কেন্দ্রীয় স্নায়ুতন্ত্র,\u003Cbr /\u003E\n২. প্রান্তীয় স্নায়ুতন্ত্র ও\u003Cbr /\u003E\n৩. স্বয়ংক্রিয় স্নায়ুতন্ত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780131,
+      "value": {
+        "options": {
+          "ক": "A",
+          "খ": "C",
+          "গ": "B",
+          "ঘ": "D"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744463959230_1764655797_YasyxmcJ.webp\"\u003Eচিত্রের কোন অংশ উদ্দীপনা গ্রহণ করে?",
+        "solution": "ক. A",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780131,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 780131,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780131,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780132,
+      "value": {
+        "options": {
+          "ক": "নিউরন",
+          "খ": "অ্যাক্সন",
+          "গ": "ডেনড্রন",
+          "ঘ": "স্নায়ুরজ্জু"
+        },
+        "question": "মস্তিষ্ক অসংখ্য বিশেষ কোষ দ্বারা গঠিত। এদের নাম কী?",
+        "solution": "ক. নিউরন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3831,
+          "full_name": "বরিশাল জিলা স্কুল",
+          "short_name": "বরিশাল জিলা স্কুল",
+          "slug": "brisal-jila-skul",
+          "pivot": {
+            "question_bank_id": 780132,
+            "tag_id": 3831,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780133,
+      "value": {
+        "options": {
+          "ক": "নেফ্রন",
+          "খ": "নিউরন",
+          "গ": "অ্যাক্সন",
+          "ঘ": "কোষ"
+        },
+        "question": "স্নায়ুতন্ত্রের একক কী?",
+        "solution": "খ. নিউরন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780133,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780134,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাচঁ"
+        },
+        "question": "একটি নিউরনের কয়টি অংশ থাকে?",
+        "solution": "ক. দুই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780134,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780135,
+      "value": {
+        "options": {
+          "ক": "স্নায়ুটিস্যু",
+          "খ": "পেশিটিস্যু",
+          "গ": "যোজক টিস্যু",
+          "ঘ": "পরিবহন টিস্যু"
+        },
+        "question": "বাইরের উদ্দীপনায় সাড়া দেয়ার জন্য আমাদের দেহে কী আছে?",
+        "solution": "ক. স্নায়ুটিস্যু",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780135,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780136,
+      "value": {
+        "options": {
+          "ক": "সাইটোপ্লাজম",
+          "খ": "মাইটোকন্ড্রিয়া",
+          "গ": "সেন্ট্রিওল",
+          "ঘ": "কোষদেহ"
+        },
+        "question": "প্রাণী কোষ বিভাজিত হওয়ার জন্য কোনটি দায়ী?",
+        "solution": "গ. সেন্ট্রিওল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780136,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780137,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্নায়ুতন্ত্রের নিউরনগুলোর অ্যাক্সন ও ডেনড্রাইটগুলো যুক্ত থাকে-\u003Cbr\u003E\ni. পেশি দ্বারা&nbsp;\u003Cbr\u003E\nii. সিন্যাপস দ্বারা&nbsp;\u003Cbr\u003E\niii. কোষদেহ দ্বারা&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780137,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780137,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780138,
+      "value": {
+        "options": {
+          "ক": "বৃক্কের কোষ",
+          "খ": "পেশীকোষ",
+          "গ": "নিউরন",
+          "ঘ": "গবলেট কোষ"
+        },
+        "question": "মানবদেহের দীর্ঘতম কোষ কোনটি?",
+        "solution": "গ. নিউরন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3789,
+          "full_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "short_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "slug": "bgura-kzantnment-pablik-skul-end-klej",
+          "pivot": {
+            "question_bank_id": 780138,
+            "tag_id": 3789,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780139,
+      "value": {
+        "options": {
+          "ক": "পেশিকোষ",
+          "খ": "স্নায়ুকোষ",
+          "গ": "অ্যাক্সন",
+          "ঘ": "হৃদপেশি কোষ"
+        },
+        "question": "প্রাণিদেহে পরিবেশ থেকে উদ্দীপনা গ্রহণ এবং সেই অনুযায়ী আজ্ঞাবাহী অঙ্গে প্রেরণ করে কোনটি?",
+        "solution": "খ. স্নায়ুকোষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780139,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780140,
+      "value": {
+        "options": {
+          "ক": "অ্যাক্সন",
+          "খ": "ডেনড্রাইট",
+          "গ": "সিন্যাপস",
+          "ঘ": "কোষদেহ"
+        },
+        "question": "একটি নিউরন থেকে অন্য নিউরনে স্নায়ুতাড়না কিসের মাধ্যমে যায়?",
+        "solution": "গ. সিন্যাপস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780140,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780141,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিউরনের প্রলম্বিত অংশে থাকে-\u003Cbr\u003E\ni. অ্যাক্সন&nbsp;\u003Cbr\u003E\nii. কোষদেহ&nbsp;\u003Cbr\u003E\niii. ডেনড্রাইট&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3789,
+          "full_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "short_name": "বগুড়া ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ",
+          "slug": "bgura-kzantnment-pablik-skul-end-klej",
+          "pivot": {
+            "question_bank_id": 780141,
+            "tag_id": 3789,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780141,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780142,
+      "value": {
+        "options": {
+          "ক": "কোষদেহ",
+          "খ": "দেহকোষ",
+          "গ": "কন্ড্রিন",
+          "ঘ": "সিন্যাপস"
+        },
+        "question": "কোনটি নিউরনের অংশ?",
+        "solution": "ক. কোষদেহ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780143,
+      "value": {
+        "options": {
+          "ক": "সিন্যাপসে",
+          "খ": "নেফ্রনে",
+          "গ": "বোমানস ক্যাপসুলে",
+          "ঘ": "কোষ দেহে"
+        },
+        "question": "অ্যাক্সন ডেনড্রনের সাথে কোথায় মিলিত হয়?",
+        "solution": "ক. সিন্যাপসে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4306,
+          "full_name": "খুলনা সরকারি বালিকা উচ্চ বিদ্যালয়",
+          "short_name": "খুলনা সরকারি বালিকা উচ্চ বিদ্যালয়",
+          "slug": "khulna-srkari-balika-ucc-bidzaly",
+          "pivot": {
+            "question_bank_id": 780143,
+            "tag_id": 4306,
+            "year": null,
+            "created_at": "2025-12-02T06:09:57.000000Z",
+            "updated_at": "2025-12-02T06:09:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780144,
+      "value": {
+        "options": {
+          "ক": "অ্যাক্সন",
+          "খ": "ডেনড্রাইট",
+          "গ": "কোষদেহ",
+          "ঘ": "হরমোন"
+        },
+        "question": "স্নায়ুতাড়না নিউরনের দেহের দিকে পরিবাহিত হয় কোনটি দ্বারা?",
+        "solution": "খ. ডেনড্রাইট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780144,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780145,
+      "value": {
+        "options": {
+          "ক": "দেহকোষ",
+          "খ": "পেশিকোষ",
+          "গ": "স্নায়ুকোষ",
+          "ঘ": "জনন মাতৃকোষ"
+        },
+        "question": "দেহের কোন কোষ জন্মাবার পর বিভাজিত হয় না?",
+        "solution": "গ. স্নায়ুকোষ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780145,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780146,
+      "value": {
+        "options": {
+          "ক": "রেচনতন্ত্রের",
+          "খ": "স্নায়ুতন্ত্রের",
+          "গ": "কেন্দ্রীয় স্নায়ুতন্ত্রের",
+          "ঘ": "সুষুম্নাকাণ্ডের"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744463959230_1764655797_H7qpb38x.webp\"\u003Eচিত্রটি মানুষের কোন তন্ত্রের অংশ?",
+        "solution": "খ. স্নায়ুতন্ত্রের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780146,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 780146,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780146,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780127,
+      "value": {
+        "options": {
+          "ক": "অ্যাক্সন",
+          "খ": "ডেনড্রাইট",
+          "গ": "ডেনড্রন",
+          "ঘ": "কোষদেহ"
+        },
+        "question": "নিউরনের প্রধান অংশ কোনটি?",
+        "solution": "ঘ. কোষদেহ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780130,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিউরনের কাজ-\u003Cbr\u003E\ni. চিন্তা করা&nbsp;\u003Cbr\u003E\nii. উদ্দীপনা বহন করা&nbsp;\u003Cbr\u003E\niii. স্মৃতিধারণ করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780130,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780129,
+      "value": {
+        "options": {
+          "ক": "সংবহনতন্ত্র",
+          "খ": "স্নায়ুতন্ত্র",
+          "গ": "অন্তঃক্ষরা গ্রন্থি",
+          "ঘ": "রেচনতন্ত্র"
+        },
+        "question": "দেহের বিভিন্ন অঙ্গের কার্যাবলির মধ্যে সমন্বয় সাধন করে&nbsp;কোনটি?",
+        "solution": "খ. স্নায়ুতন্ত্র",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780129,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780128,
+      "value": {
+        "options": {
+          "ক": "মস্তিষ্ক",
+          "খ": "নিউরন",
+          "গ": "স্নায়ু",
+          "ঘ": "ডেনড্রাইট"
+        },
+        "question": "কেন্দ্রীয় স্নায়ুতন্ত্রের অংশ কোনটি?",
+        "solution": "ক. মস্তিষ্ক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:09:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780128,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7990&grade=2&lesson=14786&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7990&grade=2&lesson=14786&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7990&grade=2&lesson=14786&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 42,
+  "total": 42
+}

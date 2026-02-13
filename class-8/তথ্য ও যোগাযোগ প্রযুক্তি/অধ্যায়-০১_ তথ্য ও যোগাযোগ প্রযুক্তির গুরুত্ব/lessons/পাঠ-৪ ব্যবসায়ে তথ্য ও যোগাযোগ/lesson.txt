@@ -1,0 +1,1774 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 769921,
+      "value": {
+        "options": [],
+        "question": "ব্যবসায় সঠিক হিসাব সংরক্ষণে আইসিটির ভূমিকা কী?",
+        "solution": "আইসিটির বিভিন্ন হিসাব সংরক্ষণ সফটওয়্যার যেমন স্প্রেডশিট ও ডেটাবেস ব্যবহারের মাধ্যমে ব্যবসায়িক লেনদেনের তথ্য সঠিকভাবে সংরক্ষণ করতে সহায়তা করে। এটি আয়-ব্যয়ের হিসাব রাখা, কর্মীদের বেতন পরিশোধ এবং কর হিসাব সহজতর করে, যা ব্যবসার আর্থিক পরিকল্পনাকে উন্নত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769912,
+      "value": {
+        "options": {
+          "ক": "মিতব্যয়িতা",
+          "খ": "গতিশীলতা",
+          "গ": "গতিহীনতা",
+          "ঘ": "জড়তা"
+        },
+        "question": "কর্মী ব্যবস্থাপনায় তথ্য প্রযুক্তির প্রয়োগ উৎপাদনে কী আনয়ন করে?",
+        "solution": "খ. গতিশীলতা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769912,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769913,
+      "value": {
+        "options": {
+          "ক": "আকর্ষণীয় বিজ্ঞাপন প্রচার",
+          "খ": "যুগের সাথে তাল মেলানো",
+          "গ": "বিজ্ঞাপন খরচ সর্বনিম্নে রাখা",
+          "ঘ": "বিজ্ঞাপন আইন মান্য করা"
+        },
+        "question": "বিশ্বের বড় বড় প্রতিষ্ঠানগুলো তাদের পণ্য ও সেবার বিজ্ঞাপন প্রচারে নিজস্ব ওয়েব সাইট ব্যবহার করে। এর মূল কারণ কী?",
+        "solution": "গ. বিজ্ঞাপন খরচ সর্বনিম্নে রাখা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769914,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আইসিটি নিয়ন্ত্রিত উৎপাদন ব্যবস্থাপনায়-\u003Cbr\u003E\ni. মজুদের হালনাগাদ তথ্য জানা যায়\u003Cbr\u003E\nii. কম খরচে অধিক উৎপাদন করা যায়\u003Cbr\u003E\niii. সার্বক্ষণিক মনিটরিং এর সুযোগ থাকে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769914,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769914,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769915,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ব্যবসায়ের মূল উদ্দেশ্য হলো-\u003Cbr\u003E\ni. কম খরচে পণ্য বা সেবা উৎপন্ন করা\u003Cbr\u003E\nii. কম সময়ে পণ্য বা সেবা উৎপন্ন করা\u003Cbr\u003E\niii. দ্রুত সময়ে পণ্য ভোক্তার কাছে পৌঁছে দেওয়া\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769915,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769915,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769916,
+      "value": {
+        "options": [],
+        "question": "আইসিটি ব্যবহার করে কীভাবে ব্যবসায়ের খরচ কমানো যায় ব্যাখ্যা কর।",
+        "solution": "আইসিটি ব্যবহার করে যেভাবে ব্যবসায়ের খরচ কমানো যায় তা নিচে ব্যাখ্যা করা হলো-\u003Cbr /\u003E\n১. বিশেষায়িত সফটওয়্যার ব্যবহার করে পণ্যের মজুদ নিয়ন্ত্রণ।\u003Cbr /\u003E\n২. উৎপাদন ব্যবস্থা স্বয়ংক্রিয়করণ।\u003Cbr /\u003E\n৩. উন্নত যোগাযোগ ব্যবস্থা।\u003Cbr /\u003E\n৪. সঠিক হিসাব সংরক্ষণ।\u003Cbr /\u003E\n৫. পণ্য বা সেবার বিপণন বা প্রচার।\u003Cbr /\u003E\n৬. বিক্রয় ব্যবস্থাপনা ও হিসাব।\u003Cbr /\u003E\n৭. মূল্য সংগ্রহ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769917,
+      "value": {
+        "options": [],
+        "question": "মজুদ নিয়ন্ত্রণে আইসিটির কী ভূমিকা রয়েছে?",
+        "solution": "আইসিটির মাধ্যমে বিশেষায়িত সফটওয়&zwj;্যার ব্যবহার করে ব্যবসায়ীরা তাদের পণ্যের মজুদ সম্পর্কে হালনাগাদ তথ্য পেতে পারেন। এটি বাজার চাহিদার ভিত্তিতে মজুদ নিয়ন্ত্রণে, সহায়তা করে। ফলে প্রয়োজনের অতিরিক্ত মজুদ না রেখে উৎপাদন ব্যয় হ্রাস করা যায় এবং ব্যবসার লাভ বৃদ্ধি করা সম্ভব হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769918,
+      "value": {
+        "options": [],
+        "question": "উন্নত যোগাযোগ ব্যবস্থায় আইসিটির অবদান কী?",
+        "solution": "মোবাইল ফোন, ইমেইল, ফ্যাক্স, ইন্টারনেট ও ইন্ট্রানেটের মাধ্যমে দ্রুত ও কার্যকর যোগাযোগ সম্ভব হয়েছে। মোবাইলের মাধ্যমে দূর থেকে ব্যবসা পরিচালনা করা যায়, ফ্যাক্সের মাধ্যমে গুরুত্বপূর্ণ নথি পাঠানো যায় এবং ইমেইলের মাধ্যমে পণ্য সম্পর্কিত তথ্য ও ছবি সহজেই আদান-প্রদান করা যায়। এভাবেই যোগাযোগ ব্যবস্থা আইসিটি অবদান রেখে চলেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769919,
+      "value": {
+        "options": [],
+        "question": "মোবাইল ফোন ব্যবসায় কীভাবে সহায়ক?",
+        "solution": "মোবাইল ফোন ব্যবসায়ীদের দ্রুত যোগাযোগে সহায়তা করে। এটি দূরবর্তী অবস্থান থেকেও কোনো ব্যবসায়ীকে ব্যবসা পরিচালনা করতে সক্ষম করে। কনফারেন্স কলের মাধ্যমে একাধিক ব্যক্তির সঙ্গে একযোগে আলোচনা করা যায়। ফলে ব্যবসায়িক সিদ্ধান্ত দ্রুত গ্রহণ করা সম্ভব হয় এবং সেবার মান উন্নত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769920,
+      "value": {
+        "options": [],
+        "question": "ব্যবসা ক্ষেত্রে ইন্ট্রানেট কিভাবে ব্যবহৃত হয়?",
+        "solution": "অনেক ব্যবসা প্রতিষ্ঠানের বিভিন্ন দপ্তর ভৌগোলিকভাবে বিভিন্ন স্থানে ছড়িয়ে ছিটিয়ে থাকে। এসব ক্ষেত্রে নিজেদের মধ্যে সংস্থাপিত ইন্টারনেট তাদের ব্যবসা পরিচালনার ক্ষেত্রে প্রভূত উন্নতি সাধন করছে। নিজেদের মধ্যে সংস্থাপিত ইন্টারনেটই হলো ইন্ট্রানেট। অর্থাৎ ব্যবসা প্রতিষ্ঠানের সমগ্র সংগঠনের মধ্যে সমন্বয় সাধনের জন্য ইন্ট্রানেট ব্যবহার করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769911,
+      "value": {
+        "options": {
+          "ক": "পণ্য বা সেবার বিজ্ঞাপন প্রচার করা যায়",
+          "খ": "বিক্রয়ের সকল তথ্য সংরক্ষণ করা যায়",
+          "গ": "পণ্যের বর্তমান বাজার সম্পর্কে জানা যায়",
+          "ঘ": "কম খরচে পণ্য সরবরাহের পরিকল্পনা করা যায়"
+        },
+        "question": "জিপিএস বা অনুরূপ ব্যবস্থাদির মাধ্যমে কী করা যায়?",
+        "solution": "ঘ. কম খরচে পণ্য সরবরাহের পরিকল্পনা করা যায়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769911,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769922,
+      "value": {
+        "options": [],
+        "question": "EPOS প্রযুক্তি ব্যাখ্যা কর।",
+        "solution": "EPOS (Electronic Point of Sale) হলো একটি কম্পিউটারাইজড সিস্টেম যা পণ্য বিক্রয় এবং পেমেন্ট প্রক্রিয়া স্বয়ংক্রিয় করতে ব্যবহৃত হয়। এটি সাধারণত দোকান, রেস্তোরাঁ এবং অন্যান্য খুচরা বিক্রেতাদের দ্বারা ব্যবহৃত হয়। EPOS সিস্টেমগুলো পণ্যের তথ্য, গ্রাহকের তথ্য এবং বিক্রয়ের তথ্য রেকর্ড করে এবং বিক্রয়ের রসিদ তৈরি করে। এটি স্টক ম্যানেজমেন্ট, ক্যাশ ম্যানেজমেন্ট এবং কাস্টমার রিলেশনশিপ ম্যানেজমেন্টে সহায়তা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769923,
+      "value": {
+        "options": [],
+        "question": "মূল্য সংগ্রহে আইসিটির কী সুবিধা দেয়?",
+        "solution": "তথ্য প্রযুক্তি যেমন- ক্রেডিট ও ডেবিট কার্ড, মোবাইল ব্যাংকিং এবং অনলাইন লেনদেনের মাধ্যমে ব্যবসায়ীরা সহজে ও দ্রুত পণ্যের মূল্য সংগ্রহ করতে পারেন। এটি নগদ লেনদেনের ঝামেলা কমায়, ব্যবসায়িক স্বচ্ছতা বাড়ায় এবং গ্রাহকদের জন্যও কেনাকাটা সহজ ও নিরাপদ করে তোলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769924,
+      "value": {
+        "options": [],
+        "question": "ব্যবসায় তথ্য ও যোগাযোগ প্রযুক্তির (আইসিটি) গুরুত্ব লিখ।",
+        "solution": "ব্যবসায় তথ্য ও যোগাযোগ প্রযুক্তির গুরুত্ব নিচে উল্লেখ করা হলো-\u003Cbr /\u003E\n১. কম সময়ে অধিক পরিমাণ কাজ করা যায়। এতে ব্যবসার খরচ কমে।\u003Cbr /\u003E\n২. বিশেষায়িত সফটওয়্যার কৌশল ব্যবহারের মাধ্যমে প্রয়োজনীয় মজুদের হালনাগাদ তথ্য জানা যায় ফলে সেই অনুযায়ী উৎপাদনের ব্যবস্থা করা যায়।\u003Cbr /\u003E\n৩. উৎপাদন স্বয়ংক্রিয়করণসহ আইসিটি নিয়ন্ত্রিত বিভিন্ন যন্ত্রপাতি ব্যবহার করা হলে কম সময়ে অধিক উৎপাদন করা যায়।\u003Cbr /\u003E\n৪. ইন্টারনেটের মাধ্যমে পণ্যের খবর বিভিন্ন ওয়েবসাইটে, সামাজিক যোগাযোগ সাইটে ছড়িয়ে দেওয়া যায়। এতে পণ্যের প্রচারে সহায়তা পাওয়া যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769925,
+      "value": {
+        "options": [],
+        "question": "বিপণন কাজে তথ্য প্রযুক্তির ব্যবহার ব্যাখ্যা কর।",
+        "solution": "বিপণন কাজে তথ্য প্রযুক্তির ব্যবহার দিন দিন বাড়ছে। ইন্টারনেট, সোশ্যাল মিডিয়া, ই-মেইল মার্কেটিং এবং অনলাইন বিজ্ঞাপন হলো বিপণনে তথ্য প্রযুক্তির কিছু প্রধান ব্যবহার। এই সরঞ্জামগুলো ব্যবহার করে কোম্পানিগুলো তাদের পণ্য বা সেবা সম্পর্কে গ্রাহকদের কাছে সরাসরি তথ্য পৌঁছাতে পারে, বাজার গবেষণা করতে পারে এবং তাদের ব্র্যান্ডের প্রচারণা চালাতে পারে। তথ্য প্রযুক্তির সাহায্যে বিপণন আরও দক্ষ, কার্যকর হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769926,
+      "value": {
+        "options": [],
+        "question": "বিক্রয় ব্যবস্থাপনায় আইসিটির কী অবদান রয়েছে?",
+        "solution": "বর্তমানে ইলেকট্রনিক পয়েন্ট অব সেল (EPOS) ব্যবস্থার মাধ্যমে ব্যবসায়ীরা বিক্রয়ের সব তথ্য সংরক্ষণ করতে পারেন। এটি বিক্রয়ের অগ্রগতি নিরীক্ষা, মজুদ নিয়ন্ত্রণ এবং রাজস্ব বিশ্লেষণে সহায়তা করে। ফলে ব্যবসায় স্বচ্ছতা বজায় থাকে এবং আয়-ব্যয়ের সঠিক হিসাব রাখা সহজ হয়। এভাবেই আইসিটি বিক্রয় ব্যবস্থাপনায় অবদান রাখে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769927,
+      "value": {
+        "options": [],
+        "question": "উৎপাদন ব্যবস্থাপনায় আইসিটির কী ভূমিকা রয়েছে?",
+        "solution": "আইসিটি স্বয়ংক্রিয় যন্ত্রপাতি এবং সফটওয়্যার ব্যবহারের মাধ্যমে উৎপাদন ব্যবস্থাকে উন্নত করে। এতে কম সময়ে বেশি উৎপাদন সম্ভব হয় এবং খরচ কমে যায়। তাছাড়া কর্মী ব্যবস্থাপনায় আইসিটির ব্যবহার দক্ষতা বৃদ্ধি করে এবং উৎপাদনে গতিশীলতা আনতে সহায়তা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769928,
+      "value": {
+        "options": [],
+        "question": "ব্যবসার জন্য ই-মেইল খুবই গুরুত্বপূর্ণ কেন?",
+        "solution": ": ই-মেইল ব্যবসার জন্য খুবই গুরুত্বপূর্ণ। কারণ এর মাধ্যমে দ্রুততার সঙ্গে লিখিত যোগাযোগ করা যায়। এমনকি পণ্যের ছবি ক্রেতার কাছে পাঠানো যায়। পণ্য সম্পর্কে অন্য কোনো ক্রেতার মূল্যায়ন যদি ইন্টারনেটে প্রকাশিত হয়ে থাকে, তাহলে সেটির লিংকও পাঠানো যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769929,
+      "value": {
+        "options": [],
+        "question": "ব্যবসায় ইন্টারনেট কীভাবে সহায়তা করে?",
+        "solution": "ইন্টারনেট ব্যবসার তথ্য প্রচার, গ্রাহকের সঙ্গে যোগাযোগ রক্ষা, অনলাইন বিপণন এবং প্রতিযোগীদের তথ্য সংগ্রহে সহায়তা করে। এটি বিশ্বব্যাপী পণ্য ও সেবার প্রচার করে, যার মাধ্যমে ব্যবসার প্রসার ঘটে। এছাড়া, ই-কমার্স প্ল্যাটফর্মের মাধ্যমে সরাসরি পণ্য বিক্রিও সম্ভব হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769930,
+      "value": {
+        "options": [],
+        "question": "GPS এর কাজ লিখ।",
+        "solution": "জিপিএস (GPS) হলো Global Positioning System-এর সংক্ষিপ্ত রূপ। এর সাহায্যে পৃথিবীর যেকোনো অবস্থান সম্পর্কে নিখুঁতভাবে জানা যায়। এই জিপিএস সিস্টেমটি এখন সব স্মার্টফোনেই লাগানো থাকে। তাই ইন্টারনেট সংযোগ থাকলে কখন কোন পথে যেতে হবে কিংবা কোন প্রতিষ্ঠানটি কোথায় কিংবা কোন দোকানপাট কোথায় সবকিছু স্মার্টফোনেই পাওয়া যায়। নতুন প্রায় সব গাড়িতে পথ দেখানোর জন্য জিপিএস লাগানো থাকে। তাই জিপিএস যুক্ত গাড়ি ব্যবহার করে ইন্টারনেট সংযোগের মাধ্যমে এখন যেকোনো স্থানে যাওয়া যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769901,
+      "value": {
+        "options": {
+          "ক": "উৎপাদন ব্যবস্থাপনা",
+          "খ": "কর্মী ব্যবস্থাপনা",
+          "গ": "পণ্যের মজুদ",
+          "ঘ": "বিপণন"
+        },
+        "question": "ব্যবসার একটি বড় খরচ কী?",
+        "solution": "গ. পণ্যের মজুদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769901,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769892,
+      "value": {
+        "options": {
+          "ক": "CCTV",
+          "খ": "ক্যামেরা",
+          "গ": "Setpu Box",
+          "ঘ": "ডিজিটাল ক্যামেরা"
+        },
+        "question": "স্বয়ংক্রিয়ভাবে মনিটরিং করা যায় নিচের কোনটির সাহায্যে?",
+        "solution": "ক. CCTV",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 769892,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-12-01T10:11:37.000000Z",
+            "updated_at": "2025-12-01T10:11:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769893,
+      "value": {
+        "options": {
+          "ক": "মোবাইল ফোন দ্রুত কাজ করে",
+          "খ": "ফ্যাক্স মেশিন গুরুত্বপূর্ণ ভূমিকা রাখে",
+          "গ": "ইন্ট্রানেট সংস্থাপন আবশ্যক হয়ে পড়ে",
+          "ঘ": "তথ্যপ্রযুক্তি অর্থহীন হয়ে পড়ে"
+        },
+        "question": "ব্যবসায়ের যেসব ক্ষেত্রে ক্রেতা বা বিক্রেতার স্বাক্ষর প্রয়োজন সেসব ক্ষেত্র সম্পর্কে কোনটি সঠিক?",
+        "solution": "খ. ফ্যাক্স মেশিন গুরুত্বপূর্ণ ভূমিকা রাখে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769893,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769894,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রনিক পেপার অব সেল",
+          "খ": "ইলেকট্রনিক পয়েন্ট অব সেল",
+          "গ": "ইলেকট্রনিক পয়েন্ট অব সিস্টেম",
+          "ঘ": "ইকো প্রিপারেশন অব সার্জারি"
+        },
+        "question": "EPOS এর পূর্ণরূপ কী?",
+        "solution": "খ. ইলেকট্রনিক পয়েন্ট অব সেল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769894,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769895,
+      "value": {
+        "options": {
+          "ক": "টেলিভিশন",
+          "খ": "মোবাইল",
+          "গ": "ফ্যাক্স",
+          "ঘ": "ওয়েবসাইট"
+        },
+        "question": "কিসের মাধ্যমে যেকোনো স্থান থেকে মৌখিক যোগাযোগ করা সম্ভব?",
+        "solution": "খ. মোবাইল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769895,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769896,
+      "value": {
+        "options": {
+          "ক": "ইন্টারনেট",
+          "খ": "ইন্ট্রানেট",
+          "গ": "ই-মেইল",
+          "ঘ": "স্যাটেলাইট"
+        },
+        "question": "কোনো ব্যবসা প্রতিষ্ঠানের বিভিন্ন দপ্তরগুলোর মধ্যকার নিজস্ব যোগাযোগ ব্যবস্থাকে কী বলে?",
+        "solution": "খ. ইন্ট্রানেট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769896,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769897,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্বল্পমূল্যে পণ্য বা সেবার বিজ্ঞাপন প্রচার করা যায়-\u003Cbr\u003E\ni. ব্লগে\u003Cbr\u003E\nii. ওয়েব সাইটে\u003Cbr\u003E\niii. সামাজিক যোগাযোগ সাইটে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769897,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769897,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769898,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ব্যবসায়ে উন্নত প্রযুক্তি ব্যবহার করলে-\u003Cbr\u003E\ni. ব্যবসায়ের খরচ বৃদ্ধি পায়\u003Cbr\u003E\nii. কম সময়ে অধিক কাজ করা যায়\u003Cbr\u003E\niii. কম খরচে পণ্য বিক্রয় করা যায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. ii ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769898,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769898,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769899,
+      "value": {
+        "options": {
+          "ক": "GS",
+          "খ": "GPS",
+          "গ": "EPS",
+          "ঘ": "EPOS"
+        },
+        "question": "পণ্য বিক্রয়ের সার্বক্ষণিক মনিটরিং ব্যবস্থাকে কী বলে?",
+        "solution": "ঘ. EPOS",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4290,
+          "full_name": "ভি.জে. সরকারি উচ্চ বিদ্যালয়, চুয়াডাঙ্গা",
+          "short_name": "ভি.জে. সরকারি উচ্চ বিদ্যালয়, চুয়াডাঙ্গা",
+          "slug": "vije-srkari-ucc-bidzaly-cuyadangoa",
+          "pivot": {
+            "question_bank_id": 769899,
+            "tag_id": 4290,
+            "year": null,
+            "created_at": "2025-12-01T10:11:37.000000Z",
+            "updated_at": "2025-12-01T10:11:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769900,
+      "value": {
+        "options": {
+          "ক": "বর্তমান বাজার জানা",
+          "খ": "বর্তমান পণ্যের বিলুপ্তি",
+          "গ": "ভবিষ্যৎ বাজার জানা",
+          "ঘ": "ভবিষ্যৎ চাহিদা জানা"
+        },
+        "question": "যেকোনো নতুন পণ্য বাজারে চালু করার পূর্বে কোনটি আবশ্যক?",
+        "solution": "ক. বর্তমান বাজার জানা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769900,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769891,
+      "value": {
+        "options": {
+          "ক": "হার্ডওয়্যার",
+          "খ": "ইন্টারনেট",
+          "গ": "সফটওয়্যার",
+          "ঘ": "পিন্টার"
+        },
+        "question": "কর্মস্থলে কর্মীদের বেতনভাতা হিসাব করা হয় কিসের সাহায্যে?",
+        "solution": "গ. সফটওয়্যার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 769891,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-12-01T10:11:37.000000Z",
+            "updated_at": "2025-12-01T10:11:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769902,
+      "value": {
+        "options": {
+          "ক": "এমএসওয়ার্ড",
+          "খ": "স্প্রেডশিট",
+          "গ": "ফটোশপ",
+          "ঘ": "ইলেসট্রেটর"
+        },
+        "question": "জাবেদ সাহেব একজন পোশাক ব্যবসায়ী। কোনটি ব্যবহার করে তিনি তার ব্যবসায়ের যাবতীয় হিসাব সুষ্ঠুভাবে সম্প্রক্ষণ করতে পারেন?",
+        "solution": "খ. স্প্রেডশিট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769902,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769903,
+      "value": {
+        "options": {
+          "ক": "আইসিটি",
+          "খ": "মোবাইল",
+          "গ": "ফ্যাক্স",
+          "ঘ": "ওয়েবসাইট"
+        },
+        "question": "কিসের কারণে ব্যবসা-বাণিজ্যে আমূল পরিবর্তন সূচিত হয়েছে?",
+        "solution": "ক. আইসিটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769903,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769904,
+      "value": {
+        "options": {
+          "ক": "মোবাইল ফোন",
+          "খ": "ফ্যাক্স মেশিন",
+          "গ": "ইন্ট্রানেট",
+          "ঘ": "ইন্টারনেট"
+        },
+        "question": "কিসের মাধ্যমে পণ্য সেবার খবর সারা পৃথিবীতে ছড়িয়ে দেয়া যায়?",
+        "solution": "ঘ. ইন্টারনেট",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769904,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769905,
+      "value": {
+        "options": {
+          "ক": "মোবাইল",
+          "খ": "রোবট",
+          "গ": "ই-মেইল",
+          "ঘ": "স্যাটেলাইট"
+        },
+        "question": "কিসের মাধ্যমে দ্রুত লিখিত যোগাযোগ করা যায়?",
+        "solution": "গ. ই-মেইল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769905,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769906,
+      "value": {
+        "options": {
+          "ক": "ফ্যাক্স",
+          "খ": "মোবাইল",
+          "গ": "সফটওয়্যার",
+          "ঘ": "হার্ডওয়্যার"
+        },
+        "question": "কী ব্যবহারের মাধ্যমে পণ্যের প্রয়োজনীয় মজুদের হালনাগাদ তথ্য জানা যায়?",
+        "solution": "গ. সফটওয়্যার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769906,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769907,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বর্তমানে বিভিন্ন প্রতিষ্ঠানে আইসিটির গুরুত্বপূর্ণ অবদান রাখছে-\u003Cbr\u003E\ni. প্রতিষ্ঠানের কর্মী ব্যবস্থাপনায়\u003Cbr\u003E\nii. কর্মীদের দক্ষতার মান উন্নয়নে\u003Cbr\u003E\niii. কর্মীদের মধ্যকার সমন্বয়হীনতায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769907,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769907,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769908,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "যোগাযোগ ব্যবস্থা দ্রুত কার্যকরী করার উপকরণ হলো-\u003Cbr\u003E\ni. মোবাইল ii. স্যাটেলাইট iii. ইন্টারনেট\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769908,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769908,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769909,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আরমান সাহেব একজন শিল্পপতি। তিনি তার ব্যবসায়ের যেসব ক্ষেত্রে আইসিটি নিয়ন্ত্রিত যন্ত্রপাতি ব্যবহার করতে পারবেন-\u003Cbr\u003E\ni. কর্মী ব্যবস্থাপনায়\u003Cbr\u003E\nii. কাঁচামাল সংগ্রহে\u003Cbr\u003E\niii. উৎপাদন ব্যবস্থাপনায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769909,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769909,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769910,
+      "value": {
+        "options": {
+          "ক": "তথ্য চাহিদা",
+          "খ": "মৌলিক চাহিদা",
+          "গ": "বাজার চাহিদা",
+          "ঘ": "মজুদ চাহিদা"
+        },
+        "question": "শফিক সাহেব একজন চাল ব্যবসায়ী। তিনি কিসের সঙ্গে সংগতি রেখে তার মালের মজুদ নিয়ন্ত্রণ করবেন?",
+        "solution": "গ. বাজার চাহিদা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:11:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769910,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14446&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14446&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14446&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 40,
+  "total": 40
+}

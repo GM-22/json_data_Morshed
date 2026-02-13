@@ -1,0 +1,134 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 769766,
+      "value": {
+        "options": {
+          "ক": "ভালো বীজের অভাব",
+          "খ": "সেচের অভাব",
+          "গ": "লোকবলের অভাব",
+          "ঘ": "উৎপাদিত পণ্যের সংরক্ষণের অভাব"
+        },
+        "question": "কৃষি বনায়নের সমস্যা নয় কোনটি?",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 692,
+      "created_at": "2025-12-01T09:15:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769767,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সামাজিক বনায়নের উদ্দেশ্য হলো-\u003Cbr\u003E\ni. শিল্পের কাঁচামাল সরবরাহ\u003Cbr\u003E\nii. দারিদ্র্য দূরীকরণ\u003Cbr\u003E\niii. পরিবেশের উন্নয়ন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 692,
+      "created_at": "2025-12-01T09:15:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4650,
+          "full_name": "ঢা. বো.'২০১৭;সি. বো.'২০১৭;ব. বো.'২০১৭;দি. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭;সি. বো.'২০১৭;ব. বো.'২০১৭;দি. বো.'২০১৭",
+          "slug": "dha-bo2017si-bo2017b-bo2017di-bo2017",
+          "pivot": {
+            "question_bank_id": 769767,
+            "tag_id": 4650,
+            "year": null,
+            "created_at": "2025-12-01T09:15:36.000000Z",
+            "updated_at": "2025-12-01T09:15:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769767,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=692&grade=2&lesson=14439&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=692&grade=2&lesson=14439&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=692&grade=2&lesson=14439&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 2,
+  "total": 2
+}

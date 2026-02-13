@@ -1,0 +1,1483 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 801010,
+      "value": {
+        "options": {
+          "ক": "৩০০ টাকা",
+          "খ": "৩০০০ টাকা",
+          "গ": "৩২০০ টাকা",
+          "ঘ": "৪০০০ টাকা"
+        },
+        "question": "\u003Cdiv\u003E৫০০০ টাকার বার্ষিক ১০% হারে ৬ বছরের সরল মুনাফা কত?\u003C/div\u003E",
+        "solution": "খ. ৩০০০ টাকা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801024,
+      "value": {
+        "options": {
+          "ক": "৪৪০০",
+          "খ": "৪৫০০",
+          "গ": "৪৬০০",
+          "ঘ": "৪৭০০"
+        },
+        "question": "\u003Cdiv\u003Eগ্রামীণ ব্যাংকে ৩০০০ টাকা জমা রাখলে ৫ বছরের মুনাফা ১৫০০ টাকা হয়।\u003Cbr\u003E\nমুনাফা-আসল কত টাকা?\u003C/div\u003E",
+        "solution": "মুনাফা আসল = (৩০০০ + ১৫০০) টাকা = ৪৫০০ টাকা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801024,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801024,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801024,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801023,
+      "value": {
+        "options": {
+          "ক": "২৬৫০",
+          "খ": "২৬০০",
+          "গ": "২৫০০",
+          "ঘ": "২৪০০"
+        },
+        "question": "\u003Cdiv\u003Eগ্রামীণ ব্যাংকে ৩০০০ টাকা জমা রাখলে ৫ বছরের মুনাফা ১৫০০ টাকা হয়।\u003Cbr\u003E\nউক্ত হারে জমাকৃত টাকার ৮ বছরের মুনাফা কত টাকা?\u003C/div\u003E",
+        "solution": "I = Pnr = ৩০০০ &times; ৮ &times;[math]\\frac{\\text{১০}}{\\text{১০০}}[/math]= ২৪০০ টাকা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801023,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801023,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801023,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801022,
+      "value": {
+        "options": {
+          "ক": "১৬০",
+          "খ": "১৭০",
+          "গ": "১৮০",
+          "ঘ": "১৯০"
+        },
+        "question": "\u003Cdiv\u003Eবার্ষিক মুনাফার হার ৭% থেকে ১০% হলে ৫ বছরে ১২০০ টাকার মুনাফা কত টাকা বাড়বে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 801022,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-16T13:08:35.000000Z",
+            "updated_at": "2025-12-16T13:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801022,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801022,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801021,
+      "value": {
+        "options": {
+          "ক": "মুনাফার হার",
+          "খ": "মুনাফা-আসল",
+          "গ": "আসল",
+          "ঘ": "মুনাফা"
+        },
+        "question": "\u003Cdiv\u003Eব্যাংকে জমাকৃত টাকার ওপর একটি নির্দিষ্ট সময় পরে যে অতিরিক্ত টাকা পাওয়া যায় তাকে কী বলে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5627,
+          "full_name": "ব. বো.'২০১৬;ঢা. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৬;ঢা. বো.'২০১৫",
+          "slug": "b-bo2016dha-bo2015",
+          "pivot": {
+            "question_bank_id": 801021,
+            "tag_id": 5627,
+            "year": null,
+            "created_at": "2025-12-16T13:08:35.000000Z",
+            "updated_at": "2025-12-16T13:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801021,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801021,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801020,
+      "value": {
+        "options": {
+          "ক": "১০%",
+          "খ": "১২%",
+          "গ": "১৩%",
+          "ঘ": "১৪%"
+        },
+        "question": "\u003Cdiv\u003Eগ্রামীণ ব্যাংকে ৩০০০ টাকা জমা রাখলে ৫ বছরের মুনাফা ১৫০০ টাকা হয়।\u003Cbr\u003E\nমুনাফার হার কত?\u003C/div\u003E",
+        "solution": "I = Pnr বা, ১৫০০ = ৩০০০ &times; ৫ &times; r\u003Cbr /\u003Eবা, r =[math]\\frac{\\text{১৫০০}}{\\text{৩০০০ x ৫}}[/math][math]\\therefore[/math]r =[math]\\frac{\\text{১}}{\\text{১০}}[/math]= ১০%",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801020,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801020,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801020,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801019,
+      "value": {
+        "options": {
+          "ক": "১০৫",
+          "খ": "১৫০",
+          "গ": "৩০০",
+          "ঘ": "৫১০"
+        },
+        "question": "\u003Cdiv\u003Eবার্ষিক শতকরা মুনাফার হার ৪ টাকা হলে ১২৫০ টাকার ৩ বছরের মুনাফা কত হবে টাকা?\u003C/div\u003E",
+        "solution": "মুনাফা, I = Pnr = ১২৫০ &times; ৩ &times;[math]\\frac{\\text{৪}}{\\text{১০০}}[/math]= ১৫০ টাকা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 801019,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-16T13:08:35.000000Z",
+            "updated_at": "2025-12-16T13:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801019,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801019,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801018,
+      "value": {
+        "options": {
+          "ক": "মুনাফার হার",
+          "খ": "সময়কাল",
+          "গ": "সরল মুনাফা",
+          "ঘ": "চক্রবৃদ্ধি মুনাফা"
+        },
+        "question": "\u003Cdiv\u003Eপ্রতিবছর শুধু প্রারম্ভিক মূলধনের উপর যে মুনাফা হিসাব করা হয় তাকে কী বলে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4303,
+          "full_name": "আদমজী ক্যান্টনমেন্ট পাবলিক স্কুল, ঢাকা",
+          "short_name": "আদমজী ক্যান্টনমেন্ট পাবলিক স্কুল, ঢাকা",
+          "slug": "admjee-kzantnment-pablik-skul-dhaka",
+          "pivot": {
+            "question_bank_id": 801018,
+            "tag_id": 4303,
+            "year": null,
+            "created_at": "2025-12-16T13:08:35.000000Z",
+            "updated_at": "2025-12-16T13:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801018,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801018,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801017,
+      "value": {
+        "options": {
+          "ক": "১,৬৮০ টাকা",
+          "খ": "৪৮০ টাকা",
+          "গ": "১২০ টাকা",
+          "ঘ": "৪৮ টাকা"
+        },
+        "question": "\u003Cdiv\u003Eবার্ষিক ১০% সরল মুনাফায় ১,২০০ টাকার ৪ বছরের মুনাফা নিচের কোনটি?\u003C/div\u003E",
+        "solution": "I = Pnr = ১২০০ &times; ৪ &times;[math]\\frac{\\text{১০}}{\\text{১০০}}[/math]= ৪৮০ টাকা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 801017,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-16T13:08:35.000000Z",
+            "updated_at": "2025-12-16T13:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801017,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801017,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801016,
+      "value": {
+        "options": {
+          "ক": "মুনাফা",
+          "খ": "আসল",
+          "গ": "মুনাফা-আসল",
+          "ঘ": "মুনাফার হার"
+        },
+        "question": "\u003Cdiv\u003Eকোনো ব্যাংকে টাকা জমা রাখলে তার পরিমাণকে কী বলে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 801016,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-16T13:08:35.000000Z",
+            "updated_at": "2025-12-16T13:08:35.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801016,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801016,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801015,
+      "value": {
+        "options": {
+          "ক": "৭০০ টাকা",
+          "খ": "৮০০ টাকা",
+          "গ": "৮৪০ টাকা",
+          "ঘ": "৯০০ টাকা"
+        },
+        "question": "\u003Cdiv\u003Eমতিন সাহেব ১২,০০০ টাকা ব্যাংকে আমানত রাখলেন। এক বছর পর দেখলেন তাঁর টাকা বৃদ্ধি পেয়ে ১২,৮৪০ টাকা হয়েছে।\u003Cbr\u003E\nএক বছরে তাঁর কত টাকা বৃদ্ধি পেয়েছে?\u003C/div\u003E",
+        "solution": "বৃদ্ধি = (১২,৮৪০ -১২,০০০) টাকা বা ৮৪০ টাকা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801015,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801015,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801014,
+      "value": {
+        "options": {
+          "ক": "৮%",
+          "খ": "১০%",
+          "গ": "১২%",
+          "ঘ": "১৪%"
+        },
+        "question": "\u003Cdiv\u003Eশতকরা বার্ষিক কত মুনাফায় ৩০০০ টাকার ৫ বছরের মুনাফা আসলে ৪৫০০ টাকা হবে?\u003C/div\u003E",
+        "solution": "খ. ১০%",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801013,
+      "value": {
+        "options": {
+          "ক": "৮৮০ টাকা",
+          "খ": "৯৭০ টাকা",
+          "গ": "৯৮০ টাকা",
+          "ঘ": "৯৯০ টাকা"
+        },
+        "question": "\u003Cdiv\u003Eরিয়াজ সাহেব ৭% মুনাফায় ২৮০০ টাকা ব্যাংকে রাখলে ৫ বছর পর তার মুনাফা কত হবে?\u003C/div\u003E",
+        "solution": "গ. ৯৮০ টাকা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801012,
+      "value": {
+        "options": {
+          "ক": "মূলধন",
+          "খ": "মুনাফা",
+          "গ": "মুনাফার হার",
+          "ঘ": "মুনাফা-আসল"
+        },
+        "question": "\u003Cdiv\u003Eমতিন সাহেব ১২,০০০ টাকা ব্যাংকে আমানত রাখলেন। এক বছর পর দেখলেন তাঁর টাকা বৃদ্ধি পেয়ে ১২,৮৪০ টাকা হয়েছে।\u003Cbr\u003E\nমতিন সাহেবের এক বছরের বর্ধিত টাকার পরিমাণকে কী বলে?\u003C/div\u003E",
+        "solution": "খ. মুনাফা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801012,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801012,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801011,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eমুনাফার হার ৫% হলে ২০০ টাকার ১ বছরের-\u003Cbr\u003E\ni. মুনাফা ১০ টাকা&nbsp;\u003Cbr\u003E\nii. মুনাফা-আসল ২১০ টাকা&nbsp;\u003Cbr\u003E\niii. মুনাফা-আসল ও আসলের পার্থক্য মুনাফার সমান&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801011,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801011,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801009,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E১০০ টাকার ১ বছরের মুনাফাকে বলা হয়-\u003Cbr\u003E\ni. শতকরা বার্ষিক মুনাফা&nbsp;\u003Cbr\u003E\nii. মুনাফার হার&nbsp;\u003Cbr\u003E\niii. আসল&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801009,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801009,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801008,
+      "value": {
+        "options": {
+          "ক": "১২০০০ টাকা",
+          "খ": "১২৭০০ টাকা",
+          "গ": "১২৮৪০ টাকা",
+          "ঘ": "১২৯৬০ টাকা"
+        },
+        "question": "\u003Cdiv\u003Eমতিন সাহেব ১২,০০০ টাকা ব্যাংকে আমানত রাখলেন। এক বছর পর দেখলেন তাঁর টাকা বৃদ্ধি পেয়ে ১২,৮৪০ টাকা হয়েছে।\u003Cbr\u003E\nমুনাফা-আসল কত টাকা?\u003C/div\u003E",
+        "solution": "গ. ১২৮৪০ টাকা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801008,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801008,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801007,
+      "value": {
+        "options": {
+          "ক": "২০০০ টাকা",
+          "খ": "২৫০০ টাকার",
+          "গ": "৩০০০ টাকা",
+          "ঘ": "৩৫০০ টাকা"
+        },
+        "question": "\u003Cdiv\u003Eবার্ষিক মুনাফার হার ১০% হলে ৫০০০ টাকার ৬ বছরের মুনাফা কত?\u003C/div\u003E",
+        "solution": "গ. ৩০০০ টাকা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801006,
+      "value": {
+        "options": {
+          "ক": "মুনাফা",
+          "খ": "মুনাফার হার",
+          "গ": "সময়কাল",
+          "ঘ": "আসল"
+        },
+        "question": "\u003Cdiv\u003Eযে সময়ের জন্য মুনাফা হিসাব করা হয়, তা হচ্ছে-\u003C/div\u003E",
+        "solution": "গ. সময়কাল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:35.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801006,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 800995,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e4c3a7d9a2b793683056\"\u003Eশতকরা বার্ষিক কত মুনাফায় ৫০০০ টাকার ৪ স্বছরের 'মুনাফা ২০০০ টাকা হবে?\u003C/div\u003E",
+        "solution": "এখানে,\u003Cbr /\u003Eআসল, P = ৫০০০ টাকা\u003Cbr /\u003Eমুনাফা, । = ২০০০ টাকা\u003Cbr /\u003Eসময়, n = ৪ বছর\u003Cbr /\u003Eমুনাফার হার, r = ?\u003Cbr /\u003Eআমরা জানি,[math]\\begin{aligned} \\quad \\mathrm I &amp; =\\mathrm P \\mathrm{rn} \\\\ \\text { বা, } &amp; \\mathrm P=\\frac{\\mathrm I}{\\mathrm{r n}}\\end{aligned}[/math]\u003Cbr /\u003Eবা, r =[math]\\frac{\\text{২০০০}}{\\text{৫০০০ &times; ৪}}[/math]&times; ১০০%[math]\\therefore[/math]r = ১০%\u003Cbr /\u003Eনির্ণেয় মুনাফার হার ১০%।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801005,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e91da7d9a2b793683914\"\u003Eবার্ষিক শতকরা মুনাফা কত হলে ১৫০০০ টাকা ৬ বছরে মুনাফা-আসল ২০৮৫০ টাকা হবে?\u003C/div\u003E",
+        "solution": "এখানে, আসল, P = ১৫০০০ টাকা\u003Cbr /\u003Eমুনাফা-আসল, A = ২০৮৫০ টাকা[math]\\therefore[/math]মুনাফা, I = A - P\u003Cbr /\u003E        = (২০৮৫০ &ndash; ১৫০০০) টাকা\u003Cbr /\u003E        = ৫৮৫০ টাকা\u003Cbr /\u003Eসময়, n = ৬ বছর\u003Cbr /\u003Eআমরা জানি, I = Prn\u003Cbr /\u003Eবা, r =[math]\\frac{\\text{I}}{\\text{Pn}}[/math] =[math]\\frac{\\text{৫৮৫০}}{\\text{১৫০০০ &times; ৬}}[/math]&times; ১০০% =[math]\\frac{\\text{১৩}}{\\text{২}}[/math]% = ৬.৫%\u003Cbr /\u003Eনির্ণেয় মুনাফার হার ৬.৫%।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801004,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e77da7d9a2b7936835a1\"\u003Eপ্রতীকগুলোর বর্ণনাসহ মূলধন নির্ণয়ের সূত্রটি লিখ।\u003C/div\u003E",
+        "solution": "যেখানে,\u003Cbr /\u003EP = মূলধন\u003Cbr /\u003EI = সরল মুনাফা\u003Cbr /\u003En = সময়\u003Cbr /\u003Er = মুনাফার হার\u003Cbr /\u003Eআমরা জানি,[math]\\begin{aligned} \\quad \\mathrm I &amp; =\\mathrm P \\mathrm{rn} \\\\ \\text { বা, } &amp; \\mathrm P=\\frac{\\mathrm I}{\\mathrm{r n}}\\end{aligned}[/math]\u003Cbr /\u003Eএটিই মূলধন নির্ণয়ের সূত্র।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801003,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e626a7d9a2b7936833e5\"\u003Eবার্ষিক ৯% মুনাফায় কত বছরে ৬০০০ টাকার মুনাফা ২৭০০ টাকা হবে?\u003C/div\u003E",
+        "solution": "এখানে,\u003Cbr /\u003Eআসল, P = ৬০০০ টাকা\u003Cbr /\u003Eমুনাফা, । = ২৭০০ টাকা\u003Cbr /\u003Eমুনাফার হার,r = ৯% =[math]\\frac{\\text{৯}}{\\text{১০০}}[/math]\u003Cbr /\u003Eসময়, n = ?\u003Cbr /\u003Eআমরা জানি,[math]\\begin{aligned} \\quad \\mathrm I &amp; =\\mathrm P \\mathrm{rn} \\\\ \\text { বা, } &amp; \\mathrm n=\\frac{\\mathrm I}{\\mathrm{Pr }}\\end{aligned}[/math]\u003Cbr /\u003E     = [math]\\frac{\\text{২৭০০}}{\\text{৬০০০} \\times \\frac{\\mathrm{\\text ৯}}{\\text{১০০}}}[/math]\u003Cbr /\u003E     =[math]\\frac{\\text{২৭০০}}{\\text{৬০ &times; ৯ }}[/math]= ৫ বছর\u003Cbr /\u003Eনির্ণেয় সময় ৫ বছর।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801002,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e417a7d9a2b793682f57\"\u003Eশতকরা বার্ষিক ৯[math]\\frac{\\text{১}}{\\text{২}}[/math]&nbsp;টাকা মুনাফায় কত টাকার ৬ বছরের&nbsp;মুনাফা ২৮৫০ টাকা হবে?\u003C/div\u003E",
+        "solution": "এখানে,\u003Cbr /\u003Eমুনাফার, । = ২৮৫০ টাকা\u003Cbr /\u003Eমুনাফা হার, r = ৯[math]\\frac{\\text{১}}{\\text{২}}[/math]% =[math]\\frac{\\text{১৯}}{\\text{২}}[/math]%\u003Cbr /\u003E         =[math]\\frac{\\frac{\\text{১৯}}{\\text২}}{\\text{১০০}}[/math]\u003Cbr /\u003E         =[math]\\frac{\\text{১৯}}{\\text{২ &times; ১০০}}[/math]\u003Cbr /\u003Eসময়, n = ৬ বছর\u003Cbr /\u003Eআসল, P = ?\u003Cbr /\u003Eআমরা জানি,[math]\\begin{aligned} \\quad \\mathrm I&amp; =\\mathrm P \\mathrm{rn} \\\\ \\text { বা, } &amp; \\mathrm P=\\frac{\\mathrm I}{\\mathrm{r n}}\\end{aligned}[/math]\u003Cbr /\u003E    =[math]\\frac{\\text{২৮৫০}}{\\frac{\\text{১৯}}{\\text২ \\times \\text{১০০}} \\times \\text৬}[/math]\u003Cbr /\u003E    =[math]\\frac{\\text{২৮৫০}}{\\frac{\\text{৫৭}}{ \\text{১০০}} }[/math] =২৮৫০ &times;[math]\\frac{\\text{১০০}}{\\text{৫৭}}[/math]\u003Cbr /\u003E    = ৫০০০ টাকা\u003Cbr /\u003Eনির্ণেয় আসল ৫০০০ টাকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801001,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e19ea7d9a2b7936827f9\"\u003Eরহমান সাহেব ৬০০০ টাকা বার্ষিক ১০% মুনাফায় ৫ বছরের জন্য ব্যাংকে জমা রাখলেন। ৫ বছর পর তার মুনাফা-আসলে কত হবে?\u003C/div\u003E",
+        "solution": "এখানে, আসল, P = ৬০০০ টাকা\u003Cbr /\u003Eমুনাফার হার, r = ১০% =[math]\\frac{\\text{১০}}{\\text{১০০}}[/math]\u003Cbr /\u003Eসময়, n = ৫ বছর\u003Cbr /\u003Eমুনাফা-আসল, A = ?\u003Cbr /\u003Eআমরা জানি,\u003Cbr /\u003Eমুনাফা-আসল, A = P(১ + rn)[math]\\begin{aligned} &amp; =\\text{৬০০০}\\left(\\text১+\\frac{\\text{১০}}{\\text{১০০}} \\times \\text৫\\right) \\\\ &amp; =\\text{৬০০০}\\left(\\text১+\\frac{\\text১}{\\text২}\\right)\\end{aligned}[/math]\u003Cbr /\u003E = ৬০০০&times;[math]\\frac{\\text{৩}}{\\text{২}}[/math]\u003Cbr /\u003E = ৯০০০ টাকা\u003Cbr /\u003Eনির্ণেয় মুনাফা-আসল ৯০০০ টাকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801000,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e860a7d9a2b79368371f\"\u003E১০.৫০% হারে ২০ হাজার টাকার ৫ বছরের মুনাফা কত?\u003C/div\u003E",
+        "solution": "এখানে, আসল, P = ২০০০০ টাকা\u003Cbr /\u003Eমুনাফার হার, r = ১০.৫০% =[math]\\frac{\\text{১০.৫০}}{\\text{১০০}}[/math]= ০.১০৫\u003Cbr /\u003Eসময়, n = ৫ বছর\u003Cbr /\u003Eমুনাফা, I = ?\u003Cbr /\u003Eআমরা জানি,\u003Cbr /\u003EI = Prn\u003Cbr /\u003E= ২০০০০ &times; ০.১০৫ &times; ৫\u003Cbr /\u003E= ১০৫০০টাকা\u003Cbr /\u003Eনির্ণেয় মুনাফা ১০৫০০ টাকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800999,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811dfb4a7d9a2b79368222f\"\u003Eবার্ষিক ১৫% সরল মুনাফায় ২৫০০ টাকার ৭ বছরের মুনাফা কত?\u003C/div\u003E",
+        "solution": "এখানে, আসল, P = ২৫০০ টাকা\u003Cbr /\u003Eমুনাফার হার, r = ১৫% =[math]\\frac{\\text{১৫}}{\\text{১০০}}[/math]\u003Cbr /\u003Eসময়, n = ৭ বছর\u003Cbr /\u003Eমুনাফা, I = ?\u003Cbr /\u003Eআমরা জানি,\u003Cbr /\u003Eমুনাফা, I = Prn\u003Cbr /\u003E      = ২৫০০&times;[math]\\frac{\\text{১৫}}{\\text{১০০}}[/math]&times; ৭\u003Cbr /\u003E      = ২৬২৫ টাকা\u003Cbr /\u003Eনির্ণেয় মুনাফা ২৬২৫ টাকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800998,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e98aa7d9a2b793683a63\"\u003Eবার্ষিক ১২ [math]\\frac{\\text{১}}{\\text{২}}[/math]% মুনাফায় ৮০০০ টাকার ২ বছর ৬ মাসের&nbsp;মুনাফা কত?\u003C/div\u003E",
+        "solution": "এখানে, আসল, P = ৮০০০ টাকা\u003Cbr /\u003Eমুনাফার হার, r =১২ [math]\\frac{\\text{১}}{\\text{২}}[/math]%\u003Cbr /\u003E= ১২.৫% =[math]\\frac{\\text{১২.৫}}{\\text{১০০}}[/math]= ০.১২৫\u003Cbr /\u003Eসময়, n = ২ বছর ৬ মাস = ২.৫ বছর\u003Cbr /\u003Eমুনাফা, I = ?\u003Cbr /\u003Eআমরা জানি,\u003Cbr /\u003EI = Prn\u003Cbr /\u003E= ৮০০০ &times; ০.১২৫ &times; ২.৫\u003Cbr /\u003E= ২৫০০ টাকা\u003Cbr /\u003Eনির্ণেয় মুনাফা ২৫০০ টাকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800997,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e809a7d9a2b79368365b\"\u003Eবার্ষিক শতকরা কত মুনাফায় কোনো আসল ৫ বছরে মুনাফা-আসল দ্বিগুণ হবে?\u003C/div\u003E",
+        "solution": "মনে করি, আসল, P = ১০০ টাকা[math]\\therefore[/math]৫ বছরের মুনাফা-আসল, A = (১০০ &times; ২) টাকা = ২০০ টাকা[math]\\therefore[/math]মুনাফা, I = A - P = (২০০ - ১০০) টাকা = ১০০ টাকা\u003Cbr /\u003Eসময়, n = ৫ বছর এবং মুনাফার হার, r = ?\u003Cbr /\u003Eআমরা জানি, I = Prn\u003Cbr /\u003Eবা, r =[math]\\frac{\\text{I}}{\\text{Pn}}[/math] =[math]\\frac{\\text{১০০}}{\\text{১০০ &times; ৫}}[/math]&times; ১০০% = ২০%\u003Cbr /\u003Eনির্ণেয় মুনাফার হার ২০%।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800996,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811e744a7d9a2b793683519\"\u003Eকোনো আসল ৩ বছরে মুনাফা-আসলে ৯৯০০ টাকা হয়।&nbsp;মুনাফা আসলের&nbsp;[math]\\frac{\\text{৪}}{\\text{৭}}[/math]&nbsp;অংশ হলে আসল কত?\u003C/div\u003E",
+        "solution": "আমরা জানি, আসল + মুনাফা = মুনাফা-আসল\u003Cbr /\u003Eবা, আসল + আসলের[math]\\frac{\\text{৪}}{\\text{৭}}[/math]= ৯৯০০\u003Cbr /\u003Eবা,[math]\\left(\\text১+\\frac{\\text ৪}{\\text ৭}\\right)[/math]&times; আসল = ৯৯০০\u003Cbr /\u003Eবা,[math]\\frac{\\text{১১}}{\\text{৭}}[/math]&times; আসল = ৯৯০০\u003Cbr /\u003Eবা, আসল =[math]\\frac{\\text{৯৯০০ &times; ৭}}{\\text{১১}}[/math]= ৬৩০০ টাকা\u003Cbr /\u003Eনির্ণেয় আসল ৬৩০০ টাকা।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7894,
+      "created_at": "2025-12-16T13:08:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7894&grade=2&lesson=15558&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7894&grade=2&lesson=15558&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7894&grade=2&lesson=15558&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 30,
+  "total": 30
+}

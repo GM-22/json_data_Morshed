@@ -1,0 +1,2447 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 780507,
+      "value": {
+        "options": {
+          "ক": "$\\mathrm{d}^2=\\frac{\\mathrm{GM}}{\\mathrm{g}}$",
+          "খ": "$\\mathrm{FG}=\\frac{\\mathrm{m}_1 \\mathrm{~m}_2}{\\mathrm{~d}^2}$",
+          "গ": "$\\mathrm{d}^2=\\frac{\\mathrm{Fm}_1 \\mathrm{~m}_2}{\\mathrm{G}}$",
+          "ঘ": "$\\mathrm{Gd}^2=\\mathrm{gM}$"
+        },
+        "question": "নিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 780507,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780507,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780507,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780496,
+      "value": {
+        "options": [],
+        "question": "একটি ক্রিকেট বলকে উপরে নিক্ষেপ করলে আবার ফিরে আসে কেন?",
+        "solution": "একটি ক্রিকেট বলকে উপরে নিক্ষেপ করলে তা আবার ভূপৃষ্ঠে ফিরে আসে। কারণ পৃথিবী ক্রিকেট বলকে অভিকর্ষ বলে আকর্ষণ করে। যার জন্য বলটি ভূপৃষ্ঠে ফিরে আসে। আবার পৃথিবীর ভর ক্রিকেট বলের ভরের চেয়ে অনেক বেশি। তাই পৃথিবীর আকর্ষণ বলও অনেক বেশি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780497,
+      "value": {
+        "options": [],
+        "question": "অভিকর্ষজ ত্বরণ কেন বস্তু নিরপেক্ষ?",
+        "solution": "আমরা জানি, g =&nbsp;$\\frac{\\text{GM}}{\\text{d}^2}$\u003Cbr /\u003E\nঅভিকর্ষজ ত্বরণ বা g বস্তুর ভরের উপর নির্ভর করে না। তাই এটি বস্তু নিরপেক্ষ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780498,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীর বিভিন্ন স্থানে g এর মান বিভিন্ন কেন?",
+        "solution": "অভিকর্ষজ ত্বরণ g এর মান পৃথিবীর কেন্দ্র হতে বস্তুর দূরত্ব d এর উপর নির্ভর করে। পৃথিবীর বিভিন্ন স্থানে d এর মান বিভিন্ন রকম হয়। তাই পৃথিবীর বিভিন্ন স্থানে g এর মানও বিভিন্ন হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780499,
+      "value": {
+        "options": [],
+        "question": "মেরু অঞ্চল হতে বিষুবীয় অঞ্চলে গেলে অভিকর্ষজ ত্বরণের মান কমে কেন?",
+        "solution": "পৃথিবী সম্পূর্ণ গোলাকার নয়। মেরু অঞ্চলে একটুখনি চাপা। তাই মেরু অঞ্চলে ব্যাসার্ধ সবচেয়ে কম হয়। কিন্তু মেরু হতে বিষুবীয় অঞ্চলের দিকে গেলে ব্যাসার্ধ বেড়ে যায়। অভিকর্ষজ ত্বরণ পথিবীর ব্যাসার্ধের উপর নির্ভর করে। তাই মেরু অঞ্চল হতে বিষুবীয় অঞ্চলে গেলে অভিকর্ষজ ত্বরণের মানও কমে যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780500,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীর মেরু অঞ্চলে g এর মান অধিক কেন?",
+        "solution": "অভিকর্ষজ ত্বরণ, g এর মান পৃথিবীর ব্যাসার্ধ, R এর উপর&nbsp;নির্ভর করে। পৃথিবী সম্পূর্ণ গোলাকার নয়, মেরু অঞ্চলে একটুখানি চাপা। মেরু অঞ্চলে পৃথিবীর কেন্দ্র হতে R এর দূরত্ব সবচেয়ে কম বলে এখানে অভিকর্ষজ ত্বরণের মান অধিক হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780501,
+      "value": {
+        "options": [],
+        "question": "অভিকর্ষজ ত্বরণ বলতে কী বুঝায়?",
+        "solution": "আমরা জানি, বল প্রয়োগ করলে কোনো বস্তুর বেগের পরিবর্তন হয়। সময়ের সাথে বস্তুর বেগ বৃদ্ধির হারকে ত্বরণ বলে। অভিকর্ষ বলের প্রভাবেও বস্তুর ত্বরণ তথা বেগ বৃদ্ধি পায়। সুতরাং অভিকর্ষ বলের প্রভাবে কোনো স্থানে মুক্তভাবে পড়ন্ত কোনো বস্তুর বেগ বৃদ্ধির হারকে অভিকর্ষজ ত্বরণ বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780502,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ",
+          "খ": "অভিকর্ষ",
+          "গ": "মহাকর্ষীয় ধ্রুবক",
+          "ঘ": "অভিকর্ষজ ত্বরণ"
+        },
+        "question": "পৃথিবী ও একটি বস্তুর মধ্যে যে আকর্ষণ তাকে কী বলে?&nbsp;",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 780502,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780502,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780502,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780503,
+      "value": {
+        "options": {
+          "ক": "ওজন",
+          "খ": "অভিকর্ষ",
+          "গ": "মহাকর্ষ",
+          "ঘ": "অভিকর্ষ ত্বরণ"
+        },
+        "question": "কোনো বস্তুকে পৃথিবী যে বল দ্বারা তার কেন্দ্রের দিকে আকর্ষণ করে&nbsp;তাকে কী বলে?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 780503,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780503,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780503,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780504,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ",
+          "খ": "অভিকর্ষ",
+          "গ": "প্রতিক্রিয়া",
+          "ঘ": "ঘর্ষণ"
+        },
+        "question": "সূর্য ও চন্দ্রের মধ্যে আকর্ষণ বল কোন ধরনের বলের উদাহরণ?&nbsp;",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780504,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780504,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780505,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ",
+          "খ": "অভিকর্ষ",
+          "গ": "স্পর্শ",
+          "ঘ": "ঘর্ষণ"
+        },
+        "question": "পৃথিবীর সাথে সূর্য অথবা চন্দ্রের যে আকর্ষণ বল কাজ করে তাকে কী&nbsp;বলে?&nbsp;",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780505,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780505,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780506,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ",
+          "খ": "অভিকর্ষ",
+          "গ": "বেগ",
+          "ঘ": "ত্বরণ"
+        },
+        "question": "বেগ বৃদ্ধির হারকে কী বলে?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3843,
+          "full_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "short_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "slug": "dhaka-residensiyal-mdel-klej",
+          "pivot": {
+            "question_bank_id": 780506,
+            "tag_id": 3843,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780506,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780506,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780495,
+      "value": {
+        "options": [],
+        "question": "অভিকর্ষ বল কী? বুঝিয়ে লেখ।",
+        "solution": "এ মহাবিশ্বের প্রতিটি বস্তুকণা একে অপরকে আকর্ষণ করে। এ বলকে বলা হয় মহাকর্ষ বল। এ মহাবিশ্বের দুটি বস্তুর মধ্যে যদি একটি পৃথিবী হয়, তবে পৃথিবী বস্তুটিকে যে বলে আকর্ষণ করে তাকে অভিকর্ষ বল বলে। পৃথিবী ও চাঁদের মধ্যে আকর্ষণ বল হলো অভিকর্ষ বল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780508,
+      "value": {
+        "options": {
+          "ক": "পৃথিবীর ভর",
+          "খ": "বস্তুর দূরত্ব",
+          "গ": "বস্তুর দৈর্ঘ্য",
+          "ঘ": "পৃথিবীর ঘূর্ণণ"
+        },
+        "question": "অভিকর্ষজ ত্বরণ নির্ভর করে কীসের ওপর?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780508,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780508,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780509,
+      "value": {
+        "options": {
+          "ক": "9.37 মিটার/সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E",
+          "খ": "9.67 মিটার/সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E",
+          "গ": "9.97 মিটার/সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E",
+          "ঘ": "9.8 মিটার/সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E"
+        },
+        "question": "ভূপৃষ্ঠে মুক্তভাবে পড়ন্ত বস্তুর g&nbsp;এর মান কত?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 780509,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780509,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780509,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780510,
+      "value": {
+        "options": {
+          "ক": "মেরু অঞ্চলে",
+          "খ": "বিষুবীয় অঞ্চলে",
+          "গ": "পৃথিবীর কেন্দ্রে",
+          "ঘ": "ক্রান্তীয় অঞ্চলে"
+        },
+        "question": "কোথায় পৃথিবীর ব্যাসার্ধ সবচেয়ে কম?&nbsp;",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 780510,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780510,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780510,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780511,
+      "value": {
+        "options": {
+          "ক": "৯.৭৮ মি./সে\u003Csup\u003E২\u003C/sup\u003E",
+          "খ": "৯.৮৩ মি./সে\u003Csup\u003E২\u003C/sup\u003E",
+          "গ": "৯.৮৫ মি./সে\u003Csup\u003E২\u003C/sup\u003E",
+          "ঘ": "৯.৮৭ মি./সে\u003Csup\u003E২\u003C/sup\u003E"
+        },
+        "question": "পৃথিবীর মেরু অঞ্চলে 'g' এর মান কত?&nbsp;",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5020,
+          "full_name": "সি. বো.'২০১৭;কু. বো.'২০১৫;সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৭;কু. বো.'২০১৫;সি. বো.'২০১৫",
+          "slug": "si-bo2017ku-bo2015si-bo2015",
+          "pivot": {
+            "question_bank_id": 780511,
+            "tag_id": 5020,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780511,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780511,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780512,
+      "value": {
+        "options": {
+          "ক": "মেরু অঞ্চলে",
+          "খ": "বিষুবীয় অঞ্চলে",
+          "গ": "ক্রান্তীয় অঞ্চলে",
+          "ঘ": "পৃথিবীর কেন্দ্রে"
+        },
+        "question": "'g' এর মান সবচেয়ে বেশি-&nbsp;",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5021,
+          "full_name": "দি. বো.'২০১৯;সি. বো.'২০১৯;য. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯;সি. বো.'২০১৯;য. বো.'২০১৯",
+          "slug": "di-bo2019si-bo2019z-bo2019",
+          "pivot": {
+            "question_bank_id": 780512,
+            "tag_id": 5021,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780512,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780512,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780513,
+      "value": {
+        "options": {
+          "ক": "মেরু অঞ্চলে",
+          "খ": "বিষুবীয় অঞ্চলে",
+          "গ": "ক্রান্তীয় অঞ্চলে",
+          "ঘ": "পৃথিবীর কেন্দ্রে"
+        },
+        "question": "পৃথিবীর কোন অঞ্চলে অভিকর্ষজ ত্বরণের মান ৯.৭৮ মিটার/সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 780513,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780513,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780513,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780514,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অভিকর্ষজ ত্বরণের মান-\u003Cbr\u003E\ni. পৃথিবীর কেন্দ্রে শূন্য\u003Cbr\u003E\nii. মেরু অঞ্চলে ৯.৮ মিটার/সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E\u003Cbr\u003E\niii. ভূ-পৃষ্ঠে ৯.৮ মিটার/সেকেন্ডে\u003Csup\u003E২\u003C/sup\u003E\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 780514,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780514,
+            "question_bank_label_id": 3
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780514,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780514,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780515,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii",
+          "গ": "i ও ii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পৃথিবীর বিভিন্ন স্থানে g এর মান বিভিন্ন কারণ-\u003Cbr\u003E\ni. পৃথিবীর আহ্নিক গতি\u003Cbr\u003E\nii. পৃথিবীর আকৃতি\u003Cbr\u003E\niii. পৃথিবীর আয়তন\u003Cbr\u003E\nনিচের কোনটি সঠিক",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780515,
+            "question_bank_label_id": 4
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780515,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780515,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780516,
+      "value": {
+        "options": {
+          "ক": "০",
+          "খ": "৪১.১৬",
+          "গ": "৪০.২৬",
+          "ঘ": "৫০.১৬"
+        },
+        "question": "একটি বস্তুর ভর ৪.২ কেজি। বস্তুটিকে ২৫ মিটার উপর হতে ছেড়ে দেওয়া হলো।\u003Cbr\u003E\nবস্তুটির উপর পৃথিবীর আকর্ষণ বল কত?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 780516,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780516,
+            "question_bank_label_id": 3
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780516,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780516,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780517,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি বস্তুর ভর ৪.২ কেজি। বস্তুটিকে ২৫ মিটার উপর হতে ছেড়ে দেওয়া হলো।\u003Cbr\u003E\nবস্তুটি নিচে পড়ার সময়-\u003Cbr\u003E\ni. বাতাসের ঘর্ষণ বল কাজ করে\u003Cbr\u003E\nii. বাতাসের ঊর্ধ্বমুখী বল ক্রিয়া করে\u003Cbr\u003E\niii. বস্তুটি ওজনহীন হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 780517,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780517,
+            "question_bank_label_id": 4
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780517,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780517,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780517,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780484,
+      "value": {
+        "options": {
+          "ক": "৯.৮১m/s\u003Csup\u003E২\u003C/sup\u003E",
+          "খ": "৯.৮m/s\u003Csup\u003E২\u003C/sup\u003E",
+          "গ": "৯.৮৩m/s\u003Csup\u003E২\u003C/sup\u003E",
+          "ঘ": "৯.৮৭m/s\u003Csup\u003E২\u003C/sup\u003E"
+        },
+        "question": "ভূপৃষ্ঠে 'g'-এর মান কত?",
+        "solution": "খ. ৯.৮m/s\u003Csup\u003E২\u003C/sup\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780484,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780474,
+      "value": {
+        "options": {
+          "ক": "$F = mG$",
+          "খ": "$F = G&nbsp;\\frac{m_1m_2}{d_2}$",
+          "গ": "$F =&nbsp;\\frac{m}{g}$",
+          "ঘ": "$F = mg$"
+        },
+        "question": "কোনটি অভিকর্ষ বলের সূত্র?",
+        "solution": "ঘ. $F = mg$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780474,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780475,
+      "value": {
+        "options": {
+          "ক": "৯.৭৯ ms\u003Csup\u003E-2\u003C/sup\u003E",
+          "খ": "৯.৮০৭৭৫ ms\u003Csup\u003E-2\u003C/sup\u003E",
+          "গ": "৯-৭০৬৬৫ ms\u003Csup\u003E-2\u003C/sup\u003E",
+          "ঘ": "৯.৬৬৭০৫ ms\u003Csup\u003E-2\u003C/sup\u003E"
+        },
+        "question": "ক্রান্তীয় অঞ্চলে g এর মান কত?",
+        "solution": "ক. ৯.৭৯ ms\u003Csup\u003E-2\u003C/sup\u003E",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3858,
+          "full_name": "মাইলস্টোন কলেজ, ঢাকা",
+          "short_name": "মাইলস্টোন কলেজ, ঢাকা",
+          "slug": "mailston-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 780475,
+            "tag_id": 3858,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780476,
+      "value": {
+        "options": {
+          "ক": "৩৯.২m/s",
+          "খ": "৪৩.২m/s&nbsp;",
+          "গ": "৪৫.২m/s",
+          "ঘ": "৪৯.২m/s"
+        },
+        "question": "সাকিব ছাদের উপর ওঠে একটি পাথর সাবধানে নিচে ফেলে দিল। পাথরটি ৫ সেকেন্ড পর মাটি স্পর্শ করল।\u003Cbr\u003E\n৪ সেকেন্ড পর পাথরটির বেগ কত ছিল?",
+        "solution": "ক. ৩৯.২m/s",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780476,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780476,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780477,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ",
+          "খ": "অভিকর্ষ",
+          "গ": "অভিকর্ষজ ত্বরণ",
+          "ঘ": "আন্তঃআণবিক বল"
+        },
+        "question": "পৃথিবী ও তোমার বিজ্ঞান বইয়ের মধ্যকার আকর্ষণকে কী বলে?",
+        "solution": "খ. অভিকর্ষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780477,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780478,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ ত্বরণ",
+          "খ": "মন্দন",
+          "গ": "সুষম ত্বরণ",
+          "ঘ": "অভিকর্ষজ ত্বরণ"
+        },
+        "question": "অভিকর্ষ বলের প্রভাবে মুক্তভাবে পড়ন্ত বস্তুর ত্বরণ হবে কোনটি?",
+        "solution": "ঘ. অভিকর্ষজ ত্বরণ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780478,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780479,
+      "value": {
+        "options": {
+          "ক": "সরণ",
+          "খ": "বেগ",
+          "গ": "দ্রুতি",
+          "ঘ": "ত্বরণ"
+        },
+        "question": "বস্তু নির্দিষ্ট দিকে একক সময়ে যে দূরত্ব অতিক্রম করে তাকে কী বলা হয়?",
+        "solution": "খ. বেগ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780479,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780480,
+      "value": {
+        "options": {
+          "ক": "ধ্রুব হয়",
+          "খ": "বাড়তে থাকে",
+          "গ": "কমতে থাকে",
+          "ঘ": "শূন্য হয়"
+        },
+        "question": "ভূপৃষ্ঠ থেকে উপরে উঠলে অভিকর্ষজ ত্বরণের মানের কী পরিবর্তন ঘটে?",
+        "solution": "গ. কমতে থাকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780480,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780481,
+      "value": {
+        "options": {
+          "ক": "পৃথিবীর ব্যাসার্ধ R সবচেয়ে বেশি বলে",
+          "খ": "G এবং M উভয় ধ্রুবক বলে",
+          "গ": "পৃথিবীর ব্যাসার্ধ R সবচেয়ে কম বলে",
+          "ঘ": "G ব্যতীত M ধ্রুবক বলে"
+        },
+        "question": "মেরু অঞ্চলে 'g'-এর মান সবচেয়ে বেশি হয় কেন?",
+        "solution": "গ. পৃথিবীর ব্যাসার্ধ R সবচেয়ে কম বলে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780481,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780482,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অভিকর্ষজ ত্বরণ, g-\u003Cbr\u003E\ni.&nbsp;\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-142-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mtext&gt;&amp;#x985;&amp;#x9AD;&amp;#x9BF;&amp;#x995;&amp;#x9B7;&amp;#x99C; &amp;#x9AC;&amp;#x9B2;&lt;/mtext&gt;&lt;mtext&gt;&amp;#x9AC;&amp;#x9B8;&amp;#x9CD;&amp;#x9A4;&amp;#x9C1;&amp;#x9B0; &amp;#x9AD;&amp;#x9B0;&lt;/mtext&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-2600\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-2601\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2602\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 3.236em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 4.576em; top: -1.642em;\"\u003E\u003Cspan id=\"MJXc-Node-2603\" class=\"mjx-mtext\" style=\"\"\u003E\u003Cspan class=\"mjx-char\" style=\"padding-top: 0.445em; padding-bottom: 0.224em;\"\u003E\u003Cspan class=\"mjx-charbox MJXc-font-inherit\" style=\"font-size: 88.5%; padding-bottom: 0.382em;\"\u003Eঅভিকষজ বল\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 4.576em; bottom: -0.934em;\"\u003E\u003Cspan id=\"MJXc-Node-2604\" class=\"mjx-mtext\" style=\"\"\u003E\u003Cspan class=\"mjx-char\" style=\"padding-top: 0.445em; padding-bottom: 0.224em;\"\u003E\u003Cspan class=\"mjx-charbox MJXc-font-inherit\" style=\"font-size: 88.5%; padding-bottom: 0.382em;\"\u003Eবস্তুর ভর\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 3.236em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.821em; vertical-align: -0.661em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmtext\u003Eঅভিকষজ বল\u003C/mtext\u003E\u003Cmtext\u003Eবস্তুর ভর\u003C/mtext\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-142\"\u003E\\frac{\\text{অভিকষজ বল}}{\\text{বস্তুর ভর}}\u003C/script\u003E\u003Cbr\u003E\nii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-143-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;G&lt;/mi&gt;&lt;/mrow&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;M&lt;/mi&gt;&lt;/mrow&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;m&lt;/mi&gt;&lt;/mrow&gt;&lt;/mrow&gt;&lt;msup&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;d&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-2605\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-2606\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2607\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 1.934em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 2.735em; top: -1.369em;\"\u003E\u003Cspan id=\"MJXc-Node-2608\" class=\"mjx-mrow\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-2609\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-2610\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2611\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EG\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-2612\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-2613\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2614\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EM\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-2615\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-2616\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2617\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.169em; padding-bottom: 0.335em;\"\u003Em\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 2.735em; bottom: -0.855em;\"\u003E\u003Cspan id=\"MJXc-Node-2618\" class=\"mjx-msubsup\" style=\"\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-2619\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-2620\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2621\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003Ed\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.631em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-2622\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 1.934em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.572em; vertical-align: -0.605em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmrow\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EG\u003C/mi\u003E\u003C/mrow\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EM\u003C/mi\u003E\u003C/mrow\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003Em\u003C/mi\u003E\u003C/mrow\u003E\u003C/mrow\u003E\u003Cmsup\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003Ed\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-143\"\u003E\\frac{\\mathrm G \\mathrm M \\mathrm m}{\\mathrm d^2}\u003C/script\u003E\u003Cbr\u003E\niii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-144-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;G&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;M&lt;/mi&gt;&lt;/mrow&gt;&lt;msup&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;d&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-2623\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-2624\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2625\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 1.345em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 1.902em; top: -1.369em;\"\u003E\u003Cspan id=\"MJXc-Node-2626\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-2627\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2628\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EG\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-2629\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EM\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 1.902em; bottom: -0.855em;\"\u003E\u003Cspan id=\"MJXc-Node-2630\" class=\"mjx-msubsup\" style=\"\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-2631\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-2632\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-2633\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003Ed\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.631em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-2634\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 1.345em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.572em; vertical-align: -0.605em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EG\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EM\u003C/mi\u003E\u003C/mrow\u003E\u003Cmsup\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003Ed\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-144\"\u003E\\frac{\\mathrm{GM}}{\\mathrm{d}^2}\u003C/script\u003E\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780482,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780482,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780483,
+      "value": {
+        "options": {
+          "ক": "৯৮ কেজি",
+          "খ": "৯.৮ কেজি",
+          "গ": "৯৮ নিউটন",
+          "ঘ": "০&nbsp;নিউটন"
+        },
+        "question": "পৃথিবীতে কোনো বস্তুর ভর ১০ কেজি এবং অভিকর্ষজ ত্বরণ ৯.৮ মি./সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E\u003Cbr\u003E\nপৃথিবীতে বস্তুটির ওজন কত?",
+        "solution": "গ. ৯৮ নিউটন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780483,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780473,
+      "value": {
+        "options": {
+          "ক": "অভিকর্ষজ বল",
+          "খ": "অভিকর্ষজ বেগ",
+          "গ": "অভিকর্ষজ ত্বরণ",
+          "ঘ": "মহাকর্ষ বল"
+        },
+        "question": "অভিকর্ষ বলের প্রভাবে ভূপৃষ্ঠে মুক্তভাবে পড়ন্ত কোনো বস্তুর বেগ বৃদ্ধির হারকে কী বলে?",
+        "solution": "গ. অভিকর্ষজ ত্বরণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780473,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780485,
+      "value": {
+        "options": {
+          "ক": "পৃথিবীর ভর",
+          "খ": "বস্তুর ভর",
+          "গ": "বস্তুর উচ্চতা",
+          "ঘ": "পৃথিবীর ব্যাসার্ধ"
+        },
+        "question": "অভিকর্ষজ ত্বরণ কোনটির ওপর নির্ভর করে না?",
+        "solution": "খ. বস্তুর ভর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780485,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780486,
+      "value": {
+        "options": {
+          "ক": "অভিকর্ষ বল",
+          "খ": "ওজন",
+          "গ": "বল",
+          "ঘ": "ভর"
+        },
+        "question": "ভরকে অভিকর্ষজ ত্বরণ দিয়ে গুণ করলে কী পাওয়া যায়?",
+        "solution": "ক. অভিকর্ষ বল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780486,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780487,
+      "value": {
+        "options": {
+          "ক": "$g= \\frac{1}{GM}$",
+          "খ": "$g = \\frac{R^2}{GM}$",
+          "গ": "$g = \\frac{GM}{R }$",
+          "ঘ": "$g = \\frac{GM}{R^2}$"
+        },
+        "question": "নিচের কোনটি সঠিক?",
+        "solution": "ঘ. $g = \\frac{GM}{R^2}$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780487,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780488,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "i ও ii",
+          "ঘ": "i ও iii"
+        },
+        "question": "একটি বস্তু উপর থেকে ছেড়ে দিলে ভূমিতে পৌঁছায়-\u003Cbr\u003E\ni. মহাকর্ষের প্রভাবে&nbsp;\u003Cbr\u003E\nii. অভিকর্ষের প্রভাবে&nbsp;\u003Cbr\u003E\niii. ওজনের প্রভাবে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780488,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780488,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780489,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ বলের প্রভাবে",
+          "খ": "অভিকর্ষ বলের প্রভাবে",
+          "গ": "বিভব শক্তির প্রভাবে",
+          "ঘ": "গতিশক্তির প্রভাবে"
+        },
+        "question": "সাকিব ছাদের উপর ওঠে একটি পাথর সাবধানে নিচে ফেলে দিল। পাথরটি ৫ সেকেন্ড পর মাটি স্পর্শ করল।\u003Cbr\u003E\nপাথরটি মাটি স্পর্শ করল কেন?",
+        "solution": "খ. অভিকর্ষ বলের প্রভাবে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780489,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780489,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780490,
+      "value": {
+        "options": {
+          "ক": "৯.৮m/s&sup2;",
+          "খ": "৯.৮m/s",
+          "গ": "০.৯৮m/s",
+          "ঘ": "০.৯৮m/s&sup2;"
+        },
+        "question": "ভূপৃষ্ঠে মুক্তভাবে পড়ন্ত কোনো বস্তুর বেগ প্রতি সেকেন্ডে কী পরিমাণ বৃদ্ধি পায়?",
+        "solution": "খ. ৯.৮m/s",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780490,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780491,
+      "value": {
+        "options": {
+          "ক": "G",
+          "খ": "F",
+          "গ": "R",
+          "ঘ": "g"
+        },
+        "question": "কোনটি দ্বারা অভিকর্ষজ ত্বরণকে প্রকাশ করা হয়?",
+        "solution": "ঘ. g",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780491,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780492,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "i ও ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অভিকর্ষজ ত্বরণের ক্ষেত্রে-\u003Cbr\u003E\ni. এর মান বস্তু নিরপেক্ষ&nbsp;\u003Cbr\u003E\nii. এর একক মিটার/সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E&nbsp;\u003Cbr\u003E\niii. এটি অভিকর্ষ বল ও ভরের গুণফলের সমান&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 780492,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-02T06:13:58.000000Z",
+            "updated_at": "2025-12-02T06:13:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780492,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780493,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "g এর মান কোথায় বেশি?&nbsp;\u003Cbr\u003E\ni. বিষুবীয় এলাকায়&nbsp;\u003Cbr\u003E\nii. মেরু এলাকায়&nbsp;\u003Cbr\u003E\niii. ভূপৃষ্ঠে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780493,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780494,
+      "value": {
+        "options": {
+          "ক": "০ কেজি",
+          "খ": "১০ কেজি",
+          "গ": "৯৮ কেজি",
+          "ঘ": "৯৮ নিউটন"
+        },
+        "question": "পৃথিবীতে কোনো বস্তুর ভর ১০ কেজি এবং অভিকর্ষজ ত্বরণ ৯.৮ মি./সেকেন্ড\u003Csup\u003E২\u003C/sup\u003E\u003Cbr\u003E\nপৃথিবীর কেন্দ্রে বস্তুটির ভর কত হবে?",
+        "solution": "খ. ১০ কেজি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7992,
+      "created_at": "2025-12-02T06:13:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780494,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7992&grade=2&lesson=14796&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7992&grade=2&lesson=14796&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7992&grade=2&lesson=14796&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 45,
+  "total": 45
+}

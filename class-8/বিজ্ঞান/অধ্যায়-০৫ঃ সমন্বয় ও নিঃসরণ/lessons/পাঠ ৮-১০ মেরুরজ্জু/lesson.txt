@@ -1,0 +1,1001 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 780231,
+      "value": {
+        "options": [],
+        "question": "হাতে পিন ফোটামাত্র আমরা হাত টেনে নিই কেন?",
+        "solution": "হাতে পিন ফোটামাত্র আমাদের হাত টেনে নেওয়ার কারণ হলো প্রতিবর্ত ক্রিয়া। আমাদের হাতের চামড়ায় পিন ফোটার সঙ্গে সঙ্গে বেশকিছু অনুভূতিবাহী স্নায়ু উদ্দীপনা গ্রহণ করে। এ উদ্দীপনা অনেকগুলো পরস্পর সংযুক্ত স্নায়ুকোষের মাধ্যমে অনেকগুলো আজ্ঞাবাহী কোষে প্রবাহিত হয়। এসব আজ্ঞাবাহী স্নায়ু পেশিতে উদ্দীপনা বহন করে হাত সরিয়ে আনে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780240,
+      "value": {
+        "options": {
+          "ক": "স্নায়বিক",
+          "খ": "তাড়না",
+          "গ": "উদ্দীপনা",
+          "ঘ": "প্রতিবর্ত"
+        },
+        "question": "মিশু সেলাই শিখতে সুঁই, সুতা, কাপড় ও টর্চ নিয়ে বসে। তার ছোট ভাই খেলতে গিয়ে হঠাৎ টর্চের আলো মিশুর চোখের উপর ফেললে সে চোখ বন্ধ করে ফেলে আর আঙুলে সুঁই ফোটা মাত্র ব্যথা অনুভব করে।\u003Cbr\u003E\nমিশুর আলোতে চোখ বন্ধ করা কী ধরনের ক্রিয়া?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780240,
+            "question_bank_label_id": 3
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780240,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780240,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780239,
+      "value": {
+        "options": {
+          "ক": "অনুভূতিবাহী স্নায়ুতন্তু",
+          "খ": "মস্তিস্ক",
+          "গ": "চোখ",
+          "ঘ": "মেরুরজ্জু"
+        },
+        "question": "মিশু সেলাই শিখতে সুঁই, সুতা, কাপড় ও টর্চ নিয়ে বসে। তার ছোট ভাই খেলতে গিয়ে হঠাৎ টর্চের আলো মিশুর চোখের উপর ফেললে সে চোখ বন্ধ করে ফেলে আর আঙুলে সুঁই ফোটা মাত্র ব্যথা অনুভব করে।\u003Cbr\u003E\nনিচের কোনটি মিশুর যন্ত্রণা গ্রহণ করে?&nbsp;",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780239,
+            "question_bank_label_id": 4
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780239,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780239,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780238,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মেরুরজ্জুর শ্বেত পদার্থের ভেতর দিয়ে যাতায়াত করে-\u003Cbr\u003E\ni. আজ্ঞাবাহী স্নায়ুতন্ত্র\u003Cbr\u003E\nii. অনুভূতিবাহী স্নায়ুতন্ত্র\u003Cbr\u003E\niii. স্নায়ুরজ্জু\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780238,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780238,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780238,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780237,
+      "value": {
+        "options": {
+          "ক": "তাড়ন ক্রিয়া",
+          "খ": "স্নায়ু উদ্দীপনা",
+          "গ": "প্রতিবর্ত ক্রিয়া",
+          "ঘ": "অনুভূতি ক্রিয়া"
+        },
+        "question": "তাৎক্ষণিক আত্মরক্ষার জন্য কোনো অঙ্গের তড়িৎ ক্রিয়ার নাম কী?",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780237,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780237,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780236,
+      "value": {
+        "options": {
+          "ক": "অনুভূতি",
+          "খ": "খাদ্য গ্রহণ",
+          "গ": "রেচন",
+          "ঘ": "জনন"
+        },
+        "question": "নিচের কোনটি প্রতিবর্ত চক্রের সাথে সম্পর্কিত?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4291,
+          "full_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "short_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "slug": "gv-lzabretri-hai-skul-khulna",
+          "pivot": {
+            "question_bank_id": 780236,
+            "tag_id": 4291,
+            "year": null,
+            "created_at": "2025-12-02T06:10:17.000000Z",
+            "updated_at": "2025-12-02T06:10:17.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780236,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780236,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780235,
+      "value": {
+        "options": {
+          "ক": "সংবেদন",
+          "খ": "সাড়া",
+          "গ": "স্নায়ুতাড়না",
+          "ঘ": "প্রতিবর্ত ক্রিয়া"
+        },
+        "question": "অনুভূতির উত্তেজনা দ্বারা উৎপন্ন ক্রিয়াকে কী বলে?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780235,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780235,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780234,
+      "value": {
+        "options": {
+          "ক": "রক্ত",
+          "খ": "শ্বেত পদার্থ",
+          "গ": "ধূসর পদার্থ",
+          "ঘ": "স্নায়বিক পদার্থ"
+        },
+        "question": "মেরুরজ্জুর ভেতরের দিকে কী থাকে?&nbsp;",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780234,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780234,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780233,
+      "value": {
+        "options": [],
+        "question": "প্রতিটি প্রতিবর্ত চক্রের কতটি অংশ থাকে? উল্লেখ কর।",
+        "solution": "প্রতিটি প্রতিবর্ত চক্রের পাঁচটি অংশ থাকে। যথা- ১. গ্রাহক অঙ্গ; ২. অনুভূতিবাহী স্নায়ু; ৩. প্রতিবর্ত কেন্দ্র; ৪. আজ্ঞাবাহী স্নায়ু; ৫. সাড়া প্রদানকারী অঙ্গ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780232,
+      "value": {
+        "options": [],
+        "question": "মস্তিষ্ক ও মেরুরজ্জুর মধ্যে দুটি পার্থক্য লেখ।",
+        "solution": "মস্তিষ্ক ও মেরুরজ্জুর মধ্যে দুটি পার্থক্য হলো-\n\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd style=\"text-align:center\"\u003E\u003Cstrong\u003Eমস্তিষ্ক\u003C/strong\u003E\u003C/td\u003E\n\t\t\t\u003Ctd style=\"text-align:center\"\u003E\u003Cstrong\u003Eমেরুরজ্জু\u003C/strong\u003E\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E১. ধূসর পদার্থ বা গ্রেম্যাটার থাকে বাইরে।\u003C/td\u003E\n\t\t\t\u003Ctd\u003E১. ধূসর পদার্থ বা গ্রেম্যাটার থাকে ভিতরে।\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E২. হোয়াইট ম্যাটার বা শ্বেত পদার্থ ভিতরে থাকে।\u003C/td\u003E\n\t\t\t\u003Ctd\u003E২. শ্বেত পদার্থ বাইরে থাকে।\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780230,
+      "value": {
+        "options": [],
+        "question": "প্রতিবর্ত ক্রিয়াকে সমন্বিত কার্যক্রম বলা হয় কেন?",
+        "solution": "প্রতিটি প্রতিবর্ত ক্রিয়ার পাঁচটি অংশ থাকে। যথা- ১. গ্রাহক যন্ত্র; ২. অনুভূতিবাহী স্নায়ু, ৩. প্রতিবর্ত কেন্দ্র, ৪. আজ্ঞাবাহী স্নায়ু এবং ৫. সাড়া প্রদানকারী অঙ্গ। এই পাঁচটি অংশের যেকোনো একটির অভাবে প্রতিবর্ত ক্রিয়ার কাজ সঠিকভাবে হতে পারে না। এজন্য প্রতিবর্ত ক্রিয়াকে সমন্বিত কার্যক্রম বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780229,
+      "value": {
+        "options": {
+          "ক": "গ্রাহক",
+          "খ": "উদ্দীপক",
+          "গ": "আজ্ঞাবাহক",
+          "ঘ": "স্থিতিস্থাপক"
+        },
+        "question": "তোমার হাতে একটি মশা বসল। তুমি তা টের পেলে প্রতিবর্ত ক্রিয়ার কারণে এবং তাৎক্ষণিক তোমার হাত মশাটির কামড়ানোর স্থানে আঘাত করল।\u003Cbr\u003E\nউদ্দীপকের বর্ণনা অনুযায়ী মশাটি কী?",
+        "solution": "খ. উদ্দীপক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780229,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780229,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780228,
+      "value": {
+        "options": {
+          "ক": "দর্শনানুভূতি",
+          "খ": "শ্রবণানুভূতি",
+          "গ": "প্রতিবর্ত ক্রিয়া",
+          "ঘ": "ক্রোধ, লজ্জা"
+        },
+        "question": "স্নায়ুতাড়নার তাৎক্ষণিক কার্যকারিতার ফলে কোনটি ঘটে?",
+        "solution": "গ. প্রতিবর্ত ক্রিয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780228,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780227,
+      "value": {
+        "options": {
+          "ক": "অনুভূতি",
+          "খ": "খাদ্য গ্রহণ",
+          "গ": "রেচন",
+          "ঘ": "জনন"
+        },
+        "question": "নিচের কোনটি প্রতিবর্ত চক্রের সাথে সম্পর্কিত?",
+        "solution": "ক. অনুভূতি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4291,
+          "full_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "short_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "slug": "gv-lzabretri-hai-skul-khulna",
+          "pivot": {
+            "question_bank_id": 780227,
+            "tag_id": 4291,
+            "year": null,
+            "created_at": "2025-12-02T06:10:17.000000Z",
+            "updated_at": "2025-12-02T06:10:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780226,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রতিবর্ত ক্রিয়ার প্রতিবর্ত কেন্দ্র ও উপাদান-\u003Cbr\u003E\ni. স্নায়ু&nbsp;\u003Cbr\u003E\nii. সুষম্নাকাণ্ড&nbsp;\u003Cbr\u003E\niii. গুরুমস্তিষ্ক&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780226,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780226,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780225,
+      "value": {
+        "options": {
+          "ক": "প্রতিবর্ত ক্রিয়ার কারণে",
+          "খ": "পরাবর্ত ক্রিয়ার কারণে",
+          "গ": "আজ্ঞাবাহী স্নায়ুর কারণে",
+          "ঘ": "প্রতিক্রিয়া বলের কারণে"
+        },
+        "question": "আগুনের সংস্পর্শে আসামাত্রই মানুষ হাত সরিয়ে নেয় কেন?",
+        "solution": "ক. প্রতিবর্ত ক্রিয়ার কারণে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780225,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780224,
+      "value": {
+        "options": {
+          "ক": "প্রতিবর্ত ক্রিয়া",
+          "খ": "স্নায়ুতাড়না",
+          "গ": "সাড়া",
+          "ঘ": "স্নায়ুউদ্দীপনা"
+        },
+        "question": "স্নায়ুর ভেতর দিয়ে যে সংবাদ বা অনুভূতি প্রবাহিত হয়, তাকে কী বলে?",
+        "solution": "খ. স্নায়ুতাড়না",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780224,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780222,
+      "value": {
+        "options": {
+          "ক": "স্নায়ুকোষ দ্বারা",
+          "খ": "মস্তিষ্কের দ্বারা",
+          "গ": "প্রতিবর্ত ক্রিয়ার কারণে",
+          "ঘ": "স্নায়ু তাড়নার কারণে"
+        },
+        "question": "চোখে প্রখর আলো পড়লে তাৎক্ষণিক চোখের পাতা বন্ধ হয় কী কারণে?",
+        "solution": "গ. প্রতিবর্ত ক্রিয়ার কারণে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780222,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780223,
+      "value": {
+        "options": {
+          "ক": "স্নায়ুর স্থিতিশীলতার জন্য",
+          "খ": "স্নায়ুর উদ্দীপনার জন্য",
+          "গ": "অদৃশ্যশক্তির কারণে",
+          "ঘ": "ব্যথার জন্য"
+        },
+        "question": "তোমার হাতে একটি মশা বসল। তুমি তা টের পেলে প্রতিবর্ত ক্রিয়ার কারণে এবং তাৎক্ষণিক তোমার হাত মশাটির কামড়ানোর স্থানে আঘাত করল।\u003Cbr\u003E\nতুমি মশাটির কামড় অনুভব করলে কেন?",
+        "solution": "খ. স্নায়ুর উদ্দীপনার জন্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7990,
+      "created_at": "2025-12-02T06:10:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780223,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780223,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7990&grade=2&lesson=14788&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7990&grade=2&lesson=14788&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7990&grade=2&lesson=14788&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 19,
+  "total": 19
+}

@@ -1,0 +1,3923 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 801593,
+      "value": {
+        "options": {
+          "ক": "(2x - 1)(x - 4)",
+          "খ": "(2x + 1)(x - 4)",
+          "গ": "(2x - 1)(x + 4)",
+          "ঘ": "(2x + 1)(x + 4)&nbsp;"
+        },
+        "question": "\u003Cdiv\u003E[math]2x ^ 2 + 7x - 4[/math]&nbsp;এর উৎপাদকে বিশ্লেষিত রূপ কোনটি?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; 2 x^2+7 x-4 \\\\ &amp; =2 x^2+8 x-x-4 \\\\ &amp; =2 x(x+4)-1(x+4) \\\\ &amp; =(x+4)(2 x-1)\\end{aligned}[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4045,
+          "full_name": "ময়মনসিংহ জিলা স্কুল",
+          "short_name": "ময়মনসিংহ জিলা স্কুল",
+          "slug": "mymnsingh-jila-skul",
+          "pivot": {
+            "question_bank_id": 801593,
+            "tag_id": 4045,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801593,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801593,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801581,
+      "value": {
+        "options": {
+          "ক": "[math](x-\\sqrt{3})\\left(x^2+\\sqrt{3} x+3\\right)[/math]",
+          "খ": "[math](x+\\sqrt{3})\\left(x^2-\\sqrt{3} x+3\\right)[/math]",
+          "গ": "[math](x+\\sqrt{3})\\left(x^2+\\sqrt{3} x+3\\right)[/math]",
+          "ঘ": "[math](x-\\sqrt{3})\\left(x^2-\\sqrt{3} x-3\\right)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x^3+3 \\sqrt{3}[/math] এর উৎপাদকে বিশ্লেষণ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4045,
+          "full_name": "ময়মনসিংহ জিলা স্কুল",
+          "short_name": "ময়মনসিংহ জিলা স্কুল",
+          "slug": "mymnsingh-jila-skul",
+          "pivot": {
+            "question_bank_id": 801581,
+            "tag_id": 4045,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801581,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801581,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801582,
+      "value": {
+        "options": {
+          "ক": "x + 2",
+          "খ": "3x + 2",
+          "গ": "x + 3",
+          "ঘ": "x - 1"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 3 - 9x ^ 2 + 35x - 27[/math] একটি বীজগণিতীয় রাশি।\u003Cbr\u003E\nরাশিটির উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801582,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801582,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801582,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801583,
+      "value": {
+        "options": {
+          "ক": "(x - 6)(x - 7)",
+          "খ": "(x - 6)(x + 7)",
+          "গ": "(x + 6)(x + 7)",
+          "ঘ": "(x - 7)(x + 6)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - x - 42[/math]&nbsp;এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 801583,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801583,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801583,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801584,
+      "value": {
+        "options": {
+          "ক": "a - 4",
+          "খ": "3a + 1",
+          "গ": "3a - 1",
+          "ঘ": "a - 1"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি [math]3a ^ 2 + 11a - 4[/math]&nbsp;এর একটি উৎপাদক?&nbsp;\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; 3 a^2+11 a-4=3 a^2+12 a-a-4 \\\\ &amp; =3 a(a+4)-1(a+4)=(a+4)(3 a-1)\\end{aligned}[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5620,
+          "full_name": "বি এ এফ শাহীন কলেজ, ঢাকা",
+          "short_name": "বি এ এফ শাহীন কলেজ, ঢাকা",
+          "slug": "bi-e-ef-saheen-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 801584,
+            "tag_id": 5620,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801584,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801584,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801585,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 8x = 15[/math] রাশিটির-\u003Cbr\u003E\ni. x এর সহগ 8\u003Cbr\u003E\nii. x বর্জিত পদ 15\u003Cbr\u003E\niii. একটি উৎপাদক x + 5\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3813,
+          "full_name": "রা. বো.'২০১৫",
+          "short_name": "রা. বো.'২০১৫",
+          "slug": "ra-bo2015",
+          "pivot": {
+            "question_bank_id": 801585,
+            "tag_id": 3813,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801585,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801585,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801585,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801586,
+      "value": {
+        "options": {
+          "ক": "[math]\\left(3 x+\\frac{1}{3}\\right)\\left(3 x-\\frac{1}{3}\\right)[/math]",
+          "খ": "[math]\\left(3 x-\\frac{1}{3}\\right)\\left(3 x+\\frac{1}{3}\\right)[/math]",
+          "গ": "[math]3\\left(x+\\frac{1}{3}\\right)\\left(x-\\frac{1}{3}\\right)[/math]",
+          "ঘ": "[math]\\left(\\sqrt{3} x+\\frac{1}{3}\\right)\\left(\\sqrt{3} x-\\frac{1}{3}\\right)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]\\left(3 x^2-\\frac{1}{3}\\right)[/math] এর উৎপাদক বিশ্লেষণ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4045,
+          "full_name": "ময়মনসিংহ জিলা স্কুল",
+          "short_name": "ময়মনসিংহ জিলা স্কুল",
+          "slug": "mymnsingh-jila-skul",
+          "pivot": {
+            "question_bank_id": 801586,
+            "tag_id": 4045,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801586,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801586,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801588,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]\\mathrm{x}^6-\\mathrm{y}^6[/math] এর একটি উৎপাদক-\u003Cbr\u003E\ni. [math]x^2-x y+y^2[/math]\u003Cbr\u003E\nii. [math]x^2+x y+y^2[/math]\u003Cbr\u003E\niii. [math]x^2+y^2[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4048,
+          "full_name": "কুমিল্লা জিলা স্কুল",
+          "short_name": "কুমিল্লা জিলা স্কুল",
+          "slug": "kumilla-jila-skul",
+          "pivot": {
+            "question_bank_id": 801588,
+            "tag_id": 4048,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801588,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801588,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801588,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801589,
+      "value": {
+        "options": {
+          "ক": "(x - 5)(x + 6)",
+          "খ": "(x + 5)(x - 6)",
+          "গ": "(x - 5)(x - 6)",
+          "ঘ": "(x + 5)(x + 6)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - x - 30[/math]&nbsp;এর উৎপাদকে বিশ্লেষিতরূপ নিচের কোনটি?&nbsp;\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; x^2-x-30=x^2-6 x+5 x-30 \\\\ &amp; =x(x-6)+5(x-6)=(x+5)(x-6)\\end{aligned}[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801589,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801589,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801590,
+      "value": {
+        "options": {
+          "ক": "(x + 11)(x - 13)",
+          "খ": "(x - 11)(x - 13)",
+          "গ": "(x + 11)(x + 13)",
+          "ঘ": "(x - 11)(x + 13)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 2x - 143[/math]&nbsp;রাশির উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4665,
+          "full_name": "সি. বো.'২০১৮",
+          "short_name": "সি. বো.'২০১৮",
+          "slug": "si-bo2018",
+          "pivot": {
+            "question_bank_id": 801590,
+            "tag_id": 4665,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801590,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801590,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801591,
+      "value": {
+        "options": {
+          "ক": "2 + 1",
+          "খ": "x\u003Csup\u003E2\u003C/sup\u003E + 1",
+          "গ": "x + 1",
+          "ঘ": "2x - 1"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 4 - 2x ^ 2 + 1[/math]&nbsp;এর একটি উৎপাদক হলো-\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} x^4- &amp; 2 x^2+1=x^4-x^2-x^2+1 \\\\ &amp; =x^2\\left(x^2-1\\right)-\\left(x^2-1\\right)\\\\&amp;=\\left(x^2-1\\right)\\left(x^2-1\\right) \\\\ &amp; =(x+1)(x-1)\\left(x^2-1\\right)\\end{aligned}[/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3794,
+          "full_name": "চ. বো.'২০১৭",
+          "short_name": "চ. বো.'২০১৭",
+          "slug": "c-bo2017",
+          "pivot": {
+            "question_bank_id": 801591,
+            "tag_id": 3794,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801591,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801591,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801592,
+      "value": {
+        "options": {
+          "ক": "(x + 7)(x + 5)",
+          "খ": "(x - 7)(x + 5)",
+          "গ": "(x + 7)(x - 5)",
+          "ঘ": "(x - 7)(x - 5)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 2x - 35[/math]&nbsp;উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 801592,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801592,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801592,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801587,
+      "value": {
+        "options": {
+          "ক": "[math]x - y[/math]",
+          "খ": "[math]x + y[/math]",
+          "গ": "[math]x - y + 1[/math]",
+          "ঘ": "[math]x + y - 1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + y ^ 2 - 2xy - 1[/math] এর একটি উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:09.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3843,
+          "full_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "short_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "slug": "dhaka-residensiyal-mdel-klej",
+          "pivot": {
+            "question_bank_id": 801587,
+            "tag_id": 3843,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801587,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801587,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801567,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - 23x + 132[/math] রাশিটির-\u003Cbr\u003E\ni. উৎপাদকের সংখ্যা দুইটি&nbsp;\u003Cbr\u003E\niii. একটি উৎপাদক [math](x – 11)[/math]\u003Cbr\u003E\nii. উৎপাদক পূর্ণবর্গ&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801567,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801567,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801566,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x^6 + 8[/math] এর উৎপাদক হলো-\u003Cbr\u003E\ni. [math]x^2+2[/math]\u003Cbr\u003E\nii. [math]x^2-2 x+4[/math]\u003Cbr\u003E\niii. [math]x^4-2 x^2+4[/math]\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801566,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801566,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801565,
+      "value": {
+        "options": {
+          "ক": "(a - 1)(a + b)",
+          "খ": "(a - 1)(a + 2b + 1)",
+          "গ": "(a + 1)(a + 2b)",
+          "ঘ": "(a + 1)(a + 2b + 1)"
+        },
+        "question": "\u003Cdiv\u003Ea\u003Csup\u003E2 \u003C/sup\u003E+ 2ab - 2b - 1 উৎপাদকে বিশ্লেষণ করলে হয়-\u003C/div\u003E",
+        "solution": "খ. (a - 1)(a + 2b + 1)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801564,
+      "value": {
+        "options": {
+          "ক": "[math]a+b [/math]",
+          "খ": "[math]a&sup2;-b&sup2; [/math]",
+          "গ": "[math](a - b)&sup2;[/math]",
+          "ঘ": "[math]a ^ 2 + ab + b ^ 2[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a³ + b³[/math] এর একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. [math]a+b [/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801563,
+      "value": {
+        "options": {
+          "ক": "[math]x + y + 1 [/math]",
+          "খ": "[math]x - y - 1 [/math]",
+          "গ": "[math]x + y - 1 [/math]",
+          "ঘ": "[math]- x - y + 1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - y ^ 2 + 2y - 1[/math] এর একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "গ. [math]x + y - 1 [/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801563,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801562,
+      "value": {
+        "options": {
+          "ক": "2x",
+          "খ": "x + 2",
+          "গ": "x(x + 2)",
+          "ঘ": "x(x - 2)"
+        },
+        "question": "\u003Cdiv\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 2x এর একটি উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "x\u003Csup\u003E2\u003C/sup\u003E + 2x = x(x + 2)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801562,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801561,
+      "value": {
+        "options": {
+          "ক": "(x + 8)(x - 8)",
+          "খ": "(x - 8)(x - 8)",
+          "গ": "(x + 4)(x - 8)",
+          "ঘ": "(x + 4)&nbsp; (x + 8 )"
+        },
+        "question": "\u003Cdiv\u003Ex\u003Csup\u003E2\u003C/sup\u003E - 64 এর উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "ক. (x + 8)(x - 8)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801561,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801560,
+      "value": {
+        "options": {
+          "ক": "(x - 7)(2x + 5)",
+          "খ": "(2x - 5)(x + 7)",
+          "গ": "(x - 7)(2x - 5)",
+          "ঘ": "(x + 7)(2x + 5)"
+        },
+        "question": "\u003Cdiv\u003E[math]2x ^ 2 - 9x - 35[/math] এর নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. (x - 7)(2x + 5)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801560,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801559,
+      "value": {
+        "options": {
+          "ক": "(a - 7)(a - 4)",
+          "খ": "(a - 7)(a - 3)",
+          "গ": "(a + 7)(a - 4)",
+          "ঘ": "(a + 7)(a + 4)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 7x + 12[/math] ও [math]a ^ 2 - 11a + 28[/math] দুইটি রাশি\u003Cbr\u003E\n২য় রাশির উৎপাদকে বিশ্লেষণ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. (a - 7)(a - 4)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801559,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801559,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801558,
+      "value": {
+        "options": {
+          "ক": "(x + 7)(x + 6)",
+          "খ": "(x + 4)(x + 14)",
+          "গ": "(x + 6)(x + 8)",
+          "ঘ": "(x + 6)(x + 9)"
+        },
+        "question": "\u003Cdiv\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 18x + 56 রাশিটির উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. (x + 4)(x + 14)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801558,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801557,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "\u003Cdiv\u003E[math]8x ^ 3 + 36x ^ 2 + 54x + 27[/math] একটি বীজগণিতীয় রাশি।\u003Cbr\u003E\nরাশিটির উৎপাদকের সংখ্যা কত?\u003C/div\u003E",
+        "solution": "গ. 3",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801557,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801557,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801555,
+      "value": {
+        "options": {
+          "ক": "[math](x + 9) [/math]",
+          "খ": "[math](x ^ 2 - 3x + 9) [/math]",
+          "গ": "[math](x - 3) [/math]",
+          "ঘ": "[math](x ^ 2 + 2x + 9)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 3 + 27[/math] এর উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. [math](x ^ 2 - 3x + 9) [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801555,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801556,
+      "value": {
+        "options": {
+          "ক": "[math](2x + 5) [/math]",
+          "খ": "[math](2x-5)[/math]",
+          "গ": "[math](4x ^ 2 + 10x + 25) [/math]",
+          "ঘ": "[math](4x ^ 2 + 10x - 25)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]8x ^ 3 + 125[/math] এর উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. [math](2x + 5) [/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801556,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801568,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "\u003Cdiv\u003E8x\u003Csup\u003E2\u003C/sup\u003E + 18x + 9 একটি বীজগণিতীয় রাশি।\u003Cbr\u003E\nরাশিটির উৎপাদকের সংখ্যা কয়টি?\u003C/div\u003E",
+        "solution": "প্রদত্ত রাশিটির মাত্রা 2 বলে এর দুইটি উৎপাদক হবে।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801568,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801568,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801569,
+      "value": {
+        "options": {
+          "ক": "(2x - 3)",
+          "খ": "(2x + 4)",
+          "গ": "(4x - 3)",
+          "ঘ": "(4x + 3)"
+        },
+        "question": "\u003Cdiv\u003E8x\u003Csup\u003E2\u003C/sup\u003E + 18x + 9 একটি বীজগণিতীয় রাশি।\u003Cbr\u003E\nরাশিটির একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. (4x + 3)",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801569,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801569,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801570,
+      "value": {
+        "options": {
+          "ক": "[math](a + 1)[/math]",
+          "খ": "[math](a - 1)[/math]",
+          "গ": "[math](a - 2b)[/math]",
+          "ঘ": "[math](a + 2b)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a ^ 2 - 2ab + 2b - 1[/math]&nbsp;এর একটি উৎপাদক-\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; a^2-1-2 a b+2 b=(a+1)(a-1)-2 b(a-1) \\\\ &amp; =(a-1)(a+1-2 b)=(a-1)(a-2 b+1) \\end{aligned}[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 801570,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-16T14:24:08.000000Z",
+            "updated_at": "2025-12-16T14:24:08.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801570,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801570,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801571,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "4",
+          "গ": "3",
+          "ঘ": "2"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 6 - 1[/math] কে উৎপাদকে বিশ্লেষণ করলে কতটি উৎপাদক পাওয়া যাবে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 801571,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-16T14:24:08.000000Z",
+            "updated_at": "2025-12-16T14:24:08.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801571,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801571,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801572,
+      "value": {
+        "options": {
+          "ক": "4a - 5b",
+          "খ": "4b + 5a",
+          "গ": "5b - 4a",
+          "ঘ": "- (4a - 5b)"
+        },
+        "question": "\u003Cdiv\u003E[math]64a ^ 3 - 125b ^ 3[/math] এর একটি উৎপাদক কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801572,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801572,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801573,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "5"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 3 - 9x ^ 2 + 35x - 27[/math] একটি বীজগণিতীয় রাশি।\u003Cbr\u003E\nরাশিটির উৎপাদক সংখ্যা কয়টি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801573,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801573,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801573,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801574,
+      "value": {
+        "options": {
+          "ক": "(x + 5)(x + 3)",
+          "খ": "(x + 5)(x - 4)",
+          "গ": "(x + 5)(x + 4)",
+          "ঘ": "(x + 5)(x + 2)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 9x + 20[/math]&nbsp;রাশিটির উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801574,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801574,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801575,
+      "value": {
+        "options": {
+          "ক": "(x - 2y)(2x - 3y)",
+          "খ": "(x + 2y)(2x - 3y)",
+          "গ": "(x - 2y)(2x + 3y)",
+          "ঘ": "(x + 2y)(2x + 3y)"
+        },
+        "question": "\u003Cdiv\u003E[math]2x ^ 2 - 7xy + 6y ^ 2[/math]&nbsp;এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; 2 x^2-7 x y+6 y^2 \\\\ &amp; =2 x^2-4 x y-3 x y+6 y^2 \\\\ &amp; =2 x(x-2 y)-3 y(x-2 y) \\\\ &amp; =(x-2 y)(2 x-3 y)\\end{aligned}[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 801575,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-16T14:24:08.000000Z",
+            "updated_at": "2025-12-16T14:24:08.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801575,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801575,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801576,
+      "value": {
+        "options": {
+          "ক": "(x - 11)(x + 12)",
+          "খ": "(x + 11)(x - 12)",
+          "গ": "(x - 11)(x - 12)",
+          "ঘ": "(x + 11)(x + 12)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - x - 132[/math]&nbsp;এর উৎপাদকে বিশ্লেষিত রূপ কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801576,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801576,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801577,
+      "value": {
+        "options": {
+          "ক": "(x + b)(ax - 1)",
+          "খ": "(x + b)(a - 1)",
+          "গ": "(x + b)(x - 1)",
+          "ঘ": "(x - b)(ax - 1)"
+        },
+        "question": "\u003Cdiv\u003E[math]a&nbsp; x ^ 2 + (ab - 1)&nbsp; x - b[/math]&nbsp;এর উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4291,
+          "full_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "short_name": "গভ. ল্যাবরেটরি হাই স্কুল, খুলনা",
+          "slug": "gv-lzabretri-hai-skul-khulna",
+          "pivot": {
+            "question_bank_id": 801577,
+            "tag_id": 4291,
+            "year": null,
+            "created_at": "2025-12-16T14:24:08.000000Z",
+            "updated_at": "2025-12-16T14:24:08.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801577,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801577,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801578,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 7x + 12[/math] রাশিটির-\u003Cbr\u003E\ni. x এর সহগ 7\u003Cbr\u003E\nii. ধ্রুবক পদ 12\u003Cbr\u003E\niii. একটি উৎপাদক x + 3\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "[math]x^2+7 x+12[math]=x^2+3 x+4 x+12=x(x+3)+4(x+3)[/math] =(x+3)(x+4)[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 801578,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-16T14:24:08.000000Z",
+            "updated_at": "2025-12-16T14:24:08.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801578,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801578,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801578,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801579,
+      "value": {
+        "options": {
+          "ক": "[math](3a + 2)(9a ^ 2 - 6a + 4)[/math]",
+          "খ": "[math](3a + 2)(9a ^ 2 + 6a + 4)[/math]",
+          "গ": "[math](3a - 2)(9a ^ 2 - 6a + 4)[/math]",
+          "ঘ": "[math](3a - 2)(9a ^ 2 + 6a + 4)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]27a ^ 3 - 8[/math]&nbsp;এর উৎপাদকে বিশ্লেষণ কোনটি?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; 27 a^3-8=(3 a)^3-(2)^3\\\\&amp;=(3 a-2)\\left\\{(3 a)^2+3 a \\cdot 2+(2)^2\\right\\} \\\\ &amp;=(3 a-2)\\left(9 a^2+6 a+4\\right)\\end{aligned}[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 801579,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-16T14:24:08.000000Z",
+            "updated_at": "2025-12-16T14:24:08.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801579,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801579,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801580,
+      "value": {
+        "options": {
+          "ক": "[math]x + 1[/math]",
+          "খ": "[math]2x + 1[/math]",
+          "গ": "[math]x ^ 2 + 1[/math]",
+          "ঘ": "[math]2x - 1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 4 - 2x ^ 2 + 1[/math]&nbsp;এর উৎপাদক নিচের কোনটি?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4311,
+          "full_name": "শেরপুর সরকারি বালিকা উচ্চ বিদ্যালয়",
+          "short_name": "শেরপুর সরকারি বালিকা উচ্চ বিদ্যালয়",
+          "slug": "serpur-srkari-balika-ucc-bidzaly",
+          "pivot": {
+            "question_bank_id": 801580,
+            "tag_id": 4311,
+            "year": null,
+            "created_at": "2025-12-16T14:24:09.000000Z",
+            "updated_at": "2025-12-16T14:24:09.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801580,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 801580,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801554,
+      "value": {
+        "options": {
+          "ক": "[math](x + y) ^ 2 [/math]",
+          "খ": "[math](x + 2y) [/math]",
+          "গ": "[math](2x + y) ^ 2 [/math]",
+          "ঘ": "[math](x ^ 2 + 2y)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 4xy + 4y ^ 2[/math] এর একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. [math](x + 2y) [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801554,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801534,
+      "value": {
+        "options": {
+          "ক": "x - 1",
+          "খ": "x + 1",
+          "গ": "x\u003Csup\u003E2\u003C/sup\u003E + 2x + 1",
+          "ঘ": "x\u003Csup\u003E2\u003C/sup\u003E + x + 1"
+        },
+        "question": "\u003Cdiv\u003Ex\u003Csup\u003E3\u003C/sup\u003E + 1 উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\mathrm{x}^3+1=(\\mathrm{x})^3+(1)^3=(\\mathrm{x}+1)\\left(\\mathrm{x}^2-\\mathrm{x}+1\\right)\u003Cbr /\u003E[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801534,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801535,
+      "value": {
+        "options": {
+          "ক": "[math](x + 4y) ^ 2 [/math]",
+          "খ": "[math](x - 4y) [/math]",
+          "গ": "[math](- x + 4y) ^ 2 [/math]",
+          "ঘ": "[math](x + 4y) [/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 8xy + 16y ^ 2[/math] এর উৎপাদকে বিশ্লেষণ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. [math](x + 4y) ^ 2 [/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801535,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801536,
+      "value": {
+        "options": {
+          "ক": "[math](2x + 3y) [/math]",
+          "খ": "[math]2x - 3y[/math]",
+          "গ": "[math](4x ^ 2 - 6xy + 9y ^ 2) [/math]",
+          "ঘ": "[math](2x ^ 2 - 6xy + 3y ^ 2)[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]8x³ + 27y³[/math] এর উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "গ. [math](4x ^ 2 - 6xy + 9y ^ 2) [/math]",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 801536,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801537,
+      "value": {
+        "options": {
+          "ক": "[math]ax - 1 [/math]",
+          "খ": "[math]x + a [/math]",
+          "গ": "[math]x-a [/math]",
+          "ঘ": "[math]ax&sup2; + 1[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a&nbsp; x ^ 2 + (a ^ 2 + 1)&nbsp; x + a[/math] রাশিটির একটি উৎপাদক-\u003C/div\u003E",
+        "solution": "খ. [math]x + a [/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801537,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801538,
+      "value": {
+        "options": {
+          "ক": "p - q",
+          "খ": "q - 1",
+          "গ": "p + q - 1",
+          "ঘ": "p + 2q + 1"
+        },
+        "question": "\u003Cdiv\u003Ep\u003Csup\u003E2\u003C/sup\u003E + 2pq - 2q - 1 এর একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. p + 2q + 1",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801539,
+      "value": {
+        "options": {
+          "ক": "(x + 9y)(x - 9y)",
+          "খ": "(x + 3y)(x + 3y)",
+          "গ": "(x + 3y)(x - 3y)",
+          "ঘ": "(x + 9y)(x + 9y)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 - 9y ^ 2[/math] এর উৎপাদক কত?\u003C/div\u003E",
+        "solution": "গ. (x + 3y)(x - 3y)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801540,
+      "value": {
+        "options": {
+          "ক": "(x - 5) (x + 7)",
+          "খ": "(5 - x) (7 + x)",
+          "গ": "(x + 5) (x - 7)",
+          "ঘ": "(x - 5) (7 + x)"
+        },
+        "question": "\u003Cdiv\u003E35 - 2x - x\u003Csup\u003E2\u003C/sup\u003E এর উৎপাদকে বিশ্লেষিত রূপ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. (5 - x) (7 + x)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801541,
+      "value": {
+        "options": {
+          "ক": "a(a + 5)(a - 3)",
+          "খ": "(a + 5)(a + 3)",
+          "গ": "(a - 5)(a + 3)",
+          "ঘ": "(a - 5)(a - 3)"
+        },
+        "question": "\u003Cdiv\u003Ea\u003Csup\u003E2\u003C/sup\u003E - 2a - 15 এর উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "গ. (a - 5)(a + 3)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801542,
+      "value": {
+        "options": {
+          "ক": "(2x + 3)(2x + 1)(2x - 1)",
+          "খ": "(2x + 3)(2x + 3)(2x + 3)&nbsp;",
+          "গ": "(2x + 1)(2x + 3)(2x + 5)",
+          "ঘ": "(2x - 3)(2x - 3)(2x + 3)&nbsp;"
+        },
+        "question": "\u003Cdiv\u003E[math]8x ^ 3 + 36x ^ 2 + 54x + 27[/math] একটি বীজগণিতীয় রাশি।\u003Cbr\u003E\nরাশিটির উৎপাদকে বিশ্লেষণ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "খ. (2x + 3)(2x + 3)(2x + 3)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801542,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801542,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801543,
+      "value": {
+        "options": {
+          "ক": "(x + 4)(x + 3)",
+          "খ": "(x + 4)(x - 3)",
+          "গ": "(x - 4)(x - 3)",
+          "ঘ": "(x + 4)(- x + 3)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 7x + 12[/math] ও [math]a ^ 2 - 11a + 28[/math] দুইটি রাশি\u003Cbr\u003E\n১ম রাশির উৎপাদকে বিশ্লেষণ নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} x^2+7 x+12 &amp; =x^2+3 x+4 x+12 \\\\ &amp; =x(x+3)+4(x+3) \\\\ &amp; =(x+3)(x+4)\\end{aligned}[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801543,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801543,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801545,
+      "value": {
+        "options": {
+          "ক": "(x - 5)(x + 4)",
+          "খ": "(x + 5)(x - 4)",
+          "গ": "(x + 4)(x + 5)",
+          "ঘ": "(4 - x)(x + 5)"
+        },
+        "question": "\u003Cdiv\u003Ex\u003Csup\u003E2\u003C/sup\u003E - x - 20 রাশিটির উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. (x - 5)(x + 4)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801544,
+      "value": {
+        "options": {
+          "ক": "[math]a(ab + 2b + b ^ 2) [/math]",
+          "খ": "[math]ab(a + 2b + b ^ 2) [/math]",
+          "গ": "[math]a ^ 2 + 2ab + b ^ 3 [/math]",
+          "ঘ": "[math](a + b) ^ 2[/math]"
+        },
+        "question": "\u003Cdiv\u003E[math]a ^ 2&nbsp; b + 2a b ^ 2 + b ^ 3[/math] এর একটি উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "[math]a ^ 2 b + 2a b ^ 2 + b ^ 3 = b(a ^ 2 + 2ab + b ^ 2) = b (a + b) ^ 2[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 801544,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801553,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E2a\u003Csup\u003E2\u003C/sup\u003E + 10a + 12 রাশিটির একটি উৎপাদক-\u003Cbr\u003E\ni. a + 2&nbsp;\u003Cbr\u003E\nii. a + 4&nbsp;\u003Cbr\u003E\niii. a + 3&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} 2 a^2+10 a+12 &amp; =2 a^2+4 a+6 a+12 \\\\ &amp; =2 a(a+2)+6(a+2) \\\\ &amp; =(a+2)(2 a+6) \\\\ &amp; =2(a+2)(a+3)\\end{aligned}[/math]\u003Cbr /\u003Eসুতরাং। ও iii উক্তিটি সঠিক।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801553,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801553,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801552,
+      "value": {
+        "options": {
+          "ক": "(x + 1)",
+          "খ": "(x - 1)",
+          "গ": "(2x - 3)",
+          "ঘ": "(3 - 2x)"
+        },
+        "question": "\u003Cdiv\u003E[math]2x ^ 2 + 5x + 3[/math] এর একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "ক. (x + 1)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801552,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801551,
+      "value": {
+        "options": {
+          "ক": "(a + 7)",
+          "খ": "(a + 4)",
+          "গ": "(a - 7)",
+          "ঘ": "(a - 8)"
+        },
+        "question": "\u003Cdiv\u003E[math]x ^ 2 + 7x + 12[/math] ও [math]a ^ 2 - 11a + 28[/math] দুইটি রাশি\u003Cbr\u003E\n২য় রাশির একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "গ. (a - 7)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801551,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801551,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801550,
+      "value": {
+        "options": {
+          "ক": "(x + 7)(x + 4)",
+          "খ": "(x + 7)(x - 4)",
+          "গ": "(x - 7)(x + 4)",
+          "ঘ": "(x - 7)(x - 4)"
+        },
+        "question": "\u003Cdiv\u003Ex\u003Csup\u003E2\u003C/sup\u003E - 3x - 28 এর উৎপাদকে নিচের কোনটি?\u003C/div\u003E",
+        "solution": "গ. (x - 7)(x + 4)",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801550,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801549,
+      "value": {
+        "options": {
+          "ক": "(x - 4)(x + 5)",
+          "খ": "(x + 4)(x + 5)",
+          "গ": "(x - 4)(x - 5)",
+          "ঘ": "(4 - x)(5 + x)"
+        },
+        "question": "\u003Cdiv\u003Ex\u003Csup\u003E2\u003C/sup\u003E + 9x + 20 এর উৎপাদকে বিশ্লেষণ কোনটি?\u003C/div\u003E",
+        "solution": "খ. (x + 4)(x + 5)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 801549,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 801548,
+      "value": {
+        "options": {
+          "ক": "(2x + 3)",
+          "খ": "(2x - 3)",
+          "গ": "(3x + 2)",
+          "ঘ": "(3x - 2)"
+        },
+        "question": "\u003Cdiv\u003E[math]8x ^ 3 + 36x ^ 2 + 54x + 27[/math] একটি বীজগণিতীয় রাশি।\u003Cbr\u003E\nরাশিটির একটি উৎপাদক নিচের কোনটি?\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; 8 x^3+36 x^2+54 x+27 \\\\ &amp; =(2 x)^3+3 \\times(2 x)^2 \\times 3+3 \\times 2 x \\times(3)^2+(3)^3 \\\\ &amp; =(2 x+3)^3=(2 x+3)(2 x+3)(2 x+3)\\end{aligned}[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 801548,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 801547,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "iii",
+          "গ": "i",
+          "ঘ": "ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Ea\u003Csup\u003E2\u003C/sup\u003E + 7ab + 12b\u003Csup\u003E2\u003C/sup\u003E এর উৎপাদক বিশ্লেষণে 7ab ভেঙ্গে লিখতে হবে-\u003Cbr\u003E\ni. 3ab&nbsp;\u003Cbr\u003E\nii. 4ab&nbsp;\u003Cbr\u003E\niii. 5ab&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 801547,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 801546,
+      "value": {
+        "options": {
+          "ক": "(3x + 1)",
+          "খ": "(x + 3)",
+          "গ": "(3x + 4)",
+          "ঘ": "(x + 4)"
+        },
+        "question": "\u003Cdiv\u003E9x\u003Csup\u003E2\u003C/sup\u003E - 9x - 4 এর উৎপাদক কোনটি?\u003C/div\u003E",
+        "solution": "ক. (3x + 1)",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:24:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801518,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817935e922c0a616b39910b\"\u003Eউৎপাদকে বিশ্লেষণ কর: [math]a ^ 4 + a ^ 2&nbsp; b ^ 2 + b ^ 4[/math].\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; a^4+a^2 b^2+b^4 \\\\ &amp; =\\left(a^2\\right)^2+2 \\cdot a^2 \\cdot b^2+\\left(b^2\\right)^2-a^2 b^2 \\\\ &amp; =\\left(a^2+b^2\\right)-(a b)^2 \\\\ &amp; =\\left(a^2+b^2+a b\\right)\\left(a^2+b^2-a b\\right) \\\\ &amp; =\\left(a^2+a b+b^2\\right)\\left(a^2-a b+b^2\\right)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801519,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179431922c0a616b399263\"\u003Eউৎপাদকে বিশ্লেষণ কর: [math]x ^ 3 - 3x ^ 2&nbsp; y + 3x&nbsp; y ^ 2 - 9y ^ 3[/math]\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} \\text { } &amp; x^3-3 x^2 y+3 x y^2-9 y^3 \\\\ &amp; =x^3-3 x^2 y+3 x y^2-y^3-8 y^3 \\\\ &amp; =(x-y)^3-(2 y)^3 \\\\ &amp; =(x-y-2 y)\\left\\{(x-y)^2+(x-y) 2 y+(2 y)^2\\right\\} \\\\ &amp; =(x-3 y)\\left(x^2-2 x y+y^2+2 x y-2 y^2+4 y^2\\right) \\\\ &amp; =(x-3 y)\\left(x^2-3 y^2\\right) .\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801520,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681792c2922c0a616b399008\"\u003E[math]x ^ 2 - 2xy + 4y - 4[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; x^2-2 x y+4 y-4 \\\\ &amp; =x^2-2^2-2 y(x-2) \\\\ &amp; =(x+2)(x-2)-2 y(x-2) \\\\ &amp; =(x-2)(x+2-2 y)=(x-2)(x-2 y+2)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801521,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681792f4922c0a616b39902b\"\u003E[math]27a ^ 4 + 8a&nbsp; b ^ 3[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} \\text { } &amp; 27 a^4+8 a^3 \\\\ = &amp; a\\left(27 a^3+8 b^3\\right) \\\\ = &amp; a\\left\\{(3 a)^3+(2 b)^3\\right\\} \\\\ = &amp; a(3 a+2 b)\\left\\{(3 a)^2-3 a \\cdot 2 b+(2 b)^2\\right\\} \\\\ = &amp; a(3 a+b)\\left(9 a^2-6 a b+4 b^2\\right)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801522,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179621922c0a616b399777\"\u003E[math]3y ^ 2 - 15y + 18[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "এখানে, [math]3 \\times 18=54[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\text { এখন, }(-9) \\times(-6)=54 \\text { এবং }(-9)+(-6)=-15 \\\\\u003Cbr /\u003E&amp; \\begin{aligned}\u003Cbr /\u003E\\therefore \\quad 3 y^2-15 y+18 &amp; =3 y^2-9 y-6 y+18 \\\\\u003Cbr /\u003E&amp; =3 y(y-3)-6(y-3)\\\\&amp;=(y-3)(3 y-6)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801523,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817929a922c0a616b398fab\"\u003E[math]m ^ 2 + 2mn - 2n - 1[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; m^2+2 m n-2 n-1 \\\\ &amp; =m^2+2 m n+n^2-n^2-2 n-1 \\\\ &amp; =\\left(m^2+2 m n+n^2\\right)-\\left(n^2+2 n+1\\right) \\\\ &amp; =(m+n)^2-(n+1)^2 \\\\ &amp; =(m+n+n+1)(m+n-n-1) \\\\ &amp; =(m+2 n+1)(m-1)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801524,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681793cc922c0a616b3991c0\"\u003Eউৎপাদকে বিশ্লেষণ কর: [math]a ^ 4 - 23a ^ 2 + 1[/math].\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; \\text { } a^4-23 a^2+1 \\\\ &amp; =\\left(a^2\\right)^2+2 a^2 \\cdot 1+(1)^2-25 a^2 \\\\ &amp; =\\left(a^2+1\\right)^2-(5 a)^2 \\\\ &amp; =\\left(a^2+1+5 a\\right)^2\\left(a^2+1-5 a\\right) \\\\ &amp; =\\left(a^2+5 a+1\\right)\\left(a^2-5 a+1\\right)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801525,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681793f5922c0a616b3991f0\"\u003E[math]m&nbsp; x ^ 2 - (m ^ 2 + 1)&nbsp; x + m[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; m x^2-\\left(m^2+1\\right) x+m \\\\ &amp; =m x^2-m^2 x-x+m \\\\ &amp; =m x(x-m)-1(x-n) \\\\ &amp; =(x-m)(m x-1)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801526,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68179463922c0a616b3992ef\"\u003E[math]x^2+\\left(a+\\frac{1}{a}\\right) x+1[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]x^2+\\left(a+\\frac{1}{a}\\right) x+1[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; =x^2+a x+\\frac{x}{a}+1 \\\\\u003Cbr /\u003E&amp; =x(x+a)+\\frac{1}{a}(x+a)=(x+a)\\left(x+\\frac{1}{a}\\right)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801527,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681794c2922c0a616b39932a\"\u003E[math]a ^ 3 - 1[/math] এর একটি উৎপাদক [math]a - 1[/math] হলে অপরটি কত?\u003C/div\u003E",
+        "solution": "[math]a ^ 3 - 1[math]= a ^ 3 - 1 ^ 3[/math]= (a - 1)(a ^ 2 + a . 1 + 1 ^ 2)) = (a - 1)(a ^ 2 + a + 1)[/math][math]\\therefore[/math]অপর উৎপাদক [math](a ^ 2 + a + 1)[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801528,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817951f922c0a616b3993b9\"\u003E[math]a ^ 2 + 7a - 120[/math] উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; a^2+7 a-120 \\\\ &amp; =a^2+15 a-8 a-120 \\\\ &amp; =a(a+15)-8(a+15)=(a+15)(a-8)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801529,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681795ad922c0a616b39957a\"\u003E[math]4x ^ 2 + 3x - 10[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "এখানে [math]4 \\times(-10)=-40[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\text { এখন, } 8 \\times(-5)=-40 \\text { এবং } 8+(-5)=3 \\\\\u003Cbr /\u003E&amp; \\begin{aligned}\u003Cbr /\u003E\\therefore \\quad 4 x^2+3 x-10 &amp; =4 x^2+8 x-5 x-10 \\\\\u003Cbr /\u003E&amp; =4 x(x+2)-5(x+2)\\\\&amp;=(x+2)(4 x-5)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801530,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681793a2922c0a616b399177\"\u003Eউৎপাদকে বিশ্লেষণ কর: [math]x ^ 2 + x - (a + 1)(a + 2)[/math].\u003C/div\u003E",
+        "solution": "ধরি, [math]a + 1 =m[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\therefore \\quad a+2 &amp; =(a+1)+1=m+1 \\\\\u003Cbr /\u003E\\text { প্রদত্ত রাশি} &amp; =x^2+x-m(m+1) \\\\\u003Cbr /\u003E&amp; =x^2+x-m^2-m \\\\\u003Cbr /\u003E&amp; =x^2-m^2+x-m \\\\\u003Cbr /\u003E&amp; =(x+m)(x-m)+1(x-m) \\\\\u003Cbr /\u003E&amp; =(x-m)(x+m+1) \\\\\u003Cbr /\u003E&amp; =\\{x-(a+1)\\}\\{x+(a+1)+1\\} \\\\\u003Cbr /\u003E&amp; =(x-a-1)(x+a+2)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801531,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681794fa922c0a616b399369\"\u003E[math]x ^ 2 - 18x + 72[/math] উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; x^2-18 x+72 \\\\ &amp; =x^2-6 x-12 x+72 \\\\ &amp; =x(x-6)-12(x-6)=(x-6)(x-12)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801532,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817954d922c0a616b3993e7\"\u003E[math]p ^ 2 - 9p - 36[/math] উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; p^2-9 p-36 \\\\ &amp; =p^2-12 p+3 p-36 \\\\ &amp; =p(p-12)+3(p-12)=(p-12)(p+3)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801533,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817966c922c0a616b399899\"\u003E[math]2x ^ 2 - 9x - 35[/math] কে উৎপাদকে বিশ্লেষণ কর।\u003C/div\u003E",
+        "solution": "এখানে, [math]2 \\times(-35)=-70[/math][math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E&amp; \\text { এখন, }(-14) \\times 5=-70 \\text { এবং }(-14)+5=-9 \\\\\u003Cbr /\u003E&amp; \\therefore \\quad 2 x^2-9 x-35=2 x^2-14 x+5 x-35 \\\\\u003Cbr /\u003E\u003Cbr /\u003E&amp; =2 x(x-7)+5(x-7)=(x-7)(2 x+5)\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 801517,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6817932f922c0a616b399098\"\u003Eউৎপাদকে বিশ্লেষণ কর: [math]p ^ 4 + p ^ 2 + 1[/math].\u003C/div\u003E",
+        "solution": "[math]\\begin{aligned} &amp; p^4+p^2+1 \\\\ &amp; =\\left(p^2\\right)^2+2 \\cdot p^2 \\cdot 1+(1)^2-p^2 \\\\ &amp; =\\left(p^2+1\\right)^2-p^2 \\\\ &amp; =\\left(p^2+1+p\\right)\\left(p^2+1-p\\right)\\\\&amp;=\\left(p^2+p+1\\right)\\left(p^2-p+1\\right)\\end{aligned}[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7898,
+      "created_at": "2025-12-16T14:23:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15567&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15567&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7898&grade=2&lesson=15567&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 77,
+  "total": 77
+}

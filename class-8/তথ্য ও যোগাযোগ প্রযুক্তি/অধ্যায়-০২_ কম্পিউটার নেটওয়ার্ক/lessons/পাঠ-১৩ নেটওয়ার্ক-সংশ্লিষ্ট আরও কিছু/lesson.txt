@@ -1,0 +1,1420 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 770270,
+      "value": {
+        "options": {
+          "ক": "ডাটা সংগ্রহ করা",
+          "খ": "ডাটা সংরক্ষণ করা",
+          "গ": "ডাটা প্রক্রিয়াকরণ করা",
+          "ঘ": "ডাটার সিগন্যাল পরিবর্তন করা"
+        },
+        "question": "মডেমের কাজ কী?",
+        "solution": "ঘ. ডাটার সিগন্যাল পরিবর্তন করা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770270,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770284,
+      "value": {
+        "options": [],
+        "question": "মডেমের কাজ বর্ণনা কর।",
+        "solution": "মডেমের দুটি অংশ রয়েছে- মডুলেশন এবং ডিমডুলেশন! ইন্টারনেটের মাধ্যমে ডেটা বা উপাত্ত পাঠানোর জন্য মডেম ব্যবহৃত হয়। কোনো কম্পিউটার হতে প্রাপ্ত ডিজিটাল সিগন্যালকে অ্যানালগ সিগন্যালে রূপান্তরিত করে। এ কাজটিকে মডুলেশন বলে। আবার &#39;অ্যানালগ সিগন্যালকে ডিজিটাল সিগন্যালে রূপান্তর করার কাজকে ডিমডুলেশন বলে। সিগন্যালকে মডুলেশন ও ডিমডুলেশন করাই হলো মডেমের কাজ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770283,
+      "value": {
+        "options": [],
+        "question": "ইন্টারনেটে যুক্ত থাকতে মডেম কেন গুরুত্বপূর্ণ?",
+        "solution": "ইন্টারনেটে যুক্ত থাকতে মডেম অত্যন্ত গুরুত্বপূর্ণ একটি ডিভাইস। মডেম আমাদের কম্পিউটার বা অন্য যে কোনো ডিভাইসকে ইন্টারনেটের সাথে সংযুক্ত করে। এটি আমাদের ডিভাইস থেকে প্রদান করা ডিজিটাল সংকেতকে এনালগ সংকেতে রূপান্তর করে, যা ইন্টারনেট ক্যাবলের মাধ্যমে পাঠানো যেতে পারে। অন্যদিকে, ইন্টারনেট থেকে আসা এনালগ সংকেতকে আবার ডিজিটাল সংকেতে রূপান্তর করে আমাদের ডিভাইসে পাঠায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770282,
+      "value": {
+        "options": [],
+        "question": "ল্যানকার্ড কখন প্রয়োজন হয়?",
+        "solution": "দুটো বা অধিকসংখ্যক কম্পিউটারকে একসাথে যুক্ত করতে যে যন্ত্রটি অবশ্যই প্রয়োজন হয়, তা হলো ল্যানকার্ড। অর্থাৎ আমরা যদি কোনো নেটওয়ার্ক গড়ে তুলতে চাই, তবে অবশ্যই ল্যান কার্ডের প্রয়োজন হবে। নেটওয়ার্কের সাথে যুক্ত এক আইসিটি যন্ত্র থেকে অন্য যন্ত্রে কোনো তথ্য বা উপাত্ত পাঠাতে কিংবা গ্রহণ করতে ল্যান কার্ডের প্রয়োজন হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770281,
+      "value": {
+        "options": {
+          "ক": "হাব",
+          "খ": "সুইচ",
+          "গ": "রাউটার",
+          "ঘ": "ল্যান কার্ড"
+        },
+        "question": "সাব্বির তার এবং তার পাঁচজন বন্ধুর কম্পিউটার এক সাথে যুক্ত করতে চায়। এজন্য তাকে কোন যন্ত্রটি অবশ্যই ব্যবহার করতে হবে?",
+        "solution": "ঘ. ল্যান কার্ড",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770281,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770280,
+      "value": {
+        "options": {
+          "ক": "হাব",
+          "খ": "সুইচ",
+          "গ": "ল্যান কার্ড",
+          "ঘ": "রাউটার"
+        },
+        "question": "মাদারবোর্ডের সাথে যুক্ত থাকে কোনটি?",
+        "solution": "গ. ল্যান কার্ড",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770280,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770279,
+      "value": {
+        "options": {
+          "ক": "ওয়াইফাই",
+          "খ": "কম্পিউটার",
+          "গ": "টেলিফোন",
+          "ঘ": "অপটিক্যাল ফাইবার"
+        },
+        "question": "তারবিহীন ইন্টারনেট সার্ভিস দেয় কোনটি?",
+        "solution": "ক. ওয়াইফাই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770278,
+      "value": {
+        "options": {
+          "ক": "ডায়াল আপ",
+          "খ": "এনালগ",
+          "গ": "ডিজিটাল",
+          "ঘ": "Wi-Fi"
+        },
+        "question": "প্রথম পর্যায়ে মডেমকে কী বলা হতো?",
+        "solution": "ক. ডায়াল আপ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770277,
+      "value": {
+        "options": {
+          "ক": "module",
+          "খ": "Demodule",
+          "গ": "Modem",
+          "ঘ": "Acumulator"
+        },
+        "question": "Modulator ও Demodulator এর সংক্ষিপ্ত রূপ কোনটি?",
+        "solution": "গ. Modem",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770276,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মডেমের কাজ হলো-\u003Cbr\u003E\ni. কম্পিউটারের ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে রূপান্তর করা\u003Cbr\u003E\nii. নেটওয়ার্কের ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে রূপান্তর করা\u003Cbr\u003E\niii. নেটওয়ার্কের এনালগ সিগন্যালকে ডিজিটাল সিগন্যালে রূপান্তর করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770276,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770276,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770275,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ওয়াইফাই হলো-\u003Cbr\u003E\ni. এক ধরনের নেটওয়ার্ক\u003Cbr\u003E\nii. এক ধরনের ওয়ারলেস ইন্টার সার্ভিস\u003Cbr\u003E\niii. ইন্টারনেট যোগাযোগের মাধ্যমে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770275,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770274,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বর্তমানে যেসব যন্ত্রের মাদার বোর্ডের সাথে ল্যান কার্ড যুক্ত থাকে-\u003Cbr\u003E\ni. কম্পিউটার\u003Cbr\u003E\nii. ল্যাপটপ\u003Cbr\u003E\niii. আই-ফোন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770274,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770274,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770273,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তথ্য প্রাপ্তির পাশাপাশি তথ্য প্রকাশে সহায়তা করে-\u003Cbr\u003E\ni. সামাজিক যোগাযোগের ওয়েবসাইট\u003Cbr\u003E\nii. SEO (Search Engine Optimization)\u003Cbr\u003E\niii. ব্লগ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770273,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770273,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770272,
+      "value": {
+        "options": {
+          "ক": "মোডুলেটর",
+          "খ": "ইন্টারপ্রেটার",
+          "গ": "ট্রেন্সলেটর",
+          "ঘ": "ফায়ারওয়াল"
+        },
+        "question": "তথ্য আদান-প্রদানে ল্যান কার্ড কিরূপ ভূমিকা পালন করে?",
+        "solution": "খ. ইন্টারপ্রেটার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770272,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770271,
+      "value": {
+        "options": {
+          "ক": "ডায়াল আপ",
+          "খ": "ডায়াল ডাউন",
+          "গ": "ডিএসএল",
+          "ঘ": "ওয়াই-ফাই"
+        },
+        "question": "দ্রুতগতির মডেম কোনটি?",
+        "solution": "গ. ডিএসএল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770271,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770255,
+      "value": {
+        "options": {
+          "ক": "কম্পাইলারের",
+          "খ": "মোবাইলের",
+          "গ": "ইন্টারপ্রেটারের",
+          "ঘ": "কম্পিউটারের"
+        },
+        "question": "ল্যান কার্ডের সাথে কোনটির মিল আছে?",
+        "solution": "গ. ইন্টারপ্রেটারের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770269,
+      "value": {
+        "options": {
+          "ক": "হাব",
+          "খ": "টেলিফোন লাইন",
+          "গ": "DSL মডেম",
+          "ঘ": "ডায়াল আপ মডেম"
+        },
+        "question": "শামীমকে প্রায়ই বিভিন্ন লোকজনের সাথে তথ্য আদান-প্রদান করতে হয়। দ্রুত গতিতে কাজ করার জন্য সে কোনটি ব্যবহার করবে?",
+        "solution": "গ. DSL মডেম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 770269,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770268,
+      "value": {
+        "options": {
+          "ক": "স্বল্পগতি",
+          "খ": "উচ্চগতি",
+          "গ": "মডুলেশন",
+          "ঘ": "ডিমডুলেশন"
+        },
+        "question": "ডায়াল আপ মডেম বাতিল হয়ে যাওয়ার কারণ কী?",
+        "solution": "ক. স্বল্পগতি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770268,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770267,
+      "value": {
+        "options": {
+          "ক": "ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে পরিণত করা",
+          "খ": "এনালগ সিগন্যালকে ডিজিটাল সিগন্যালে পরিণত করা",
+          "গ": "ইলেকট্রিক সিগন্যালকে আলোক সিগন্যালে পরিণত করা",
+          "ঘ": "আলোক সিগন্যালকে ইলেকট্রিক সিগন্যালে পরিণত করা"
+        },
+        "question": "মডুলেশনের কাজ কোনটি?",
+        "solution": "ক. ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে পরিণত করা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770266,
+      "value": {
+        "options": {
+          "ক": "হাব",
+          "খ": "সুইচ",
+          "গ": "মডেম",
+          "ঘ": "রাউটার"
+        },
+        "question": "টেলিফোন লাইনের মাধ্যমে ইন্টারনেটের নেটওয়ার্কে যুক্ত থাকার জন্য কোনটি প্রয়োজন?",
+        "solution": "গ. মডেম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770266,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770265,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "Modem শব্দটি কয়টি শব্দের অংশ বিশেষ নিয়ে গঠিত?",
+        "solution": "ক. দুই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770265,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770264,
+      "value": {
+        "options": {
+          "ক": "হাব",
+          "খ": "সুইচ",
+          "গ": "মডেম",
+          "ঘ": "রাউটার"
+        },
+        "question": "ডাটা বা উপাত্তকে পথ নির্দেশনা দেওয়া কোনটির প্রধান কাজ?",
+        "solution": "খ. সুইচ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770263,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মাহি ইন্টারনেটের নেটওয়ার্কের সাথে যুক্ত থাকার জন্য একটি নেটওয়ার্ক যন্ত্র ব্যবহার করে। যন্ত্রটি তথ্য আদান-প্রদানের ক্ষেত্রে এনালগ সিগন্যালকে ডিজিটাল সিগন্যালে এবং ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে রূপান্তর করে।\u003Cbr\u003E\nমাহি উক্ত যন্ত্রটি ব্যবহার করতে পারবে-\u003Cbr\u003E\ni. কম্পিউটার প্রযুক্তিতে\u003Cbr\u003E\nii. তারবিহীন প্রযুক্তিতে\u003Cbr\u003E\niii. তার দ্বারা সংযুক্ত প্রযুক্তিতে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770263,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770263,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770263,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770262,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার",
+          "খ": "হাব",
+          "গ": "মডেম",
+          "ঘ": "ল্যান কার্ড"
+        },
+        "question": "মাহি ইন্টারনেটের নেটওয়ার্কের সাথে যুক্ত থাকার জন্য একটি নেটওয়ার্ক যন্ত্র ব্যবহার করে। যন্ত্রটি তথ্য আদান-প্রদানের ক্ষেত্রে এনালগ সিগন্যালকে ডিজিটাল সিগন্যালে এবং ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে রূপান্তর করে।\u003Cbr\u003E\nউদ্দীপকের বিষয়বস্তু কী?",
+        "solution": "গ. মডেম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 770262,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770262,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770261,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দ্রুত গতির কারণে যেসব মডেমের ব্যবহার দ্রুত বৃদ্ধি পাচ্ছে-\u003Cbr\u003E\ni. Wi-Fi\u003Cbr\u003E\nii. DSL\u003Cbr\u003E\niii. ডায়াল-আপ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770261,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770261,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770260,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মডেম শব্দটির উৎপত্তির সাথে যে শব্দগুলো জড়িত-\u003Cbr\u003E\ni. Modulator\u003Cbr\u003E\nii. Demodulator\u003Cbr\u003E\niii. Demodulation\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770260,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770260,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770259,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তারবিহীন ইন্টারনেট সংযোগ সম্ভব-\u003Cbr\u003E\ni. ওয়াইফাই ব্যবহার করে\u003Cbr\u003E\nii. ওয়াইম্যাক্স ব্যবহার করে\u003Cbr\u003E\niii. ব্রডব্যান্ড ব্যবহার করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770259,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770259,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770258,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার",
+          "খ": "মডেম",
+          "গ": "সিগন্যাল",
+          "ঘ": "ওয়াই-ফাই"
+        },
+        "question": "ইন্টারনেট ব্যবহারের জন্য বর্তমানে কোনটি না হলেও চলে?",
+        "solution": "খ. মডেম",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770257,
+      "value": {
+        "options": {
+          "ক": "ডিজিটাল সিগন্যালকে এনালগ সিগন্যালে পরিণত করা",
+          "খ": "এনালগ সিগন্যালকে ডিজিটাল সিগন্যালে পরিণত করা",
+          "গ": "ইলেকট্রিক সিগন্যালকে আলোক সিগন্যালে পরিণত করা",
+          "ঘ": "আলোক সিগন্যালকে ইলেকট্রিক সিগন্যালে পরিণত করা"
+        },
+        "question": "ডিমডুলেশন এর কাজ কোনটি?",
+        "solution": "খ. এনালগ সিগন্যালকে ডিজিটাল সিগন্যালে পরিণত করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770257,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770256,
+      "value": {
+        "options": {
+          "ক": "হাব ও সুইচের সংযোগস্থলে",
+          "খ": "কম্পিউটার ও স্যাটেলাইটের সংযোগস্থলে",
+          "গ": "কম্পিউটার ও ল্যান কার্ডের সংযোগস্থলে",
+          "ঘ": "কম্পিউটার ও নেটওয়ার্কের সংযোগস্থলে"
+        },
+        "question": "মডেম কোথায় অবস্থান করে?",
+        "solution": "ঘ. কম্পিউটার ও নেটওয়ার্কের সংযোগস্থলে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:18:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770256,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7920&grade=2&lesson=14455&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7920&grade=2&lesson=14455&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7920&grade=2&lesson=14455&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 30,
+  "total": 30
+}

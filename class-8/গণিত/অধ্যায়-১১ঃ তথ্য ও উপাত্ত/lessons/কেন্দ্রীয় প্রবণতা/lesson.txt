@@ -1,0 +1,535 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 803012,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68122803a7d9a2b793692301\"\u003Eউদাহরণসহ কেন্দ্রীয় প্রবণতার সংজ্ঞা দাও।\u003C/div\u003E",
+        "solution": "কোনো পরিসংখ্যানে উপাত্তসমূহ মাঝামাঝি বা কেন্দ্রের মানের দিকে পুঞ্জিভূত হওয়ার প্রবণতাকে কেন্দ্রীয় প্রবণতা বলে। কোনো একটি শ্রেণির শিক্ষার্থীদের বয়সের গড় হলো কেন্দ্রীয় প্রবণতার উদাহরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803013,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68122834a7d9a2b7936923c1\"\u003Eকেন্দ্রীয় প্রবণতার পরিমাপ কয়টি ও কী কী?\u003C/div\u003E",
+        "solution": "কেন্দ্রীয় প্রবণতার পরিমাপ তিনটি। যথা- ১. গাণিতিক গড় বা গড়;\u003Cbr /\u003E২. মধ্যক এবং ৩. প্রচুরক",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803008,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eকেন্দ্রীয় প্রবণতার পরিমাপ করা হয়-\u003Cbr\u003E\ni. আয়তলেখ দ্বারা\u003Cbr\u003E\nii. গাণিতিক গড় দ্বারা\u003Cbr\u003E\niii. মধ্যক ও প্রচুরক দ্বারা\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 803008,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-16T15:02:07.000000Z",
+            "updated_at": "2025-12-16T15:02:07.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 803008,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 803008,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 803008,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 803009,
+      "value": {
+        "options": {
+          "ক": "গড়",
+          "খ": "জনসংখ্যা",
+          "গ": "তাপমাত্রা",
+          "ঘ": "উচ্চতা"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি কেন্দ্রীয় প্রবণতার পরিমাপ?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3847,
+          "full_name": "ব. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৬",
+          "slug": "b-bo2016",
+          "pivot": {
+            "question_bank_id": 803009,
+            "tag_id": 3847,
+            "year": null,
+            "created_at": "2025-12-16T15:02:07.000000Z",
+            "updated_at": "2025-12-16T15:02:07.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 803009,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 803009,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 803010,
+      "value": {
+        "options": {
+          "ক": "প্রচুরক",
+          "খ": "বিস্তার",
+          "গ": "মধ্যক",
+          "ঘ": "কেন্দ্রীয় প্রবণতা"
+        },
+        "question": "\u003Cdiv\u003Eউপাত্তসমূহের কেন্দ্রীয় মানের দিকে পুঞ্জীভূত হওয়ার প্রবণতাকে কী বলা হয়?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3838,
+          "full_name": "সি. বো.'২০১৫",
+          "short_name": "সি. বো.'২০১৫",
+          "slug": "si-bo2015",
+          "pivot": {
+            "question_bank_id": 803010,
+            "tag_id": 3838,
+            "year": null,
+            "created_at": "2025-12-16T15:02:07.000000Z",
+            "updated_at": "2025-12-16T15:02:07.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 803010,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 803010,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 803011,
+      "value": {
+        "options": {
+          "ক": "১",
+          "খ": "২",
+          "গ": "৩",
+          "ঘ": "৪"
+        },
+        "question": "\u003Cdiv\u003Eকেন্দ্রীয় প্রবণতার পরিমাপক কয়টি?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 803011,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 803011,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 803005,
+      "value": {
+        "options": {
+          "ক": "কেন্দ্রীয় প্রবণতা",
+          "খ": "কেন্দ্রীয় বিমুখিতা",
+          "গ": "পরিসর",
+          "ঘ": "গণসংখ্যা ব্যাপ্তি"
+        },
+        "question": "\u003Cdiv\u003Eকোনো উপাত্তসমূহের মাঝামাঝি বা কেন্দ্রের মানের দিকে পুঞ্জিভূত হওয়ার প্রবণতাকে কী বলে?\u003C/div\u003E",
+        "solution": "ক. কেন্দ্রীয় প্রবণতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 803005,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 803006,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "\u003Cdiv\u003Eকেন্দ্রীয় প্রবণতার পরিমাপ কয়টি?\u003C/div\u003E",
+        "solution": "কেন্দ্রীয় প্রবণতার পরিমাপ হলো- ১. গাণিতিক গড় বা গড়, ২. মধ্যক, ৩. প্রচুরক।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 803006,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 803007,
+      "value": {
+        "options": {
+          "ক": "মধ্যক ও ট্যালি",
+          "খ": "প্রচুরক ও ক্রমযোজিত গণসংখ্যা",
+          "গ": "মধ্যক ও শ্রেণি মধ্যমান",
+          "ঘ": "মধ্যক ও প্রচুরক"
+        },
+        "question": "\u003Cdiv\u003Eকেন্দ্রীয় প্রবণতার পরিমাপ হলো-\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7918,
+      "created_at": "2025-12-16T15:02:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3965,
+          "full_name": "রা. বো.'২০১৮",
+          "short_name": "রা. বো.'২০১৮",
+          "slug": "ra-bo2018",
+          "pivot": {
+            "question_bank_id": 803007,
+            "tag_id": 3965,
+            "year": null,
+            "created_at": "2025-12-16T15:02:07.000000Z",
+            "updated_at": "2025-12-16T15:02:07.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 803007,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 803007,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7918&grade=2&lesson=15598&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7918&grade=2&lesson=15598&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7918&grade=2&lesson=15598&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

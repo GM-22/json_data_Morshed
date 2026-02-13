@@ -1,0 +1,1351 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 780063,
+      "value": {
+        "options": [],
+        "question": "তেঁতুলকে মৃদভেদী উদ্ভিদ বলা হয় কেন?",
+        "solution": "যখন বীজপত্রসহ ভূণমুকুল মাটি ভেদ করে উপরে উঠে আসে তখন তাকে মৃদভেদী অঙ্কুরোদগম বলে। তেঁতুলের বীজে অঙ্কুরোদগমের সময় এর বীজপত্রসহ ভূণমুকুল মাটি ভেদ করে উপরে উঠে আসে। এ কারণে তেঁতুলকে মৃদভেদী উদ্ভিদ বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780074,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii",
+          "ঘ": "iii"
+        },
+        "question": "মৃদভেদী অঙ্কুরোদগম ঘটে-&nbsp;\u003Cbr\u003E\ni. কুমড়া, ছোলায়\u003Cbr\u003E\nii. রেড়ী, তেঁতুলে\u003Cbr\u003E\niii. ছোলা, তেঁতুলে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780074,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780074,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780074,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780073,
+      "value": {
+        "options": {
+          "ক": "ধান",
+          "খ": "কুমড়া",
+          "গ": "শিম",
+          "ঘ": "তেঁতুল"
+        },
+        "question": "মৃদগত অঙ্কুরোদগম দেখা যায় কোনটিতে?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 780073,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-02T05:41:45.000000Z",
+            "updated_at": "2025-12-02T05:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780073,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780073,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780072,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ভূণ গঠিত হয়-\u003Cbr\u003E\ni. ভূণমূল দিয়ে\u003Cbr\u003E\nii. ভ্রূণকাণ্ড দিয়ে\u003Cbr\u003E\niii. বীজপত্র দিয়ে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780072,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780072,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780072,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780071,
+      "value": {
+        "options": {
+          "ক": "ধান",
+          "খ": "ছোলা",
+          "গ": "কুমড়া",
+          "ঘ": "সরিষা"
+        },
+        "question": "মৃদভেদী অঙ্কুরোদগম দেখা যায় কোনটির মধ্যে?",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3798,
+          "full_name": "রা. বো.'২০১৬",
+          "short_name": "রা. বো.'২০১৬",
+          "slug": "ra-bo2016",
+          "pivot": {
+            "question_bank_id": 780071,
+            "tag_id": 3798,
+            "year": null,
+            "created_at": "2025-12-02T05:41:45.000000Z",
+            "updated_at": "2025-12-02T05:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780071,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780071,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780070,
+      "value": {
+        "options": {
+          "ক": "ছোলা",
+          "খ": "কুমড়া",
+          "গ": "রেড়ী",
+          "ঘ": "তেঁতুল"
+        },
+        "question": "কোনটিতে মৃদগত অংকুরোদগম হয়?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5009,
+          "full_name": "য. বো.'২০১৮;চ. বো.'২০১৫",
+          "short_name": "য. বো.'২০১৮;চ. বো.'২০১৫",
+          "slug": "z-bo2018c-bo2015",
+          "pivot": {
+            "question_bank_id": 780070,
+            "tag_id": 5009,
+            "year": null,
+            "created_at": "2025-12-02T05:41:45.000000Z",
+            "updated_at": "2025-12-02T05:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780070,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780070,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780069,
+      "value": {
+        "options": {
+          "ক": "শ্বসন",
+          "খ": "প্রস্বেদন",
+          "গ": "অঙ্কুরোদগম",
+          "ঘ": "নিষিক্তকরণ"
+        },
+        "question": "বীজ থেকে শিশু উদ্ভিদ উৎপন্ন হওয়ার প্রক্রিয়াকে কী বলে?",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780069,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780069,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780068,
+      "value": {
+        "options": {
+          "ক": "টেস্টা",
+          "খ": "টেগমেন",
+          "গ": "ইপিকোটাইল",
+          "ঘ": "হাইপোকোটাইল"
+        },
+        "question": "বীজত্বকের বাইরের স্তর কোনটি?&nbsp;",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4312,
+          "full_name": "সেন্ট যোসেফ উচ্চ মাধ্যমিক বিদ্যালয়, ঢাকা",
+          "short_name": "সেন্ট যোসেফ উচ্চ মাধ্যমিক বিদ্যালয়, ঢাকা",
+          "slug": "sent-zosef-ucc-madhzmik-bidzaly-dhaka",
+          "pivot": {
+            "question_bank_id": 780068,
+            "tag_id": 4312,
+            "year": null,
+            "created_at": "2025-12-02T05:41:45.000000Z",
+            "updated_at": "2025-12-02T05:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780068,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780068,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780067,
+      "value": {
+        "options": {
+          "ক": "বীজফলক",
+          "খ": "ভ্রুণকান্ড",
+          "গ": "গর্ভাশয়",
+          "ঘ": "বীজপত্র"
+        },
+        "question": "প্রাথমিক অবস্থায় ভ্রূণ খাদ্য পায় কী থেকে?&nbsp;",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780067,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780067,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780066,
+      "value": {
+        "options": {
+          "ক": "ভ্রুণমূল",
+          "খ": "ভূণমুকুল",
+          "গ": "ভূণথলি",
+          "ঘ": "এপিকোটাইল"
+        },
+        "question": "মাইক্রোপাইল এর ভিতর দিয়ে কী বের হয়?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4051,
+          "full_name": "নওগাঁ জিলা স্কুল",
+          "short_name": "নওগাঁ জিলা স্কুল",
+          "slug": "noogann-jila-skul",
+          "pivot": {
+            "question_bank_id": 780066,
+            "tag_id": 4051,
+            "year": null,
+            "created_at": "2025-12-02T05:41:45.000000Z",
+            "updated_at": "2025-12-02T05:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780066,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780066,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780065,
+      "value": {
+        "options": [],
+        "question": "মৃদগত অঙ্কুরোদগম সম্পর্কে ধারণা দাও।",
+        "solution": "যখন ভূণকাণ্ড মাটি ভেদ করে উপরে উঠে আসে কিন্তু বীজপত্রটি মাটির ভিতরে থেকে যায়, তখন তাকে মৃদগত অঙ্কুরোদগম বলে। যেমন- ছোলা, ধান ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780064,
+      "value": {
+        "options": [],
+        "question": "অঙ্কুরোদগম কী? ব্যাখ্যা কর।",
+        "solution": "বীজ থেকে শিশু উদ্ভিদ উৎপন্ন হওয়ার প্রক্রিয়াই হলো অঙ্কুরোদগম। অঙ্কুরোদগম দুই ধরনের। যথা: ১. মৃদগত ও ২. মৃদভেদী। যখন ভূণকাণ্ড মাটি ভেদ করে উপরে উঠে আসে কিন্তু বীজপত্রটি মাটির ভিতরে থেকে যায়, তখন তাকে মৃদগত অঙ্কুরোদগম বলে। যেমন- ছোলা, ধান। আবার যখন বীজপত্রসহ ভূণমুকুল মাটি ভেদ করে উপরে উঠে আসে তখন তাকে মৃদভেদী অঙ্কুরোদগম বলে। যেমন- কুমড়া, তেঁতুল ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780062,
+      "value": {
+        "options": {
+          "ক": "ভ্রূণমূল",
+          "খ": "হাইপোকাটাইল",
+          "গ": "মাইক্রোপাইল",
+          "ঘ": "টেগমেন"
+        },
+        "question": "বীজের সূচালো অংশের নিকটস্থ ছিদ্রটি হলো-",
+        "solution": "ঘ. টেগমেন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4301,
+          "full_name": "বিদ্যাময়ী সরকারি বালিকা উচ্চ বিদ্যালয়, ময়মনসিংহ",
+          "short_name": "বিদ্যাময়ী সরকারি বালিকা উচ্চ বিদ্যালয়, ময়মনসিংহ",
+          "slug": "bidzamyee-srkari-balika-ucc-bidzaly-mymnsingh",
+          "pivot": {
+            "question_bank_id": 780062,
+            "tag_id": 4301,
+            "year": null,
+            "created_at": "2025-12-02T05:41:45.000000Z",
+            "updated_at": "2025-12-02T05:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780061,
+      "value": {
+        "options": {
+          "ক": "বর্ধিত অবস্থায়",
+          "খ": "মৃত অবস্থায়",
+          "গ": "সুপ্ত অবস্থায়",
+          "ঘ": "অঙ্কুরিত অবস্থায়"
+        },
+        "question": "বীজের মধ্যে ভূণ কী অবস্থায় থাকে?",
+        "solution": "গ. সুপ্ত অবস্থায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780061,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780060,
+      "value": {
+        "options": {
+          "ক": "তেঁতুল",
+          "খ": "কুমড়া",
+          "গ": "রেড়ী",
+          "ঘ": "ছোলা"
+        },
+        "question": "অঙ্কুরোদগমের সময় বীজের শুধু ভূণকান্ড উপরে উঠে আসে কোন বীজে?",
+        "solution": "ঘ. ছোলা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780060,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780059,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744430971707_1764654105_b3SXtlWr.webp\"\u003Eচিত্রের A অংশটি-\u003Cbr\u003E\ni. বীজপত্রাধিকান্ড&nbsp;\u003Cbr\u003E\nii. ভূণকাণ্ডের উপরের অংশ&nbsp;\u003Cbr\u003E\niii. তৃণমূলের নিচের অংশ&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780059,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 780059,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780059,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780059,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780058,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কোনটি ডিপ্লয়েড?&nbsp;\u003Cbr\u003E\ni. ডিম্বক&nbsp;\u003Cbr\u003E\nii. ভ্রূণ&nbsp;\u003Cbr\u003E\niii. বীজ&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4301,
+          "full_name": "বিদ্যাময়ী সরকারি বালিকা উচ্চ বিদ্যালয়, ময়মনসিংহ",
+          "short_name": "বিদ্যাময়ী সরকারি বালিকা উচ্চ বিদ্যালয়, ময়মনসিংহ",
+          "slug": "bidzamyee-srkari-balika-ucc-bidzaly-mymnsingh",
+          "pivot": {
+            "question_bank_id": 780058,
+            "tag_id": 4301,
+            "year": null,
+            "created_at": "2025-12-02T05:41:45.000000Z",
+            "updated_at": "2025-12-02T05:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780058,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780057,
+      "value": {
+        "options": {
+          "ক": "ডিম্বকনাভি",
+          "খ": "মাইক্রোপাইল",
+          "গ": "ভ্রুণকাণ্ড",
+          "ঘ": "ভ্রূণমূল"
+        },
+        "question": "ছোলা বীজের বহিঃত্বকের উপরের ছিদ্রকে কী বলে?",
+        "solution": "খ. মাইক্রোপাইল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780057,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780056,
+      "value": {
+        "options": {
+          "ক": "রেড়ী",
+          "খ": "ছোলা",
+          "গ": "ভুট্টা",
+          "ঘ": "গম"
+        },
+        "question": "অশস্যল বীজ কোনটি?",
+        "solution": "খ. ছোলা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780056,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780055,
+      "value": {
+        "options": {
+          "ক": "কুমড়া",
+          "খ": "ছোলা",
+          "গ": "মটর",
+          "ঘ": "ধান"
+        },
+        "question": "কোন উদ্ভিদে মৃদভেদী অঙ্কুরোদগম দেখা যায়?",
+        "solution": "ক. কুমড়া",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780055,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780054,
+      "value": {
+        "options": {
+          "ক": "কুমড়া",
+          "খ": "রেড়ী",
+          "গ": "ছোলা",
+          "ঘ": "তেঁতুল"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744430971707_1764654105_07rnx3JW.webp\"\u003Eচিত্রের অঙ্কুরোদম কোন বীজে দেখা যায়?",
+        "solution": "গ. ছোলা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780054,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 780054,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780054,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780051,
+      "value": {
+        "options": {
+          "ক": "মৃদভেদী",
+          "খ": "মৃদগত",
+          "গ": "জরায়ুজ",
+          "ঘ": "অঙ্গজ"
+        },
+        "question": "ছোলার বীজে কী ধরনের অঙ্কুরোদগম দেখা যায়?",
+        "solution": "খ. মৃদগত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780051,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780053,
+      "value": {
+        "options": {
+          "ক": "মটর",
+          "খ": "ছোলা",
+          "গ": "তেঁতুল",
+          "ঘ": "মরিচ"
+        },
+        "question": "অঙ্কুরোদগমের সময় বীজপত্র দুটি মাটির উপরে উঠে আসে কোন বীজে?",
+        "solution": "গ. তেঁতুল",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780053,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780052,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বীজের ভূণ গঠিত যে অংশগুলো নিয়ে সেগুলো-\u003Cbr\u003E\ni. ভ্রূণকাণ্ড&nbsp;\u003Cbr\u003E\nii. ভূণমূল&nbsp;\u003Cbr\u003E\niii. বীজপত্র&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7989,
+      "created_at": "2025-12-02T05:41:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780052,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780052,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7989&grade=2&lesson=14784&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7989&grade=2&lesson=14784&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7989&grade=2&lesson=14784&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

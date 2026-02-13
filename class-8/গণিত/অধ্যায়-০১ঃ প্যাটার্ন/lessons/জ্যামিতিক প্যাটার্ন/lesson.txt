@@ -1,0 +1,780 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 800714,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811d5bca7d9a2b793680506\"\u003Eনিচের জ্যামিতিক চিত্রগুলো একটি প্যাটার্ন তৈরি করেছে, প্যাটার্নটির ৪র্থ চিত্রটি তৈরি করে কাঠির সংখ্যা নির্ণয় কর।\u003Cbr\u003E\n\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999200204_1765889967_CSB0ciOJ.webp\"\u003E\u003C/div\u003E",
+        "solution": "এখানে, ৪র্থ চিত্রটি নিম্নরূপ:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999276103_1765889968_vWOLANIj.webp\" /\u003Eচিত্রটিতে কাঠি সংখ্যা = ২০ ।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800714,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 800715,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811d6b6a7d9a2b7936807bc\"\u003Eনিচের জ্যামিতিক প্যাটার্নটির কাঠির সংখ্যা কোন বীজগণিতীয় রাশিকে সমর্থন করে?\u003Cbr\u003E\n\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999331951_1765889968_oAY7hbGV.webp\"\u003E\u003C/div\u003E",
+        "solution": "এখানে জ্যামিতিক প্যাটার্নগুলোর,\u003Cbr /\u003E১ম চিত্রে কাঠির সংখ্যা = ৬টি\u003Cbr /\u003E২য় চিত্রে কাঠির সংখ্যা = ১১টি\u003Cbr /\u003E৩য় চিত্রে কাঠির সংখ্যা = ১৬টি\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999405708_1765889968_oHYRZ0su.webp\" /\u003E[math]\\therefore[/math]প্যাটার্নটির ১ম পদ = ৬ = ৫ &times; ১ + ১\u003Cbr /\u003E         ২য় পদ = ১১ = ৫ &times; ২ + ১\u003Cbr /\u003E         ৩য় পদ = ১৬ = ৫ &times; ৩ + ১\u003Cbr /\u003E         .................................................[math]\\therefore[/math]ক তম পদ = ৫&times; ক + ১ = ৫ক + ১[math]\\therefore[/math]প্যাটার্নটির কাঠির সংখ্যা (৫ক + ১) বীজগণিতীয় রাশিকে সমর্থন করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800715,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 800716,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811d8ada7d9a2b793680f7f\"\u003Eনিচের জ্যামিতিক প্যাটার্নের মোট রেখাংশের সংখ্যা কত?\u003Cbr\u003E\n\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999985652_1765889968_FfG9eu2W.webp\"\u003E\u003C/div\u003E",
+        "solution": "এখানে ,\u003Cbr /\u003E১ম চিত্রে রেখাংশের সংখ্যা = ১২\u003Cbr /\u003E২য় চিত্রে রেখাংশের সংখ্যা = ১৯\u003Cbr /\u003E৩য় চিত্রে রেখাংশের সংখ্যা = ২৬[math]\\therefore[/math]মোট রেখাংশের সংখ্যা = ১২ + ১৯ + ২৬ = ৫৭\u003Cbr /\u003Eনির্ণেয় রেখাংশের সংখ্যা ৫৭ ।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800716,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 800717,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811daa2a7d9a2b79368148e\"\u003E(৪ক + ১) বীজগণিতীয় রাশির ৩য় ও ৪র্থ চিত্র অঙ্কন কর।\u003C/div\u003E",
+        "solution": "প্রদত্ত বীজগণিতীয় রাশি = ৪ক + ১[math]\\therefore[/math]রাশিটির ৩য় পদ = ৪ &times; ৩ + ১ = ১২ + ১ = ১৩\u003Cbr /\u003Eরাশিটির ৪র্থ পদ = ৪ &times; ৪ + ১ = ১৬ + ১ = ১৭\u003Cbr /\u003E৪ক + ১ বীজগণিতীয় রাশির৩য় ও ৪র্থ পদের চিত্র সমানদৈর্ঘ্যের রেখাংশ দ্বারা অঙ্কন করা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746000531239_1765889968_akN6NqLB.webp\" /\u003E",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800718,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811d811a7d9a2b793680c4b\"\u003E(৫ক + ১) বীজগাণিতিক রাশির ৪র্থ পদের জ্যামিতিক চিত্র অঙ্কন কর।\u003C/div\u003E",
+        "solution": "প্রদত্ত বীজগাণিতিক রাশি = ৫ক + ১\u003Cbr /\u003Eক = ৪ বসিয়ে পাই, ৪র্থ পদ = ৫ &times; ৪ + ১ = ২০ + ১ = ২১[math]\\therefore[/math]৪র্থ প্যাটার্নটি হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999877425_1765889968_9Mg69gz6.webp\" /\u003E",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800719,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811da07a7d9a2b79368128f\"\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746000162227_1765889968_r1C9Pmrq.webp\"\u003Eঅসম্পূর্ণ প্যাটার্নটি পূরণ কর।\u003C/div\u003E",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746000266050_1765889968_xHsTsTvS.webp\" /\u003Eলক্ষ করি, পার্থক্য ৩ করে বাড়ছে।[math]\\therefore[/math]প্যাটার্নটির পরবর্তী দুইটি সংখ্যা হবে\u003Cbr /\u003E৭৫ + (১৯ + ৩) = ৭৫ + ২২ = ৯৭\u003Cbr /\u003E৯৭ + (২২ + ৩) = ৯৭ + ২৫= ১২২\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746000374991_1765889968_wF0zyBaM.webp\" /\u003E",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800719,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 800712,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811d791a7d9a2b793680a64\"\u003E(৫ক + ২) বীজগাণিতিক রাশিটির প্রথম তিনটি পদের জ্যামিতিক প্যাটার্ন অঙ্কন কর।\u003C/div\u003E",
+        "solution": "প্রদত্ত বীজগাণিতিক রাশি =৫ক + ২\u003Cbr /\u003Eক = ১ বসিয়ে পাই, ১ম পদ = ৫ &times; ১ + ২ = ৭\u003Cbr /\u003Eক = ২ বসিয়ে পাই, ২য় পদ = ৫ &times; ২ + ২ = ১২\u003Cbr /\u003Eক = ৩ বসিয়ে পাই, ৩য় পদ =৫ &times; ৩ + ২ = ১৭[math]\\therefore[/math]১ম, ২য় ও ৩য় পদের জ্যামিতিক প্যাটার্ন অংঙ্কন করা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999745744_1765889967_I5ZUzgN5.webp\" /\u003E",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800713,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6811d4f4a7d9a2b79368024e\"\u003Eনিচের জ্যামিতিক প্যাটার্নের পঞ্চম চিত্রের কাঠির সংখ্যা নির্ণয় কর।\u003Cbr\u003E\n\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745998922576_1765889967_HPl9vLad.webp\"\u003E\u003C/div\u003E",
+        "solution": "১ম চিত্রে কাঠির সংখ্যা = ৫টি\u003Cbr /\u003E২য় চিত্রে কাঠির সংখ্যা = ৯টি\u003Cbr /\u003E৩য় চিত্রে কাঠির সংখ্যা = ১৩টি\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745999048785_1765889967_x0dRU3C0.webp\" /\u003E[math]\\therefore[/math]পঞ্চম চিত্রে কাঠির সংখ্যা হবে = ১৩ + (৪ + ৪)টি = ২১টি\u003Cbr /\u003Eসুতরাং জ্যামিতিক প্যাটার্নের পঞ্চম চিত্রের কাঠির সংখ্যা ২১টি।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800713,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 800707,
+      "value": {
+        "options": {
+          "ক": "১৫",
+          "খ": "১৯",
+          "গ": "২৩",
+          "ঘ": "৪৩"
+        },
+        "question": "\u003Cdiv\u003Eকোনো প্যাটার্নের বীজগণিতীয় রাশি (৪ক + ৩) হলে এর ১০ম পদ কোনটি?\u003C/div\u003E",
+        "solution": "ক = ১০ হলে, ৪ক + ৩ = ৪ &times; ১০ + ৩ = ৪৩",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 800708,
+      "value": {
+        "options": {
+          "ক": "৯",
+          "খ": "১০",
+          "গ": "১১",
+          "ঘ": "১৩"
+        },
+        "question": "\u003Cdiv\u003Eকোনো প্যাটার্নের বীজগণিতীয় রাশি (২ক + ১) হলে প্যাটার্নটির ষষ্ঠ পদ কত?\u003C/div\u003E",
+        "solution": "ক= ৬ হলে, ২ক + ১ = ২ &times; ৬ + ১ = ১৩ ।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 800708,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 800709,
+      "value": {
+        "options": {
+          "ক": "৪",
+          "খ": "৫",
+          "গ": "৬",
+          "ঘ": "৭"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1741519911168_1765889946_81qu4xkM.webp\"\u003Eচিত্রের নিচের সংখ্যাগুলো প্রয়োজনীয় রেখাংশ নির্দেশ করে।\u003Cbr\u003E\n৩য় চিত্রের রেখাংশের সংখ্যার সাথে কত যোগ করলে পরবর্তী চিত্রের রেখাংশ পাওয়া যাবে?\u003C/div\u003E",
+        "solution": "খ. ৫",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 800709,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800709,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 800709,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 800710,
+      "value": {
+        "options": {
+          "ক": "১৯",
+          "খ": "২০",
+          "গ": "২১",
+          "ঘ": "২৪"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1741519470067_1765889946_aRWG1HrL.webp\"\u003Eচতুর্থ প্যাটার্নের রেখাংশের সংখ্যা কত?\u003C/div\u003E",
+        "solution": "প্রদত্ত প্যাটার্নের রেখাংশ নির্ণয়ের সূত্র ৫ক + ১\u003Cbr /\u003Eনির্ণেয় চতুর্থ প্যাটার্নে রেখাংশের সংখ্যা বা, (৫ &times; ৪ + ১) বা ২১",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 800710,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800710,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 800711,
+      "value": {
+        "options": {
+          "ক": "৩ক + ১",
+          "খ": "৩ক + ২",
+          "গ": "৫ক + ১",
+          "ঘ": "৫ক + ২"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1741519911168_1765889946_xpVa7Epi.webp\"\u003Eচিত্রের নিচের সংখ্যাগুলো প্রয়োজনীয় রেখাংশ নির্দেশ করে।\u003Cbr\u003E\nচিত্রের রেখাংশের সাংখ্যিক প্যাটার্নের বীজগণিতীয় রাশি কোনটি?\u003C/div\u003E",
+        "solution": "ঘ. ৫ক + ২",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 800711,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800711,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 800711,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 800704,
+      "value": {
+        "options": {
+          "ক": "৫৩",
+          "খ": "১০৩",
+          "গ": "২০৩",
+          "ঘ": "৩০৩"
+        },
+        "question": "\u003Cdiv\u003Eকোনো প্যাটার্নের ১০০ তম পদ ৪০৩ হলে ৫০তম পদ কোনটি?\u003C/div\u003E",
+        "solution": "গ. ২০৩",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 800704,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 800705,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eনিচের তথ্যগুলো লক্ষ কর:\u003Cbr\u003E\ni. (ক\u003Csup\u003E২\u003C/sup\u003E - ১) রাশির ক্ষেত্রে ১ম পদ ৩\u003Cbr\u003E\nii. (২ক + ১) রাশির ক্ষেত্রে ৫ম পদ ১১\u003Cbr\u003E\niii. (ক\u003Csup\u003E২\u003C/sup\u003E + ১) রাশির পদ সংখ্যাগুলো ২, ৫, ১০,....\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 800705,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 800705,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 800706,
+      "value": {
+        "options": {
+          "ক": "২৫",
+          "খ": "২৭",
+          "গ": "৩০",
+          "ঘ": "৩৩"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1741519911168_1765889945_7O7TPmdN.webp\"\u003Eচিত্রের নিচের সংখ্যাগুলো প্রয়োজনীয় রেখাংশ নির্দেশ করে।\u003Cbr\u003E\n৫ম চিত্রে রেখাংশ সংখ্যা কয়টি হবে?\u003C/div\u003E",
+        "solution": "প্রদত্ত প্যাটার্নের বীজগণিতীয় রাশি ৫ক + ২\u003Cbr /\u003Eক = ৫ হলে, ৫ক + ২ = ৫ &times; ৫ + ২ = ২৭",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7893,
+      "created_at": "2025-12-16T12:59:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 800706,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 800706,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 800706,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7893&grade=2&lesson=15552&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7893&grade=2&lesson=15552&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7893&grade=2&lesson=15552&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

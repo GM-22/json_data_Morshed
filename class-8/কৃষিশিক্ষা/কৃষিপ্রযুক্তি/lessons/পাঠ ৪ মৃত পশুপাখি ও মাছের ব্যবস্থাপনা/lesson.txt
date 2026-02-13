@@ -1,0 +1,476 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 769355,
+      "value": {
+        "options": {
+          "ক": "চুন",
+          "খ": "ডিডিটি",
+          "গ": "ব্লিচিং পাউডার",
+          "ঘ": "ছাই"
+        },
+        "question": "রোগাক্রান্ত মৃত মাছ গর্তে নিক্ষেপ করে কী ছিটিয়ে দিতে হবে?",
+        "solution": "গ. ব্লিচিং পাউডার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769355,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769356,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মৃত পশুর সৎকারের জন্য ব্যবহৃত গর্তটি-\u003Cbr\u003E\ni. খামার ও বসতবাড়ি থেকে দূরে হতে হবে\u003Cbr\u003E\nii. উঁচু স্থানে হতে হবে\u003Cbr\u003E\niii. ৪ ফুট গভীর হতে হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769356,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769356,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769357,
+      "value": {
+        "options": {
+          "ক": "বাতাস",
+          "খ": "পানি",
+          "গ": "মাটি",
+          "ঘ": "স্পর্শ"
+        },
+        "question": "মৃত পশুর রোগজীবাণু পরিবেশে ছড়িয়ে পড়ার মাধ্যম কোনটি?",
+        "solution": "ক. বাতাস",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769357,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769358,
+      "value": {
+        "options": {
+          "ক": "চুন",
+          "খ": "ডিডিটি",
+          "গ": "ভিনেগার",
+          "ঘ": "ব্লিচিং পাউডার"
+        },
+        "question": "মৃত পাখিকে গর্তে মাটি চাপা দিয়ে মাটির উপরে কী ছিটিয়ে দিতে হবে?",
+        "solution": "খ. ডিডিটি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769358,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769359,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মৃত মাছ মাটি চাপা দেওয়ার জন্য ব্যবহৃত গর্তটি-\u003Cbr\u003E\ni. পুকুর থেকে অনেক দূরে হতে হবে যেন সেখান থেকে বৃষ্টির পানি গড়িয়ে পুকুরে প্রবেশ না করে\u003Cbr\u003E\nii. ৩ ফুট গভীর হতে হবে\u003Cbr\u003E\niii. মাছের সংখ্যানুযায়ী প্রশস্ত হতে হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769359,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769359,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769360,
+      "value": {
+        "options": {
+          "ক": "ফরমালিন",
+          "খ": "চুন",
+          "গ": "ডিডিটি",
+          "ঘ": "ব্লিচিং পাউডার"
+        },
+        "question": "মৃত পাখির সৎকারে কোনটি ব্যবহৃত হয়?",
+        "solution": "গ. ডিডিটি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769360,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769361,
+      "value": {
+        "options": {
+          "ক": "পানিতে ভাসিয়ে দিতে হবে",
+          "খ": "পুড়িয়ে ফেলতে হবে",
+          "গ": "মাটি চাপা দিতে হবে",
+          "ঘ": "যেমন আছে তেমন রেখে দিতে হবে"
+        },
+        "question": "রোগাক্রান্ত পশুর মৃত্যুর পর কী করতে হবে?",
+        "solution": "গ. মাটি চাপা দিতে হবে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769361,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769362,
+      "value": {
+        "options": {
+          "ক": "১ ফুট",
+          "খ": "২ ফুট",
+          "গ": "৩ ফুট",
+          "ঘ": "৪ ফুট"
+        },
+        "question": "মৃত পশুকে কত ফুট গভীর গর্তে মাটি চাপা দিতে হবে?",
+        "solution": "ঘ. ৪ ফুট",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769362,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769363,
+      "value": {
+        "options": {
+          "ক": "ফরম্যালডিহাইড",
+          "খ": "হাইড্রোক্লোরিক এসিড",
+          "গ": "ভিনেগার",
+          "ঘ": "চুন"
+        },
+        "question": "মৃত পশুকে মাটি চাপা দেওয়ার পর গর্তের উপরের স্তরে কী দিতে হবে?",
+        "solution": "ঘ. চুন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769363,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14396&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14396&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14396&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 9,
+  "total": 9
+}

@@ -1,0 +1,968 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 804007,
+      "value": {
+        "options": [],
+        "question": "Mr Pronay Larma, the physical teacher of Rooppur High School is talking about health to his students.\u003Cbr\u003E\n\"What things are necessary for good health?\" he asks the students.\u003Cbr\u003E\n\"We need a lot of things, teacher,\" says Rushad. \"We need healthy food, proper rest and sleep. We also have to be clean and tidy.\"\u003Cbr\u003E\n\"Good!\" says Mr Larma. \"These are the things you need for good health. But another thing that you also need is regular physical exercise.\"\u003Cbr\u003E\n\"What types of physical exercise can we do, teacher?\" asks Rayeed.\u003Cbr\u003E\n\"Well,\" says Mr Larma. \"There are different kinds of physical exercise. You can do them indoors as well as outdoors. In the house you can do some freehand exercises. That is, you can stretch different parts of your body. Outside, you can play, swim or simply walk.\"\u003Cbr\u003E\n\"Why do we need physical exercise, teacher?\" asks Ranjan.\u003Cbr\u003E\n\"Well\", says Mr Larma, \"The benefits of physical exercise are many. The greatest of them is that it keeps you fit for work. It also gives you energy, and makes you strong and cheerful. It teaches you regularity and discipline as well.\"",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eরূপপুর উচ্চবিদ্যালয়ের শারীরিক শিক্ষার শিক্ষক মি. প্রণয় লারমা তার ছাত্রদের সাথে স্বাস্থ্য সম্পর্কে কথা বলছেন।\u003Cbr /\u003Eতিনি ছাত্রদেরকে জিজ্ঞেস করলেন, &quot;সুস্বাস্থ্যের জন্য কোন জিনিসগুলো দরকার?&quot;\u003Cbr /\u003Eরূশাদ বলল, &quot;আমাদের অনেক কিছু দরকার, স্যার। আমাদের প্রয়োজন স্বাস্থ্যকর খাবার, পর্যাপ্ত বিশ্রাম ও ঘুম। আমাদেরকে পরিষ্কার ও পরিচ্ছন্ন থাকতে হবে।&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল। সুস্বাস্থ্যের জন্য এই জিনিসগুলো তোমাদের প্রয়োজন। তবে আরো একটি জিনিস যা তোমাদের প্রয়োজন তা হল নিয়মিত শরীর চর্চা।&quot;\u003Cbr /\u003Eরায়েদ জিজ্ঞেস করল, &quot;আমরা কী ধরনের শরীর চর্চা করতে পারি, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল কথা, বিভিন্ন রকমের শরীর চর্চা রয়েছে। তোমরা সেগুলো বাড়ির ভেতরে এবং বাইরে করতে পার। বাড়িতে, তুমি কিছু খালি হাতের ব্যায়াম করতে পার। তা হল, তুমি তোমার শরীরের বিভিন্ন অংশকে প্রসারিত করতে পার। বাইরে, তুমি খেলতে পার, সাঁতার কাটতে পার বা সাধারণভাবে হাঁটতে পার।&quot;\u003Cbr /\u003Eরঞ্জন জিজ্ঞেস করল, &quot;আমাদের কেন শরীর চর্চা প্রয়োজন, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;বেশ, শরীরচর্চার উপকারিতা অনেক। তাদের মধ্যে বড় যেটা, তা হল এটি তোমাদেরকে কাজে উপযোগী করে। এছাড়া এটি তোমাদেরকে শক্তি যোগায়, শক্তিশালী ও প্রফুল্ল করে তোলে। এটি তোমাদেরকে নিয়মানুবর্তিতা ও শৃঙ্খলাও শেখায়।&quot;\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13396,
+      "created_at": "2025-12-22T05:01:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 804008,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "do well in the examination",
+              "b": "behave with people",
+              "c": "take physical exercise",
+              "d": "learn English"
+            },
+            "question": "Mr Pronay Larma teaches his students how to-",
+            "solution": "c. take physical exercise"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804009,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "B and C",
+              "b": "A and B",
+              "c": "A and C",
+              "d": "A, B and C"
+            },
+            "question": "Look at the following information.\u003Cbr\u003E\nA. To enjoy a good health, we need to focus on a lot of things.\u003Cbr\u003E\nB. Though walking is good for health, we cannot call it physical exercise.\u003Cbr\u003E\nC. Physical fitness is essential for doing work.\u003Cbr\u003E\nWhich of the above information is/are correct?",
+            "solution": "c. A and C"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804010,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "physical exercise makes us strong",
+              "b": "we should exercise regularly",
+              "c": "physical exercise keeps us unfit for work",
+              "d": "None"
+            },
+            "question": "Which one is incorrect?",
+            "solution": "c. physical exercise keeps us unfit for work"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804011,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "studious",
+              "b": "pupil",
+              "c": "monitor",
+              "d": "relative"
+            },
+            "question": "'student' refers to-",
+            "solution": "b. pupil"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804012,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "&#39;Good&#39; and bad are both adjectives",
+              "b": "&#39;Good&#39; and bad have no meaning",
+              "c": "&#39;Good&#39; and bad are synonymous",
+              "d": "None of them"
+            },
+            "question": "Which one is correct?",
+            "solution": "a. &#39;Good&#39; and bad are both adjectives"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804013,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "physical exercise, healthy food",
+              "b": "proper rest and sleep",
+              "c": "to be clean and tidy",
+              "d": "all"
+            },
+            "question": "What are necessary to preserve good health?",
+            "solution": "d. all"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804014,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "bad",
+              "b": "good",
+              "c": "necessary",
+              "d": "unnecessary"
+            },
+            "question": "Physical exercise is not _____ for good health.",
+            "solution": "d. unnecessary"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804015,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "valueless",
+              "b": "expensive",
+              "c": "urgent",
+              "d": "desired"
+            },
+            "question": "What does the word 'necessary' mean?",
+            "solution": "c. urgent"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804016,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "B and C",
+              "b": "A and B",
+              "c": "A and C",
+              "d": "all"
+            },
+            "question": "Physical exercise ensures-\u003Cbr\u003E\nA. physical fitness\u003Cbr\u003E\nB. energy supply\u003Cbr\u003E\nC. mental health\u003Cbr\u003E\nWhich of the above answer is/are correct?",
+            "solution": "d. all"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804017,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "football",
+              "b": "cricket",
+              "c": "hockey",
+              "d": "table tennis"
+            },
+            "question": "Which one is a indoor physical exercise?",
+            "solution": "d. table tennis"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804018,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "strength",
+              "b": "smartness",
+              "c": "cleanliness",
+              "d": "dress"
+            },
+            "question": "What is needed to work?",
+            "solution": "a. strength"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804019,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "accurate",
+              "b": "local",
+              "c": "global",
+              "d": "rare"
+            },
+            "question": "The word 'proper' means-",
+            "solution": "a. accurate"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804020,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "B",
+              "b": "A and B",
+              "c": "B and C",
+              "d": "A, B and C"
+            },
+            "question": "Look at the following information.\u003Cbr\u003E\nA. Only physical exercise is necessary for good health.\u003Cbr\u003E\nB. We can do indoor and outdoor exercises.\u003Cbr\u003E\nC. Physical exercise not only provides energy but also teaches regularity.\u003Cbr\u003E\nWhich of the above information is/are correct?",
+            "solution": "c. B and C"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804021,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "irregular",
+              "b": "inregular",
+              "c": "irregularity",
+              "d": "unregular"
+            },
+            "question": "People need regular exercise. \"Regular\" is the opposite of-",
+            "solution": "a. irregular"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804022,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": {
+              "a": "more",
+              "b": "greatest",
+              "c": "great",
+              "d": "most"
+            },
+            "question": "The _____ benefit of physical exercise is that it keeps us&nbsp;fit for work.",
+            "solution": "b. greatest"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804023,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": [],
+            "question": "What things are necessary for good health?",
+            "solution": "A lot of things are necessary for good health. For example, healthy food, proper rest and sleep, cleanliness and tidiness, and above all physical exercise."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804024,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": [],
+            "question": "How should we exercise?",
+            "solution": "We should exercise regularly and properly."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804025,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": [],
+            "question": "What is free hand exercise?",
+            "solution": "Free hand exercise means doing exercise without any instruments."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804026,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": [],
+            "question": "What things are necessary for good health?",
+            "solution": "Healthy food, proper rest, sleep, physical exercise and cleanliness are necessary for good health."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804027,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": [],
+            "question": "Who knows about the things needed for good health?",
+            "solution": "Rushad knows about the things needed for good health."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804028,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": [],
+            "question": "Why do we need physical exercise?",
+            "solution": "We need physical exercise for various reasons. For example, to keep ourselves fit for work, to get energy, to be strong and cheerful, to learn regularity and discipline etc."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804029,
+          "linked_parent_id": 804007,
+          "value": {
+            "options": [],
+            "question": "What are the greatest benefit of physical exercise?",
+            "solution": "The greatest benefit of physical exercise is that it keeps us fit for work."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 804030,
+      "value": {
+        "options": [],
+        "question": "Mr Pronay Larma, the physical teacher of Rooppur High School is talking about health to his students.\u003Cbr\u003E\n\"What things are necessary for good health?\" he asks the students.\u003Cbr\u003E\n\"We need a lot of things, teacher,\" says Rushad. \"We need healthy food, proper rest and sleep. We also have to be clean and tidy.\"\u003Cbr\u003E\n\"Good!\" says Mr Larma. \"These are the things you need for good health. But another thing that you also need is regular physical exercise.\"\u003Cbr\u003E\n\"What types of physical exercise can we do, teacher?\" asks Rayeed.\u003Cbr\u003E\n\"Well,\" says Mr Larma. \"There are different kinds of physical exercise. You can do them indoors as well as outdoors. In the house you can do some freehand exercises. That is, you can stretch different parts of your body. Outside, you can play, swim or simply walk.\"\u003Cbr\u003E\n\"Why do we need physical exercise, teacher?\" asks Ranjan.\u003Cbr\u003E\n\"Well\", says Mr Larma, \"The benefits of physical exercise are many. The greatest of them is that it keeps you fit for work. It also gives you energy, and makes you strong and cheerful. It teaches you regularity and discipline as well.\"",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eরূপপুর উচ্চবিদ্যালয়ের শারীরিক শিক্ষার শিক্ষক মি. প্রণয় লারমা তার ছাত্রদের সাথে স্বাস্থ্য সম্পর্কে কথা বলছেন।\u003Cbr /\u003Eতিনি ছাত্রদেরকে জিজ্ঞেস করলেন, &quot;সুস্বাস্থ্যের জন্য কোন জিনিসগুলো দরকার?&quot;\u003Cbr /\u003Eরূশাদ বলল, &quot;আমাদের অনেক কিছু দরকার, স্যার। আমাদের প্রয়োজন স্বাস্থ্যকর খাবার, পর্যাপ্ত বিশ্রাম ও ঘুম। আমাদেরকে পরিষ্কার ও পরিচ্ছন্ন থাকতে হবে।&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল। সুস্বাস্থ্যের জন্য এই জিনিসগুলো তোমাদের প্রয়োজন। তবে আরো একটি জিনিস যা তোমাদের প্রয়োজন তা হল নিয়মিত শরীর চর্চা।&quot;\u003Cbr /\u003Eরায়েদ জিজ্ঞেস করল, &quot;আমরা কী ধরনের শরীর চর্চা করতে পারি, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল কথা, বিভিন্ন রকমের শরীর চর্চা রয়েছে। তোমরা সেগুলো বাড়ির ভেতরে এবং বাইরে করতে পার। বাড়িতে, তুমি কিছু খালি হাতের ব্যায়াম করতে পার। তা হল, তুমি তোমার শরীরের বিভিন্ন অংশকে প্রসারিত করতে পার। বাইরে, তুমি খেলতে পার, সাঁতার কাটতে পার বা সাধারণভাবে হাঁটতে পার।&quot;\u003Cbr /\u003Eরঞ্জন জিজ্ঞেস করল, &quot;আমাদের কেন শরীর চর্চা প্রয়োজন, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;বেশ, শরীরচর্চার উপকারিতা অনেক। তাদের মধ্যে বড় যেটা, তা হল এটি তোমাদেরকে কাজে উপযোগী করে। এছাড়া এটি তোমাদেরকে শক্তি যোগায়, শক্তিশালী ও প্রফুল্ল করে তোলে। এটি তোমাদেরকে নিয়মানুবর্তিতা ও শৃঙ্খলাও শেখায়।&quot;\u003C/div\u003E"
+      },
+      "question_type_id": 15,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13396,
+      "created_at": "2025-12-22T05:01:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 804031,
+          "linked_parent_id": 804030,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003EThere are different things that are (a) _____ for good health. Physical (b) _____ is one of them. It is very important. It keeps our body (c) _____ for work. It also gives us (d) _____, and makes us strong and cheerful. So we all should (e)&nbsp;_____ physical exercise.\u003C/div\u003E",
+            "solution": "\u003Cdiv style=\"text-align: justify;\"\u003E(a) necessary (b) exercise (c) fit (d) energy (e) take\u003C/div\u003E"
+          },
+          "question_type_id": 16,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 16,
+            "name": "Gap Filling"
+          },
+          "flags": []
+        },
+        {
+          "id": 804032,
+          "linked_parent_id": 804030,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Estretch (synonym)\u003C/div\u003E",
+            "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eextend\u003C/div\u003E"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804033,
+          "linked_parent_id": 804030,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Ebenefit (antonym)\u003C/div\u003E",
+            "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Edisadvantage\u003C/div\u003E"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804034,
+          "linked_parent_id": 804030,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Enecessary (synonym)\u003C/div\u003E",
+            "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eessential\u003C/div\u003E"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804035,
+          "linked_parent_id": 804030,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Etidy (antonym)\u003C/div\u003E",
+            "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Euntidy\u003C/div\u003E"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804036,
+          "linked_parent_id": 804030,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Eoutdoor (synonym)\u003C/div\u003E",
+            "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eoutside\u003C/div\u003E"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:50.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 15,
+        "name": "Seen Passage 2",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803890,
+      "value": {
+        "options": [],
+        "question": "Mr Pronay Larma, the physical teacher of Rooppur High School is talking about health to his students.\u003Cbr\u003E\n\"What things are necessary for good health?\" he asks the students.\u003Cbr\u003E\n\"We need a lot of things, teacher,\" says Rushad. \"We need healthy food, proper rest and sleep. We also have to be clean and tidy.\"\u003Cbr\u003E\n\"Good!\" says Mr Larma. \"These are the things you need for good health. But another thing that you also need is regular physical exercise.\"\u003Cbr\u003E\n\"What types of physical exercise can we do, teacher?\" asks Rayeed.\u003Cbr\u003E\n\"Well,\" says Mr Larma. \"There are different kinds of physical exercise. You can do them indoors as well as outdoors. In the house you can do some freehand exercises. That is, you can stretch different parts of your body. Outside, you can play, swim or simply walk.\"\u003Cbr\u003E\n\"Why do we need physical exercise, teacher?\" asks Ranjan.\u003Cbr\u003E\n\"Well\", says Mr Larma, \"The benefits of physical exercise are many. The greatest of them is that it keeps you fit for work. It also gives you energy, and makes you strong and cheerful. It teaches you regularity and discipline as well.\"",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eরূপপুর উচ্চবিদ্যালয়ের শারীরিক শিক্ষার শিক্ষক মি. প্রণয় লারমা তার ছাত্রদের সাথে স্বাস্থ্য সম্পর্কে কথা বলছেন।\u003Cbr /\u003Eতিনি ছাত্রদেরকে জিজ্ঞেস করলেন, &quot;সুস্বাস্থ্যের জন্য কোন জিনিসগুলো দরকার?&quot;\u003Cbr /\u003Eরূশাদ বলল, &quot;আমাদের অনেক কিছু দরকার, স্যার। আমাদের প্রয়োজন স্বাস্থ্যকর খাবার, পর্যাপ্ত বিশ্রাম ও ঘুম। আমাদেরকে পরিষ্কার ও পরিচ্ছন্ন থাকতে হবে।&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল। সুস্বাস্থ্যের জন্য এই জিনিসগুলো তোমাদের প্রয়োজন। তবে আরো একটি জিনিস যা তোমাদের প্রয়োজন তা হল নিয়মিত শরীর চর্চা।&quot;\u003Cbr /\u003Eরায়েদ জিজ্ঞেস করল, &quot;আমরা কী ধরনের শরীর চর্চা করতে পারি, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল কথা, বিভিন্ন রকমের শরীর চর্চা রয়েছে। তোমরা সেগুলো বাড়ির ভেতরে এবং বাইরে করতে পার। বাড়িতে, তুমি কিছু খালি হাতের ব্যায়াম করতে পার। তা হল, তুমি তোমার শরীরের বিভিন্ন অংশকে প্রসারিত করতে পার। বাইরে, তুমি খেলতে পার, সাঁতার কাটতে পার বা সাধারণভাবে হাঁটতে পার।&quot;\u003Cbr /\u003Eরঞ্জন জিজ্ঞেস করল, &quot;আমাদের কেন শরীর চর্চা প্রয়োজন, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;বেশ, শরীরচর্চার উপকারিতা অনেক। তাদের মধ্যে বড় যেটা, তা হল এটি তোমাদেরকে কাজে উপযোগী করে। এছাড়া এটি তোমাদেরকে শক্তি যোগায়, শক্তিশালী ও প্রফুল্ল করে তোলে। এটি তোমাদেরকে নিয়মানুবর্তিতা ও শৃঙ্খলাও শেখায়।&quot;\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13396,
+      "created_at": "2025-12-22T05:01:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803894,
+          "linked_parent_id": 803890,
+          "value": {
+            "options": {
+              "a": "do well in the examination",
+              "b": "behave with people",
+              "c": "take physical exercise",
+              "d": "learn English"
+            },
+            "question": "Mr Pronay Larma teaches his students how to-",
+            "solution": "c. take physical exercise"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:01:33.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803445,
+      "value": {
+        "options": [],
+        "question": "Mr Pronay Larma, the physical teacher of Rooppur High School is talking about health to his students.\u003Cbr\u003E\n\"What things are necessary for good health?\" he asks the students.\u003Cbr\u003E\n\"We need a lot of things, teacher,\" says Rushad. \"We need healthy food, proper rest and sleep. We also have to be clean and tidy.\"\u003Cbr\u003E\n\"Good!\" says Mr Larma. \"These are the things you need for good health. But another thing that you also need is regular physical exercise.\"\u003Cbr\u003E\n\"What types of physical exercise can we do, teacher?\" asks Rayeed.\u003Cbr\u003E\n\"Well,\" says Mr Larma. \"There are different kinds of physical exercise. You can do them indoors as well as outdoors. In the house you can do some freehand exercises. That is, you can stretch different parts of your body. Outside, you can play, swim or simply walk.\"\u003Cbr\u003E\n\"Why do we need physical exercise, teacher?\" asks Ranjan.\u003Cbr\u003E\n\"Well\", says Mr Larma, \"The benefits of physical exercise are many. The greatest of them is that it keeps you fit for work. It also gives you energy, and makes you strong and cheerful. It teaches you regularity and discipline as well.\"",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eরূপপুর উচ্চবিদ্যালয়ের শারীরিক শিক্ষার শিক্ষক মি. প্রণয় লারমা তার ছাত্রদের সাথে স্বাস্থ্য সম্পর্কে কথা বলছেন।\u003Cbr /\u003Eতিনি ছাত্রদেরকে জিজ্ঞেস করলেন, &quot;সুস্বাস্থ্যের জন্য কোন জিনিসগুলো দরকার?&quot;\u003Cbr /\u003Eরূশাদ বলল, &quot;আমাদের অনেক কিছু দরকার, স্যার। আমাদের প্রয়োজন স্বাস্থ্যকর খাবার, পর্যাপ্ত বিশ্রাম ও ঘুম। আমাদেরকে পরিষ্কার ও পরিচ্ছন্ন থাকতে হবে।&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল। সুস্বাস্থ্যের জন্য এই জিনিসগুলো তোমাদের প্রয়োজন। তবে আরো একটি জিনিস যা তোমাদের প্রয়োজন তা হল নিয়মিত শরীর চর্চা।&quot;\u003Cbr /\u003Eরায়েদ জিজ্ঞেস করল, &quot;আমরা কী ধরনের শরীর চর্চা করতে পারি, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল কথা, বিভিন্ন রকমের শরীর চর্চা রয়েছে। তোমরা সেগুলো বাড়ির ভেতরে এবং বাইরে করতে পার। বাড়িতে, তুমি কিছু খালি হাতের ব্যায়াম করতে পার। তা হল, তুমি তোমার শরীরের বিভিন্ন অংশকে প্রসারিত করতে পার। বাইরে, তুমি খেলতে পার, সাঁতার কাটতে পার বা সাধারণভাবে হাঁটতে পার।&quot;\u003Cbr /\u003Eরঞ্জন জিজ্ঞেস করল, &quot;আমাদের কেন শরীর চর্চা প্রয়োজন, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;বেশ, শরীরচর্চার উপকারিতা অনেক। তাদের মধ্যে বড় যেটা, তা হল এটি তোমাদেরকে কাজে উপযোগী করে। এছাড়া এটি তোমাদেরকে শক্তি যোগায়, শক্তিশালী ও প্রফুল্ল করে তোলে। এটি তোমাদেরকে নিয়মানুবর্তিতা ও শৃঙ্খলাও শেখায়।&quot;\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13396,
+      "created_at": "2025-12-22T05:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803447,
+          "linked_parent_id": 803445,
+          "value": {
+            "options": {
+              "a": "do well in the examination",
+              "b": "behave with people",
+              "c": "take physical exercise",
+              "d": "learn English"
+            },
+            "question": "Mr Pronay Larma teaches his students how to-",
+            "solution": "c. take physical exercise"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:00:45.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803406,
+      "value": {
+        "options": [],
+        "question": "Mr Pronay Larma, the physical teacher of Rooppur High School is talking about health to his students.\u003Cbr\u003E\n\"What things are necessary for good health?\" he asks the students.\u003Cbr\u003E\n\"We need a lot of things, teacher,\" says Rushad. \"We need healthy food, proper rest and sleep. We also have to be clean and tidy.\"\u003Cbr\u003E\n\"Good!\" says Mr Larma. \"These are the things you need for good health. But another thing that you also need is regular physical exercise.\"\u003Cbr\u003E\n\"What types of physical exercise can we do, teacher?\" asks Rayeed.\u003Cbr\u003E\n\"Well,\" says Mr Larma. \"There are different kinds of physical exercise. You can do them indoors as well as outdoors. In the house you can do some freehand exercises. That is, you can stretch different parts of your body. Outside, you can play, swim or simply walk.\"\u003Cbr\u003E\n\"Why do we need physical exercise, teacher?\" asks Ranjan.\u003Cbr\u003E\n\"Well\", says Mr Larma, \"The benefits of physical exercise are many. The greatest of them is that it keeps you fit for work. It also gives you energy, and makes you strong and cheerful. It teaches you regularity and discipline as well.\"",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eরূপপুর উচ্চবিদ্যালয়ের শারীরিক শিক্ষার শিক্ষক মি. প্রণয় লারমা তার ছাত্রদের সাথে স্বাস্থ্য সম্পর্কে কথা বলছেন।\u003Cbr /\u003Eতিনি ছাত্রদেরকে জিজ্ঞেস করলেন, &quot;সুস্বাস্থ্যের জন্য কোন জিনিসগুলো দরকার?&quot;\u003Cbr /\u003Eরূশাদ বলল, &quot;আমাদের অনেক কিছু দরকার, স্যার। আমাদের প্রয়োজন স্বাস্থ্যকর খাবার, পর্যাপ্ত বিশ্রাম ও ঘুম। আমাদেরকে পরিষ্কার ও পরিচ্ছন্ন থাকতে হবে।&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল। সুস্বাস্থ্যের জন্য এই জিনিসগুলো তোমাদের প্রয়োজন। তবে আরো একটি জিনিস যা তোমাদের প্রয়োজন তা হল নিয়মিত শরীর চর্চা।&quot;\u003Cbr /\u003Eরায়েদ জিজ্ঞেস করল, &quot;আমরা কী ধরনের শরীর চর্চা করতে পারি, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল কথা, বিভিন্ন রকমের শরীর চর্চা রয়েছে। তোমরা সেগুলো বাড়ির ভেতরে এবং বাইরে করতে পার। বাড়িতে, তুমি কিছু খালি হাতের ব্যায়াম করতে পার। তা হল, তুমি তোমার শরীরের বিভিন্ন অংশকে প্রসারিত করতে পার। বাইরে, তুমি খেলতে পার, সাঁতার কাটতে পার বা সাধারণভাবে হাঁটতে পার।&quot;\u003Cbr /\u003Eরঞ্জন জিজ্ঞেস করল, &quot;আমাদের কেন শরীর চর্চা প্রয়োজন, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;বেশ, শরীরচর্চার উপকারিতা অনেক। তাদের মধ্যে বড় যেটা, তা হল এটি তোমাদেরকে কাজে উপযোগী করে। এছাড়া এটি তোমাদেরকে শক্তি যোগায়, শক্তিশালী ও প্রফুল্ল করে তোলে। এটি তোমাদেরকে নিয়মানুবর্তিতা ও শৃঙ্খলাও শেখায়।&quot;\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13396,
+      "created_at": "2025-12-22T05:00:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803408,
+          "linked_parent_id": 803406,
+          "value": {
+            "options": {
+              "a": "do well in the examination",
+              "b": "behave with people",
+              "c": "take physical exercise",
+              "d": "learn English"
+            },
+            "question": "Mr Pronay Larma teaches his students how to-",
+            "solution": "c. take physical exercise"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T05:00:21.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803352,
+      "value": {
+        "options": [],
+        "question": "Mr Pronay Larma, the physical teacher of Rooppur High School is talking about health to his students.\u003Cbr\u003E\n\"What things are necessary for good health?\" he asks the students.\u003Cbr\u003E\n\"We need a lot of things, teacher,\" says Rushad. \"We need healthy food, proper rest and sleep. We also have to be clean and tidy.\"\u003Cbr\u003E\n\"Good!\" says Mr Larma. \"These are the things you need for good health. But another thing that you also need is regular physical exercise.\"\u003Cbr\u003E\n\"What types of physical exercise can we do, teacher?\" asks Rayeed.\u003Cbr\u003E\n\"Well,\" says Mr Larma. \"There are different kinds of physical exercise. You can do them indoors as well as outdoors. In the house you can do some freehand exercises. That is, you can stretch different parts of your body. Outside, you can play, swim or simply walk.\"\u003Cbr\u003E\n\"Why do we need physical exercise, teacher?\" asks Ranjan.\u003Cbr\u003E\n\"Well\", says Mr Larma, \"The benefits of physical exercise are many. The greatest of them is that it keeps you fit for work. It also gives you energy, and makes you strong and cheerful. It teaches you regularity and discipline as well.\"",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eরূপপুর উচ্চবিদ্যালয়ের শারীরিক শিক্ষার শিক্ষক মি. প্রণয় লারমা তার ছাত্রদের সাথে স্বাস্থ্য সম্পর্কে কথা বলছেন।\u003Cbr /\u003Eতিনি ছাত্রদেরকে জিজ্ঞেস করলেন, &quot;সুস্বাস্থ্যের জন্য কোন জিনিসগুলো দরকার?&quot;\u003Cbr /\u003Eরূশাদ বলল, &quot;আমাদের অনেক কিছু দরকার, স্যার। আমাদের প্রয়োজন স্বাস্থ্যকর খাবার, পর্যাপ্ত বিশ্রাম ও ঘুম। আমাদেরকে পরিষ্কার ও পরিচ্ছন্ন থাকতে হবে।&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল। সুস্বাস্থ্যের জন্য এই জিনিসগুলো তোমাদের প্রয়োজন। তবে আরো একটি জিনিস যা তোমাদের প্রয়োজন তা হল নিয়মিত শরীর চর্চা।&quot;\u003Cbr /\u003Eরায়েদ জিজ্ঞেস করল, &quot;আমরা কী ধরনের শরীর চর্চা করতে পারি, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;ভাল কথা, বিভিন্ন রকমের শরীর চর্চা রয়েছে। তোমরা সেগুলো বাড়ির ভেতরে এবং বাইরে করতে পার। বাড়িতে, তুমি কিছু খালি হাতের ব্যায়াম করতে পার। তা হল, তুমি তোমার শরীরের বিভিন্ন অংশকে প্রসারিত করতে পার। বাইরে, তুমি খেলতে পার, সাঁতার কাটতে পার বা সাধারণভাবে হাঁটতে পার।&quot;\u003Cbr /\u003Eরঞ্জন জিজ্ঞেস করল, &quot;আমাদের কেন শরীর চর্চা প্রয়োজন, স্যার?&quot;\u003Cbr /\u003Eমি. লারমা বললেন, &quot;বেশ, শরীরচর্চার উপকারিতা অনেক। তাদের মধ্যে বড় যেটা, তা হল এটি তোমাদেরকে কাজে উপযোগী করে। এছাড়া এটি তোমাদেরকে শক্তি যোগায়, শক্তিশালী ও প্রফুল্ল করে তোলে। এটি তোমাদেরকে নিয়মানুবর্তিতা ও শৃঙ্খলাও শেখায়।&quot;\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13396,
+      "created_at": "2025-12-22T04:53:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803353,
+          "linked_parent_id": 803352,
+          "value": {
+            "options": {
+              "a": "do well in the examination",
+              "b": "behave with people",
+              "c": "take physical exercise",
+              "d": "learn English"
+            },
+            "question": "Mr Pronay Larma teaches his students how to-",
+            "solution": "c. take physical exercise"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13396,
+          "created_at": "2025-12-22T04:53:56.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13396&grade=2&lesson=15610&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13396&grade=2&lesson=15610&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13396&grade=2&lesson=15610&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

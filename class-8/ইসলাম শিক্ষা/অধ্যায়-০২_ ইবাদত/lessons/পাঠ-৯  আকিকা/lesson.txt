@@ -1,0 +1,996 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 782498,
+      "value": {
+        "options": {
+          "ক": "কিছুই করবে না",
+          "খ": "নিজে আকিকা করবে",
+          "গ": "ছাগলের দাম দান করবে",
+          "ঘ": "কুরবানি করবে"
+        },
+        "question": "করিমের পিতা করিমের আকিকা করেননি। বড় হয়ে করিম কী করবে?",
+        "solution": "খ. নিজে আকিকা করবে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782498,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782508,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv\u003Eসন্তাম জন্মের সপ্তম দিনে কোন চারটি কাজ করা উত্তম?\u003C/div\u003E",
+        "solution": "মাতাপিতার কাছে সবচেয়ে প্রিয় হলো সন্তান। সন্তান জন্মের সপ্তম দিনে চারটি কাজ করা উত্তম\u003Cbr /\u003E\nক. সন্তানের ইসলামি নাম রাখা।\u003Cbr /\u003E\nখ. মাথা মণ্ডন করা।\u003Cbr /\u003E\nগ. মাথার চুলের ওজন পরিমাণ সোনা বা রূপা বা তার মূল্য দান করা।\u003Cbr /\u003E\nঘ. আকিকা করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782507,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv\u003Eআকিকার পশুর গোশত বণ্টনের নিয়ম লেখ।\u003C/div\u003E",
+        "solution": "আকিকার পশুর গোশত কুরবানির পশুর গোশতের ন্যায় তিন ভাগ করে একই নিয়মে বণ্টন করতে হয়। এ গোশত সন্তানের পিতামাতা, ভাইবোন সকলেই খেতে পারে। এ গোশত রান্না করে আত্মীয়স্বজন ও গরিব মিসকিনকে খাওয়ানো যায়। চামড়া গরিব-মিসকিনকে দান করে দিতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782506,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv\u003Eআকিকা আদায়ের নিয়ম লেখ।\u003C/div\u003E",
+        "solution": "আকিকা আদায়ের সুনির্দিষ্ট নিয়ম রয়েছে। আকিকার জন্য ছেলে হলে দুটি আর মেয়ে হলে একটি ছাগল বা ভেড়া জবাই করতে হয় কিংবা কুরবানির গরুর মধ্যে ছেলে জন্য দুই আর মেয়ের জন্য এক অংশ নেওয়া যাবে। এ বিষয়ে রাসুলুল্লাহ (স.) বলেন, &quot;ছেলে সন্তানের জন্য দুটি ছাগল ও মেয়ে সন্তানের জন্য একটি ছাগল জবাই করাই যথেষ্ট।&rdquo; (নাসায়ি)।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782505,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv\u003Eআকিকার বিধান সংক্ষেপে লেখ।\u003C/div\u003E",
+        "solution": "আকিকা করা সুন্নাত। এর মাধ্যমে আল্লাহর রহমত পাওয়া যায়। সন্তানের বিপদাপদ দূর হয়। কাজেই প্রত্যেক পিতামাতার উচিত নবজাত সন্তানের নামে যথাসময়ে আকিকা করা। হাদিসে আছে, &quot;প্রতিটি নবজাত সন্তান আকিকার সাথে সম্পৃক্ত। তার জন্মের সপ্তম দিনে তার নামে পশু জবেহ করতে হবে। তার নাম রাখা হবে, তার মাথার চুল মুন্ডন করা হবে।&rdquo; (তিরমিযি)",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782504,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv\u003Eআকিকা বলতে কী বোঝায়?\u003C/div\u003E",
+        "solution": "&#39;আকিকা&#39; আরবি শব্দ। এর অর্থ ভাঙা, কেটে ফেলা ইত্যাদি। ইসলামি পরিভাষায় সন্তান জন্মের পর সপ্তম দিনে তার কল্যাণ কামনা করে আল্লাহর নামে কোনো হালাল গৃহপালিত পশু জবেহ করাকে আকিকা বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 782503,
+      "value": {
+        "options": {
+          "ক": "কুফরি",
+          "খ": "ভালো",
+          "গ": "সঠিক",
+          "ঘ": "মুস্তাহাব"
+        },
+        "question": "কাউসার সাহেবের সন্তান জন্ম নিলে আকিকা দেয়া বেহুদা কাজ। এতে অর্থের অপচয় এবং পশু হত্যা করা হয়।\u003Cbr\u003E\nকাউসার সাহেবের বিশ্বাস কিরূপ?",
+        "solution": "ক. কুফরি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782503,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 782503,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 782502,
+      "value": {
+        "options": {
+          "ক": "সুন্নাত আদায় হয়েছে",
+          "খ": "ফরজ আদায় হয়েছে",
+          "গ": "নফল আদায় হয়েছে",
+          "ঘ": "মানদুব আদায় হয়েছে"
+        },
+        "question": "আদিল সাহেব তার ছেলের আকিকা করেন দুইটি ছাগল জবাই করে। এতে তার কী হয়েছে?",
+        "solution": "ক. সুন্নাত আদায় হয়েছে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 782502,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782501,
+      "value": {
+        "options": {
+          "ক": "একটি",
+          "খ": "দুটি",
+          "গ": "তিনটি",
+          "ঘ": "চারটি"
+        },
+        "question": "আবিদার একটি মেয়ে আছে। তার মেয়ের জন্য কয়টি বকরি আকিকা দিবে?",
+        "solution": "ক. একটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782501,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782500,
+      "value": {
+        "options": {
+          "ক": "ফরজ",
+          "খ": "সুন্নাত",
+          "গ": "মুস্তাহাব",
+          "ঘ": "ওয়াজিব"
+        },
+        "question": "সন্তানের আকিকা করা কী?",
+        "solution": "খ. সুন্নাত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 782500,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782499,
+      "value": {
+        "options": {
+          "ক": "ছেলেমেয়ে",
+          "খ": "লেখাপড়া",
+          "গ": "সন্তান",
+          "ঘ": "ধনসম্পদ"
+        },
+        "question": "মাতাপিতার কাছে সবচেয়ে প্রিয় কী?",
+        "solution": "গ. সন্তান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782499,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782488,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "সুলায়মান তার ছেলে-মেয়ের জন্য আকিকা করলেন। এক্ষেত্রে আকিকার পশুর গোশত সে বিভক্ত করবে কয়ভাগে?",
+        "solution": "খ. তিন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 782488,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782497,
+      "value": {
+        "options": {
+          "ক": "কেটে ফেলা",
+          "খ": "উৎসর্গ করা",
+          "গ": "জবাই করা",
+          "ঘ": "পুরষ্কৃত করা"
+        },
+        "question": "আকিকা শব্দের অর্থ কী?",
+        "solution": "ক. কেটে ফেলা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782497,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782496,
+      "value": {
+        "options": {
+          "ক": "৫ম",
+          "খ": "৬ষ্ঠ",
+          "গ": "৭ম",
+          "ঘ": "১০ম"
+        },
+        "question": "সন্তান জন্মের কোন দিবসে আকিকা করা মুস্তাহাব?",
+        "solution": "গ. ৭ম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 782496,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782495,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আকিকার সময় পশু যবেহ করতে হবে-\u003Cbr\u003E\ni. ছেলের জন্য দুটি ছাগল বা ভেড়া\u003Cbr\u003E\nii. মেয়ের জন্য একটি ছাগল বা ভেড়া\u003Cbr\u003E\niii. ছেলে ও মেয়ের জন্য দুটি ছাগল বা ভেড়া\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782495,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 782495,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 782494,
+      "value": {
+        "options": {
+          "ক": "প্রতিটি নবজাতক সন্তানের নামে আকিকা করতে হবে",
+          "খ": "প্রতিটি নবজাতককে আকিকা দিতে হবে",
+          "গ": "প্রতিটি নবজাতক সন্তানের জন্মের পর আকিকা করা বৈধ",
+          "ঘ": "প্রতিটি নবজাতক সন্তানের মুক্তি আকিকার মাধ্যমে"
+        },
+        "question": "প্রতিটি নবজাতক সন্তান আকিকার সাথে বন্দি। কথাটির তাৎপর্য কী?",
+        "solution": "ক. প্রতিটি নবজাতক সন্তানের নামে আকিকা করতে হবে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 782494,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782493,
+      "value": {
+        "options": {
+          "ক": "ইবরাহিম (আ)",
+          "খ": "মহানবি (স)",
+          "গ": "ইসহাক (আ)",
+          "ঘ": "ইয়াকুব (আ)"
+        },
+        "question": "কে নিজের আকিকা নিজেই করেছিলেন?",
+        "solution": "খ. মহানবি (স)",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782493,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782492,
+      "value": {
+        "options": {
+          "ক": "এক",
+          "খ": "দুই",
+          "গ": "তিন",
+          "ঘ": "চার"
+        },
+        "question": "কাউছার সাহেবকে ছেলে-মেয়ের জন্য ছাগল আকিকা দিতে হবে। এক্ষেত্রে সে কয়টি ছাগল আকিকা দিবে?",
+        "solution": "গ. তিন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 782492,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 782491,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কাউসার সাহেবের সন্তান জন্ম নিলে আকিকা দেয়া বেহুদা কাজ। এতে অর্থের অপচয় এবং পশু হত্যা করা হয়।\u003Cbr\u003E\nকাউসারের পরকালিন পরিণতি-\u003Cbr\u003E\ni. জান্নাত ii. আল্লাহর ক্রোধ লাভ iii. জাহান্নাম\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 782491,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 782491,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 782491,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 782490,
+      "value": {
+        "options": {
+          "ক": "iii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মাকবুরা তার ছেলের জন্য আকিকা করলেন। এতে তার লাভ হবে-\u003Cbr\u003E\ni. সুন্নাত ii. আল্লাহর রহমত iii. সন্তানের বিপদাপদ দূর\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 782490,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 782490,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 782489,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "১"
+        },
+        "question": "রহিম সাহেব দুই ছেলের আকিকা করবেন। তাকে ছাগল জবাই করতে হবে কতটি?",
+        "solution": "গ. ৪",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 47,
+      "book_grade_id": 2,
+      "content_chunk_id": 7879,
+      "created_at": "2025-12-02T09:34:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 47,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 782489,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7879&grade=2&lesson=14879&question_paper_id=47612&subject=47&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7879&grade=2&lesson=14879&question_paper_id=47612&subject=47&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7879&grade=2&lesson=14879&question_paper_id=47612&subject=47&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

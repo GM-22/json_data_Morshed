@@ -1,0 +1,689 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 804875,
+      "value": {
+        "options": [],
+        "question": "'I eat rice every day. I play cricket. I don't bunk&nbsp;off school,&nbsp;blah...blah...blah....'&nbsp;These are&nbsp;common events. They happen every day or on some occasions. Are these events news? Should they be published in newspapers? The answer is a big 'NO'. Then what is news anyway? What do we want to know from the media? 'When a dog bites a man that is not news, but when a man bites a dog that is news,' says Charles Anderson Dana.\u003Cbr\u003E\nThe first thing is that the news should be a piece of information. Secondly, the information should be recent or new, and hence it is 'news'. Thirdly, people should take interest in it. Fourthly, it should be self-explained. That is, it should answer all the questions with who, which, what, where, when, why, and how. Finally, it should be objective. Recently, another aspect has been added: news is either printed or broadcast or on the internet.\u003Cbr\u003E\nThere are opinions that the term 'news' comes from 'new'. Others say it is news because it comes from all directions: North, East, West and South.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003E&#39;আমি প্রতিদিন ভাত খাই। আমি ক্রিকেট খেলি। আমি স্কুল পালাই না। হা.... হা.... হা....।&#39; এগুলো সাধারণ ঘটনা। এগুলো প্রতিদিন অথবা আনুষ্ঠানিকভাবে কখনও কখনও হয়ে থাকে। এগুলোকে কি সংবাদ বলা যায়? এগুলো কি সংবাদপত্রে ছাপানোর মতো? উত্তর হলো এক বিশাল &#39;না&#39;। তাহলে খবর কোনটি? আমরা মিডিয়া থেকে কী জানতে চাই? চার্লস এন্ডারসন ডানার মতে, &quot;একটা কুকুর যখন একটা মানুষকে কামড়ায় তখন এটা কোন খবর হয় না, কিন্তু একটা মানুষ যখন একটা কুকুরকে কামড়ায় তখন তা খবর হয়ে যায়।&quot;\u003Cbr /\u003Eপ্রথমত সংবাদ অবশ্যই তথ্যনির্ভর হতে হবে। দ্বিতীয়ত, তথ্যটি অবশ্যই সাম্প্রতিককালের অথবা নতুন হবে। এবং তখনই এটাকে সংবাদ বলা যায়। তৃতীয়ত মানুষ এতে উৎসাহবোধ করবে। চতুর্থত, তা হবে এমন যা নিজেই ব্যাখ্যা করা যায়। এর সাথে সম্পৃক্ত কে, কাকে, কী, কোথায়, কখন, কেন এবং কিভাবে এই সকল প্রশ্নের উত্তর পাওয়া যায়। এবং শেষকথা হলো এটি হবে বাস্তব। অধুনা সংবাদের আরও একটি বৈশিষ্ট্য যোগ হয়েছে: তা হলো সংবাদ হবে ছাপানোযোগ্য অথবা গণমাধ্যম বা ইন্টারনেটে প্রচারযোগ্য।\u003Cbr /\u003Eএমন অনেক অভিমত রয়েছে, &#39;সংবাদ&#39; শব্দটি ইংরেজি শব্দ New বা নতুন থেকে উদ্ভূত। আবার অনেকের মতে, News বা সংবাদ হচ্ছে North, East, West এবং South-এর সংক্ষিপ্ত রূপ। কারণ এটি বিভিন্ন দিক থেকে আসে।\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13401,
+      "created_at": "2025-12-22T05:43:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 804876,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "remarkable",
+              "b": "outstanding",
+              "c": "extra-ordinary",
+              "d": "general"
+            },
+            "question": "'common' refers to-",
+            "solution": "d. general"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804877,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "informative",
+              "b": "negative",
+              "c": "positive",
+              "d": "historic"
+            },
+            "question": "A news must be-",
+            "solution": "a. informative"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804878,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "place",
+              "b": "incident",
+              "c": "fresher",
+              "d": "entrance"
+            },
+            "question": "What does the word 'event' mean?",
+            "solution": "b. incident"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804879,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "old",
+              "b": "ancient",
+              "c": "recent",
+              "d": "importanceless"
+            },
+            "question": "The information of a news should be-",
+            "solution": "c. recent"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804880,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "event",
+              "b": "mint",
+              "c": "unused",
+              "d": "additional"
+            },
+            "question": "The word 'occasion' means-",
+            "solution": "a. event"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804881,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "termed",
+              "b": "told",
+              "c": "thought",
+              "d": "gathered"
+            },
+            "question": "Usual events are not _____ as news.",
+            "solution": "a. termed"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804882,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "disappear",
+              "b": "circulate",
+              "c": "disperse",
+              "d": "vanish"
+            },
+            "question": "What does the word 'publish' refer to?",
+            "solution": "b. circulate"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804883,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "information",
+              "b": "interest",
+              "c": "answer",
+              "d": "participation"
+            },
+            "question": "A news should include the _____ of the mass people.",
+            "solution": "b. interest"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804884,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "familiar",
+              "b": "uncertain",
+              "c": "doubt",
+              "d": "hesitate"
+            },
+            "question": "'know' refers to-",
+            "solution": "a. familiar"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804885,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": {
+              "a": "illogical",
+              "b": "irregular",
+              "c": "important",
+              "d": "extra"
+            },
+            "question": "News plays an _____ role in our society.",
+            "solution": "c. important"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 804886,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "\"I play cricket\" is it news? Why?",
+            "solution": "No, because it is common events and it happens everyday or on some occasions."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804887,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "What is news according to Charles Anderson Dana?",
+            "solution": "That a man bites a dog is a news. According to Charles Anderson Dana."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804888,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "What are the first and second thing of news?",
+            "solution": "The first thing is a piece of information and the second thing is recent or new information of news."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804889,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "Why should news be self-explained?",
+            "solution": "News should be self-explained because it should answer all the questions with who, which, what, when, why and how."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804890,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "How can news be published nowadays?",
+            "solution": "Nowadays news can be published by either printings or by broadcasting or on the internet."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804891,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "According to opinions what comes from 'new'?",
+            "solution": "According to opinions the term &#39;news&#39; comes from &#39;new&#39;."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804892,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "Why is it news according to others?",
+            "solution": "According the others it is news because it comes from all directions: North, East, West and South."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 804893,
+          "linked_parent_id": 804875,
+          "value": {
+            "options": [],
+            "question": "Give two examples that can be news.",
+            "solution": "The two examples that can be news are:\u003Cbr /\u003Ei. A man bites a dog\u003Cbr /\u003Eii. Sakib scored unbeaten 125 runs against India."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 804894,
+      "value": {
+        "options": [],
+        "question": "'I eat rice every day. I play cricket. I don't bunk&nbsp;off school,&nbsp;blah...blah...blah....'&nbsp;These are&nbsp;common events. They happen every day or on some occasions. Are these events news? Should they be published in newspapers? The answer is a big 'NO'. Then what is news anyway? What do we want to know from the media? 'When a dog bites a man that is not news, but when a man bites a dog that is news,' says Charles Anderson Dana.\u003Cbr\u003E\nThe first thing is that the news should be a piece of information. Secondly, the information should be recent or new, and hence it is 'news'. Thirdly, people should take interest in it. Fourthly, it should be self-explained. That is, it should answer all the questions with who, which, what, where, when, why, and how. Finally, it should be objective. Recently, another aspect has been added: news is either printed or broadcast or on the internet.\u003Cbr\u003E\nThere are opinions that the term 'news' comes from 'new'. Others say it is news because it comes from all directions: North, East, West and South.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003E&#39;আমি প্রতিদিন ভাত খাই। আমি ক্রিকেট খেলি। আমি স্কুল পালাই না। হা.... হা.... হা....।&#39; এগুলো সাধারণ ঘটনা। এগুলো প্রতিদিন অথবা আনুষ্ঠানিকভাবে কখনও কখনও হয়ে থাকে। এগুলোকে কি সংবাদ বলা যায়? এগুলো কি সংবাদপত্রে ছাপানোর মতো? উত্তর হলো এক বিশাল &#39;না&#39;। তাহলে খবর কোনটি? আমরা মিডিয়া থেকে কী জানতে চাই? চার্লস এন্ডারসন ডানার মতে, &quot;একটা কুকুর যখন একটা মানুষকে কামড়ায় তখন এটা কোন খবর হয় না, কিন্তু একটা মানুষ যখন একটা কুকুরকে কামড়ায় তখন তা খবর হয়ে যায়।&quot;\u003Cbr /\u003Eপ্রথমত সংবাদ অবশ্যই তথ্যনির্ভর হতে হবে। দ্বিতীয়ত, তথ্যটি অবশ্যই সাম্প্রতিককালের অথবা নতুন হবে। এবং তখনই এটাকে সংবাদ বলা যায়। তৃতীয়ত মানুষ এতে উৎসাহবোধ করবে। চতুর্থত, তা হবে এমন যা নিজেই ব্যাখ্যা করা যায়। এর সাথে সম্পৃক্ত কে, কাকে, কী, কোথায়, কখন, কেন এবং কিভাবে এই সকল প্রশ্নের উত্তর পাওয়া যায়। এবং শেষকথা হলো এটি হবে বাস্তব। অধুনা সংবাদের আরও একটি বৈশিষ্ট্য যোগ হয়েছে: তা হলো সংবাদ হবে ছাপানোযোগ্য অথবা গণমাধ্যম বা ইন্টারনেটে প্রচারযোগ্য।\u003Cbr /\u003Eএমন অনেক অভিমত রয়েছে, &#39;সংবাদ&#39; শব্দটি ইংরেজি শব্দ New বা নতুন থেকে উদ্ভূত। আবার অনেকের মতে, News বা সংবাদ হচ্ছে North, East, West এবং South-এর সংক্ষিপ্ত রূপ। কারণ এটি বিভিন্ন দিক থেকে আসে।\u003C/div\u003E"
+      },
+      "question_type_id": 15,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13401,
+      "created_at": "2025-12-22T05:43:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 804895,
+          "linked_parent_id": 804894,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003ENews published or circulated in the media should maintain some common (a) _____. Each and every event or happening cannot be (b) _____ or termed as news. The event or happening is to be (c) _____, recent mass related, self explanative and objective to be termed or circulated as news. The pros and cons of the event should also be mentioned in a (d) _____. If an event or thing fulfills most of these criteria, this may be considered worthy of printing or (e) _____ in mass media.\u003C/div\u003E",
+            "solution": "(a) criteria (b) regarded (c) informative (d) news (e) broadcasting"
+          },
+          "question_type_id": 16,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 16,
+            "name": "Gap Filling"
+          },
+          "flags": []
+        },
+        {
+          "id": 804896,
+          "linked_parent_id": 804894,
+          "value": {
+            "options": [],
+            "question": "mass people (synonym)",
+            "solution": "crowds"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804897,
+          "linked_parent_id": 804894,
+          "value": {
+            "options": [],
+            "question": "objective (antonym)",
+            "solution": "subjective"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804898,
+          "linked_parent_id": 804894,
+          "value": {
+            "options": [],
+            "question": "refer (synonym)",
+            "solution": "mention"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804899,
+          "linked_parent_id": 804894,
+          "value": {
+            "options": [],
+            "question": "informative (antonym)",
+            "solution": "uninformative"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 804900,
+          "linked_parent_id": 804894,
+          "value": {
+            "options": [],
+            "question": "educative (synonym)",
+            "solution": "instructive"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:57.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 15,
+        "name": "Seen Passage 2",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 804574,
+      "value": {
+        "options": [],
+        "question": "'I eat rice every day. I play cricket. I don't bunk&nbsp;off school,&nbsp;blah...blah...blah....'&nbsp;These are&nbsp;common events. They happen every day or on some occasions. Are these events news? Should they be published in newspapers? The answer is a big 'NO'. Then what is news anyway? What do we want to know from the media? 'When a dog bites a man that is not news, but when a man bites a dog that is news,' says Charles Anderson Dana.\u003Cbr\u003E\nThe first thing is that the news should be a piece of information. Secondly, the information should be recent or new, and hence it is 'news'. Thirdly, people should take interest in it. Fourthly, it should be self-explained. That is, it should answer all the questions with who, which, what, where, when, why, and how. Finally, it should be objective. Recently, another aspect has been added: news is either printed or broadcast or on the internet.\u003Cbr\u003E\nThere are opinions that the term 'news' comes from 'new'. Others say it is news because it comes from all directions: North, East, West and South.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003E&#39;আমি প্রতিদিন ভাত খাই। আমি ক্রিকেট খেলি। আমি স্কুল পালাই না। হা.... হা.... হা....।&#39; এগুলো সাধারণ ঘটনা। এগুলো প্রতিদিন অথবা আনুষ্ঠানিকভাবে কখনও কখনও হয়ে থাকে। এগুলোকে কি সংবাদ বলা যায়? এগুলো কি সংবাদপত্রে ছাপানোর মতো? উত্তর হলো এক বিশাল &#39;না&#39;। তাহলে খবর কোনটি? আমরা মিডিয়া থেকে কী জানতে চাই? চার্লস এন্ডারসন ডানার মতে, &quot;একটা কুকুর যখন একটা মানুষকে কামড়ায় তখন এটা কোন খবর হয় না, কিন্তু একটা মানুষ যখন একটা কুকুরকে কামড়ায় তখন তা খবর হয়ে যায়।&quot;\u003Cbr /\u003Eপ্রথমত সংবাদ অবশ্যই তথ্যনির্ভর হতে হবে। দ্বিতীয়ত, তথ্যটি অবশ্যই সাম্প্রতিককালের অথবা নতুন হবে। এবং তখনই এটাকে সংবাদ বলা যায়। তৃতীয়ত মানুষ এতে উৎসাহবোধ করবে। চতুর্থত, তা হবে এমন যা নিজেই ব্যাখ্যা করা যায়। এর সাথে সম্পৃক্ত কে, কাকে, কী, কোথায়, কখন, কেন এবং কিভাবে এই সকল প্রশ্নের উত্তর পাওয়া যায়। এবং শেষকথা হলো এটি হবে বাস্তব। অধুনা সংবাদের আরও একটি বৈশিষ্ট্য যোগ হয়েছে: তা হলো সংবাদ হবে ছাপানোযোগ্য অথবা গণমাধ্যম বা ইন্টারনেটে প্রচারযোগ্য।\u003Cbr /\u003Eএমন অনেক অভিমত রয়েছে, &#39;সংবাদ&#39; শব্দটি ইংরেজি শব্দ New বা নতুন থেকে উদ্ভূত। আবার অনেকের মতে, News বা সংবাদ হচ্ছে North, East, West এবং South-এর সংক্ষিপ্ত রূপ। কারণ এটি বিভিন্ন দিক থেকে আসে।\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13401,
+      "created_at": "2025-12-22T05:43:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 804577,
+          "linked_parent_id": 804574,
+          "value": {
+            "options": {
+              "a": "remarkable",
+              "b": "outstanding",
+              "c": "extra-ordinary",
+              "d": "general"
+            },
+            "question": "'common' refers to-",
+            "solution": "d. general"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13401,
+          "created_at": "2025-12-22T05:43:34.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13401&grade=2&lesson=15629&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13401&grade=2&lesson=15629&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13401&grade=2&lesson=15629&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 3,
+  "total": 3
+}

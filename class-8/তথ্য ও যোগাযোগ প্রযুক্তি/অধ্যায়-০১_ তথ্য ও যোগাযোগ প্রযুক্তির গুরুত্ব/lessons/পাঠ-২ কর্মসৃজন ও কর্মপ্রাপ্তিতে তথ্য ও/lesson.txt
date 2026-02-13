@@ -1,0 +1,1665 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 769837,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের প্রেক্ষিতে মুক্ত পেশা বা ফ্রিল্যান্সিং এর সম্ভাবনা ব্যাখ্যা কর।",
+        "solution": "দেশের তরুণ জনগোষ্ঠীর মধ্যে তথ্যপ্রযুক্তির দক্ষতা বৃদ্ধি পাওয়ার সাথে সাথে মুক্ত পেশা বা ফ্রিল্যান্সিং একটি জনপ্রিয় পেশা হয়ে উঠছে। ওয়েবসাইট উন্নয়ন, রক্ষণাবেক্ষণ, মাসিক বেতন-ভাতার বিল প্রস্তুতকরণ, ওয়েবসাইটে তথ্য যুক্তকরণ, সফটওয়&zwj;্যার উন্নয়ন এর মতো অনেক কাজ বর্তমানে আমাদের দেশের ছেলে মেয়েরা ঘরে বসেই করছে। বাংলাদেশ সরকারও মুক্ত পেশাকে উৎসাহিত করছে এবং বিভিন্ন প্রশিক্ষণ ও সহযোগিতা প্রদান করছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769828,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ফ্রন্টলাইন একটি সফটওয়্যার নির্মাণকারী প্রতিষ্ঠান। গত বছর এই প্রতিষ্ঠানের&nbsp;প্রকৌশলীরা অফিসে গিয়ে কার্যক্রম পরিচালনা করত। কিন্তু বর্তমানে তারা&nbsp;অফিসে না গিয়ে ইন্টারনেট ব্যবহার করে ঘরে বসে কাজ করতে পারছে।\u003Cbr\u003E\nপ্রকৌশলীরা ঘরে বসে কাজ করার কারণে ফ্রন্টলাইন ডটকম প্রতিষ্ঠানটির-\u003Cbr\u003E\ni. কর্মীর সংখ্যা কমেছে\u003Cbr\u003E\nii. কাজের ধরন পাল্টাচ্ছে\u003Cbr\u003E\niii. ব্যয় বৃদ্ধি পেয়েছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769828,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769828,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769828,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769829,
+      "value": {
+        "options": [],
+        "question": "কর্মক্ষেত্রে স্বয়ংক্রিয় প্রযুক্তি কীভাবে কাজে লাগানো হয়?",
+        "solution": "বর্তমান পৃথিবীতে স্বয়ংক্রিয় প্রযুক্তির ব্যবহার দিন দিন বেড়েই চলেছে। বিভিন্ন কারখানায় বিপজ্জনক কাজ রোবট বা স্বয়ংক্রিয় যন্ত্র দিয়ে করা, কর্মীদের উপস্থিতি ও বেতন হিসাব সফটওয়&zwj;্যারের মাধ্যমে সম্পন্ন করা, এবং স্বয়ংক্রিয় ইন্টারেকটিভ ভয়েস প্রযুক্তি দিয়ে গ্রাহকদের ২৪ ঘণ্টা সেবা প্রদান ইত্যাদি কাজে ব্যবহৃত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769830,
+      "value": {
+        "options": [],
+        "question": "তথ্যপ্রযুক্তি কর্মীদের কাজের ফাঁকি দেওয়ার প্রবণতা কীভাবে কমায়?",
+        "solution": "তথ্যপ্রযুক্তি স্বয়ংক্রিয়ভাবে মনিটরিংয়ের মাধ্যমে কর্মীদের কার্যক্রম তদারকি করে। ফলে তারা নিয়মিত কাজ সম্পন্ন করতে উদ্বুদ্ধ হয়। এর ফলে কর্মক্ষেত্রে শৃঙ্খলা ও দক্ষতা বাড়ে। যার সুফল কর্মী এবং প্রতিষ্ঠান উভয় পক্ষই ভোগ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769831,
+      "value": {
+        "options": [],
+        "question": "'জবসাইট' কিভাবে কাজ করে? ব্যাখ্যা কর।",
+        "solution": "জবসাইট হলো এমন একটি অনলাইন প্ল্যাটফর্ম যেখানে নিয়োগদাতা এবং চাকরিপ্রার্থীরা একে অপরকে খুঁজে পায়। নিয়োগদাতারা তাদের প্রতিষ্ঠানের খালি পদগুলোতে আবেদন করার জন্য বিজ্ঞপ্তি প্রকাশ করে। অন্যদিকে, চাকরিপ্রার্থীরা তাদের যোগ্যতা ও অভিজ্ঞতার সাথে মিল রেখে চাকরির সন্ধান করে এবং আবেদন করে। জবসাইটে রেজুমি আপলোড করার এবং নিয়োগদাতাদের সাথে সরাসরি যোগাযোগ করার সুবিধা থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769832,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে আউটসোর্সিং প্ল্যাটফর্ম হিসেবে কোন সাইটগুলো ব্যবহৃত হয়?",
+        "solution": "যখন কোন প্রতিষ্ঠান তাদের কাজ বাইরের কোন কর্মীর মাধ্যমে করিয়ে নেয়, তখন সেই ব্যবস্থাকে বলে আউটোসোর্সিং। বাংলাদেশে আউটসোর্সিং প্ল্যাটফর্ম হিসেবে জনপ্রিয় সাইটগুলো হলো আপওয়ার্ক, ফ্রিল্যান্সার এবং ইল্যান্স। এগুলোর মাধ্যমে দেশের ফ্রিল্যান্সাররা আন্তর্জাতিক কাজের সাথে যুক্ত হতে পারেন এবং ঘরে বসেই আয়ের সুযোগ পান।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769833,
+      "value": {
+        "options": [],
+        "question": "তথ্যপ্রযুক্তি কীভাবে উৎপাদনশীলতা বৃদ্ধি করে?",
+        "solution": "তথ্যপ্রযুক্তি সংযুক্তির মাধ্যমে উৎপাদনশীলতা বাড়ে। ড. ইকবাল কাদিরের মতে, সংযুক্তিই উৎপাদনশীলতা। প্রযুক্তির মাধ্যমে দক্ষতা বৃদ্ধি পেয়ে প্রতিষ্ঠান স্বল্প কর্মী দিয়ে বেশি কাজ সম্পন্ন করতে সক্ষম হয়, যা উৎপাদনশীলতা বাড়ানোর মূল কারণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769834,
+      "value": {
+        "options": [],
+        "question": "তথ্যপ্রযুক্তির ব্যবহারে কর্মক্ষেত্রে কর্মীর দক্ষতা কীভাবে বাড়ে?",
+        "solution": "তথ্যপ্রযুক্তি কর্মীদের দক্ষতা বাড়ায় কারণ এটি কাজকে সহজ ও স্বয়ংক্রিয় করে। যেমন- ফটোগ্রাফি বা ভিডিও এডিটিংয়ের মতো কাজ এখন কম্পিউটারের মাধ্যমে ঘরে বসে করা যায়। ফলে কর্মীরা সময়ের সাথে নিজেদের ক্রমাগত দক্ষ করে তুলতে পারেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769835,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে মোবাইল ফোনের বিস্তার কীভাবে নতুন কর্মসংস্থান সৃষ্টি করছে ব্যাখ্যা কর।",
+        "solution": "বাংলাদেশে মোবাইল ফোনের বিস্তার দেশের অর্থনীতি ও কর্মসংস্থানে বিপুল পরিবর্তন এনেছে। মোবাইল কোম্পানিতে কাজের সুযোগ, মোবাইল সেট বিক্রয়, বিপণন ও রক্ষণাবেক্ষণ, মোবাইল সেবা প্রদান, মোবাইল ব্যাংকিং ইত্যাদি নতুন নতুন খাত সৃষ্টি হয়েছে। ফলে লক্ষ লক্ষ মানুষের কর্মসংস্থানের সুযোগ সৃষ্টি হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769836,
+      "value": {
+        "options": [],
+        "question": "আউটসোর্সিং কী? ব্যাখ্যা কর।",
+        "solution": "আউটসোর্সিং হলো কোনো প্রতিষ্ঠানের নিজস্ব কাজের একটি অংশ বা পুরোটাই অন্য দেশের কর্মীকে দিয়ে করানো। সাধারণত, কোনো কাজ যদি কোনো প্রতিষ্ঠানের মূল কাজ না হয় বা যদি সেই কাজ করার জন্য প্রয়োজনীয় দক্ষতা বা সম্পদ না থাকে, তখন সেই কাজটি আউটসোর্স দিয়ে করানো হয়। আউটসোর্সিংয়ের মাধ্যমে কোনো প্রতিষ্ঠান নিজের মূল কাজে আরও বেশি মনোযোগ দিতে পারে এবং খরচ কমাতে পারে। পাশাপাশি কর্মীরা ঘরে বসে আয় করার সুযোগ পায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769827,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মালিহা নিজেকে আউটসোর্সিং কাজে নিযুক্ত করতে চায়। এজন্য তার প্রয়োজন-\u003Cbr\u003E\ni. কাজের দক্ষতা\u003Cbr\u003E\nii. ভাষা দক্ষতা\u003Cbr\u003E\niii. ব্যবস্থাপনা দক্ষতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769827,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769827,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769838,
+      "value": {
+        "options": [],
+        "question": "ইন্টারনেটের বিকাশ কীভাবে মুক্তপেশাকে জনপ্রিয় করেছে?",
+        "solution": "ইন্টারনেটের মাধ্যমে ফ্রিল্যান্সাররা আন্তর্জাতিক কাজের সুযোগ পাচ্ছেন। ওয়েবসাইট উন্নয়ন, সফটওয়্যার তৈরির কাজসহ বিভিন্ন প্রকল্প ফ্রিল্যান্সিং সাইটে পাওয়া যায়। ইন্টারনেটের বিকাশের ফলে প্রত্যন্ত অঞ্চলে থেকেও বিভিন্ন প্রতিষ্ঠানের হয়ে কাজ করা যায়। এর মাধ্যমের মুক্তপেশা বা ফ্রিল্যান্সিং সব অঞ্চলেই জনপ্রিয় হচ্ছে। ফলে তৃতীয় বিশ্বের দেশগুলোর কর্মীরা ঘরে বসেই বৈদেশিক মুদ্রা আয় করছেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769839,
+      "value": {
+        "options": [],
+        "question": "তথ্য প্রযুক্তির বিকাশে কিছু সনাতনী কাজ বিলুপ্ত হয়ে গেছে-ব্যাখ্যা কর।",
+        "solution": "তথ্যপ্রযুক্তির দ্রুত বিকাশের ফলে অনেক সনাতনী কাজ বিলুপ্ত হয়ে গেছে। যেমন, টাইপরাইটারের জায়গায় কম্পিউটার, হিসাব রক্ষকের জায়গায় স্প্রেডশিট এবং মানি অর্ডার এর জায়গায় মোবাইল ব্যাংকিং অ্যাপ এসেছে। এছাড়া, অনেক কারখানায় যান্ত্রিক কাজগুলো রোবট দ্বারা পরিচালিত হচ্ছে। ফলে মানুষের হাতে কম কাজ থাকছে এবং তাদেরকে নতুন দক্ষতা অর্জন করতে হচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769840,
+      "value": {
+        "options": [],
+        "question": "কর্মস্থল তথা অফিসে তথ্যপ্রযুক্তি ব্যবহার বর্ণনা কর।",
+        "solution": "আধুনিক কর্মস্থলে তথ্যপ্রযুক্তির ব্যবহার অত্যন্ত প্রচলিত। ই-মেইল, ভিডিয়ো কনফারেন্সিং, ক্লাউড স্টোরেজ, প্রজেক্ট ম্যানেজমেন্ট সফটওয়&zwj;্যার ইত্যাদির মাধ্যমে কর্মচারীরা তথ্য আদান-প্রদান করে, কাজের সমন্বয় করে এবং সিদ্ধান্ত নেয়। এছাড়া, অনলাইন ট্রেনিং, অটোমেশন এবং ডেটা বিশ্লেষণের মাধ্যমে কর্মক্ষমতা বৃদ্ধি করা সম্ভব। অনেক কোম্পানি এখন উপস্থিতি, বেতন, ভাতা ইত্যাদি তথ্যও ডিজিটাল পদ্ধতিতে সংরক্ষণ এবং পরিচালনা করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769841,
+      "value": {
+        "options": [],
+        "question": "দক্ষতা উন্নয়নের কর্মসূচিতে প্রতিনিয়ত পরিবর্তন সাধিত হচ্ছে কেন?",
+        "solution": "প্রযুক্তি দ্রুত পরিবর্তিত হওয়ার কারণে কর্মক্ষেত্রেও নতুন নতুন চাহিদা সৃষ্টি হয়। ফলে দক্ষতা উন্নয়নের কর্মসূচিতেও প্রতিনিয়ত পরিবর্তন আনা জরুরি হয়ে পড়ে। নতুন প্রযুক্তি এবং সফটওয়&zwj;্যার ব্যবহার করতে শিখতে হলে নতুন দক্ষতা অর্জন করতে হয়। যারা নিজেদের দক্ষতা নিয়মিত আপডেট করে রাখে, তারাই প্রযুক্তির এই পরিবর্তনশীল পরিবেশে টিকে থাকতে পারে। তাই দক্ষতা উন্নয়নের কর্মসূচিতে প্রতিনিয়ত পরিবর্তন সাধিত হচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769842,
+      "value": {
+        "options": [],
+        "question": "ভার্চুয়াল প্রতিষ্ঠান কী এবং এর বৈশিষ্ট্য কী?",
+        "solution": "ভার্চুয়াল প্রতিষ্ঠান হলো এমন প্রতিষ্ঠান যা অনলাইন-ভিত্তিক। এর বৈশিষ্ট্যগুলো হলো-\u003Cbr /\u003E\n১. এ ধরনের প্রতিষ্ঠানে কর্মীরা ঘরে বসে কাজ করে।\u003Cbr /\u003E\n২. কর্মীদের কাজ অনলাইন মনিটরিং এর মাধ্যমে পরিচালিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769843,
+      "value": {
+        "options": [],
+        "question": "ভার্চুয়াল প্রতিষ্ঠানে কর্ম সম্পাদন হয় কিভাবে? ব্যাখ্যা কর।",
+        "solution": "ভার্চুয়াল প্রতিষ্ঠানে কর্মচারীরা বিভিন্ন দেশে ছড়িয়ে থাকলেও, তারা ইন্টারনেটের মাধ্যমে একত্রিত হয়ে কাজ করে। ভিডিয়ো কনফারেন্সিং, মেসেজিং অ্যাপ, প্রজেক্ট ম্যানেজমেন্ট টুলস এবং ক্লাউড স্টোরেজের মাধ্যমে তারা যোগাযোগ করে, কাজ বণ্টন করে এবং প্রকল্প পরিচালনা করে। ভার্চুয়াল প্রতিষ্ঠানে অফিসের মতো একটি ভার্চুয়াল অফিস থাকে যেখানে সব তথ্য এবং ডকুমেন্ট সংরক্ষিত থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769844,
+      "value": {
+        "options": [],
+        "question": "ইন্টারনেট কীভাবে চাকরির সুযোগ প্রাপ্তির প্রক্রিয়াকে সহজ করেছে?",
+        "solution": "ইন্টারনেটের মাধ্যমে জবসাইটগুলোতে নিয়োগ বিজ্ঞপ্তি প্রকাশ করা হয়, যা কর্মপ্রত্যাশীরা তাৎক্ষণিকভাবে দেখতে পারেন। নিবন্ধিত প্রার্থীদের ই-মেইল বা এসএমএস-এর মাধ্যমে নতুন চাকরির খবর জানানো হয়। ফলে চাকরির সুযোগ প্রাপ্তি সহজ হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769845,
+      "value": {
+        "options": [],
+        "question": "সংযুক্তিই উৎপাদনশীলতা- ব্যাখ্যা কর।",
+        "solution": "সংযুক্তিই উৎপাদনশীলতা অর্থাৎ প্রযুক্তিতে জনগণের সংযুক্তি বাড়লে তাদের উৎপাদনশীলতা বাড়ে। ফলে তৈরি হয় নতুন নতুন কর্মসংস্থান। তথ্য প্রযুক্তির বিকাশের ফলে কিছু সনাতনী কাজ বিলুপ্ত হয়েছে, তবে অসংখ্য নতুন কাজের সৃষ্টি হয়েছে। ইন্টারনেট সংযোগ বৃদ্ধির সাথে সাথে কর্মসংস্থানের সুযোগও দ্রুত হারে বেড়ে গিয়েছে। তাই বলা যায় যে, তথ্য ও যোগাযোগ প্রযুক্তির প্রয়োগের ফলে উৎপাদনশীলতা বৃদ্ধি পেয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769846,
+      "value": {
+        "options": [],
+        "question": "আউটসোর্সিং-এর মাধ্যমে কী কাজ করা হয়- আলোচনা&nbsp; কর।",
+        "solution": "ইন্টারনেটের বিকাশের ফলে বর্তমানে তৃতীয় বিশ্বের দেশগুলোর জন্য ঘরে বসে অন্য দেশের কাজ করে দেওয়ার সুযোগ সৃষ্টি হয়েছে। আউটসোর্সিং-এর মাধ্যমে বিশ্বের বিভিন্ন দেশের বিভিন্ন প্রতিষ্ঠান তাদের নিজেদের অনেক কাজ যেমন- ওয়েবসাইট উন্নয়ন, রক্ষণাবেক্ষণ, মাসিক বেতন-ভাতার বিল প্রস্তুতকরণ, ওয়েবসাইটে তথ্য যুক্তকরণ, সফটওয়&zwj;্যার উন্নয়ন অন্যদেশের কর্মীর মাধ্যমে সম্পন্ন করে থাকে। ইন্টারনেট সংযোগ থাকলে যে কেউ এ ধরনের কাজের সাথে যুক্ত থাকতে পারে। এক্ষেত্রে কাজের দক্ষতার পাশাপাশি ভাষা দক্ষতাও সমানভাবে প্রয়োজন হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769818,
+      "value": {
+        "options": {
+          "ক": "ক্ষতিকারক প্রতিষ্ঠান",
+          "খ": "দুর্নীতিগ্রস্ত প্রতিষ্ঠান",
+          "গ": "ভার্চুয়াল প্রতিষ্ঠান",
+          "ঘ": "অলাভজনক প্রতিষ্ঠান"
+        },
+        "question": "ফ্রন্টলাইন একটি সফটওয়্যার নির্মাণকারী প্রতিষ্ঠান। গত বছর এই প্রতিষ্ঠানের&nbsp;প্রকৌশলীরা অফিসে গিয়ে কার্যক্রম পরিচালনা করত। কিন্তু বর্তমানে তারা&nbsp;অফিসে না গিয়ে ইন্টারনেট ব্যবহার করে ঘরে বসে কাজ করতে পারছে।\u003Cbr\u003E\nউক্ত প্রতিষ্ঠানটি বর্তমানে কিসে পরিণত হয়েছে?",
+        "solution": "গ. ভার্চুয়াল প্রতিষ্ঠান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769818,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769818,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769809,
+      "value": {
+        "options": {
+          "ক": "সফটওয়্যার ডেভেলপমেন্ট",
+          "খ": "ওয়েবপেজ তৈরি",
+          "গ": "ভিডিও এডিটিং",
+          "ঘ": "সার্ভার নিয়ন্ত্রণ"
+        },
+        "question": "কম্পিউটারের সহায়তায় দক্ষতা ছাড়া কী ধরনের কাজ করা যায়?",
+        "solution": "গ. ভিডিও এডিটিং",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769809,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769810,
+      "value": {
+        "options": {
+          "ক": "নগদ অর্থ তোলা যায়",
+          "খ": "নগদ অর্থ জমা দেওয়া যায়",
+          "গ": "যেকোনো পণ্য ক্রয় করা যায়",
+          "ঘ": "যেকোনো পণ্য বিক্রয় করা যায়"
+        },
+        "question": "ব্যাংকের এটিএম মেশিন ব্যবহার করে কী করা যায়?",
+        "solution": "ক. নগদ অর্থ তোলা যায়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769810,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769811,
+      "value": {
+        "options": {
+          "ক": "ইন্টারনেট",
+          "খ": "মোবাইল",
+          "গ": "আইসিটি",
+          "ঘ": "কম্পিউটার"
+        },
+        "question": "কোনটির কারণে অনেক কাজের ধরন প্রতিনিয়ত বদলে যাচ্ছে?",
+        "solution": "গ. আইসিটি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769811,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769812,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পূর্বে নিয়োগ বিজ্ঞপ্তি সেঁটে দেয়া হতো-\u003Cbr\u003E\ni. সংশ্লিষ্ট দপ্তরের নোটিশ বোর্ডে\u003Cbr\u003E\nii. বড় বড় সরকারি প্রতিষ্ঠানের দেয়ালে\u003Cbr\u003E\niii. সংশ্লিষ্ট প্রতিষ্ঠানের ওয়েবসাইটে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769812,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769812,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769813,
+      "value": {
+        "options": {
+          "ক": "মোস্তাফা জব্বার",
+          "খ": "ড. ইকবাল কাদির",
+          "গ": "ড. হুমায়ুন রশিদ",
+          "ঘ": "ড. জিন হেনরি"
+        },
+        "question": "'Connectivity is Productivity'-এটা কার সংজ্ঞা?",
+        "solution": "খ. ড. ইকবাল কাদির",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769813,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769814,
+      "value": {
+        "options": {
+          "ক": "আর্মি ট্রেনিং মেশিন",
+          "খ": "এসিসটেন্ট ট্রেনারস মিটিং",
+          "গ": "এসোসিয়েশন অব ট্রেনিং ম্যানেজার",
+          "ঘ": "অটোমেটেড টেইলর মেশিন"
+        },
+        "question": "এটিএম এর পূর্ণরূপ কী?",
+        "solution": "ঘ. অটোমেটেড টেইলর মেশিন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769815,
+      "value": {
+        "options": {
+          "ক": "টেলিফোন এক্সচেঞ্জ মেশিন",
+          "খ": "ইন্টারেকটিভ ভয়েস প্রযুক্তি",
+          "গ": "মোবাইল ফোন টেকনোলজি",
+          "ঘ": "টেলিকমোনিকেশন টেকনোলজি"
+        },
+        "question": "কোনটি ব্যবহার করে দিন রাত যেকোনো সময় গ্রাহকদের নির্দিষ্ট প্রশ্নের জবাব দেয়া যায়?",
+        "solution": "খ. ইন্টারেকটিভ ভয়েস প্রযুক্তি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769815,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769816,
+      "value": {
+        "options": {
+          "ক": "একটি জনপ্রিয় প্রোগ্রাম",
+          "খ": "একটি অপারেটিং সিস্টেম",
+          "গ": "একটি মোবাইল কোম্পানি",
+          "ঘ": "একটি ইন্টারনেট সাইট"
+        },
+        "question": "ই-ল্যান্স কী?",
+        "solution": "ঘ. একটি ইন্টারনেট সাইট",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769816,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769817,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তথ্যপ্রযুক্তির বিকাশের ফলে-\u003Cbr\u003E\ni. কিছু সনাতনী কাজ বিলোপ হয়েছে\u003Cbr\u003E\nii. কিছু কাজের ধারা পরিবর্তন হয়েছে\u003Cbr\u003E\niii. অসংখ্য নতুন কাজের সুযোগ সৃষ্টি হয়েছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769817,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769817,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769808,
+      "value": {
+        "options": {
+          "ক": "মাস্টার অব ইনফরমেশন অ্যান্ড টেকনোলজি",
+          "খ": "ম্যাসাসুসেটস ইনস্টিটিউট অব টেকনোলজি",
+          "গ": "মাল্টি লেভেল ইনফরমেশন টেকনোলজি",
+          "ঘ": "মাল্টি ন্যাশনাল ইনস্টিটিউট অব টেকনোলজি"
+        },
+        "question": "এমআইটি-এর পূর্ণরূপ কী?",
+        "solution": "খ. ম্যাসাসুসেটস ইনস্টিটিউট অব টেকনোলজি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769808,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769819,
+      "value": {
+        "options": {
+          "ক": "নিম্নস্তরে",
+          "খ": "মধ্যন্তরে",
+          "গ": "উচ্চস্তরে",
+          "ঘ": "বিভিন্ন স্তরে"
+        },
+        "question": "তথ্য ও যোগাযোগ প্রযুক্তি সমাজে কোন স্তরে পরিবর্তন সূচনা করেছে?",
+        "solution": "ঘ. বিভিন্ন স্তরে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769819,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769820,
+      "value": {
+        "options": {
+          "ক": "রাউটার",
+          "খ": "ইন্টারনেট",
+          "গ": "সুইচ",
+          "ঘ": "পেনড্রাইভ"
+        },
+        "question": "আউটসোর্সিং এর জন্য কোনটি আবশ্যক?",
+        "solution": "খ. ইন্টারনেট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4306,
+          "full_name": "খুলনা সরকারি বালিকা উচ্চ বিদ্যালয়",
+          "short_name": "খুলনা সরকারি বালিকা উচ্চ বিদ্যালয়",
+          "slug": "khulna-srkari-balika-ucc-bidzaly",
+          "pivot": {
+            "question_bank_id": 769820,
+            "tag_id": 4306,
+            "year": null,
+            "created_at": "2025-12-01T10:08:47.000000Z",
+            "updated_at": "2025-12-01T10:08:47.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769821,
+      "value": {
+        "options": {
+          "ক": "নিত্য নতুন কাজের ক্ষেত্র সৃষ্টি",
+          "খ": "প্রতিষ্ঠানের কাজের ধরন পরিবর্তন",
+          "গ": "প্রতিষ্ঠানের কর্মী সংখ্যা হ্রাস",
+          "ঘ": "কর্মীদের মধ্যে প্রণোদনা সৃষ্টি"
+        },
+        "question": "তথ্য ও যোগাযোগ প্রযুক্তির সবচেয়ে বড় প্রণোদনা কী?",
+        "solution": "ক. নিত্য নতুন কাজের ক্ষেত্র সৃষ্টি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769821,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769822,
+      "value": {
+        "options": {
+          "ক": "সমাজে বেকার সমস্যা বৃদ্ধি",
+          "খ": "প্রতিষ্ঠানের সকল কাজের ধরন পরিবর্তন",
+          "গ": "প্রতিষ্ঠানের কম কর্মী দ্বারা বেশি কাজের সুযোগ সৃষ্টি",
+          "ঘ": "প্রতিষ্ঠানের অদক্ষ কর্মীদের চাকরির ঝুঁকি বৃদ্ধি"
+        },
+        "question": "তথ্যপ্রযুক্তি ব্যবহার করে কর্মীরা অনেক দক্ষ হয়ে উঠছে। এর প্রভাব কী?",
+        "solution": "গ. প্রতিষ্ঠানের কম কর্মী দ্বারা বেশি কাজের সুযোগ সৃষ্টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769822,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769823,
+      "value": {
+        "options": {
+          "ক": "বেতন",
+          "খ": "দক্ষতা",
+          "গ": "সমন্বয়হীনতা",
+          "ঘ": "ব্যস্ততা"
+        },
+        "question": "তথ্য প্রযুক্তি ব্যবহারের ফলে একজন কর্মীর কী বৃদ্ধি পায়?",
+        "solution": "খ. দক্ষতা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769823,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769824,
+      "value": {
+        "options": {
+          "ক": "অর্থ আত্মসাৎপ্রবণতা",
+          "খ": "দেরি করে আসার প্রবণতা",
+          "গ": "কাজে ফাঁকি দেয়ার প্রবণতা",
+          "ঘ": "কাঁচামাল নষ্ট করার প্রবণতা"
+        },
+        "question": "স্বয়ংক্রিয়ভাবে মনিটরিং ব্যবস্থা কর্মীদের কোন ধরনের প্রবণতা হ্রাস করে?",
+        "solution": "গ. কাজে ফাঁকি দেয়ার প্রবণতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769824,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769825,
+      "value": {
+        "options": {
+          "ক": "সরকারি প্রতিষ্ঠানে",
+          "খ": "একমালিকানা প্রতিষ্ঠানে",
+          "গ": "ভার্চুয়াল প্রতিষ্ঠানে",
+          "ঘ": "বৃহদায়তন প্রতিষ্ঠানে"
+        },
+        "question": "আইসিটির কারণে অনেক প্রতিষ্ঠান কিসে পরিণত হয়েছে?",
+        "solution": "গ. ভার্চুয়াল প্রতিষ্ঠানে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769825,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769826,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার",
+          "খ": "ইন্টারনেট",
+          "গ": "রোবট",
+          "ঘ": "মোবাইল"
+        },
+        "question": "বিভিন্ন কারখানার বিপজ্জনক কাজগুলোতে মানুষের পরিবর্তে বর্তমানে কী ব্যবহার করা হয়?",
+        "solution": "গ. রোবট",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:08:47.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769826,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14444&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14444&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14444&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 39,
+  "total": 39
+}

@@ -1,0 +1,1245 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 803748,
+      "value": {
+        "options": [],
+        "question": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are currently third in line for take-off and are expected to be in the air in approximately seven minutes. Please fasten your seat belt and secure all baggage under your seat or in the overhead compartments. Keep your seats and table trays in upright position for take off. Please turn off all personal electronic devices, including laptops and cellphones. This is a non-smoking flight. Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh Biman. Enjoy your flight.\u003Cbr\u003E\nGood afternoon passengers. This is your captain Rashid Akbar speaking. First I'd like to welcome everyone on Flight BG 88. We are currently cruising at an altitude of 10058.40. feet at airspeed of 643.7376 km per hour. The time is 1:25 pm. The weather looks good and with the tailwind on our side we are expecting to land in Bangkok approximately fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny. The temperature is 32 degree Celsius for this afternoon. If the weather is good we should get a great view of the city as we descend. The cabin crew will be coming around in about twenty minute's time to offer you a light snack and drinks. The inflight movie will begin shortly after that. I'll talk to you again before we reach our destination. Until then, sit back, and enjoy the flight.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eভদ্রমহিলা ও ভদ্র মহোদয়গণ, ব্যাংককগামী ফ্লাইট বিজি ৮৮ তে চড়ার জন্য আপনাদেরকে স্বাগতম। আমরা এই মুহূর্তে ওড়ার জন্য তৃতীয় সারিতে আছি এবং প্রায় সাত মিনিটের মধ্যে আকাশে অবস্থান করব বলে আশা করছি। অনুগ্রহ করে আপনাদের সিটবেল্টগুলো বেঁধে নিন এবং মালপত্রগুলো আপনাদের সিটের নিচে কিংবা মাথার ওপরের কামরাগুলোতে সযত্নে রেখে দিন। ওড়ার জন্য আপনার সিটবেল্ট ও টেবিল ট্রে গুলোকে সোজা করে রাখুন। অনুগ্রহ করে ল্যাপটপ, সেলফোনসহ ব্যক্তিগত ইলেক্ট্রনিক যন্ত্রপাতি বন্ধ রাখুন। এটি একটি ধূমপানমুক্ত ফ্লাইট। শৌচাগারে ধূমপান নিষেধ। বাংলাদেশ বিমানকে পছন্দ করার জন্য আপনাকে ধন্যবাদ। আপনাদের ফ্লাইট উপভোগ করুন।\u003Cbr /\u003Eশুভ অপরাহ্ন যাত্রীগণ। ক্যাপ্টেন রশিদ আকবর বলছি। প্রথমে আমি ফ্লাইট বিজি ৮৮ এ অবস্থানরত সবাইকে স্বাগত জানাচ্ছি। আমরা বর্তমানে ঘণ্টায় ৬৪৩.৭৩৭৬ কি. মি. বেগে ১০০৫৮.৪০ ফিট উচ্চতায় উড়ছি। সময় ১টা বেজে পঁচিশ মিনিট। আবহাওয়া ভাল দেখাচ্ছে এবং পেছনের বাতাস আমাদের অনুকূল হওয়ায় আমরা নির্ধারিত সময়ের প্রায় পনের মিনিট আগে ব্যাংকক অবতরণ করব বলে আশা করছি। ব্যাংককের আবহাওয়া পরিষ্কার ও রৌদ্রময়। এই বিকেলে তাপমাত্রা ৩২ ডিগ্রি সেলসিয়াস। আবহাওয়া ভাল থাকলে অবতরণের সময় শহরের একটা চমৎকার দৃশ্য আমরা দেখতে পাব। প্রায় ২০ মিনিট সময়ের মধ্যে কেবিন ক্রু আসছে আপনাদেরকে হালকা নাস্তা ও পানীয় পরিবেশন করার জন্য। এরপর বিমানের ভেতরের ছায়াছবি শুরু হবে। গন্তব্যে পৌঁছার আগে আমি আবারও আপনাদের সাথে কথা বলব। সে পর্যন্ত আরাম করে বসুন ও ফ্লাইট উপভোগ করুন।\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13399,
+      "created_at": "2025-12-22T05:01:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803749,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "land",
+              "b": "come",
+              "c": "run",
+              "d": "fly"
+            },
+            "question": "What does the word 'take-off' refer to?",
+            "solution": "d. fly"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803750,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "in the airport",
+              "b": "waiting room",
+              "c": "restroom",
+              "d": "in the plane"
+            },
+            "question": "What does the world 'lavatory' mean-",
+            "solution": "c. restroom"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803751,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "length",
+              "b": "breadth",
+              "c": "width",
+              "d": "height"
+            },
+            "question": "The word 'altitude' means-",
+            "solution": "d. height"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803752,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "drop",
+              "b": "sink",
+              "c": "go down",
+              "d": "reduce"
+            },
+            "question": "The word 'descend' means-",
+            "solution": "c. go down"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803753,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "around",
+              "b": "fixed",
+              "c": "sure",
+              "d": "perfect"
+            },
+            "question": "'approximately' refers to-",
+            "solution": "a. around"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803754,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "find",
+              "b": "bright",
+              "c": "dark",
+              "d": "coloured"
+            },
+            "question": "The word 'sunny' means-",
+            "solution": "b. bright"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803755,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "freezing",
+              "b": "humid",
+              "c": "unpleasant",
+              "d": "friendly"
+            },
+            "question": "The weather in Bangkok is-",
+            "solution": "d. friendly"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803756,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "passenger",
+              "b": "fighter",
+              "c": "commercial",
+              "d": "cargo"
+            },
+            "question": "This is a _____ plane.",
+            "solution": "a. passenger"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803757,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "on",
+              "b": "open",
+              "c": "silent",
+              "d": "off"
+            },
+            "question": "The passengers are requested to keep the electronic devices-",
+            "solution": "d. off"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803758,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "hate",
+              "b": "come round",
+              "c": "greet",
+              "d": "know"
+            },
+            "question": "What does the word 'welcome' mean?",
+            "solution": "c. greet"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803759,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "smokers",
+              "b": "smoke",
+              "c": "smoking",
+              "d": "both i and iii"
+            },
+            "question": "Nobody is allowed to _____ in the plane.",
+            "solution": "b. smoke"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803760,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "approve",
+              "b": "like",
+              "c": "vote",
+              "d": "select"
+            },
+            "question": "The word 'choose' means-",
+            "solution": "d. select"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803761,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "fourth",
+              "b": "first",
+              "c": "third",
+              "d": "second"
+            },
+            "question": "The plane is _____ in line for take-off.",
+            "solution": "c. third"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803762,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "shape",
+              "b": "sight",
+              "c": "appearance",
+              "d": "landscape"
+            },
+            "question": "The word 'view' refers to-",
+            "solution": "b. sight"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803763,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "at present",
+              "b": "previously",
+              "c": "in the past",
+              "d": "next"
+            },
+            "question": "The word 'currently' means-",
+            "solution": "a. at present"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803764,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "passengers",
+              "b": "captain",
+              "c": "crew members",
+              "d": "baggage"
+            },
+            "question": "The announcements are meant for the _____ of the plane.",
+            "solution": "a. passengers"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803765,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "open",
+              "b": "lock",
+              "c": "observe",
+              "d": "untie"
+            },
+            "question": "The passengers are requested to _____ their seatbelts.",
+            "solution": "b. lock"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803766,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "lance",
+              "b": "digestion",
+              "c": "leave off",
+              "d": "disembark"
+            },
+            "question": "The word 'land' refers to-",
+            "solution": "d. disembark"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803767,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "expected",
+              "b": "flown",
+              "c": "speed",
+              "d": "tried"
+            },
+            "question": "The plane is _____ to land in Bangkok ahead of schedule.",
+            "solution": "a. expected"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803768,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "reject",
+              "b": "abandon",
+              "c": "order",
+              "d": "commence"
+            },
+            "question": "The word 'begin' refers to-",
+            "solution": "d. commence"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803769,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "England",
+              "b": "Thailand",
+              "c": "Holland",
+              "d": "Ireland"
+            },
+            "question": "Bangkok is the capital of-",
+            "solution": "b. Thailand"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803770,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "kilogram",
+              "b": "kilometer",
+              "c": "kilomilligram",
+              "d": "kilominute"
+            },
+            "question": "What does 'km' mean in the passage?",
+            "solution": "b. kilometer"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803771,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "run",
+              "b": "look out",
+              "c": "arrive at",
+              "d": "walk"
+            },
+            "question": "The word 'reach' means-",
+            "solution": "c. arrive at"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803772,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "radio",
+              "b": "television",
+              "c": "computer",
+              "d": "amplifier"
+            },
+            "question": "Laptop is one kind of-",
+            "solution": "c. computer"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803773,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "permitted",
+              "b": "allowed",
+              "c": "forbidden",
+              "d": "excusable"
+            },
+            "question": "Smoking in the lavatory is-",
+            "solution": "c. forbidden"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803774,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": {
+              "a": "Element",
+              "b": "Nicotine",
+              "c": "drug",
+              "d": "potassium"
+            },
+            "question": "_____ is found in smoking cigarettes.",
+            "solution": "b. Nicotine"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        },
+        {
+          "id": 803775,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "What are the passengers asked to do?",
+            "solution": "The passengers are asked to fasten their seatbelts."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803776,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "Where is the plane waiting for take-off?",
+            "solution": "The plane is waiting on the runway for take-off."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803777,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "Where would the passengers keep their baggage?",
+            "solution": "The passengers could keep their baggage under their seat or in the overhead compartments."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803778,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "Does the captain thank the passengers? If yes, why does he do so?",
+            "solution": "Yes, the captain does. He thanks the passengers for choosing Bangladesh Biman."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803779,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "What should be kept upright?",
+            "solution": "Seats and table trays should be kept upright."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803780,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "What would the passengers get while descending?",
+            "solution": "While descending, the passengers would get a great view of the city."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803781,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "Is the captain Rashid Akbar expecting to land in Bangkok earlier? If yes, why?",
+            "solution": "Yes, he is. Because the weather is good and with the tailwind on their side they are expecting to land in Bangkok approximately fifteen minutes ahead of schedule."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803782,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "What is the number of the flight?",
+            "solution": "The number of the flight is BG88."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803783,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "Who is speaking?",
+            "solution": "Mr Rashid Akbar, the captain of the plane, is speaking."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        },
+        {
+          "id": 803784,
+          "linked_parent_id": 803748,
+          "value": {
+            "options": [],
+            "question": "How was the weather in Bangkok?",
+            "solution": "The weather in Bangkok was clear and sunny."
+          },
+          "question_type_id": 14,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 14,
+            "name": "Answering Questions"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803785,
+      "value": {
+        "options": [],
+        "question": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are currently third in line for take-off and are expected to be in the air in approximately seven minutes. Please fasten your seat belt and secure all baggage under your seat or in the overhead compartments. Keep your seats and table trays in upright position for take off. Please turn off all personal electronic devices, including laptops and cellphones. This is a non-smoking flight. Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh Biman. Enjoy your flight.\u003Cbr\u003E\nGood afternoon passengers. This is your captain Rashid Akbar speaking. First I'd like to welcome everyone on Flight BG 88. We are currently cruising at an altitude of 10058.40. feet at airspeed of 643.7376 km per hour. The time is 1:25 pm. The weather looks good and with the tailwind on our side we are expecting to land in Bangkok approximately fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny. The temperature is 32 degree Celsius for this afternoon. If the weather is good we should get a great view of the city as we descend. The cabin crew will be coming around in about twenty minute's time to offer you a light snack and drinks. The inflight movie will begin shortly after that. I'll talk to you again before we reach our destination. Until then, sit back, and enjoy the flight.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eভদ্রমহিলা ও ভদ্র মহোদয়গণ, ব্যাংককগামী ফ্লাইট বিজি ৮৮ তে চড়ার জন্য আপনাদেরকে স্বাগতম। আমরা এই মুহূর্তে ওড়ার জন্য তৃতীয় সারিতে আছি এবং প্রায় সাত মিনিটের মধ্যে আকাশে অবস্থান করব বলে আশা করছি। অনুগ্রহ করে আপনাদের সিটবেল্টগুলো বেঁধে নিন এবং মালপত্রগুলো আপনাদের সিটের নিচে কিংবা মাথার ওপরের কামরাগুলোতে সযত্নে রেখে দিন। ওড়ার জন্য আপনার সিটবেল্ট ও টেবিল ট্রে গুলোকে সোজা করে রাখুন। অনুগ্রহ করে ল্যাপটপ, সেলফোনসহ ব্যক্তিগত ইলেক্ট্রনিক যন্ত্রপাতি বন্ধ রাখুন। এটি একটি ধূমপানমুক্ত ফ্লাইট। শৌচাগারে ধূমপান নিষেধ। বাংলাদেশ বিমানকে পছন্দ করার জন্য আপনাকে ধন্যবাদ। আপনাদের ফ্লাইট উপভোগ করুন।\u003Cbr /\u003Eশুভ অপরাহ্ন যাত্রীগণ। ক্যাপ্টেন রশিদ আকবর বলছি। প্রথমে আমি ফ্লাইট বিজি ৮৮ এ অবস্থানরত সবাইকে স্বাগত জানাচ্ছি। আমরা বর্তমানে ঘণ্টায় ৬৪৩.৭৩৭৬ কি. মি. বেগে ১০০৫৮.৪০ ফিট উচ্চতায় উড়ছি। সময় ১টা বেজে পঁচিশ মিনিট। আবহাওয়া ভাল দেখাচ্ছে এবং পেছনের বাতাস আমাদের অনুকূল হওয়ায় আমরা নির্ধারিত সময়ের প্রায় পনের মিনিট আগে ব্যাংকক অবতরণ করব বলে আশা করছি। ব্যাংককের আবহাওয়া পরিষ্কার ও রৌদ্রময়। এই বিকেলে তাপমাত্রা ৩২ ডিগ্রি সেলসিয়াস। আবহাওয়া ভাল থাকলে অবতরণের সময় শহরের একটা চমৎকার দৃশ্য আমরা দেখতে পাব। প্রায় ২০ মিনিট সময়ের মধ্যে কেবিন ক্রু আসছে আপনাদেরকে হালকা নাস্তা ও পানীয় পরিবেশন করার জন্য। এরপর বিমানের ভেতরের ছায়াছবি শুরু হবে। গন্তব্যে পৌঁছার আগে আমি আবারও আপনাদের সাথে কথা বলব। সে পর্যন্ত আরাম করে বসুন ও ফ্লাইট উপভোগ করুন।\u003C/div\u003E"
+      },
+      "question_type_id": 15,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13399,
+      "created_at": "2025-12-22T05:01:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803786,
+          "linked_parent_id": 803785,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003EThis is an announcement from the pilot of Bangladesh Biman Flight BG 88. He is conveying some (a) _____ to the passengers bound for Bangkok. They are going to fly (b) _____ seven minutes. So everybody should fasten their seat (c) _____ and secure their luggages, keep their seats and table trays upright, turn off all electronic devices and not (d)&nbsp;_____ as this is a non-smoking flight. He gives&nbsp;some information, too about the altitude and speed of the plane, weather outside and of Bangkok. He further says that they are (e) _____ to land ahead of schedule.\u003C/div\u003E",
+            "solution": "(a) instructions (b) within (c) belts (d) smoke (e) expecting"
+          },
+          "question_type_id": 16,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 16,
+            "name": "Gap Filling"
+          },
+          "flags": []
+        },
+        {
+          "id": 803787,
+          "linked_parent_id": 803785,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Ecrusing (synonym)\u003C/div\u003E",
+            "solution": "sailing"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803788,
+          "linked_parent_id": 803785,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Edescend (antonym)\u003C/div\u003E",
+            "solution": "ascend"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803789,
+          "linked_parent_id": 803785,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Eschedule (antonym)\u003C/div\u003E",
+            "solution": "plan"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803790,
+          "linked_parent_id": 803785,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Eprohibited (antonym)\u003C/div\u003E",
+            "solution": "allowed"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        },
+        {
+          "id": 803791,
+          "linked_parent_id": 803785,
+          "value": {
+            "options": [],
+            "question": "\u003Cdiv style=\"text-align: justify;\"\u003Eapproximately (antonym)\u003C/div\u003E",
+            "solution": "exactly"
+          },
+          "question_type_id": 17,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:01:19.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 17,
+            "name": "Vocabulary (Synonyms & Antonyms)"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 15,
+        "name": "Seen Passage 2",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803426,
+      "value": {
+        "options": [],
+        "question": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are currently third in line for take-off and are expected to be in the air in approximately seven minutes. Please fasten your seat belt and secure all baggage under your seat or in the overhead compartments. Keep your seats and table trays in upright position for take off. Please turn off all personal electronic devices, including laptops and cellphones. This is a non-smoking flight. Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh Biman. Enjoy your flight.\u003Cbr\u003E\nGood afternoon passengers. This is your captain Rashid Akbar speaking. First I'd like to welcome everyone on Flight BG 88. We are currently cruising at an altitude of 10058.40. feet at airspeed of 643.7376 km per hour. The time is 1:25 pm. The weather looks good and with the tailwind on our side we are expecting to land in Bangkok approximately fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny. The temperature is 32 degree Celsius for this afternoon. If the weather is good we should get a great view of the city as we descend. The cabin crew will be coming around in about twenty minute's time to offer you a light snack and drinks. The inflight movie will begin shortly after that. I'll talk to you again before we reach our destination. Until then, sit back, and enjoy the flight.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eভদ্রমহিলা ও ভদ্র মহোদয়গণ, ব্যাংককগামী ফ্লাইট বিজি ৮৮ তে চড়ার জন্য আপনাদেরকে স্বাগতম। আমরা এই মুহূর্তে ওড়ার জন্য তৃতীয় সারিতে আছি এবং প্রায় সাত মিনিটের মধ্যে আকাশে অবস্থান করব বলে আশা করছি। অনুগ্রহ করে আপনাদের সিটবেল্টগুলো বেঁধে নিন এবং মালপত্রগুলো আপনাদের সিটের নিচে কিংবা মাথার ওপরের কামরাগুলোতে সযত্নে রেখে দিন। ওড়ার জন্য আপনার সিটবেল্ট ও টেবিল ট্রে গুলোকে সোজা করে রাখুন। অনুগ্রহ করে ল্যাপটপ, সেলফোনসহ ব্যক্তিগত ইলেক্ট্রনিক যন্ত্রপাতি বন্ধ রাখুন। এটি একটি ধূমপানমুক্ত ফ্লাইট। শৌচাগারে ধূমপান নিষেধ। বাংলাদেশ বিমানকে পছন্দ করার জন্য আপনাকে ধন্যবাদ। আপনাদের ফ্লাইট উপভোগ করুন।\u003Cbr /\u003Eশুভ অপরাহ্ন যাত্রীগণ। ক্যাপ্টেন রশিদ আকবর বলছি। প্রথমে আমি ফ্লাইট বিজি ৮৮ এ অবস্থানরত সবাইকে স্বাগত জানাচ্ছি। আমরা বর্তমানে ঘণ্টায় ৬৪৩.৭৩৭৬ কি. মি. বেগে ১০০৫৮.৪০ ফিট উচ্চতায় উড়ছি। সময় ১টা বেজে পঁচিশ মিনিট। আবহাওয়া ভাল দেখাচ্ছে এবং পেছনের বাতাস আমাদের অনুকূল হওয়ায় আমরা নির্ধারিত সময়ের প্রায় পনের মিনিট আগে ব্যাংকক অবতরণ করব বলে আশা করছি। ব্যাংককের আবহাওয়া পরিষ্কার ও রৌদ্রময়। এই বিকেলে তাপমাত্রা ৩২ ডিগ্রি সেলসিয়াস। আবহাওয়া ভাল থাকলে অবতরণের সময় শহরের একটা চমৎকার দৃশ্য আমরা দেখতে পাব। প্রায় ২০ মিনিট সময়ের মধ্যে কেবিন ক্রু আসছে আপনাদেরকে হালকা নাস্তা ও পানীয় পরিবেশন করার জন্য। এরপর বিমানের ভেতরের ছায়াছবি শুরু হবে। গন্তব্যে পৌঁছার আগে আমি আবারও আপনাদের সাথে কথা বলব। সে পর্যন্ত আরাম করে বসুন ও ফ্লাইট উপভোগ করুন।\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13399,
+      "created_at": "2025-12-22T05:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803428,
+          "linked_parent_id": 803426,
+          "value": {
+            "options": {
+              "a": "land",
+              "b": "come",
+              "c": "run",
+              "d": "fly"
+            },
+            "question": "What does the word 'take-off' refer to?",
+            "solution": "d. fly"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:00:45.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803386,
+      "value": {
+        "options": [],
+        "question": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are currently third in line for take-off and are expected to be in the air in approximately seven minutes. Please fasten your seat belt and secure all baggage under your seat or in the overhead compartments. Keep your seats and table trays in upright position for take off. Please turn off all personal electronic devices, including laptops and cellphones. This is a non-smoking flight. Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh Biman. Enjoy your flight.\u003Cbr\u003E\nGood afternoon passengers. This is your captain Rashid Akbar speaking. First I'd like to welcome everyone on Flight BG 88. We are currently cruising at an altitude of 10058.40. feet at airspeed of 643.7376 km per hour. The time is 1:25 pm. The weather looks good and with the tailwind on our side we are expecting to land in Bangkok approximately fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny. The temperature is 32 degree Celsius for this afternoon. If the weather is good we should get a great view of the city as we descend. The cabin crew will be coming around in about twenty minute's time to offer you a light snack and drinks. The inflight movie will begin shortly after that. I'll talk to you again before we reach our destination. Until then, sit back, and enjoy the flight.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eভদ্রমহিলা ও ভদ্র মহোদয়গণ, ব্যাংককগামী ফ্লাইট বিজি ৮৮ তে চড়ার জন্য আপনাদেরকে স্বাগতম। আমরা এই মুহূর্তে ওড়ার জন্য তৃতীয় সারিতে আছি এবং প্রায় সাত মিনিটের মধ্যে আকাশে অবস্থান করব বলে আশা করছি। অনুগ্রহ করে আপনাদের সিটবেল্টগুলো বেঁধে নিন এবং মালপত্রগুলো আপনাদের সিটের নিচে কিংবা মাথার ওপরের কামরাগুলোতে সযত্নে রেখে দিন। ওড়ার জন্য আপনার সিটবেল্ট ও টেবিল ট্রে গুলোকে সোজা করে রাখুন। অনুগ্রহ করে ল্যাপটপ, সেলফোনসহ ব্যক্তিগত ইলেক্ট্রনিক যন্ত্রপাতি বন্ধ রাখুন। এটি একটি ধূমপানমুক্ত ফ্লাইট। শৌচাগারে ধূমপান নিষেধ। বাংলাদেশ বিমানকে পছন্দ করার জন্য আপনাকে ধন্যবাদ। আপনাদের ফ্লাইট উপভোগ করুন।\u003Cbr /\u003Eশুভ অপরাহ্ন যাত্রীগণ। ক্যাপ্টেন রশিদ আকবর বলছি। প্রথমে আমি ফ্লাইট বিজি ৮৮ এ অবস্থানরত সবাইকে স্বাগত জানাচ্ছি। আমরা বর্তমানে ঘণ্টায় ৬৪৩.৭৩৭৬ কি. মি. বেগে ১০০৫৮.৪০ ফিট উচ্চতায় উড়ছি। সময় ১টা বেজে পঁচিশ মিনিট। আবহাওয়া ভাল দেখাচ্ছে এবং পেছনের বাতাস আমাদের অনুকূল হওয়ায় আমরা নির্ধারিত সময়ের প্রায় পনের মিনিট আগে ব্যাংকক অবতরণ করব বলে আশা করছি। ব্যাংককের আবহাওয়া পরিষ্কার ও রৌদ্রময়। এই বিকেলে তাপমাত্রা ৩২ ডিগ্রি সেলসিয়াস। আবহাওয়া ভাল থাকলে অবতরণের সময় শহরের একটা চমৎকার দৃশ্য আমরা দেখতে পাব। প্রায় ২০ মিনিট সময়ের মধ্যে কেবিন ক্রু আসছে আপনাদেরকে হালকা নাস্তা ও পানীয় পরিবেশন করার জন্য। এরপর বিমানের ভেতরের ছায়াছবি শুরু হবে। গন্তব্যে পৌঁছার আগে আমি আবারও আপনাদের সাথে কথা বলব। সে পর্যন্ত আরাম করে বসুন ও ফ্লাইট উপভোগ করুন।\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13399,
+      "created_at": "2025-12-22T05:00:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803389,
+          "linked_parent_id": 803386,
+          "value": {
+            "options": {
+              "a": "land",
+              "b": "come",
+              "c": "run",
+              "d": "fly"
+            },
+            "question": "What does the word 'take-off' refer to?",
+            "solution": "d. fly"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T05:00:20.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 803370,
+      "value": {
+        "options": [],
+        "question": "Ladies and gentlemen, welcome on board Flight BG88 to Bangkok. We are currently third in line for take-off and are expected to be in the air in approximately seven minutes. Please fasten your seat belt and secure all baggage under your seat or in the overhead compartments. Keep your seats and table trays in upright position for take off. Please turn off all personal electronic devices, including laptops and cellphones. This is a non-smoking flight. Smoking in the lavatory is prohibited. Thank you for choosing Bangladesh Biman. Enjoy your flight.\u003Cbr\u003E\nGood afternoon passengers. This is your captain Rashid Akbar speaking. First I'd like to welcome everyone on Flight BG 88. We are currently cruising at an altitude of 10058.40. feet at airspeed of 643.7376 km per hour. The time is 1:25 pm. The weather looks good and with the tailwind on our side we are expecting to land in Bangkok approximately fifteen minutes ahead of schedule. The weather in Bangkok is clear and sunny. The temperature is 32 degree Celsius for this afternoon. If the weather is good we should get a great view of the city as we descend. The cabin crew will be coming around in about twenty minute's time to offer you a light snack and drinks. The inflight movie will begin shortly after that. I'll talk to you again before we reach our destination. Until then, sit back, and enjoy the flight.",
+        "solution": "\u003Cdiv style=\"text-align: justify;\"\u003Eভদ্রমহিলা ও ভদ্র মহোদয়গণ, ব্যাংককগামী ফ্লাইট বিজি ৮৮ তে চড়ার জন্য আপনাদেরকে স্বাগতম। আমরা এই মুহূর্তে ওড়ার জন্য তৃতীয় সারিতে আছি এবং প্রায় সাত মিনিটের মধ্যে আকাশে অবস্থান করব বলে আশা করছি। অনুগ্রহ করে আপনাদের সিটবেল্টগুলো বেঁধে নিন এবং মালপত্রগুলো আপনাদের সিটের নিচে কিংবা মাথার ওপরের কামরাগুলোতে সযত্নে রেখে দিন। ওড়ার জন্য আপনার সিটবেল্ট ও টেবিল ট্রে গুলোকে সোজা করে রাখুন। অনুগ্রহ করে ল্যাপটপ, সেলফোনসহ ব্যক্তিগত ইলেক্ট্রনিক যন্ত্রপাতি বন্ধ রাখুন। এটি একটি ধূমপানমুক্ত ফ্লাইট। শৌচাগারে ধূমপান নিষেধ। বাংলাদেশ বিমানকে পছন্দ করার জন্য আপনাকে ধন্যবাদ। আপনাদের ফ্লাইট উপভোগ করুন।\u003Cbr /\u003Eশুভ অপরাহ্ন যাত্রীগণ। ক্যাপ্টেন রশিদ আকবর বলছি। প্রথমে আমি ফ্লাইট বিজি ৮৮ এ অবস্থানরত সবাইকে স্বাগত জানাচ্ছি। আমরা বর্তমানে ঘণ্টায় ৬৪৩.৭৩৭৬ কি. মি. বেগে ১০০৫৮.৪০ ফিট উচ্চতায় উড়ছি। সময় ১টা বেজে পঁচিশ মিনিট। আবহাওয়া ভাল দেখাচ্ছে এবং পেছনের বাতাস আমাদের অনুকূল হওয়ায় আমরা নির্ধারিত সময়ের প্রায় পনের মিনিট আগে ব্যাংকক অবতরণ করব বলে আশা করছি। ব্যাংককের আবহাওয়া পরিষ্কার ও রৌদ্রময়। এই বিকেলে তাপমাত্রা ৩২ ডিগ্রি সেলসিয়াস। আবহাওয়া ভাল থাকলে অবতরণের সময় শহরের একটা চমৎকার দৃশ্য আমরা দেখতে পাব। প্রায় ২০ মিনিট সময়ের মধ্যে কেবিন ক্রু আসছে আপনাদেরকে হালকা নাস্তা ও পানীয় পরিবেশন করার জন্য। এরপর বিমানের ভেতরের ছায়াছবি শুরু হবে। গন্তব্যে পৌঁছার আগে আমি আবারও আপনাদের সাথে কথা বলব। সে পর্যন্ত আরাম করে বসুন ও ফ্লাইট উপভোগ করুন।\u003C/div\u003E"
+      },
+      "question_type_id": 13,
+      "book_id": 314,
+      "book_grade_id": 2,
+      "content_chunk_id": 13399,
+      "created_at": "2025-12-22T04:58:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [
+        {
+          "id": 803371,
+          "linked_parent_id": 803370,
+          "value": {
+            "options": {
+              "a": "land",
+              "b": "come",
+              "c": "run",
+              "d": "fly"
+            },
+            "question": "What does the word 'take-off' refer to?",
+            "solution": "d. fly"
+          },
+          "question_type_id": 2,
+          "book_id": 314,
+          "book_grade_id": 2,
+          "content_chunk_id": 13399,
+          "created_at": "2025-12-22T04:58:41.000000Z",
+          "model_class": "App\\Models\\QuestionBank",
+          "question_type": {
+            "id": 2,
+            "name": "MCQ"
+          },
+          "flags": []
+        }
+      ],
+      "years": [],
+      "question_type": {
+        "id": 13,
+        "name": "Seen Passage 1",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 314,
+        "title": "English 1st Paper",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13399&grade=2&lesson=15619&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13399&grade=2&lesson=15619&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13399&grade=2&lesson=15619&question_paper_id=47490&subject=314&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

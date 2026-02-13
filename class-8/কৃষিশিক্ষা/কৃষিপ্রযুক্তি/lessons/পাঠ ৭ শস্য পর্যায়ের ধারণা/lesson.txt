@@ -1,0 +1,673 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 769414,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1741684249635_1764579646_l1wMra0s.webp\"\u003Eবিভিন্ন ফসলের শস্য পর্যায়ের সুবিধা হলো-\u003Cbr\u003E\ni. ফসলের ফলন বাড়ে\u003Cbr\u003E\nii. পানির অপচয় কম\u003Cbr\u003E\niii. সব ধরনের রোগ ভালো হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769414,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 769414,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769414,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769414,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769403,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শস্য পর্যায় প্রযুক্তির সুবিধা-\u003Cbr\u003E\ni. রোগ ও পোকার উপদ্রব কম হয়\u003Cbr\u003E\nii. ফসলের ফলন বাড়ে\u003Cbr\u003E\niii. আগাছার উপদ্রব কম হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3936,
+          "full_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "short_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "slug": "kzantnment-pablik-skul-oo-klej-rngpur",
+          "pivot": {
+            "question_bank_id": 769403,
+            "tag_id": 3936,
+            "year": null,
+            "created_at": "2025-12-01T09:00:45.000000Z",
+            "updated_at": "2025-12-01T09:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769403,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769403,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769404,
+      "value": {
+        "options": {
+          "ক": "কম ব্যয়",
+          "খ": "কম সময়",
+          "গ": "শস্য পর্যায়",
+          "ঘ": "শস্য খামার"
+        },
+        "question": "শস্য ঋতুর বিভিন্ন সময় বিভিন্ন ফসল উৎপাদন করাকে কী বলে?",
+        "solution": "গ. শস্য পর্যায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769404,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769405,
+      "value": {
+        "options": {
+          "ক": "বাংলাদেশে",
+          "খ": "ভারতে",
+          "গ": "পাকিস্তানে",
+          "ঘ": "বিশ্বের সব দেশে"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1741684249635_1764579645_smoMXn4b.webp\"\u003Eশস্য পর্যায় প্রচলন রয়েছে-",
+        "solution": "ঘ. বিশ্বের সব দেশে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769405,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 769405,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769405,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769406,
+      "value": {
+        "options": {
+          "ক": "উন্নত কৃষি",
+          "খ": "উন্নত ধান",
+          "গ": "উন্নত কৃষি প্রযুক্তি",
+          "ঘ": "চাষ"
+        },
+        "question": "শস্য পর্যায় কী?",
+        "solution": "গ. উন্নত কৃষি প্রযুক্তি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769406,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769407,
+      "value": {
+        "options": {
+          "ক": "হাইড্রোজেন",
+          "খ": "নাইট্রোজেন",
+          "গ": "কীটপতঙ্গ",
+          "ঘ": "অক্সিজেন"
+        },
+        "question": "শস্য পর্যায়ের ফলে মাটিতে কী যুক্ত হয়?",
+        "solution": "খ. নাইট্রোজেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769407,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769408,
+      "value": {
+        "options": {
+          "ক": "গবাদি পশুর খাবার ব্যবস্থা",
+          "খ": "সার কম লাগে",
+          "গ": "গবাদি পশুর খাবার ব্যবস্থা হয় না",
+          "ঘ": "সময় বেশি লাগে"
+        },
+        "question": "শস্য পর্যায় প্রযুক্তির সুবিধা কোনটি?",
+        "solution": "ক. গবাদি পশুর খাবার ব্যবস্থা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769408,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769409,
+      "value": {
+        "options": {
+          "ক": "শস্য পর্যায়ে ফসল কমাবে",
+          "খ": "সাধারণভাবে জমি চাষ করবে",
+          "গ": "শস্য পর্যায়ে ফসল ফলাবে",
+          "ঘ": "জটিলভাবে জমি চাষ করবে"
+        },
+        "question": "কীটনাশকের ব্যবহার কমানোর জন্য কোন পদ্ধতিতে উৎপাদন করতে হবে?",
+        "solution": "গ. শস্য পর্যায়ে ফসল ফলাবে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769409,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769410,
+      "value": {
+        "options": {
+          "ক": "পানির অপচয় বেশি",
+          "খ": "ফসলের ফলন বাড়ে",
+          "গ": "পোকার উপদ্রব বেশি",
+          "ঘ": "ফসলের ফলন কমে"
+        },
+        "question": "শস্য পর্যায়ের সুবিধা কী?",
+        "solution": "খ. ফসলের ফলন বাড়ে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769410,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769411,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শস্য পর্যায়ের সুবিধা-\u003Cbr\u003E\ni. রোগ বালাই কম হয়\u003Cbr\u003E\nii. রাসায়নিক সার কম লাগে\u003Cbr\u003E\niii. পানির অপচয় কম\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769411,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769411,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769412,
+      "value": {
+        "options": {
+          "ক": "আগাছা থেকে",
+          "খ": "ইউরিয়া সার থেকে",
+          "গ": "ধৈঞ্চা চাষে",
+          "ঘ": "আগাছা থেকে"
+        },
+        "question": "নিচের কোনটি থেকে সবুজ সার হয়?",
+        "solution": "গ. ধৈঞ্চা চাষে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769412,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769413,
+      "value": {
+        "options": {
+          "ক": "৩ বা ৪",
+          "খ": "৩ বা ৫",
+          "গ": "৩ বা ৬",
+          "ঘ": "৪ বা ৫"
+        },
+        "question": "শস্য পর্যায় প্রযুক্তি ব্যবহারের জন্য জমিকে কয় খন্ডে ভাগ করা হয়?",
+        "solution": "গ. ৩ বা ৬",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769413,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14399&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14399&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14399&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

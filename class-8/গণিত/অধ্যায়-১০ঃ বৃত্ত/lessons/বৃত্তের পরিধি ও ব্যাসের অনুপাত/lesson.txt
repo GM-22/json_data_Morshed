@@ -1,0 +1,996 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 802924,
+      "value": {
+        "options": {
+          "ক": "2&pi;d",
+          "খ": "[math]\\frac{\\text{&pi;d}}{\\text{2}}[/math]",
+          "গ": "&pi;r",
+          "ঘ": "&pi;d"
+        },
+        "question": "\u003Cdiv\u003Eবৃত্তের ব্যাসাধ r এবং ব্যাস d হলে নিচের কোনটি দ্বারা পরিধি বুঝায়?\u003C/div\u003E",
+        "solution": "ঘ. &pi;d",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802924,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802933,
+      "value": {
+        "options": {
+          "ক": "45.12",
+          "খ": "41.13",
+          "গ": "63.15",
+          "ঘ": "73.12"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1759246423189_1765897095_BbCdSVxY.webp\"\u003Eউপরের&nbsp;চিত্রের ক্ষেত্রটির পরিসীমা কত সে.মি.?\u003C/div\u003E",
+        "solution": "চিত্রে ABCD একটি বর্গক্ষেত্র এবং ABE ও DFC অর্ধবৃত্ত।\u003Cbr /\u003Eঅর্ধবৃত্তের ব্যাসার্ধ [math]=(8 \\div 2)[/math] সে.মি. [math]=4[/math] সে.মি.[math]\\therefore \\mathrm{ABCD}[/math] এর অর্ধপরিসীমা + চাপ ABE এর দৈর্ঘ্য + চাপ DFC র[math]\u003Cbr /\u003E\\text { দৈর্ঘ্য } =\\left(2 \\times 8+\\frac{1}{2} \\times 2 \\times \\pi \\times 4\\\\+\\frac{1}{2} \\times 2 \\times \\pi \\times 4\\right) \\text { সে.মি. } \\\\\u003Cbr /\u003E=(16+4 \\pi+4 \\pi) \\text { সে.মি. }=41.13 \\text { সে.মি. (প্রায়) }\u003Cbr /\u003E[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802933,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 802933,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802933,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 802932,
+      "value": {
+        "options": {
+          "ক": "20.13",
+          "খ": "21.13",
+          "গ": "22.13",
+          "ঘ": "25.12"
+        },
+        "question": "\u003Cdiv\u003Eএকটি খেলনা গাড়ির চাকার ব্যাসার্ধ 4 সে.মি. (π = 3.14)\u003Cbr\u003E\nগাড়ির চাকাটি 1 বার ঘুরলে কত সে.মি. দূরত্ব অতিক্রম করবে?\u003C/div\u003E",
+        "solution": "গাড়ির চাকাটি 1 বার ঘুরলে তার পরিধির সমান দূরত্ব অতিক্রম করবে।[math]\\therefore[/math]নির্ণেয় অতিক্রান্ত দূরত্ব = 25.12 সে.মি.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802932,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802932,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802932,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802931,
+      "value": {
+        "options": {
+          "ক": "8",
+          "খ": "2",
+          "গ": "8&pi;",
+          "ঘ": "16&pi;"
+        },
+        "question": "\u003Cdiv\u003Eএকটি খেলনা গাড়ির চাকার ব্যাসার্ধ 4 সে.মি. (π = 3.14)\u003Cbr\u003E\nগাড়ির চাকার ব্যাস কত সে.মি.?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802931,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802931,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802931,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802930,
+      "value": {
+        "options": {
+          "ক": "20000",
+          "খ": "2000",
+          "গ": "200",
+          "ঘ": "2"
+        },
+        "question": "\u003Cdiv\u003Eএকটি সাইকেলের চাকার পরিধি 3.5 মিটার। 7 কিলোমিটার পথ যেতে চাকাটি কতবার ঘুরবে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3793,
+          "full_name": "কু. বো.'২০১৬",
+          "short_name": "কু. বো.'২০১৬",
+          "slug": "ku-bo2016",
+          "pivot": {
+            "question_bank_id": 802930,
+            "tag_id": 3793,
+            "year": null,
+            "created_at": "2025-12-16T14:58:15.000000Z",
+            "updated_at": "2025-12-16T14:58:15.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802930,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802930,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802929,
+      "value": {
+        "options": {
+          "ক": "59.69 সে.মি.",
+          "খ": "76 সে.মি.",
+          "গ": "119.38 সে.মি.",
+          "ঘ": "238.76 সে.মি."
+        },
+        "question": "\u003Cdiv\u003Eকোন গাড়ির চাকার ব্যাস 38 সে.মি. হলে দুই বার ঘুরে চাকাটি কত সে.মি. (প্রায়) দূরত্ব অতিক্রম করবে?\u003C/div\u003E",
+        "solution": "[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\text { বৃত্তের পরিধি } &amp; =2 \\mathrm{r} \\times \\pi=(38 \\times 3.1416) \\text { সে.মি. } \\\\\u003Cbr /\u003E&amp; =119.3808 \\text { সে.মি. }\u003Cbr /\u003E\\end{aligned}[/math]\u003Cbr /\u003Eচাকাটি [math]1[/math] বারে অতিক্রম করে [math]= 119.3808[/math] সে.মি.[math]\\therefore[/math] চাকাটি [math]2[/math] বারে অতিক্রম করে [math]=(119.3808 \\times 2)[/math] সে.মি.\u003Cbr /\u003E                     [math]= 238.76[/math] সে.মি. (প্রায়)",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802929,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 802929,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802928,
+      "value": {
+        "options": {
+          "ক": "4.1416",
+          "খ": "3.1416",
+          "গ": "3.1410",
+          "ঘ": "2.1416"
+        },
+        "question": "\u003Cdiv\u003E0.5 একক ব্যাসার্ধবিশিষ্ট বৃত্তের বৃহত্তম চাপের দৈর্ঘ্য কত একক?\u003C/div\u003E",
+        "solution": "বৃত্তের বৃহত্তম চাপ হলো বৃত্তের পরিধি।[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\therefore \\text { বৃত্তের পরিধি } &amp; =2 \\pi \\mathrm{r}=2 \\times 3.1416 \\times 0.5 \\text { একক } \\\\\u003Cbr /\u003E&amp; =3.1416 \\text { একক }\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802928,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802928,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802927,
+      "value": {
+        "options": {
+          "ক": "0.82 মিটার",
+          "খ": "0.96 মিটার",
+          "গ": "1.28 মিটার",
+          "ঘ": "1.64 মিটার"
+        },
+        "question": "\u003Cdiv\u003Eএকটি গাড়ির চাকার পরিধি 5.15 মিটার হলে, চাকাটির ব্যাস কত?\u003C/div\u003E",
+        "solution": "পরিধি [math]=\\pi \\mathrm{d}[/math] বা, [math]5: 15=3.1416 \\times \\mathrm{d} \\quad \\therefore \\mathrm{d}=\\frac{5.15}{3.1416}=1.64[/math]",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 802927,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-16T14:58:15.000000Z",
+            "updated_at": "2025-12-16T14:58:15.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802927,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802927,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802926,
+      "value": {
+        "options": {
+          "ক": "44",
+          "খ": "46",
+          "গ": "88",
+          "ঘ": "92"
+        },
+        "question": "\u003Cdiv\u003Eএকটি গাড়ির চাকার ব্যাসার্ধ 14 সে.মি.\u003Cbr\u003E\nচাকাটি একবার ঘুরলে কত সে.মি. পথ অতিক্রম করবে?\u003C/div\u003E",
+        "solution": "গ. 88",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802926,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802926,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802925,
+      "value": {
+        "options": {
+          "ক": "13.14 সে.মি.",
+          "খ": "15.7 সে.মি.",
+          "গ": "31.4 সে.মি.",
+          "ঘ": "62.8 সে.মি."
+        },
+        "question": "\u003Cdiv\u003Eএকটি বৃত্তের ব্যাস 10 সে.মি., বৃত্তটির পরিধি কত?\u003C/div\u003E",
+        "solution": "ক. 13.14 সে.মি.",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802923,
+      "value": {
+        "options": {
+          "ক": "22",
+          "খ": "44",
+          "গ": "64",
+          "ঘ": "88"
+        },
+        "question": "\u003Cdiv\u003Eএকটি গাড়ির চাকার ব্যাসার্ধ 14 সে.মি.\u003Cbr\u003E\nচাকাটির পরিধি কত সে.মি.?\u003C/div\u003E",
+        "solution": "ঘ. 88",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802923,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802923,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802922,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eএকটি বৃত্তের ব্যাস 34 সে.মি. হলে (π = 3.14) এর&nbsp;\u003Cbr\u003E\ni. ব্যাসার্ধ 17 সে.মি.&nbsp;\u003Cbr\u003E\nii. ব্যাসাধ 68 সে.মি.&nbsp;\u003Cbr\u003E\niii. পরিধি 106.76 সে.মি.\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802922,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802922,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802921,
+      "value": {
+        "options": {
+          "ক": "20",
+          "খ": "22",
+          "গ": "28",
+          "ঘ": "36"
+        },
+        "question": "\u003Cdiv\u003Eএকটি গাড়ির চাকার ব্যাসার্ধ 14 সে.মি.\u003Cbr\u003E\nচাকাটির ব্যাস কত সে.মি.?\u003C/div\u003E",
+        "solution": "গ. 28",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802921,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802921,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802920,
+      "value": {
+        "options": {
+          "ক": "62.8",
+          "খ": "61.8",
+          "গ": "60.88",
+          "ঘ": "60.8"
+        },
+        "question": "\u003Cdiv\u003E10 সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের পরিধি কত সে.মি.\u003C/div\u003E",
+        "solution": "বৃত্তের পরিধি = 2&pi;r = 2 &times; 3.14 &times; 10 = 62.8",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:15.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802920,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802915,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819d086922c0a616b3f4b58\"\u003Eএকটি বৃত্তের পরিধি ও ব্যাসের অনুপাত কত?\u003C/div\u003E",
+        "solution": "ধরি, বৃত্তের ব্যাসার্ধ [math] = r[math]\\therefore \\quad[/math] বৃত্তের ব্যাস [math]=2 r[/math] এবং পরিধি [math]=2 \\pi r[/math]\\therefore[/math] পরিধি : ব্যাস [math]=2 \\pi r: 2 r=\\frac{2 \\pi r}{2 r}=\\pi[/math][math]\\therefore[/math] বৃত্তের পরিধি ও ব্যাসের অনুপাত [math]\\pi[/math] ।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802919,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819d158922c0a616b3f4f44\"\u003Eএকটি চাকার ব্যাস 35 সে.মি. হলে, দুইবার ঘুরে চাকাটি কত সে.মি. দূরত্ব অতিক্রম করবে?\u003C/div\u003E",
+        "solution": "দেওয়া আছে, চাকার ব্যাস, 2r = 35 সে.মি.[math]\\therefore[/math]চাকার পরিধি = 2&pi;r = 2 &times; &pi;\u003Cbr /\u003E          = 35&times; 3.14 সে.মি.\u003Cbr /\u003E          = 109.9 সে.মি.\u003Cbr /\u003E  চাকাটি 1 বার ঘুরে অতিক্রম করে 109.9 সে.মি.[math]\\therefore[/math]চাকাটি2বার ঘুরে অতিক্রম করে(109.9 &times; 2) সে.মি.\u003Cbr /\u003E                      = 219.8 সে.মি. (প্রায়)\u003Cbr /\u003Eনির্ণেয় দূরত্ব 219.8 সে.মি. (প্রায়)।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802918,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819d0d8922c0a616b3f4c23\"\u003E13 সে.মি. ব্যাসবিশিষ্ট বৃত্তের পরিধি কত?\u003C/div\u003E",
+        "solution": "দেওয়া আছে, বৃত্তের ব্যাস, [math]d = 13[/math] সে.মি.[math]\\therefore[/math] বৃত্তের ব্যাসার্ধ, [math]r=\\frac{d}{2}=\\frac{13}{2}=6.5[/math] সে.মি.[math]\\therefore[/math] বৃত্তের পরিধি [math]=2 \\pi r[/math]\u003Cbr /\u003E          [math]\u003Cbr /\u003E=2 \\times 3.14 \\times 6.5 \\text { সে.মি. }=40.82 \\text { সে.মি. }[/math]\u003Cbr /\u003Eনির্ণেয় বৃত্তের পরিধি [math]40.82[/math] সে.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802917,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819d270922c0a616b3f52c1\"\u003Eএকটি গাড়ির চাকার ব্যাস 38 সে.মি. হলে, 119.3808 মিটার দূরত্ব অতিক্রম করতে চাকাটি কতবার ঘুরবে?\u003C/div\u003E",
+        "solution": "দেওয়া আছে, চাকার ব্যাস, [math]2r = 38[/math] সে.মি.[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\therefore \\text { চাকার পরিধি } &amp; =2 \\pi r=2 r \\times \\pi \\\\\u003Cbr /\u003E&amp; =38 \\times 3.1416 \\text { সে.মি. }\\\\&amp;=119.3808 \\text { সে.মি. }\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eএখানে, [math]119.3808[/math] সে.মি. [math]=119.3808 \\times 100[/math] সে.মি.[math]\\therefore[/math] চাকাটি ঘুরবে [math]=\\frac{119.3808 \\times 100}{119.3808}[/math] বার [math]=100[/math] বার[math]\\therefore[/math] চাকাটি [math]100[/math] বার ঘুরবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802916,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819d1e1922c0a616b3f50df\"\u003Eএকটি গাড়ির চাকার পরিধি 45 সে.মি. হলে, এর ব্যাসার্ধ নির্ণয় কর।\u003C/div\u003E",
+        "solution": "ধরি, চাকার ব&zwj;্যাসার্ধ [math] = r[/math] সে.মি.[math]\\therefore \\quad[/math] চাকার পরিধি [math]=2 \\pi \\mathrm{r}[/math] সে.মি.\u003Cbr /\u003Eপ্রশ্নমতে, [math]2 \\pi \\mathrm{r}=45[/math]\u003Cbr /\u003Eবा, [math]r=\\frac{45}{2 \\pi}=\\frac{45}{2 \\times 3.14}=7.17[/math] সে.মি. (প্রায়)\u003Cbr /\u003Eনির্ণেয় চাকাটির ব্যাসার্ধ [math] 7.17[/math] সে.মি. (প্রায়)।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7914,
+      "created_at": "2025-12-16T14:58:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7914&grade=2&lesson=15595&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7914&grade=2&lesson=15595&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7914&grade=2&lesson=15595&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 19,
+  "total": 19
+}

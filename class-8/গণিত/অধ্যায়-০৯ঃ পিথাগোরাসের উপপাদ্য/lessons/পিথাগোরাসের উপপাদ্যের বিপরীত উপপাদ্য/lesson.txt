@@ -1,0 +1,847 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 802741,
+      "value": {
+        "options": {
+          "ক": "[math]80^{\\circ}[/math]",
+          "খ": "[math]85^{\\circ}[/math]",
+          "গ": "[math]90^{\\circ}[/math]",
+          "ঘ": "[math]120^{\\circ}[/math]"
+        },
+        "question": "\u003Cdiv\u003Eএকটি ত্রিভুজের বাহুগুলোর অনুপাত [math]\\mathrm{x}: \\mathrm{x}: \\mathrm{x} \\sqrt{2}[/math] হলে, এর বৃহত্তম কোণটির মান কত?\u003C/div\u003E",
+        "solution": "[math]x^2+x^2=2 x^2=(x \\sqrt{2})^2[/math]\u003Cbr /\u003Eঅতএব, ত্রিভুজটি সমকোণী।[math]\\therefore[/math] বৃহত্তম কোণের মান [math]90^{\\circ}[/math] ।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 802741,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-16T14:53:34.000000Z",
+            "updated_at": "2025-12-16T14:53:34.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802741,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802741,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802740,
+      "value": {
+        "options": {
+          "ক": "[math]80^{\\circ}[/math]",
+          "খ": "[math]90^{\\circ}[/math]",
+          "গ": "[math]100^{\\circ}[/math]",
+          "ঘ": "[math]120^{\\circ}[/math]"
+        },
+        "question": "\u003Cdiv\u003Eএকটি ত্রিভুজের বাহুগুলোর অনুপাত [math]1: 1: \\sqrt{2}[/math] হলে এর বৃহত্তম কোণটির মান কত?\u003C/div\u003E",
+        "solution": "ত্রিভুজের বাহুগুলোর অনুপাত [math]=1: 1: \\sqrt{2}[/math]\u003Cbr /\u003Eপিথাগোরাসের উপপাদ্য অনুসারে, [math]1^2+1^2=(\\sqrt{2})^2[/math][math]\\therefore[/math] এটি একটি সমকোণী ত্রিভুজ যার বৃহত্তম কোণটির মান [math]90^{\\circ}[/math] ।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802740,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802740,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802739,
+      "value": {
+        "options": {
+          "ক": "তিন বাহু সমান",
+          "খ": "তিনটি কোণ সমান",
+          "গ": "দুই বাহু ও অন্তর্ভুক্ত কোণ সমান",
+          "ঘ": "দুই কোণ ও সংলগ্ন বাহু সমান"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745587664835_1765896814_yw83TT9o.webp\"\u003Eচিত্রে BC = EF এবং AB = DE এবং ∠E = 90°।\u003Cbr\u003E\nকোন শর্তে ত্রিভুজ দুইটি সর্বসম হবে?\u003C/div\u003E",
+        "solution": "গ. দুই বাহু ও অন্তর্ভুক্ত কোণ সমান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802739,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802739,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802738,
+      "value": {
+        "options": {
+          "ক": "60&deg;",
+          "খ": "70&deg;",
+          "গ": "80&deg;",
+          "ঘ": "90&deg;"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745587404920_1765896814_kMbAxlYv.webp\"\u003Eচিত্রে ∆ABC-এ AB = 15 সেমি, BC = 12 সেমি এবং AC = 9 সেমি হলে, ∠ACB = কত?\u003C/div\u003E",
+        "solution": "ঘ. 90&deg;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802738,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802738,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 802737,
+      "value": {
+        "options": {
+          "ক": "45&deg;",
+          "খ": "60&deg;",
+          "গ": "90&deg;",
+          "ঘ": "180&deg;"
+        },
+        "question": "\u003Cdiv\u003E[math]\\Delta \\mathrm{ABC}[/math]-এর [math]\\mathrm{AB}^2=\\mathrm{AC}^2+\\mathrm{BC}^2[/math]&nbsp; হলে [math]\\angle \\mathrm{A}[/math] এর পরিমাণ নিচের&nbsp;কোনটি?\u003C/div\u003E",
+        "solution": "গ. 90&deg;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802737,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802736,
+      "value": {
+        "options": {
+          "ক": "&ang;A",
+          "খ": "&ang;D",
+          "গ": "&ang;E",
+          "ঘ": "&ang;F"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745587664835_1765896814_O78V3cSk.webp\"\u003Eচিত্রে BC = EF এবং AB = DE এবং ∠E = 90°।\u003Cbr\u003E\nAC² = AB² + BC² হলে ∠B = কোনটি?\u003C/div\u003E",
+        "solution": "গ. &ang;E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802736,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802736,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802735,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003E[math]\\triangle \\mathrm{ABC}[/math] ও [math]\\triangle \\mathrm{DEF}[/math]-এ\u003Cbr\u003E\ni. [math]\\angle \\mathrm{B}=\\angle \\mathrm{E}=90^{\\circ}[/math] হলে ত্রিভুজ দুইটি সমকোণী\u003Cbr\u003E\nii. [math]\\mathrm{AB}=\\mathrm{DE}, \\mathrm{AC}=\\mathrm{FD}[/math] এবং [math]\\angle \\mathrm{B}=90^{\\circ}[/math] ও [math]\\angle \\mathrm{E}=90^{\\circ}[/math] হলে ত্রিভুজদ্বয় পিথাগোরাসের সূত্রকে সমর্থন করে\u003Cbr\u003E\niii. [math]\\mathrm{AB}=\\mathrm{DE}=5[/math] সেমি, [math]\\mathrm{DF}=\\mathrm{AC}=13[/math] সেমি এবং [math]\\mathrm{BC}=[/math] [math]\\mathrm{EF}=12[/math] সেমি হলে এটি [math]\\mathrm{BC}^2=\\mathrm{DF}^2-\\mathrm{AB}^2[/math] সূত্রকে মেনে চলে\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "গ. i ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 24,
+          "name": "কঠিন",
+          "pivot": {
+            "question_bank_id": 802735,
+            "question_bank_label_id": 24
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802735,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802734,
+      "value": {
+        "options": {
+          "ক": "50&deg;",
+          "খ": "65&deg;",
+          "গ": "70&deg;",
+          "ঘ": "80&deg;"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745590685928_1765896814_EihMestW.webp\"\u003E∠ABD এর মান কত ডিগ্রি?\u003C/div\u003E",
+        "solution": "খ. 65&deg;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:34.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802734,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802734,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802733,
+      "value": {
+        "options": {
+          "ক": "3 সে.মি.",
+          "খ": "4 সে.মি.",
+          "গ": "6 সে.মি.",
+          "ঘ": "8 সে.মি"
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745590685928_1765896813_397rDujB.webp\"\u003EBC এর দৈর্ঘ্য কত?\u003C/div\u003E",
+        "solution": "খ. 4 সে.মি.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802733,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802733,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802732,
+      "value": {
+        "options": {
+          "ক": "6 কা সে.মি.",
+          "খ": "8 কর্গ সে.মি",
+          "গ": "10 বর্গ সে.মি.",
+          "ঘ": "12 বর্গ সে.মি."
+        },
+        "question": "\u003Cdiv\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1745587664835_1765896813_e7EjY2dE.webp\"\u003Eচিত্রে BC = EF এবং AB = DE এবং ∠E = 90°।\u003Cbr\u003E\n∠B = 90°, AC = 5 সে.মি. BC = 3 সে.মি. হলে ত্রিভুজ দুইটি ক্ষেত্রফলের সমষ্টি কত?\u003C/div\u003E",
+        "solution": "ঘ. 12 বর্গ সে.মি.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802732,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802732,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802731,
+      "value": {
+        "options": {
+          "ক": "সূক্ষ্মকোণী",
+          "খ": "সমকোণী",
+          "গ": "স্থূলকোণী",
+          "ঘ": "সমদ্বিবাহু সমকোণী"
+        },
+        "question": "\u003Cdiv\u003Eযদি কোনো ত্রিভুজের একটি বাহুর উপর অঙ্কিত বর্গক্ষেত্র অপর দুই বাহুর উপর অঙ্কিত বর্গক্ষেত্রের সমান হয়, তাহলে ত্রিভুজটি কেমন হবে?\u003C/div\u003E",
+        "solution": "খ. সমকোণী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802731,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802725,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819aaef922c0a616b3ebd61\"\u003Eপিথাগোরাসের বিপরীত উপপাদ্যটি বিবৃত কর।\u003C/div\u003E",
+        "solution": "\u003Cstrong\u003Eপিথাগোরাসের বিপরীত উপপাদ্য: \u003C/strong\u003Eযদি কোনো ত্রিভুজের একটি বাহুর উপর অঙ্কিত বর্গক্ষেত্র অপর দুই বাহুর উপর অঙ্কিত বর্গক্ষেত্রদ্বয়ের সমষ্টির সমান হয়, তবে শেষোক্ত বাহুদ্বয়ের অন্তর্ভুক্ত কোণটি সমকোণ হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802730,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819ad93922c0a616b3ec892\"\u003EXYZ ত্রিভুজের XY = 12 সে.মি., YZ = 5 সে.মি. এবং ZX = 13 সে.মি. হলে ∠Y এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে, [math]\\mathrm X\\mathrm Y^2=12^2=144[/math] বর্গ সে.মি.[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\mathrm{YZ}^2 &amp; =5^2=25 \\text { বর্গ সে.মি. } \\\\\u003Cbr /\u003E\\mathrm{ZX}^2 &amp; =13^2=169 \\text { বর্গ সে.মি. } \\\\\u003Cbr /\u003E\\therefore \\mathrm{XY}^2+ &amp; \\mathrm{YZ}^2=144+25=169=\\mathrm{ZX}^2\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eযেহেতু একটি বাহুর উপর অঙ্কিত বর্গক্ষেত্র অপর দুই বাহুর উপর অঙ্কিত বর্গক্ষেত্রের সমষ্টি সমান। সেহেতু XYZ একটি সমকোণী ত্রিভুজ যার অতিভুজ ZX.\u003Cbr /\u003EZX অতিভুজের বিপরীত কোণ [math]\\angle \\mathrm{Y}[/math] যা সমকোণ[math]\u003Cbr /\u003E\\therefore \\angle \\mathrm{Y}=90^{\\circ}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802729,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819ae22922c0a616b3eca90\"\u003Eযদি&nbsp;ABC ত্রিভুজের [math]\\mathrm{A B}=\\mathrm{B C}=2[/math] সে.মি. এবং [math]\\mathrm{A C}=2[/math] [math]\\sqrt{2}[/math] সে.মি. হয়, তবে [math]\\angle \\mathrm A[/math] এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে, [math]\\mathrm{AB}^2=\\mathrm{BC}^2=2^2=4[/math] বর্গ সে.মি.[math]\\therefore \\mathrm{AB}^2+\\mathrm{BC}^2=4+4=8[/math] বর্গ সে. মি.\u003Cbr /\u003Eএবং [math]\\mathrm{AC}^2=(2 \\sqrt{2})^2=8[/math] বর্গ সে.মি.\u003Cbr /\u003Eযেহেতু [math]\\mathrm{AB}^2+\\mathrm{BC}^2=\\mathrm{AC}^2[/math], সেহেতু ABC একটি সমকোণী সমদ্বিবাহু ত্রিভুজ যার অতিভুজ AC ।\u003Cbr /\u003Eঅতিভুজ AC এর বিপরীত কোণ [math]\\angle \\mathrm{B}=90^{\\circ}[/math]\u003Cbr /\u003Eসমকোণী সমদ্বিবাহু ত্রিভুজের অপর দুটির প্রত্যেকটি [math]45^{\\circ}[/math][math]\u003Cbr /\u003E\\therefore \\quad \\angle A=45^{\\circ}\u003Cbr /\u003E[/math]",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802728,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819acab922c0a616b3ec505\"\u003Eএকটি ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য 3 সে.মি., 4 সে.মি. এবং 5 সে.মি. হলে, বাহুগুলো দ্বারা সমকোণী ত্রিভুজ আঁকা সম্ভব কি-না যাচাই কর।\u003C/div\u003E",
+        "solution": "এখানে, (3 সে.মি.)&sup2; + (4 সে.মি.)&sup2;\u003Cbr /\u003E   = 9 সে.মি.&sup2; + 16 সে.মি.&sup2;\u003Cbr /\u003E   = 25 সে.মি.&sup2; = (5 সে.মি.)&sup2;\u003Cbr /\u003Eযেহেতু (3 সে.মি.)&sup2; + (4 সে.মি.)&sup2; = (5 সে.মি.)&sup2;\u003Cbr /\u003Eসুতরাং 3 সে.মি., 4 সে.মি. ও 5 সে.মি. বাহুগুলো দ্বারা সমকোণী ত্রিভুজ আঁকা সম্ভব।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802727,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819ac51922c0a616b3ec3fa\"\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746512797466_1765896798_aH3ixji2.webp\"\u003Eচিত্রে AB = 1 সে.মি. BC = 2 সে.মি. হলে, AC এর মান নির্ণয় কর।\u003C/div\u003E",
+        "solution": "এখানে, [math]\\mathrm{AB}=1[/math] সে.মি.; [math]\\mathrm{BC}=2[/math] সে.মি.\u003Cbr /\u003EABC একটি সমকোণী ত্রিভুজ যার [math]\\angle \\mathrm{B}=90^{\\circ}[math]\u003Cbr /\u003E\\therefore \\mathrm {A C^2=A B^2+B C^2}\u003Cbr /\u003E[/math]\u003Cbr /\u003Eবा, [math]\\mathrm{A C}^2=(1 \\text { সে.মি. })^2+(2 \\text { সে.মি. })^2[/math]\u003Cbr /\u003Eবা, [math]\\mathrm{AC}^2=1[/math] সে.মি. [math]{ }^2+4[/math] সে.মি. [math]{ }^2[/math]\u003Cbr /\u003Eবা, [math]\\mathrm{A C}^2=5[/math] সে.মি. [math]{ }^2=(\\sqrt{5}, \\text { সে.মি. })^2[/math]\\therefore \\mathrm{AC}=\\sqrt{5}[/math] সে.মি. [math]=2.24[/math] সে.মি. (প্রায়)",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 802727,
+            "question_bank_special_filter_id": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": 802726,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819ab77922c0a616b3ebf5f\"\u003E8 সে.মি., 15 সে.মি. ও 17 সে.মি. বাহু বিশিষ্ট ত্রিভুজটি সমকোণী কিনা যাচাই কর।\u003C/div\u003E",
+        "solution": "ধরি, [math]\\triangle \\mathrm{ABC}[/math] এর [math] \\mathrm{AB}=8[/math] সে.মি.,[math]\\mathrm{BC}=15[/math] সে.মি. ও [math]\\mathrm{AC}=17[/math] সে.মি.\u003Cbr /\u003Eএখন,[math]\u003Cbr /\u003E\\begin{aligned}\u003Cbr /\u003E\\mathrm{AB}^2+\\mathrm{BC}^2 &amp; =8^2+15^2 \\\\\u003Cbr /\u003E&amp; =64=225 \\\\\u003Cbr /\u003E&amp; =289=(17)^2=\\mathrm{AC}^2\u003Cbr /\u003E\\end{aligned}\u003Cbr /\u003E[/math][math]\\therefore \\mathrm{AB}^2+\\mathrm{BC}^2=\\mathrm{AC}^2[/math] অর্থাৎ [math]\\angle \\mathrm{B}=[/math] = এক সমকোণ।[math]\\therefore 8[/math] সে.মি., 15 সে.মি. ও 17 সে.মি. বাহুবিশিষ্ট ত্রিভুজটি সমকোণী।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7913,
+      "created_at": "2025-12-16T14:53:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7913&grade=2&lesson=15590&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7913&grade=2&lesson=15590&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7913&grade=2&lesson=15590&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

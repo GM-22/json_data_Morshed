@@ -1,0 +1,2457 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 802512,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "৪টি",
+          "গ": "৫টি",
+          "ঘ": "৬টি"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজ অঙ্কনের জন্য কয়টি উপাত্তের প্রয়োজন?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5648,
+          "full_name": "কু. বো.'২০১৮;ব. বো.'২০১৮;ঢা. বো.'২০১৫",
+          "short_name": "কু. বো.'২০১৮;ব. বো.'২০১৮;ঢা. বো.'২০১৫",
+          "slug": "ku-bo2018b-bo2018dha-bo2015",
+          "pivot": {
+            "question_bank_id": 802512,
+            "tag_id": 5648,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802512,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802512,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802501,
+      "value": {
+        "options": {
+          "ক": "20&deg;, 30&deg;, 40&deg;",
+          "খ": "30&deg;, 40&deg;, 50&deg;",
+          "গ": "40&deg;, 50&deg;, 60&deg;",
+          "ঘ": "70&deg;, 80&deg;, 110&deg;"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের দুইটি সন্নিহিত বাহু a, b এবং তিনটি কোণ ∠x, ∠y, ∠z দেওয়া আছে। নিচের কোন উপাত্তের সেট নিয়ে চতুর্ভুজ আঁকা সম্ভব?\u003C/div\u003E",
+        "solution": "চতুর্ভুজ আঁকতে হলে, যেকোনো তিন কোণের সমষ্টি চতুর্থ কোণ অপেক্ষা বৃহত্তর হতে হবে। কিন্তু চতুর্থ কোণ 180&deg; অপেক্ষা ছোট হবে।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802501,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802502,
+      "value": {
+        "options": {
+          "ক": "[math]2\\sqrt2[/math]",
+          "খ": "2",
+          "গ": "1",
+          "ঘ": "[math]\\sqrt2[/math]"
+        },
+        "question": "\u003Cdiv\u003Eকোনো বর্গক্ষেত্রের ক্ষেত্রফল 4 বর্গ একক হলে বর্গক্ষেত্রটি আঁকার জন্য কর্ণের দৈর্ঘ্য কত একক হওয়া প্রয়োজন?\u003C/div\u003E",
+        "solution": "ক. [math]2\\sqrt2[/math]",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802502,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802503,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eচতুর্ভুজের চার বাহুর দৈর্ঘ্য a, b, c, d এবং একটি কর্ণের দৈর্ঘ্য e দেওয়া আছে। চতুর্ভুজটি আঁকতে হলে-\u003Cbr\u003E\ni. a + b + c &gt; d হতে হবে\u003Cbr\u003E\nii. c + d &gt; e হতে হবে\u003Cbr\u003E\niii. a + b + d &gt; e হতে হবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802503,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802503,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802504,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eবর্গ আঁকা যায়-\u003Cbr\u003E\ni. একটি বাহু দেওয়া থাকলে&nbsp;\u003Cbr\u003E\nii. একটি কর্ণ দেওয়া থাকলে&nbsp;\u003Cbr\u003E\niii. একটি কোণ দেওয়া থাকলে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802504,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802505,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের তিনটি বাহু a = 4, b = 3,.6 সে.মি., c = 3 সে.মি.&nbsp;দেওয়া আছে। এছাড়া দুইটি কর্ণ p = 5 সে.মি., q = 4.5 সে.মি. এবং&nbsp;দুইটি কোণ ∠x = 90°, ∠y = 60° দেওয়া আছে।\u003Cbr\u003E\na, b, c, d দৈর্ঘ্যের চারটি বাহু ও 180° একটি কোণ দেওয়া থাকলে-\u003Cbr\u003E\ni. সামান্তরিক আঁকা সম্ভব নয়&nbsp;\u003Cbr\u003E\nii. ট্রাপিজিয়াম আঁকা সম্ভব&nbsp;\u003Cbr\u003E\niii. কোনো চতুর্ভুজই আঁকা সম্ভব নয়&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802505,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802505,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802506,
+      "value": {
+        "options": {
+          "ক": "সামান্তরিক",
+          "খ": "আয়তক্ষেত্র",
+          "গ": "রম্বস",
+          "ঘ": "ঘুড়ি"
+        },
+        "question": "\u003Cdiv\u003Eএকটি কর্ণ ও দুইজোড়া সন্নিহিত বাহু সমান দেওয়া থাকলে, কোনটি&nbsp;আঁকা যাবে?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3990,
+          "full_name": "চ. বো.",
+          "short_name": "চ. বো.",
+          "slug": "c-bo",
+          "pivot": {
+            "question_bank_id": 802506,
+            "tag_id": 3990,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802506,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802506,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802507,
+      "value": {
+        "options": {
+          "ক": "রম্বস",
+          "খ": "আয়তক্ষেত্র",
+          "গ": "সামান্তরিক",
+          "ঘ": "বর্গ"
+        },
+        "question": "\u003Cdiv\u003Eএকটি কর্ণ দেওয়া থাকলে নিচের কোনটি অঙ্কন করা যায়?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3829,
+          "full_name": "চ. বো.'২০১৬",
+          "short_name": "চ. বো.'২০১৬",
+          "slug": "c-bo2016",
+          "pivot": {
+            "question_bank_id": 802507,
+            "tag_id": 3829,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802507,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802507,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802508,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "২টি",
+          "গ": "৩টি",
+          "ঘ": "৪টি"
+        },
+        "question": "\u003Cdiv\u003Eবর্গ অঙ্কনের জন্য কয়টি উপাত্তের প্রয়োজন?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3962,
+          "full_name": "ব. বো.",
+          "short_name": "ব. বো.",
+          "slug": "b-bo",
+          "pivot": {
+            "question_bank_id": 802508,
+            "tag_id": 3962,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802508,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802508,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802509,
+      "value": {
+        "options": {
+          "ক": "আয়তক্ষেত্র",
+          "খ": "রম্বস",
+          "গ": "বর্গক্ষেত্র",
+          "ঘ": "সামান্তরিক"
+        },
+        "question": "\u003Cdiv\u003Eএকটি বাহু ও একটি কোণ দেওয়া থাকলে কি আঁকা যায়?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3962,
+          "full_name": "ব. বো.",
+          "short_name": "ব. বো.",
+          "slug": "b-bo",
+          "pivot": {
+            "question_bank_id": 802509,
+            "tag_id": 3962,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802509,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802509,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802510,
+      "value": {
+        "options": {
+          "ক": "বর্গ",
+          "খ": "সামান্তরিক",
+          "গ": "আয়ত",
+          "ঘ": "রম্বস"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের দুইটি কর্ণের দৈর্ঘ্য 5 সে.মি. ও 2 সে.মি. দেওয়া&nbsp;আছে, কী আঁকা যাবে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802510,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802510,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802511,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "২টি",
+          "গ": "৩টি",
+          "ঘ": "৪টি"
+        },
+        "question": "\u003Cdiv\u003Eএকটি রম্বস অঙ্কনের জন্য কয়টি উপাত্তের প্রয়োজন?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 802511,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802511,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802511,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802500,
+      "value": {
+        "options": {
+          "ক": "বর্গ",
+          "খ": "সামান্তরিক",
+          "গ": "আয়ত",
+          "ঘ": "রম্বস"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের দুইটি বাহুর দেওয়া আছে, কী আঁকা যাবে?\u003C/div\u003E",
+        "solution": "গ. আয়ত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802500,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802513,
+      "value": {
+        "options": {
+          "ক": "তিনটি বাহু ও দুইটি কোণ",
+          "খ": "তিনটি বাহু ও একটি কোণ",
+          "গ": "তিনটি বাহু ও একটি কর্ণ",
+          "ঘ": "একটি বাহু ও দুইটি কোণ"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোনটি জানা থাকলে একটি নির্দিষ্ট চতুর্ভুজ অঙ্কন করা সম্ভব?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3795,
+          "full_name": "ব. বো.'২০১৭",
+          "short_name": "ব. বো.'২০১৭",
+          "slug": "b-bo2017",
+          "pivot": {
+            "question_bank_id": 802513,
+            "tag_id": 3795,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802513,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802513,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802514,
+      "value": {
+        "options": {
+          "ক": "আয়ত",
+          "খ": "বর্গ",
+          "গ": "রম্বস",
+          "ঘ": "সামান্তরিক"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের ২টি সন্নিহিত বাহু 5 সে.মি. ও 4 সে.মি. এবং&nbsp;অন্তর্ভুক্ত কোণ 60° হলে চতুর্ভুজটি কোন ধরনের?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802514,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802514,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802515,
+      "value": {
+        "options": {
+          "ক": "রম্বস",
+          "খ": "আয়ত",
+          "গ": "সামান্তরিক",
+          "ঘ": "ট্রাপিজিয়াম"
+        },
+        "question": "\u003Cdiv\u003Eদুইটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে নিচের কোনটি অঙ্কন করা যায়?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4658,
+          "full_name": "দি. বো.'২০১৮",
+          "short_name": "দি. বো.'২০১৮",
+          "slug": "di-bo2018",
+          "pivot": {
+            "question_bank_id": 802515,
+            "tag_id": 4658,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802515,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802515,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802516,
+      "value": {
+        "options": {
+          "ক": "আয়তক্ষেত্র",
+          "খ": "বর্গক্ষেত্র",
+          "গ": "রম্বস",
+          "ঘ": "সামান্তরিক"
+        },
+        "question": "\u003Cdiv\u003Eশুধুমাত্র পরিসীমা জানলেই নিচের কোনটি আঁকা সম্ভব?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802516,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802516,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802517,
+      "value": {
+        "options": {
+          "ক": "বর্গ",
+          "খ": "সামান্তরিক",
+          "গ": "আয়ত",
+          "ঘ": "ট্রাপিজিয়াম"
+        },
+        "question": "\u003Cdiv\u003Eসমকোণ নয় এমন একটি কোণ এবং দুইটি সন্নিহিত বাহুর দৈর্ঘ্য জানা&nbsp;থাকলে কোনটি আঁকা যাবে?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802517,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802517,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802518,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eশুধুমাত্র একটি বাহুর দৈর্ঘ্য দেয়া থাকলে আঁকা যায়-\u003Cbr\u003E\ni. রম্বস\u003Cbr\u003E\nii. বর্গ\u003Cbr\u003E\niii. সমবাহু ত্রিভুজ\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 802518,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802518,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802518,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802518,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802519,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eএকটি নির্দিষ্ট চতুর্ভুজ অঙ্কনের জন্য-\u003Cbr\u003E\ni. পাঁচটি অনন্য নিরপেক্ষ উপাত্তের প্রয়োজন\u003Cbr\u003E\nii. একটি বাহু ও দুইটি কর্ণ দেওয়া থাকলে চতুর্ভুজ আঁকা যায়\u003Cbr\u003E\niii. একটি কর্ণের দৈর্ঘ্য দেওয়া থাকলে বর্গ আঁকা যায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 802519,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-16T14:48:30.000000Z",
+            "updated_at": "2025-12-16T14:48:30.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802519,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802519,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802519,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802520,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "4",
+          "ঘ": "6"
+        },
+        "question": "\u003Cdiv\u003Eবর্গের কর্ণদ্বয় সমান কতজোড়া ত্রিভুজ গঠন করে?&nbsp;\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802520,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802520,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802521,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eকোনো চতুর্ভুজের চারটি বাহুর দৈর্ঘ্য a, b, c ও d এবং একটি কর্ণ e&nbsp;হলে, নিচের শর্তের জন্য চতুর্ভুজ আঁকা সম্ভব যখন-\u003Cbr\u003E\ni. a + b &gt; e\u003Cbr\u003E\nii. a + b + c + d &lt; e\u003Cbr\u003E\niii. a + b + c + d &gt; e\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "চতুর্ভুজ আঁকতে হলে যেকোনো তিন বাহুর সমষ্টি এর চতুর্থ বাহু এবং দুটি সন্নিহিত বাহুর দৈর্ঘ্য কর্ণ অপেক্ষা বৃহত্তর হতে হবে।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802521,
+            "question_bank_label_id": 12
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802521,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802521,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802522,
+      "value": {
+        "options": {
+          "ক": "[math]2\\sqrt{6}[/math]",
+          "খ": "[math]\\sqrt{2}[/math]",
+          "গ": "[math]6[/math]",
+          "ঘ": "[math]6\\sqrt{2}[/math]"
+        },
+        "question": "\u003Cdiv\u003Eএকটি বর্গের ক্ষেত্রফল 36 বর্গ একক। বর্গটির কর্ণের দৈর্ঘ্য কত?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802522,
+            "question_bank_label_id": 13
+          }
+        },
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802522,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802523,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Ei. দুইটি সন্নিহিত বাহু দেওয়া থাকলে আয়ত আঁকা যায়।\u003Cbr\u003E\nii. চারটি কোণ দেওয়া থাকলে একটি চতুর্ভুজ আঁকা যায়।\u003Cbr\u003E\niii. বর্গের একটি বাহু দেওয়া থাকলে বর্গ আঁকা যায়।\u003Cbr\u003E\nউপরের তথ্যের আলোকে নিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 802523,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802523,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802499,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৪",
+          "গ": "৫",
+          "ঘ": "১০"
+        },
+        "question": "\u003Cdiv\u003Eচতুর্ভুজের উপাত্ত সংখ্যা কয়টি?\u003C/div\u003E",
+        "solution": "ঘ. ১০",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802499,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802487,
+      "value": {
+        "options": {
+          "ক": "দুইটি কর্ণ ও দুইটি সাধারণ বাহু",
+          "খ": "একটি বাহু ও দুইটি কোণ",
+          "গ": "দুইটি বাহু ও তিনটি কোণ",
+          "ঘ": "তিনটি বাহু ও একটি কোণ"
+        },
+        "question": "\u003Cdiv\u003Eএকটি নির্দিষ্ট চতুর্ভুজ অঙ্কনের জন্য নিচের কোনটি প্রয়োজন?\u003C/div\u003E",
+        "solution": "গ. দুইটি বাহু ও তিনটি কোণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802487,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802488,
+      "value": {
+        "options": {
+          "ক": "দুইটি সনিহিত বাহু এবং তাদের অন্তর্ভুক্ত কোণ",
+          "খ": "একটি বাহু ও একটি কোণ",
+          "গ": "দুইটি সন্নিহিত বাহু",
+          "ঘ": "দুইটি কর্ণ"
+        },
+        "question": "\u003Cdiv\u003Eকোনটি থাকলে একটি সামান্তরিক অঙ্কন করা যাবে?\u003C/div\u003E",
+        "solution": "ক. দুইটি সনিহিত বাহু এবং তাদের অন্তর্ভুক্ত কোণ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802488,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802489,
+      "value": {
+        "options": {
+          "ক": "ত্রিভুজ",
+          "খ": "আয়ত",
+          "গ": "সামান্তরিক",
+          "ঘ": "ট্রাপিজিয়াম"
+        },
+        "question": "\u003Cdiv\u003Eদুইটি সন্নিহিত বাহু দেওয়া থাকলে কোনটি আঁকা যাবে?\u003C/div\u003E",
+        "solution": "খ. আয়ত",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 12,
+          "name": "সহজ",
+          "pivot": {
+            "question_bank_id": 802489,
+            "question_bank_label_id": 12
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802490,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i ও ii"
+        },
+        "question": "\u003Cdiv\u003Eদুইটি বাহু ও তাদের অন্তর্ভুক্ত কোণ দেওয়া থাকলে-\u003Cbr\u003E\ni. বর্গ অঙ্কন করা যায়&nbsp;\u003Cbr\u003E\nii. বিশেষ চতুর্ভুজ অঙ্কন করা যায়&nbsp;\u003Cbr\u003E\niii. রম্বস অঙ্কন করা যায়&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "খ. ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802490,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802491,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eসামান্তরিক আঁকা যাবে-\u003Cbr\u003E\ni. সন্নিহিত বাহু দেওয়া থাকলে&nbsp;\u003Cbr\u003E\nii. সন্নিহিত বাহু ও অন্তর্ভুক্ত কোণ দেওয়া থাকলে&nbsp;\u003Cbr\u003E\niii. দুইটি কর্ণ ও একটি বাহু দেওয়া থাকলে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802491,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802492,
+      "value": {
+        "options": {
+          "ক": "a + b &gt; e&nbsp;এবং e + d &lt; e",
+          "খ": "a + b &gt; e&nbsp;এবং c + d &gt; e",
+          "গ": "a + b &lt; e&nbsp;এবং c + d &lt; e",
+          "ঘ": "a + b &lt; e&nbsp;এবং c + d &lt; e"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের চারটি বাহু a, b, c, d ও একটি কর্ণ&nbsp;e হলে, নিচের কোনটি সঠিক?\u003C/div\u003E",
+        "solution": "চতুর্ভুজের যেকোনো দুই বাহুর যোগফল কর্ণ অপেক্ষা বৃহত্তর হবে।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802492,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802494,
+      "value": {
+        "options": {
+          "ক": "4",
+          "খ": "5",
+          "গ": "6",
+          "ঘ": "7"
+        },
+        "question": "\u003Cdiv\u003Eকোনো বর্গের ক্ষেত্রফল 36 বর্গ একক হলে তা আঁকার জন্য এক বাহুর দৈর্ঘ্য কত একক হতে হবে?\u003C/div\u003E",
+        "solution": "গ. 6",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 23,
+          "name": "মধ্যম",
+          "pivot": {
+            "question_bank_id": 802494,
+            "question_bank_label_id": 23
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 802495,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eআয়ত আঁকা যাবে-\u003Cbr\u003E\ni. দুইটি সন্নিহিত বাহু দেওয়া থাকলে&nbsp;\u003Cbr\u003E\nii. একটি বাহু ও একটি কর্ণ দেওয়া থাকলে&nbsp;\u003Cbr\u003E\niii. দুইটি কর্ণ ও দুইটি সন্নিহিত বাহু দেওয়া থাকলে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802495,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802496,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cdiv\u003Eনির্দিষ্ট চতুর্ভুজ অঙ্কনে প্রয়োজন-\u003Cbr\u003E\ni. চারটি বাহু ও একটি কোণ&nbsp;\u003Cbr\u003E\nii. চারটি বাহু ও দুইটি কর্ণ&nbsp;\u003Cbr\u003E\niii. তিনটি কোণ ও দুইটি বাহু&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;\u003C/div\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 802496,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 802497,
+      "value": {
+        "options": {
+          "ক": "বর্গ",
+          "খ": "সামান্তরিক",
+          "গ": "আয়ত",
+          "ঘ": "ট্রাপিজিয়াম"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের তিনটি বাহু a = 4, b = 3,.6 সে.মি., c = 3 সে.মি.&nbsp;দেওয়া আছে। এছাড়া দুইটি কর্ণ p = 5 সে.মি., q = 4.5 সে.মি. এবং&nbsp;দুইটি কোণ ∠x = 90°, ∠y = 60° দেওয়া আছে।\u003Cbr\u003E\nউপরের উপাত্তগুলো থেকে বাহু&nbsp; a ও c এবং কোণ 2y নিয়ে নিচের কোনটি আঁকা যাবে?\u003C/div\u003E",
+        "solution": "খ. সামান্তরিক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802497,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802498,
+      "value": {
+        "options": {
+          "ক": "10",
+          "খ": "11.25",
+          "গ": "12.25",
+          "ঘ": "22.5"
+        },
+        "question": "\u003Cdiv\u003Eএকটি চতুর্ভুজের তিনটি বাহু a = 4, b = 3,.6 সে.মি., c = 3 সে.মি.&nbsp;দেওয়া আছে। এছাড়া দুইটি কর্ণ p = 5 সে.মি., q = 4.5 সে.মি. এবং&nbsp;দুইটি কোণ ∠x = 90°, ∠y = 60° দেওয়া আছে।\u003Cbr\u003E\np ও q এর দৈর্ঘ্য নিয়ে অঙ্কিত ক্ষেত্রের ক্ষেত্রফল কত বর্গ সে.মি.?\u003C/div\u003E",
+        "solution": "খ. 11.25",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 802498,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 802493,
+      "value": {
+        "options": {
+          "ক": "2, 3, 4.5, 2 ও 6",
+          "খ": "3, 4, 4.5, 2 ও 6",
+          "গ": "2, 4, 4.5, 2 ও 6",
+          "ঘ": "3, 4, 4.5, 2&nbsp;ও 3.5"
+        },
+        "question": "\u003Cdiv\u003Eনিচের কোন উপাত্ত (সে.মি.) নিয়ে চতুর্ভুজ আঁকা সম্ভব?\u003C/div\u003E",
+        "solution": "ঘ. 3, 4, 4.5, 2ও 3.5",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:30.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802485,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68199466922c0a616b3e64f5\"\u003Eএকটি রম্বসের একটি বাহুর দৈর্ঘ্য 3 সে.মি. এবং একটি কর্ণ 4.5 সে.মি.। রম্বসটি আঁক।\u003C/div\u003E",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746506754916_1765896499_4JPUfLZa.webp\" /\u003Eচিত্রে ABCD একটি রম্বস আঁকা হলো যার বাহুর দৈর্ঘ্য AB = BC =CD = AD = 3 সে.মি. এবং কর্ণ BD = 4.5 সে.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802484,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68198e07922c0a616b3e49ea\"\u003Eপেন্সিল ও কম্পাস দিয়ে ∠x = 60° আঁক।\u003C/div\u003E",
+        "solution": "পেন্সিল ও কম্পাস দিয়ে &ang;x = 60&deg; আঁকা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746505206691_1765896499_2TJpvlV2.webp\" /\u003Eচিত্রে, &ang;BAD = &ang;x = 60&deg;",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802486,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819964f922c0a616b3e6bfb\"\u003Eপেন্সিল কম্পাসের সাহায্যে 105° কোণ অঙ্কন কর।\u003C/div\u003E",
+        "solution": "পেন্সিল ও কম্পাসের সাহায্যে 105&deg; অঙ্কন করা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746507306533_1765896499_nIpXlk40.webp\" /\u003Eচিত্রে, &ang;ABC = 105&deg;.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:19.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802476,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68198d3e922c0a616b3e477b\"\u003Eস্কেল ও কম্পাসের সাহায্যে 30° কোণ অঙ্কন কর।\u003C/div\u003E",
+        "solution": "স্কেল ও কম্পাসের সাহায্যে 30&deg; কোণ অঙ্কন করা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746504970921_1765896498_fJKutfau.webp\" /\u003E চিত্রে &ang;BAD = 30&deg;",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802483,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819959f922c0a616b3e689e\"\u003Eপেন্সিল ও কম্পাসের সাহায্যে 120° কোণ আঁক।\u003C/div\u003E",
+        "solution": "পেন্সিলওকম্পাসের সাহায্যে 120&deg; অঙ্কন করা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746507127577_1765896498_We6HPALJ.webp\" /\u003Eচিত্রে, &ang;ABC = 120&deg;.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802482,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68198f80922c0a616b3e4d90\"\u003Eপেন্সিল ও কম্পাসের সাহায্যে 75° কোণ অঙ্কন কর।\u003C/div\u003E",
+        "solution": "পেন্সিল ও কম্পাসের সাহায্যে 75&deg; কোণ অঙ্কন করা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746505568465_1765896498_rSEYkcjb.webp\" /\u003E   চিত্রে, &ang;AOB = 75&deg;",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802481,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68198ef4922c0a616b3e4c0e\"\u003Eপেন্সিল ও কম্পাস ব্যবহার করে 45° কোণ অঙ্কন কর।\u003C/div\u003E",
+        "solution": "পেন্সিল ও কম্পাস ব্যবহার করে 45&deg; কোণ অঙ্কন করা হলো:\u003Cbr /\u003E\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746505441818_1765896498_ivZwO9IP.webp\" /\u003Eপ্রদত্ত চিত্রে &ang;ABC = 45&deg;",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802480,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68199096922c0a616b3e5228\"\u003E5 সে.মি. বাহু বিশিষ্ট একটি বর্গ আঁক।\u003C/div\u003E",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746505837487_1765896498_i2ap3OY4.webp\" /\u003Eচিত্রে ABCD বর্গ আঁকা হলো যার বাহুর AB = BC = CD = AD = 5 সে.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802479,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"6819936c922c0a616b3e6243\"\u003Eএকটি রম্বসের একটি বাহু 4 সে.মি. ও একটি কোণ 60° হলে রম্বসটি আঁক।\u003C/div\u003E",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746506576630_1765896498_ohfGmqMp.webp\" /\u003Eচিত্রে, ABCD রম্বস আঁকা হলো যার বাহুর দৈর্ঘ্য AB = BC = CD =AD = 4 সে.মি. এবং একটি কোণ &ang;ABC = 60&deg;.",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802478,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"681992f4922c0a616b3e6045\"\u003Eএকটি বর্গের কর্ণের দৈর্ঘ্য 4 সে.মি. দেওয়া আছে বর্গটি আঁক।\u003C/div\u003E",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746506354732_1765896498_KRSbZNcZ.webp\" /\u003Eচিত্রে ABCD একটি বর্গ আকাঁ হলো যার কর্ণ BD = a = 4 সে.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 802477,
+      "value": {
+        "options": [],
+        "question": "\u003Cdiv for=\"68199196922c0a616b3e55b1\"\u003Eএকটি আয়তের দুইটি সন্নিহিত বাহুর দৈর্ঘ্য 5 সে.মি. ও 4 সে.মি.। আয়তটি অঙ্কন কর।\u003C/div\u003E",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746505992054_1765896498_WmouO3J0.webp\" /\u003Eচিত্রে, ABCD আয়তের AB = CD = 5 সে.মি.\u003Cbr /\u003Eএবং BC = AD = 4 সে.মি.।",
+        "correct_answer": null
+      },
+      "question_type_id": 23,
+      "book_id": 50,
+      "book_grade_id": 2,
+      "content_chunk_id": 7910,
+      "created_at": "2025-12-16T14:48:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 23,
+        "name": "Short Question",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 50,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7910&grade=2&lesson=15585&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7910&grade=2&lesson=15585&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7910&grade=2&lesson=15585&per_page=200&question_paper_id=47596&subject=50&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 48,
+  "total": 48
+}

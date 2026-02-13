@@ -1,0 +1,2366 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 770135,
+      "value": {
+        "options": [],
+        "question": "অবস্থানের উপর ভিত্তি করে কম্পিউটার নেটওয়ার্ককে কয় ভাগে ভাগ করা যায়? ব্যাখ্যা কর।",
+        "solution": "কম্পিউটার নেটওয়ার্কে অনেকগুলো কম্পিউটার একসাথে জুড়ে দেওয়া হয়, যেন একটি কম্পিউটার অন্য কম্পিউটারের সাথে যোগাযোগ করতে পারে। জুড়ে দেওয়া কম্পিউটারগুলোর অবস্থানের উপর ভিত্তি করে কম্পিউটার নেটওয়ার্ককে নিম্নলিখিত ভাগে ভাগ করা যায়-\u003Cbr /\u003E\n১. PAN (Personal Area Network)\u003Cbr /\u003E\n২. LAN (Local Area Network)\u003Cbr /\u003E\n৩. MAN (Metropolitan Area Network)\u003Cbr /\u003E\n৪. WAN (Wide Area Network)",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770122,
+      "value": {
+        "options": {
+          "ক": "রিং",
+          "খ": "স্টার",
+          "গ": "মেশ",
+          "ঘ": "হাইব্রিড"
+        },
+        "question": "নেটওয়ার্কের একটি কম্পিউটার নষ্ট হলে কোন টপোলজিতে বাকি কম্পিউটারগুলোতে নেটওয়ার্ক ব্যবস্থা কার্যকর থাকে?",
+        "solution": "খ. স্টার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770122,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770123,
+      "value": {
+        "options": {
+          "ক": "স্টার",
+          "খ": "রিং",
+          "গ": "বাস",
+          "ঘ": "মেশ"
+        },
+        "question": "তুলনামূলক সহজ টপোলজি কোনটি?",
+        "solution": "ক. স্টার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770123,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770124,
+      "value": {
+        "options": {
+          "ক": "স্টার",
+          "খ": "রিং",
+          "গ": "ট্রি",
+          "ঘ": "হাইব্রিড"
+        },
+        "question": "কোন টপোলজিকে গাছের সাথে তুলনা করা হয়?",
+        "solution": "গ. ট্রি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770124,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770125,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "হাব বা সুইচ ব্যবহৃত হয়-\u003Cbr\u003E\ni. বাস টপোলজিতে\u003Cbr\u003E\nii. স্টার টপোলজিতে\u003Cbr\u003E\niii. ট্রি টপোলজিতে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770125,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770125,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770126,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ট্রি টপোলজির বেলায় কোনটি সত্য?\u003Cbr\u003E\ni. স্টার টপোলজির সম্প্রসারিত রূপ\u003Cbr\u003E\nii. অনেকগুলো হাব ব্যবহৃত হয়\u003Cbr\u003E\niii. অল্প সংখ্যক কম্পিউটারে করতে হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4307,
+          "full_name": "আর্মড পুলিশ ব্যাটালিয়ন স্কুল অ্যান্ড কলেজ, বগুড়া",
+          "short_name": "আর্মড পুলিশ ব্যাটালিয়ন স্কুল অ্যান্ড কলেজ, বগুড়া",
+          "slug": "armd-pulis-bzataliyn-skul-ozand-klej-bgura",
+          "pivot": {
+            "question_bank_id": 770126,
+            "tag_id": 4307,
+            "year": null,
+            "created_at": "2025-12-01T10:17:27.000000Z",
+            "updated_at": "2025-12-01T10:17:27.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770126,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770126,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770127,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মিরন বাস টপোলজি ব্যবহার করে তার কম্পিউটারটিকে নেটওয়ার্কভুক্ত করেছে। এখন সে নেটওয়ার্কের অন্য কম্পিউটারের সাথে তথ্য আদান-প্রদান করতে পারে।\u003Cbr\u003E\nমিরন যদি কোনো কম্পিউটারের সাথে যোগাযোগ করতে চায় তাহলে সেই তথ্য যাবে -\u003Cbr\u003E\ni. নির্দিষ্ট কম্পিউটারের কাছে\u003Cbr\u003E\nii. অন্যান্য কম্পিউটারের কাছে\u003Cbr\u003E\niii. কেন্দ্রীয় হাবের কাছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770127,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770127,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770127,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770128,
+      "value": {
+        "options": [],
+        "question": "মেট্রোপলিটন এরিয়া নেটওয়ার্ক কিভাবে গঠিত হয়?",
+        "solution": "মেট্রোপলিটন এরিয়া নেটওয়ার্ক (MAN) হলো একটি কম্পিউটার নেটওয়ার্ক যা একটি শহর বা মহানগরের মতো বড় ভৌগোলিক এলাকা জুড়ে বিস্তৃত থাকে। MAN সাধারণত একাধিক LAN-কে সংযুক্ত করে গঠিত হয়। MAN-এর মাধ্যমে বিভিন্ন সংস্থা, সরকারি অফিস এবং শিক্ষা প্রতিষ্ঠানের কম্পিউটারগুলোকে সংযুক্ত করা হয়। MAN-এর গঠনে সাধারণত ফাইবার অপটিক ক্যাবল, মাইক্রোওয়েভ লিংক এবং স্যাটেলাইট লিংক ব্যবহার করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770129,
+      "value": {
+        "options": [],
+        "question": "স্টার টপোলজি ব্যাখ্যা কর।",
+        "solution": "স্টার টপোলজি নেটওয়ার্কের এমন একটি কাঠামো যেখানে সবগুলো ডিভাইস একটি কেন্দ্রীয় ডিভাইস (যেমন- হাব, সুইচ) এর সাথে সংযুক্ত থাকে। এই কেন্দ্রীয় ডিভাইসটি নেটওয়ার্কের সকল ডেটা ট্রাফিক নিয়ন্ত্রণ করে এবং সংযুক্ত ডিভাইসগুলোর মধ্যে ডেটা প্রেরণ এবং গ্রহণের ব্যবস্থা করে। এটি একটা তারার মতো দেখা যায় বলেই এর নাম স্টার টপোলজি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770130,
+      "value": {
+        "options": [],
+        "question": "হাইব্রিড টপোলজি বলতে কী বোঝায়?",
+        "solution": "হাইব্রিড টপোলজি হলো এমন একটি নেটওয়ার্কের গঠন যেখানে দুই বা ততোধিক ধরনের টপোলজি একত্রিত করা হয়। উদাহরণস্বরূপ, একটি নেটওয়ার্কে স্টার টপোলজি এবং রিং টপোলজি একত্রে ব্যবহার করা হতে পারে। হাইব্রিড টপোলজি বড় এবং জটিল নেটওয়ার্কের জন্য উপযোগী, কারণ এটি বিভিন্ন ধরনের টপোলজির সুবিধাগুলোকে একত্রিত করে এবং কোনো নির্দিষ্ট একটি টপোলজির দুর্বলতাগুলো কমিয়ে আনে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770131,
+      "value": {
+        "options": [],
+        "question": "রিং টপোলজি ব্যাখ্যা কর।",
+        "solution": "রিং টপোলজি নেটওয়ার্কের এমন একটি কাঠামো যেখানে সবগুলো ডিভাইস একটি বদ্ধ বৃত্তাকার পথে সংযুক্ত থাকে। ডেটা এই বৃত্তাকার পথে এক ডিভাইস থেকে অন্য ডিভাইসে একই দিকে প্রবাহিত হয়। একে একটি রিং-এর মতো দেখা যায় বলেই এর নাম রিং টপোলজি।.",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770132,
+      "value": {
+        "options": [],
+        "question": "ট্রি টপোলজিতে অনেকগুলো স্টার টপোলজি একত্র করা-ব্যাখ্যা কর।",
+        "solution": "ট্রি টপোলজি হলো এমন একটি মেটওয়ার্কের গঠন যেখানে অনেকগুলো স্টার টপোলজি একত্রিত হয়ে একটি গাছের মতো কাঠামো তৈরি করে। এই টপোলজিতে প্রতিটি কম্পিউটার পূর্ববর্তী ও পরবর্তী স্তরের সকল কম্পিউটারের সাথে যুক্ত থাকে যা স্টার টপোলজির অনুরূপ। তাই ট্রি টপোলজিও স্টার টপোলজির মতোই নির্ভরযোগ্য এবং প্রসারণযোগ্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770133,
+      "value": {
+        "options": [],
+        "question": "ট্রি টপোলজির সুবিধাগুলো লিখ।",
+        "solution": "ট্রি টপোলজির সুবিধাগুলো হলো-\u003Cbr /\u003E\n১. যেকোনো সময় নেটওয়ার্ক সম্প্রসারিত করা যায়।\u003Cbr /\u003E\n২. ডেটা নিরাপত্তা সবচেয়ে বেশি।\u003Cbr /\u003E\n৩. নেটওয়ার্কের কোনো শাখা নষ্ট হলে, সম্পূর্ণ নেটওয়ার্ক অচল হয়ে পড়ে না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770134,
+      "value": {
+        "options": [],
+        "question": "মেশ ও ট্রি টপোলজির মধ্যে কোনটি অধিকতর ভালো তা যুক্তিসহ লেখ।",
+        "solution": "মেশ ও ট্রি টপোলজির মধ্যে মেশ টপোলজি অধিকতর ভালো। কারণ, মেশ টপোলজিতে প্রত্যেকটি কম্পিউটার একে অপরের সাথে সংযুক্ত থাকে। কম্পিউটারগুলো শুধু যে অন্য কম্পিউটার থেকে তথ্য নেয় তা নয় বরং সেটি নেটওয়ার্কের অন্য কম্পিউটারের মাঝে বিতরণও করতে পারে। এই নেটওয়ার্কের কোনো একটি কম্পিউটার নষ্ট হলেও নেটওয়ার্কের অন্যান্য কম্পিউটারগুলো সচল থাকে। অন্যদিকে ট্রি টপোলজির নেটওয়ার্কের মূল কম্পিউটার বা রুট কম্পিউটার নষ্ট হলে নেটওয়ার্ক অচল হয়ে যায়। তাই মেশ টপোলজি অধিকতর ভালো।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770121,
+      "value": {
+        "options": {
+          "ক": "রিং",
+          "খ": "স্টার",
+          "গ": "হাইব্রিড",
+          "ঘ": "মেশ"
+        },
+        "question": "খুব তাড়াতাড়ি একটি কম্পিউটার নেটওয়ার্ক গড়ে তোলা যায় কোন টপোলজিতে?",
+        "solution": "খ. স্টার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770121,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770136,
+      "value": {
+        "options": [],
+        "question": "পার্সোনাল এরিয়া নেটওয়ার্ক বলতে কি বুঝ?",
+        "solution": "পার্সোনাল এরিয়া নেটওয়ার্ক (PAN) হলো একটি ছোট আকারের নেটওয়ার্ক যা ব্যক্তির নিজস্ব ব্যবহারের জন্য তৈরি করা হয়। সাধারণত এই নেটওয়ার্কটি একটি সীমিত এলাকা, যেমন একটি অফিস ডেস্ক বা একটি বাড়ি জুড়ে বিস্তৃত থাকে। PAN-এ সাধারণত কম্পিউটার, স্মার্টফোন, ট্যাবলেট, প্রিন্টার এবং অন্যান্য ব্যক্তিগত ইলেকট্রনিক ডিভাইসগুলোকে সংযুক্ত করা হয়। Bluetooth বা Wi-Fi প্রযুক্তি ব্যবহার করে PAN তৈরি করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770137,
+      "value": {
+        "options": [],
+        "question": "টপোলজি বলতে কি বুঝ?",
+        "solution": "দুই বা ততোধিক কম্পিউটার একসাথে নেটওয়ার্কিং করার ভিন্ন ভিন্ন পদ্ধতিকে টপোলজি বলে। এটি নির্দেশ করে যে নেটওয়ার্কের বিভিন্ন ডিভাইস (যেমন কম্পিউটার, প্রিন্টার) কীভাবে একে অপরের সাথে সংযুক্ত থাকে এবং তাদের মধ্যে তথ্য কীভাবে প্রবাহিত হয়। মূলত টপোলজি হলো একটি নেটওয়ার্কের নকশা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770138,
+      "value": {
+        "options": [],
+        "question": "বাস টপোলজির অসুবিধা উল্লেখ কর।",
+        "solution": "বাস টপোলজির অসুবিধা নিম্নরূপ:&nbsp;\u003Cbr /\u003E\n১. নেটওয়ার্কে কম্পিউটারের সংখ্যা বৃদ্ধি পেলে ডেটা বা তথ্য আদান-প্রদানে সমস্যা হয়।\u003Cbr /\u003E\n২. একসাথে একই সময়ে বেশি ডেটা আদান-প্রদানে সময় বেশি লাগে।\u003Cbr /\u003E\n৩. ব্যাকবোন তারটি নষ্ট হয়ে গেলে পুরো নেটওয়ার্ক অচল হয়ে পড়ে।\u003Cbr /\u003E\n৪. ত্রুটি খুঁজে পাওয়া কষ্টকর।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770139,
+      "value": {
+        "options": [],
+        "question": "রিং টপোলজির সীমাবদ্ধতা ব্যাখ্যা কর।",
+        "solution": "রিং টপোলজির প্রধান সীমাবদ্ধতা হলো, নেটওয়ার্কের কোনো একটি ডিভাইস বিকল হয়ে গেলে পুরো নেটওয়ার্কের ডেটা ট্রান্সমিশন বন্ধ হয়ে যেতে পারে। এছাড়াও যদি নেটওয়ার্কে অনেক ডিভাইস থাকে, তাহলে ডেটা এক ডিভাইস থেকে অন্য ডিভাইসে পৌঁছাতে অনেক সময় নিতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770140,
+      "value": {
+        "options": [],
+        "question": "রিং টপোলজির তুলনায় স্টার টপোলজি উত্তম কেন?",
+        "solution": "রিং টপোলজির তুলনায় স্টার টপোলজি উত্তম বলে মনে করা হয়। কারণ স্টার টপোলজিতে যদি কোনো ডিভাইসে সমস্যা হয়, তাহলে তা শুধু সেই ডিভাইসটিকে প্রভাবিত করে, পুরো নেটওয়ার্ককে নয়। আর রিং টপোলজিতে যদি কোনো ডিভাইসে সমস্যা হয়, তাহলে পুরো নেটওয়ার্কের কাজ বন্ধ হয়ে যেতে পারে। এছাড়া, স্টার টপোলজিতে নতুন ডিভাইস যোগ করা বা অপসারণ করা খুব সহজ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770141,
+      "value": {
+        "options": [],
+        "question": "ট্রি টপোলজি ব্যাখ্যা কর।",
+        "solution": "ট্রি টপোলজিতে কম্পিউটার বা নোডগুলো পরস্পরের সাথে গাছের শাখা-প্রশাখার ন্যায় বিন্যস্ত ও যুক্ত থাকে। এতে একাধিক স্তরের কম্পিউটার একটি কেন্দ্রীয় সার্ভারের সাথে যুক্ত থাকে। বড় ধরনের নেটওয়ার্ক গঠনে অন্যান্য টপোলজির তুলনায় ট্রি বেশি সুবিধা প্রদান করে। ট্রি টপোলজির ক্ষেত্রে ডেটা নিরাপত্তা সবচেয়ে বেশি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770142,
+      "value": {
+        "options": [],
+        "question": "কোন টপোলোজিতে প্রতিটি কম্পিউটারের সাথে সরাসরি লিংক থাকে? সেই টপোলোজির সংক্ষিপ্ত বর্ণনা দাও।",
+        "solution": "মেশ টপোলোজিতে প্রতিটি কম্পিউটারের সাথে সরাসরি লিংক থাকে। নিচে মেশ টপোলজির সংক্ষিপ্ত বর্ণনা করা হলো-\u003Cbr /\u003E\nমেশ টপোলোজিতে কম্পিউটারগুলো একটি আরেকটির সাথে যুক্ত থাকে। এক্ষেত্রে কম্পিউটারগুলো পরস্পর একাধিক পথে যুক্ত হতে পারে। এ ধরনের নেটওয়ার্কের কোনো একটি কম্পিউটার নষ্ট হলে নেটওয়ার্কের অন্যান্য কম্পিউটারের সাথে তথ্য আদান-প্রদানে কোনো অসুবিধা হয় না। অর্থাৎ মেশ টপোলজি নেটওয়ার্ক হলো সহজ নেটওয়ার্ক।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770143,
+      "value": {
+        "options": [],
+        "question": "লোকাল এরিয়া নেটওয়ার্ক ব্যাখ্যা কর।",
+        "solution": "লোকাল এরিয়া নেটওয়ার্ক (LAN) হলো একটি কম্পিউটার নেটওয়ার্ক যা একটি ছোট ভৌগোলিক এলাকা, যেমন- একটি অফিস, একটি স্কুল বা একটি বাড়ি জুড়ে বিস্তৃত থাকে। LAN-এ সাধারণত কম্পিউটার, প্রিন্টার, সার্ভার এবং অন্যান্য নেটওয়ার্ক ডিভাইসগুলোকে সংযুক্ত করা হয়। LAN-এর মাধ্যমে সংযুক্ত ডিভাইসগুলো একে অপরের সাথে তথ্য আদান-প্রদান করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770144,
+      "value": {
+        "options": [],
+        "question": "সর্বোচ্চ বিস্তৃতির নেটওয়ার্ক হলো ওয়াইড এরিয়া নেটওয়ার্ক ব্যাখ্যা কর।",
+        "solution": "ওয়াইড এরিয়া নেটওয়ার্ক (WAN) হলো সবচেয়ে বড় ধরনের কম্পিউটার নেটওয়ার্ক। এটি বিশ্বের বিভিন্ন দেশ এবং মহাদেশ জুড়ে বিস্তৃত থাকতে পারে। ইন্টারনেট হলো এর একটি উদাহরণ। WAN-এর গঠনে সাধারণত টেলিফোন লাইন, স্যাটেলাইট লিংক এবং অন্যান্য মাধ্যম ব্যবহার করা হয়। WAN-এর মাধ্যমে লক্ষ লক্ষ কম্পিউটারকে সংযুক্ত করা সম্ভব, যার ফলে বিশ্বব্যাপী তথ্য আদান-প্রদান সহজ হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770145,
+      "value": {
+        "options": [],
+        "question": "বাস টপোলজির সুবিধা লেখ।",
+        "solution": "বাস টপোলজির সুবিধা নিম্নরূপ:\u003Cbr /\u003E\n১. এখানে ব্যাকবোন একটি এবং এর সংগঠন সহজ এবং সাধারণ।\u003Cbr /\u003E\n২. কম তারের প্রয়োজন হয়।\u003Cbr /\u003E\n৩. খরচ কম হয়।\u003Cbr /\u003E\n৪. কোনো একটি কম্পিউটার নষ্ট হয়ে গেলে অন্য কম্পিউটারসমূহ স্বাভাবিকভাবে কাজ করতে পারে।\u003Cbr /\u003E\n৫. বাস টপোলজি সম্প্রসারণ করা সম্ভব।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770146,
+      "value": {
+        "options": [],
+        "question": "রিং টপোলজির দুটি সুবিধা উল্লেখ কর।",
+        "solution": "রিং টপোলজির দুটি সুবিধা নিম্নরূপ:\u003Cbr /\u003E\n১. নতুন ডিভাইস যোগ করতে বা অপসারণ করতে বাস টপোলজির মতোই রিং টপোলজিতেও, অন্যান্য টপোলজির তুলনায় কম জটিলতা থাকে।\u003Cbr /\u003E\n২. যদি নেটওয়ার্কে খুব বেশি ডিভাইস না থাকে, তাহলে রিং টপোলজি বেশ দ্রুত ডেটা ট্রান্সমিশন করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770147,
+      "value": {
+        "options": [],
+        "question": "মেশ টপোলজি নির্ভরযোগ্য হলেও ব্যয়বহুল কেন?",
+        "solution": "মেশ টপোলজি ব্যবহার করা সুবিধাজনক কারণ এটি খুবই নির্ভরযোগ্য। যদি কোনো সংযোগ ব্যর্থ হয়, তাহলে ডেটা অন্য পথে পাঠানো যেতে পারে। এছাড়া, মেশ টপোলজি খুবই দ্রুত ডেটা ট্রান্সমিশন করতে পারে। তবে, মেশ টপোলজি স্থাপন করতে অনেকগুলো ক্যাবল প্রয়োজন হয়, ফলে এটি খুবই ব্যয়বহুল হতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770148,
+      "value": {
+        "options": [],
+        "question": "নেটওয়ার্ক ব্যবহারে কোন টপোলজি অধিক সুবিধাজনক? যুক্তিসহ ব্যাখ্যা কর।",
+        "solution": "নেটওয়ার্ক ব্যবহারে মেশ টপোলজি অধিক সুবিধাজনক। মেশ টপোলজিতে কম্পিউটারগুলো একটি আরেকটির সাথে যুক্ত থাকে এবং একাধিক পথে যুক্ত হতে পারে। ফলে একটি কম্পিউটার নষ্ট হলেও পুরো নেটওয়ার্কের উপর কোনো প্রভাব পরে না। মেশ টপোলজিতে নেটওয়ার্কের সমস্যা খুব সহজে সমাধান করা যায়। এতে ডেটা কমিউনিকেশনের নিশ্চয়তা অনেক বেশি থাকে।&#39; তাই নেটওয়ার্ক ব্যবহারে মেশ টপোলজি অধিক সুবিধাজনক।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770108,
+      "value": {
+        "options": {
+          "ক": "অন্য দুইটি কম্পিউটার",
+          "খ": "একটা কেন্দ্রীয় হাব",
+          "গ": "একটা মূল লাইন",
+          "ঘ": "অনেকগুলো হোস্ট"
+        },
+        "question": "মিরন বাস টপোলজি ব্যবহার করে তার কম্পিউটারটিকে নেটওয়ার্কভুক্ত করেছে। এখন সে নেটওয়ার্কের অন্য কম্পিউটারের সাথে তথ্য আদান-প্রদান করতে পারে।\u003Cbr\u003E\nমিরন তার কম্পিউটারকে কিসের সাথে যুক্ত করেছে?",
+        "solution": "গ. একটা মূল লাইন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 770108,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770108,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770095,
+      "value": {
+        "options": {
+          "ক": "যখন তা স্টারের মতো দেখায়",
+          "খ": "যখন কম্পিউটার ব্যবহার টপোলজি তৈরি করা হয়",
+          "গ": "যখন একটি নেটওয়ার্ক হাবের সাথে যুক্ত থাকে",
+          "ঘ": "যখন প্রতিটি কম্পিউটার প্রতিটি কম্পিউটারের সাথে যুক্ত থাকে"
+        },
+        "question": "স্টার টপোলজি কখন হয়?",
+        "solution": "গ. যখন একটি নেটওয়ার্ক হাবের সাথে যুক্ত থাকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770096,
+      "value": {
+        "options": {
+          "ক": "রিং",
+          "খ": "মেশ",
+          "গ": "স্টার",
+          "ঘ": "নেস"
+        },
+        "question": "Hub কোন টপোলজিতে থাকে?",
+        "solution": "গ. স্টার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770097,
+      "value": {
+        "options": {
+          "ক": "রিং",
+          "খ": "বাস",
+          "গ": "ট্রি",
+          "ঘ": "মেশ"
+        },
+        "question": "কোন টপোলজিতে যেকোনো একটি কম্পিউটার নষ্ট হলে পুরো নেটওয়ার্ক অচল হয়ে পড়ে?",
+        "solution": "ক. রিং",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770098,
+      "value": {
+        "options": {
+          "ক": "রিং টপোলজি",
+          "খ": "স্টার টপোলজি",
+          "গ": "বাস টপোলজি",
+          "ঘ": "মেশ টপোলজি"
+        },
+        "question": "একটা মূল লাইনের সাথে অনেকগুলো কম্পিউটার জুড়ে দেওয়াকে কী বলে?",
+        "solution": "গ. বাস টপোলজি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770098,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770099,
+      "value": {
+        "options": {
+          "ক": "রাউটার",
+          "খ": "কেন্দ্রীয় ডিভাইস",
+          "গ": "কম্পিউটার",
+          "ঘ": "সুইচ"
+        },
+        "question": "স্টার টপোলজিতে হাব কী হিসেবে কাজ করে?",
+        "solution": "খ. কেন্দ্রীয় ডিভাইস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770099,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770100,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মেশ টপোলজির বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. এতে কোনো কেন্দ্রীয় ডিভাইসের প্রয়োজন নেই\u003Cbr\u003E\nii. প্রত্যেকটি কম্পিউটার প্রত্যেকটা কম্পিউটারকে ডেটা পাঠাতে পারে\u003Cbr\u003E\niii. এতে নেটওয়ার্ক ইনস্টলেশন বেশ জটিল\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770100,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770100,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770101,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বিভিন্ন ধরনের নেটওয়ার্ক টপোলজি হলো-\u003Cbr\u003E\ni. ট্রি\u003Cbr\u003E\nii. মেশ\u003Cbr\u003E\niii. এফডিপি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770101,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770101,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770102,
+      "value": {
+        "options": {
+          "ক": "বিশেষ কাজের জন্য একত্র করা হয়",
+          "খ": "আলাদা আলাদাভাবে স্থাপন করা হয়",
+          "গ": "যোগাযোগের জন্য যুক্ত করা হয়",
+          "ঘ": "একটা মনিটরের সাথে যুক্ত করা হয়"
+        },
+        "question": "কম্পিউটার নেটওয়ার্কে অনেকগুলো কম্পিউটারকে কী করা হয়?",
+        "solution": "গ. যোগাযোগের জন্য যুক্ত করা হয়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770102,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770103,
+      "value": {
+        "options": {
+          "ক": "অন্য কম্পিউটারগুলোতে নেটওয়ার্ক সচল থাকবে",
+          "খ": "পুরো নেটওয়ার্ক ব্যবস্থাটাই অচল হয়ে পড়বে",
+          "গ": "কোনো কোনো কম্পিউটারের নেটওয়ার্ক সচল থাকবে",
+          "ঘ": "অন্য কম্পিউটারগুলোতে তথ্য আদান-প্রদান করা যাবে"
+        },
+        "question": "কেন্দ্রীয় হাব নষ্ট হলে কী ঘটবে?",
+        "solution": "খ. পুরো নেটওয়ার্ক ব্যবস্থাটাই অচল হয়ে পড়বে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770103,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770104,
+      "value": {
+        "options": {
+          "ক": "ব্যান্ডউইথ",
+          "খ": "ক্লাউড কম্পিউটিং",
+          "গ": "স্ট্যাটেলাইট",
+          "ঘ": "স্টার টপোলজি"
+        },
+        "question": "লোকাল এরিয়া নেটওয়ার্কের অন্তর্ভুক্ত কোনটি?",
+        "solution": "ঘ. স্টার টপোলজি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770104,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770105,
+      "value": {
+        "options": {
+          "ক": "Router",
+          "খ": "Hub",
+          "গ": "Root",
+          "ঘ": "Backbone"
+        },
+        "question": "Tree Topology তে কেন্দ্রীয় ডিভাইসটিকে কী বলা হয়?",
+        "solution": "খ. Hub",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770105,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770106,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্টার টপোলজির বৈশিষ্ট্য-\u003Cbr\u003E\ni. একটি মাত্র কেন্দ্রীয় হাব থাকে\u003Cbr\u003E\nii. কম্পিউটারগুলো স্টারের মতোই সাজাতে হবে\u003Cbr\u003E\niii. কেন্দ্রীয় হাব নষ্ট হলে পুরো নেটওয়ার্ক নষ্ট হয়ে যায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770106,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770106,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770107,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাস টপোলজির বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. অনেকগুলো কম্পিউটারকে সহজে জুড়ে দেয়া যায়\u003Cbr\u003E\nii. প্রতিটি কম্পিউটার মূল ব্যাকবোনের সাথে যুক্ত থাকে\u003Cbr\u003E\niii. কম্পিউটারগুলো সর্বদা বৃত্তাকারে যোগাযোগ করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770107,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770107,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770094,
+      "value": {
+        "options": {
+          "ক": "ব্লুট বা সার্ভার কম্পিউটারে",
+          "খ": "যেকোনো কম্পিউটারে",
+          "গ": "যেকোনো একটি শাখায়",
+          "ঘ": "যেকোনো তারে"
+        },
+        "question": "কোন জায়গায় ত্রুটি দেখা দিলে ট্রি নেটওয়ার্কটি অচল হয়ে যায়?",
+        "solution": "ক. ব্লুট বা সার্ভার কম্পিউটারে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770109,
+      "value": {
+        "options": {
+          "ক": "মেশ টপোলজিতে",
+          "খ": "রিং টপোলজিতে",
+          "গ": "স্টার টপোলজিতে",
+          "ঘ": "ট্রি টপোলজি"
+        },
+        "question": "কোন টপোলজিতে একটি কম্পিউটার দুটো কম্পিউটারের সাথে যুক্ত থাকে?",
+        "solution": "খ. রিং টপোলজিতে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770110,
+      "value": {
+        "options": {
+          "ক": "গোলাকার বৃত্তের মতো",
+          "খ": "চ্যাপ্টা",
+          "গ": "চারকোনা",
+          "ঘ": "ত্রিভুজের মতো"
+        },
+        "question": "রিং টপোলজি দেখতে কেমন?",
+        "solution": "ক. গোলাকার বৃত্তের মতো",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770111,
+      "value": {
+        "options": {
+          "ক": "রিং টপোলজি",
+          "খ": "বাস টপোলজি",
+          "গ": "স্টার টপোলজি",
+          "ঘ": "হাইব্রিড টপোলজি"
+        },
+        "question": "লিপি একটি সহজ নেটওয়ার্ক ব্যবহার করে। তার একটি কম্পিউটার নষ্ট হয়ে গেলেও পুরো নেটওয়ার্কের উপর কোনো প্রভাব পড়ে না। লিপি কোন ধরনের টপোলজি ব্যবহার করে?",
+        "solution": "খ. বাস টপোলজি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770112,
+      "value": {
+        "options": {
+          "ক": "স্টার",
+          "খ": "বাস",
+          "গ": "ট্রি",
+          "ঘ": "মেশ"
+        },
+        "question": "কোন টপোলজিতে একটি মূল ব্যাকবোন ব্যবহৃত হয়?",
+        "solution": "খ. বাস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770112,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770113,
+      "value": {
+        "options": {
+          "ক": "রিং",
+          "খ": "মেশ",
+          "গ": "ট্রি",
+          "ঘ": "স্টার"
+        },
+        "question": "কোন টপোলজিতে একটি নির্দিষ্ট দিকে ডাটা ট্রান্সফার হয়?",
+        "solution": "ক. রিং",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770113,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770114,
+      "value": {
+        "options": {
+          "ক": "রিং",
+          "খ": "বাস",
+          "গ": "ট্রি",
+          "ঘ": "মেশ"
+        },
+        "question": "কোন টপোলজিতে সর্বশেষ সংযুক্ত কম্পিউটারটি প্রথম কম্পিউটারের সাথে যুক্ত থাকে?",
+        "solution": "ক. রিং",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770114,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770115,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রিং টপোলজির বৈশিষ্ট্য হলো-\u003Cbr\u003E\ni. কম্পিউটারগুলোর মাঝে বৃত্তাকারে যোগাযোগ হয়\u003Cbr\u003E\nii. প্রত্যেকটা কম্পিউটার অন্য দুইটা কম্পিউটারের সাথে যুক্ত থাকে\u003Cbr\u003E\niii. সবগুলো কম্পিউটার অবশ্যই বৃত্তাকারে অবস্থান করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770115,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770115,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770116,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "যেসব টপোলজিতে প্রতিটি কম্পিউটার সর্বনিম্ন দুইটি কম্পিউটারের সাথে সরাসরি যুক্ত থাকে-\u003Cbr\u003E\ni. রিং\u003Cbr\u003E\nii. স্টার\u003Cbr\u003E\niii. ট্রি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770116,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770116,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770117,
+      "value": {
+        "options": {
+          "ক": "মেশ টপোলজি",
+          "খ": "রিং টপোলজি",
+          "গ": "স্টার টপোলজি",
+          "ঘ": "ট্রি টপোলজি"
+        },
+        "question": "প্রত্যেক কম্পিউটার প্রত্যেক কম্পিউটারের সাথে যুক্ত থাকে কোন টপোলজিতে?",
+        "solution": "ক. মেশ টপোলজি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770118,
+      "value": {
+        "options": {
+          "ক": "মেশ টপোলজি",
+          "খ": "ট্রি টপোলজি",
+          "গ": "বাস টপোলজি",
+          "ঘ": "রিং টপোলজি"
+        },
+        "question": "কোন টপোলজিতে একটি কম্পিউটার বাকি সব কম্পিউটারকে একই বার্তা পৌঁছে দেয় কিন্তু শুধু সংশ্লিষ্ট কম্পিউটারকে তথ্য গ্রহণ করে, অন্যেরা তথ্যগুলো উপেক্ষা করে?",
+        "solution": "গ. বাস টপোলজি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770118,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770119,
+      "value": {
+        "options": {
+          "ক": "মেশ",
+          "খ": "স্টার",
+          "গ": "বাস",
+          "ঘ": "ট্রি"
+        },
+        "question": "বাস্তবায়ন সহজ ও ব্যয় অত্যন্ত কম কোন টপোলজির?",
+        "solution": "গ. বাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770119,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770120,
+      "value": {
+        "options": {
+          "ক": "অন্য দুটো কম্পিউটার",
+          "খ": "মূল ব্যাকবোন",
+          "গ": "কেন্দ্রীয় হাব",
+          "ঘ": "অন্য সকল কম্পিউটার"
+        },
+        "question": "বাস টপোলজিতে একটা কম্পিউটার কিসের সাথে যুক্ত থাকে?",
+        "solution": "খ. মূল ব্যাকবোন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7920,
+      "created_at": "2025-12-01T10:17:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770120,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7920&grade=2&lesson=14451&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7920&grade=2&lesson=14451&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7920&grade=2&lesson=14451&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 55,
+  "total": 55
+}

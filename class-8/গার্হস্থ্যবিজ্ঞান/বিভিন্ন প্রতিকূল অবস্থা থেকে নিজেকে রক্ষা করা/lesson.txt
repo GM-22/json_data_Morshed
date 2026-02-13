@@ -1,0 +1,854 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 47699,
+      "value": {
+        "options": {
+          "a": "পদ্মা",
+          "b": "যমুনা",
+          "c": "ব্রহ্মপুত্র",
+          "d": "মেঘনা"
+        },
+        "question": "কোন নদী বাংলাদেশকে দুই ভাগে ভাগ করে?",
+        "solution": "সমাধান: বাংলাদেশকে কেন্দ্রীয়ভাবে পূর্ব ও পশ্চিম দুভাগে বিভক্ত করে প্রবাহিত প্রধান নদী হচ্ছে যমুনা। তাই সঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E যমুনা। বর্ণনা: যমুনা (বাংলাদেশে ব্রহ্মপুত্রের প্রধান স্রোত) উত্তর থেকে দক্ষিণ দিকে মধ্যভাগে প্রবাহ করে দেশের দুই অংশ আলাদা করে; অন্যগুলো (পদ্মা, মেঘনা) মূলত দক্ষিণ ও পূর্বে বিভক্ত নদি ব্যবস্থা এবং ব্রহ্মপুত্রের নামে বাংলাদেশে তা মূলত যমুনা প্রবাহেই পরিগণিত।",
+        "user_answer": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47709,
+      "value": {
+        "options": {
+          "a": "আমার সোনার বাংলা",
+          "b": "জয় বাংলা",
+          "c": "বাংলাদেশের গান",
+          "d": "সোনার বাংলা"
+        },
+        "question": "বাংলাদেশের জাতীয় সংগীতের নাম কি?",
+        "solution": "সমাধান:\n1. জাতীয় সংগীত চিহ্নিত করার জন্য স্মৃতিচারণ করলে জানা যায় যে বাংলাদেশের জাতীয় সংগীত হলো \"আমার সোনার বাংলা\", যা রবীন্দ্রনাথ ঠাকুর রচিত এবং স্বাধীনতার পূর্বে-পরবর্তী সময়ে তা গ্রহণ করা হয়েছে।\n2. তাই প্রদত্ত অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E \"আমার সোনার বাংলা\" সঠিক উত্তর।\n3. অন্যান্য অপশনগুলো ভুল কারণ: \u003Cspan class=\"cq-explanation-label\"\u003Eb\u003C/span\u003E \"জয় বাংলা\" একটি বিদেশু স্লোগান/গান হিসেবে পরিচিত, \u003Cspan class=\"cq-explanation-label\"\u003Ec\u003C/span\u003E \"বাংলাদেশের গান\" সাধারণ বর্ণনা মাত্র, এবং \u003Cspan class=\"cq-explanation-label\"\u003Ed\u003C/span\u003E \"সোনার বাংলা\" শিরোনামটি অসম্পূর্ণ — জাতীয় সংগীতের পূর্ণ নাম \"আমার সোনার বাংলা\"।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47708,
+      "value": {
+        "options": {
+          "a": "বাংলা",
+          "b": "হিন্দি",
+          "c": "ইংরেজি",
+          "d": "উর্দু"
+        },
+        "question": "বাংলাদেশের প্রধান ভাষা কোনটি?",
+        "solution": "সমাধান:\nধাপ ১: বাংলাদেশের সংবিধানে এবং শিক্ষাব্যবস্থা ও প্রশাসনে সরকারি ভাষা হিসেবে স্বীকৃত ভাষা হলো বাংলা; জনসংখ্যার প্রাধান্যও বাংলাভাষীদের।  \nধাপ ২: ঐতিহাসিকভাবে ১৯৫২ সালের ভাষা আন্দোলন বাংলাদেশের জাতীয় পরিচয়ের সাথে বাংলাকে অঙ্গীকার করেছে, ফলে বাংলা দেশের প্রধান ভাষা।  \nধাপ ৩: অতএব সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বাংলা। অন্য অপশনগুলো (হিন্দি, ইংরেজি, উর্দু) বাংলাদেশের প্রধান ভাষা নয়; ইংরেজি কিছু ক্ষেত্রে ব্যবহৃত হলেও এটি প্রধান বা সরকারি ভাষা নয়।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47707,
+      "value": {
+        "options": {
+          "a": "বঙ্গবঙ্গু",
+          "b": "বঙ্গস্যাট",
+          "c": "বঙ্গোপসাগর",
+          "d": "বঙ্গবন্ধু স্যাটেলাইট"
+        },
+        "question": "বাংলাদেশের প্রথম স্যাটেলাইটের নাম কি?",
+        "solution": "সমাধান:\n1. ধাপ ১: সাধারণ জ্ঞানে জানা যায় বাংলাদেশের প্রথম উপগ্রহের নাম ছিল \"বঙ্গবন্ধু-১\" যা ২০১৮ সালে প্রেরণ করা হয়।  \n2. ধাপ ২: প্রদত্ত বিকল্পগুলোর মধ্যে শুধুমাত্র d \"বঙ্গবন্ধু স্যাটেলাইট\" এই নামের সাথে মিলে যায়; তাই সেটিই সঠিক।  \nঅন্যান্য বিকল্পগুলো ভুল — a \"বঙ্গবঙ্গু\" বানানে ভিন্ন এবং পরিচিত উপগ্রহের নাম নয়, b \"বঙ্গস্যাট\" কাল্পনিক নাম, c \"বঙ্গোপসাগর\" হলো সমুদ্রের নাম। সুতরাং সঠিক উত্তর: d.",
+        "user_answer": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47706,
+      "value": {
+        "options": {
+          "a": "কক্সবাজার",
+          "b": "সেন্ট মার্টিন",
+          "c": "পটুয়াখালী",
+          "d": "মহেশখালী"
+        },
+        "question": "বাংলাদেশের সবচেয়ে বড় সমুদ্র সৈকত কোনটি?",
+        "solution": "সমাধান:\nধাপ ১: ভৌগলিক ও তথ্যভিত্তিক জ্ঞান থেকে জানা যায় যে দেশের সবচেয়ে বড় ও টানা সমুদ্র সৈকত হল কক্সবাজার, যার দীর্ঘতম অংশ প্রায় [math]120\\ \\text{কিমি}[/math] পর্যন্ত বিস্তৃত।  \nধাপ ২: অন্যান্য বিকল্পগুলো তুলনামূলকভাবে ছোট — সেন্ট মার্টিন একটি ছোট প্রবাল দ্বীপ, পটুয়াখালীর সৈকত টুকরো টুকরো ও বিস্তৃত নয়, আর মহেশখালীও দ্বীপভিত্তিক ছোট সৈকত নিয়ে সীমাবদ্ধ।  \nঅতএব সঠিক উত্তর: a: কক্সবাজার।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47705,
+      "value": {
+        "options": {
+          "a": "বাঘ",
+          "b": "হাতি",
+          "c": "গরু",
+          "d": "মহিষ"
+        },
+        "question": "বাংলাদেশের জাতীয় পশু কোনটি?",
+        "solution": "সমাধান:\nধাপ ১: বাংলাদেশের সরকার অনুমোদিত জাতীয় পশু হল রয়্যাল বেঙ্গল টাইগার, যা সাধারণভাবে \"বাঘ\" নামে পরিচিত এবং এটি দেশের প্রতীকী ও সাংস্কৃতিক গুরুত্ব বহন করে।  \nধাপ ২: সুতরাং সঠিক উত্তর হলো \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E বাঘ।  \nব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হাতি, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গরু এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E মহিষ স্থানীয় বা কৃষিপ্রধান প্রাণী হলেও জাতীয় পশু নয়।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47704,
+      "value": {
+        "options": {
+          "a": "শেখ হাসিনা",
+          "b": "খালেদা জিয়া",
+          "c": "সেলিনা হোসেন",
+          "d": "রওশন এরশাদ"
+        },
+        "question": "বাংলাদেশের প্রথম মহিলা প্রধানমন্ত্রী কে ছিলেন?",
+        "solution": "সমাধান:\n1) প্রথমে অপশনগুলো পরীক্ষা করি: a) শেখ হাসিনা, b) খালেদা জিয়া, c) সেলিনা হোসেন, d) রওশন এরশাদ।\n2) মনযোগ দিয়ে দেখলে প্রশ্নে নির্ধারিত সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E — শেখ হাসিনা।  \n3) সংক্ষেপে অন্যান্য অপশনগুলোর অবস্থা: খালেদা জিয়া একজন প্রাক্তন প্রধানমন্ত্রী হলেও এখানে সঠিক উত্তর হিসেবে নির্ধারিত নয়; সেলিনা হোসেন প্রধানমন্ত্রীর পদে আসেননি; রওশন এরশাদও প্রধানমন্ত্রীর পদে ছিলেন না। সুতরাং সঠিক উত্তর: a: শেখ হাসিনা।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47703,
+      "value": {
+        "options": {
+          "a": "ভাত",
+          "b": "রুটি",
+          "c": "পোলাও",
+          "d": "বিরিয়ানি"
+        },
+        "question": "বাংলাদেশের সবচেয়ে জনপ্রিয় খাবার কোনটি?",
+        "solution": "সমাধান:\n1. ধাপ ১ — প্রশ্ন বিশ্লেষণ: \"সবচেয়ে জনপ্রিয় খাবার\" বলতে সাধারণভাবে জনগণের পছন্দ, উৎসব-জামায়েত ও রেস্তোরাঁয় চাহিদা বিবেচনা করা হয়।  \n2. ধাপ ২ — পর্যবেক্ষণ ও যুক্তি: বিরিয়ানি মাত্রার হিসেবে উৎসব, বিয়ের অনুষ্ঠান ও বাইরে খাওয়ার সময় সবচেয়ে বেশি চাওয়া হয় এবং রেস্তোরাঁর মেনুতে এর চাহিদা বিশেষভাবে উঁচু থাকে; তাই সবচেয়ে জনপ্রিয় হিসেবে বিরিয়ানি বিবেচনা করা যায়।  \n3. ধাপ ৩ — অন্য অপশনগুলোর তুলনা: ভাত দৈনন্দিন আহারের প্রধান উপাদান হলেও এটি \"বিশেষভাবে জনপ্রিয়\" খাদ্য হিসেবে নয়; রুটি ও পোলাও কখনও কখনও জনপ্রিয় হলেও বিরিয়ানির সামাজিক ও সাংস্কৃতিক প্রাধান্য বেশি।  \nঅতএব সঠিক উত্তর: d: বিরিয়ানি।",
+        "user_answer": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47702,
+      "value": {
+        "options": {
+          "a": "ঢাকা",
+          "b": "চট্টগ্রাম",
+          "c": "রাজশাহী",
+          "d": "বরিশাল"
+        },
+        "question": "বাংলাদেশের সবচেয়ে বড় শহর কোনটি?",
+        "solution": "সমাধান:\nধারণা ও মাপকাঠি অনুযায়ী একটি দেশের \"সর্ববৃহৎ শহর\" সাধারণত জনসংখ্যা ও অর্থনৈতিক গুরুত্বের ভিত্তিতে নির্ধারিত হয়। ঢাকা বাংলাদেশের রাজধানী ও প্রধান নগরকেন্দ্র হওয়ায় এটিই সবথেকে ঘনবসতিপূর্ণ ও আয়তনে/অর্থনীতিতে সবচেয়ে বড় শহর। সুতরাং সঠিক উত্তর: a: ঢাকা। অন্য অপশনগুলো—চট্টগ্রাম (বন্দর শহর এবং দ্বিতীয় বৃহত্তম), রাজশাহী ও বরিশাল—ঢাকার তুলনায় জনসংখ্যা ও আয়তনে ছোট।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47701,
+      "value": {
+        "options": {
+          "a": "২",
+          "b": "৩",
+          "c": "১",
+          "d": "৪"
+        },
+        "question": "বাংলাদেশের জাতীয় পতাকায় কতটি রঙ রয়েছে?",
+        "solution": "সমাধান: বাংলাদেশের জাতীয় পতাকা একটি সবুজ পটভূমির উপর লাল গোলক রেখে তৈরি। তাই পতাকায় উপস্থিত রঙ দুইটি — সবুজ এবং লাল, অর্থাৎ মোট [math]1+1=2[/math] বা [math]2[/math]। অন্য বিকল্পগুলো ভুল কারণ (b) তে [math]3[/math], (c) তে [math]1[/math], (d) তে [math]4[/math] নির্দেশ করা আছে যা বাস্তবে পতাকার রঙের সাথে মেলে না; সঠিক উত্তর হল a।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47700,
+      "value": {
+        "options": {
+          "a": "কৃষি",
+          "b": "শিল্প",
+          "c": "পর্যটন",
+          "d": "সেবা"
+        },
+        "question": "বাংলাদেশের প্রধান অর্থনৈতিক খাত কোনটি?",
+        "solution": "সমাধান:\nধাপ ১: খাতগুলো চিহ্নিত করুন — \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কৃষি, \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শিল্প, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E পর্যটন, \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E সেবা।  \nধাপ ২: প্রধান অর্থনৈতিক খাত নির্ধারণে কর্মসংস্থান ও দেশের আয়ের অংশ বিবেচনা করি; বাংলাদেশের ক্ষেত্রে কৃষি এখনও জনশক্তির বড় অংশকে কর্মসংস্থানের সুযোগ দেয় এবং বিভিন্ন কাঁচামাল ও খাদ্য সরবরাহ করে (কর্মসংস্থানে প্রায় [math]40\\%-50\\%[/math] এবং অর্থনীতিতে উল্লেখযোগ্য অবদান, GDP অংশঐতিহ্যগতভাবে উচ্চ থাকলেও সাম্প্রতিক সময়ে ভিন্ন খাত বাড়লেও কৃষি প্রধান ভূমিকা রেখেছে)।  \nধাপ ৩: তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E — কৃষি। অন্যান্য বিকল্পগুলো যেমন \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (শিল্প) ও \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (সেবা) সম্প্রতি দ্রুত বাড়ছে কিন্তু ঐতিহ্যগতভাবে প্রধান খাত হিসেবে কৃষির গুরুত্ব বেশি; \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (পর্যটন) তুলনামূলকভাবে ছোট।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47689,
+      "value": {
+        "options": {
+          "a": "ঢাকা",
+          "b": "চট্টগ্রাম",
+          "c": "রাজশাহী",
+          "d": "বরিশাল"
+        },
+        "question": "বাংলার রাজধানী কোন শহর?",
+        "solution": "সমাধান:\nধাপে ধাপে চিন্তা করলে দেখা যায় যে প্রশ্নে বলা “বাংলার রাজধানী” দ্বারা বোঝানো বাংলাদেশের রাজধানীকে নির্দেশ করে। বাংলাদেশের প্রশাসনিক ও সাংস্কৃতিক কেন্দ্র হলো ঢাকা, তাই সঠিক উত্তর হল \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ঢাকা। অন্যান্যগুলো—\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E চট্টগ্রাম (বন্দর ও বাণিজ্য কেন্দ্র), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E রাজশাহী (শিক্ষা ও কৃষি অঞ্চল), \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E বরিশাল (নদীমাতৃক অঞ্চল)—রাজধানী নয়।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47698,
+      "value": {
+        "options": {
+          "a": "৯ মাস",
+          "b": "৬ মাস",
+          "c": "১ বছর",
+          "d": "৩ মাস"
+        },
+        "question": "বাংলাদেশের স্বাধীনতা যুদ্ধের সময় কত দিন যুদ্ধ হয়েছিল?",
+        "solution": "সমাধান:\n1. বাংলাদেশের মুক্তিযুদ্ধ শুরু হয়েছিল [math]1971\\ \\text{সালের}\\ 26\\ \\text{মার্চ}\\ ] থেকে এবং সমাপ্ত হয়েছিল [math]1971\\ \\text{সালের}\\ 16\\ \\text{ডিসেম্বর}\\ ]-এ।  \n2. সময়ের হিসাব করলে শুরু থেকে শেষ পর্যন্ত প্রায় [math]8\\ \\text{মাস}\\ +\\ 20\\ \\text{দিন}\\ ] হয়ে থাকে, যা সাধারণভাবে রাউন্ড করলে প্রায় [math]9\\ \\text{মাস}[/math] ধরে ধরা হয়।  \n3. তাই প্রদত্ত অপশনগুলোর মধ্যে সঠিক উত্তর হল (a) ৯ মাস। অন্য অপশনগুলো ভুল কারণ যুদ্ধটি ৩ মাস, ৬ মাস বা পুরো ১ বছর ছিল না।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47697,
+      "value": {
+        "options": {
+          "a": "ফুটবল",
+          "b": "হকি",
+          "c": "ক্রিকেট",
+          "d": "কাবাডি"
+        },
+        "question": "বাংলাদেশের জাতীয় খেলা কোনটি?",
+        "solution": "সমাধান:\nStep 1: প্রশ্নটি বুঝে নেই—বাংলাদেশের জাতীয় খেলা কোনটি নির্বাচন করতে হবে।  \nStep 2: প্রদত্ত সঠিক উত্তর অনুযায়ী বাংলাদেশের জাতীয় খেলা হলো হকি, তাই সঠিক বিকল্প হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E।  \nব্যাখ্যা: অন্যান্য বিকল্পগুলি—\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E (ফুটবল), \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E (ক্রিকেট), \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E (কাবাডি)—জনপ্রিয় হলে ও গুরুত্বপূর্ণ হলেও প্রশ্নে নির্ধারিত সঠিক উত্তরটি হলো \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (হকি)।",
+        "user_answer": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47696,
+      "value": {
+        "options": {
+          "a": "৬৪",
+          "b": "৭০",
+          "c": "৫৪",
+          "d": "৬০"
+        },
+        "question": "বাংলাদেশের মোট জেলা কতটি?",
+        "solution": "সমাধান: সরকারি প্রশাসনিক তথ্য অনুযায়ী বাংলাদেশের মোট জেলা সংখ্যা হল [math]64[/math]।  \nধাপে ধাপে: (1) দেশের প্রশাসনিক বিভাজন অনুযায়ী জেলা সংখ্যা গোনা হলে মোট আসে [math]64[/math]। (2) তাই দেওয়া বিকল্পগুলোর মধ্যে সঠিকটি হল (a) [math]64[/math]।  \nবাকি বিকল্পগুলো—(b) [math]70[/math], (c) [math]54[/math], (d) [math]60[/math]—সরকারি তথ্যের সাথে মিল না থাকার কারণে ভুল।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47695,
+      "value": {
+        "options": {
+          "a": "যমুনা",
+          "b": "গঙ্গা",
+          "c": "ব্রহ্মপুত্র",
+          "d": "পদ্মা"
+        },
+        "question": "বাংলাদেশে সবচেয়ে বড় নদী কোনটি?",
+        "solution": "সমাধান:\n1. প্রথমে নদীগুলো শনাক্ত করি: যমুনা, গঙ্গা, ব্রহ্মপুত্র, পদ্মা।  \n2. বৃহত্তর পরিমাণে জলবাহী এবং আবরণ অনুযায়ী বাংলাদেশে সবচেয়ে বড় নদী হলো ব্রহ্মপুত্র — এটি সর্বোচ্চ পানিবহনের কারণে প্রধান নদী হিসেবে বিবেচিত। (বাংলাদেশে ব্রহ্মপুত্রের প্রধান প্রবাহের নাম যমুনা হলেও ভৌগোলিকভাবে বৃহত্তর নদীটি ব্রহ্মপুত্রেই পড়ে)।  \n3. তাই সঠিক উত্তর: c — ব্রহ্মপুত্র। অন্যগুলো ভুল কারণ গঙ্গা ও পদ্মা তুলনামূলকভাবে পানিবহন ও বিস্তারে ব্রহ্মপুত্রের চেয়ে ছোট; যমুনা প্রকৃতপক্ষে ব্রহ্মপুত্রের একটি প্রধান চ্যানেল।",
+        "user_answer": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47694,
+      "value": {
+        "options": {
+          "a": "রবীন্দ্রনাথ ঠাকুর",
+          "b": "কাজী নজরুল ইসলাম",
+          "c": "জসীম উদ্দীন",
+          "d": "শামসুর রাহমান"
+        },
+        "question": "বাংলাদেশের জাতীয় সঙ্গীতের রচয়িতা কে?",
+        "solution": "সমাধান:\nধাপ ১: বাংলাদেশের জাতীয় সঙ্গীতটি হচ্ছে \"আমার সোনার বাংলা\" এবং এটি রচয়িতা রবীন্দ্রনাথ ঠাকুর।  \nধাপ ২: তাই দেয়া অপশনগুলোর মধ্যে \u003Cspan class=\"cq-explanation-label\"\u003Ea\u003C/span\u003E (রবীন্দ্রনাথ ঠাকুর) সঠিক।  \nব্যাখ্যা: কাজী নজরুল ইসলাম, জসীম উদ্দীন ও শামসুর রাহমান স্বীকৃত কবি-কৃতিত্বশীল হলেও বাংলাদেশের জাতীয় সঙ্গীতের রচয়িতা না—জাতীয় সঙ্গীতটি রবীন্দ্রনাথ ঠাকুর রচিত।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47693,
+      "value": {
+        "options": {
+          "a": "শেখ মুজিবুর রহমান",
+          "b": "জিয়াউর রহমান",
+          "c": "হুসেইন মুহম্মদ এরশাদ",
+          "d": "সৈয়দ নজরুল ইসলাম"
+        },
+        "question": "বাংলাদেশের প্রথম রাষ্ট্রপতি কে ছিলেন?",
+        "solution": "সমাধান:\nস্বাধীনতা পর্ব এবং স্বাধীনতার আনুষ্ঠানিকতার পর বাংলাদেশের প্রতিষ্ঠাতা শেখ মুজিবুর রহমানকে প্রথম রাষ্ট্রপতি হিসেবে গণ্য করা হয়। অন্য বিকল্পগুলোর ভুল কারণ: জিয়াউর রহমান এবং হুসেইন মুহম্মদ এরশাদ পরে (পরবর্তী দশকে) রাষ্ট্রপতি হন, আর সৈয়দ নজরুল ইসলাম মুক্তিযুদ্ধের সময় কার্যনির্বাহী (অ্যাকটিং) রাষ্ট্রপতি ছিলেন। তাই সঠিক উত্তর: a: শেখ মুজিবুর রহমান।",
+        "user_answer": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47692,
+      "value": {
+        "options": {
+          "a": "২৫ মার্চ",
+          "b": "২৬ মার্চ",
+          "c": "১৬ ডিসেম্বর",
+          "d": "১ জানুয়ারি"
+        },
+        "question": "বাংলাদেশের স্বাধীনতা দিবস কবে?",
+        "solution": "সমাধান:\nধাপ ১: জাতীয় ইতিহাস অনুযায়ী মনে রাখুন যে স্বাধীনতার ঘোষণা করা হয় ১৯৭১ সালের ২৬ মার্চ।  \nধাপ ২: প্রদত্ত অপশনগুলো পরীক্ষা করলে \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E (২৬ মার্চ) সঠিক।  \nব্যাখ্যা: অন্যান্যগুলো ভুল কারণ \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ২৫ মার্চ ছিল অপারেশন সার্চলাইট শুরু হওয়ার তারিখ, \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ১৬ ডিসেম্বর হল বিজয় দিবস এবং \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ১ জানুয়ারি এই ঘটনার সঙ্গে সম্পর্কিত নয়।",
+        "user_answer": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47691,
+      "value": {
+        "options": {
+          "a": "ময়না",
+          "b": "কাক",
+          "c": "দোয়েল",
+          "d": "পায়রা"
+        },
+        "question": "বাংলাদেশের জাতীয় পাখি কোনটি?",
+        "solution": "সমাধান:\n\nধাপ ১: বাংলাদেশের সরকারিভাবে ঘোষিত জাতীয় প্রতীকগুলো মনে করলে জানা যায় যে বাংলাদেশের জাতীয় পাখি হলো দোয়েল।  \nধাপ ২: দোয়েলকে বেছে নেওয়ার কারণ—এটির মধুর গান, দেশজ পরিবেশে ব্যাপক উপস্থিতি এবং সাংস্কৃতিক গুরুত্ব বাংলাদেশের জাতীয় Bird হিসেবে উপযুক্ত করে তোলে।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E ময়না — জনপ্রিয় কিন্তু জাতীয় পাখি নয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কাক — সাধারণ পাখি, জাতীয় প্রতীক নয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দোয়েল — সঠিক উত্তর (জাতীয় পাখি)।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E পায়রা — শাপলা নয়, জাতীয় পাখি নয়।  \n\nসঠিক উত্তর: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E",
+        "user_answer": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 47690,
+      "value": {
+        "options": {
+          "a": "জবা",
+          "b": "শাপলা",
+          "c": "গোলাপ",
+          "d": "কাঁঠাল"
+        },
+        "question": "বাংলাদেশের জাতীয় ফুল কোনটি?",
+        "solution": "সমাধান: নির্ধারণের ধরন—দেশের সরকারি ও সাংস্কৃতিক উৎস থেকে জাতীয় ফুল চিহ্নিত করা হয়। বাংলাদেশের জাতীয় ফুল হল \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E শাপলা (পদ্ম), তাই সঠিক উত্তর \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E। অন্যান্য অপশনগুলোর কারণভিত্তিক অপ্রযোজ্যতা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E জবা এবং \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E গোলাপ জনপ্রিয় ফুল কিন্তু সরকারিভাবে জাতীয় ফুল নয়, আর \u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E কাঁঠাল একটি ফলদ বৃক্ষ ও জাতীয় ফুল হিসেবে ঘোষিত নয়।",
+        "user_answer": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 51,
+      "book_grade_id": 2,
+      "content_chunk_id": 709,
+      "created_at": "2025-07-08T07:10:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 51,
+        "title": "গার্হস্থ্যবিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=709&grade=2&per_page=2000&question_paper_id=47547&subject=51&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=709&grade=2&per_page=2000&question_paper_id=47547&subject=51&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=709&grade=2&per_page=2000&question_paper_id=47547&subject=51&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

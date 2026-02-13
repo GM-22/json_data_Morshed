@@ -1,0 +1,1699 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 780718,
+      "value": {
+        "options": [],
+        "question": "রাসায়নিক সমীকরণ কী? উদাহরণসহ বুঝিয়ে দাও।",
+        "solution": "কোনো রাসায়নিক বিক্রিয়ায় অংশগ্রহণকারী বিক্রিয়ক দ্রব্য এবং উৎপন্ন দ্রব্যকে প্রতীক, সংকেত ও কতগুলো চিহ্নের (+, বা =)&nbsp;সাহায্যে সংক্ষেপে প্রকাশ করাকে রাসায়নিক সমীকরণ বলে। যেমন-\u003Cbr /\u003E\nZn&nbsp; &nbsp;+&nbsp; &nbsp; &nbsp; H\u003Csub\u003E2\u003C/sub\u003ESO\u003Csub\u003E4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\u003C/sub\u003E&nbsp;&rarr;&nbsp; &nbsp; &nbsp;ZnSO\u003Csub\u003E4\u003C/sub\u003E&nbsp; &nbsp; &nbsp;+&nbsp; &nbsp; &nbsp; H\u003Csub\u003E2\u003C/sub\u003E\u003Cbr /\u003E\nজিঙ্ক&nbsp; &nbsp; &nbsp; সালফিউরিক এসিড&nbsp; &nbsp;&nbsp;জিঙ্ক সালফেট&nbsp; &nbsp;&nbsp;হাইড্রোজেন",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780733,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রাসায়নিক বিক্রিয়ার-\u003Cbr\u003E\ni. পরমাণুর সংখ্যা অপরিবর্তিত থাকে\u003Cbr\u003E\nii. পরামাণুর পুনর্বিন্যাস ঘটে\u003Cbr\u003E\niii. পরমাণুর নিউক্লিয়াস ভেঙে যায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 780733,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-02T06:15:18.000000Z",
+            "updated_at": "2025-12-02T06:15:18.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780733,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780733,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780733,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780732,
+      "value": {
+        "options": {
+          "ক": "H\u003Csub\u003E2\u003C/sub\u003EO\u003Csub\u003E2\u003C/sub\u003E",
+          "খ": "2H₂O",
+          "গ": "2HO",
+          "ঘ": "OH"
+        },
+        "question": "2H\u003Csub\u003E2\u003C/sub\u003E + O\u003Csub\u003E2\u003C/sub\u003E = X, এখানে X এর মান কোনটি?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5027,
+          "full_name": "ঢা. বো.'২০১৭;সি. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৭;সি. বো.'২০১৬",
+          "slug": "dha-bo2017si-bo2016",
+          "pivot": {
+            "question_bank_id": 780732,
+            "tag_id": 5027,
+            "year": null,
+            "created_at": "2025-12-02T06:15:18.000000Z",
+            "updated_at": "2025-12-02T06:15:18.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780732,
+            "question_bank_label_id": 3
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780732,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780731,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "5",
+          "ঘ": "6"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-71-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;K&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;C&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;l&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/msub&gt;&lt;mover&gt;&lt;mo&gt;&amp;#x2192;&lt;/mo&gt;&lt;mpadded width=&quot;+0.611em&quot; lspace=&quot;0.278em&quot; voffset=&quot;.15em&quot;&gt;&lt;mtext&gt;&amp;#xA0;&amp;#x9A4;&amp;#x9BE;&amp;#x9AA;&amp;#xA0;&lt;/mtext&gt;&lt;/mpadded&gt;&lt;/mover&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;K&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;C&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;l&lt;/mi&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;/mrow&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;msup&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;A&lt;/mi&gt;&lt;/mrow&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-1295\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-1296\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1297\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1298\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1299\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1300\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EK\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1301\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EC\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1302\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003El\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1303\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1304\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1305\" class=\"mjx-munderover MJXc-space3\"\u003E\u003Cspan class=\"mjx-stack\"\u003E\u003Cspan class=\"mjx-over\" style=\"font-size: 70.7%; padding-bottom: 0.157em; padding-top: 0.141em;\"\u003E\u003Cspan id=\"MJXc-Node-1307\" class=\"mjx-mpadded\" style=\"\"\u003E\u003Cspan class=\"mjx-block\" style=\"width: 0px; margin-top: -0.175em; padding: 0px 2.461em 0.225em 0px;\"\u003E\u003Cspan class=\"mjx-box\" style=\"width: 0px; margin: -0.825em 0px -0.225em; position: relative; top: -0.15em; left: 0.278em;\"\u003E\u003Cspan id=\"MJXc-Node-1308\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1309\" class=\"mjx-mtext\"\u003E\u003Cspan class=\"mjx-char\" style=\"padding-top: 0.445em; padding-bottom: 0.224em;\"\u003E\u003Cspan class=\"mjx-charbox MJXc-font-inherit\" style=\"font-size: 88.5%; padding-bottom: 0.382em; width: 2.091em;\"\u003E&nbsp;তাপ&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-op\"\u003E\u003Cspan id=\"MJXc-Node-1306\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-delim-h\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.222em; padding-bottom: 0.35em; margin: 0px -0.084em;\"\u003E−\u003C/span\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.222em; padding-bottom: 0.35em; margin: 0px 0.1em 0px -0.268em; letter-spacing: -0.436em;\"\u003E−\u003C/span\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.222em; padding-bottom: 0.35em; margin-right: -0.056em; margin-bottom: 0px; margin-top: 0px;\"\u003E→\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1310\" class=\"mjx-texatom MJXc-space3\"\u003E\u003Cspan id=\"MJXc-Node-1311\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1312\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EK\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1313\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EC\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1314\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003El\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1315\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1316\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1317\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1318\" class=\"mjx-mrow\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1319\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-1320\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1321\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1322\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1323\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1324\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1325\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.335em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.662em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1326\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-1327\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1328\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EK\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EC\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003El\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003C/msub\u003E\u003Cmover\u003E\u003Cmo\u003E→\u003C/mo\u003E\u003Cmpadded width=\"+0.611em\" lspace=\"0.278em\" voffset=\".15em\"\u003E\u003Cmtext\u003E&nbsp;তাপ&nbsp;\u003C/mtext\u003E\u003C/mpadded\u003E\u003C/mover\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EK\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EC\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003El\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsup\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003C/mrow\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003Cmsup\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EA\u003C/mi\u003E\u003C/mrow\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-71\"\u003E\\mathrm{KClO}_3 \\xrightarrow{\\text { তাপ }} \\mathrm{KCl}+{ }^{\\prime} \\mathrm{A}^{\\prime}\u003C/script\u003E&nbsp;\u003Cbr\u003E\nএখানে 'A' চিহ্নিত স্থানে উৎপন্ন গ্যাসটির পরমাণুর সংখ্যা কত?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3965,
+          "full_name": "রা. বো.'২০১৮",
+          "short_name": "রা. বো.'২০১৮",
+          "slug": "ra-bo2018",
+          "pivot": {
+            "question_bank_id": 780731,
+            "tag_id": 3965,
+            "year": null,
+            "created_at": "2025-12-02T06:15:18.000000Z",
+            "updated_at": "2025-12-02T06:15:18.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780731,
+            "question_bank_label_id": 3
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780731,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780730,
+      "value": {
+        "options": {
+          "ক": "০৩",
+          "খ": "০৫",
+          "গ": "০৬",
+          "ঘ": "১৫"
+        },
+        "question": "(CH\u003Csub\u003E3\u003C/sub\u003ECOO)\u003Csub\u003E2\u003C/sub\u003ECa যৌগটিতে পরমাণুর সংখ্যা কত?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 780730,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-02T06:15:18.000000Z",
+            "updated_at": "2025-12-02T06:15:18.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780730,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780730,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780729,
+      "value": {
+        "options": {
+          "ক": "১",
+          "খ": "২",
+          "গ": "৩",
+          "ঘ": "৬"
+        },
+        "question": "ক্যালসিয়াম সালফেটের একটি অণুতে কয়টি পরমাণু আছে?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 780729,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-02T06:15:18.000000Z",
+            "updated_at": "2025-12-02T06:15:18.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780729,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780729,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780728,
+      "value": {
+        "options": {
+          "ক": "২৫",
+          "খ": "৩০",
+          "গ": "৩৫",
+          "ঘ": "৪০"
+        },
+        "question": "5CuSO\u003Csub\u003E4\u003C/sub\u003E- এ কয়টি পরমাণু বিদ্যমান?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780728,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780728,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780727,
+      "value": {
+        "options": {
+          "ক": "৫টি",
+          "খ": "১০টি",
+          "গ": "১২টি",
+          "ঘ": "১৩টি"
+        },
+        "question": "Ca\u003Csub\u003E3\u003C/sub\u003E(PO\u003Csub\u003E4\u003C/sub\u003E)\u003Csub\u003E2\u003C/sub\u003E এর মধ্যে পরমাণুর সংখ্যা-&nbsp;",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 780727,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-02T06:15:18.000000Z",
+            "updated_at": "2025-12-02T06:15:18.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780727,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780727,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780726,
+      "value": {
+        "options": {
+          "ক": "3, 1, 2",
+          "খ": "3, 2, 1",
+          "গ": "1, 2, 3",
+          "ঘ": "1, 3, 2"
+        },
+        "question": "H\u003Csub\u003E2\u003C/sub\u003E + N\u003Csub\u003E2\u003C/sub\u003E&nbsp;→ NH\u003Csub\u003E3\u003C/sub\u003E;&nbsp;এই রাসায়নিক সমীকরণটির সমতাকরণের&nbsp;ক্ষেত্রে কোনটি সঠিক?",
+        "solution": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 780726,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-12-02T06:15:18.000000Z",
+            "updated_at": "2025-12-02T06:15:18.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780726,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780726,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780725,
+      "value": {
+        "options": {
+          "ক": "যতি চিহ্ন",
+          "খ": "যোগ চিহ্ন",
+          "গ": "গুণ চিহ্ন",
+          "ঘ": "ভাগ চিহ্ন"
+        },
+        "question": "বিক্রিয়ক বা বিক্রিয়াজাত পদার্থ একাধিক হলে তাদের মধ্যে কী হয়?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780725,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780725,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780724,
+      "value": {
+        "options": {
+          "ক": "কম",
+          "খ": "বেশি",
+          "গ": "শূন্য",
+          "ঘ": "সমান"
+        },
+        "question": "বিক্রিয়ক ও বিক্রিয়াজাত পদার্থের পরমাণুর সংখ্যা কীরূপ?",
+        "solution": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780724,
+            "question_bank_label_id": 2
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780724,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780723,
+      "value": {
+        "options": {
+          "ক": "রাসায়নিক পর্যবেক্ষণ",
+          "খ": "রাসায়নিক বিশ্লেষণ",
+          "গ": "রাসায়নিক সমীকরণ",
+          "ঘ": "রাসায়নিক বিভাজন"
+        },
+        "question": "রাসায়নিক বিক্রিয়ার বিবরণ দিতে কী প্রয়োজন?",
+        "solution": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780723,
+            "question_bank_label_id": 1
+          }
+        },
+        {
+          "id": 13,
+          "name": "scholarship",
+          "pivot": {
+            "question_bank_id": 780723,
+            "question_bank_label_id": 13
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780722,
+      "value": {
+        "options": [],
+        "question": "রাসায়নিক বিক্রিয়ার বৈশিষ্ট্য উল্লেখ কর।",
+        "solution": "যে কোনো রাসায়নিক বিক্রিয়ায় কোনো পরমাণু ধ্বংস বা নতুন করে সৃষ্টি হয় না, পরমাণুর শুধু পুনর্বিন্যাস ঘটে। অতএব বিক্রিয়ার পূর্বে বিভিন্ন বিক্রিয়ক পদার্থে যতগুলো পরমাণু থাকে বিক্রিয়ার পরে বিভিন্ন বিক্রিয়াজাত পদার্থেও ততগুলো পরমাণু থাকে। ফলে বিক্রিয়ক দ্রব্য এবং উৎপন্ন দ্রব্যের মধ্যে পরমাণু সংখ্যার সমতা বিরাজ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780721,
+      "value": {
+        "options": [],
+        "question": "রাসায়নিক বিক্রিয়ার অংশ দুটি ব্যাখ্যা কর।",
+        "solution": "একটি রাসায়নিক বিক্রিয়াকে দুইটি অংশে ভাগ করা যায়। এক অংশে বিক্রিয়ক পদার্থ এবং অন্য অংশে বিক্রিয়ার ফলে উৎপন্ন নতুন পদার্থ থাকে। বিক্রিয়ক পদার্থ হলো রাসায়নিক বিক্রিয়া সংঘটনের পূর্বাবস্থা এবং বিক্রিয়াজাত পদার্থ হলো রাসায়নিক বিক্রিয়া সংঘটনের শেষ বা পরবর্তী অবস্থা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780720,
+      "value": {
+        "options": [],
+        "question": "রাসায়নিক সমীকরণের বিক্রিয়ক এবং উৎপাদসমূহকে কীভাবে উপস্থাপন করা হয়?",
+        "solution": "রাসায়নিক সমীকরণে বিক্রিয়ক পদার্থ বা পদার্থগুলোর স্ব স্ব&nbsp;প্রতীক বা সংকেত সমীকরণটির তীর চিহ্নের (&rarr;) বামদিকে লিখতে&nbsp;হয়। বিক্রিয়াজাত পদার্থ বা পদার্থগুলোর স্ব স্ব প্রতীক বা সংকেত&nbsp;সমীকরণটির তীর চিহ্নের (&rarr;) ডান দিকে লিখতে হয়। বিক্রিয়ক ও&nbsp;বিক্রিয়াজাত পদার্থ একাধিক হলে তাদের সংকেতের মধ্যে যোগ চিহ্ন&nbsp;(+) দেওয়া হয়। এভাবে রাসায়নিক সমীকরণের বিক্রিয়ক এবং উৎপাদসমূহকে উপস্থাপন করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780719,
+      "value": {
+        "options": [],
+        "question": "রাসায়নিক সমীকরণের সমতা কীভাবে করা হয়?",
+        "solution": "রাসায়নিক বিক্রিয়ার আগে বিভিন্ন পদার্থের অণুর মধ্যে যত সংখ্যক বিভিন্ন মৌলের পরমাণু থাকে, বিক্রিয়ার পরে গঠিত নতুন অণুগুলোর মধ্যে ঠিক তত সংখ্যক বিভিন্ন মৌলের পরমাণু থাকতে হবে। তাই সমীকরণের উভয় পক্ষে মৌলের পরমাণু সংখ্যার সমতা আনার জন্য প্রতীক ও সংকেতগুলোকে প্রয়োজনীয় সংখ্যা দ্বারা গুণ করা হয়, যাকে বলা হয় রাসায়নিক সমীকরণের সমতাকরণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780702,
+      "value": {
+        "options": {
+          "ক": "দহন",
+          "খ": "প্রশমন",
+          "গ": "সংযোজন",
+          "ঘ": "প্রতিস্থাপন"
+        },
+        "question": "S + O\u003Csub\u003E2\u003C/sub\u003E&nbsp;→ SO\u003Csub\u003E2\u003C/sub\u003E; বিক্রিয়াটি হলো-",
+        "solution": "ক. দহন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 780717,
+      "value": {
+        "options": {
+          "ক": "৫",
+          "খ": "৬",
+          "গ": "৭",
+          "ঘ": "৮"
+        },
+        "question": "2H\u003Csub\u003E2\u003C/sub\u003EO তে পরমাণুর সংখ্যা কত?",
+        "solution": "খ. ৬",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780717,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780716,
+      "value": {
+        "options": {
+          "ক": "বিক্রিয়াজাত পদার্থ",
+          "খ": "উৎপাদ",
+          "গ": "বিক্রিয়া",
+          "ঘ": "বিক্রিয়ক"
+        },
+        "question": "যেসব পদার্থ রাসায়নিক বিক্রিয়ায় অংশগ্রহণ করে তাদের কী বলে?",
+        "solution": "ঘ. বিক্রিয়ক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780716,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780715,
+      "value": {
+        "options": {
+          "ক": "দুটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "পাঁচটি"
+        },
+        "question": "একটি রাসায়নিক বিক্রিয়াকে কয়টি অংশে ভাগ করা যায়?",
+        "solution": "ক. দুটি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780715,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780714,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-70-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mtable columnalign=&quot;right left right left right left right left right left right left&quot; rowspacing=&quot;3pt&quot; columnspacing=&quot;0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em&quot; displaystyle=&quot;true&quot;&gt;&lt;mtr&gt;&lt;mtd /&gt;&lt;mtd&gt;&lt;mtext&gt;&amp;#xA0;&amp;#x9E7;.&amp;#xA0;&lt;/mtext&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;mo stretchy=&quot;false&quot;&gt;&amp;#x2192;&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd /&gt;&lt;mtd&gt;&lt;mtext&gt;&amp;#xA0;&amp;#x9E8;.&amp;#xA0;&lt;/mtext&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Z&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;H&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msub&gt;&lt;mo stretchy=&quot;false&quot;&gt;&amp;#x2192;&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Z&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;n&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;H&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-1233\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-1234\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1235\" class=\"mjx-mtable\" style=\"vertical-align: -0.95em; padding: 0px 0.167em;\"\u003E\u003Cspan class=\"mjx-table\"\u003E\u003Cspan id=\"MJXc-Node-1236\" class=\"mjx-mtr\" style=\"height: 1.2em;\"\u003E\u003Cspan id=\"MJXc-Node-1237\" class=\"mjx-mtd\" style=\"padding: 0px; text-align: right; width: 0px;\"\u003E\u003Cspan id=\"MJXc-Node-1238\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1239\" class=\"mjx-mtd\" style=\"padding: 0px; text-align: left; width: 13.243em;\"\u003E\u003Cspan id=\"MJXc-Node-1240\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan id=\"MJXc-Node-1241\" class=\"mjx-mtext\"\u003E\u003Cspan class=\"mjx-char\" style=\"padding-top: 0.445em; padding-bottom: 0.224em;\"\u003E\u003Cspan class=\"mjx-charbox MJXc-font-inherit\" style=\"font-size: 88.5%; padding-bottom: 0.382em; width: 1.294em;\"\u003E&nbsp;১.&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1242\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1243\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1244\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1245\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1246\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1247\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1248\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1249\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1250\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1251\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.224em; padding-bottom: 0.335em;\"\u003E→\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1252\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1253\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1254\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1255\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1256\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1257\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1258\" class=\"mjx-mtr\" style=\"height: 1.2em;\"\u003E\u003Cspan id=\"MJXc-Node-1259\" class=\"mjx-mtd\" style=\"padding: 0.15em 0px 0px; text-align: right;\"\u003E\u003Cspan id=\"MJXc-Node-1260\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1261\" class=\"mjx-mtd\" style=\"padding: 0.15em 0px 0px; text-align: left;\"\u003E\u003Cspan id=\"MJXc-Node-1262\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan id=\"MJXc-Node-1263\" class=\"mjx-mtext\"\u003E\u003Cspan class=\"mjx-char\" style=\"padding-top: 0.445em; padding-bottom: 0.224em;\"\u003E\u003Cspan class=\"mjx-charbox MJXc-font-inherit\" style=\"font-size: 88.5%; padding-bottom: 0.382em; width: 1.338em;\"\u003E&nbsp;২.&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1264\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1265\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1266\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EZ\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1267\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.169em; padding-bottom: 0.335em;\"\u003En\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1268\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1269\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1270\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1271\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1272\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EH\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1273\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1274\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1275\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1276\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1277\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1278\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1279\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1280\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.224em; padding-bottom: 0.335em;\"\u003E→\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1281\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1282\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1283\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1284\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EZ\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1285\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.169em; padding-bottom: 0.335em;\"\u003En\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1286\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1287\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1288\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1289\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1290\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1291\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1292\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1293\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EH\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1294\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\"\u003E\u003Cmtr\u003E\u003Cmtd\u003E\u003C/mtd\u003E\u003Cmtd\u003E\u003Cmtext\u003E&nbsp;১.&nbsp;\u003C/mtext\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmo stretchy=\"false\"\u003E→\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003C/mtd\u003E\u003C/mtr\u003E\u003Cmtr\u003E\u003Cmtd\u003E\u003C/mtd\u003E\u003Cmtd\u003E\u003Cmtext\u003E&nbsp;২.&nbsp;\u003C/mtext\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EZ\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003En\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EH\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003C/msub\u003E\u003Cmo stretchy=\"false\"\u003E→\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EZ\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003En\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EH\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003C/mtd\u003E\u003C/mtr\u003E\u003C/mtable\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-70\"\u003E\\begin{aligned} & \\text { ১. } \\mathrm{S}+\\mathrm{O}_2 \\rightarrow \\mathrm{SO}_2 \\\\ & \\text { ২. } \\mathrm{Zn}+\\mathrm{H}_2 \\mathrm{SO}_4 \\rightarrow \\mathrm{ZnSO}_4+\\mathrm{H}_2\\end{aligned}\u003C/script\u003E\u003Cbr\u003E\nউদ্দীপক থেকে বলা যায়-\u003Cbr\u003E\ni. উভয় বিক্রিয়ায় প্রতীক, সংকেত ও চিহ্ন ব্যবহার হয়েছে&nbsp;\u003Cbr\u003E\nii. ২নং বিক্রিয়ায় যৌগমূলকটি পরমাণুর ন্যায় যৌগ গঠনে অংশ নেয়&nbsp;\u003Cbr\u003E\niii. ১নং বিক্রিয়ার প্রথম বিক্রিয়কের যোজনী ২&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780714,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780714,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780714,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780713,
+      "value": {
+        "options": {
+          "ক": "সালফার",
+          "খ": "অক্সিজেন",
+          "গ": "সালফার ডাইঅক্সাইড",
+          "ঘ": "সালফার অক্সাইড"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-69-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mtable columnalign=&quot;right left right left right left right left right left right left&quot; rowspacing=&quot;3pt&quot; columnspacing=&quot;0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em&quot; displaystyle=&quot;true&quot;&gt;&lt;mtr&gt;&lt;mtd /&gt;&lt;mtd&gt;&lt;mtext&gt;&amp;#xA0;&amp;#x9E7;.&amp;#xA0;&lt;/mtext&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;mo stretchy=&quot;false&quot;&gt;&amp;#x2192;&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd /&gt;&lt;mtd&gt;&lt;mtext&gt;&amp;#xA0;&amp;#x9E8;.&amp;#xA0;&lt;/mtext&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Z&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;H&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msub&gt;&lt;mo stretchy=&quot;false&quot;&gt;&amp;#x2192;&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;Z&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;n&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;S&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;O&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msub&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;H&lt;/mi&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-1171\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-1172\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1173\" class=\"mjx-mtable\" style=\"vertical-align: -0.95em; padding: 0px 0.167em;\"\u003E\u003Cspan class=\"mjx-table\"\u003E\u003Cspan id=\"MJXc-Node-1174\" class=\"mjx-mtr\" style=\"height: 1.2em;\"\u003E\u003Cspan id=\"MJXc-Node-1175\" class=\"mjx-mtd\" style=\"padding: 0px; text-align: right; width: 0px;\"\u003E\u003Cspan id=\"MJXc-Node-1176\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1177\" class=\"mjx-mtd\" style=\"padding: 0px; text-align: left; width: 13.243em;\"\u003E\u003Cspan id=\"MJXc-Node-1178\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan id=\"MJXc-Node-1179\" class=\"mjx-mtext\"\u003E\u003Cspan class=\"mjx-char\" style=\"padding-top: 0.445em; padding-bottom: 0.224em;\"\u003E\u003Cspan class=\"mjx-charbox MJXc-font-inherit\" style=\"font-size: 88.5%; padding-bottom: 0.382em; width: 1.294em;\"\u003E&nbsp;১.&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1180\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1181\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1182\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1183\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1184\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1185\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1186\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1187\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1188\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1189\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.224em; padding-bottom: 0.335em;\"\u003E→\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1190\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1191\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1192\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1193\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1194\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1195\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1196\" class=\"mjx-mtr\" style=\"height: 1.2em;\"\u003E\u003Cspan id=\"MJXc-Node-1197\" class=\"mjx-mtd\" style=\"padding: 0.15em 0px 0px; text-align: right;\"\u003E\u003Cspan id=\"MJXc-Node-1198\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1199\" class=\"mjx-mtd\" style=\"padding: 0.15em 0px 0px; text-align: left;\"\u003E\u003Cspan id=\"MJXc-Node-1200\" class=\"mjx-mrow\" style=\"margin-top: -0.175em;\"\u003E\u003Cspan id=\"MJXc-Node-1201\" class=\"mjx-mtext\"\u003E\u003Cspan class=\"mjx-char\" style=\"padding-top: 0.445em; padding-bottom: 0.224em;\"\u003E\u003Cspan class=\"mjx-charbox MJXc-font-inherit\" style=\"font-size: 88.5%; padding-bottom: 0.382em; width: 1.338em;\"\u003E&nbsp;২.&nbsp;\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1202\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1203\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1204\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EZ\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1205\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.169em; padding-bottom: 0.335em;\"\u003En\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1206\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1207\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1208\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1209\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1210\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EH\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1211\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1212\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1213\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1214\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1215\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1216\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1217\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1218\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.224em; padding-bottom: 0.335em;\"\u003E→\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1219\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1220\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1221\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1222\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EZ\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1223\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.169em; padding-bottom: 0.335em;\"\u003En\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1224\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1225\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.39em;\"\u003EO\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1226\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1227\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-1228\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-1229\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-1230\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-1231\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EH\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-1232\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-strut\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmtable columnalign=\"right left right left right left right left right left right left\" rowspacing=\"3pt\" columnspacing=\"0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em\" displaystyle=\"true\"\u003E\u003Cmtr\u003E\u003Cmtd\u003E\u003C/mtd\u003E\u003Cmtd\u003E\u003Cmtext\u003E&nbsp;১.&nbsp;\u003C/mtext\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmo stretchy=\"false\"\u003E→\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003C/mtd\u003E\u003C/mtr\u003E\u003Cmtr\u003E\u003Cmtd\u003E\u003C/mtd\u003E\u003Cmtd\u003E\u003Cmtext\u003E&nbsp;২.&nbsp;\u003C/mtext\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EZ\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003En\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EH\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003C/msub\u003E\u003Cmo stretchy=\"false\"\u003E→\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EZ\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003En\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003ES\u003C/mi\u003E\u003Cmi mathvariant=\"normal\"\u003EO\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsub\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EH\u003C/mi\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003C/mtd\u003E\u003C/mtr\u003E\u003C/mtable\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-69\"\u003E\\begin{aligned} & \\text { ১. } \\mathrm{S}+\\mathrm{O}_2 \\rightarrow \\mathrm{SO}_2 \\\\ & \\text { ২. } \\mathrm{Zn}+\\mathrm{H}_2 \\mathrm{SO}_4 \\rightarrow \\mathrm{ZnSO}_4+\\mathrm{H}_2\\end{aligned}\u003C/script\u003E\u003Cbr\u003E\n১নং বিক্রিয়ার বিক্রিয়াজাত পদার্থের সাধারণ নাম কী?",
+        "solution": "গ. সালফার ডাইঅক্সাইড",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780713,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 780713,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 780712,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বিক্রিয়াজাত পদার্থ-\u003Cbr\u003E\ni. বিক্রিয়া সংঘটনের পরবর্তী অবস্থা&nbsp;\u003Cbr\u003E\nii. একাধিক হলে যোগ চিহ্ন দেওয়া হয়&nbsp;\u003Cbr\u003E\niii. ডান দিকে লেখা হয়&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780712,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780712,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780711,
+      "value": {
+        "options": {
+          "ক": "বিক্রিয়ক",
+          "খ": "উৎপাদ",
+          "গ": "রাসায়নিক বিক্রিয়া",
+          "ঘ": "পরিবর্তন"
+        },
+        "question": "যে প্রক্রিয়ায় এক বা একাধিক পদার্থ পরিবর্তিত হয়ে সম্পূর্ণ ভিন্ন ধর্ম বিশিষ্ট নতুন পদার্থে পরিণত হয় সে প্রক্রিয়াকে কী বলে?",
+        "solution": "গ. রাসায়নিক বিক্রিয়া",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780711,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780710,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "i ও ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বিক্রিয়ক পদার্থ-\u003Cbr\u003E\ni. বিক্রিয়া সংঘটনের পূর্বাবস্থা&nbsp;\u003Cbr\u003E\nii. ডান দিকে লেখা হয়&nbsp;\u003Cbr\u003E\niii. স্ব স্ব প্রতীক বা সংকেতে প্রকাশ করা হয়&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. i ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 780710,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 780710,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 780709,
+      "value": {
+        "options": {
+          "ক": "বিক্রিয়াজাত পদার্থ",
+          "খ": "বিক্রিয়ক",
+          "গ": "উৎপাদ",
+          "ঘ": "পরমাণুবিন্যাস"
+        },
+        "question": "রাসায়নিক সমীকরণের তীর বা সমান চিহ্নের বাম দিকে কী লিখতে হয়?",
+        "solution": "খ. বিক্রিয়ক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780709,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780708,
+      "value": {
+        "options": {
+          "ক": "হাইড্রোজেন",
+          "খ": "অক্সিজেন",
+          "গ": "সালফার ডাইঅক্সাইড",
+          "ঘ": "কার্বন ডাইঅক্সাইড"
+        },
+        "question": "জিঙ্কের সাথে সালফিউরিক এসিডের রাসায়নিক বিক্রিয়ায় কোন গ্যাস উৎপন্ন হয়?",
+        "solution": "ক. হাইড্রোজেন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780708,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780707,
+      "value": {
+        "options": {
+          "ক": "৩",
+          "খ": "৫",
+          "গ": "৭",
+          "ঘ": "৯"
+        },
+        "question": "H\u003Csub\u003E2\u003C/sub\u003ESO\u003Csub\u003E4\u003C/sub\u003E এর অণুতে মোট পরমাণু সংখ্যা কত?",
+        "solution": "গ. ৭",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780707,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780706,
+      "value": {
+        "options": {
+          "ক": "৬",
+          "খ": "৮",
+          "গ": "১০",
+          "ঘ": "১২"
+        },
+        "question": "2H\u003Csub\u003E2\u003C/sub\u003E + O\u003Csub\u003E2\u003C/sub\u003E = 2H\u003Csub\u003E2\u003C/sub\u003EO সমীকরণটির বিক্রিয়ক ও বিক্রিয়াজাত পদার্থে মোট পরমাণুর সংখ্যা কত?",
+        "solution": "ঘ. ১২",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 780706,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780705,
+      "value": {
+        "options": {
+          "ক": "2H₂O পানির দুটি বিচ্ছিন্ন অণু এবং H₂O পানির একটি অণু",
+          "খ": "2H₂O পানির দুটি অণু এবং H₂O পানির একটি অণু",
+          "গ": "2H₂O মৌলিক পদার্থ এবং H₂O একটি যৌগিক পদার্থ",
+          "ঘ": "2H₂O ভারী পানি এবং H₂O হালকা পানি"
+        },
+        "question": "2H\u003Csub\u003E2\u003C/sub\u003EO এবং H₂O এর মধ্যে পার্থক্য কী?",
+        "solution": "খ. 2H₂O পানির দুটি অণু এবং H₂O পানির একটি অণু",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 780705,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780704,
+      "value": {
+        "options": {
+          "ক": "পুনউৎপাদন",
+          "খ": "পুনর্বিন্যাস",
+          "গ": "পরমাণু বিন্যাস",
+          "ঘ": "পরমাণুকরণ"
+        },
+        "question": "রাসায়নিক বিক্রিয়ার সময় পরমাণুসমূহের কী ঘটে?",
+        "solution": "খ. পুনর্বিন্যাস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780704,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 780703,
+      "value": {
+        "options": {
+          "ক": "বিক্রিয়াজাত পদার্থ",
+          "খ": "উৎপাদ",
+          "গ": "বিক্রিয়া",
+          "ঘ": "বিক্রিয়ক"
+        },
+        "question": "রাসায়নিক বিক্রিয়ায় যেসব পদার্থ উৎপন্ন হয়, তাদের কী বলে?",
+        "solution": "ক. বিক্রিয়াজাত পদার্থ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 54,
+      "book_grade_id": 2,
+      "content_chunk_id": 7993,
+      "created_at": "2025-12-02T06:15:18.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 54,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 780703,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7993&grade=2&lesson=14802&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7993&grade=2&lesson=14802&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7993&grade=2&lesson=14802&per_page=200&question_paper_id=47490&subject=54&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 32,
+  "total": 32
+}

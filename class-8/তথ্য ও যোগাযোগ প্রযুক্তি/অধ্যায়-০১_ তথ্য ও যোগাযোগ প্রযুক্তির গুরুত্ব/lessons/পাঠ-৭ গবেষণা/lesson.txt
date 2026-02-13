@@ -1,0 +1,1229 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 770014,
+      "value": {
+        "options": {
+          "ক": "প্রাকৃতিক ও অপ্রাকৃতিক",
+          "খ": "মানবিক ও যান্ত্রিক",
+          "গ": "তাত্ত্বিক ও ব্যবহারিক",
+          "ঘ": "স্থির ও গতিশীল"
+        },
+        "question": "গবেষণাগুলোকে প্রধানত কোন দুই ভাগে ভাগ করা যায়?",
+        "solution": "গ. তাত্ত্বিক ও ব্যবহারিক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770014,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770028,
+      "value": {
+        "options": [],
+        "question": "তথ্যপ্রযুক্তি গবেষণায় কীভাবে নতুন মাত্রা যোগ করেছে?",
+        "solution": "তথ্যপ্রযুক্তি গবেষণার ক্ষেত্রে নতুন মাত্রা যোগ করেছে, কারণ এটি তথ্য সংগ্রহ, প্রক্রিয়াকরণ ও বিশ্লেষণকে সহজ করেছে। গবেষকরা এখন কম্পিউটার ব্যবহার করে বিশাল তথ্যভান্ডারের সাথে সংযোগ রাখতে পারেন, যা তাদের গবেষণার মান উন্নত করে। সাহিত্য থেকে বিজ্ঞান, সব ক্ষেত্রেই গবেষণার জন্য&#39; তথ্যপ্রযুক্তি অপরিহার্য হয়ে উঠেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770027,
+      "value": {
+        "options": [],
+        "question": "গবেষণায় নেটওয়ার্ক প্রযুক্তির গুরুত্ব কী?",
+        "solution": "গবেষণায় নেটওয়ার্ক প্রযুক্তি ব্যবহার করে গবেষকরা দূরবর্তী স্থান থেকে তথ্য সংগ্রহ, শেয়ারিং ও বিশ্লেষণ করতে পারেন। এটি আন্তর্জাতিক গবেষকদের একত্রে কাজ করতে সাহায্য করে এবং গবেষণার গতি বাড়ায়। এছাড়া, Virtual Laboratory-এর মতো প্রযুক্তির মাধ্যমে ল্যাবরেটরি দূর থেকে নিয়ন্ত্রণ করাও সম্ভব হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770026,
+      "value": {
+        "options": [],
+        "question": "গবেষণায় FPGA এবং PLA এর ব্যবহার বর্ণনা কর।",
+        "solution": "FPGA হলো এক ধরনের প্রোগ্রামযোগ্য লজিক চিপ।\u003Cbr /\u003E\nকম্পিউটারের মতো কাজ করতে পারে সেরকম ছোট ছোট মাইক্রো কন্ট্রোলার, FPGA এবং PLA হচ্ছে Programmable Logic Array | এটিও মাইক্রোকন্ট্রোলারের মতো কাজ করে। ল্যাবরেটরির ব্যবহারিক গবেষণা করতে FPGA ও PLA মতো যন্ত্র ব্যবহার করে যেখানে&nbsp;পরীক্ষা-নিরীক্ষা করা হয়। এমনকি এক যন্ত্রের তথ্য অন্যে যন্ত্রে নিয়ে যেটা প্রক্রিয়া করার জন্যই এই রকম যন্ত্র ব্যবহার হয়। যন্ত্রের ভিতর সেগুলো বসিয়ে দিয়ে যন্ত্রগুলোকে অনেক স্বয়ংক্রিয় করে দিয়ে গবেষণার পুরো কাজটি অনেক সহজ করে দেওয়া হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770025,
+      "value": {
+        "options": [],
+        "question": "মাইক্রো কন্ট্রোলার ও FPGA গবেষণায় কীভাবে ব্যবহার হয়?",
+        "solution": "মাইক্রো কন্ট্রোলার ও FPGA (Field Programmable Gate Array) ছোট কিন্তু শক্তিশালী কম্পিউটার চিপ, যা গবেষণার জন্য বিভিন্ন স্বয়ংক্রিয় যন্ত্র তৈরিতে ব্যবহৃত হয়। এগুলো যন্ত্রের ভেতরে স্থাপন করার মাধ্যমে গবেষণার কাজ সহজ করা হয় এবং স্বয়ংক্রিয়ভাবে তথ্য সংগ্রহ ও বিশ্লেষণ সম্ভব হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770024,
+      "value": {
+        "options": [],
+        "question": "তথ্য ও যোগাযোগ প্রযুক্তি ব্যবহারে গবেষণা কাজ সহজতর হয়েছে- ব্যাখ্যা কর।",
+        "solution": "তথ্য প্রযুক্তির কারণে গবেষণার জগতে সম্পূর্ণ নতুন একটা মাত্রা যোগ হয়েছে। মানুষ এখন সাহিত্য, শিল্প, সমাজবিজ্ঞান, গণিত অথবা প্রযুক্তি আর বিজ্ঞান, যা নিয়েই গবেষণা করুক না কেন তারা কম্পিউটার এবং তথ্য প্রযুক্তি ছাড়া এই গবেষণার কথা চিন্তাও করতে পারে না। বর্তমানে বৈজ্ঞানিক সকল কর্মকাণ্ডে কম্পিউটারের উপর নির্ভরশীল। জটিল গাণিতিক হিসাব-নিকাশে, অণু-পরমাণুর গঠন প্রকৃতি নির্ণয়ে, ঔষধের মান নিয়ন্ত্রণে, মহাকাশযান ডিজাইন, পাঠানোর পরিকল্পনা ও বাস্তবায়ন কম্পিউটার দ্বারা দ্রুত সমাধান করা যায়। তাই বলা যায় যে, তথ্য ও যোগাযোগ প্রযুক্তি ব্যবহারে গবেষণার কাজ সহজতর হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770023,
+      "value": {
+        "options": [],
+        "question": "ভার্চুয়াল ল্যাবরেটরির ধারণাটি ব্যাখ্যা কর।",
+        "solution": "ভার্চুয়াল ল্যাবরেটরি হলো একটি সফটওয়্যার-ভিত্তিক পরিবেশ যেখানে শিক্ষার্থীরা এবং গবেষকরা বাস্তব ল্যাবরেটরির মতোই বিভিন্ন ধরনের পরীক্ষা-নিরীক্ষা করতে পারেন। ভার্চুয়াল ল্যাবরেটরিতে ভার্চুয়াল ইনস্ট্রুমেন্ট, সিমুলেশন এবং মডেলিং সফটওয়্যার ব্যবহার করা হয়। এই ধরনের ল্যাবরেটরিতে শারীরিকভাবে কোনো উপাদান&nbsp;ব্যবহার না করেই বিভিন্ন ধরনের পরীক্ষা-নিরীক্ষা করা যায়। এটি শিক্ষার্থীদের জন্য একটি নিরাপদ এবং কম খরচে শেখার পরিবেশ প্রদান করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770022,
+      "value": {
+        "options": [],
+        "question": "মাইক্রো কন্ট্রোলার কী? ব্যাখ্যা কর।",
+        "solution": "মাইক্রো কন্ট্রোলার হলো একটি ছোট কম্পিউটার যা একটি একক ইন্টিগ্রেটেড সার্কিটে নির্মিত হয়। এতে প্রসেসর, মেমোরি এবং ইনপুট/আউটপুট থাকে। মাইক্রোকন্ট্রোলার বিভিন্ন ধরনের ইলেকট্রনিক ডিভাইসে ব্যবহৃত হয়, যেমন- রোবট, অটোমোবাইল, হোম অটোমেশন সিস্টেম এবং ইন্ডাস্ট্রিয়াল কন্ট্রোল সিস্টেম। এতে একটি নির্দিষ্ট কাজ সম্পাদনের জন্য প্রোগ্রাম করা যায় এবং সাধারণত অন্যান্য মাইক্রোপ্রসেসরের তুলনায় কম শক্তি খরচ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770021,
+      "value": {
+        "options": [],
+        "question": "গবেষণায় ল্যাবরেটরির ভূমিকা কী এবং সেখানে তথ্যপ্রযুক্তি কীভাবে ব্যবহৃত হয়?",
+        "solution": "ল্যাবরেটরি গবেষণার জন্য অপরিহার্য, কারণ এখানে গবেষকরা নতুন যন্ত্রপাতির মাধ্যমে বিভিন্ন পরীক্ষা-নিরীক্ষা চালান। তথ্যপ্রযুক্তি ল্যাবরেটরির যন্ত্র পরিচালনা, পরীক্ষা সংরক্ষণ ও ফলাফল বিশ্লেষণে সহায়তা করে। অনেক ক্ষেত্রে গবেষকরা দূরবর্তী অবস্থান থেকেও কম্পিউটার ব্যবহার করে ল্যাবরেটরি পরিচালনা করতে পারেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770020,
+      "value": {
+        "options": [],
+        "question": "কম্পিউটার কীভাবে গবেষকদের তথ্য বিশ্লেষণে সহায়তা করে?",
+        "solution": "গবেষকদের বিশাল পরিমাণ তথ্য সংগ্রহ, প্রক্রিয়াকরণ ও বিশ্লেষণ করতে হয়, যা ম্যানুয়ালি করা অনেক সময়সাপেক্ষ ও কঠিন। কম্পিউটার এই কাজগুলো দ্রুত ও নির্ভুলভাবে সম্পাদন করতে সাহায্য করে। গবেষকরা তথ্য বিশ্লেষণের জন্য ডেটাবেস ব্যবহার করতে পারেন, যা গবেষণার ফলাফলকে আরও নির্ভুল ও কার্যকর করে তোলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770019,
+      "value": {
+        "options": [],
+        "question": "গবেষণার প্রধান দুই ভাগ কী কী এবং সেগুলোতে তথ্যপ্রযুক্তির ভূমিকা কী?",
+        "solution": "গবেষণা প্রধানত দুই ভাগে বিভক্ত তাত্ত্বিক ও ব্যবহারিক। তাত্ত্বিক গবেষণায় তথ্য বিশ্লেষণ ও তত্ত্বের যাচাই করতে কম্পিউটার ব্যবহার করা হয়। ব্যবহারিক গবেষণায় পরীক্ষাগারে বিভিন্ন যন্ত্রের মাধ্যমে পরীক্ষা-নিরীক্ষা করা হয়, যেখানে কম্পিউটার গুরুত্বপূর্ণ ভূমিকা রাখে তথ্য সংগ্রহ, সংরক্ষণ ও বিশ্লেষণের জন্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770018,
+      "value": {
+        "options": [],
+        "question": "শিল্প, সাহিত্য ও সমাজবিজ্ঞান গবেষণায় তথ্যপ্রযুক্তির কী ভূমিকা রয়েছে?",
+        "solution": "শিল্প, সাহিত্য ও সমাজবিজ্ঞান গবেষণায় তথ্যপ্রযুক্তি বিশাল তথ্যভান্ডার সংরক্ষণ, বিশ্লেষণ এবং উপস্থাপনে সাহায্য করে। গবেষকরা ডিজিটাল লাইব্রেরি ও ডাটাবেস ব্যবহার করে সহজেই তথ্য সংগ্রহ করতে পারেন। এছাড়া, পরিসংখ্যান বিশ্লেষণের জন্য বিভিন্ন সফটওয়&zwj;্যার ব্যবহার করা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770017,
+      "value": {
+        "options": [],
+        "question": "তথ্য প্রযুক্তি ছাড়া গবেষণা চিন্তা করা সম্ভব নয় কেন?",
+        "solution": "আধুনিক যুগে তথ্যপ্রযুক্তি ছাড়া কোনো ধরনের গবেষণা কল্পনা করা যায় না। বিজ্ঞান, প্রকৌশল, মানবিক বিদ্যা, সামাজিক বিজ্ঞান-সব ক্ষেত্রেই গবেষণার জন্য বিপুল পরিমাণ তথ্য সংগ্রহ, বিশ্লেষণ এবং সংরক্ষণ করা প্রয়োজন। তথ্যপ্রযুক্তির সাহায্যে এই সমস্ত কাজ সহজে এবং দ্রুত করা সম্ভব। বর্তমানে বিপুলসংখ্যক তথ্য স্বল্প সময়ে বিশ্লেষণের জন্য কম্পিউটারভিত্তিক বিভিন্ন পদ্ধতি বা অ্যালগরিদম অপরিহার্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770016,
+      "value": {
+        "options": {
+          "ক": "Programmable Logical Array",
+          "খ": "Program Logical Arrays",
+          "গ": "Programmable Logic Array",
+          "ঘ": "Programmable Logic Area"
+        },
+        "question": "PLA-এর পূর্ণরূপ কী?",
+        "solution": "গ. Programmable Logic Array",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770016,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770015,
+      "value": {
+        "options": {
+          "ক": "দৈহিক পরিশ্রম",
+          "খ": "মানসিক পরিশ্রম",
+          "গ": "আগ্রহ",
+          "ঘ": "বিনিয়োগ"
+        },
+        "question": "তথ্যপ্রযুক্তির কারণে গবেষণায় মানুষের কোনটি হ্রাস পেয়েছে?",
+        "solution": "ক. দৈহিক পরিশ্রম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770015,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770000,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার",
+          "খ": "মোবাইল",
+          "গ": "রোবট",
+          "ঘ": "মেশিনারি"
+        },
+        "question": "তাত্ত্বিক গবেষণায় গবেষকদের কিসের ওপর নির্ভর করতে হয়?",
+        "solution": "ক. কম্পিউটার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770000,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770013,
+      "value": {
+        "options": {
+          "ক": "ক্যালকুলেটর",
+          "খ": "রেডিও",
+          "গ": "মাইক্রো কন্ট্রোলার",
+          "ঘ": "মাইক্রোওয়েভ"
+        },
+        "question": "কোনটি কম্পিউটারের মতো কাজ করতে পারে?",
+        "solution": "গ. মাইক্রো কন্ট্রোলার",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770013,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770012,
+      "value": {
+        "options": {
+          "ক": "একমাত্রিক",
+          "খ": "দ্বিমাত্রিক",
+          "গ": "ত্রিমাত্রিক",
+          "ঘ": "বহুমাত্রিক"
+        },
+        "question": "হিগস বোসনের অস্তিত্ব প্রমাণের জন্য এক্সপেরিমেন্টের তথ্যকে বিশ্লেষণ করে কত মাত্রিক রূপ দেয়া হয়েছে?",
+        "solution": "গ. ত্রিমাত্রিক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770012,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770011,
+      "value": {
+        "options": {
+          "ক": "আবহাওয়া নিয়ন্ত্রণ করার",
+          "খ": "গবেষণা করার",
+          "গ": "রোগ নির্ণয় করার",
+          "ঘ": "শত্রুকে পরাভূত করার"
+        },
+        "question": "মানুষের কোন ক্ষমতা তাকে প্রকৃতির সাথে তাল মিলিয়ে বেঁচে থাকতে সাহায্য করছে?",
+        "solution": "খ. গবেষণা করার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770011,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770010,
+      "value": {
+        "options": {
+          "ক": "বহু দূর থেকে পরীক্ষা নিয়ন্ত্রণে সাহায্য করে",
+          "খ": "পরীক্ষা-নিরীক্ষায় বিভিন্ন যন্ত্র ব্যবহারের সুযোগ দিয়ে",
+          "গ": "তথ্য সংগ্রহ, প্রক্রিয়াকরণ ও বিশ্লেষণে সাহায্য করে",
+          "ঘ": "স্বয়ংক্রিয়ভাবে গবেষণার কাজ পরিচালনা করে"
+        },
+        "question": "অনুসূয়ার প্রিয় বিষয় সমাজবিজ্ঞান। সে ঢাকা বিশ্ববিদ্যালয় থেকে এ বিষয়ে মাস্টার্স করে এখন একটি কলেজে অধ্যাপনা করছে। সে এ বিষয়ে গবেষণা করবে বলেও সিদ্ধান্ত নিয়েছে।\u003Cbr\u003E\nউক্ত জিনিসগুলো কীভাবে অনুসূয়ার দৈহিক পরিশ্রম লাঘবে ভূমিকা রাখবে?",
+        "solution": "গ. তথ্য সংগ্রহ, প্রক্রিয়াকরণ ও বিশ্লেষণে সাহায্য করে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770010,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770010,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770009,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অনুসূয়ার প্রিয় বিষয় সমাজবিজ্ঞান। সে ঢাকা বিশ্ববিদ্যালয় থেকে এ বিষয়ে মাস্টার্স করে এখন একটি কলেজে অধ্যাপনা করছে। সে এ বিষয়ে গবেষণা করবে বলেও সিদ্ধান্ত নিয়েছে।\u003Cbr\u003E\nঅনুসূয়ার সিদ্ধান্ত বাস্তবায়নে প্রয়োজন হবে-\u003Cbr\u003E\ni. কম্পিউটার\u003Cbr\u003E\nii. তথ্যপ্রযুক্তি\u003Cbr\u003E\niii. ল্যাবরেটরি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 770009,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770009,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770009,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770008,
+      "value": {
+        "options": {
+          "ক": "বড় কম্পিউটার",
+          "খ": "ভারী কম্পিউটার",
+          "গ": "শক্তিশালী কম্পিউটার",
+          "ঘ": "ছোট কম্পিউটার"
+        },
+        "question": "বিজ্ঞানীরা বিশেষ গবেষণা ও পরীক্ষা-নিরীক্ষার জন্য কী ধরনের কম্পিউটার তৈরি করেন?",
+        "solution": "ক. বড় কম্পিউটার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770008,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770007,
+      "value": {
+        "options": {
+          "ক": "ফোটন",
+          "খ": "হিগস বোসন",
+          "গ": "ফার্মিয়ন",
+          "ঘ": "ট্যাকিয়ন"
+        },
+        "question": "কোন কণাগুলো ঈশ্বর কণা হিসেবে পরিচিত?",
+        "solution": "খ. হিগস বোসন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770007,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770006,
+      "value": {
+        "options": {
+          "ক": "নতুন একটা বিষয়",
+          "খ": "নতুন একটা মাত্রা",
+          "গ": "নতুন একটা উৎসাহ",
+          "ঘ": "নতুন একটা অংশ"
+        },
+        "question": "তথ্যপ্রযুক্তি গবেষণা জগতে কী যোগ করেছে?",
+        "solution": "খ. নতুন একটা মাত্রা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770006,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770005,
+      "value": {
+        "options": {
+          "ক": "হাতেকলমে",
+          "খ": "কম্পিউটারের মাধ্যমে",
+          "গ": "রোবটের সাহায্যে",
+          "ঘ": "স্বয়ংক্রিয় মেশিন দ্বারা"
+        },
+        "question": "গবেষণার ক্ষেত্রে তথ্য সংগ্রহের কাজ কীভাবে করা হয়?",
+        "solution": "খ. কম্পিউটারের মাধ্যমে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770004,
+      "value": {
+        "options": {
+          "ক": "তথ্যের",
+          "খ": "কথার",
+          "গ": "শব্দের",
+          "ঘ": "সূত্রের"
+        },
+        "question": "গবেষণার কাজ করতে মূলত কিসের প্রয়োজন হয়?",
+        "solution": "ক. তথ্যের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770003,
+      "value": {
+        "options": {
+          "ক": "মোবাইল প্রযুক্তি",
+          "খ": "টেলিভিশন প্রযুক্তি",
+          "গ": "ইন্টারেকটিং ভয়েস প্রযুক্তি",
+          "ঘ": "তথ্যপ্রযুক্তি"
+        },
+        "question": "মালিহা সাহিত্য বিষয়ে গবেষণা করার সিদ্ধান্ত নিয়েছে। এক্ষেত্রে তার কোন প্রযুক্তির সাহায্য লাগবে?",
+        "solution": "ঘ. তথ্যপ্রযুক্তি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 770003,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770002,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "বিজ্ঞান ও প্রযুক্তি বিষয়ের গবেষণাগুলোকে প্রধানত কয় ভাগে ভাগ করা যায়?",
+        "solution": "ক. দুই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770001,
+      "value": {
+        "options": {
+          "ক": "ঘরে বসে",
+          "খ": "ল্যাবরেটরিতে",
+          "গ": "খোলা জায়গায়",
+          "ঘ": "বন্ধ ঘরে"
+        },
+        "question": "ব্যবহারিক গবেষণা কোথায় করতে হয়?",
+        "solution": "খ. ল্যাবরেটরিতে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7919,
+      "created_at": "2025-12-01T10:12:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770001,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14449&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14449&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7919&grade=2&lesson=14449&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 29,
+  "total": 29
+}

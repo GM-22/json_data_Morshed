@@ -1,0 +1,904 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 769373,
+      "value": {
+        "options": {
+          "ক": "২-৩ সপ্তাহ",
+          "খ": "৩-৪ সপ্তাহ",
+          "গ": "৪-৫ সপ্তাহ",
+          "ঘ": "৬-৭ সপ্তাহ"
+        },
+        "question": "শূন্য চাষ পদ্ধতিতে কৃষকের কত সময় বাঁচে?",
+        "solution": "খ. ৩-৪ সপ্তাহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 769373,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-12-01T09:00:25.000000Z",
+            "updated_at": "2025-12-01T09:00:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769381,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মিশ্র ও সাথি চাষের উদ্দেশ্য হলো-\u003Cbr\u003E\ni. পোকামাকড় কম হয়\u003Cbr\u003E\nii. রোগবালাই কম হয়\u003Cbr\u003E\niii. আবহাওয়াজনিত ঝুঁকি হ্রাস পায়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769381,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769381,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769380,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শস্য বহুমুখীকরণের উদ্দেশ্য হলো-\u003Cbr\u003E\ni. কৃষকের আয় ও জীবনযাত্রার মান উন্নয়ন\u003Cbr\u003E\nii. কৃষি পরিবেশের ওপর প্রতিকূল প্রভাব কমানো\u003Cbr\u003E\niii. বীজের সাশ্রয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769380,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769380,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 769379,
+      "value": {
+        "options": {
+          "ক": "শূন্য চাষ",
+          "খ": "রিলে চাষ",
+          "গ": "মিশ্র চাষ",
+          "ঘ": "সাথি চাষ"
+        },
+        "question": "ফসল কর্তনের পূর্বে আরেকটি বীজবপনকে কী বলে?",
+        "solution": "খ. রিলে চাষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769379,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769378,
+      "value": {
+        "options": {
+          "ক": "ধান",
+          "খ": "সরিষা",
+          "গ": "করলা",
+          "ঘ": "লালশাক"
+        },
+        "question": "শূন্য চাষ পদ্ধতিতে কোনটি লাগানো হয়?",
+        "solution": "ক. ধান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3936,
+          "full_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "short_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "slug": "kzantnment-pablik-skul-oo-klej-rngpur",
+          "pivot": {
+            "question_bank_id": 769378,
+            "tag_id": 3936,
+            "year": null,
+            "created_at": "2025-12-01T09:00:25.000000Z",
+            "updated_at": "2025-12-01T09:00:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769377,
+      "value": {
+        "options": {
+          "ক": "শূন্য চাষ পদ্ধতি",
+          "খ": "রিলে চাষ",
+          "গ": "পূরণ চাষ পদ্ধতি",
+          "ঘ": "মিশ্র চাষ"
+        },
+        "question": "বন্যার পানি নেমে গেলে মসুর, ভুট্টা, রসুন বীজ বপন করার পদ্ধতিকে কী বলে?",
+        "solution": "ক. শূন্য চাষ পদ্ধতি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769377,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769376,
+      "value": {
+        "options": {
+          "ক": "উৎপাদন কমানো",
+          "খ": "বাজার একচেটিয়াকরণ",
+          "গ": "উৎপাদন ব্যয়বহুল করা",
+          "ঘ": "কম খরচে উৎপাদন"
+        },
+        "question": "শস্য বহুমুখীকরণের উদ্দেশ্য কোনটি?",
+        "solution": "খ. বাজার একচেটিয়াকরণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769376,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769375,
+      "value": {
+        "options": {
+          "ক": "সরিষা",
+          "খ": "আউশ",
+          "গ": "টমেটো",
+          "ঘ": "আলু"
+        },
+        "question": "মিশ্র ফসল হিসেবে মসুরের সাথে নিচের কোন ফসলটি চাষ হয়?",
+        "solution": "ক. সরিষা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3936,
+          "full_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "short_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "slug": "kzantnment-pablik-skul-oo-klej-rngpur",
+          "pivot": {
+            "question_bank_id": 769375,
+            "tag_id": 3936,
+            "year": null,
+            "created_at": "2025-12-01T09:00:25.000000Z",
+            "updated_at": "2025-12-01T09:00:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769374,
+      "value": {
+        "options": {
+          "ক": "শূন্য চাষ",
+          "খ": "একক চাষ",
+          "গ": "রিলে চাষ",
+          "ঘ": "মিশ্র ও সাথি চাষ"
+        },
+        "question": "একাধিক ফসলের এক সাথে চাষকে কী বলে?",
+        "solution": "ঘ. মিশ্র ও সাথি চাষ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769374,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769364,
+      "value": {
+        "options": {
+          "ক": "মাটির উর্বরতা কমে যায়",
+          "খ": "মাটির শক্তি কমে যায়",
+          "গ": "মাটির উর্বরতা বৃদ্ধি পায়",
+          "ঘ": "মাটির শক্তি একই রকম থাকে"
+        },
+        "question": "ফসলের বিন্যাসের ফলে নিচের কোনটি দেখা যায়?",
+        "solution": "গ. মাটির উর্বরতা বৃদ্ধি পায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 769364,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769372,
+      "value": {
+        "options": {
+          "ক": "আম",
+          "খ": "করলা",
+          "গ": "মসুর",
+          "ঘ": "লাল শাক"
+        },
+        "question": "আলুর সাথে কোন ফসল মিশ্র ফসল হিসেবে চাষ করলে কয়েকবার ফসল তোলা যায়?",
+        "solution": "ঘ. লাল শাক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769371,
+      "value": {
+        "options": {
+          "ক": "২-৩ সপ্তাহ",
+          "খ": "৩-৪ সপ্তাহ",
+          "গ": "৫-৬ সপ্তাহ",
+          "ঘ": "৬-৭ সপ্তাহ"
+        },
+        "question": "কুড়িগ্রামে এ বছর খুব বন্যা হয়। বন্যার পানি নেমে গেলে করিম মিয়া বিনা চাষে ফসল উৎপাদন করে কম সময়ে অধিক লাভবান হন।\u003Cbr\u003E\nবিনা চাষে করিম মিয়ার সময় বেঁচেছে-",
+        "solution": "খ. ৩-৪ সপ্তাহ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 769371,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769371,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769370,
+      "value": {
+        "options": {
+          "ক": "রিলে চাষ",
+          "খ": "বিনাচাষ",
+          "গ": "শূন্য চাষ",
+          "ঘ": "মিশ্র চাষ"
+        },
+        "question": "জমি চাষ না করেই ফসল চাষ করাকে বলে-",
+        "solution": "ঘ. মিশ্র চাষ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769369,
+      "value": {
+        "options": {
+          "ক": "সম্পদের সুষ্ঠু ব্যবহারের ওপর",
+          "খ": "আয়ের ওপর",
+          "গ": "ফসল কেনাবেচার ওপর",
+          "ঘ": "জমির উর্বরতার ওপর"
+        },
+        "question": "কৃষকের আয় নির্ভর করে কিসের ওপর?",
+        "solution": "ক. সম্পদের সুষ্ঠু ব্যবহারের ওপর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769369,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769368,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কুড়িগ্রামে এ বছর খুব বন্যা হয়। বন্যার পানি নেমে গেলে করিম মিয়া বিনা চাষে ফসল উৎপাদন করে কম সময়ে অধিক লাভবান হন।\u003Cbr\u003E\nকরিম মিয়া যে পদ্ধতিতে চাষ করেছেন সেই পদ্ধতিতে কোন ধরনের ফসল বোনা যায়?\u003Cbr\u003E\ni. মসুর\u003Cbr\u003E\nii. রসুন\u003Cbr\u003E\niii. ভুট্টা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 769368,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 769368,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 769368,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 769367,
+      "value": {
+        "options": {
+          "ক": "বিনা চাষে ফসল ফলানো",
+          "খ": "শুকানো মাঠে চাষ",
+          "গ": "অধিক ফলনশীল বীজ",
+          "ঘ": "অধিক ফসল উৎপাদন"
+        },
+        "question": "শূন্য চাষ অর্থ কী?",
+        "solution": "ক. বিনা চাষে ফসল ফলানো",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 769366,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "২টি",
+          "গ": "৩টি",
+          "ঘ": "৪টি"
+        },
+        "question": "মাঠ ফসলে বহুমুখীকরণের প্রধান উদ্দেশ্য কয়টি?",
+        "solution": "খ. ২টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 769366,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 769365,
+      "value": {
+        "options": {
+          "ক": "রিলে চাষ",
+          "খ": "শূন্য চাষ",
+          "গ": "মিশ্র চাষ",
+          "ঘ": "একক চাষ"
+        },
+        "question": "কোন পদ্ধতিতে একটি ফসল তোলার পূর্ব মুহূর্তে আরেকটি ফসল চাষ করা হয়?",
+        "solution": "খ. শূন্য চাষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 49,
+      "book_grade_id": 2,
+      "content_chunk_id": 688,
+      "created_at": "2025-12-01T09:00:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 49,
+        "title": "কৃষিশিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14397&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14397&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=688&grade=2&lesson=14397&question_paper_id=47612&subject=49&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

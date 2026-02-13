@@ -1,0 +1,2070 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 770444,
+      "value": {
+        "options": [],
+        "question": "ম্যালওয়‍্যার থেকে মুক্তি পাওয়ার উপায় কী?",
+        "solution": "ম্যালওয়্যার থেকে মুক্তি পেতে এন্টি-ভাইরাস বা এন্টি-ম্যালওয়&zwj;্যার সফটওয়&zwj;্যার ব্যবহার করতে হয়। এসব সফটওয়&zwj;্যার ভাইরাস শনাক্ত করে এবং তা মুছে ফেলতে পারে। তবে, এন্টি-ভাইরাস সফটওয়্যার নিয়মিত আপডেট করা জরুরি, কারণ নতুন ভাইরাস নিয়মিত তৈরি হচ্ছে। এছাড়া, সন্দেহজনক লিংকে ক্লিক ও ফাইল ডাউনলোড না করাও গুরুত্বপূর্ণ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770423,
+      "value": {
+        "options": {
+          "ক": "এরা শুধু জীবদেহের ক্ষতি করে",
+          "খ": "এরা শুধু কম্পিউটারের ক্ষতি করে",
+          "গ": "এরা উভয়ই পুনরুৎপাদিত হতে পারে",
+          "ঘ": "এরা নেটওয়ার্কের ক্ষতি করে"
+        },
+        "question": "জীবদেহের ভাইরাস আর কম্পিউটারের ভাইরাসের মধ্যে মিল কোথায়?",
+        "solution": "গ. এরা উভয়ই পুনরুৎপাদিত হতে পারে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770423,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770422,
+      "value": {
+        "options": {
+          "ক": "নিকোল কোডম্যান",
+          "খ": "এলিস মুনরো",
+          "গ": "মার্টিন কুপার",
+          "ঘ": "জন ভন নিউম্যান"
+        },
+        "question": "কোন কম্পিউটার বিজ্ঞানী সর্বপ্রথম ভাইরাস বিষয়ে আলোকপাত করেন?",
+        "solution": "ঘ. জন ভন নিউম্যান",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770424,
+      "value": {
+        "options": {
+          "ক": "সুবিধা",
+          "খ": "অসুবিধা",
+          "গ": "নিয়ম",
+          "ঘ": "প্যাটার্ন"
+        },
+        "question": "সকল ভাইরাস প্রোগ্রামের কোন বিষয়টি সুনির্দিষ্ট থাকে?",
+        "solution": "ঘ. প্যাটার্ন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770424,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770425,
+      "value": {
+        "options": {
+          "ক": "প্রেসপার একার্ট",
+          "খ": "উইলিয়াম রিচি",
+          "গ": "জন ভন নিউম্যান",
+          "ঘ": "লেডি এডা"
+        },
+        "question": "কম্পিউটার ভাইরাস বিষয়ে সর্বপ্রথম আলোকপাত করেন কে?",
+        "solution": "গ. জন ভন নিউম্যান",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770425,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770426,
+      "value": {
+        "options": {
+          "ক": "সংক্রমণের পর মূল প্রোগ্রামের কাছে নিয়ন্ত্রণ দিয়ে দেয়",
+          "খ": "সংক্রমণের পর নিজে নিজে নিষ্ক্রিয় হয়ে যায়",
+          "গ": "চালু হওয়ার পর মেমোরিতে স্থায়ী হয়ে বসে থাকে",
+          "ঘ": "সক্রিয় হওয়ার পর সংক্রমণের জন্য প্রোগ্রাম খোঁজে"
+        },
+        "question": "নিবাসী ভাইরাসের বৈশিষ্ট্য কোনটি?",
+        "solution": "গ. চালু হওয়ার পর মেমোরিতে স্থায়ী হয়ে বসে থাকে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770426,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770427,
+      "value": {
+        "options": {
+          "ক": "১৯৮৬",
+          "খ": "১৯৮৭",
+          "গ": "১৯৮৮",
+          "ঘ": "১৯৮৯"
+        },
+        "question": "কত সালে ভাইরাসের বিধ্বংসী আচরণ প্রকাশিত হয়?",
+        "solution": "ক. ১৯৮৬",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770427,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770428,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটার ভাইরাস হলো-\u003Cbr\u003E\ni. এক ধরনের ম্যালওয়্যার\u003Cbr\u003E\nii. এক ধরনের ক্ষতিকর প্রোগ্রাম কোড\u003Cbr\u003E\niii. এক ধরনের ক্ষতিকর সফটওয়্যার যা কার্যকরী ফাইলে সংযুক্ত হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770428,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770428,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770429,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনপ্রিয় কম্পিউটার এন্টিভাইরাস হলো-\u003Cbr\u003E\ni. পিংপং\u003Cbr\u003E\nii. আভাস্ট\u003Cbr\u003E\niii. কাসপারেস্কি\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770429,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770429,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770430,
+      "value": {
+        "options": {
+          "ক": "ওয়ার্ম",
+          "খ": "অনিবাসী ভাইরাস",
+          "গ": "নিবাসী ভাইরাস",
+          "ঘ": "মেমোরি ভাইরাস"
+        },
+        "question": "কোন ভাইরাস স্থায়ীভাবে মেমোরিতে বসবাস করে না?",
+        "solution": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 770430,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 770431,
+      "value": {
+        "options": {
+          "ক": "অ্যাভাস্ট",
+          "খ": "নরটন",
+          "গ": "ভাইরাস",
+          "ঘ": "প্যান্ডা"
+        },
+        "question": "কোন প্রোগ্রাম নিজের কপি তৈরি করতে পারে?",
+        "solution": "গ. ভাইরাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770432,
+      "value": {
+        "options": {
+          "ক": "এডওয়্যার",
+          "খ": "ব্লুটকিটস",
+          "গ": "ডায়ালার",
+          "ঘ": "ওয়ার্ম"
+        },
+        "question": "কোন ম্যালওয়্যারটি পুনরুৎপাদনের অক্ষম?",
+        "solution": "ক. এডওয়্যার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770432,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770433,
+      "value": {
+        "options": {
+          "ক": "প্রতিবছর ১৭ ফেব্রুয়ারি",
+          "খ": "প্রতিমাসের ৭ তারিখ",
+          "গ": "অধিবর্ষের ২৬ মার্চ",
+          "ঘ": "প্রতিবছর ২৬ এপ্রিল"
+        },
+        "question": "সিআইএস নামক ভাইরাসটি কখন সক্রিয় হয়ে ওঠে?",
+        "solution": "ঘ. প্রতিবছর ২৬ এপ্রিল",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770433,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770434,
+      "value": {
+        "options": {
+          "ক": "এডওয়্যার",
+          "খ": "ক্রিপার",
+          "গ": "রুটকিটস",
+          "ঘ": "ডায়ালার"
+        },
+        "question": "সত্তর দশকে চিহ্নিত হওয়া ভাইরাস কোনটি?",
+        "solution": "খ. ক্রিপার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770434,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770435,
+      "value": {
+        "options": {
+          "ক": "ভারত",
+          "খ": "পাকিস্তান",
+          "গ": "আমেরিকা",
+          "ঘ": "জাপান"
+        },
+        "question": "ব্রেইন ভাইরাস তৈরি হয় কোন দেশে?",
+        "solution": "খ. পাকিস্তান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770435,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770436,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটার ভাইরাসের কারণে যা হতে পারে-\u003Cbr\u003E\ni. কম্পিউটারের গতি হ্রাস পায়\u003Cbr\u003E\nii. কম্পিউটার বন্ধ হয়ে যায়\u003Cbr\u003E\niii. হার্ডডিক্স ফর্মেট\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770436,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770436,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770437,
+      "value": {
+        "options": [],
+        "question": "কম্পিউটার ভাইরাস কী?",
+        "solution": "কম্পিউটার ভাইরাস হলো এমন ধরনের ম্যালওয়্যার, যা কোনো কার্যকরী ফাইলের (executable file) সঙ্গে যুক্ত হয়। যখন ওই প্রোগ্রামটি (এক্সিকিউটিবল ফাইল) চালানো হয়, তখন ভাইরাসটি অন্যান্য কার্যকরী ফাইলে স্বয়ংক্রিয়ভাবে সংক্রমিত হয়। এটি নিজে নিজের অনুলিপি তৈরি করে এবং অন্যান্য ফাইল বা প্রোগ্রামকে সংক্রমিত করে। ভাইরাস সাধারণত ই-মেইল এটাচমেন্ট, ইন্টারনেট থেকে ডাউনলোড করা ফাইল বা ইউএসবি ড্রাইভের মাধ্যমে ছড়িয়ে পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770438,
+      "value": {
+        "options": [],
+        "question": "উল্লেখযোগ্য কিছু ক্ষতিকারক কম্পিউটার ভাইরাসের নাম লিখ।",
+        "solution": "বিশ্বব্যাপী উল্লেখযোগ্য কিছু ক্ষতিকারক ভাইরাস হলো ব্রেইন, ভিয়েনা, জেরুজালেম, পিংপং, মাইকেল এঞ্জেলো, ডার্ক এভেঞ্জার, সিআইএইচ (চেরনোবিল), অ্যানাকুর্নিকোভা, কোড রেড ওয়ার্ম, নিমডা এবং ডাপরোসি ওয়ার্ম। এসব ভাইরাস বিভিন্ন সময়ে কম্পিউটার ও নেটওয়ার্ক ব্যবস্থায় ভয়াবহ ক্ষতি সাধন করেছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770439,
+      "value": {
+        "options": [],
+        "question": "কম্পিউটার ভাইরাসের ইতিহাস কীভাবে শুরু হয়?",
+        "solution": "কম্পিউটার ভাইরাসের ধারণা প্রথম ১৯৪৯ সালে জন ভন&#39; নিউম্যান দেন। এরপর ১৯৮২ সালে এলক ক্লোনার ভাইরাস ফ্লপি ডিস্কের মাধ্যমে বিশ্বব্যাপী ছড়িয়ে পড়ে। ১৯৮৬ সালে ব্রেইন ভাইরাস প্রথম ক্ষতিকারক ভাইরাস হিসেবে চিহ্নিত হয়। এরপর বিভিন্ন সময় অনেক বিপজ্জনক ভাইরাস তৈরি হয়েছে, যা বিশ্বজুড়ে নানারকম ক্ষতির কারণ হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770440,
+      "value": {
+        "options": [],
+        "question": "ভাইরাস কিভাবে কাজ করে ব্যাখ্যা কর।",
+        "solution": "ভাইরাস কম্পিউটার সিস্টেমের নানারকম ক্ষতি করে থাকে। কখনও দৃশ্যমান ক্ষতি কখনও ক্ষতির ব্যাপারটি অনেক দেরিতে বোঝা যায়। পুনরুৎপাদনের জন্য অবশ্যই ভাইরাস এর প্রোগ্রাম কোডটিকে চালাতে হয়। কেউ জেনে শুনে যেহেতু এ ক্ষতিকর কোড চালাবে না সেহেতু যেসব প্রোগ্রাম ব্যবহারকারী সচরাচর চালিয়ে থাকেন সেগুলোর কার্যকরী ফাইলের পিছনে ভাইরাসটি নিজের কোডটি ঢুকিয়ে দেয়। যখন কোনো ব্যবহারকারী ঐ কার্যকরী ফাইলটি চালায়, তখন ভাইরাস প্রোগ্রামটিও সক্রিয় হয়ে উঠে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770441,
+      "value": {
+        "options": [],
+        "question": "এন্টিভাইরাস কীভাবে ভাইরাসকে শনাক্ত করে?",
+        "solution": "বাজারে প্রচলিত প্রায় সকল এন্টিভাইরাস সফটওয়&zwj;্যার অন্যান্য ম্যালওয়&zwj;্যারের বিরুদ্ধে কার্যকরী। সকল ভাইরাস প্রোগ্রামের কিছু সুনির্দিষ্ট ধরন বা প্যাটার্ন রয়েছে। এন্টিভাইরাস ও সফটওয়্যার এই সকল প্যাটার্নের একটি তালিকা সংরক্ষণ করে। সাধারণত গবেষণা করে এই তালিকা তৈরি করা হয়। যখন এন্টিভাইরাস সফটওয়&zwj;্যারকে কাজ করতে দেওয়া হয়, তখন সেটি কম্পিউটার সিস্টেমের বিভিন্ন ফাইলে বিশেষ নকশা খুঁজে বের করে এবং তা তার নিজস্ব তালিকার সঙ্গে তুলনা করে। যদি এটি মিলে যায় তাহলে এটিকে ভাইরাস হিসাবে শনাক্ত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770442,
+      "value": {
+        "options": [],
+        "question": "এন্টিভাইরাস কী? উদাহরণ দাও।",
+        "solution": "এন্টিভাইরাস হলো একটি সফটওয়্যার যা কম্পিউটারকে ভাইরাস, ওয়ার্ম, ট্রোজান হর্স এবং অন্যান্য ধরনের ম্যালওয়্যার থেকে রক্ষা করে। এটি কম্পিউটার স্ক্যান করে ম্যালওয়্যার শনাক্ত করে এবং সেগুলোকে মুছে দেয়। জনপ্রিয় এন্টিভাইরাস সফটওয়&zwj;্যার মধ্যে রয়েছে নরটন, &#39;অ্যাভাস্ট, প্যান্ডা, কাসপারেস্কি, মাইক্রোসফট সিকিউরিটি এসেনসিয়াল ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770443,
+      "value": {
+        "options": [],
+        "question": "নিবাসী ও অনিবাসী ভাইরাসের পার্থক্য লিখ।",
+        "solution": "অনিবাসী ভাইরাস সক্রিয় হয়ে ওঠার পর, অন্যান্য কোন কোন প্রোগ্রামকে সংক্রমণ করা যায় সেটি খুঁজে বের করে। তারপর সেগুলোকে সংক্রমণ করে এবং পরিশেষে মূল প্রোগ্রামের কাছে নিয়ন্ত্রণ দিয়ে নিষ্ক্রিয় হয়ে যায়। অন্যদিকে, নিবাসী ভাইরাস সক্রিয় হওয়ার পর মেমোরিতে স্থায়ী হয়ে বসে থাকে। যখনই অন্য কোনো প্রোগ্রাম চালু হয়, তখনই সেটি সেই প্রোগ্রামকে সংক্রমিত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770411,
+      "value": {
+        "options": {
+          "ক": "Ping pong",
+          "খ": "Dark Avenger",
+          "গ": "Dap recyworm",
+          "ঘ": "Cripper"
+        },
+        "question": "Reaper নামের সফটওয়্যারটি কোন ভাইরাসকে মুছে ফেলতে পারত?",
+        "solution": "ঘ. Cripper",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770401,
+      "value": {
+        "options": {
+          "ক": "সফটওয়্যার এর জন্য",
+          "খ": "পুনরুৎপাদনশীলতার জন্য",
+          "গ": "নেটওয়ার্ক-এর জন্য",
+          "ঘ": "সংক্রমণের জন্য"
+        },
+        "question": "কম্পিউটার প্রোগ্রাম ভাইরাস হিসেবে চিহ্নিত হয় এর কোন ক্ষমতার জন্য?",
+        "solution": "খ. পুনরুৎপাদনশীলতার জন্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770402,
+      "value": {
+        "options": {
+          "ক": "পুনরুৎপাদন ক্ষমতা নেই",
+          "খ": "কম্পিউটার থেকে কম্পিউটারে সংক্রমিত হয়",
+          "গ": "ভালো সফটওয়্যারের ছদ্মাবরণে আড়াল হয়ে থাকে",
+          "ঘ": "নিজ থেকেই নেটওয়ার্কের কম্পিউটারে ছড়িয়ে পড়ে"
+        },
+        "question": "কম্পিউটার ভাইরাসের বৈশিষ্ট্য কোনটি?",
+        "solution": "খ. কম্পিউটার থেকে কম্পিউটারে সংক্রমিত হয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770402,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770403,
+      "value": {
+        "options": {
+          "ক": "১৯৩৬",
+          "খ": "১৯৫৬",
+          "গ": "১৯৮৬",
+          "ঘ": "২০০০"
+        },
+        "question": "'ব্রেইন' ভাইরাস সফটওয়্যারটি কত সালে তৈরি হয়?",
+        "solution": "গ. ১৯৮৬",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770404,
+      "value": {
+        "options": {
+          "ক": "সফটওয়্যার",
+          "খ": "ওয়ার্ম",
+          "গ": "ভাইরাস",
+          "ঘ": "হার্ডওয়্যার"
+        },
+        "question": "ব্যবহারকারীর অজান্তে তার সিস্টেমের ক্ষতি করে কোনটি?",
+        "solution": "গ. ভাইরাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770405,
+      "value": {
+        "options": {
+          "ক": "হার্ডডিক্স ফরম্যাট করে",
+          "খ": "বার বার Reboot করে",
+          "গ": "ফাইল চুরি করে",
+          "ঘ": "কম্পিউটার হ্যাং করে"
+        },
+        "question": "CIS ভাইরাস কম্পিউটারের কোন ক্ষতির জন্য দায়ী?",
+        "solution": "ক. হার্ডডিক্স ফরম্যাট করে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770406,
+      "value": {
+        "options": {
+          "ক": "জন ভন নিউম্যান",
+          "খ": "ফ্রেডরিক বি কোহেন",
+          "গ": "মাইকেল ক্যালসি",
+          "ঘ": "সত্যেন বোস"
+        },
+        "question": "পুনরুৎপাদনশীল কম্পিউটার প্রোগ্রামকে কে প্রথম ভাইরাস হিসেবে সম্বোধন করেন?",
+        "solution": "খ. ফ্রেডরিক বি কোহেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770406,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770407,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটার ভাইরাস হলো এক ধরনের ক্ষতিকারক সফটওয়্যার যা-\u003Cbr\u003E\ni. পুনরুৎপাদনে অক্ষম\u003Cbr\u003E\nii. এক কম্পিউটার থেকে অন্য কম্পিউটারে সংক্রমিত হয়\u003Cbr\u003E\niii. কম্পিউটার সিস্টেমের নানা ধরনের ক্ষতি করে থাকে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770407,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770407,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770408,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কাজের ধরনের ভিত্তিতে ভাইরাসের প্রকারভেদ হলো-\u003Cbr\u003E\ni. নিবাসী ভাইরাস\u003Cbr\u003E\nii. অধিবাসী ভাইরাস\u003Cbr\u003E\niii. অনিবাসী ভাইরাস\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770408,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770408,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770409,
+      "value": {
+        "options": {
+          "ক": "রিপার",
+          "খ": "ব্রেইন",
+          "গ": "এলক ক্লোজার ভাইরাস",
+          "ঘ": "আরপানেট ক্রিপার"
+        },
+        "question": "প্রথম কোন ভাইরাস তার জন্মস্থান থেকে নানা জায়গায় ছড়িয়ে পড়ে?",
+        "solution": "গ. এলক ক্লোজার ভাইরাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770410,
+      "value": {
+        "options": {
+          "ক": "উপকারী",
+          "খ": "ক্ষতিকারক",
+          "গ": "ডায়ালার",
+          "ঘ": "ওয়ার্ম"
+        },
+        "question": "কম্পিউটার ভাইরাস কী ধরনের সফটওয়্যার?",
+        "solution": "খ. ক্ষতিকারক",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770410,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770400,
+      "value": {
+        "options": {
+          "ক": "নিউম্যান",
+          "খ": "কোহেন",
+          "গ": "ডেরিক",
+          "ঘ": "ডিউক"
+        },
+        "question": "কম্পিউটার প্রোগ্রামকে ভাইরাস হিসেবে প্রথম সম্বোধন করেন কোন বিজ্ঞানী?",
+        "solution": "খ. কোহেন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770412,
+      "value": {
+        "options": {
+          "ক": "নিমডা ভাইরাস",
+          "খ": "জেরুজালেম ভাইরাস",
+          "গ": "ক্রিপার ভাইরাস",
+          "ঘ": "মাইকেল এঞ্জেলো ভাইরাস"
+        },
+        "question": "সত্তর দশকে অরপানেটে কোন ভাইরাসটি চিহ্নিত করা হয়েছিল?",
+        "solution": "গ. ক্রিপার ভাইরাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770413,
+      "value": {
+        "options": {
+          "ক": "নিজের কোডটি নিজেই পরিচালনা করে",
+          "খ": "মূল প্রোগ্রামের কাছে নিয়ন্ত্রণ দিয়ে দেয়",
+          "গ": "নিজে নিজে মেমোরিতে লেখার ক্ষমতা অর্জন করে",
+          "ঘ": "নিজের কোডটি কার্যকরী ফাইলের পেছনে ঢুকিয়ে দেয়"
+        },
+        "question": "ভাইরাস তার উদ্দেশ্য পূরণের জন্য কী করে?",
+        "solution": "ঘ. নিজের কোডটি কার্যকরী ফাইলের পেছনে ঢুকিয়ে দেয়",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770413,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770414,
+      "value": {
+        "options": {
+          "ক": "ক্রিপার",
+          "খ": "ভিয়েনা",
+          "গ": "ব্রেইন",
+          "ঘ": "নিমডা"
+        },
+        "question": "ভাইরাসের বিধ্বংসী আচরণ প্রথমে কোন ভাইরাসের মাধ্যমে প্রকাশিত হয়?",
+        "solution": "গ. ব্রেইন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 770414,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 770415,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ভাইরাস সংক্রমণের লক্ষণগুলো হলো-\u003Cbr\u003E\ni. কম্পিউটার হ্যাং হয়ে যায়\u003Cbr\u003E\nii. ঘন ঘন রিবুট করা\u003Cbr\u003E\niii. অদ্ভূত ম্যাসেজ প্রদর্শন করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4307,
+          "full_name": "আর্মড পুলিশ ব্যাটালিয়ন স্কুল অ্যান্ড কলেজ, বগুড়া",
+          "short_name": "আর্মড পুলিশ ব্যাটালিয়ন স্কুল অ্যান্ড কলেজ, বগুড়া",
+          "slug": "armd-pulis-bzataliyn-skul-ozand-klej-bgura",
+          "pivot": {
+            "question_bank_id": 770415,
+            "tag_id": 4307,
+            "year": null,
+            "created_at": "2025-12-01T10:21:37.000000Z",
+            "updated_at": "2025-12-01T10:21:37.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770415,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770415,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770416,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটার ভাইরাস হলো-\u003Cbr\u003E\ni. রিপার\u003Cbr\u003E\nii. নিমডা\u003Cbr\u003E\niii. অ্যানাকুর্নিকোভা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4290,
+          "full_name": "ভি.জে. সরকারি উচ্চ বিদ্যালয়, চুয়াডাঙ্গা",
+          "short_name": "ভি.জে. সরকারি উচ্চ বিদ্যালয়, চুয়াডাঙ্গা",
+          "slug": "vije-srkari-ucc-bidzaly-cuyadangoa",
+          "pivot": {
+            "question_bank_id": 770416,
+            "tag_id": 4290,
+            "year": null,
+            "created_at": "2025-12-01T10:21:37.000000Z",
+            "updated_at": "2025-12-01T10:21:37.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770416,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770416,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770417,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটার ভাইরাস হলো-\u003Cbr\u003E\ni. রিপার\u003Cbr\u003E\nii. কোড রেড ওয়ার্ম\u003Cbr\u003E\niii. ডাপরোসি ওয়ার্ম\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 770417,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770417,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 770418,
+      "value": {
+        "options": {
+          "ক": "কাজের গতি বৃদ্ধি পাওয়া",
+          "খ": "কাজের গতি হ্রাস পাওয়া",
+          "গ": "আপনাআপনি চালু হওয়া",
+          "ঘ": "বিশেষ কিছু কাজে দক্ষ হওয়া"
+        },
+        "question": "সমু তার কম্পিউটারে কাজ করার সময় মনিটরের পর্দায় কিছুক্ষণ পর পর ভাইরাসের এলার্ট লেখা একটি বক্স দেখতে পয়। তবে অন্য কোনো সমস্যায় সম্মুখীন হওয়া ছাড়াই সে বক্সটি মিনিমাইস করে তার কাজ চালিয়ে যেতে পারে।\u003Cbr\u003E\nসমুর কম্পিউটারে নিচের কোন লক্ষণটি দেখা দিয়েছে?",
+        "solution": "খ. কাজের গতি হ্রাস পাওয়া",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 770418,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770418,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770419,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমু তার কম্পিউটারে কাজ করার সময় মনিটরের পর্দায় কিছুক্ষণ পর পর ভাইরাসের এলার্ট লেখা একটি বক্স দেখতে পয়। তবে অন্য কোনো সমস্যায় সম্মুখীন হওয়া ছাড়াই সে বক্সটি মিনিমাইস করে তার কাজ চালিয়ে যেতে পারে।\u003Cbr\u003E\nসমুর কম্পিউটার আক্রমণকারী ম্যালওয়্যারটি তখনই পুনরুৎপাদনে সক্ষম হবে যখন সে-\u003Cbr\u003E\ni. নিজেই নিজের কোড চালাতে পারবে\u003Cbr\u003E\nii. নিজে নিজে মেমোরিতে লিখতে সক্ষম হবে\u003Cbr\u003E\niii. ব্যবহারকারীর দৃষ্টি আকর্ষণ করতে পারবে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 770419,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 770419,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 770419,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 770420,
+      "value": {
+        "options": {
+          "ক": "সিএসআই",
+          "খ": "নরটন",
+          "গ": "আভাস্ট",
+          "ঘ": "প্যান্ডা"
+        },
+        "question": "কোন ভাইরাসটি প্রতি বছর ২৬ এপ্রিল হার্ডডিস্কের অটো ফরম্যাট ফেলে দেয়?",
+        "solution": "ক. সিএসআই",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3279,
+          "full_name": "খুলনা জিলা স্কুল",
+          "short_name": "KZS",
+          "slug": "kzs",
+          "pivot": {
+            "question_bank_id": 770420,
+            "tag_id": 3279,
+            "year": null,
+            "created_at": "2025-12-01T10:21:37.000000Z",
+            "updated_at": "2025-12-01T10:21:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 770421,
+      "value": {
+        "options": {
+          "ক": "ভাইরাস",
+          "খ": "ওয়ার্ম",
+          "গ": "সার্ভার",
+          "ঘ": "পিসি"
+        },
+        "question": "আরপানেট ক্রিপার কী?",
+        "solution": "ক. ভাইরাস",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 52,
+      "book_grade_id": 2,
+      "content_chunk_id": 7921,
+      "created_at": "2025-12-01T10:21:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 52,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7921&grade=2&lesson=14459&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7921&grade=2&lesson=14459&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7921&grade=2&lesson=14459&per_page=200&question_paper_id=47586&subject=52&type=board&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 45,
+  "total": 45
+}

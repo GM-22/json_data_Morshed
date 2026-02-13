@@ -1,0 +1,833 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 768332,
+      "value": {
+        "options": {
+          "ক": "বিশ্বাস",
+          "খ": "পালনকর্তা",
+          "গ": "একত্ববাদ",
+          "ঘ": "সৃষ্টিকর্তা"
+        },
+        "question": "তাওহিদ শব্দের অর্থ কী?",
+        "solution": "গ. একত্ববাদ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768332,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768340,
+      "value": {
+        "options": [],
+        "question": "আকাশমণ্ডলী ও পৃথিবী পরিচালনার ক্ষেত্রে যদি বহু ইলাহ থাকত, তাহলে কী হতো?",
+        "solution": "আকাশমণ্ডলী ও পৃথিবী পরিচালনার ক্ষেত্রে যদি বহু ইলাহ থাকত তাহলে মহাজগৎ ধ্বংস হয়ে যেত। একজন স্রষ্টা চাইতেন সূর্য পূর্ব দিকে উঠুক, আরেকজন চাইতেন পশ্চিম দিকে। আবার কেউ কেউ চাইতেন আম গাছে আম না হয়ে কাঁঠাল বা জাম অথবা অন্য কোনো ফল হোক। এভাবে সকল কাজে মতানৈক্যের ফলে একসময় আকাশমণ্ডলী ও পৃথিবী ধ্বংস হয়ে যেত।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768339,
+      "value": {
+        "options": [],
+        "question": "পরিপূর্ণভাবে ইসলামে প্রবেশ করতে হলে তোমাকে সর্বপ্রথম কোন বিষয়টিতে বিশ্বাস স্থাপন করতে হবে এবং কেন?",
+        "solution": "পরিপূর্ণভাবে ইসলামে প্রবেশ করতে হলে আমাকে সর্বপ্রথম তাওহিদে বিশ্বাস স্থাপন করতে হবে। কারণ আকাইদের সর্বপ্রথম ও সর্বপ্রধান বিষয় হলো তাওহিদ। তাওহিদে বিশ্বাসের মাধ্যমেই মানুষ ইমান ও ইসলামে প্রবেশ করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768338,
+      "value": {
+        "options": {
+          "ক": "প্রচুর ধন-সম্পদ",
+          "খ": "সামাজিক মর্যাদা",
+          "গ": "আখিরাতে সফলতা",
+          "ঘ": "পারিবারিক শান্তি"
+        },
+        "question": "মান্নান সাহেব আল্লাহকে এক ও অদ্বিতীয় সত্তা হিসেবে বিশ্বাস করেন এবং তার সাথে কাউকে শরিক করেন না। এর ফলে তিনি কী লাভ করবেন?",
+        "solution": "গ. আখিরাতে সফলতা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768337,
+      "value": {
+        "options": {
+          "ক": "আকিদাহ",
+          "খ": "আকায়েদ",
+          "গ": "আকিদুন",
+          "ঘ": "উকদাতুন"
+        },
+        "question": "আকাইদ শব্দের একবচন কী?",
+        "solution": "ক. আকিদাহ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768337,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768336,
+      "value": {
+        "options": {
+          "ক": "বিশ্বাস",
+          "খ": "বিশ্বাসমালা",
+          "গ": "ইমান",
+          "ঘ": "আন্তরিক বিশ্বাস"
+        },
+        "question": "আকাইদ শব্দের অর্থ কী?",
+        "solution": "খ. বিশ্বাসমালা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768336,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768335,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সোহেল গাছপালা, পশু-পাখি, চন্দ্র-সূর্য ইত্যাদির নিকট মাথা নত করে। মূর্তিপূজাও করে। সে বলে পৃথিবীতে যে যাই করুক না কেন সবই আল্লাহর হুকুমে করে থাকে।\u003Cbr\u003E\nএরূপ কাজের ফলে সোহেল-\u003Cbr\u003E\ni. বিপথগামী হবে ii. সফলতা লাভ করবে iii. শান্তি লাভ করবে নিচের কোনটি সঠিক?",
+        "solution": "ক. i",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 768335,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768335,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768334,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আকাইদ বলতে বোঝায়-\u003Cbr\u003E\ni. পীর, মাশায়েখ ও ওলিদের ওপর বিশ্বাস\u003Cbr\u003E\nii. তাওহিদ, রিসালাত ও আখিরাতের ওপর বিশ্বাস\u003Cbr\u003E\niii. তাকদির ও কিতাবের ওপর বিশ্বাস\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 768334,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768334,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 768333,
+      "value": {
+        "options": {
+          "ক": "রিসালাতের",
+          "খ": "আখিরাতের",
+          "গ": "তাওহিদের",
+          "ঘ": "তাকওয়ার"
+        },
+        "question": "জনাব হালিম আল্লাহকে এক ও অদ্বিতীয় হিসেবে বিশ্বাস করেন এবং সে অনুযায়ী জীবন পরিচালনা করেন। তার এরূপ আমল ইসলামের কোন বিশ্বাসের অন্তর্ভুক্ত?",
+        "solution": "গ. তাওহিদের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 768333,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768324,
+      "value": {
+        "options": {
+          "ক": "একত্ববাদের",
+          "খ": "রিসালাতের",
+          "গ": "পুনরুত্থানের",
+          "ঘ": "আখিরাতের"
+        },
+        "question": "“লা ইলাহা ইল্লাল্লাহু” কীসের মূলবাণী?",
+        "solution": "ক. একত্ববাদের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 768324,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768331,
+      "value": {
+        "options": {
+          "ক": "রিসালাত",
+          "খ": "তাওহিদ",
+          "গ": "আখিরাত",
+          "ঘ": "নবুওয়াত"
+        },
+        "question": "“যদি পৃথিবী ও আকাশমণ্ডলীতে আল্লাহ ব্যতীত অন্য কোনো ইলাহ থাকত তবে উভয়ই ধ্বংস হয়ে যেত।”- এ আয়াতটি কী প্রমাণ করে?",
+        "solution": "খ. তাওহিদ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 768331,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768330,
+      "value": {
+        "options": {
+          "ক": "জিহাদ করার জন্য",
+          "খ": "নামায প্রতিষ্ঠা করার জন্য",
+          "গ": "বেহেশতের সুসংবাদ দেওয়ার জন্য",
+          "ঘ": "মানবজাতির হিদায়াতের জন্য"
+        },
+        "question": "দুনিয়াতে নবি-রাসুল আগমন করেছিলেন কেন?",
+        "solution": "ঘ. মানবজাতির হিদায়াতের জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768330,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768329,
+      "value": {
+        "options": {
+          "ক": "রিসালাতের",
+          "খ": "তাওহিদের",
+          "গ": "আখিরাতের",
+          "ঘ": "তাকদিরের"
+        },
+        "question": "লিটন তথাকথিত এক পীরের মাজারকে সিজদা করেন এবং তার কাছে সাহায্য চান। তার এরূপ কাজ ইসলামের কোন বিশ্বাসের পরিপন্থী?",
+        "solution": "খ. তাওহিদের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 768329,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768328,
+      "value": {
+        "options": {
+          "ক": "এক",
+          "খ": "দুই",
+          "গ": "তিন",
+          "ঘ": "চার"
+        },
+        "question": "তাওহিদের বিশ্বাসের ক্ষেত্রে কত জন ইলাহর কথা বলা হয়েছে?",
+        "solution": "ক. এক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768328,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768327,
+      "value": {
+        "options": {
+          "ক": "রিসালাত",
+          "খ": "আখিরাত",
+          "গ": "জান্নাত",
+          "ঘ": "তাওহিদ"
+        },
+        "question": "সোহেল গাছপালা, পশু-পাখি, চন্দ্র-সূর্য ইত্যাদির নিকট মাথা নত করে। মূর্তিপূজাও করে। সে বলে পৃথিবীতে যে যাই করুক না কেন সবই আল্লাহর হুকুমে করে থাকে।\u003Cbr\u003E\nসোহেলের কর্মকান্ড কীসের পরিপন্থী?",
+        "solution": "ঘ. তাওহিদ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 768327,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768327,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768326,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পৃথিবী ও আকাশমণ্ডলীতে আল্লাহ ব্যতীত অন্য কোনো ইলাহ থাকলে-\u003Cbr\u003E\ni. পৃথিবী ও আকাশমণ্ডলী ধ্বংস হয়ে যেত\u003Cbr\u003E\nii. একে অপরের ওপর প্রাধান্য বিস্তার করত\u003Cbr\u003E\niii. প্রত্যেক ইলাহ স্বীয় সৃষ্টি নিয়ে পৃথক হয়ে যেত\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 768326,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768326,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 768325,
+      "value": {
+        "options": {
+          "ক": "মুসলিম",
+          "খ": "ফেরেশতা",
+          "গ": "মুফতি",
+          "ঘ": "মুহাদ্দিস"
+        },
+        "question": "ইসলামে প্রবেশকারীকে কী বলা হয়?",
+        "solution": "ক. মুসলিম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12917,
+      "created_at": "2025-12-01T06:48:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768325,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12917&grade=3&lesson=14333&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12917&grade=3&lesson=14333&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12917&grade=3&lesson=14333&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

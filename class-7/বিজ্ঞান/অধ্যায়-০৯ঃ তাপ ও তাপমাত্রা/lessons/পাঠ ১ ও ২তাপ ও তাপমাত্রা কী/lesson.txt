@@ -1,0 +1,896 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 766586,
+      "value": {
+        "options": {
+          "ক": "তাপের উপস্থিতি",
+          "খ": "তাপের অনুপস্থিতি",
+          "গ": "পানির উপস্থিতি",
+          "ঘ": "পানির কঠিন অবস্থা"
+        },
+        "question": "বরফ হাতে ধরলে ঠান্ডা লাগে কেন?",
+        "solution": "ক. তাপের উপস্থিতি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766586,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766594,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সেলিনা বেগম খাওয়ার জন্য পানি ফুটালেন। অসাবধানতায় কিছু পানি নিচে পড়ে গেল।\u003Cbr\u003E\nসেলিনা বেগমের পানি ফুটানো বিষয়টি হলো-\u003Cbr\u003E\ni. তাপ প্রয়োগ&nbsp;\u003Cbr\u003E\nii. এক প্রকার শক্তি&nbsp;\u003Cbr\u003E\niii. স্পর্শে অনুভব করা যায়&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 766594,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766594,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766594,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766593,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তাপ ও তাপমাত্রার মধ্যকার পার্থক্য হলো-\u003Cbr\u003E\ni. তাপ হলো শক্তি, আর তাপমাত্রা হলো বস্তুর তাপীয় অবস্থা&nbsp;\u003Cbr\u003E\nii. তাপমাত্রা হলো শক্তির একটি বিশেষ রূপ, আর তাপ হলো এক ধরনের পদার্থ&nbsp;\u003Cbr\u003E\niii. তাপের একক জুল, তাপমাত্রার একক কেলভিন বা সেন্টিগ্রেড&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766593,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766593,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766592,
+      "value": {
+        "options": {
+          "ক": "i&nbsp;",
+          "খ": "ii",
+          "গ": "iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শক্তির উদাহরণ-\u003Cbr\u003E\ni. রোবট&nbsp;\u003Cbr\u003E\nii. কম্পিউটার&nbsp;\u003Cbr\u003E\niii. তাপ&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766592,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766592,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766591,
+      "value": {
+        "options": {
+          "ক": "ওজন আছে",
+          "খ": "জায়গা দখল করে",
+          "গ": "অনুভব করা যায়",
+          "ঘ": "অনুভব করা যায় না"
+        },
+        "question": "কোনটি শক্তির বৈশিষ্ট্যের ক্ষেত্রে প্রযোজ্য?",
+        "solution": "গ. অনুভব করা যায়",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 766591,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766590,
+      "value": {
+        "options": {
+          "ক": "তাপ",
+          "খ": "শক্তি",
+          "গ": "ভর",
+          "ঘ": "ওজন"
+        },
+        "question": "কী কারণে কোনো কিছু আমাদের ঠান্ডা বা গরম লাগে?",
+        "solution": "ক. তাপ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766590,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766589,
+      "value": {
+        "options": {
+          "ক": "কয়লা",
+          "খ": "গ্যাস",
+          "গ": "তাপ",
+          "ঘ": "উষ্ণতা"
+        },
+        "question": "কোনটি শক্তি?",
+        "solution": "গ. তাপ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766589,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766588,
+      "value": {
+        "options": {
+          "ক": "ভৌত অবস্থা",
+          "খ": "এক প্রকার শক্তি",
+          "গ": "ভর",
+          "ঘ": "এক ধরনের বল"
+        },
+        "question": "তাপ কী?",
+        "solution": "খ. এক প্রকার শক্তি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766588,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766587,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তাপমাত্রা হলো-\u003Cbr\u003E\ni. বস্তুর তাপীয় অবস্থা&nbsp;\u003Cbr\u003E\nii. তাপের ফল&nbsp;\u003Cbr\u003E\niii. গরম বা ঠান্ডা প্রকাশক অবস্থা&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766587,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766578,
+      "value": {
+        "options": {
+          "ক": "শক্তি",
+          "খ": "পদার্থ",
+          "গ": "তাপীয় অবস্থা",
+          "ঘ": "বস্তু"
+        },
+        "question": "তাপমাত্রা কী?",
+        "solution": "গ. তাপীয় অবস্থা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766578,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766585,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "২"
+        },
+        "question": "মহাবিশ্বে যা কিছু আছে তাকে কয় ভাগে ভাগ করা যায়?",
+        "solution": "ক. ২",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766585,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766584,
+      "value": {
+        "options": {
+          "ক": "ফুটবে",
+          "খ": "আরও গরম হবে",
+          "গ": "গরম একই থাকবে",
+          "ঘ": "ঠান্ডা হবে"
+        },
+        "question": "সেলিনা বেগম খাওয়ার জন্য পানি ফুটালেন। অসাবধানতায় কিছু পানি নিচে পড়ে গেল।\u003Cbr\u003E\nসেলিনা বেগমের পড়ে যাওয়া পানি ধীরে ধীরে কী হবে?",
+        "solution": "ঘ. ঠান্ডা হবে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766584,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766584,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766583,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তাপমাত্রা বাড়লে-\u003Cbr\u003E\ni. পানি বেশি করে বাষ্পে পরিণত হয়&nbsp;\u003Cbr\u003E\nii. বায়ু বেশি করে জলীয় বাষ্প ধারণ করতে পারে&nbsp;\u003Cbr\u003E\niii. বায়ুর আর্দ্রতা কমে যাবে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766583,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766583,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766582,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পদার্থের উদাহরণ-\u003Cbr\u003E\ni. কলম&nbsp;\u003Cbr\u003E\nii. টেবিল&nbsp;\u003Cbr\u003E\niii. মুঠোফোন&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766582,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766582,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766581,
+      "value": {
+        "options": {
+          "ক": "গতি",
+          "খ": "শব্দ",
+          "গ": "আলো",
+          "ঘ": "তাপ"
+        },
+        "question": "কোনো বস্তু ঠান্ডা বা গরম লাগার পেছনে কাজ করে কোনটি?",
+        "solution": "ঘ. তাপ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766581,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766580,
+      "value": {
+        "options": {
+          "ক": "তাপের মাধ্যমে",
+          "খ": "তাপমাত্রার মাধ্যমে",
+          "গ": "বৃষ্টির মাধ্যমে",
+          "ঘ": "আলোর মাধ্যমে"
+        },
+        "question": "বস্তু কতটুকু ঠান্ডা বা গরম তা কীভাবে জানা যায়?",
+        "solution": "খ. তাপমাত্রার মাধ্যমে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766580,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766579,
+      "value": {
+        "options": {
+          "ক": "তাপের জন্য",
+          "খ": "আলোর জন্য",
+          "গ": "শব্দের জন্য",
+          "ঘ": "তাপমাত্রার জন্য"
+        },
+        "question": "বস্তু ঠান্ডা বা গরম লাগে কেন?",
+        "solution": "ঘ. তাপমাত্রার জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7830,
+      "created_at": "2025-12-01T03:43:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766579,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7830&grade=3&lesson=14261&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7830&grade=3&lesson=14261&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7830&grade=3&lesson=14261&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

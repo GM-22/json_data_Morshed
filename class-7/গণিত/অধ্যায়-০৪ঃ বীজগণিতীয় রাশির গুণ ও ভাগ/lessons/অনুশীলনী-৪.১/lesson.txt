@@ -1,0 +1,2664 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 487175,
+      "value": {
+        "options": {
+          "A": "[math]6x^3 + 7x^2 - 5x[/math]",
+          "B": "[math]6x^3 - 7x^2 - 5x[/math]",
+          "C": "[math]6x^2 - 5x[/math]",
+          "D": "[math]6x^3 + x - 5[/math]"
+        },
+        "question": "[math](2x^2 + x)(3x - 5) =[/math] কত?",
+        "solution": "[math]2x^2 \\cdot 3x = 6x^3[/math]\u003Cbr\u003E, [math]2x^2 \\cdot -5 = -10x^2[/math]\u003Cbr\u003E, [math]x \\cdot 3x = 3x^2[/math]\u003Cbr\u003E, [math]x \\cdot -5 = -5x[/math]\u003Cbr\u003E → যোগফল: [math]6x^3 - 7x^2 - 5x[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487175,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:32.000000Z",
+            "updated_at": "2025-08-21T09:49:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487174,
+      "value": {
+        "options": {
+          "A": "[math]10x + 15[/math]",
+          "B": "[math]x^2 + 5[/math]",
+          "C": "[math]2x^2 + 3x[/math]",
+          "D": "[math]x^2 - x^2 + 15[/math]"
+        },
+        "question": "[math](x + 4)^2 - (x - 1)^2 =[/math] কত?",
+        "solution": "সূত্র: [math]a^2 - b^2 = (a + b)(a - b)[/math]\u003Cbr\u003E → [math](x + 4 + x - 1)(x + 4 - x + 1) = (2x + 3)(5) = 10x + 15[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487174,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:32.000000Z",
+            "updated_at": "2025-08-21T09:49:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487173,
+      "value": {
+        "options": {
+          "A": "[math]-6x^2y^4[/math]",
+          "B": "[math]-6x^3y^4[/math]",
+          "C": "[math]6x^3y^3[/math]",
+          "D": "[math]-6xy^4[/math]"
+        },
+        "question": "[math](3x^2y)(-2xy^3) =[/math] কত?",
+        "solution": "[math]3 \\times -2 = -6[/math]\u003Cbr\u003E, [math]x^2 \\cdot x = x^3[/math]\u003Cbr\u003E, [math]y \\cdot y^3 = y^4[/math]\u003Cbr\u003E → [math]-6x^3y^4[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487173,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:32.000000Z",
+            "updated_at": "2025-08-21T09:49:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487172,
+      "value": {
+        "options": {
+          "A": "[math]x^3 + 3x^2 - 4x - 12[/math]",
+          "B": "[math]x^3 - 4x + 12[/math]",
+          "C": "[math]x^3 + x - 6[/math]",
+          "D": "[math]x^3 + 6x - 12[/math]"
+        },
+        "question": "[math](x + 2)(x - 2)(x + 3) =[/math] কত?",
+        "solution": "প্রথমে [math](x + 2)(x - 2) = x^2 - 4[/math]\u003Cbr\u003E, তারপর [math](x^2 - 4)(x + 3) = x^3 + 3x^2 - 4x - 12[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487172,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:32.000000Z",
+            "updated_at": "2025-08-21T09:49:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487151,
+      "value": {
+        "options": {
+          "ক": "মান কমে",
+          "খ": "পরিবর্তন হয়",
+          "গ": "মান ভগ্নাংশ হয়",
+          "ঘ": "পরিবর্তন হয় না"
+        },
+        "question": "গুণ্য ও গুণকের স্থান বিনিময় করলে, গুণফলের—",
+        "solution": "গুণ একটি আদান-প্রদানযোগ্য (commutative) প্রক্রিয়া, তাই গুণ্য ও গুণকের স্থান পরিবর্তন করলেও ফলাফল অপরিবর্তিত থাকে। যেমন: [math]3 \\times 5 = 5 \\times 3 = 15[/math]।",
+        "explanation": "",
+        "correct_answer": "D. পরিবর্তন হয় না"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487151,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487150,
+      "value": {
+        "options": [],
+        "question": "[math](x^2 + 2x + 1)^2[/math] কে [math](x - 1)^2[/math] দ্বারা গুণ কর।",
+        "solution": "প্রথমে [math](x^2 + 2x + 1)^2 = x^4 + 4x^3 + 6x^2 + 4x + 1[/math]\u003Cbr\u003Eতারপর [math](x^4 + 4x^3 + 6x^2 + 4x + 1)(x^2 - 2x + 1)[/math]\u003Cbr\u003E [math]= x^6 + 2x^5 - x^4 - 4x^5 - 8x^4 + 4x^3 + 6x^4 + 12x^3 - 6x^2 + 4x^3 + 8x^2 - 4x + x^2 - 2x + 1[/math]\u003Cbr\u003Eসব সংযোজন করে: [math]= x^6 - 2x^5 - 3x^4 + 20x^3 + 3x^2 - 6x + 1[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমত, [math]x^2+2x+1=(x+1)^2[/math] হওয়ায় গুণফলটি হয় [math](x+1)^4(x-1)^2[/math]. প্রয়োজনে এটিকে আবার লিখতে পারি যেমন [math][(x+1)^2(x-1)]^2[/math], যা একইই ফল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487150,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487152,
+      "value": {
+        "options": {
+          "ক": "যোগ",
+          "খ": "গুণ",
+          "গ": "বিয়োগ",
+          "ঘ": "ভাগ"
+        },
+        "question": "বহুপদী রাশিকে একপদী রাশি দ্বারা গুণ করতে হলে গুণ্যের প্রত্যেক পদকে গুণক দ্বারা কি করতে হয়?",
+        "solution": "একপদী রাশি দ্বারা গুণ করার নিয়ম অনুযায়ী বহুপদী রাশির প্রতিটি পদকে আলাদাভাবে গুণ করতে হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487152,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487153,
+      "value": {
+        "options": {
+          "ক": "[math]a \\times b = a + b[/math]",
+          "খ": "[math]a \\times b = a + b[/math]",
+          "গ": "[math]a \\times b = b \\times a[/math]",
+          "ঘ": "[math]a \\times b = b + a[/math]"
+        },
+        "question": "[math]a, b[/math] যেকোনো দুইটি বীজগাণিতিক রাশি হলে, নিচের কোনটি সঠিক?",
+        "solution": "গুণের আদান-প্রদান নিয়ম অনুযায়ী [math]a \\times b = b \\times a[/math]। এটি গুণের গুণগত ধর্ম।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487153,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487154,
+      "value": {
+        "options": {
+          "A": "3",
+          "B": "7",
+          "C": "17",
+          "D": "60"
+        },
+        "question": "[math](3 \\times 4) \\times 5 =[/math] কত?",
+        "solution": "প্রথমে [math]3 \\times 4 = 12[/math]\u003Cbr\u003E, তারপর [math]12 \\times 5 = 60[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487154,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487155,
+      "value": {
+        "options": {
+          "A": "[math]ab[/math]",
+          "B": "[math]-ab[/math]",
+          "C": "[math]\\dfrac{a}{b}[/math]",
+          "D": "[math]-\\dfrac{a}{b}[/math]"
+        },
+        "question": "[math](-a) \\times (-b) =[/math] কত?",
+        "solution": "ঋণাত্মক দুটি সংখ্যা গুণ করলে ফলাফল ধনাত্মক হয়। অতএব [math](-a) \\times (-b) = ab[/math]।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487155,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487156,
+      "value": {
+        "options": {
+          "A": "[math]2b[/math]",
+          "B": "[math]b[/math]",
+          "C": "[math]4b[/math]",
+          "D": "[math]b^4[/math]"
+        },
+        "question": "[math]b \\times b \\times b \\times b =[/math] কত?",
+        "solution": "চারবার [math]b[/math]\u003Cbr\u003E গুণ করলে তা [math]b^4[/math]\u003Cbr\u003E হবে, কারণ গুণফলকে ঘাত রূপে প্রকাশ করা যায়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487156,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487157,
+      "value": {
+        "options": {
+          "A": "[math]7x[/math]",
+          "B": "[math]x^2[/math]",
+          "C": "[math]x^3[/math]",
+          "D": "[math]2x^3[/math]"
+        },
+        "question": "[math]x^2 \\times x =[/math] কত?",
+        "solution": "ঘাতের নিয়ম অনুযায়ী [math]x^2 \\times x^1 = x^{2+1} = x^3[/math]।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487157,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487158,
+      "value": {
+        "options": {
+          "ক": "[math]5x[/math]",
+          "খ": "[math]6x[/math]",
+          "গ": "[math]6x^2[/math]",
+          "ঘ": "[math]5x^2[/math]"
+        },
+        "question": "[math](2x)(3x)[/math] এর ফলাফল কত?",
+        "solution": "গুণের নিয়ম অনুযায়ী গুণফল হবে [math]2 \\times 3 = 6[/math]\u003Cbr\u003E এবং [math]x \\times x = x^2[/math]\u003Cbr\u003E, অর্থাৎ [math]6x^2[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487158,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487159,
+      "value": {
+        "options": {
+          "ক": "[math]a^6[/math]",
+          "খ": "[math]a^5[/math]",
+          "গ": "[math]a^8[/math]",
+          "ঘ": "[math]2a^3[/math]"
+        },
+        "question": "[math]a^2 \\times a^3[/math] এর গুণফল কত?",
+        "solution": "ঘাতের নিয়ম: [math]a^m \\times a^n = a^{m+n}[/math]\u003Cbr\u003E, তাই [math]a^2 \\times a^3 = a^{2+3} = a^5[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487159,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487160,
+      "value": {
+        "options": {
+          "A": "[math]x^2 + 6x + 5[/math]",
+          "B": "[math]x^2 + 5x + 6[/math]",
+          "C": "[math]x^2 + 2x + 3[/math]",
+          "D": "[math]x^2 + 4x + 6[/math]"
+        },
+        "question": "[math](x + 2)(x + 3) =[/math] কত?",
+        "solution": "দ্বিপদী গুণের নিয়মে: [math]x^2 + 3x + 2x + 6 = x^2 + 5x + 6[/math]।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487160,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487161,
+      "value": {
+        "options": {
+          "A": "[math]2ab + c[/math]",
+          "B": "[math]ab + ac[/math]",
+          "C": "[math]2ab + 2ac[/math]",
+          "D": "[math]2a + bc[/math]"
+        },
+        "question": "[math]2a(b + c) =[/math] কত?",
+        "solution": "বন্টনের নিয়ম অনুযায়ী: [math]2a \\times b + 2a \\times c = 2ab + 2ac[/math]।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487161,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487162,
+      "value": {
+        "options": {
+          "ক": "[math]x^2 + 25[/math]",
+          "খ": "[math]x^2 - 5x + 25[/math]",
+          "গ": "[math]x^2 - 10x + 25[/math]",
+          "ঘ": "[math]x^2 + 10x + 25[/math]"
+        },
+        "question": "[math](x - 5)^2 =[/math] কত?",
+        "solution": "সূত্র: [math](a - b)^2 = a^2 - 2ab + b^2[/math]\u003Cbr\u003E, তাই [math]x^2 - 10x + 25[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487162,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487163,
+      "value": {
+        "options": {
+          "A": "[math]-7a^2[/math]",
+          "B": "[math]-12a^3[/math]",
+          "C": "[math]12a^2[/math]",
+          "D": "[math]-12a^2[/math]"
+        },
+        "question": "[math](-3a)(4a^2) =[/math] কত?",
+        "solution": "গুণফল: [math]-3 \\times 4 = -12[/math]\u003Cbr\u003E এবং [math]a \\times a^2 = a^3[/math]\u003Cbr\u003E, তাই [math]-12a^3[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487163,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487164,
+      "value": {
+        "options": {
+          "ক": "[math]x^2 + 2x + 4[/math]",
+          "খ": "[math]x^2 + 4x + 4[/math]",
+          "গ": "[math]x^2 + 2x + 2[/math]",
+          "ঘ": "[math]x^2 + 3x + 4[/math]"
+        },
+        "question": "[math](x + 2)^2 =[/math] কত?",
+        "solution": "সূত্র: [math](a + b)^2 = a^2 + 2ab + b^2[/math]\u003Cbr\u003E, তাই [math]x^2 + 4x + 4[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487164,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487165,
+      "value": {
+        "options": {
+          "A": "[math]5x^6[/math]",
+          "B": "[math]6x^5[/math]",
+          "C": "[math]6x^6[/math]",
+          "D": "[math]5x^5[/math]"
+        },
+        "question": "[math](2x^2)(3x^3) =[/math] কত?",
+        "solution": "গুণফল: [math]2 \\times 3 = 6[/math]\u003Cbr\u003E, [math]x^2 \\times x^3 = x^5[/math]\u003Cbr\u003E, তাই [math]6x^5[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487165,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487166,
+      "value": {
+        "options": {
+          "A": "[math]a + b[/math]",
+          "B": "[math]a^2 + ab[/math]",
+          "C": "[math]ab + b^2[/math]",
+          "D": "[math]a^2 + b^2[/math]"
+        },
+        "question": "[math]a(a + b) =[/math] কত?",
+        "solution": "বন্টনের নিয়ম অনুযায়ী: [math]a^2 + ab[/math]।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487166,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487167,
+      "value": {
+        "options": {
+          "A": "[math]x^2 - 2x + 1[/math]",
+          "B": "[math]x^2 + 1[/math]",
+          "C": "[math]x^2 - 1[/math]",
+          "D": "[math]x^2 + 2x + 1[/math]"
+        },
+        "question": "[math](x + 1)(x - 1) =[/math] কত?",
+        "solution": "সূত্র: [math](a + b)(a - b) = a^2 - b^2[/math]\u003Cbr\u003E, তাই [math]x^2 - 1[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487167,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487168,
+      "value": {
+        "options": {
+          "A": "[math]x^3 - x^2 - 6x[/math]",
+          "B": "[math]x^3 + 5x - 6[/math]",
+          "C": "[math]x^3 + x^2 - 6x[/math]",
+          "D": "[math]x^2 + 2x - 3[/math]"
+        },
+        "question": "[math](x^2 + 2x)(x - 3) =[/math] কত?",
+        "solution": "[math]x^2 \\cdot x = x^3[/math]\u003Cbr\u003E, [math]x^2 \\cdot -3 = -3x^2[/math]\u003Cbr\u003E, [math]2x \\cdot x = 2x^2[/math]\u003Cbr\u003E, [math]2x \\cdot -3 = -6x[/math]\u003Cbr\u003E। যোগফল: [math]x^3 - x^2 -6x[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487168,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487169,
+      "value": {
+        "options": {
+          "A": "[math]4a^2 + 6ab + 9b^2[/math]",
+          "B": "[math]4a^2 + 12ab + 9b^2[/math]",
+          "C": "[math]2a^2 + 9b^2[/math]",
+          "D": "[math]4a^2 + 9b^2[/math]"
+        },
+        "question": "[math](2a + 3b)^2 =[/math] কত?",
+        "solution": "সূত্র: [math](a + b)^2 = a^2 + 2ab + b^2[/math]\u003Cbr\u003E → [math]4a^2 + 12ab + 9b^2[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487169,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487170,
+      "value": {
+        "options": {
+          "A": "[math]x^3 - 2x^2 + 8[/math]",
+          "B": "[math]x^3 + 2x^2 - 4x - 8[/math]",
+          "C": "[math]x^3 + 4x - 8[/math]",
+          "D": "[math]x^2 + 2x + 8[/math]"
+        },
+        "question": "[math](x^2 - 4)(x + 2) =[/math] কত?",
+        "solution": "[math]x^2(x + 2) - 4(x + 2) = x^3 + 2x^2 - 4x - 8[/math]।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487170,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487171,
+      "value": {
+        "options": {
+          "A": "[math]a^3 - b^3[/math]",
+          "B": "[math]a^3 - 3ab + b^3[/math]",
+          "C": "[math]a^3 - 3a^2b + 3ab^2 - b^3[/math]",
+          "D": "[math]a^3 + 3ab - b^3[/math]"
+        },
+        "question": "[math](a - b)^3 =[/math] কত?",
+        "solution": "সূত্র: [math]a^3 - 3a^2b + 3ab^2 - b^3[/math]।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487171,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487137,
+      "value": {
+        "options": [],
+        "question": "[math](a^2 + b^2)[/math] কে [math]a^3b^4[/math] দ্বারা গুণ কর।",
+        "solution": "[math](a^2 + b^2) \\times a^3b^4[/math]\u003Cbr\u003E [math]= a^2 \\times a^3b^4 + b^2 \\times a^3b^4[/math]\u003Cbr\u003E [math]= a^{2+3}b^4 + a^3b^{2+4}[/math]\u003Cbr\u003E [math]= a^5b^4 + a^3b^6[/math]\u003Cbr\u003E",
+        "explanation": "বিস্তরণ নিয়ম অনুযায়ী প্রতিটি পদকে [math]a^3b^4[/math] দ্বারা গুণ করলে এবং ঘাতের নিয়মে একই ভিত্তির ঘাতগুলো যোগ করলে ফল হয়: [math](a^2+b^2)a^3b^4=a^2\\cdot a^3b^4+b^2\\cdot a^3b^4=a^{5}b^{4}+a^{3}b^{6}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487137,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487125,
+      "value": {
+        "options": {
+          "ক": "৩য় রাশিকে উৎপাদকে বিশ্লেষণ কর।",
+          "খ": "সূত্রের সাহায্যে ১ম ও ২য় রাশির গুণফল নির্ণয় কর।",
+          "গ": "২য় রাশির মান শূন্য হলে দেখাও যে, [math]x^4 + \\dfrac{1}{x^4} = 47[/math]"
+        },
+        "question": "[math]x^2 + 3x + 1[/math], [math]x^2 - 3x + 1[/math] এবং [math]4 + 8x^2 + 3x^4[/math] — তিনটি বীজগাণিতিক রাশি।",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E [math]4 + 8x^2 + 3x^4[/math]\u003Cbr\u003Eক্রম সাজালে: [math]= 3x^4 + 8x^2 + 4[/math]\u003Cbr\u003Eএটিকে ধরি [math]= (ax^2 + b)^2[/math]\u003Cbr\u003E আকারে।কিন্তু সহজভাবে এটি [math]= (x^2 + 2)^2 + 3x^4[/math]\u003Cbr\u003E এরূপ নয়।বিশ্লেষণ করে: [math]= (3x^2 + 2)(x^2 + 2)[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E [math](x^2 + 3x + 1)(x^2 - 3x + 1)[/math]\u003Cbr\u003Eএটি সূত্র: [math](a + b)(a - b) = a^2 - b^2[/math]\u003Cbr\u003Eএখানে [math]a = x^2 + 1[/math]\u003Cbr\u003E, [math]b = 3x[/math]\u003Cbr\u003E [math]\\Rightarrow = (x^2 + 1)^2 - 9x^2[/math]\u003Cbr\u003E [math]= x^4 + 2x^2 + 1 - 9x^2 = x^4 - 7x^2 + 1[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]x^2 - 3x + 1 = 0[/math]\u003Cbr\u003E [math]\\Rightarrow x^2 + 1 = 3x[/math]\u003Cbr\u003Eভাগ করলে: [math]x + \\dfrac{1}{x} = 3[/math]\u003Cbr\u003Eএখন, সূত্র: [math]x^2 + \\dfrac{1}{x^2} = (x + \\dfrac{1}{x})^2 - 2 = 9 - 2 = 7[/math]\u003Cbr\u003Eআবার, [math]x^4 + \\dfrac{1}{x^4} = (x^2 + \\dfrac{1}{x^2})^2 - 2 = 7^2 - 2 = 49 - 2 = 47[/math]\u003Cbr\u003Eঅতএব, প্রমাণিত [math]x^4 + \\dfrac{1}{x^4} = 47[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]3x^4+8x^2+4=3(x^2)^2+8(x^2)+4=(3x^2+2)(x^2+2)[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math](x^2+3x+1)(x^2-3x+1)=(x^2+1)^2-(3x)^2=x^4-7x^2+1[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E যদি [math]x^2-3x+1=0[/math] হয়, তাহলে ভাগ করে পাওয়া যায় [math]x+1/x=3[/math]; আনুষঙ্গিকভাবে [math]x^2+1/x^2=3^2-2=7[/math] এবং [math]x^4+1/x^4=(x^2+1/x^2)^2-2=7^2-2=47[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487125,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487126,
+      "value": {
+        "options": [],
+        "question": "[math]A = x^2 + xy + y^2[/math] এবং [math]B = x - y[/math] হলে, প্রমাণ কর যে [math]AB = x^3 - y^3[/math]",
+        "solution": "দেওয়া আছে,[math]A = x^2 + xy + y^2[/math]\u003Cbr\u003E, [math]B = x - y[/math]\u003Cbr\u003Eসুতরাং,[math]AB = (x^2 + xy + y^2)(x - y)[/math]\u003Cbr\u003Eএখন গুণ করি:[math]= x^2(x - y) + xy(x - y) + y^2(x - y)[/math]\u003Cbr\u003E [math]= x^3 - x^2y + x^2y - xy^2 + xy^2 - y^3[/math]\u003Cbr\u003Eমধ্যবর্তী পদগুলো কেটে যায়:[math]= x^3 - y^3[/math]\u003Cbr\u003Eপ্রমাণিত: [math]AB = x^3 - y^3[/math]\u003Cbr\u003E",
+        "explanation": "কারণ [math]x^3 - y^3 = (x - y)(x^2 + xy + y^2)[/math], তাই [math]A = x^2+xy+y^2[/math] এবং [math]B = x-y[/math] হলে তাদের গুণফল হলো [math]AB=(x^2+xy+y^2)(x-y)=x^3 - x^2y + x^2y - xy^2 + xy^2 - y^3 = x^3 - y^3[/math], যেখানে মধ্যবর্তী পদসমূহ কেটে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487126,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487127,
+      "value": {
+        "options": [],
+        "question": "[math]A = a^2 - ab + b^2[/math] এবং [math]B = a + b[/math] হলে, [math]AB = ?[/math]",
+        "solution": "দেওয়া আছে,[math]A = a^2 - ab + b^2[/math]\u003Cbr\u003E, [math]B = a + b[/math]\u003Cbr\u003Eসুতরাং,[math]AB = (a^2 - ab + b^2)(a + b)[/math]\u003Cbr\u003Eএখন গুণ করি:[math]= a^2(a + b) - ab(a + b) + b^2(a + b)[/math]\u003Cbr\u003E [math]= a^3 + a^2b - a^2b - ab^2 + ab^2 + b^3[/math]\u003Cbr\u003Eমধ্যবর্তী পদগুলো কেটে যায়:[math]= a^3 + b^3[/math]\u003Cbr\u003Eউত্তর: [math]AB = a^3 + b^3[/math]\u003Cbr\u003E",
+        "explanation": "উত্তর: [math]AB = a^3 + b^3[/math]. কারণ [math](a^2 - ab + b^2)(a + b)=a^3 + a^2b - a^2b - ab^2 + ab^2 + b^3=a^3 + b^3[/math], যেখানে মধ্যবর্তী মিশ্র টার্মগুলো বাতিল হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487127,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487128,
+      "value": {
+        "options": [],
+        "question": "[math]4x^6y^3[/math] কে [math]7x^4y^5[/math] দ্বারা গুণ কর।",
+        "solution": "[math]4x^6y^3 \\times 7x^4y^5[/math]\u003Cbr\u003E [math]= (4 \\times 7) \\times (x^6 \\times x^4) \\times (y^3 \\times y^5)[/math]\u003Cbr\u003E [math]= 28x^{6+4}y^{3+5}[/math]\u003Cbr\u003E [math]= 28x^{10}y^8[/math]\u003Cbr\u003E",
+        "explanation": "একই ধরনের বহুপদগুলিকে গুণ করলে সহগগুলো গুণ করতে হয় এবং একই বেজের ভরের ঘাতগুলো যোগ করতে হয়। তাই [math]4x^6y^3 \\times 7x^4y^5 = 28x^{10}y^{8}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487128,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487129,
+      "value": {
+        "options": [],
+        "question": "[math]21a^3x^2y^4[/math] কে [math]-3a^2xy^3[/math] দ্বারা গুণ কর।",
+        "solution": "[math]21a^3x^2y^4 \\times (-3a^2xy^3)[/math]\u003Cbr\u003E [math]= (21 \\times -3) \\times (a^3 \\times a^2) \\times (x^2 \\times x^1) \\times (y^4 \\times y^3)[/math]\u003Cbr\u003E [math]= -63a^{3+2}x^{2+1}y^{4+3}[/math]\u003Cbr\u003E [math]= -63a^5x^3y^7[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গুণফলে সহগগুলি গুণ করতে হয় এবং একই বেসের চলকগুলির সূচকগুলো যোগ করতে হয়; তাই [math]21\\times(-3)=-63[/math] এবং [math]a^3\\cdot a^2=a^5,\\ x^2\\cdot x=x^3,\\ y^4\\cdot y^3=y^7[/math], ফলে গুণফল হলো [math]-63a^5x^3y^7[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487129,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487130,
+      "value": {
+        "options": [],
+        "question": "[math]-6x^4y^2z^2[/math] কে [math]9x^3y^5z^7[/math] দ্বারা গুণ কর।",
+        "solution": "[math](-6x^4y^2z^2) \\times (9x^3y^5z^7)[/math]\u003Cbr\u003E [math]= (-6 \\times 9) \\times (x^4 \\times x^3) \\times (y^2 \\times y^5) \\times (z^2 \\times z^7)[/math]\u003Cbr\u003E [math]= -54x^{4+3}y^{2+5}z^{2+7}[/math]\u003Cbr\u003E [math]= -54x^7y^7z^9[/math]\u003Cbr\u003E",
+        "explanation": "গুণ করার সময় সংখ্যাগুলো গুণ করতে হয় এবং একই চলকের সূচকগুলো যোগ করতে হয়। তাই [math]-6×9=-54[/math], [math]x^{4}×x^{3}=x^{7}[/math], [math]y^{2}×y^{5}=y^{7}[/math], [math]z^{2}×z^{7}=z^{9}[/math], সুতরাং ফল হলো [math]-54x^{7}y^{7}z^{9}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487130,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487131,
+      "value": {
+        "options": [],
+        "question": "[math]-11p^5q^2r^7[/math] কে [math]-13p^4q^6s[/math] দ্বারা গুণ কর।",
+        "solution": "[math](-11p^5q^2r^7) \\times (-13p^4q^6s)[/math]\u003Cbr\u003E [math]= (-11) \\times (-13) \\times (p^5 \\times p^4) \\times (q^2 \\times q^6) \\times r^7 \\times s[/math]\u003Cbr\u003E [math]= 143 \\times p^{5+4} \\times q^{2+6} \\times r^7 \\times s[/math]\u003Cbr\u003E [math]= 143p^9q^8r^7s[/math]\u003Cbr\u003Eএখানে [math]p[/math]\u003Cbr\u003E, [math]q[/math]\u003Cbr\u003E, [math]r[/math]\u003Cbr\u003E এবং [math]s[/math]\u003Cbr\u003E ভিন্ন চলক। প্রত্যেকটির একই চলকের ঘাত যোগ করে গুণফল নির্ণয় করা হয়েছে এবং ধনাত্মক সংখ্যা প্রাপ্ত হয়েছে কারণ দুটি ঋণাত্মক সংখ্যার গুণফল ধনাত্মক হয়।",
+        "explanation": "ব্যাখ্যা: ধনাঙ্কগুলো গুণ হয় ও সমান ভিত্তির চলকগুলোর ঘাত যোগ হয়; তাই [math](-11p^5q^2r^7)\\times(-13p^4q^6s)=[(-11)\\times(-13)]p^{5+4}q^{2+6}r^{7}s[/math]. ফলে [math]143p^9q^8r^7s[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487131,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487132,
+      "value": {
+        "options": [],
+        "question": "[math]-8a^4b^3c^5d^2[/math] কে [math]12a^2b^5c^3d^4[/math] দ্বারা গুণ কর।",
+        "solution": "[math](-8a^4b^3c^5d^2) \\times (12a^2b^5c^3d^4)[/math]\u003Cbr\u003E [math]= (-8) \\times 12 \\times (a^4 \\times a^2) \\times (b^3 \\times b^5) \\times (c^5 \\times c^3) \\times (d^2 \\times d^4)[/math]\u003Cbr\u003E [math]= -96 \\times a^{4+2} \\times b^{3+5} \\times c^{5+3} \\times d^{2+4}[/math]\u003Cbr\u003E [math]= -96a^6b^8c^8d^6[/math]\u003Cbr\u003Eএক্ষেত্রেও সমপ্রকার চলকের ঘাত যোগ করে পূর্ণাঙ্গ গুণফল নির্ণয় করা হয়েছে। [math]-8[/math]\u003Cbr\u003E এবং [math]12[/math]\u003Cbr\u003E গুণ করলে [math]-96[/math]\u003Cbr\u003E হয়, যেহেতু একটিকে ধনাত্মক এবং অন্যটিকে ঋণাত্মক ধরা হয়েছে।",
+        "explanation": "বহুপদিকে গুণ করার সময় সংখ্যাগুলোকে গুণ করে এবং একই বরের ভেরিয়েবলগুলোর ঘাতগুলো যোগ করতে হয়। তাই [math]-8a^4b^3c^5d^2 \\times 12a^2b^5c^3d^4 = -96a^6b^8c^8d^6[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487132,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487133,
+      "value": {
+        "options": [],
+        "question": "[math]15x^3y^2z^5m^4[/math] কে [math]-10x^5y^3z^2m[/math] দ্বারা গুণ কর।",
+        "solution": "[math](15x^3y^2z^5m^4) \\times (-10x^5y^3z^2m)[/math]\u003Cbr\u003E [math]= 15 \\times (-10) \\times (x^3 \\times x^5) \\times (y^2 \\times y^3) \\times (z^5 \\times z^2) \\times (m^4 \\times m)[/math]\u003Cbr\u003E [math]= -150 \\times x^{3+5} \\times y^{2+3} \\times z^{5+2} \\times m^{4+1}[/math]\u003Cbr\u003E [math]= -150x^8y^5z^7m^5[/math]\u003Cbr\u003Eএখানে চারটি চলক রয়েছে: [math]x[/math]\u003Cbr\u003E, [math]y[/math]\u003Cbr\u003E, [math]z[/math]\u003Cbr\u003E, এবং [math]m[/math]\u003Cbr\u003E। প্রতিটি চলকের ঘাত পৃথকভাবে যোগ করে চূড়ান্ত গুণফল নির্ণয় করা হয়েছে। সহগ [math]15 \\times (-10) = -150[/math]\u003Cbr\u003E হওয়ায় ফলাফল ঋণাত্মক।",
+        "explanation": "গুণ করার সময় সংখ্যাগুলোকে গুণ করে এবং একই চলকের ঘাতগুলো যোগ করি; তাই [math]15×(-10)=-150[/math] এবং [math]x^{3+5}=x^8,\\; y^{2+3}=y^5,\\; z^{5+2}=z^7,\\; m^{4+1}=m^5[/math]। ফলে ফলাফল হবে [math]-150x^8y^5z^7m^5[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487133,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487134,
+      "value": {
+        "options": [],
+        "question": "[math](x^3 + y^3)[/math] কে [math]x^4y^5[/math] দ্বারা গুণ কর।",
+        "solution": "[math](x^3 + y^3) \\times x^4y^5[/math]\u003Cbr\u003E [math]= (x^3 \\times x^4y^5) + (y^3 \\times x^4y^5)[/math]\u003Cbr\u003E [math]= x^{3+4}y^5 + x^4y^{3+5}[/math]\u003Cbr\u003E [math]= x^7y^5 + x^4y^8[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গুণ করলে প্রতিটি পদকে গুণিতক দিয়ে গুণ করতে হয়, তাই [math]x^4y^5(x^3+y^3)=x^4y^5\\cdot x^3+x^4y^5\\cdot y^3[/math]. একই বেসগুলির গুণে সূচক যোগ হয়, ফলে [math]=x^{7}y^{5}+x^{4}y^{8}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487134,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487135,
+      "value": {
+        "options": [],
+        "question": "[math](a^3 + b^3)[/math] এবং [math]ab^3[/math] এর গুণফল কত?",
+        "solution": "[math]ab^3(a^3 + b^3)[/math]\u003Cbr\u003E [math]= ab^3 \\times a^3 + ab^3 \\times b^3[/math]\u003Cbr\u003E [math]= a^{1+3}b^3 + ab^{3+3}[/math]\u003Cbr\u003E [math]= a^4b^3 + ab^6[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতি পদে [math]ab^3[/math] বিগুন করলে [math](a^3+b^3)\\cdot ab^3 = a^3\\cdot ab^3 + b^3\\cdot ab^3[/math] হয়, যা সরল করলে [math]a^4b^3 + ab^6[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487135,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487136,
+      "value": {
+        "options": [],
+        "question": "[math]A = x^2 - y^2 + z^2[/math] এবং [math]B = x^3y^4[/math] হলে, [math]AB[/math] এর মান নির্ণয় কর।",
+        "solution": "[math]AB = (x^2 - y^2 + z^2) \\times x^3y^4[/math]\u003Cbr\u003E [math]= x^2 \\times x^3y^4 - y^2 \\times x^3y^4 + z^2 \\times x^3y^4[/math]\u003Cbr\u003E [math]= x^{2+3}y^4 - x^3y^{2+4} + x^3y^4z^2[/math]\u003Cbr\u003E [math]= x^5y^4 - x^3y^6 + x^3y^4z^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]AB=(x^2 - y^2 + z^2)(x^3y^4)=x^5y^4 - x^3y^6 + x^3y^4z^2[/math]. কারণ প্রতিটি পদকে একক মোনোম [math]x^3y^4[/math] দিয়ে গুণ করলে সমান ভিত্তির ঘাতসংখ্যা যোগ হয় (যেমন [math]x^2\\cdot x^3=x^5[/math], [math]y^2\\cdot y^4=y^6[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487136,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487124,
+      "value": {
+        "options": {
+          "ক": "[math]B[/math] এর বর্গ নির্ণয় কর।",
+          "খ": "[math]A[/math] ও [math]B[/math] এর গুণফল নির্ণয় কর।",
+          "গ": "দেখাও যে, [math]ACD = x^6 - y^6[/math]"
+        },
+        "question": "[math]A = x^2 + xy + y^2[/math], [math]B = x^2 - xy + y^2[/math], [math]C = x - y[/math], [math]D = x^3 + y^3[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E [math]B = x^2 - xy + y^2[/math]\u003Cbr\u003E [math]B^2 = (x^2 - xy + y^2)^2[/math]\u003Cbr\u003E [math]= x^4 + x^2y^2 + y^4 - 2x^3y - 2xy^3 + x^2y^2[/math]\u003Cbr\u003E [math]= x^4 + 2x^2y^2 + y^4 - 2x^3y - 2xy^3[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E [math]A = x^2 + xy + y^2[/math]\u003Cbr\u003E, [math]B = x^2 - xy + y^2[/math]\u003Cbr\u003E [math]AB = (x^2 + xy + y^2)(x^2 - xy + y^2)[/math]\u003Cbr\u003Eএটি সূত্র: [math](a + b)(a - b) = a^2 - b^2[/math]\u003Cbr\u003Eএখানে [math]a = x^2 + y^2[/math]\u003Cbr\u003E, [math]b = xy[/math]\u003Cbr\u003E [math]\\Rightarrow AB = (x^2 + y^2)^2 - (xy)^2[/math]\u003Cbr\u003E [math]= x^4 + 2x^2y^2 + y^4 - x^2y^2 = x^4 + x^2y^2 + y^4[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E [math]A = x^2 + xy + y^2[/math]\u003Cbr\u003E, [math]C = x - y[/math]\u003Cbr\u003E, [math]D = x^3 + y^3[/math]\u003Cbr\u003E [math]ACD = (x^2 + xy + y^2)(x - y)(x^3 + y^3)[/math]\u003Cbr\u003Eএখন, [math]x^3 + y^3 = (x + y)(x^2 - xy + y^2)[/math]\u003Cbr\u003Eএবং [math]x^2 + xy + y^2 = (x + y)^2 - xy[/math]\u003Cbr\u003Eতাই, [math]A \\cdot D = (x^2 + xy + y^2)(x^3 + y^3) = (x + y)^3(x^2 - xy + y^2)[/math]\u003Cbr\u003Eএখন, [math](x - y)(x + y)^3(x^2 - xy + y^2) = x^6 - y^6[/math]\u003Cbr\u003Eঅতএব, [math]ACD = x^6 - y^6[/math]\u003Cbr\u003E প্রমাণিত",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]B^2=(x^2-xy+y^2)^2=x^4+3x^2y^2+y^4-2x^3y-2xy^3[/math] (সমীকরণটি সরাসরি বর্গ বাড়িয়ে পাওয়া যায়)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]AB=(x^2+xy+y^2)(x^2-xy+y^2)=(x^2+y^2)^2-(xy)^2=x^4+x^2y^2+y^4[/math] (এখানে প্রতিগুণ করলে গুণফলটি সহজভাবে বের হয়)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]A\\cdot C=(x^2+xy+y^2)(x-y)=x^3-y^3[/math], তাই [math]ACD=(x^3-y^3)(x^3+y^3)=x^6-y^6[/math] (প্রথমে ঘাতীয় ভগ্নাংশটি সরল করে তারপর ভিন্নবর্গ সূত্র প্রয়োগ করা হয়েছে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487124,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487138,
+      "value": {
+        "options": [],
+        "question": "[math](m^3 - n^3)[/math] কে [math]2mn^2[/math] দ্বারা গুণ কর।",
+        "solution": "[math](m^3 - n^3) \\times 2mn^2[/math]\u003Cbr\u003E [math]= m^3 \\times 2mn^2 - n^3 \\times 2mn^2[/math]\u003Cbr\u003E [math]= 2m^{3+1}n^2 - 2mn^{3+2}[/math]\u003Cbr\u003E [math]= 2m^4n^2 - 2mn^5[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিটি টার্মকে [math]2mn^2[/math] দ্বারা গুণ করলে [math]2mn^2\\cdot m^3=2m^4n^2[/math] এবং [math]2mn^2\\cdot(-n^3)=-2mn^5[/math]. তাই ফলাফল [math]2m^4n^2-2mn^5[/math] (আরোগ করে লেখা গেলে আবার [math]2mn^2(m^3-n^3)[/math] হয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487138,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487139,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + xy + y^2[/math] কে [math]x^2y^3[/math] দ্বারা গুণ কর।",
+        "solution": "[math](x^2 + xy + y^2) \\times x^2y^3[/math]\u003Cbr\u003E [math]= x^2 \\times x^2y^3 + xy \\times x^2y^3 + y^2 \\times x^2y^3[/math]\u003Cbr\u003E [math]= x^4y^3 + x^3y^4 + x^2y^5[/math]\u003Cbr\u003E",
+        "explanation": "বিতরণীয় সূত্র অনুযায়ী প্রতিটি পদকে [math]x^2y^3[/math] দ্বারা গুণ করলে আমরা পাই [math]x^2y^3(x^2+xy+y^2)=x^4y^3+x^3y^4+x^2y^5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487139,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487140,
+      "value": {
+        "options": [],
+        "question": "[math](2x - 5)(x + 3)[/math] এর গুণফল নির্ণয় কর।",
+        "solution": "[math](2x - 5)(x + 3)[/math]\u003Cbr\u003E [math]= 2x \\times x + 2x \\times 3 - 5 \\times x - 5 \\times 3[/math]\u003Cbr\u003E [math]= 2x^2 + 6x - 5x - 15[/math]\u003Cbr\u003E [math]= 2x^2 + x - 15[/math]\u003Cbr\u003E",
+        "explanation": "বহুগুণকের নিয়ম অনুযায়ী প্রতিটি পদকে গুণ করলে পাই [math](2x-5)(x+3)=2x^2+6x-5x-15[/math]. একই ধরনের পদ যোগ করলে ফল হবে [math]2x^2+x-15[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487140,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487141,
+      "value": {
+        "options": [],
+        "question": "[math](x^2 + 2x - 1)(x - 4)[/math] এর গুণফল কত?",
+        "solution": "[math](x^2 + 2x - 1)(x - 4)[/math]\u003Cbr\u003E [math]= x^2 \\times x + x^2 \\times (-4) + 2x \\times x + 2x \\times (-4) + (-1) \\times x + (-1) \\times (-4)[/math]\u003Cbr\u003E [math]= x^3 - 4x^2 + 2x^2 - 8x - x + 4[/math]\u003Cbr\u003E [math]= x^3 - 2x^2 - 9x + 4[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বহগুণনের নিয়ম অনুযায়ী প্রতিটি পদকে [math](x-4)[/math]-এর প্রতিটি পদের সঙ্গে গুণ করে এবং সমরূপ পদগুলো যোগ করলে ফল পাওয়া যায়। বিস্তৃত করে: [math]x^2·x=x^3,\\; x^2·(-4)=-4x^2,\\; 2x·x=2x^2,\\; 2x·(-4)=-8x,\\; -1·x=-x,\\; -1·(-4)=4[/math] এবং যোগ করলে [math]x^3-2x^2-9x+4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487141,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487142,
+      "value": {
+        "options": [],
+        "question": "[math](3a + 2)(2a - 5)[/math] এর গুণফল নির্ণয় কর।",
+        "solution": "[math](3a + 2)(2a - 5)[/math]\u003Cbr\u003E [math]= 3a \\times 2a + 3a \\times (-5) + 2 \\times 2a + 2 \\times (-5)[/math]\u003Cbr\u003E [math]= 6a^2 - 15a + 4a - 10[/math]\u003Cbr\u003E [math]= 6a^2 - 11a - 10[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিটি পদকে অপর প্রকারের প্রতিটি পদের সাথে গুণ করে যোগ করলে ফল পাওয়া যায় (FOIL নিয়ম)। [math](3a+2)(2a-5)=3a·2a+3a·(-5)+2·2a+2·(-5)=6a^2-15a+4a-10=6a^2-11a-10[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487142,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487143,
+      "value": {
+        "options": [],
+        "question": "[math](x^2 + y^2 - z^2)[/math] কে [math](x + y - z)[/math] দ্বারা গুণ কর।",
+        "solution": "[math](x^2 + y^2 - z^2)(x + y - z)[/math]\u003Cbr\u003E [math]= x^2 \\times x + x^2 \\times y + x^2 \\times (-z) + y^2 \\times x + y^2 \\times y + y^2 \\times (-z) - z^2 \\times x - z^2 \\times y + z^2 \\times z[/math]\u003Cbr\u003E [math]= x^3 + x^2y - x^2z + xy^2 + y^3 - y^2z - xz^2 - yz^2 + z^3[/math]\u003Cbr\u003E",
+        "explanation": "প্রশ্নটি ডিস্ট্রিবিউটিভ প্রোপার্টি ব্যবহার করে সমাধান করা হয়; প্রতিটি পদকে [math](x+y-z)[/math] দিয়ে গুণ করলে সব যোগফল মিলিয়ে নেয়া হবে। ফলাফল হচ্ছে: [math](x^2+y^2-z^2)(x+y-z)=x^3+x^2y-x^2z+xy^2+y^3-y^2z-xz^2-yz^2+z^3.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487143,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487144,
+      "value": {
+        "options": [],
+        "question": "[math]a^2 - ab + b^2[/math] কে [math]a + b[/math] দ্বারা গুণ কর।",
+        "solution": "[math](a^2 - ab + b^2)(a + b)[/math]\u003Cbr\u003E [math]= a^2 \\times a + a^2 \\times b - ab \\times a - ab \\times b + b^2 \\times a + b^2 \\times b[/math]\u003Cbr\u003E [math]= a^3 + a^2b - a^2b - ab^2 + ab^2 + b^3[/math]\u003Cbr\u003E [math]= a^3 + b^3[/math]\u003Cbr\u003E",
+        "explanation": "গুণফল হল [math]a^3+b^3[/math].  \nকারণ বিস্তারে [math](a^2-ab+b^2)(a+b)=a^3+a^2b-a^2b-ab^2+ab^2+b^3=a^3+b^3[/math], অর্থাৎ মধ্যবর্তী ক্রস টার্মগুলো বাতিল হয়ে পরিচিত সমীকরণ [math]a^3+b^3=(a+b)(a^2-ab+b^2)[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487144,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487145,
+      "value": {
+        "options": [],
+        "question": "[math](x^3 - 2x^2 + x - 1)[/math] কে [math](x + 2)[/math] দ্বারা গুণ কর।",
+        "solution": "[math](x^3 - 2x^2 + x - 1)(x + 2)[/math]\u003Cbr\u003E [math]= x^3 \\times x + x^3 \\times 2 - 2x^2 \\times x - 2x^2 \\times 2 + x \\times x + x \\times 2 - 1 \\times x - 1 \\times 2[/math]\u003Cbr\u003E [math]= x^4 + 2x^3 - 2x^3 - 4x^2 + x^2 + 2x - x - 2[/math]\u003Cbr\u003E [math]= x^4 - 3x^2 + x - 2[/math]\u003Cbr\u003E",
+        "explanation": "বিয়োগের বিধি অনুযায়ী [math](x+2)(x^3-2x^2+x-1)=x(x^3-2x^2+x-1)+2(x^3-2x^2+x-1)=x^4-2x^3+x^2-x+2x^3-4x^2+2x-2[/math]. ফলে [math]x^3[/math] টার্মগুলো পুরোপুরি কেটে যায় এবং সরলীকরণ করলে ফলাফল হয় [math]x^4-3x^2+x-2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487145,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487146,
+      "value": {
+        "options": [],
+        "question": "[math](x^2 + 3x + 2)[/math] কে [math](x^2 - 2x + 1)[/math] দ্বারা গুণ কর।",
+        "solution": "[math](x^2 + 3x + 2)(x^2 - 2x + 1)[/math]\u003Cbr\u003E [math]= x^2(x^2 - 2x + 1) + 3x(x^2 - 2x + 1) + 2(x^2 - 2x + 1)[/math]\u003Cbr\u003E [math]= x^4 - 2x^3 + x^2 + 3x^3 - 6x^2 + 3x + 2x^2 - 4x + 2[/math]\u003Cbr\u003E [math]= x^4 + x^3 - 3x^2 - x + 2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুইটি বহুপদকে ফ্যাক্টর করলে [math]x^2+3x+2=(x+1)(x+2)[/math] এবং [math]x^2-2x+1=(x-1)^2[/math], তাই গুণফল [math](x+1)(x+2)(x-1)^2[/math]. সরাসরি বিস্তৃত করলে ফলাফল হবে [math]x^4+x^3-3x^2-x+2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487146,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487147,
+      "value": {
+        "options": [],
+        "question": "[math](x^3 + 2x^2 - x + 4)[/math] কে [math](x^2 - x - 3)[/math] দ্বারা গুণ কর।",
+        "solution": "[math](x^3 + 2x^2 - x + 4)(x^2 - x - 3)[/math]\u003Cbr\u003E [math]= x^3(x^2 - x - 3) + 2x^2(x^2 - x - 3) - x(x^2 - x - 3) + 4(x^2 - x - 3)[/math]\u003Cbr\u003E [math]= x^5 - x^4 - 3x^3 + 2x^4 - 2x^3 - 6x^2 - x^3 + x^2 + 3x + 4x^2 - 4x - 12[/math]\u003Cbr\u003E [math]= x^5 + x^4 - 6x^3 - x^2 - x - 12[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি সদস্যকে অপরটির প্রতিটি সদস্যের সাথে গুণ করে (distributive নিয়ম) এবং একই ডিগ্রির পদগুলো যোগ করলে ফল পাওয়া যায়। [math](x^3+2x^2-x+4)(x^2-x-3)=x^5+x^4-6x^3-x^2-x-12[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487147,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487148,
+      "value": {
+        "options": [],
+        "question": "[math](2x^2 - 3x + 5)[/math] কে [math](x^3 + x^2 - 2x + 1)[/math] দ্বারা গুণ কর।",
+        "solution": "[math]= 2x^2(x^3 + x^2 - 2x + 1) - 3x(x^3 + x^2 - 2x + 1) + 5(x^3 + x^2 - 2x + 1)[/math]\u003Cbr\u003E [math]= 2x^5 + 2x^4 - 4x^3 + 2x^2 - 3x^4 - 3x^3 + 6x^2 - 3x + 5x^3 + 5x^2 - 10x + 5[/math]\u003Cbr\u003E [math]= 2x^5 - x^4 - 2x^3 + 13x^2 - 13x + 5[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি পদকে বিস্তৃত করে এবং একই দশমিকের (একই শক্তির) x-গুলো যোগ করলে পাওয়া যায়: [math](2x^2-3x+5)(x^3+x^2-2x+1)=2x^5 - x^4 -2x^3 +13x^2 -13x +5[/math]. উদাহরণস্বরূপ বিস্তৃতি হলো [math]2x^5+2x^4-4x^3+2x^2-3x^4-3x^3+6x^2-3x+5x^3+5x^2-10x+5[/math], এরপর একই শক্তির পদগুলো একত্র করলে উপরোক্ত সরলীকৃত ফল হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487148,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487149,
+      "value": {
+        "options": [],
+        "question": "[math](x^2 - x + 1)(x^2 + x + 1)(x^2 + 1)[/math] এর গুণফল নির্ণয় কর।",
+        "solution": "প্রথমে [math](x^2 - x + 1)(x^2 + x + 1) = x^4 + x^2 + 1[/math]\u003Cbr\u003Eতারপর [math](x^4 + x^2 + 1)(x^2 + 1)[/math]\u003Cbr\u003E [math]= x^4(x^2 + 1) + x^2(x^2 + 1) + 1(x^2 + 1)[/math]\u003Cbr\u003E [math]= x^6 + x^4 + x^4 + x^2 + x^2 + 1[/math]\u003Cbr\u003E [math]= x^6 + 2x^4 + 2x^2 + 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথম দুটো গুণফলকে লক্ষ্য করলে [math](x^2 - x + 1)(x^2 + x + 1)=((x^2+1)-x)((x^2+1)+x)=(x^2+1)^2-x^2=[math]x^4+x^2+1[/math].  \nএবং তা [math](x^4+x^2+1)(x^2+1)=x^6+2x^4+2x^2+1[/math] দেয়, তাই সমগ্র গুণফল [math]x^6+2x^4+2x^2+1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:49:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487149,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:49:31.000000Z",
+            "updated_at": "2025-08-21T09:49:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7755&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7755&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7755&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 52,
+  "total": 52
+}

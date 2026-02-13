@@ -1,0 +1,2754 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 767863,
+      "value": {
+        "options": [],
+        "question": "প্লেজারিজম ধরার কৌশল সম্পর্কে লেখো।",
+        "solution": "বর্তমান তথ্য প্রযুক্তির যুগে প্লেজারিজম যেমন বেড়েছে ঠিক সেরকম প্লেজারিজম ধরার কৌশলও অনেক বেড়েছে। সফটওয়্যার ব্যবহার করে ডকুমেন্টের কোন অংশ ইন্টারনেটের কোনো জায়গা থেকে হুবহু কপি করে এনেছে সেটা সহজেই ধরা যায়। তাই বিভিন্ন গবেষণা, প্রজেক্ট পেপার ইত্যাদির ডকুমেন্ট তৈরিতে প্লেজারিজম থেকে দূরে থাকতে হবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767853,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ইন্টারনেটে যেহেতু স্বাধীনভাবে মতামত প্রকাশ করা যায় সেহেতু-\u003Cbr\u003E\ni. যে কেউ যেভাবে ইচ্ছা সেভাবে সেটা প্রকাশ করতে পারে\u003Cbr\u003E\nii. মাঝে মাঝে অপব্যবহার করা যায়\u003Cbr\u003E\niii. জনস্বার্থবিরোধী কিছু প্রকাশ না করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767853,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767853,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767854,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ওয়েবসাইটে ফলাফল দেওয়া হয়-\u003Cbr\u003E\ni. পিএসসির\u003Cbr\u003E\nii. জেএসসির\u003Cbr\u003E\niii. এইচএসসির\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767854,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767854,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767855,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শাওন সপ্তম শ্রেণির ছাত্র। তার বাবা তাকে কম্পিউটার কিনে দিয়েছে। সে নিয়মিত একটু একটু করে কম্পিউটার শিখছে। বাবা তাকে কোনো দিন এক ঘণ্টার বেশি কম্পিউটার ব্যবহার করতে দেয় না।\u003Cbr\u003E\nশাওন কোন ডিভাইসটি বন্ধুত্ব করতে কাজে লাগতে পারে-\u003Cbr\u003E\ni. কম্পিউটার গেম খেলে\u003Cbr\u003E\nii. ইন্টারনেট সংযোগ দিয়ে\u003Cbr\u003E\niii. ফেসবুক ব্যবহার করে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767855,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767855,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767855,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767856,
+      "value": {
+        "options": [],
+        "question": "হ্যাকিং সম্পর্কে লেখো",
+        "solution": "কোনো সিস্টেম বা ওয়েবসাইটের নিজস্ব বা গোপন অংশটুকু দেখা এবং পরিবর্তন করাই হচ্ছে হ্যাকিং। বর্তমানে নিয়মিতভাবে কম্পিউটারের ওয়েবসাইট হ্যাকিং হচ্ছে। সাধারণত ওয়েবসাইটে আমাদের যতটুকু তথ্য দরকার ততটুকুই আমরা দেখতে পাই। ওয়েবসাইটের গোপন অংশটুকু আমাদের প্রয়োজন নেই। অনেকে এ সকল গোপন অংশটুকুতে হ্যাকিং- এর মাধ্যমে ঢুকে কোনো কিছু পরিবর্তন বা নষ্ট করে চলে আসে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767857,
+      "value": {
+        "options": [],
+        "question": "হ্যাকার কত প্রকার ও কী কী?",
+        "solution": "বিনা অনুমতিতে কারো কম্পিউটার বা ওয়েবসাইটে প্রবেশ করে ডিভাইস বা তথ্যের ক্ষতি করাকে হ্যাকিং বলে। যিনি হ্যাকিং করে তাকে হ্যাকার বলে। সাধারণত দুই ধরনের হ্যাকার পাওয়া যায়। যথা- হোয়াইট হ্যাট হ্যাকার ও ব্ল&zwj;্যাক হ্যাট হ্যাকার।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767858,
+      "value": {
+        "options": [],
+        "question": "প্লেজারিজম কী?",
+        "solution": "ইন্টারনেটে অসংখ্য তথ্য রয়েছে। সেখান থেকে হুবহু কোনো কিছু কপি করে নিজের নামে জমা দেওয়াকে প্লেজারিজম বলে। প্লেজারিজম খুব বড় ধরনের অনৈতিক কাজ। প্লেজারিজমের অভিযোগে যুক্তরাষ্ট্রের আন্তর্জাতিক খ্যাতিসম্পন্ন সাংবাদিক ফরিদ জাকারিয়াকে তার দায়িত্ব থেকে অব্যহতি দেয়া হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767859,
+      "value": {
+        "options": [],
+        "question": "Mydom ও Melissa সম্পর্কে লেখো।",
+        "solution": "Mydom ও Melissa দুটিই কম্পিউটার ভাইরাস। এগুলো কম্পিউটার নেটওয়ার্ক তথা শক্তিশালী সাইবার জগৎকে আক্রমণ করে ক্ষতি সাধন করে। Mydom নামক কম্পিউটার ভাইরাসটি ২০০৪ সালে জানুয়ারি মাসে একদিনে আড়াই লক্ষ কম্পিউটারকে আক্রান্ত করেছিল। অন্যদিকে ১৯৯৯ সালে Melissa নামে ভাইরাসটি প্রভাবের কারণে মাইক্রোসফটের মতো বড় কোম্পানির ই-মেইল সার্ভারকে বন্ধ রাখতে সক্ষম ছিল।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767860,
+      "value": {
+        "options": [],
+        "question": "হোয়াইট হ্যাট হ্যাকার বলতে কী বোঝ?",
+        "solution": "হোয়াইট হ্যাট হ্যাকার (White hat hacker): যারা শুধুমাত্র অন্যের কম্পিউটার বা ওয়েবসাইটে প্রবেশ করে বিভিন্ন বিষয় দেখে কিন্তু কোনো কিছুর ক্ষতি বা পরিবর্তন না করে বের হয়ে আসে তাদেরকে White hat hacker বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767861,
+      "value": {
+        "options": [],
+        "question": "ব্ল‍্যাক হ্যাট হ্যাকার বলতে কী বোঝায়?",
+        "solution": "যেসব হ্যাকার অন্যের কম্পিউটার সিস্টেমে বা ওয়েবসাইটে প্রবেশ করে সিস্টেম নষ্ট বা তথ্যের বিকৃতি ও ক্ষতি করে তাদেরকে ব্ল&zwj;্যাক হ্যাট হ্যাকার বলে",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767862,
+      "value": {
+        "options": [],
+        "question": "ক্রেডিট কার্ড ব্যবহার করে ইন্টারনেটে প্রতারণা কিভাবে ঘটে? ব্যাখ্যা করো।",
+        "solution": "ক্রেডিট কার্ড ব্যবহার করে ইন্টারনেটে প্রতারণা ঘটে যখন অপরাধীরা ক্রেডিট কার্ডের নম্বর বা তথ্য চুরি করে এবং তা অবৈধভাবে টাকা তোলার জন্য ব্যবহার করে। অপরাধীরা সাধারণত বিশ্বস্ত প্রতিষ্ঠানের মতো ভুয়া ইমেইল বা মেসেজ পাঠায়, যেখানে ক্রেডিট কার্ডের তথ্য বা লগইন তথ্য চাওয়া হয়। এটি সাধারণত খুবই বিশ্বাসযোগ্য মনে হয়, কিন্তু আসলে এটি একটি ধোঁকাবাজি। তাছাড়া তারা ভুয়া ওয়েবসাইট বা বিভিন্ন ধরনের ম্যালওয়&zwj;্যার বা ভাইরাস ব্যক্তির ডিভাইসে ইনস্টল করে ক্রেডিট কার্ডের তথ্য চুরি করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767837,
+      "value": {
+        "options": {
+          "ক": "যুক্তরাজ্যের",
+          "খ": "যুক্তরাষ্ট্রের",
+          "গ": "ব্রাজিলের",
+          "ঘ": "রশিয়ার"
+        },
+        "question": "১৯৮৩ সালে কোন দেশের প্রতিরক্ষা বাহিনীর আন্তর্জাতিক যোগাযোগের নিরাপত্তা ভেদ করে তাদের ওয়েবসাইট হ্যাক করা হয়েছিল?",
+        "solution": "খ. যুক্তরাষ্ট্রের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767837,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767836,
+      "value": {
+        "options": {
+          "ক": "Melissa",
+          "খ": "Mydoom Worm",
+          "গ": "Kriper",
+          "ঘ": "NIMDA"
+        },
+        "question": "২০০৪ সালে কোন ভাইরাস আড়াই লক্ষ কম্পিউটারকে আক্রান্ত করেছিল?",
+        "solution": "খ. Mydoom Worm",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767836,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767838,
+      "value": {
+        "options": {
+          "ক": "একটি প্রোগ্রাম",
+          "খ": "এক ধরনের জীবাণু",
+          "গ": "ধুলাবালি",
+          "ঘ": "ক্ষতিকর সফটওয়্যার"
+        },
+        "question": "কম্পিউটার ভাইরাস কী?",
+        "solution": "ঘ. ক্ষতিকর সফটওয়্যার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767839,
+      "value": {
+        "options": {
+          "ক": "কপিরাইট",
+          "খ": "কপিলেফট",
+          "গ": "প্লেজারিজম",
+          "ঘ": "স্যোসালিজম"
+        },
+        "question": "ইন্টারনেট থেকে কোনো তথ্য হুবহু কপি করে নিয়ে নিজের নামে জমা দেয়াকে কী বলে?",
+        "solution": "গ. প্লেজারিজম",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767839,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767840,
+      "value": {
+        "options": {
+          "ক": "নেশা হতে পারে",
+          "খ": "আসক্তি হতে পারে",
+          "গ": "বিপজ্জনক হতে পারে",
+          "ঘ": "একগুঁয়েমি আসতে পারে"
+        },
+        "question": "ইন্টারনেট ব্যবহারে নৈতিকতা মানতে হয় কেন?",
+        "solution": "খ. আসক্তি হতে পারে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767840,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767841,
+      "value": {
+        "options": {
+          "ক": "ইন্টারনেট",
+          "খ": "ফেসবুক",
+          "গ": "সাদা টুপি হ্যাকার",
+          "ঘ": "প্লেজারিজম"
+        },
+        "question": "কোনটি বর্তমান পৃথিবীতে একটি বড় সমস্যা হয়ে দাঁড়িয়েছে?",
+        "solution": "ঘ. প্লেজারিজম",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767841,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767842,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সাইবার ওয়ার্ল্ডে ঘুরে বেড়াচ্ছে-\u003Cbr\u003E\ni. অসংখ্য সাদা টুপির হ্যাকার\u003Cbr\u003E\nii. অসংখ্য কালো টুপির হ্যাকার\u003Cbr\u003E\niii. অসংখ্য নীল টুপির হ্যাকার\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767842,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767842,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767843,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সাদা টুপি হ্যাকাররা অন্যের ওয়েবসাইটে ঢুকে-\u003Cbr\u003E\ni. বেআইনিভাবে\u003Cbr\u003E\nii. কৌতূহল বশে\u003Cbr\u003E\niii. ক্ষতি করতে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767843,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767843,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767844,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "তথ্য প্রযুক্তির যুগে প্লেজারিজম-\u003Cbr\u003E\ni. অনেক বেড়েছে\u003Cbr\u003E\nii. ধরার কৌশল অনেক বেড়েছে\u003Cbr\u003E\niii. করে অনেকে বড় ধরনের বিপদে পড়ছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767844,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767844,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767845,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার ভাইরাস",
+          "খ": "সাইবার অপরাধ",
+          "গ": "রোগ ব্যাধি",
+          "ঘ": "কম্পিউটারের আসক্তি"
+        },
+        "question": "শাওন সপ্তম শ্রেণির ছাত্র। তার বাবা তাকে কম্পিউটার কিনে দিয়েছে। সে নিয়মিত একটু একটু করে কম্পিউটার শিখছে। বাবা তাকে কোনো দিন এক ঘণ্টার বেশি কম্পিউটার ব্যবহার করতে দেয় না।\u003Cbr\u003E\nশাওনকে কম্পিউটারের কোনটি প্রতিরোধ করতে হবে?",
+        "solution": "ঘ. কম্পিউটারের আসক্তি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767845,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767845,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767846,
+      "value": {
+        "options": {
+          "ক": "টাকা পয়সা",
+          "খ": "প্রোগ্রাম",
+          "গ": "ডেবিট কার্ড",
+          "ঘ": "ক্রেডিট কার্ড"
+        },
+        "question": "ইন্টারনেটে বড় একটা অপরাধ হয় কী নিয়ে?",
+        "solution": "ঘ. ক্রেডিট কার্ড",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767847,
+      "value": {
+        "options": {
+          "ক": "১৯৮০",
+          "খ": "১৯৮১",
+          "গ": "১৯৮২",
+          "ঘ": "১৯৮৩"
+        },
+        "question": "কত সালে যুক্তরাষ্ট্রের প্রতিরক্ষা বাহিনীর আন্তর্জাতিক যোগাযোগের নিরাপত্তা ভেদ করে তাদের ওয়েবসাইট হ্যাক করা হয়?",
+        "solution": "ঘ. ১৯৮৩",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 767847,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T05:05:41.000000Z",
+            "updated_at": "2025-12-01T05:05:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767848,
+      "value": {
+        "options": {
+          "ক": "প্রতারণা করার কোনো সুযোগ থাকে না",
+          "খ": "প্রতারণার কাজটি হয় সবচেয়ে বেশি",
+          "গ": "নিজেকে আড়াল করে রাখা অসম্ভব হয়",
+          "ঘ": "নিজেকে লুকানোর কোনো ব্যাপার থাকে না"
+        },
+        "question": "সাইবার জগৎটা চোখের আড়ালে বলে সেখানে কী হয়?",
+        "solution": "খ. প্রতারণার কাজটি হয় সবচেয়ে বেশি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767848,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767849,
+      "value": {
+        "options": {
+          "ক": "নতুন এন্টিভাইরাস তৈরি করতে হয়েছিল",
+          "খ": "ই-মেইল সার্ভার বন্ধ রাখতে হয়েছিল",
+          "গ": "কোম্পানিটি বন্ধ করে দিতে হয়েছিল",
+          "ঘ": "কোটি কোটি টাকার সম্পদ নষ্ট করতে হয়েছিল"
+        },
+        "question": "Melissa ভাইরাসের কারণে মাইক্রোসফট কোম্পানিকে কী করতে হয়েছিল?",
+        "solution": "খ. ই-মেইল সার্ভার বন্ধ রাখতে হয়েছিল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767849,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767850,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটার ভাইরাসের কারণে-\u003Cbr\u003E\ni. কম্পিউটার যন্ত্রাংশ নষ্ট হতে পারে\u003Cbr\u003E\nii. কম্পিউটারে কাজের ব্যাঘাত হতে পারে\u003Cbr\u003E\niii. কোটি কোটি টাকার সম্পদ নষ্ট হতে পারে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 767850,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T05:05:41.000000Z",
+            "updated_at": "2025-12-01T05:05:41.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767850,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767850,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767851,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আমরা নিজেরা প্লেজারিজম নামক অনৈতিক কাজ করা থেকে বিরত থাকব। কারণ-\u003Cbr\u003E\ni. সেটা আমাদের জন্য বিপজ্জনক হতে পারে\u003Cbr\u003E\nii. আমরা কখনই কোনো অন্যায় করব না\u003Cbr\u003E\niii. আমরা বড় হয়ে একদিন এদেশের দায়িত্ব নেব\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767851,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767852,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ইন্টারনেট একটি অত্যন্ত শক্তিশালী মাধ্যম। এই মাধ্যমটি ব্যবহারে আমরা-\u003Cbr\u003E\ni. কখনো আসক্ত হব না\u003Cbr\u003E\nii. প্লেজারিজম করব না\u003Cbr\u003E\niii. নৈতিকতা দেখাব না\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767852,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767852,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767822,
+      "value": {
+        "options": {
+          "ক": "১৯ বছর",
+          "খ": "২০ বছর",
+          "গ": "২১ বছর",
+          "ঘ": "২২ বছর"
+        },
+        "question": "কত বছর বয়সী ছেলে যুক্তরাষ্ট্রের প্রতিরক্ষা বাহিনীর আন্তর্জাতিক যোগাযোগের নিরাপত্তা ভেদ করে তাদের ওয়েবসাইট হ্যাক করে?",
+        "solution": "ক. ১৯ বছর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767809,
+      "value": {
+        "options": {
+          "ক": "পৃথিবীতে",
+          "খ": "সাইবার ওয়ার্ল্ডে",
+          "গ": "মহাবিশ্বে",
+          "ঘ": "মহাশূন্যে"
+        },
+        "question": "হ্যাকাররা কোথায় ঘুরে বেড়াচ্ছে?",
+        "solution": "খ. সাইবার ওয়ার্ল্ডে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767809,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767810,
+      "value": {
+        "options": {
+          "ক": "Mydoom worm",
+          "খ": "Polomycine",
+          "গ": "Melissa",
+          "ঘ": "Hypocriza"
+        },
+        "question": "১৯৯৯ সালে কোন ভাইরাস শক্তিশালীভাবে সাইবার জগতকে আক্রমণ করেছিল?",
+        "solution": "গ. Melissa",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767810,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767811,
+      "value": {
+        "options": {
+          "ক": "মেলিসা",
+          "খ": "মেনিন",
+          "গ": "নেনিসা",
+          "ঘ": "মোলিসা"
+        },
+        "question": "ডেভিড স্মিথ কোন ভাইরাস তৈরি করেছিলেন?",
+        "solution": "ক. মেলিসা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767811,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767812,
+      "value": {
+        "options": {
+          "ক": "প্রায় ১৫-২০ লক্ষ",
+          "খ": "প্রায় ২৫-৩০ লক্ষ",
+          "গ": "প্রায় ৩৫-৪০ লক্ষ",
+          "ঘ": "প্রায় ৪৫-৫০ লক্ষ"
+        },
+        "question": "বর্তমানে বাংলাদেশে কত মানুষ ফেসবুক ব্যবহার করে?",
+        "solution": "খ. প্রায় ২৫-৩০ লক্ষ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767813,
+      "value": {
+        "options": {
+          "ক": "বারো",
+          "খ": "দশ",
+          "গ": "সতেরো",
+          "ঘ": "তেরো"
+        },
+        "question": "মেলিসা (Melissa) ভাইরাস তৈরি করার অপরাধে ডেভিড স্মিথ এর কত বছরের জেল হয়েছিল?",
+        "solution": "খ. দশ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 767813,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T05:05:41.000000Z",
+            "updated_at": "2025-12-01T05:05:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767814,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ইন্টারনেটে মত প্রকাশের বিশাল স্বাধীনতাকে অপব্যবহার করা যায়- i. কাউকে আঘাত করে ই-মেইল পাঠিয়ে ii. কাউকে হুমকি দিয়ে ই-মেইল পাঠিয়ে iii. কারও সম্পর্কে মিথ্যা তথ্য ছড়িয়ে দিয়ে নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767814,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767814,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767815,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পৃথিবীর অনেক বিভ্রান্ত মানুষ রয়েছে যারা ভুল বিশ্বাস নিয়ে বেঁচে আছে। এ ধরনের মানুষ ইন্টারনেট ব্যবহার করে পৃথিবীতে-\u003Cbr\u003E\ni. হিংসা বিদ্বেষ ছড়িয়ে দিচ্ছে\u003Cbr\u003E\nii. জঙ্গিবাদ ছড়িয়ে দিচ্ছে\u003Cbr\u003E\niii. হতাশা ছড়িয়ে দিচ্ছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767815,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767815,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767816,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্লেজারিজম ধরার-\u003Cbr\u003E\ni. নানা কৌশল আছে\u003Cbr\u003E\nii. হার্ডওয়্যার আছে\u003Cbr\u003E\niii. সফটওয়্যার আছে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767816,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767816,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767817,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্লেজারিজম এক ধরনের-\u003Cbr\u003E\ni. চুরি\u003Cbr\u003E\nii. অনৈতিক কাজ\u003Cbr\u003E\niii. মহৎ কাজ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767817,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767817,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767818,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সত্যিকারের মানুষেরা-\u003Cbr\u003E\ni. অন্যায় করে না\u003Cbr\u003E\nii. অন্যায় সহ্যও করে না\u003Cbr\u003E\niii. নিজে অন্যায়কারীকে সাহায্য করে না\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767818,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767818,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767819,
+      "value": {
+        "options": {
+          "ক": "গেমস",
+          "খ": "কম্পিউটার ভাইরাস",
+          "গ": "ই-মেইল",
+          "ঘ": "ওয়েবসাইট"
+        },
+        "question": "Melissa কী?",
+        "solution": "খ. কম্পিউটার ভাইরাস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 767819,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-12-01T05:05:41.000000Z",
+            "updated_at": "2025-12-01T05:05:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767820,
+      "value": {
+        "options": {
+          "ক": "নৈতিক",
+          "খ": "চ্যালেঞ্জ মূলক কাজ",
+          "গ": "কৃতিত্বপূর্ণ",
+          "ঘ": "অনৈতিক ও বেআইনি"
+        },
+        "question": "ইচ্ছে করে কোনো একটি ওয়েবসাইট অচল করে দেওয়া কিরূপ কাজ?",
+        "solution": "ঘ. অনৈতিক ও বেআইনি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767820,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767821,
+      "value": {
+        "options": {
+          "ক": "White hat hacker",
+          "খ": "Black hat hacker",
+          "গ": "Blue hat hacker",
+          "ঘ": "Red hat hacker"
+        },
+        "question": "যেসব হ্যাকার অন্যের ওয়েবসাইটে ঢুকে ক্ষতি করে তাদের কী বলে?",
+        "solution": "খ. Black hat hacker",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4641,
+          "full_name": "বরগুনা জিলা স্কুল",
+          "short_name": "বরগুনা জিলা স্কুল",
+          "slug": "brguna-jila-skul",
+          "pivot": {
+            "question_bank_id": 767821,
+            "tag_id": 4641,
+            "year": null,
+            "created_at": "2025-12-01T05:05:41.000000Z",
+            "updated_at": "2025-12-01T05:05:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767808,
+      "value": {
+        "options": {
+          "ক": "White hat hacker",
+          "খ": "Black hat hacker",
+          "গ": "Blue hat hacker",
+          "ঘ": "Red hat hacker"
+        },
+        "question": "কেউ যদি শুধু কৌতূহলী হয়ে অন্যের ওয়েবসাইটে ঢুকে কোনো ক্ষতি না করে বেরিয়ে আসে তাকে কী বলে?",
+        "solution": "ক. White hat hacker",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767808,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767823,
+      "value": {
+        "options": {
+          "ক": "প্রয়োজনীয় অর্থ",
+          "খ": "অপ্রয়োজনীয় দ্রব্যাদি",
+          "গ": "বৈধ কাজের তথ্য",
+          "ঘ": "অবৈধ কাজের তথ্য"
+        },
+        "question": "অপরাধীরা ইন্টারনেটের ভেতর দিয়ে কী পাচার করে?",
+        "solution": "ঘ. অবৈধ কাজের তথ্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767823,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767824,
+      "value": {
+        "options": {
+          "ক": "যুক্তরাষ্ট্র",
+          "খ": "রাশিয়া",
+          "গ": "চীন",
+          "ঘ": "জাপান"
+        },
+        "question": "প্লেজারিজমের কারণে সাংবাদিক ফরিদ জাকারিয়াকে তার দায়িত্ব থেকে অব্যাহতি দেয়া হয়। তিনি কোন দেশের অধিবাসী ছিলেন?",
+        "solution": "ক. যুক্তরাষ্ট্র",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767824,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767825,
+      "value": {
+        "options": {
+          "ক": "ব্রাউজিং",
+          "খ": "স্মাগলিং",
+          "গ": "হ্যাকিং",
+          "ঘ": "ট্যাগিং"
+        },
+        "question": "অন্যের ওয়েবসাইটের গোপন অংশে অবৈধভাবে ঢুকে পড়াকে কী বলা হয়?",
+        "solution": "গ. হ্যাকিং",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767826,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ওয়েবসাইট হ্যাকিং করা-\u003Cbr\u003E\ni. একটি অনৈতিক কাজ\u003Cbr\u003E\nii. একটি বেআইনি কাজ\u003Cbr\u003E\niii. একটি চ্যালেঞ্জ মূলক কাজ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767826,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767826,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767827,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অনেকে কম্পিউটার ভাইরাস তৈরি করে-\u003Cbr\u003E\ni. মজা করার জন্য\u003Cbr\u003E\nii. অপরাধ করার জন্য\u003Cbr\u003E\niii. কম্পিউটারের উন্নয়নের জন্য\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767827,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767827,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767828,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সবাই একই সঙ্গে ওয়েবসাইট ব্যবহারের ফলে-\u003Cbr\u003E\ni. ওয়েবসাইটটি বসে যায়\u003Cbr\u003E\nii. ওয়েবসাইটটি সচল থাকে\u003Cbr\u003E\niii. কেউ কিছু দেখতে পায় না\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767828,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767828,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767829,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ওয়েবসাইট অচল করা-\u003Cbr\u003E\ni. একটি অনৈতিক কাজ\u003Cbr\u003E\nii. একটি আইন পরিপন্থী কাজ\u003Cbr\u003E\niii. একটি স্বীকৃত কাজ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767829,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767829,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767830,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আমরা লেখাপড়া করি-\u003Cbr\u003E\ni. সত্যিকারের মানুষ হওয়ার জন্য\u003Cbr\u003E\nii. অন্যায় সহ্য করার জন্য\u003Cbr\u003E\niii. অন্যায়কে প্রশ্রয় না দেওয়ার জন্য\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. i ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767830,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767830,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767831,
+      "value": {
+        "options": {
+          "ক": "সাদা টুপির হ্যাকার",
+          "খ": "কালো টুপির হ্যাকার",
+          "গ": "সাধারণ হ্যাকার",
+          "ঘ": "সবুজ টুপির হ্যাকার"
+        },
+        "question": "হ্যাকিং করে বাংলাদেশের একটি নিরাপত্তার ওয়েবসাইট নষ্ট করে দিয়েছে। এ ধরনের হ্যাকিং করার একটি চক্র আছে। যাদের খুঁজে বের করা যায় না।\u003Cbr\u003E\nউপরি উক্ত অনুচ্ছেদে যারা ওয়েবসাইটটি নষ্ট করে দেয় তাদেরকে কী বলা হয়?",
+        "solution": "খ. কালো টুপির হ্যাকার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767831,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767831,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767832,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "হ্যাকিং করে বাংলাদেশের একটি নিরাপত্তার ওয়েবসাইট নষ্ট করে দিয়েছে। এ ধরনের হ্যাকিং করার একটি চক্র আছে। যাদের খুঁজে বের করা যায় না।\u003Cbr\u003E\nএ ধরনের হ্যাকারকে খুঁজে পাওয়া যায় না কারণ-\u003Cbr\u003E\ni. পাসওয়ার্ড দেওয়া যাবে না\u003Cbr\u003E\nii. অদৃশ্য একটি সাইবার জগৎ\u003Cbr\u003E\niii. লোকচক্ষুর আড়ালে থাকে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. ii ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767832,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767832,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767832,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767833,
+      "value": {
+        "options": {
+          "ক": "জটিল প্রোগ্রাম ব্যবহার করে",
+          "খ": "একাধিক নম্বর ব্যবহার করে",
+          "গ": "মানুষকে প্রতারণা করে ধোঁকা দিয়ে",
+          "ঘ": "মানুষকে সত্য কথা দুর্বল করে"
+        },
+        "question": "প্রতারকরা কীভাবে ক্রেডিট কার্ডের নম্বর জানার চেষ্টা করে?",
+        "solution": "গ. মানুষকে প্রতারণা করে ধোঁকা দিয়ে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767833,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767834,
+      "value": {
+        "options": {
+          "ক": "নৈতিক",
+          "খ": "যুক্তিসঙ্গত",
+          "গ": "অনৈতিক",
+          "ঘ": "অযৌক্তিক"
+        },
+        "question": "হ্যাকিং কোন ধরনের কাজ?",
+        "solution": "গ. অনৈতিক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 767834,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T05:05:41.000000Z",
+            "updated_at": "2025-12-01T05:05:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767835,
+      "value": {
+        "options": {
+          "ক": "ওয়েবসাইট",
+          "খ": "ইন্টারনেট",
+          "গ": "কম্পিউটার ভাইরাস",
+          "ঘ": "ই-মেইল"
+        },
+        "question": "Mydoom Worm কী?",
+        "solution": "গ. কম্পিউটার ভাইরাস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 620,
+      "created_at": "2025-12-01T05:05:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767835,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=620&grade=3&lesson=14321&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=620&grade=3&lesson=14321&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=620&grade=3&lesson=14321&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 56,
+  "total": 56
+}

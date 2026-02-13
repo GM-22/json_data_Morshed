@@ -1,0 +1,778 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 762134,
+      "value": {
+        "options": [],
+        "question": "আন্তর্জাতিক স্থানান্তর কী? সংক্ষেপে লেখ।",
+        "solution": "এক স্বাধীন দেশ থেকে অন্য একটি স্বাধীন দেশে চাকুরি, বিয়ে, বসবাস এমনকি নাগরিকতা লাভের জন্য গমন করাকে আন্তর্জাতিক স্থানান্তর বলে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762142,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দরিদ্র পরিবারের সন্তান নিলাদ্রী মালয়েশিয়ায় যান। সেখানে কাজ করে নিলাদ্রী টাকা উপার্জন করেন। তার পাঠানো টাকায় বাংলাদেশে তার পরিবার এখন স্বাচ্ছন্দ্যে দিনাতিপাত করছে।&nbsp;\u003Cbr\u003E\nউক্ত স্থানান্তরের ফলে তার পরিবার-\u003Cbr\u003E\ni. সচ্ছল হবে&nbsp;\u003Cbr\u003E\nii. বৈদেশিক মুদ্রা অর্জিত হবে&nbsp;\u003Cbr\u003E\niii. নারী ও শিশুপাচার বন্ধ হবে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 762142,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 762142,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 762141,
+      "value": {
+        "options": {
+          "ক": "বহির্গমন",
+          "খ": "বহিরাগমন",
+          "গ": "আন্তঃস্থানান্তর",
+          "ঘ": "বহিঃস্থানান্তর"
+        },
+        "question": "শাহীন চাকরিজীবী পরিবারের সন্তান। বাবার চাকরির সুবাদে বরিশালে থাকে। কিন্তু হঠাৎ তার বাবা খুলনা বদলি হওয়ায় তারা সপরিবারে খুলনায় চলে যায়।\u003Cbr\u003E\nউদ্দীপকে শাহীনরা বরিশাল ছেড়ে খুলনা যাওয়ার ঘটনাটি নিচের কোনটিকে নির্দেশ করে?",
+        "solution": "গ. আন্তঃস্থানান্তর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 762141,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 762140,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শহর থেকে শহরে স্থানান্তরের ফলাফল হলো-\u003Cbr\u003E\ni. কর্মকর্তাদের কর্মের দক্ষতা বাড়ে&nbsp;\u003Cbr\u003E\nii. সাংস্কৃতিক বিনিময় ঘটে&nbsp;\u003Cbr\u003E\niii. আয় ও সঞ্চয় বাড়ে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 762140,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 762139,
+      "value": {
+        "options": {
+          "ক": "অভ্যন্তরীণ স্থানান্তর",
+          "খ": "বৈদেশিক স্থানান্তর",
+          "গ": "আঞ্চলিক স্থানান্তর",
+          "ঘ": "আন্তর্জাতিক স্থানান্তর"
+        },
+        "question": "এক স্বাধীন দেশ থেকে অন্য একটি স্বাধীন দেশে গমন করাকে বলে-",
+        "solution": "ঘ. আন্তর্জাতিক স্থানান্তর",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762138,
+      "value": {
+        "options": {
+          "ক": "সামাজিক",
+          "খ": "রাজনৈতিক",
+          "গ": "অর্থনৈতিক",
+          "ঘ": "পারিবারিক"
+        },
+        "question": "অভ্যন্তরীণ স্থানান্তরের মূল কারণ-",
+        "solution": "গ. অর্থনৈতিক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762137,
+      "value": {
+        "options": {
+          "ক": "বিভিন্ন স্থানে বসবাস",
+          "খ": "মানুষের একস্থান হতে অন্যস্থানে গমন",
+          "গ": "বিভিন্ন স্থানে ভ্রমণ",
+          "ঘ": "গ্রাম থেকে শহর স্থানে গমন"
+        },
+        "question": "স্থানান্তর বলতে কী বোঝায়?",
+        "solution": "খ. মানুষের একস্থান হতে অন্যস্থানে গমন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762136,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "জনসংখ্যার স্থানান্তর হতে পারে-\u003Cbr\u003E\ni. দেশের অভ্যন্তরে&nbsp;\u003Cbr\u003E\nii. আন্তঃআঞ্চলিক পর্যায়ে&nbsp;\u003Cbr\u003E\niii. আন্তর্জাতিক পর্যায়ে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 762136,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 762135,
+      "value": {
+        "options": {
+          "ক": "আন্তর্জাতিক স্থানান্তর",
+          "খ": "অভ্যন্তরীণ স্থানান্তর",
+          "গ": "আন্তর্জাতিক অভিগমন",
+          "ঘ": "আঞ্চলিক অভিগমন"
+        },
+        "question": "দেশের ভিতরে মানুষের একস্থান থেকে অন্যস্থানে গমনকে কী বলা হয়?",
+        "solution": "খ. অভ্যন্তরীণ স্থানান্তর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762125,
+      "value": {
+        "options": {
+          "ক": "শহরে জনসংখ্যা বাড়ছে",
+          "খ": "গ্রামে জনসংখ্যা বাড়ছে",
+          "গ": "গ্রামে জিনিসপত্রের চাহিদা বাড়ছে",
+          "ঘ": "গ্রামীণ অর্থনীতি দুর্বল হচ্ছে"
+        },
+        "question": "অভ্যন্তরীণ স্থানান্তরের প্রভাবে কী ঘটছে?",
+        "solution": "ক. শহরে জনসংখ্যা বাড়ছে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762133,
+      "value": {
+        "options": {
+          "ক": "জনসংখ্যা বৃদ্ধি",
+          "খ": "কৃষির উন্নয়ন",
+          "গ": "দরিদ্র মানুষের অভ্যন্তরীণ স্থানান্তর",
+          "ঘ": "ধনির ব্যবসার প্রসার"
+        },
+        "question": "শহরে বস্তির সংখ্যা বৃদ্ধি কিসের ফলাফল?",
+        "solution": "গ. দরিদ্র মানুষের অভ্যন্তরীণ স্থানান্তর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762132,
+      "value": {
+        "options": {
+          "ক": "১",
+          "খ": "২",
+          "গ": "৩",
+          "ঘ": "৪"
+        },
+        "question": "স্থানান্তর কয়টি পর্যায়ে হতে পারে?",
+        "solution": "খ. ২",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762131,
+      "value": {
+        "options": [],
+        "question": "গ্রামীণ দরিদ্র নারীদের জন্য অভ্যন্তরীণ স্থানান্তর কী সুফল নিয়ে আসে?",
+        "solution": "গ্রামীণ দরিদ্র নারীরা কর্মহীন থাকার কারণে পরিবারের সদস্যরা তাদেরকে বোঝা মনে করতো। ফলে বৈষম্য, বঞ্চনা, প্রতারণা এবং নিপীড়ন তাদের ভাগ্যে জুটত। স্থানান্তরের ফলে তাদের পোশাক শিল্পে কর্মসংস্থান ব্যবস্থা হয়, যা তাদের পারিবারিক মর্যাদা বৃদ্ধি করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762130,
+      "value": {
+        "options": [],
+        "question": "অভ্যন্তরীণ স্থানান্তর সম্পর্কে সংক্ষেপে লেখ।",
+        "solution": "দেশের ভিতরে যখন মানুষ এক স্থান হতে অন্য স্থানে গমন করে তখন তাকে অভ্যন্তরীণ স্থানান্তর বলা হয়। তবে বাজার করা, অফিস করা ইত্যাদি উদ্দেশ্যে বিভিন্ন স্থানে যাতায়াত করাকে অভ্যন্তরীণ স্থানান্তর বলা যায় না।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762129,
+      "value": {
+        "options": [],
+        "question": "স্থানান্তর বলতে কী বোঝ?",
+        "solution": "মানুষের একস্থান হতে অন্যস্থানে গমনকে স্থানান্তর বলে। স্থানান্তরকে অভিগমনও বলা হয়। এ স্থানান্তর দেশের অভ্যন্তরে কিংবা আন্তর্জাতিক পর্যায়ে হতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762128,
+      "value": {
+        "options": {
+          "ক": "অভ্যন্তরীণ",
+          "খ": "অন্তর্গমন",
+          "গ": "আন্তর্জাতিক স্থানান্তর",
+          "ঘ": "নির্গমন"
+        },
+        "question": "দরিদ্র পরিবারের সন্তান নিলাদ্রী মালয়েশিয়ায় যান। সেখানে কাজ করে নিলাদ্রী টাকা উপার্জন করেন। তার পাঠানো টাকায় বাংলাদেশে তার পরিবার এখন স্বাচ্ছন্দ্যে দিনাতিপাত করছে।&nbsp;\u003Cbr\u003E\nনিলাদ্রীর মালয়েশিয়া যাওয়া কোন ধরনের স্থানান্তর?",
+        "solution": "গ. আন্তর্জাতিক স্থানান্তর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 762128,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 762127,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "শাহীন চাকরিজীবী পরিবারের সন্তান। বাবার চাকরির সুবাদে বরিশালে থাকে। কিন্তু হঠাৎ তার বাবা খুলনা বদলি হওয়ায় তারা সপরিবারে খুলনায় চলে যায়।\u003Cbr\u003E\nউক্ত বিষয়টি সম্পর্কে প্রযোজ্য তথ্য হলো-\u003Cbr\u003E\ni. দেশের মোট জনসংখ্যার কোনো পরিবর্তন হয় না&nbsp;\u003Cbr\u003E\nii. দেশের মোট জনসংখ্যা বেড়ে যায়&nbsp;\u003Cbr\u003E\niii. দেশের ভিতরে এক এলাকার লোক অন্য এলাকায় গিয়ে স্থায়িভাবে বসবাস করে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 762127,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 762127,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 762126,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গ্রাম থেকে শহরে স্থানান্তরিত দরিদ্র জনগোষ্ঠী পেশা হিসেবে গ্রহণ করে-\u003Cbr\u003E\ni. রিকশা চালানো&nbsp;\u003Cbr\u003E\nii. শিল্প শ্রমিক&nbsp;\u003Cbr\u003E\niii. ভ্যান চালানো&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 762126,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12967&grade=3&lesson=14028&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12967&grade=3&lesson=14028&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12967&grade=3&lesson=14028&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

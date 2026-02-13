@@ -1,0 +1,589 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 768747,
+      "value": {
+        "options": {
+          "ক": "উত্তম ইবাদত",
+          "খ": "মন্দ ইবাদত",
+          "গ": "সাধারণ ইবাদত",
+          "ঘ": "মধ্যম ইবাদত"
+        },
+        "question": "নাযিরা তিলাওয়াত কী ইবাদত?",
+        "solution": "ক. উত্তম ইবাদত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768748,
+      "value": {
+        "options": {
+          "ক": "নাযিরা তিলাওয়াত",
+          "খ": "সহিহ্ তিলাওয়াত",
+          "গ": "ক্বারিআনা তিলাওয়াত",
+          "ঘ": "হিফজ তিলাওয়াত"
+        },
+        "question": "শাহিন ও তুহিন দুই ভাই। তুহিন শুদ্ধভাবে কুরআন তিলাওয়াত করতে পারে না। কিন্তু সে কুরআন তিলাওয়াত সম্পর্কে জানতে আগ্রহী। তাই তুহিন তার ভাইকে জিজ্ঞাসা করল, কুরআন তিলাওয়াত কী? শাহিন উত্তর দিল, \"কুরআন তিলাওয়াত হলো সর্বোত্তম ইবাদত।\"\u003Cbr\u003E\nমনে কর, তুহিন কুরআন মাজিদ দেখে দেখে তিলাওয়াত করে। এরূপ তিলাওয়াতকে বলা হয়-",
+        "solution": "ক. নাযিরা তিলাওয়াত",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768748,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768749,
+      "value": {
+        "options": {
+          "ক": "ধীরে ধীরে",
+          "খ": "স্পষ্টভাবে",
+          "গ": "সুন্দরভাবে",
+          "ঘ": "সবগুলো"
+        },
+        "question": "তুমি কীভাবে কুরআন মাজিদ তিলাওয়াত করবে?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768750,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "শাহিন ও তুহিন দুই ভাই। তুহিন শুদ্ধভাবে কুরআন তিলাওয়াত করতে পারে না। কিন্তু সে কুরআন তিলাওয়াত সম্পর্কে জানতে আগ্রহী। তাই তুহিন তার ভাইকে জিজ্ঞাসা করল, কুরআন তিলাওয়াত কী? শাহিন উত্তর দিল, ''কুরআন তিলাওয়াত হলো সর্বোত্তম ইবাদত।''\u003Cbr\u003E\nশাহিন ও তুহিন কুরআন তিলাওয়াত করবে-\u003Cbr\u003E\ni. তাজবিদ সহকারে\u003Cbr\u003E\nii. সুলন্তি কণ্ঠে\u003Cbr\u003E\niii. দেখে দেখে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768750,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768750,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768751,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "একদিন তুহিন তার বন্ধুকে জিজ্ঞেস করল কুরআন তিলাওয়াত কী? সে উত্তর দিল কুরআন তিলাওয়াত সর্বোত্তম নফল ইবাদত। এ কথা শুনে তুহিন দেখে দেখে কুরআন তিলাওয়াতে সচেষ্ট হয়।\u003Cbr\u003E\nতুহিন ও তার বন্ধু কুরআন তিলাওয়াত করবে-\u003Cbr\u003E\ni. তাজবিদ সহকারে\u003Cbr\u003E\nii. সুললিত কণ্ঠে\u003Cbr\u003E\niii. দেখে দেখে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii&nbsp;",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768751,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768751,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768752,
+      "value": {
+        "options": {
+          "ক": "না দেখে",
+          "খ": "দেখে দেখে&nbsp;",
+          "গ": "উচ্চৈঃস্বরে",
+          "ঘ": "আস্তে আস্তে"
+        },
+        "question": "কীভাবে কুরআন তিলাওয়াত করা উত্তম?",
+        "solution": "খ. দেখে দেখে&nbsp;",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768753,
+      "value": {
+        "options": {
+          "ক": "চৌদ্দ",
+          "খ": "বিশ",
+          "গ": "তেইশ",
+          "ঘ": "চব্বিশ"
+        },
+        "question": "পূর্ণ কুরআন নাযিল হতে কত বছর সময় লেগেছিল?",
+        "solution": "গ. তেইশ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768754,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও iii&nbsp;",
+          "গ": "ii ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "কুরআন তিলাওয়াতের আদব কোনটি?\u003Cbr\u003E\ni. মনোযোগ সহকারে তেলাওয়াত করা\u003Cbr\u003E\nii. তিলাওয়াতের সময়ে কথাবার্তা না বলা\u003Cbr\u003E\niii. তাড়াতাড়ি তিলাওয়াত করা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768754,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 768755,
+      "value": {
+        "options": {
+          "ক": "সহি তিলাওয়াত",
+          "খ": "ক্বারিয়ানা তিলাওয়াত",
+          "গ": "নাযিরা তিলাওয়াত",
+          "ঘ": "মুখস্ত তিলাওয়াত"
+        },
+        "question": "একদিন তুহিন তার বন্ধুকে জিজ্ঞেস করল কুরআন তিলাওয়াত কী? সে উত্তর দিল কুরআন তিলাওয়াত সর্বোত্তম নফল ইবাদত। এ কথা শুনে তুহিন দেখে দেখে কুরআন তিলাওয়াতে সচেষ্ট হয়।\u003Cbr\u003E\nতুহিনের এরূপ তিলাওয়াতকে কী বলা হয়?",
+        "solution": "গ. নাযিরা তিলাওয়াত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768755,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768756,
+      "value": {
+        "options": {
+          "ক": "না দেখে পড়া",
+          "খ": "দেখে দেখে পড়া",
+          "গ": "থেমে থেমে পড়া",
+          "ঘ": "পড়তে গেলে আটকে যাওয়া"
+        },
+        "question": "নাযিরা তিলাওয়াত কাকে বলে?",
+        "solution": "খ. দেখে দেখে পড়া",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768757,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কুরআন মাজিদ দেখে দেখে তিলাওয়াতকারীকে আল্লাহ তায়ালা আখিরাতে দান করবেন-\u003Cbr\u003E\ni. অত্যধিক সম্মান\u003Cbr\u003E\nii. প্রতিপত্তি\u003Cbr\u003E\niii. মর্যাদা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768757,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 768758,
+      "value": {
+        "options": [],
+        "question": "আল-কুরআন তিলাওয়াতের আদব লেখ।",
+        "solution": "আল-কুরআন তিলাওয়াতের আদব হলো- পূর্ণরূপে ওযু করে পাক-পবিত্র জায়গায় বসা। পবিত্র কুরআনকে উঁচু কোনো কিছুর উপর রাখা। মনোযোগ সহকারে তিলাওয়াত করা। কোনোরূপ কথাবার্তা, হাসি-ঠাট্টা না করা। ধীরে ধীরে তাজবিদের সাথে তিলাওয়াত করা। আল্লাহ তায়ালার সন্তুষ্টি লাভের জন্য তিলাওয়াত করা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768759,
+      "value": {
+        "options": [],
+        "question": "নাযিরা তিলাওয়াত বলতে কী বোঝ?",
+        "solution": "আল-কুরআন তিলাওয়াতের ফজিলত অত্যধিক। পবিত্র কুরআন মুখস্থ তিলাওয়াত করা যায়। আবার দেখেও পাঠ করা যায়। দেখে দেখে তিলাওয়াত করাকে নাযিরা তিলাওয়াত বলে। নাযিরা তিলাওয়াত একটি উত্তম ইবাদত। আল্লাহ তায়ালা এরূপ তিলাওয়াতকারীকে আখিরাতে অত্যধিক সম্মান ও মর্যাদা দান করবেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:53:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12919&grade=3&lesson=14356&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12919&grade=3&lesson=14356&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12919&grade=3&lesson=14356&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 13,
+  "total": 13
+}

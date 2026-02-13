@@ -1,0 +1,1127 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 761910,
+      "value": {
+        "options": [],
+        "question": "'A' এমন একটি বিষয়কে নির্দেশ করে, যা বিশ্বের সব দেশের নাগরিক রাষ্ট্রের কাছ থেকে ভোগ করে। 'A' কোন বিষয়কে নির্দেশ করে? এটি ভোগের বিনিময়ে নাগরিককে কী করতে হয়?",
+        "solution": "'A' অধিকারকে নির্দেশ করে। অধিকার ভোগের বিনিময়ে নাগরিককে রাষ্ট্রের প্রতি কিছু কর্তব্য পালন করতে হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761921,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নাগরিক হিসেবে আমরা সরকারের কাছ থেকে ভোগ করি- i. সামাজিক অধিকার ii. রাজনৈতিক অধিকার iii. অর্থনৈতিক অধিকার নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 761921,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761921,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 761920,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রের প্রতি আনুগত্য প্রদর্শন",
+          "খ": "সন্তানদের শিক্ষাদান",
+          "গ": "সামাজিক অধিকার উপভোগ",
+          "ঘ": "দেশ রক্ষার কাজে নিয়োজিত থাকা"
+        },
+        "question": "নাগরিকের প্রধান দায়িত্ব কোনটি?",
+        "solution": "ক. রাষ্ট্রের প্রতি আনুগত্য প্রদর্শন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 761920,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 761919,
+      "value": {
+        "options": {
+          "ক": "জীবনধারণের অধিকার",
+          "খ": "আইন মান্য করা",
+          "গ": "নিজের ইচ্ছানুযায়ী বিদেশ ভ্রমণ",
+          "ঘ": "রাষ্ট্রের প্রতি অনুগত না থাকা"
+        },
+        "question": "নিচের কোনটি নাগরিকের মৌলিক অধিকার?",
+        "solution": "ক. জীবনধারণের অধিকার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761919,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761918,
+      "value": {
+        "options": [],
+        "question": "নাগরিক হিসেবে তোমার কর্তব্য পালনের দুইটি উপায় উল্লেখ করো।",
+        "solution": "নাগরিক হিসেবে কর্তব্য পালনের জন্য- i. আমি নিজে সুশিক্ষা এবং স্বশিক্ষায় শিক্ষিত হব এবং আমার চারপাশের মানুষদেরকে এভাবে শিক্ষা অর্জনের জন্য সচেতন করে তুলব। ii. নিজে স্বাধীনভাবে মতামত প্রকাশ করব এবং অন্যকেও সুযোগ দেব।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761917,
+      "value": {
+        "options": [],
+        "question": "সুমনা রাষ্ট্রের প্রতি আনুগত্য প্রদর্শন করে, আইন মেনে চলে এবং ভোটাধিকার প্রয়োগ করে। সুমনা কোন ধরনের নাগরিক? উপরে উল্লেখিত দায়িত্ব-কর্তব্য ছাড়াও সে আর কী করতে পারে?",
+        "solution": "সুমনা একজন সুনাগরিক। প্রশ্নে উল্লেখিত কাজগুলো করার পাশাপাশি সে অন্যদেরকে এ সকল কাজে অনুপ্রাণিত করতে পারে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761916,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশের সংবিধানে বেশ কিছু নাগরিক অধিকার উল্লেখ আছে। এগুলোকে কী বলে? উল্লেখিত এ সকল অধিকার কাদের জন্য প্রযোজ্য?",
+        "solution": "বাংলাদেশ সংবিধানে উল্লেখিত অধিকারকে নাগরিকের মৌলিক অধিকার বলা হয়। এ সকল অধিকার জাতি, ধর্ম, শ্রেণি, লিঙ্গ নির্বিশেষে সকলের জন্য প্রযোজ্য।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761915,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে সরকার পরিচালনার একটি নির্দিষ্ট দলিল রয়েছে। সেটির নাম কী? উক্ত দলিলে উল্লেখিত নাগরিকের একটি অধিকার লেখো।",
+        "solution": "বাংলাদেশের সরকার পরিচালনার দলিলটি হলো 'বাংলাদেশের সংবিধান'। 'জীবনধারণের অধিকার' একটি নাগরিক অধিকার, যা উক্ত সংবিধানে উল্লেখ আছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761914,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নাগরিকের মৌলিক অধিকার ভোগের ক্ষেত্রে বিবেচনা করা হয় না- i. জাতি, ধর্ম ii. শ্রেণি iii. লিঙ্গ নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 761914,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761914,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 761913,
+      "value": {
+        "options": {
+          "ক": "মৌলিক অধিকার",
+          "খ": "দায়িত্ব ও কর্তব্য",
+          "গ": "সুনাগরিকের গুণ",
+          "ঘ": "ব্যক্তি স্বার্থপরায়ণতা"
+        },
+        "question": "করিম সাহেবের কাজগুলোকে কী বলা যাবে?",
+        "solution": "খ. দায়িত্ব ও কর্তব্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 761913,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761912,
+      "value": {
+        "options": {
+          "ক": "আইন",
+          "খ": "কর্তব্য",
+          "গ": "নির্দেশ",
+          "ঘ": "আদেশ"
+        },
+        "question": "অধিকার ভোগের পাশাপাশি নাগরিককে কোনটি পালন করতে হয়?",
+        "solution": "খ. কর্তব্য",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 761912,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-11-30T14:03:58.000000Z",
+            "updated_at": "2025-11-30T14:03:58.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 761912,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 761911,
+      "value": {
+        "options": {
+          "ক": "আদালতের নথিতে",
+          "খ": "সংবাদপত্রে",
+          "গ": "সংবিধানে",
+          "ঘ": "ধর্মগ্রন্থে"
+        },
+        "question": "নাগরিকদের মৌলিক অধিকারের উল্লেখ থাকে কোথায়?",
+        "solution": "গ. সংবিধানে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761911,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761909,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশ সংবিধানে উল্লেখিত দুইটি মৌলিক অধিকারের নাম লেখো।",
+        "solution": "বাংলাদেশ সংবিধানে উল্লেখিত দুইটি মৌলিক অধিকার হলো- i. জীবনধারণের অধিকার। ii. সম্পত্তির অধিকার।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761908,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "অতুল বাংলাদেশের নাগরিক। সে মনে করে, প্রতিটি রাষ্ট্রেরই উচিত নাগরিকদের এমন কিছু সুযোগ-সুবিধা দেওয়া, যেগুলো তাদের ব্যক্তিত্বের, বিকাশ ঘটাবে।\u003Cbr\u003E\nউক্ত বিষয়ের অন্তর্ভুক্ত হলো- i. জীবনধারণের অধিকার ii. সম্পত্তির অধিকার iii. স্বাধীন মতামত প্রকাশের অধিকার নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 761908,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761908,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 761908,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 761907,
+      "value": {
+        "options": {
+          "ক": "ধর্মচর্চার অধিকার",
+          "খ": "সম্পত্তির অধিকার",
+          "গ": "মত প্রকাশের অধিকার",
+          "ঘ": "আবেদনের অধিকার"
+        },
+        "question": "সোহানা নিয়মিত পাঁচ ওয়াক্ত নামাজ আদায় করে। সে কোন ধরনের অধিকার ভোগ করে?",
+        "solution": "ক. ধর্মচর্চার অধিকার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 761907,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761898,
+      "value": {
+        "options": {
+          "ক": "জন্মসূত্রে",
+          "খ": "অনুমোদনসূত্রে",
+          "গ": "সম্পত্তি ক্রয় করার ফলে",
+          "ঘ": "আদালতের নির্দেশে"
+        },
+        "question": "শম্পার বাবা-মা বাংলাদেশের নাগরিক হওয়ায় সে জন্মের পর থেকে এদেশের বিভিন্ন সুযোগ সুবিধা পাচ্ছে। শম্পা কীভাবে বাংলাদেশের নাগরিকত্ব অর্জন করেছে?",
+        "solution": "ক. জন্মসূত্রে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 761898,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761906,
+      "value": {
+        "options": [],
+        "question": "রাষ্ট্রের থেকে বিভিন্ন অধিকার অর্জনের পাশাপাশি রাষ্ট্রের প্রতি নাগরিকের বেশ কিছু দায়িত্ব-কর্তব্য রয়েছে। এর মধ্যে প্রধান দুটি উল্লেখ করো।",
+        "solution": "নাগরিকের প্রধান দুটি কর্তব্য হলো- i. রাষ্ট্রের প্রতি আনুগত্য প্রকাশ করা এবং ii. রাষ্ট্রের আইন মেনে চলা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761905,
+      "value": {
+        "options": [],
+        "question": "তানজীর বাংলাদেশের একটি দলিল পড়ে নানা ধরনের অধিকারের উল্লেখ পেলো। তার পঠিত দলিলটি মূলত কী? এতে অন্তর্ভুক্ত অধিকারগুলোকে কোন ধরনের অধিকার বলে?",
+        "solution": "তানজীরের পঠিত দলিলটি মূলত বাংলাদেশের সংবিধান। সংবিধানে অন্তর্ভুক্ত অধিকারগুলোকে মৌলিক অধিকার বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761904,
+      "value": {
+        "options": {
+          "ক": "নাগরিকের চাহিদা",
+          "খ": "মৌলিক অধিকার",
+          "গ": "নাগরিকের কর্তব্য",
+          "ঘ": "সুনাগরিকের গুণাবলি"
+        },
+        "question": "অতুল বাংলাদেশের নাগরিক। সে মনে করে, প্রতিটি রাষ্ট্রেরই উচিত নাগরিকদের এমন কিছু সুযোগ-সুবিধা দেওয়া, যেগুলো তাদের ব্যক্তিত্বের, বিকাশ ঘটাবে।\u003Cbr\u003E\nঅতুল কোন বিষয়টির গুরুত্ব অনুধাবন করেছে?",
+        "solution": "খ. মৌলিক অধিকার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 761904,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 761904,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 761903,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রাষ্ট্রের প্রতি নাগরিকদের প্রধান দায়িত্বগুলো হলো- i. আনুগত্য প্রকাশ করা ii. আইন মেনে চলা iii. ভোটাধিকার প্রয়োগ করা নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 761903,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761903,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 761902,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশে নাগরিকদের মৌলিক অধিকারগুলো হলো- i. সম্পত্তির অধিকার ii. ধর্মচর্চার অধিকার iii. শিক্ষা লাভের অধিকার নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 761902,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761902,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 761901,
+      "value": {
+        "options": {
+          "ক": "সুনাগরিক নন",
+          "খ": "দায়িত্ববান নাগরিক",
+          "গ": "উত্তম মানুষ",
+          "ঘ": "উদার মানুষ"
+        },
+        "question": "আয়নাল সাহেব তার বাড়ির আঙিনা ও সামনের রাস্তা পরিষ্কার রাখেন। কিন্তু তিনি বাড়িতে খুব উঁচু শব্দে গান শোনেন। তার সম্পর্কে নিচের কোন মন্তব্যটি সঠিক?",
+        "solution": "ক. সুনাগরিক নন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 761901,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761900,
+      "value": {
+        "options": {
+          "ক": "সম্পত্তির অধিকার",
+          "খ": "ধর্মচর্চার অধিকার",
+          "গ": "জীবনধারণের অধিকার",
+          "ঘ": "চলাফেরার অধিকার"
+        },
+        "question": "তানভীর দেশের প্রতিটি জেলায় স্বাধীনভাবে যাতায়াত করতে পারে। এটি তানভীরের কোন ধরনের মৌলিক অধিকারকে নির্দেশ করে?",
+        "solution": "ঘ. চলাফেরার অধিকার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 761900,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761899,
+      "value": {
+        "options": {
+          "ক": "আইনসভা",
+          "খ": "সংবিধান",
+          "গ": "হাইকোর্টের রায়",
+          "ঘ": "প্রধানমন্ত্রীর আদেশ"
+        },
+        "question": "বাংলাদেশের সরকার পরিচালনার দলিল কোনটি?",
+        "solution": "খ. সংবিধান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12965,
+      "created_at": "2025-11-30T14:03:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761899,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12965&grade=3&lesson=14021&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12965&grade=3&lesson=14021&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12965&grade=3&lesson=14021&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

@@ -1,0 +1,864 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 762155,
+      "value": {
+        "options": [],
+        "question": "মাতৃ মৃত্যু সম্পর্কে লেখ।",
+        "solution": "সাধারণভাবে বলা যায় সন্তান প্রসবের পূর্বে, প্রসবকালীন এবং প্রসব পরবর্তী সময়ে শারীরিক কিংবা অন্যান্য কারণে মায়েরা মৃত্যুবরণ করলে তাকে মাতৃমৃত্যু বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762165,
+      "value": {
+        "options": {
+          "ক": "প্রায় অর্ধেক",
+          "খ": "এক-চতুর্থাংশ",
+          "গ": "দুই-তৃতীয়াংশ",
+          "ঘ": "তিন-চতুর্থাংশ"
+        },
+        "question": "বাংলাদেশের মোট জনসংখ্যা কত ভাগ নারী?",
+        "solution": "ক. প্রায় অর্ধেক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762164,
+      "value": {
+        "options": {
+          "ক": "জন্ম-মৃত্যু সমান হলে",
+          "খ": "জন্ম বেশি হলে",
+          "গ": "মৃত্যু বেশি হলে",
+          "ঘ": "সমসংখ্যক বহিরাগত হলে"
+        },
+        "question": "কোনটি ঘটলে জনসংখ্যা স্থির থাকে?",
+        "solution": "ক. জন্ম-মৃত্যু সমান হলে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762163,
+      "value": {
+        "options": {
+          "ক": "৪০",
+          "খ": "৬০",
+          "গ": "৫০",
+          "ঘ": "৭০"
+        },
+        "question": "বাংলাদেশের শতকরা কত ভাগ মানুষ দারিদ্র্যসীমার নিচে বসবাস করে?",
+        "solution": "ক. ৪০",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762162,
+      "value": {
+        "options": {
+          "ক": "১০ জন",
+          "খ": "১৫ জন",
+          "গ": "২০ জন",
+          "ঘ": "২৫ জন"
+        },
+        "question": "২০২২ সালের আদমশুমারি অনুযায়ী বাংলাদেশে শিশু মৃত্যুহার কত?",
+        "solution": "গ. ২০ জন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762161,
+      "value": {
+        "options": {
+          "ক": "পারিবারিক সমস্যার",
+          "খ": "মাতৃ মৃত্যুর",
+          "গ": "সামাজিক বিশৃঙ্খলার",
+          "ঘ": "রোগাক্রান্ত হওয়ার ঝুঁকি"
+        },
+        "question": "নারী অল্প বয়সে গর্ভধারণ করলে কিসের ঝুঁকি থাকে?",
+        "solution": "খ. মাতৃ মৃত্যুর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762160,
+      "value": {
+        "options": {
+          "ক": "১৫০ জন",
+          "খ": "১৫৬ জন",
+          "গ": "১৬০ জন",
+          "ঘ": "১৭০ জন"
+        },
+        "question": "২০২২ সালের আদমশুমারি অনুযায়ী মাতৃমৃত্যুর হার কত?",
+        "solution": "খ. ১৫৬ জন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762159,
+      "value": {
+        "options": [],
+        "question": "শিশুমৃত্যুর তিনটি কারণ লেখ।",
+        "solution": "শিশুমৃত্যুর কারণ হলো-\u003Cbr /\u003E\n-দারিদ্র্য&nbsp;\u003Cbr /\u003E\n- বাল্যবিবাহ. ও&nbsp;\u003Cbr /\u003E\n- অপুষ্টি ও অসুস্থতা।&nbsp;",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762158,
+      "value": {
+        "options": [],
+        "question": "বাংলাদেশে কোন ক্ষেত্রে সফলতা অর্জন করেছে?",
+        "solution": "বাংলাদেশে শিশুমৃত্যু হ্রাসে উল্লেখযোগ্য সফলতা অর্জন করেছে। ১৯৯০ সালে এদেশে শিশু মৃত্যুর হার ছিল প্রতি হাজারে ১৪৯ জন, যা ২০২২ সালের আদমশুমারী অনুযারী প্রতি, হাজার ২০ জন এ হ্রাস পেয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762157,
+      "value": {
+        "options": [],
+        "question": "শিশু মৃত্যু সম্পর্কে সংক্ষেপে লেখ।",
+        "solution": "জন্মের পর এক বছর বয়সের মধ্যে শিশুর মৃত্যু হলে তাকে শিশু মৃত্যু বলা হয়। শিশু মৃত্যু হার হলো প্রতি বছরে জীবিত জন্মগ্রহণকারী প্রতি হাজারে শিশুমৃত্যুর সংখ্যা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762156,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "বাংলাদেশে মাতৃমৃত্যুর কারণসমূহ হলো-\u003Cbr\u003E\ni. চিকিৎসার অভাব&nbsp;\u003Cbr\u003E\nii. নারী শিক্ষার অভাব&nbsp;\u003Cbr\u003E\niii. একলেমশিয়া&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 762156,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 762144,
+      "value": {
+        "options": {
+          "ক": "হাজারে",
+          "খ": "শততে",
+          "গ": "লক্ষে",
+          "ঘ": "কোটিতে"
+        },
+        "question": "মাতৃমৃত্যু কততে গণনা করা হয়?",
+        "solution": "গ. লক্ষে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762154,
+      "value": {
+        "options": {
+          "ক": "শহরাঞ্চলে",
+          "খ": "গ্রামাঞ্চলে",
+          "গ": "পৌরাঞ্চলে",
+          "ঘ": "পার্বত্যাঞ্চলে"
+        },
+        "question": "কোন অঞ্চলে শিশু মৃত্যুর হার বেশি?",
+        "solution": "খ. গ্রামাঞ্চলে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762153,
+      "value": {
+        "options": {
+          "ক": "২৫ জন",
+          "খ": "২৮ জন",
+          "গ": "৫২ জন",
+          "ঘ": "৬৯ জন"
+        },
+        "question": "২০১৬ সালে বাংলাদেশে শিশু মৃত্যুর হার কতজন?",
+        "solution": "খ. ২৮ জন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762152,
+      "value": {
+        "options": {
+          "ক": "১৯০ জন",
+          "খ": "১৯২ জন",
+          "গ": "১৯৪ জন",
+          "ঘ": "১৯৬ জন"
+        },
+        "question": "২০১০ সালে মাতৃমৃত্যুর সংখ্যা কত?",
+        "solution": "গ. ১৯৪ জন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762151,
+      "value": {
+        "options": [],
+        "question": "শিশুমৃত্যুর প্রভাব সম্পর্কে লেখ।&nbsp;",
+        "solution": "পরিবারে শিশুমৃত্যুর ঘটনা খুবই দুঃখজনক। একটি পরিবারে যখন একটি শিশু মারা যায় তখন ওই পরিবার অনেকটা অগোছালো হয়ে যায়। এই পারিবারিক শোক সামলানো কষ্টকর হয়ে পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762150,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শিশুর মৃত্যু ঘটে-\u003Cbr\u003E\ni. ক্যান্সারে&nbsp;\u003Cbr\u003E\nii. ধনুষ্টংকারে&nbsp;\u003Cbr\u003E\niii. পোলিওতে\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 762150,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 762149,
+      "value": {
+        "options": {
+          "ক": "শিশুর জন্ম",
+          "খ": "জন্ম-মৃত্যু",
+          "গ": "বহিরাগমন",
+          "ঘ": "বহির্গমন"
+        },
+        "question": "জনসংখ্যা হ্রাস-বৃদ্ধির মুখ্য কারণ কোনটি?",
+        "solution": "খ. জন্ম-মৃত্যু",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762148,
+      "value": {
+        "options": {
+          "ক": "২০ শতাংশ",
+          "খ": "৩০ শতাংশ",
+          "গ": "৪০ শতাংশ",
+          "ঘ": "৫০ শতাংশ"
+        },
+        "question": "১৯৯১ সারের ঘূণিঝড় ও জলোচ্ছ্বাসে মৃতের কত শতাংশ শিশু ছিল?",
+        "solution": "ঘ. ৫০ শতাংশ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762147,
+      "value": {
+        "options": {
+          "ক": "শিক্ষার অভাবে",
+          "খ": "দারিদ্র্যের কারণে",
+          "গ": "বাল্যবিবাহের কারণে",
+          "ঘ": "পরিচর্যার অভাবে"
+        },
+        "question": "শিশুদের একটা বিরাট অংশ মূলত কী কারণে মৃত্যুবরণ করে?",
+        "solution": "খ. দারিদ্র্যের কারণে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762146,
+      "value": {
+        "options": {
+          "ক": "ইউনিসেফ",
+          "খ": "ইউনেস্কো",
+          "গ": "পরিসংখ্যান ব্যুরো",
+          "ঘ": "বিশ্বব্যাংক"
+        },
+        "question": "কোন সংস্থার তথ্য অনুযায়ী ২০১৬ সালে মাতৃমৃত্যুর হার ছিল ১৭৬ জন?",
+        "solution": "ঘ. বিশ্বব্যাংক",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762145,
+      "value": {
+        "options": {
+          "ক": "প্রতি শতকে",
+          "খ": "প্রতি হাজারে",
+          "গ": "প্রতি লক্ষে",
+          "ঘ": "প্রতি কোটিতে"
+        },
+        "question": "শিশু মৃত্যুর হার গণনা করা হয়-",
+        "solution": "খ. প্রতি হাজারে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 12967,
+      "created_at": "2025-11-30T14:05:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12967&grade=3&lesson=14029&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12967&grade=3&lesson=14029&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12967&grade=3&lesson=14029&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

@@ -1,0 +1,2254 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 488503,
+      "value": {
+        "options": [],
+        "question": "ত্রিভুজের সর্বসমতা নির্ধারণে বাহু-বাহু-কোণ (SS∠) উপপাদ্য প্রযোজ্য হয় না কেন?",
+        "solution": "বাহু-বাহু-কোণ উপপাদ্য সবসময় কার্যকর নয়, কারণ কোণটি যদি বাহু দুটির অন্তর্ভুক্ত না হয়, তবে তা বিভিন্ন আকৃতির ত্রিভুজ তৈরি করতে পারে। সেজন্য এটি সর্বসমতা নির্ধারণে যথেষ্ট নয়।",
+        "explanation": "ব্যাখ্যা: কারণ বাহু-বাহু-কোণ (SSA বা SS∠) ক্ষেত্রে দেওয়া কোণটি দুই বাহুর মাঝখার ইনক্লুডেড কোণ না—অতএব সেই কোণ ও দুই বাহু দিয়ে ত্রিভুজটি একমাত্রভাবে নির্ধারিত হয় না। একই মাত্রার দুই বাহু ও একটি অসমান কোণ দিয়ে কখনও কখনও দুটো ভিন্ন ত্রিভুজ, একটি ত্রিভুজ বা কোনো ত্রিভুজই তৈরি নাও হতে পারে (অম্বিগুইটি/দ্ব্যর্থতা)। তাই SS∠ উপপাদ্য সর্বসমতা নিশ্চিত করতে যথেষ্ট নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488503,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488493,
+      "value": {
+        "options": {
+          "ক": "কেবল লম্ব",
+          "খ": "কেবল সমদ্বিখণ্ডক",
+          "গ": "লম্ব ও সমদ্বিখণ্ডক উভয়",
+          "ঘ": "কেবল মধ্যমা"
+        },
+        "question": "সমবাহু ত্রিভুজে শীর্ষবিন্দু থেকে ভূমির মধ্যবিন্দুতে আঁকা রেখা কোন কোন বৈশিষ্ট্যযুক্ত হবে?",
+        "solution": "সমবাহু ত্রিভুজে শীর্ষ থেকে আঁকা রেখাটি লম্ব, সমদ্বিখণ্ডক এবং মধ্যমা—তিনটিই হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488493,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488494,
+      "value": {
+        "options": {
+          "ক": "[math]AB = CD[/math]",
+          "খ": "[math]AB \\parallel CD[/math]",
+          "গ": "[math]AB \\approx CD[/math]",
+          "ঘ": "[math]AB \\cong CD[/math]"
+        },
+        "question": "দুইটি রেখাংশ সর্বসম হলে তা কিভাবে প্রকাশ করা যায়?",
+        "solution": "রেখাংশ সর্বসম হলে [math]\\cong[/math] চিহ্ন ব্যবহার করা হয়। এটি আকার ও দৈর্ঘ্যে সমতার প্রতীক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488494,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488495,
+      "value": {
+        "options": {
+          "ক": "[math]11[/math] সেমি",
+          "খ": "[math]13[/math] সেমি",
+          "গ": "[math]10[/math] সেমি",
+          "ঘ": "[math]14[/math] সেমি"
+        },
+        "question": "[math]\\triangle ABC[/math] ত্রিভুজে [math]\\angle A = 90^\\circ[/math], [math]AB = 5[/math] সেমি, [math]AC = 12[/math] সেমি হলে [math]BC[/math] এর দৈর্ঘ্য কত?",
+        "solution": "পিথাগোরাস সূত্র অনুযায়ী: [math]BC^2 = AB^2 + AC^2 = 25 + 144 = 169 \\Rightarrow BC = 13[/math] সেমি।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488495,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488496,
+      "value": {
+        "options": {
+          "ক": "হ্যাঁ, সবসময়",
+          "খ": "না, কখনও না",
+          "গ": "হ্যাঁ, শুধু সমবাহু হলে",
+          "ঘ": "না, কারণ বাহুর অবস্থান গুরুত্বপূর্ণ"
+        },
+        "question": "দুটি ত্রিভুজের তিনটি কোণ এবং একটি বাহু সমান হলে তারা সর্বসম হবে কি?",
+        "solution": "সর্বসমতার জন্য শুধু কোণ যথেষ্ট নয়; সমান বাহুর অবস্থানও বিবেচ্য।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488496,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488497,
+      "value": {
+        "options": {
+          "ক": "কোণ সমতা",
+          "খ": "লম্বতা",
+          "গ": "সর্বসমতা",
+          "ঘ": "কেন্দ্র নির্ধারণ"
+        },
+        "question": "উপরিপাতন পদ্ধতি কোন জ্যামিতিক বৈশিষ্ট্য যাচাইয়ে ব্যবহৃত হয়?",
+        "solution": "উপরিপাতন পদ্ধতি ব্যবহার করে দুটি চিত্র একে অপরের উপর স্থাপন করে সর্বসমতা প্রমাণ করা হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488497,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488498,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমকোণী ত্রিভুজের সর্বসমতার শর্ত—\n\ni. অতিভুজ সমান\n\nii. একটি বাহু সমান\n\niii. যে-কোনো একটি কোণ সমান",
+        "solution": "সমকোণী ত্রিভুজের সর্বসমতার জন্য অন্তত একটি অতিভুজ এবং একটি বাহু সমান হওয়া আবশ্যক। শুধুমাত্র কোণ সমান হলে সর্বসম হয় না।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488498,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488499,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i, ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "ii ও iii"
+        },
+        "question": "দুটি ত্রিভুজ সর্বসম হবে যদি—\n\ni. একটি ত্রিভুজের তিন বাহু অপরটির তিন বাহুর সমান হয়\n\nii. দুই বাহু ও অন্তর্ভুক্ত কোণ সমান হয়\n\niii. তিন কোণ সমান হয়",
+        "solution": "প্রথম দুইটি শর্তে সর্বসমতা প্রমাণ হয় (SSS ও SAS)। কিন্তু শুধুমাত্র তিনটি কোণ সমান হলে তা সদৃশ্য বোঝায়, সর্বসম নয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488499,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488500,
+      "value": {
+        "options": {
+          "ক": "i ও iii",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "[math]\\triangle ABC[/math] এ [math]D, E, F[/math] বাহুর মধ্যবিন্দু হলে—\n\ni. [math]AD, BE, CF[/math] তিনটি মধ্যমা\n\nii. [math]BE[/math] মধ্যমা [math]\\angle ABC[/math] কোণের সমদ্বিখণ্ডক\n\niii. তিনটি মধ্যমা ত্রিভুজের একই বিন্দুতে ছেদ করে",
+        "solution": "তিনটি তথ্যই সত্য: [math]D, E, F[/math]\u003Cbr\u003E যদি বাহুর মধ্যবিন্দু হয় তবে [math]AD, BE, CF[/math]\u003Cbr\u003E মধ্যমা; BE কোণের সমদ্বিখণ্ডক হতে পারে, এবং তিনটি মধ্যমা একটি বিন্দুতে ছেদ করে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488500,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488501,
+      "value": {
+        "options": {
+          "ক": "i ও iii",
+          "খ": "ii ও iii",
+          "গ": "i, ii ও iii",
+          "ঘ": "i ও ii"
+        },
+        "question": "সর্বসম ত্রিভুজদ্বয়ের—\n\ni. তিনটি বাহুই সমান\n\nii. দুইটি বাহু ও তাদের অন্তর্ভুক্ত কোণ সমান\n\niii. একটি বাহুও সমান না",
+        "solution": "শুধুমাত্র i ও ii সর্বসমতার সঠিক শর্ত। iii ভুল কারণ যদি একটি বাহুও না মেলে তবে তারা কখনোই সর্বসম হতে পারে না।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488501,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488502,
+      "value": {
+        "options": [],
+        "question": "বাহু-কোণ-বাহু উপপাদ্যটি কীভাবে সর্বসমতা নিশ্চিত করে?",
+        "solution": "যদি দুটি ত্রিভুজের দুটি বাহু এবং তাদের অন্তর্ভুক্ত কোণ পরস্পর সমান হয়, তবে তৃতীয় বাহুটি স্বাভাবিকভাবেই সমান হয়। তাই, তিনটি বাহু ও কোণ মিলে যায় — ফলে দুটি ত্রিভুজ একে অপরের উপর সম্পূর্ণ মিলে যায়, অর্থাৎ সর্বসম হয়।",
+        "explanation": "ব্যাখ্যা: বাহু‑কোণ‑বাহু উপপাদ্য বলে—যদি দুটি ত্রিভুজে সংশ্লিষ্ট দুইটি বাহু সমান এবং ওই দুই বাহুর মধ্যকার কোণ সমান হয়, তাহলে ঐ ত্রিভুজ দুটো সর্বসম হবে। কারণ, এক ত্রিভুজের ওই দুই বাহু ও অন্তর্ভুক্ত কোণ মিলে গেলে সেটিকে সরিয়ে (অনুবাদ/ঘুরিয়ে) অপরটির উপর খাপ খাইয়ে দিলে তৃতীয় বাহু এবং বাকী কোণগুলোও একইভাবে মিলে যায়, তাই তারা সম্পূর্ণভাবে সমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488502,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488492,
+      "value": {
+        "options": {
+          "A": "সমান",
+          "B": "সদৃশ",
+          "C": "সর্বসম",
+          "D": "অসদৃশ"
+        },
+        "question": "[math]\\triangle XYZ[/math] ও [math]\\triangle LMN[/math] ত্রিভুজ দুইটিতে [math]XY = LM[/math], [math]YZ = MN[/math], এবং [math]\\angle Y = \\angle M[/math] হলে ত্রিভুজদ্বয় কী হবে?",
+        "solution": "দুটি বাহু এবং অন্তর্ভুক্ত কোণ সমান হলে S.A.S অনুযায়ী ত্রিভুজ দুটি সর্বসম হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488492,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488504,
+      "value": {
+        "options": [],
+        "question": "কেন বাহু-কোণ-বাহু উপপাদ্যকে বিশ্বাসযোগ্য গণ্য করা হয়?",
+        "solution": "কারণ এটি একমাত্র উপপাদ্য যেখানে অন্তর্ভুক্ত কোণের উপস্থিতি, দুই বাহুর দৈর্ঘ্যসহ ত্রিভুজের নির্দিষ্ট গঠন নিশ্চিত করে। একে জ্যামিতিকভাবে প্রমাণ করাও সম্ভব।",
+        "explanation": "বাহু-কোণ-বাহু (SAS) উপপাদ্য বিশ্বাসযোগ্য কারণ কোনো ত্রিভুজে দুইটি বাহুর দৈর্ঘ্য এবং তাদের মাঝের কোণ নির্ধারিত হলে তৃতীয় শীর্ষবিন্দুর অবস্থান একমাত্র নির্ধারিত হয়, ফলে ত্রিভুজের সব বাহু ও কোণও নির্দিষ্ট হয়। অন্যভাবে বলা যায়, ওই দুই বাহু ও অন্তর্ভুক্ত কোণ মিলালে একটি ত্রিভুজকে কেবল অনুবাদ ও ঘূর্ণন করে আরেকটির উপর পুরোপুরি মেলা যায়, তাই তারা সমরূপ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488504,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488505,
+      "value": {
+        "options": [],
+        "question": "ত্রিভুজের সর্বসমতা নির্ধারণে মোট কতটি উপপাদ্য ব্যবহৃত হয় এবং তারা কী কী?",
+        "solution": "চারটি প্রধান উপপাদ্য ব্যবহৃত হয়: ১. বাহু-কোণ-বাহু (SAS) ২. কোণ-বাহু-কোণ (ASA) ৩. বাহু-বাহু-বাহু (SSS) ৪. সমকোণ ত্রিভুজের ক্ষেত্রে বাহু-সমকোণ-বাহু (RHS)।",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের সর্বসমতা নির্ধারণে সাধারণত চারটি উপপাদ্য ব্যবহৃত হয় — SSS (পাশ‑পাশ‑পাশ), SAS (পাশ‑কোণ‑পাশ), ASA (কোণ‑পাশ‑কোণ) এবং RHS/HL (সমকোণ‑হাইপোতেনিউজ‑পাশ)। এই উপপাদ্যগুলো প্রতিটি ক্ষেত্রে প্রয়োজনীয় পাশ ও/বা কোণ একই থাকলে দুই ত্রিভুজের সব উপাদান মিলিয়ে নাড়বদল করলে একে অপরের উপর নিখুঁতভাবে মেলা যায়, তাই তারা সমরূপ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488505,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488506,
+      "value": {
+        "options": [],
+        "question": "ত্রিভুজের সর্বসমতা নির্ধারণে উপপাদ্যগুলোর প্রয়োগ কোথায় দেখা যায়?",
+        "solution": "এই উপপাদ্যগুলো প্রকৌশল, স্থাপত্য, নকশা, এবং জ্যামিতিক প্রমাণে ব্যবহৃত হয়, যেখানে আকৃতি ও দৈর্ঘ্য হুবহু মিলিয়ে জ্যামিতিক কাঠামো স্থাপন করা হয়।",
+        "explanation": "ত্রিভুজের সর্বসমতা নির্ধারণে উপপাদ্যগুলো প্রয়োগ করা হয় কারণ এগুলোই কোনো দুইটি ত্রিভুজের সমান বাহু এবং কোণের সম্পর্ক নির্ধারণ করে—অর্থাৎ SSS, SAS, ASA, AAS, RHS মতো ক্রীড়াগুলো ব্যবহার করে সাম্যতা প্রমাণ করা যায়। তাই গাণিতিক প্রমাণ, ত্রিভুজ নির্মাণ ও বাস্তব সমস্যা (উদাহরণ: স্থাপত্য, ইঞ্জিনিয়ারিং) সমাধানে এই উপপাদ্যগুলোর প্রয়োগ দেখা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488506,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488507,
+      "value": {
+        "options": [],
+        "question": "বাহু-কোণ-বাহু উপপাদ্য কাকে বলে?",
+        "solution": "যদি দুটি ত্রিভুজের একটির দুইটি বাহু অপরটির দুইটি বাহুর সমান হয় এবং ঐ দুই বাহুর অন্তর্ভুক্ত কোণ দুটি পরস্পর সমান হয়, তবে ত্রিভুজ দুটি সর্বসম হয়। একে বাহু-কোণ-বাহু (Side-Angle-Side) উপপাদ্য বলে।",
+        "explanation": "ব্যাখ্যা: বাহু-কোণ-বাহু (SAS) উপপাদ্য বলে যে যদি একটি ত্রিভুজের দুটি বাহু এবং তাদের মধ্যে থাকা কোণ যথাক্রমে অন্য একটি ত্রিভুজের সংশ্লিষ্ট দুটি বাহু ও অন্তর্ভুক্ত কোণের সমান হয়, তবে ওই দুই ত্রিভুজ পুরোপুরি সমান (congruent) হবে। কারণ দুই বাহু ও তাদের অন্তর্ভুক্ত কোণ নির্ধারণ করলে তৃতীয় বাহু ও বাকি কোণগুলো স্বয়ংক্রিয়ভাবে নির্দিষ্ট হয়ে যায়, ফলে ত্রিভুজগুলো মিলে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488507,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488508,
+      "value": {
+        "options": [],
+        "question": "সর্বসমতা বোঝাতে কোন প্রতীক ব্যবহার করা হয়?",
+        "solution": "সর্বসমতা বোঝাতে “≅” চিহ্ন ব্যবহার করা হয়। যেমন: [math]\\triangle ABC \\cong \\triangle DEF[/math] মানে ত্রিভুজ দুটি সর্বসম।",
+        "explanation": "সর্বসমতা বোঝাতে সাধারণত [math]∀[/math] প্রতীকটি ব্যবহার করা হয়। এটি \"প্রতিটি\" বা \"সব জন্য\" বোঝায় এবং কোনো বিবৃতি ডোমেইনের প্রতিটি উপাদানের ক্ষেত্রে সত্য তা নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488508,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488509,
+      "value": {
+        "options": [],
+        "question": "দুইটি ত্রিভুজকে উপরিপাতন করে কীভাবে সর্বসমতা নির্ধারণ করা যায়?",
+        "solution": "একটি ত্রিভুজকে অন্যটির উপর এমনভাবে রাখা হলে যদি সব বাহু ও কোণ একে অপরের সঙ্গে সম্পূর্ণ মিলে যায়, তবে বলা হয় যে দুটি ত্রিভুজ উপরিপাতনে সর্বসম।",
+        "explanation": "ব্যাখ্যা: উপরিপাতনে একটি ত্রিভুজকে অন্যটির উপর রেখেও দেখা হয় যে corresপন্ডিং শীর্ষবিন্দু, পাশে ও কোণ একেবারে মিলে যায় কি না; যদি প্রতিটি প্রাসঙ্গিক বিন্দু ও রেখাংশ সাম্য ধরে বসে যায়, তাহলে ত্রিভুজগুলো সর্বসম। এই ধারণাই SAS, SSS, ASA, AAS বা RHS মত সর্বসমতা নির্ধারণের নিয়মগুলির ভিত্তি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488509,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488510,
+      "value": {
+        "options": [],
+        "question": "সর্বসম ত্রিভুজের কোন উপাদানগুলো সমান হয়?",
+        "solution": "সর্বসম ত্রিভুজের তিনটি বাহু এবং তিনটি কোণ যথাক্রমে অপর ত্রিভুজের তিনটি বাহু ও কোণের সঙ্গে সমান হয়।",
+        "explanation": "ব্যাখ্যা: সর্বসম ত্রিভুজে তিনটি পার্শ্বই সমান এবং তাদের বিরুদ্ধে থাকা তিনটি কোণও সমান; প্রতিটি কোণ [math]60^\\circ[/math] হয়। কারণ সমদৈর্ঘ্য পার্শ্বগুলো তাদের বিপরীত কোণগুলোকে সম করে এবং তিনটি কোণের যোগফল [math]180^\\circ[/math] হওয়ায় প্রত্যেককেই [math]60^\\circ[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488510,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488511,
+      "value": {
+        "options": [],
+        "question": "দুইটি রেখাংশ যদি দৈর্ঘ্যে সমান হয়, তবে তারা কি সর্বসম? ব্যাখ্যা কর।",
+        "solution": "হ্যাঁ। যদি দুইটি রেখাংশের দৈর্ঘ্য সমান হয়, তবে তারা সর্বসম। কারণ রেখাংশের জন্য একমাত্র বৈশিষ্ট্য তার দৈর্ঘ্য, এবং সমান দৈর্ঘ্য মানেই সমান গঠন।",
+        "explanation": "হ্যাঁ — রেখাংশ দুটি তখনেই সর্বসম বলা হয় যখন তাদের দৈর্ঘ্য সমান হয়। অর্থাৎ দৈর্ঘ্য সমান থাকলে একটিকে সরিয়ে বা ঘোরিয়ে অন্যটির উপর মেলে দেওয়া যায়, তাই তারা সর্বসম।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488511,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488512,
+      "value": {
+        "options": [],
+        "question": "দুইটি কোণের পরিমাপ সমান হলে, তারা কি সর্বসম?",
+        "solution": "হ্যাঁ। দুইটি কোণের পরিমাপ সমান হলে তারা সর্বসম। কোণের সর্বসমতা নির্ভর করে তাদের কোণের পরিমাপের উপর।",
+        "explanation": "হ্যাঁ। দুটি কোণের পরিমাপ যদি সমান হয়, তাহলে তাদের আকার ও মাত্রা একই—অর্থাৎ তারা সর্বসম (congruent)। সমান মাপ হওয়াই কোন দুটি কোণ সর্বসম হওয়ার সংজ্ঞা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488512,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488513,
+      "value": {
+        "options": [],
+        "question": "কেন বাহু-কোণ-বাহু উপপাদ্য সর্বসমতার জন্য গ্রহণযোগ্য প্রমাণ?",
+        "solution": "কারণ এতে দুইটি ত্রিভুজের গুরুত্বপূর্ণ তিনটি উপাদান (দুই বাহু ও অন্তর্ভুক্ত কোণ) মিলে যায়, যার ফলে সম্পূর্ণ ত্রিভুজের আকার ও আকৃতি নির্ধারিত হয় এবং একে অপরের সঙ্গে পূর্ণরূপে মিলে যায়।",
+        "explanation": "বাহু‑কোণ‑বাহু উপপাদ্য গ্রহণযোগ্য কারণ দুটি বাহু এবং তাদের মাঝের (অন্তর্ভুক্ত) কোণ এককভাবে ত্রিভুজের আকার ও আকৃতি নির্ধারণ করে; যদি আরেকটি ত্রিভুজে সেই দুই বাহু ও অন্তর্ভুক্ত কোণ একই থাকে, তাহলে সেটি প্রথমটির উপর সরানো এবং ঘোড়ানোর মাধ্যমে পুরোপুরি মিলে যাবে। ভৌতভাবে একটি বাহু স্থির রেখে দ্বিতীয় বাহুকে নির্দিষ্ট কোণে ঘোরালে তৃতীয় শীর্ষবিন্দুটি একটাই স্থানে পাওয়া যায়, তাই দুই ত্রিভুজ সমসমতা হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488513,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488482,
+      "value": {
+        "options": {
+          "ক": "সদৃশতা",
+          "খ": "সর্বসমতা",
+          "গ": "সমতুলতা",
+          "ঘ": "পার্থক্য"
+        },
+        "question": "উপরিপাতন পদ্ধতির মাধ্যমে কী প্রমাণ করা যায়?",
+        "solution": "উপরিপাতন পদ্ধতির মাধ্যমে দুটি চিত্র একটির উপর আরেকটি স্থাপন করে তাদের সর্বসমতা যাচাই করা হয়। এটি সদৃশতা বা সামঞ্জস্যতা নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488482,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488472,
+      "value": {
+        "options": {
+          "ক": "সর্বসম",
+          "খ": "অসমান",
+          "গ": "সদৃশ",
+          "ঘ": "অসদৃশ"
+        },
+        "question": "AB রেখাংশ যদি CD রেখাংশের উপর ঠিকভাবে পতিত হয় তবে কোনটি হবে?",
+        "solution": "যদি AB রেখাংশ CD রেখাংশের উপর ঠিকভাবে পতিত হয় অর্থাৎ দুইটি রেখাংশ একই দৈর্ঘ্য এবং একই অবস্থানে হয়, তাহলে তা সর্বসম হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488472,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488473,
+      "value": {
+        "options": {
+          "ক": "সদৃশ্য",
+          "খ": "সমান",
+          "গ": "উপগুণিতক",
+          "ঘ": "অসদৃশ"
+        },
+        "question": "দুইটি রেখাংশ সর্বসম হলে এদের দৈর্ঘ্য কী হবে?",
+        "solution": "দুইটি রেখাংশ যদি সর্বসম হয় তবে তাদের দৈর্ঘ্য অবশ্যই সমান হবে। সর্বসমতার মানে হলো, দৈর্ঘ্য ও অবস্থান একই রকম।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488473,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488474,
+      "value": {
+        "options": {
+          "ক": "অসমান",
+          "খ": "সমান",
+          "গ": "সদৃশ",
+          "ঘ": "অসদৃশ"
+        },
+        "question": "সর্বসম ত্রিভুজের অনুরূপ কোণগুলো – হবে।",
+        "solution": "সর্বসম ত্রিভুজে প্রতিটি অনুরূপ কোণ একে অপরের সমান হয়। এ কারণে এই ধরনের ত্রিভুজ একে অপরের উপর স্থাপন করলে পুরোপুরি মিলে যায়।",
+        "explanation": "",
+        "correct_answer": "B. সমান"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488474,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488475,
+      "value": {
+        "options": {
+          "ক": "[math]\\triangle ABC \\leq \\triangle DEF[/math]",
+          "খ": "[math]\\triangle ABC \\cong \\triangle DEF[/math]",
+          "গ": "[math]\\triangle ABC \u003E \\triangle DEF[/math]",
+          "ঘ": "[math]\\triangle ABC \u003C \\triangle DEF[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math] ও [math]\\triangle DEF[/math] সর্বসম হলে নিচের কোনটি লেখা হয়? (সহজমান)",
+        "solution": "সর্বসম অর্থ হল, [math]\\triangle ABC[/math]\u003Cbr\u003E ও [math]\\triangle DEF[/math]\u003Cbr\u003E ত্রিভুজ দুটি আকার ও আকৃতিতে পুরোপুরি সমান। এটি প্রকাশ করতে [math]\\cong[/math]\u003Cbr\u003E প্রতীক ব্যবহৃত হয়, যার মানে “congruent” বা “সর্বসম”।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488475,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488476,
+      "value": {
+        "options": {
+          "ক": "অসমান",
+          "খ": "সদৃশ",
+          "গ": "অসদৃশ",
+          "ঘ": "সর্বসম"
+        },
+        "question": "দুইটি ত্রিভুজের একটির তিন বাহু অপরটির তিন বাহুর সমান হলে ত্রিভুজদ্বয় পরস্পর কী হবে? (কঠিনমান)",
+        "solution": "যদি দুইটি ত্রিভুজের তিনটি বাহু যথাক্রমে সমান হয়, তাহলে SSS নিয়ম অনুসারে ত্রিভুজ দুটি সর্বসম হবে। অর্থাৎ, তাদের প্রতিটি কোণ এবং বাহু একে অপরের সমান হবে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488476,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488477,
+      "value": {
+        "options": {
+          "ক": "[math]AB = BC = AC[/math]",
+          "খ": "[math]BC = AD[/math]",
+          "গ": "[math]AB = AC[/math]",
+          "ঘ": "[math]AB \\ne AC[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math] এর শীর্ষকোণ [math]A[/math] এর সমদ্বিখণ্ডক [math]AD[/math], ভূমি [math]BC[/math] এর উপর লম্ব হলে, নিচের কোনটি সঠিক?",
+        "solution": "সমদ্বিখণ্ডক যদি [math]BC[/math]\u003Cbr\u003E-এর উপর লম্ব হয় তবে [math]AB = AC[/math]\u003Cbr\u003E হবে, কারণ ত্রিভুজটি সমদ্বিবাহু এবং [math]AD[/math]\u003Cbr\u003E হবে সমদ্বিখণ্ডক ও লম্ব।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488477,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488478,
+      "value": {
+        "options": {
+          "ক": "[math]\\sim[/math]",
+          "খ": "[math]\\cong[/math]",
+          "গ": "[math]\\equiv[/math]",
+          "ঘ": "[math]=[/math]"
+        },
+        "question": "নিচের কোন চিহ্নটি সর্বসমতা প্রকাশ করে?",
+        "solution": "সর্বসমতা প্রকাশ করতে [math]\\cong[/math] চিহ্ন ব্যবহার করা হয়। এটি অর্থ দেয় দুটি আকার আকৃতিতে একই রকম হলেও অবস্থানে ভিন্ন হতে পারে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488478,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488479,
+      "value": {
+        "options": {
+          "ক": "তারা সন্নিহিত কোণ হলে",
+          "খ": "তাদের পরিমাপ সমান হলে",
+          "গ": "তারা পরস্পর পূরক কোণ হলে",
+          "ঘ": "তারা পরস্পর সম্পূরক কোণ হলে"
+        },
+        "question": "দুইটি কোণ কখন সর্বসম হবে?",
+        "solution": "দুইটি কোণ যদি পরিমাপে সমান হয়, তখনই তারা সর্বসম হয়। সন্নিহিত, পূরক বা সম্পূরক হলেও সর্বসম না-ও হতে পারে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488479,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488480,
+      "value": {
+        "options": {
+          "ক": "ছেদ করে",
+          "খ": "দূরত্ব সর্বত্র সমান",
+          "গ": "দৈর্ঘ্য সমান",
+          "ঘ": "কোণ উৎপন্ন করে"
+        },
+        "question": "দুইটি রেখাংশের সর্বসমতার শর্ত নিচের কোনটি?",
+        "solution": "রেখাংশসমূহ সর্বসম হতে হলে তাদের দৈর্ঘ্য অবশ্যই সমান হতে হবে। দূরত্ব বা কোণ উৎপাদনের সঙ্গে সর্বসমতার সরাসরি সম্পর্ক নেই।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488480,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488481,
+      "value": {
+        "options": {
+          "ক": "সদৃশতা",
+          "খ": "সর্বসমতা",
+          "গ": "সমতুলতা",
+          "ঘ": "পার্থক্য"
+        },
+        "question": "উপরিপাতন পদ্ধতির মাধ্যমে কী প্রমাণ করা যায়?",
+        "solution": "উপরিপাতন পদ্ধতির মাধ্যমে দুটি চিত্র একটির উপর আরেকটি স্থাপন করে তাদের সর্বসমতা যাচাই করা হয়। এটি সদৃশতা বা সামঞ্জস্যতা নয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488481,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488471,
+      "value": {
+        "options": {
+          "ক": "সদৃশ",
+          "খ": "সমান",
+          "গ": "সর্বসম",
+          "ঘ": "অসদৃশ"
+        },
+        "question": "একটি ত্রিভুজ যদি অপর একটি ত্রিভুজের হুবহু সমান হয় তবে তা কী হবে?",
+        "solution": "যখন দুটি ত্রিভুজের তিনটি বাহু ও তিনটি কোণ একে অপরের সমান হয়, তখন সেগুলিকে সর্বসম ত্রিভুজ বলা হয়। এটি অর্থ যে একে অপরের উপর স্থাপন করলে একেবারে মিলে যাবে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488471,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488483,
+      "value": {
+        "options": {
+          "ক": "দৈর্ঘ্য",
+          "খ": "প্রস্থ",
+          "গ": "উচ্চতা",
+          "ঘ": "অনুরূপ বাহু"
+        },
+        "question": "সর্বসম ত্রিভুজের কোনটি সমান?",
+        "solution": "সর্বসম ত্রিভুজে সংশ্লিষ্ট বাহু ও কোণ একে অপরের সমান হয়। তাই দৈর্ঘ্য তথা বাহুগুলো সমান হবে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488483,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488484,
+      "value": {
+        "options": {
+          "ক": "[math]120^\\circ[/math]",
+          "খ": "[math]80^\\circ[/math]",
+          "গ": "[math]150^\\circ[/math]",
+          "ঘ": "[math]90^\\circ[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math] সমবাহু ত্রিভুজের [math]D[/math], [math]BC[/math] এর মধ্যবিন্দু হলে [math]AD[/math] ও [math]BC[/math] এর সাথে উৎপন্ন কোনটি?",
+        "solution": "সমবাহু ত্রিভুজে শীর্ষ থেকে ভূমির মধ্যবিন্দুতে অঙ্কিত রেখা ভূমির উপর লম্ব হয়। তাই কোণ হবে [math]90^\\circ[/math]।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488484,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488485,
+      "value": {
+        "options": {
+          "ক": "সমান",
+          "খ": "সদৃশ",
+          "গ": "সমতুল",
+          "ঘ": "সর্বসম"
+        },
+        "question": "দুইটি ত্রিভুজের অনুরূপ দুই বাহু এবং তাদের অন্তর্ভুক্ত কোণ পরস্পর সমান হলে ত্রিভুজ দুইটি কেমন হবে?",
+        "solution": "যদি দুটি ত্রিভুজের দুই বাহু ও তাদের অন্তর্বর্তী কোণ একে অপরের সমান হয়, তবে তারা সদৃশ হবে। এটি SAS (Side-Angle-Side) সদৃশ্যতার শর্ত।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488485,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488486,
+      "value": {
+        "options": {
+          "A": "[math]AB = AC[/math]",
+          "B": "[math]AB \\ne AC[/math]",
+          "C": "[math]AB \u003E AC[/math]",
+          "D": "[math]AB \u003C AC[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math] এ [math]\\angle ABC = \\angle ACB[/math] হলে নিচের কোনটি সঠিক?",
+        "solution": "যদি দুই কোণ সমান হয়, তাহলে উক্ত কোণদ্বয়ের বিপরীত বাহুদ্বয়ও সমান হবে। তাই [math]AB = AC[/math]।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488486,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488487,
+      "value": {
+        "options": {
+          "ক": "[math]F_1 = F_2[/math]",
+          "খ": "[math]F_1 \\ne F_2[/math]",
+          "গ": "[math]F_1 \\parallel F_2[/math]",
+          "ঘ": "[math]F_1 \\cong F_2[/math]"
+        },
+        "question": "দুইটি চিত্র [math]F_1[/math] ও [math]F_2[/math] সর্বসম হলে তা কীভাবে প্রকাশ করা হয়?",
+        "solution": "দুইটি চিত্র সর্বসম হলে আমরা [math]\\cong[/math] চিহ্ন ব্যবহার করি, যার অর্থ \"congruent\"।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488487,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488488,
+      "value": {
+        "options": {
+          "ক": "৯ সে.মি.",
+          "খ": "৬ সে.মি.",
+          "গ": "৪ সে.মি.",
+          "ঘ": "৩ সে.মি."
+        },
+        "question": "সমবাহু ত্রিভুজের পরিসীমা ১৮ সে.মি. হলে প্রত্যেক বাহুর দৈর্ঘ্য কত হবে?",
+        "solution": "সমবাহু ত্রিভুজে তিনটি বাহু সমান। তাই, [math]18 \\div 3 = 6[/math] সে.মি. প্রতিটি বাহুর দৈর্ঘ্য।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488488,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488489,
+      "value": {
+        "options": {
+          "A": "[math]\\angle B = \\angle C[/math]",
+          "B": "[math]\\angle A = \\angle B[/math]",
+          "C": "[math]\\angle A = \\angle C[/math]",
+          "D": "[math]\\angle B \u003E \\angle C[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math]-এ [math]AB = AC[/math] হলে কোনটি সঠিক?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে যেসব বাহু সমান, তাদের বিপরীত কোণও সমান হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488489,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488490,
+      "value": {
+        "options": {
+          "A": "[math]30^\\circ[/math]",
+          "B": "[math]45^\\circ[/math]",
+          "C": "[math]60^\\circ[/math]",
+          "D": "[math]90^\\circ[/math]"
+        },
+        "question": "[math]\\triangle ABC \\cong \\triangle DEF[/math], [math]\\angle E = 70^\\circ[/math], [math]\\angle F = 80^\\circ[/math] হলে [math]\\angle A =[/math] কত?",
+        "solution": "ত্রিভুজের কোণসমূহের সমষ্টি [math]180^\\circ[/math]\u003Cbr\u003E। তাই [math]\\angle A = 180^\\circ - (70^\\circ + 80^\\circ) = 30^\\circ[/math]\u003Cbr\u003E। কিন্তু যেহেতু [math]\\triangle ABC \\cong \\triangle DEF[/math]\u003Cbr\u003E, তাই [math]\\angle A = \\angle D = 30^\\circ[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488490,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488491,
+      "value": {
+        "options": {
+          "A": "[math]55^\\circ[/math]",
+          "B": "[math]65^\\circ[/math]",
+          "C": "[math]50^\\circ[/math]",
+          "D": "[math]60^\\circ[/math]"
+        },
+        "question": "[math]\\triangle PQR[/math] ত্রিভুজে, [math]PQ = PR[/math] এবং [math]\\angle Q = 65^\\circ[/math] হলে [math]\\angle R[/math] এর পরিমাণ কত?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে [math]PQ = PR[/math]\u003Cbr\u003E হলে [math]\\angle Q = \\angle R[/math]\u003Cbr\u003E হয়। তাই [math]\\angle R = 65^\\circ[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7775,
+      "created_at": "2025-08-21T10:19:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488491,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:19:50.000000Z",
+            "updated_at": "2025-08-21T10:19:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7775&grade=3&lesson=7776&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7775&grade=3&lesson=7776&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7775&grade=3&lesson=7776&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 43,
+  "total": 43
+}

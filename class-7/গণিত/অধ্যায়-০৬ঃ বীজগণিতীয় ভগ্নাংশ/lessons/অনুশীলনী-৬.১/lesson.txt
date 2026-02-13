@@ -1,0 +1,3523 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 486999,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{x^2 + 9x + 20}[/math] এবং [math]\\dfrac{1}{(x + 5)(x + 6)}[/math] ভগ্নাংশদ্বয়কে সাধারণ হরবিনিমিত ভগ্নাংশে প্রকাশ কর।",
+        "solution": "১ম ভগ্নাংশের হর: [math]x^2 + 9x + 20 = x^2 + 5x + 4x + 20 = (x + 5)(x + 4)[/math]\u003Cbr\u003E∴ ভগ্নাংশদ্বয়ের সাধারণ গুণিত হর (ল.সা.গু.): [math](x + 4)(x + 5)(x + 6)[/math]\u003Cbr\u003E১ম ভগ্নাংশ: [math]\\dfrac{1}{(x + 5)(x + 4)} = \\dfrac{x + 6}{(x + 4)(x + 5)(x + 6)}[/math]\u003Cbr\u003E২য় ভগ্নাংশ: $\\dfrac{1}{",
+        "explanation": "ব্যাখ্যা: প্রতিটি ডিনোমিনেটরকে গুণনীয়কে ভাঙ্গে আংশিক ভগ্নাংশ ধরলে মূলগুলোতে x বসিয়ে ধ্রুবকগুলো সহজেই পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]\\dfrac{1}{x^2+9x+20}=\\dfrac{1}{(x+4)(x+5)}=\\dfrac{A}{x+4}+\\dfrac{B}{x+5}[/math]; x=-4 থেকে [math]A=1[/math], x=-5 থেকে [math]B=-1[/math]; ফলে [math]\\dfrac{1}{x+4}-\\dfrac{1}{x+5}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\dfrac{1}{(x+5)(x+6)}=\\dfrac{C}{x+5}+\\dfrac{D}{x+6}[/math]; x=-5 থেকে [math]C=1[/math], x=-6 থেকে [math]D=-1[/math]; ফলে [math]\\dfrac{1}{x+5}-\\dfrac{1}{x+6}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486999,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486990,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{a}{8x}[/math] ও [math]\\dfrac{b}{4y}[/math] কে সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।",
+        "solution": "[math]\\text{হর 8x এবং 4y এর ল.সা.গু. = } 8xy[/math]\u003Cbr\u003E∴ [math]\\dfrac{a}{8x} = \\dfrac{a \\times y}{8x \\times y} = \\dfrac{ay}{8xy}[/math]\u003Cbr\u003Eএবং, [math]\\dfrac{b}{4y} = \\dfrac{b \\times 2x}{4y \\times 2x} = \\dfrac{2bx}{8xy}[/math]\u003Cbr\u003E∴ সমহর বিশিষ্ট ভগ্নাংশ দুটি হলো [math]\\dfrac{ay}{8xy}[/math]\u003Cbr\u003E এবং [math]\\dfrac{2bx}{8xy}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমাধান: দুই ভগ্নাংশের লঘিষ্ঠ সাধারণ হর হলো [math]8xy[/math] (কারণ [math]\\text{lcm}(8,4)=8[/math] এবং উভয় চলক [math]x,y[/math] দরকার)। তাই\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]\\frac{a}{8x}=\\frac{a\\cdot y}{8xy}[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\frac{b}{4y}=\\frac{b\\cdot 2x}{8xy}=\\frac{2bx}{8xy}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486990,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486991,
+      "value": {
+        "options": [],
+        "question": "[math]A = \\dfrac{p^2 + 5p + 6}{p + 3}[/math] ভগ্নাংশটি সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ করে [math]p + 2[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]A = \\dfrac{p^2 + 5p + 6}{p + 3} = \\dfrac{p^2 + 3p + 2p + 6}{p + 3}[/math]\u003Cbr\u003E [math]= \\dfrac{p(p + 3) + 2(p + 3)}{p + 3} = \\dfrac{(p + 3)(p + 2)}{p + 3}[/math]\u003Cbr\u003E [math]= p + 2[/math]\u003Cbr\u003Eঅতএব, [math]A[/math]\u003Cbr\u003E কে [math]p + 2[/math]\u003Cbr\u003E দ্বারা ভাগ করলে পাই, [math]\\dfrac{p + 2}{p + 2} = 1[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে গুণনীয় করে দেখলে [math]p^2+5p+6=(p+2)(p+3)[/math], অতএব [math]A=\\dfrac{(p+2)(p+3)}{p+3}=p+2[/math] (যতক্ষণ [math]p\\neq-3[/math])।  \nএখন [math]p+2[/math] দ্বারা ভাগ করলে [math]\\dfrac{A}{p+2}=\\dfrac{p+2}{p+2}=1[/math] (যতক্ষণ [math]p\\neq-2[/math])।  \nসুতরাং ফলাফল [math]1[/math], শর্তে [math]p\\neq-3,-2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486991,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486992,
+      "value": {
+        "options": [],
+        "question": "[math]A = \\dfrac{1}{x^2 + 4x}[/math] এবং [math]B = \\dfrac{1}{(x + 4)(x - 8)}[/math], যেখানে [math]A[/math] ও [math]B[/math] ভগ্নাংশদ্বয় সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।",
+        "solution": "[math]A[/math]\u003Cbr\u003E এর হর: [math]x^2 + 4x = x(x + 4)[/math]\u003Cbr\u003E [math]B[/math]\u003Cbr\u003E এর হর: [math](x + 4)(x - 8)[/math]\u003Cbr\u003E∴ সাধারণ গুণিত হর (ল.সা.গু.) = [math]x(x + 4)(x - 8)[/math]\u003Cbr\u003E∴ [math]A = \\dfrac{1}{x(x + 4)} = \\dfrac{x - 8}{x(x + 4)(x - 8)}[/math]\u003Cbr\u003E∴ [math]B = \\dfrac{1}{(x + 4)(x - 8)} = \\dfrac{x}{x(x + 4)(x - 8)}[/math]\u003Cbr\u003E∴ সমহর বিশিষ্ট ভগ্নাংশদ্বয়: [math]\\dfrac{x - 8}{x(x + 4)(x - 8)}[/math]\u003Cbr\u003E এবং [math]\\dfrac{x}{x(x + 4)(x - 8)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: ডেনোমিনেটরকে রূটগুলোয় বিভক্ত করে প্রতিটি লিনিয়ার অংশের জন্য স্থিরাভাবে ভগ্নাংশ ধরে পরামিতির মান নির্ণয় করা হয়েছে (সহজভাবে সুবিধাজনক x মান বসিয়ে)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \u003Cmath\u003EA=\\dfrac{1}{x^2+4x}=\\dfrac{1}{x(x+4)}=\\dfrac{1}{4}\\Big(\\dfrac{1}{x}-\\dfrac{1}{x+4}\\Big)\u003C/math\u003E\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \u003Cmath\u003EB=\\dfrac{1}{(x+4)(x-8)}=\\dfrac{1}{12}\\Big(\\dfrac{1}{x-8}-\\dfrac{1}{x+4}\\Big)\u003C/math\u003E",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486992,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486993,
+      "value": {
+        "options": [],
+        "question": "[math]P = \\dfrac{4m^2n - 9n^3}{4m^2n + 6mn^2}[/math] হলে [math]P[/math] এর সরলীকৃত রূপ নির্ণয় কর।",
+        "solution": "[math]P = \\dfrac{n(4m^2 - 9n^2)}{2mn(2m + 3n)}[/math]\u003Cbr\u003E= [math]\\dfrac{n((2m)^2 - (3n)^2)}{2mn(2m + 3n)}[/math]\u003Cbr\u003E= [math]\\dfrac{n(2m + 3n)(2m - 3n)}{2mn(2m + 3n)}[/math]\u003Cbr\u003E= [math]\\dfrac{2m - 3n}{2m}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: সংখ্যককে এবং হরকে সাধারণ গুণিয়ে বের করলে [math]P=\\dfrac{n(2m-3n)(2m+3n)}{2mn(2m+3n)}[/math] পাওয়া যায়। সাধারণ গুণক [math]2m+3n[/math] এবং [math]n[/math] কেটে দিলে চলে। তাই (m ও n শূন্য নয় ধরে) [math]P=\\dfrac{2m-3n}{2m}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486993,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487014,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{4y^2 - 25}[/math] ভগ্নাংশটির হরকে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]4y^2 - 25 = (2y)^2 - (5)^2[/math]\u003Cbr\u003E= [math](2y - 5)(2y + 5)[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমাধান: [math]\\dfrac{1}{4y^2-25}=\\dfrac{1}{(2y-5)(2y+5)}[/math] কারণ [math]4y^2=(2y)^2[/math] এবং [math]25=5^2[/math], তাই পার্থক্য-স্কোয়ারের সূত্র [math]a^2-b^2=(a-b)(a+b)[math] প্রয়োগ করলে বিভাজ্যকটি [math](2y-5)(2y+5)[/math] হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487014,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487015,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{3a^2 + 11a + 6}[/math] ভগ্নাংশটির হরকে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]3a^2 + 11a + 6 = 3a^2 + 9a + 2a + 6[/math]\u003Cbr\u003E [math]= 3a(a + 3) + 2(a + 3)[/math]\u003Cbr\u003E [math]= (3a + 2)(a + 3)[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: গুণফল [math]3×6=18[/math] এবং যোগফল 11 হয় এমন 9 ও 2 ব্যবহার করে ধাপে-বিভক্ত করলে [math]3a^2+11a+6=3a^2+9a+2a+6=3a(a+3)+2(a+3)=(3a+2)(a+3)[/math]. তাই ভগ্নাংশটি প্রকাশ হয় [math]\\dfrac{1}{(3a+2)(a+3)}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487015,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487016,
+      "value": {
+        "options": {
+          "ক": "[math](a ^ 2)/(bc)[/math]",
+          "খ": "[math](ac)/b[/math]",
+          "গ": "[math](a ^ 3)/(b ^ 2)[/math]",
+          "ঘ": "[math](ac)/(bc)[/math]"
+        },
+        "question": "a/b এর সমতুল ভগ্নাংশ নিচের কোনটি?",
+        "solution": "[math](ac)/(bc)[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487016,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487017,
+      "value": {
+        "options": {
+          "ক": "প্রকৃত",
+          "খ": "অপ্রকৃত",
+          "গ": "মিশ্র",
+          "ঘ": "জটিল"
+        },
+        "question": "[math]\\frac{5 x}{5 x^{2}+7}[/math] কি ধরনের ভগ্নাংশ?",
+        "solution": "যে ভংগ্নাশের হর লবের চেয়ে বড় হয়, তাই প্রকৃত ভংগ্নাংশ। এখানে লব 5x, যা হর [math]{5 x^{2}+7}[/math] অপেক্ষা ছোট।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487017,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487018,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a^{2}}{b c}[/math]",
+          "খ": "[math]\\frac{a c}{b}[/math]",
+          "গ": "[math]\\frac{a^{3}}{b^{2}}[/math]",
+          "ঘ": "[math]\\frac{a c}{b c}[/math]"
+        },
+        "question": "[math]\\frac{a}{b}[/math]এর সমতুল ভগ্নাংশ নিচের কোনটি?",
+        "solution": "[math]\\frac{a c}{b c}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487018,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487019,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x+5}{x+4}[/math]",
+          "খ": "[math]\\frac{x+5}{x-3}[/math]",
+          "গ": "[math]\\frac{x-3}{x-4}[/math]",
+          "ঘ": "[math]\\frac{x-3}{x+4}[/math]"
+        },
+        "question": "[math]\\frac{x^{2}+2 x-15}{x^{2}+9 x+20}[/math] একটি ভগ্নাংশ। এর সমতুল ভগ্নাংশ কোনটি?",
+        "solution": "[math]\\frac{x^{2}+2 x-15}{x^{2}+9 x+20}=\\frac{x^{2}+5 x-3 x-15}{x^{2}+5 x+4 x+20}=\\frac{x(x+5)-3(x+5)}{x(x+5)+4(x+5)}[/math]\u003Cbr\u003E= [math]\\frac{(x+5)(x-3)}{(x+5)(x+4)}=\\frac{x-3}{x+4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487019,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486994,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{x^2 - 1}[/math] এবং [math]\\dfrac{1}{x^2 + 2x + 1}[/math] ভগ্নাংশদ্বয় সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।",
+        "solution": "[math]x^2 - 1 = (x - 1)(x + 1)[/math]\u003Cbr\u003E [math]x^2 + 2x + 1 = (x + 1)^2[/math]\u003Cbr\u003E∴ সাধারণ গুণিত হর (ল.সা.গু.) = [math](x - 1)(x + 1)^2[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{(x - 1)(x + 1)} = \\dfrac{x + 1}{(x - 1)(x + 1)^2}[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{(x + 1)^2} = \\dfrac{x - 1}{(x - 1)(x + 1)^2}[/math]\u003Cbr\u003E∴ সমহর বিশিষ্ট ভগ্নাংশদ্বয়: [math]\\dfrac{x + 1}{(x - 1)(x + 1)^2}[/math]\u003Cbr\u003E এবং [math]\\dfrac{x - 1}{(x - 1)(x + 1)^2}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: দুইটি ভগ্নাংশকে পার্শ্বধারী ভগ্নাংশে লিখে অজ্ঞাত ধ্রুবকগুলো নির্ণয় করা হল।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]\\dfrac{1}{x^2-1}=\\dfrac{A}{x-1}+\\dfrac{B}{x+1}[/math] ধরা হলে [math]A(x+1)+B(x-1)=1[/math] থেকে [math]A+B=0,\\;A-B=1[/math] হয়; সমাধানে [math]A=\\tfrac{1}{2},\\;B=-\\tfrac{1}{2}[/math], ফলে [math]\\dfrac{1}{x^2-1}=\\tfrac{1}{2}\\Big(\\dfrac{1}{x-1}-\\dfrac{1}{x+1}\\Big)[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\dfrac{1}{x^2+2x+1}=\\dfrac{1}{(x+1)^2}=\\dfrac{A}{x+1}+\\dfrac{B}{(x+1)^2}[/math] হলে [math]A(x+1)+B=1[/math], x-ঘাতের সহগ থেকে [math]A=0[/math] এবং তাই [math]B=1[/math]; ফলে এটি ইতিমধ্যে অংশীয় ভগ্নাংশে [math]\\dfrac{1}{(x+1)^2}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486994,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486995,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{x^2 - 4x}[/math] এবং [math]\\dfrac{1}{x^2 - 2x - 8}[/math] ভগ্নাংশদ্বয় সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।",
+        "solution": "[math]x^2 - 4x = x(x - 4)[/math]\u003Cbr\u003E [math]x^2 - 2x - 8 = (x - 4)(x + 2)[/math]\u003Cbr\u003E∴ সাধারণ গুণিত হর (ল.সা.গু.) = [math]x(x - 4)(x + 2)[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{x(x - 4)} = \\dfrac{x + 2}{x(x - 4)(x + 2)}[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{(x - 4)(x + 2)} = \\dfrac{x}{x(x - 4)(x + 2)}[/math]\u003Cbr\u003E∴ সমহর বিশিষ্ট ভগ্নাংশদ্বয়: [math]\\dfrac{x + 2}{x(x - 4)(x + 2)}[/math]\u003Cbr\u003E এবং [math]\\dfrac{x}{x(x - 4)(x + 2)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রথম ভগ্নাংশের হরঃ [math]x^2-4x=x(x-4)[/math] এবং ধরে নিই [math]\\frac{1}{x(x-4)}=\\frac{A}{x}+\\frac{B}{x-4}[/math]; ফলে [math]1=A(x-4)+Bx[/math], রেখে [math]x=0\\Rightarrow A=-\\tfrac{1}{4},\\; x=4\\Rightarrow B=\\tfrac{1}{4}[/math], তাই [math]\\frac{1}{x^2-4x}=\\frac{1}{4}\\Big(\\frac{1}{x-4}-\\frac{1}{x}\\Big)[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিতীয় ভগ্নাংশের হরঃ [math]x^2-2x-8=(x-4)(x+2)[/math] এবং ধরে নিই [math]\\frac{1}{(x-4)(x+2)}=\\frac{A}{x-4}+\\frac{B}{x+2}[/math]; ফলে [math]1=A(x+2)+B(x-4)[/math], রেখে [math]x=4\\Rightarrow A=\\tfrac{1}{6},\\; x=-2\\Rightarrow B=-\\tfrac{1}{6}[/math], তাই [math]\\frac{1}{x^2-2x-8}=\\frac{1}{6}\\Big(\\frac{1}{x-4}-\\frac{1}{x+2}\\Big)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486995,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486996,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{x^2 - 6x + 9}[/math] এবং [math]\\dfrac{1}{x^2 - 9}[/math] ভগ্নাংশদ্বয় সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।",
+        "solution": "[math]x^2 - 6x + 9 = (x - 3)^2[/math]\u003Cbr\u003E [math]x^2 - 9 = (x - 3)(x + 3)[/math]\u003Cbr\u003E∴ সাধারণ গুণিত হর (ল.সা.গু.) = [math](x - 3)^2(x + 3)[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{(x - 3)^2} = \\dfrac{x + 3}{(x - 3)^2(x + 3)}[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{(x - 3)(x + 3)} = \\dfrac{x - 3}{(x - 3)^2(x + 3)}[/math]\u003Cbr\u003E∴ সমহর বিশিষ্ট ভগ্নাংশদ্বয়: [math]\\dfrac{x + 3}{(x - 3)^2(x + 3)}[/math]\u003Cbr\u003E এবং [math]\\dfrac{x - 3}{(x - 3)^2(x + 3)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E কারণ [math]x^2-6x+9=(x-3)^2[/math], ধরা যাক [math]\\dfrac{1}{(x-3)^2}=\\dfrac{A}{x-3}+\\dfrac{B}{(x-3)^2}[/math]; গুণ করলে [math]1=A(x-3)+B[/math] থেকে [math]A=0,\\;B=1[/math], ফলে [math]\\dfrac{1}{x^2-6x+9}=\\dfrac{1}{(x-3)^2}[/math].  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কারণ [math]x^2-9=(x-3)(x+3)[/math], ধরা যাক [math]\\dfrac{1}{(x-3)(x+3)}=\\dfrac{A}{x-3}+\\dfrac{B}{x+3}[/math]; গুণ করলে [math]1=(A+B)x+3(A-B)[/math] থেকে [math]A+B=0,\\;3(A-B)=1[/math] এবং তাই [math]A=\\tfrac{1}{6},\\;B=-\\tfrac{1}{6}\u003C/math\u003E, ফলে [math]\\dfrac{1}{x^2-9}=\\tfrac{1}{6}\\Big(\\dfrac{1}{x-3}-\\dfrac{1}{x+3}\\Big)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486996,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486997,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{3a - 2}[/math] এবং [math]\\dfrac{1}{9a^2 - 4}[/math] ভগ্নাংশদ্বয় সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।",
+        "solution": "১ম ভগ্নাংশের হর = [math]3a - 2[/math]\u003Cbr\u003E২য় ভগ্নাংশের হর = [math]9a^2 - 4 = (3a)^2 - 2^2 = (3a + 2)(3a - 2)[/math]\u003Cbr\u003E∴ সাধারণ গুণিত হর (ল.সা.গু.) = [math](3a + 2)(3a - 2)[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{3a - 2} = \\dfrac{3a + 2}{(3a + 2)(3a - 2)}[/math]\u003Cbr\u003Eএবং, [math]\\dfrac{1}{9a^2 - 4} = \\dfrac{1}{(3a + 2)(3a - 2)}[/math]\u003Cbr\u003E∴ সমহর বিশিষ্ট ভগ্নাংশ দুটি হলো [math]\\dfrac{3a + 2}{(3a + 2)(3a - 2)}[/math]\u003Cbr\u003E এবং [math]\\dfrac{1}{(3a + 2)(3a - 2)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: কারণ [math]9a^2-4=(3a-2)(3a+2)[/math], আমরা [math]\\dfrac{1}{3a-2}=\\dfrac{3a+2}{(3a-2)(3a+2)}=\\dfrac{3a+2}{9a^2-4}[/math] লিখতে পারি, এবং [math]\\dfrac{1}{9a^2-4}[/math] ইতিমধ্যেই সেই সমহর (একই হার) ভগ্নাংশ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486997,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486998,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{x^2 + 9x + 20}[/math] এবং [math]\\dfrac{1}{(x + 5)(x + 6)}[/math] ভগ্নাংশদ্বয় সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।",
+        "solution": "১ম ভগ্নাংশের হর: [math]x^2 + 9x + 20 = x^2 + 5x + 4x + 20 = (x + 5)(x + 4)[/math]\u003Cbr\u003E∴ উভয় ভগ্নাংশের সাধারণ গুণিত হর (ল.সা.গু.) = [math](x + 4)(x + 5)(x + 6)[/math]\u003Cbr\u003E∴ ১ম ভগ্নাংশ: [math]\\dfrac{1}{(x + 5)(x + 4)} = \\dfrac{x + 6}{(x + 4)(x + 5)(x + 6)}[/math]\u003Cbr\u003E∴ ২য় ভগ্নাংশ: [math]\\dfrac{1}{(x + 5)(x + 6)} = \\dfrac{x + 4}{(x + 4)(x + 5)(x + 6)}[/math]\u003Cbr\u003E∴ সমহর বিশিষ্ট ভগ্নাংশদ্বয়: [math]\\dfrac{x + 6}{(x + 4)(x + 5)(x + 6)}[/math]\u003Cbr\u003E এবং [math]\\dfrac{x + 4}{(x + 4)(x + 5)(x + 6)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: সমানরূপ ভগ্নাংশে লিখতে প্রতি ভগ্নাংশকে গুণোত্তর বর্গশূন্যাংশে ভেঙে ধ্রুবক নির্ণয় করা হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রথমটি ফ্যাক্টর করলে [math]x^2+9x+20=(x+4)(x+5)[/math], ধরে নিই [math]\\frac{1}{(x+4)(x+5)}=\\frac{A}{x+4}+\\frac{B}{x+5}[/math]; গুণ করলে [math]1=A(x+5)+B(x+4)[/math], [math]x=-4[/math] দিলে [math]A=1[/math] এবং [math]x=-5[/math] দিলে [math]B=-1[/math], ফলে [math]\\frac{1}{(x+4)(x+5)}=\\frac{1}{x+4}-\\frac{1}{x+5}[/math].  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিতীয়টি ধরে নিই [math]\\frac{1}{(x+5)(x+6)}=\\frac{C}{x+5}+\\frac{D}{x+6}[/math]; সমানভাবে [math]1=C(x+6)+D(x+5)[/math], [math]x=-5[/math] থেকে [math]C=1[/math], [math]x=-6[/math] থেকে [math]D=-1[/math], ফলে [math]\\frac{1}{(x+5)(x+6)}=\\frac{1}{x+5}-\\frac{1}{x+6}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486998,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487000,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{x^2 + 4x + 3}{x^2 + 5x + 6}[/math] ভগ্নাংশটি যথাসম্ভব সরল কর।",
+        "solution": "উপরে ভগ্নাংশ: [math]\\dfrac{(x + 3)(x + 1)}{(x + 3)(x + 2)}[/math]\u003Cbr\u003E= [math]\\dfrac{x + 1}{x + 2}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "দুটি বহুপদকে ভাগ করতে গেলে গুণনীয় করে নিলে [math]x^2+4x+3=(x+1)(x+3)[/math] এবং [math]x^2+5x+6=(x+2)(x+3)[/math]. সাধারণ গুণক [math](x+3)[/math] বাদ দিলে ভগ্নাংশ সরল হয়ে যায় [math]\\dfrac{x+1}{x+2}[/math], যেখানে মূল ভগ্নাংশের জন্য নিষেধক ছিল [math]x\\ne-3,-2[/math] (বিশেষ করে [math]x=-3[/math] একটি removable discontinuity)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487000,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487001,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{x^2 + 7x + 12}{x^2 - x - 12}[/math] ভগ্নাংশটি যথাসম্ভব সরল কর।",
+        "solution": "উপরে ভগ্নাংশ: [math]\\dfrac{(x + 3)(x + 4)}{(x + 4)(x - 3)}[/math]\u003Cbr\u003E= [math]\\dfrac{x + 3}{x - 3}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: গুণনীয় করে নিলে [math]x^2+7x+12=(x+3)(x+4)[/math] এবং [math]x^2-x-12=(x-4)(x+3)[/math] হয়, সেজন্য সাধারণ গুণক [math](x+3)[/math] বাতিল করে ভগ্নাংশটি সরল হয়ে [math]\\dfrac{x+4}{x-4}[/math] হয়। মূল ভগ্নাংশে ভাগান্তর অসংজ্ঞায়িত হওয়ায় [math]x\\neq -3[/math] এবং [math]x\\neq 4[/math] রাখতে হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487001,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487002,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{a^3 + 4a^2 + 4a}{a^2b - 4b}[/math] ভগ্নাংশটি যথাসম্ভব সরল করে [math]b/a[/math] দ্বারা গুণ কর।",
+        "solution": "উপরে ভগ্নাংশ: [math]\\dfrac{a(a^2 + 4a + 4)}{b(a^2 - 4)}[/math]\u003Cbr\u003E= [math]\\dfrac{a(a + 2)^2}{b(a - 2)(a + 2)}[/math]\u003Cbr\u003E= [math]\\dfrac{a(a + 2)}{b(a - 2)}[/math]\u003Cbr\u003Eএখন [math]b/a[/math]\u003Cbr\u003E দ্বারা গুণ করলে পাই:[math]\\dfrac{a(a + 2)}{b(a - 2)} \\times \\dfrac{b}{a} = \\dfrac{a + 2}{a - 2}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: প্রথমে গুণকের রূপে লিখি: [math]a^3+4a^2+4a=a(a+2)^2[/math] এবং [math]a^2b-4b=b(a^2-4)=b(a-2)(a+2)[/math]. তাই ভগ্নাংশটি ও [math]b/a[/math] দিয়ে গুণ করলে পাওয়া যায় [math]\\frac{a(a+2)^2}{b(a-2)(a+2)}\\times\\frac{b}{a}[/math], যা সাধারণ গুণকগুলো কেটে [math]\\frac{a+2}{a-2}[/math] হয় (শর্ত: [math]a\\neq0,\\pm2[/math] ও [math]b\\neq0[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487002,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487003,
+      "value": {
+        "options": [],
+        "question": "ভগ্নাংশ [math]\\dfrac{a}{b}[/math] এর দুটি সমতুল ভগ্নাংশ নির্ণয় কর যেখানে ১ম ও ২য় ভগ্নাংশে লব ও হর উভয়ের গুণনীয়ক যথাক্রমে [math]a[/math] ও [math]b[/math]।",
+        "solution": "গুণনীয়ক বিশিষ্ট [math]\\dfrac{a}{b}[/math]\u003Cbr\u003E ভগ্নাংশের সমতুল ভগ্নাংশ =[math]\\dfrac{a \\cdot a}{b \\cdot a} = \\dfrac{aa}{ab}[/math]\u003Cbr\u003E (Ans.)[math]b[/math]\u003Cbr\u003E গুণনীয়ক বিশিষ্ট [math]\\dfrac{a}{b}[/math]\u003Cbr\u003E ভগ্নাংশের সমতুল ভগ্নাংশ =[math]\\dfrac{a \\cdot b}{b \\cdot b} = \\dfrac{ab}{b^2}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: ভগ্নাংশের উভয়াংশকে একই অদ্যাবকাশে গুণ করলে ভগ্নাংশের মান অপরিবর্তিত থাকে, তাই\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]\\dfrac{a\\cdot a}{b\\cdot a}=[/math] [math]\\dfrac{a^2}{ab}[/math],  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]\\dfrac{a\\cdot b}{b\\cdot b}=[/math] [math]\\dfrac{ab}{b^2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487003,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487004,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 - 4x - 5[/math] ও [math]x^2 - 2x - 3[/math] কোন ভগ্নাংশের রূপে প্রকাশ করলে তাদের বিয়োজনের সরলীকৃত মান নির্ণয় কর।",
+        "solution": "ভগ্নাংশটি: [math]\\dfrac{x^2 - 4x - 5}{x^2 - 2x - 3} - \\dfrac{x^2 - 5x + x - 5}{x^2 - 3x + x - 3}[/math]\u003Cbr\u003E= [math]\\dfrac{(x - 5)(x + 1)}{(x - 3)(x + 1)} - \\dfrac{(x - 5)(x + 1)}{(x - 3)(x + 1)}[/math]\u003Cbr\u003E= [math]\\dfrac{x - 5}{x - 3}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "প্রথমে প্রতিটি বহুপদকে গুণনীয়তে ভাঙো: [math]x^2-4x-5=(x-5)(x+1)[/math] এবং [math]x^2-2x-3=(x-3)(x+1)[/math]. তাই তাদের ভগ্নাংশের বিয়োজন হলে কমন হার নিয়ে, [math]\\frac{1}{(x-5)(x+1)}-\\frac{1}{(x-3)(x+1)}=\\frac{(x-3)-(x-5)}{(x-5)(x-3)(x+1)}=\\frac{2}{(x-5)(x-3)(x+1)}[/math], যা সরলীকৃত ফল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487004,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487005,
+      "value": {
+        "options": [],
+        "question": "ভগ্নাংশ [math]\\dfrac{4}{5}[/math] এর একটি সমতুল ভগ্নাংশ [math]\\dfrac{a^2}{80}[/math] হলে [math]a[/math] এর মান নির্ণয় কর।",
+        "solution": "সমতুল ভগ্নাংশের শর্তানুসারে,[math]\\dfrac{a^2}{80} = \\dfrac{4}{5}[/math]\u003Cbr\u003Eবা, [math]a^2 = \\dfrac{4}{5} \\times 80[/math]\u003Cbr\u003Eবা, [math]a^2 = 64[/math]\u003Cbr\u003E∴ [math]a = \\pm 8[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমীকরণটি সমতুল্য হওয়ায় [math]\\dfrac{4}{5}=\\dfrac{a^2}{80}[/math]. ক্রস-বহুগুণ করলে [math]4\\times80=5a^2[/math] → [math]a^2=64[/math], তাই [math]a=\\pm8[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487005,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487006,
+      "value": {
+        "options": [],
+        "question": "[math]M = \\dfrac{a^2 - 4a - 5}{a^2 - 9}[/math] এবং [math]N = \\dfrac{2}{3}[/math] সমতুল ভগ্নাংশ হলে [math]a[/math] এর মান নির্ণয় কর।",
+        "solution": "সমাধান: [math]M = N[/math]\u003Cbr\u003E হলে,[math]\\dfrac{a^2 - 4a - 5}{a^2 - 9} = \\dfrac{2}{3}[/math]\u003Cbr\u003Eবা, [math]3(a^2 - 4a - 5) = 2(a^2 - 9)[/math]\u003Cbr\u003Eবা, [math]3a^2 - 12a - 15 = 2a^2 - 18[/math]\u003Cbr\u003Eবা, [math]3a^2 - 12a - 15 - 2a^2 + 18 = 0[/math]\u003Cbr\u003Eবা, [math]a^2 - 12a + 3 = 0[/math]\u003Cbr\u003E∴ [math]a = \\dfrac{12 \\pm \\sqrt{144 - 12}}{2} = \\dfrac{12 \\pm \\sqrt{132}}{2}[/math]\u003Cbr\u003E∴ [math]a = \\dfrac{12 \\pm 2\\sqrt{33}}{2} = 6 \\pm \\sqrt{33}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "প্রথমে সমান করুন: [math]\\dfrac{a^2-4a-5}{a^2-9}=\\dfrac{2}{3}[/math] এবং ক্রস-মাল্টিপ্লাই করলে পাওয়া যায় [math]3(a^2-4a-5)=2(a^2-9)[/math], যা সরল করলে [math]a^2-12a+3=0[/math] হয়। এই সমীকরণ থেকে [math]a=6\\pm\\sqrt{33}[/math] পাওয়া যায়; বিশেষ করে বিভাজক শূন্য না হওয়ার জন্য [math]a\\neq\\pm3[/math], এবং আমাদের দুটি মানই ±3 নয়, তাই সেগুলো গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487006,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487007,
+      "value": {
+        "options": [],
+        "question": "[math]M = \\dfrac{5}{6}[/math] এবং [math]N = \\dfrac{10}{a^2 + 3}[/math] দুটি সমতুল ভগ্নাংশ হলে [math]a[/math] এর মান নির্ধারণ কর।",
+        "solution": "সমাধান: [math]M[/math]\u003Cbr\u003E ও [math]N[/math]\u003Cbr\u003E পরস্পর সমতুল হলে, [math]M = N[/math]\u003Cbr\u003E [math]\\dfrac{5}{6} = \\dfrac{10}{a^2 + 3}[/math]\u003Cbr\u003Eবা, [math]\\dfrac{5}{6} = \\dfrac{10}{a^2 + 3}[/math]\u003Cbr\u003Eবা, [math]a^2 + 3 = \\dfrac{10 \\times 6}{5}[/math]\u003Cbr\u003Eবা, [math]a^2 + 3 = 12[/math]\u003Cbr\u003Eবা, [math]a^2 = 9[/math]\u003Cbr\u003E∴ [math]a = \\pm 3[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমাধান: সমতুল হলে [math]\\dfrac{5}{6}=\\dfrac{10}{a^2+3}[/math]। ক্রস-মাল্টিপ্লাই করলে [math]5(a^2+3)=60[/math], তাই [math]a^2+3=12[/math] এবং [math]a^2=9[/math] থেকে [math]a=\\pm 3[/math]; অসংখ্যক [math]a^2+3[/math] সব সময় ধনাত্মক হওয়ায় উভয় মান গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487007,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487008,
+      "value": {
+        "options": [],
+        "question": "[math]M = \\dfrac{3}{a + 2}[/math] এবং [math]N = \\dfrac{a + 3}{24}[/math] দুটি সমতুল ভগ্নাংশ হলে [math]a[/math] এর মান নির্ধারণ কর।",
+        "solution": "সমাধান: [math]M[/math]\u003Cbr\u003E ও [math]N[/math]\u003Cbr\u003E সমতুল হলে [math]M = N[/math]\u003Cbr\u003E [math]\\dfrac{3}{a + 2} = \\dfrac{a + 3}{24}[/math]\u003Cbr\u003Eবা, [math](a + 2)(a + 3) = 72[/math]\u003Cbr\u003Eবা, [math]a^2 + 5a + 6 = 72[/math]\u003Cbr\u003Eবা, [math]a^2 + 5a - 66 = 0[/math]\u003Cbr\u003Eবা, [math]a^2 + 11a - 6a - 66 = 0[/math]\u003Cbr\u003Eবা, [math]a(a + 11) - 6(a + 11) = 0[/math]\u003Cbr\u003Eবা, [math](a + 11)(a - 6) = 0[/math]\u003Cbr\u003E∴ [math]a = -11[/math]\u003Cbr\u003E, [math]a = 6[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমতুল ভগ্নাংশ হলে [math]\\dfrac{3}{a+2}=\\dfrac{a+3}{24}[/math] হবে; ক্রস-গুণ করলে [math]3\\cdot24=(a+2)(a+3)[/math] থেকে [math]72=a^2+5a+6[/math] এবং [math]a^2+5a-66=0[/math] পাওয়া যায়। সমাধান করলে [math]a=\\dfrac{-5\\pm17}{2}[/math] থেকে [math]a=6[/math] বা [math]a=-11[/math] (এবং [math]a\\ne -2[/math] হওয়া দরকার), তাই উভয় মান গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487008,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487009,
+      "value": {
+        "options": [],
+        "question": "[math]P = \\dfrac{a^3 - 3}{8}[/math] এবং [math]Q = \\dfrac{25}{40}[/math] দুটি সমতুল ভগ্নাংশ হলে [math]a[/math] এর মান নির্ধারণ কর।",
+        "solution": "সমাধান: [math]P[/math]\u003Cbr\u003E ও [math]Q[/math]\u003Cbr\u003E সমতুল ভগ্নাংশ হলে [math]P = Q[/math]\u003Cbr\u003E [math]\\dfrac{a^3 - 3}{8} = \\dfrac{25}{40}[/math]\u003Cbr\u003Eবা, [math]a^3 - 3 = \\dfrac{25 \\times 8}{40}[/math]\u003Cbr\u003Eবা, [math]a^3 - 3 = 5[/math]\u003Cbr\u003Eবা, [math]a^3 = 8[/math]\u003Cbr\u003Eবা, [math]a = 2[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: সমতুল ভগ্নাংশ হলে মান সমান, তাই [math]\\dfrac{a^3-3}{8}=\\dfrac{25}{40}[/math] এবং [math]\\dfrac{25}{40}=\\dfrac{5}{8}[/math]. এতে [math]a^3-3=5\\Rightarrow a^3=8\\Rightarrow a=2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487009,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487010,
+      "value": {
+        "options": [],
+        "question": "[math]P = \\dfrac{2a^2 + 5a - 3}{a^2 - 1}[/math] এবং [math]Q = \\dfrac{14}{3}[/math] দুটি সমতুল ভগ্নাংশ হলে [math]a[/math] এর মান নির্ণয় কর।",
+        "solution": "সমাধান: [math]P[/math]\u003Cbr\u003E ও [math]Q[/math]\u003Cbr\u003E সমতুল হলে, [math]P = Q[/math]\u003Cbr\u003E [math]\\dfrac{2a^2 + 5a - 3}{a^2 - 1} = \\dfrac{14}{3}[/math]\u003Cbr\u003Eবা, [math]3(2a^2 + 5a - 3) = 14(a^2 - 1)[/math]\u003Cbr\u003Eবা, [math]6a^2 + 15a - 9 = 14a^2 - 14[/math]\u003Cbr\u003Eবা, [math]6a^2 + 15a - 9 - 14a^2 + 14 = 0[/math]\u003Cbr\u003Eবা, [math]-8a^2 + 15a + 5 = 0[/math]\u003Cbr\u003E∴ [math]8a^2 - 15a - 5 = 0[/math]\u003Cbr\u003E∴ [math]a = \\dfrac{15 \\pm \\sqrt{(-15)^2 - 4 \\cdot 8 \\cdot (-5)}}{2 \\cdot 8}[/math]\u003Cbr\u003E∴ [math]a = \\dfrac{15 \\pm \\sqrt{225 + 160}}{16} = \\dfrac{15 \\pm \\sqrt{385}}{16}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমাধান: সমতুল ভগ্নাংশ হলে [math]\\dfrac{2a^2+5a-3}{a^2-1}=\\dfrac{14}{3}[/math] এবং ক্রস-মাল্টিপ্লাই করে পাই [math]3(2a^2+5a-3)=14(a^2-1)[/math] যা সরল করলে [math]8a^2-15a-5=0[/math] হয়। তাই [math]a=\\dfrac{15\\pm\\sqrt{385}}{16}[/math] এবং অগ্রহণযোগ্য মান [math]a=\\pm1[/math] (হারকরা denominators শূন্য করে) এখানে নয়, তাই উক্ত দুটি মানই বৈধ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487010,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487011,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{9 + 8x^2 + 16x^4}[/math] ভগ্নাংশটির হরকে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]A[/math]\u003Cbr\u003E এর হর = [math]9 + 8x^2 + 16x^4[/math]\u003Cbr\u003E [math]= (3)^2 + 2 \\cdot 3 \\cdot 4x^2 + (4x^2)^2 = (4x^2 + 3)^2[/math]\u003Cbr\u003Eআবার, [math]= (4x^2 + 3)^2 - (4x)^2[/math]\u003Cbr\u003E [math]= (4x^2 + 3 + 4x)(4x^2 + 3 - 4x)[/math]\u003Cbr\u003E [math]= (4x^2 + 4x + 3)(4x^2 - 4x + 3)[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "একটি সহজ ধরন ধরে নেওয়া যায়: ধরে নিই [math](4x^2+px+3)(4x^2+qx+3)[/math]. গুণ করলে মধ্যবর্তী শব্দগুলো শূন্য হওয়ার শর্ত থেকে [math]p+q=0[/math] এবং সহগ থেকে [math]pq+24=8[/math] পাওয়া যায়, যা দিয়ে [math]p^2=16[/math] এবং [math]p=±4,\\;q=∓4[/math] হয়; তাই হরকে উৎপাদকে লেখা যায় [math](4x^2+4x+3)(4x^2-4x+3)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487011,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487012,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{2p^2 - 2p - 40}[/math] ভগ্নাংশটির হরকে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "ভগ্নাংশটির হর = [math]2p^2 - 2p - 40 = 2(p^2 - p - 20)[/math]\u003Cbr\u003E [math]= 2(p^2 - 5p + 4p - 20)[/math]\u003Cbr\u003E [math]= 2(p(p - 5) + 4(p - 5))[/math]\u003Cbr\u003E [math]= 2(p - 5)(p + 4)[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমাধান: প্রথমে সাধারণ গুণক বের করলে [math]2p^2-2p-40=2(p^2-p-20)[/math]. এরপর বর্গঘাত সমীকরণটি বিভাজন করলে [math]p^2-p-20=(p-5)(p+4)[/math] হয়, তাই ভগ্নাংশটি হয়ে যায় [math]\\dfrac{1}{2(p-5)(p+4)}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487012,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487013,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{1}{x^2 - 6x + 9}[/math] ভগ্নাংশটির হরকে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]x^2 - 6x + 9 = (x - 3)^2[/math]\u003Cbr\u003E∴ হর = [math](x - 3)(x - 3)[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: কারণ [math]x^2-6x+9=(x-3)^2[/math] — এটা একটি perfect square trinomial (কারণ [math]2\\cdot3=6[/math] এবং [math]3^2=9[/math]). তাই ভগ্নাংশটি হয় [math]\\dfrac{1}{(x-3)^2}[/math] (শর্ত: [math]x\\neq3[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487013,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:08.000000Z",
+            "updated_at": "2025-08-21T09:47:08.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486987,
+      "value": {
+        "options": {
+          "ক": "প্রথম ভগ্নাংশের একটি সমতুল ভগ্নাংশ নির্ণয় কর যার লব [math]x-2[/math]।",
+          "খ": "ভগ্নাংশ তিনটির হর এর ল.সা.গু. নির্ণয় করো।",
+          "গ": "ভগ্নাংশ তিনটিকে সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ করো।"
+        },
+        "question": "তিনটি বীজগণিতীয় ভগ্নাংশ: [math]\\dfrac{1}{x(x+2)},\\ \\dfrac{1}{x^2+5x+6},\\ \\dfrac{1}{x^2 - x - 6}[/math]।",
+        "solution": "ক. প্রথম ভগ্নাংশটি [math]\\dfrac{1}{x(x+2)}[/math]\u003Cbr\u003Eলব ও হর উভয়কে [math]x-2[/math]\u003Cbr\u003E দ্বারা গুণ করলে পাই,[math]\\dfrac{1}{x(x+2)} \\times \\dfrac{x-2}{x-2} = \\dfrac{x-2}{x(x+2)(x-2)} = \\dfrac{x-2}{x(x^2-4)}[/math]\u003Cbr\u003Eযা [math]x-2[/math]\u003Cbr\u003E লববিশিষ্ট প্রথম ভগ্নাংশের একটি সমতুল ভগ্নাংশ।খ. ১ম ভগ্নাংশের হর = [math]x(x+2)[/math]\u003Cbr\u003E২য় ভগ্নাংশের হর = [math]x^2+5x+6 = x^2+2x+3x+6 = x(x+2) + 3(x+2) = (x+2)(x+3)[/math]\u003Cbr\u003E৩য় ভগ্নাংশের হর = [math]x^2-x-6 = x^2-3x+2x-6 = x(x-3) + 2(x-3) = (x-3)(x+2)[/math]\u003Cbr\u003Eভগ্নাংশ তিনটির হরের ল.সা.গু = [math]x(x+2)(x+3)(x-3) = x(x+2)(x^2-9)[/math]\u003Cbr\u003E (Ans.)গ.ল.সা.গু = [math]x(x+2)(x^2-9)[/math]\u003Cbr\u003Eপ্রথম ল.সা.গু. কে প্রতিটি হর দ্বারা ভাগ করলে ভাগফল যথাক্রমে [math](x+3)(x-3)[/math]\u003Cbr\u003E, [math]x(x-3)[/math]\u003Cbr\u003E এবং [math]x(x+3)[/math]\u003Cbr\u003Eএখন,[math]\\dfrac{1}{x(x+2)} \\times \\dfrac{(x+3)(x-3)}{(x+3)(x-3)} = \\dfrac{x^2-9}{x(x+2)(x-3)(x+3)} = \\dfrac{x^2-9}{x(x+2)(x^2-9)}[/math]\u003Cbr\u003E [math]\\dfrac{1}{x^2+5x+6} \\times \\dfrac{x(x-3)}{x(x-3)} = \\dfrac{x^2-3x}{(x+2)(x+3),x(x-3)} = \\dfrac{x^2-3x}{x(x+2)(x^2-9)}[/math]\u003Cbr\u003E [math]\\dfrac{1}{x^2-x-6} \\times \\dfrac{x(x+3)}{x(x+3)} = \\dfrac{x^2+3x}{x(x-3)(x+2)(x+3)} = \\dfrac{x^2+3x}{x(x+2)(x^2-9)}[/math]\u003Cbr\u003Eঅতএব সমহর বিশিষ্ট ভগ্নাংশ তিনটি হলো:[math]\\dfrac{x^2-9}{x(x+2)(x^2-9)},\\ \\dfrac{x^2-3x}{x(x+2)(x^2-9)},\\ \\dfrac{x^2+3x}{x(x+2)(x^2-9)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রথম ভগ্নাংশকে [math]\\dfrac{x-2}{x-2}[/math] দ্বারা গুণ করলে সমতুল ভগ্নাংশ পাওয়া যায়: [math]\\dfrac{x-2}{x(x+2)(x-2)}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভাগহারগুলোকে বিশ্লেষণ করলে [math]x^2+5x+6=(x+2)(x+3)[/math] এবং [math]x^2-x-6=(x+2)(x-3)[/math]; তাই ল.সা.গু হবে [math]x(x+2)(x+3)(x-3)[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E প্রতিটি ভগ্নাংশকে ল.সা.গু নামকরণ করতে প্রয়োজনীয় ঘাতক দিয়ে গুণ করলে পাওয়া যায়: \n[math]\\dfrac{(x+3)(x-3)}{x(x+2)(x+3)(x-3)},\\quad \\dfrac{x(x-3)}{x(x+2)(x+3)(x-3)},\\quad \\dfrac{x(x+3)}{x(x+2)(x+3)(x-3)}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486987,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:07.000000Z",
+            "updated_at": "2025-08-21T09:47:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486988,
+      "value": {
+        "options": {
+          "ক": "[math]x^2 - 25y^2[/math] এর উৎপাদকে বিশ্লেষণ কর।",
+          "খ": "প্রদত্ত ভগ্নাংশের হরগুলোর ল.সা.গু. নির্ণয় কর।",
+          "গ": "২য় ও ৩য় ভগ্নাংশ দুইটিকে সমহরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।"
+        },
+        "question": "তিনটি বীজগণিতীয় ভগ্নাংশ:\n\n[math]\\dfrac{a(a-4)}{a^2+3a},\\ \\dfrac{a}{a^2+5a+6},\\ \\dfrac{a}{a^2-a-12}[/math]",
+        "solution": "ক. প্রদত্ত রাশি [math]x^2 - 25y^2 = (x)^2 - (5y)^2 = (x + 5y)(x - 5y)[/math]\u003Cbr\u003E (Ans.)খ.১ম ভগ্নাংশের হর = [math]a^2 + 3a = a(a + 3)[/math]\u003Cbr\u003E২য় ভগ্নাংশের হর = [math]a^2 + 5a + 6 = a^2 + 2a + 3a + 6 = a(a + 2) + 3(a + 2) = (a + 2)(a + 3)[/math]\u003Cbr\u003E৩য় ভগ্নাংশের হর = [math]a^2 - a - 12 = a^2 - 4a + 3a - 12 = a(a - 4) + 3(a - 4) = (a - 4)(a + 3)[/math]\u003Cbr\u003Eপ্রদত্ত রাশিগুলোর সর্বাধিক সাধারণ গুণিতকগুলোর গুণফল = [math](a + 2), (a + 3), (a - 4)[/math]\u003Cbr\u003Eনির্ণীত ল.সা.গু. = [math]a(a + 2)(a + 3)(a - 4)[/math]\u003Cbr\u003E (Ans.)গ.২য় ভগ্নাংশ = [math]\\dfrac{a}{a^2 + 5a + 6} = \\dfrac{a}{(a + 2)(a + 3)}[/math]\u003Cbr\u003E৩য় ভগ্নাংশ = [math]\\dfrac{a}{a^2 - a - 12} = \\dfrac{a}{(a - 4)(a + 3)}[/math]\u003Cbr\u003E২য় ও ৩য় ভগ্নাংশের হরের ল.সা.গু. = [math](a + 2)(a + 3)(a - 4)[/math]\u003Cbr\u003Eএখন,২য় ভগ্নাংশ = [math]\\dfrac{a}{(a + 2)(a + 3)} \\times \\dfrac{a - 4}{a - 4} = \\dfrac{a(a - 4)}{(a + 2)(a + 3)(a - 4)}[/math]\u003Cbr\u003E৩য় ভগ্নাংশ = [math]\\dfrac{a}{(a - 4)(a + 3)} \\times \\dfrac{a + 2}{a + 2} = \\dfrac{a(a + 2)}{(a + 2)(a + 3)(a - 4)}[/math]\u003Cbr\u003Eঅতএব সমহরবিশিষ্ট ভগ্নাংশ দুটি হলো:[math]\\dfrac{a(a - 4)}{(a + 2)(a + 3)(a - 4)},\\quad \\dfrac{a(a + 2)}{(a + 2)(a + 3)(a - 4)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]x^2-25y^2[/math] একটি পার্থক্যের বর্গ, তাই এটি বিশ্লেষণ করা যায়: [math](x-5y)(x+5y)[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E হারগুলোর এগুলি বিভাজ্য: [math]a^2+3a=a(a+3),\\;a^2+5a+6=(a+2)(a+3),\\;a^2-a-12=(a+3)(a-4)[/math]; অতএব ল.সা.গু. হলো [math]a(a+2)(a+3)(a-4)[/math] (শর্ত: [math]a\\neq0,-2,-3,4[/math])।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সাধারণ বাদামালার সাথে আনুপাতিক করার জন্য ২য়টি [math]\\times\\dfrac{a(a-4)}{a(a-4)}[/math] ও ৩য়টি [math]\\times\\dfrac{a(a+2)}{a(a+2)}[/math] করলে সমহরবিশিষ্ট ভগ্নাংশ পাওয়া যায়: ২য় = [math]\\dfrac{a^2(a-4)}{a(a+2)(a+3)(a-4)}[/math], ৩য় = [math]\\dfrac{a^2(a+2)}{a(a+2)(a+3)(a-4)}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486988,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:07.000000Z",
+            "updated_at": "2025-08-21T09:47:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486989,
+      "value": {
+        "options": {
+          "ক": "১ম ভগ্নাংশকে লঘুকরণ কর।",
+          "খ": "ভগ্নাংশ তিনটি সমতুল কিনা যাচাই কর।",
+          "গ": "ভগ্নাংশ তিনটিকে সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ কর।"
+        },
+        "question": "তিনটি বীজগণিতীয় রাশি:\n\n[math]\\dfrac{x^2 + x}{xy + y},\\quad \\dfrac{x y^2}{x y^2 z^2},\\quad \\dfrac{x y^3}{x^2 z^2 (x - 1)}[/math]",
+        "solution": "ক. ১ম ভগ্নাংশকে লঘুকরণ করপ্রথম ভগ্নাংশ: [math]\\frac{x^2 + x}{xy + y}[/math]\u003Cbr\u003Eলব: [math]x^2 + x = x(x + 1)[/math]\u003Cbr\u003Eহর: [math]xy + y = y(x + 1)[/math]\u003Cbr\u003Eঅতএব, [math]\\frac{x^2 + x}{xy + y} = \\frac{x(x + 1)}{y(x + 1)}[/math]\u003Cbr\u003Eএখানে [math](x + 1)[/math]\u003Cbr\u003E কেটে দিলে পাই [math]\\frac{x}{y}[/math]\u003Cbr\u003E।অতএব সরলীকৃত রূপ: [math]\\frac{x}{y}[/math]\u003Cbr\u003Eখ. ভগ্নাংশ তিনটি সমতুল কিনা যাচাই কর১ম ভগ্নাংশ (সরলীকৃত): [math]\\frac{x}{y}[/math]\u003Cbr\u003E২য় ভগ্নাংশ: [math]\\frac{xz^2}{yz^2(x - 1)} = \\frac{x}{y(x - 1)}[/math]\u003Cbr\u003E৩য় ভগ্নাংশ: [math]\\frac{xy^2}{y^2(x - 1)} = \\frac{x}{x - 1}[/math]\u003Cbr\u003Eকারণ [math]\\frac{x}{y} \\ne \\frac{x}{y(x - 1)} \\ne \\frac{x}{x - 1}[/math]\u003Cbr\u003E,অতএব সমতুল নয়।গ. ভগ্নাংশ তিনটিকে সমহর বিশিষ্ট ভগ্নাংশে প্রকাশ করতিনটি ভগ্নাংশ:[math]\\frac{x}{y},\\ \\frac{x}{y(x - 1)},\\ \\frac{x}{x - 1}[/math]\u003Cbr\u003Eহরের ল.সা.গু = [math]y(x - 1)[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশ: [math]\\frac{x}{y} \\times \\frac{x - 1}{x - 1} = \\frac{x(x - 1)}{y(x - 1)}[/math]\u003Cbr\u003Eদ্বিতীয় ভগ্নাংশ: [math]\\frac{x}{y(x - 1)}[/math]\u003Cbr\u003E (ইতিমধ্যেই সমহর)তৃতীয় ভগ্নাংশ: [math]\\frac{x}{x - 1} \\times \\frac{y}{y} = \\frac{xy}{y(x - 1)}[/math]\u003Cbr\u003Eসমহর বিশিষ্ট রূপ:[math]\\frac{x(x - 1)}{y(x - 1)},\\ \\frac{x}{y(x - 1)},\\ \\frac{xy}{y(x - 1)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রথম ভগ্নাংশের উভয় অংশে [math](x+1)[/math] সাধারণ আছে: [math]\\dfrac{x^2+x}{xy+y}=\\dfrac{x(x+1)}{y(x+1)}=\\dfrac{x}{y}[/math] (যদি [math]x\\neq -1[/math])।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দ্বিতীয়টি সরলীকরণে হয় [math]\\dfrac{1}{z^2}[/math] এবং তৃতীয়টি সরলীকরণে হয় [math]\\dfrac{y^3}{x z^2 (x-1)}[/math]; সাধারণভাবে [math]\\dfrac{x}{y},\\ \\dfrac{1}{z^2},\\ \\dfrac{y^3}{x z^2 (x-1)}[/math] সমতুল নয় (শুধু বিশেষভাবে পরিবর্তনশীলগুলোর নির্দিষ্ট সম্পর্ক থাকলে সমান হতে পারে)।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সাধারণ হর হিসাবে নেয়া যেতে পারে [math]x y z^2 (x-1)[/math], তখন তিনটি ভগ্নাংশ হয়  \n[math]\\dfrac{x}{y}=\\dfrac{x^2 z^2 (x-1)}{x y z^2 (x-1)},\\quad \\dfrac{1}{z^2}=\\dfrac{x y (x-1)}{x y z^2 (x-1)},\\quad \\dfrac{y^3}{x z^2 (x-1)}=\\dfrac{y^4}{x y z^2 (x-1)}.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486989,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:07.000000Z",
+            "updated_at": "2025-08-21T09:47:07.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487039,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2 a+3 b}{2 a b}[/math]",
+          "খ": "[math]\\frac{2 a-3 b}{2 a b}[/math]",
+          "গ": "[math]\\frac{2 a-3 b}{2 a}[/math]",
+          "ঘ": "[math]\\frac{3 b-2 a}{2 a}[/math]"
+        },
+        "question": "[math]\\frac{4 a^{2}-9 b^{2}}{4 a^{2} b+6 a^{2}}[/math] কে লঘিষ্ঠ আকারে প্রকাশ করলে কত হবে?",
+        "solution": "[math]\\frac{4 a^{2}-9 b^{2}}{4 a^{2} b+6 a b^{2}}[/math]\u003Cbr\u003E= [math]\\frac{(2 a)^{2}-(3 b)^{2}}{2 a b(2 a+3 b)}[/math]\u003Cbr\u003E= [math]\\frac{(2 a+3 b)(2 a-3 b)}{2 a b(2 a+3 b)}=\\frac{(2 a-3 b)}{2 a b}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{2 a-3 b}{2 a b}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487038,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x+3}{x+1}[/math]",
+          "খ": "[math]\\frac{x+3}{x-4}[/math]",
+          "গ": "[math]\\frac{x+5}{x-7}[/math]",
+          "ঘ": "[math]\\frac{x-5}{x-6}[/math]"
+        },
+        "question": "[math]\\frac{x^{2}+5 x+6}{x^{2}+3 x+2}[/math] ভগ্নাংশটির লঘিষ্ঠ আকার কোনটি?",
+        "solution": "[math]\\frac{x^{2}+5 x+6}{x^{2}+3 x+2}[/math]\u003Cbr\u003E= [math]\\frac{x^{2}+2 x+3 x+6}{x^{2}+2 x+x+2}[/math]\u003Cbr\u003E= [math]\\frac{x(x+2)+3(x+2)}{x(x+2)+1(x+2)}[/math]\u003Cbr\u003E = [math]\\frac{(x+2)(x+3)}{(x+2)(x+1)}=\\frac{x+3}{x+1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x+3}{x+1}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487037,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2+x}{6}[/math]",
+          "খ": "[math]\\frac{1}{5 a b}[/math]",
+          "গ": "[math]\\frac{1+x}{3}[/math]",
+          "ঘ": "[math]\\frac{1}{5 c}[/math]"
+        },
+        "question": "[math]\\frac{2 x^{2}+x^{2}}{6 x^{2}}[/math] এর লঘিষ্ঠ আকার নিচের কোনটি?",
+        "solution": "[math]\\frac{2 x^{2}+x^{2}}{6 x^{2}}[/math]\u003Cbr\u003E এর লঘিষ্ঠ আকার [math]\\frac{1}{5 a b}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{1}{5 a b}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487036,
+      "value": {
+        "options": {
+          "A": "[math]7 a^{2} b[/math]",
+          "B": "[math]7 a^{3}[/math]",
+          "C": "[math]-7 \\mathrm{a}^{2} \\mathrm{~b}[/math]",
+          "D": "[math]\\frac{-7 \\mathrm{a}^{2}}{\\mathrm{~b}}[/math]"
+        },
+        "question": "[math]\\frac{-35 a^{3} b}{5 a b^{2}}[/math] = কত?",
+        "solution": "[math]\\frac{-35 a^{3} b}{5 a b^{2}}[/math]\u003Cbr\u003E = [math]\\frac{-7 \\mathrm{a}^{2}}{\\mathrm{~b}}[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487035,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{4 x+1}{2 x-6}[/math]",
+          "B": "[math]\\frac{2 x+2}{x-6}[/math]",
+          "C": "[math]\\frac{6 x+3}{3 x-9}[/math]",
+          "D": "[math]\\frac{6 x+3}{x-9}[/math]"
+        },
+        "question": "[math]\\frac{a}{4}, \\frac{a}{b}, \\frac{2 x+1}{x-3}[/math] তিনটি ভগ্নাংশ\n\n৩য় ভগ্নাংশের সমতুল ভগ্নাংশ কোনটি?",
+        "solution": "[math]\\frac{6 x+3}{3 x-9}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487034,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a}{b}[/math]",
+          "B": "[math]\\frac{b}{x}[/math]",
+          "C": "[math]\\frac{4}{b}[/math]",
+          "D": "[math]\\frac{x}{y}[/math]"
+        },
+        "question": "[math]\\frac{a}{4}, \\frac{a}{b}, \\frac{2 x+1}{x-3}[/math] তিনটি ভগ্নাংশ\n\n১ম ভগ্নাংশটিকে কত দ্বারা গুণ করলে ২য় ভগ্নাংশটি পাওয়া যায়?",
+        "solution": "[math]\\frac{4}{b}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487033,
+      "value": {
+        "options": {
+          "A": "পাটিগণিত",
+          "B": "বীজগণিতীয়",
+          "C": "সমতুল",
+          "D": "সমহর বিশিষ্ট"
+        },
+        "question": "[math]\\frac{a}{4}, \\frac{a}{b}, \\frac{2 x+1}{x-3}[/math] তিনটি ভগ্নাংশ\n\n১ম ভগ্নাংশটি কী ধরনের ভগ্নাংশ?",
+        "solution": "[math]\\frac{a}{4}[/math] ভগ্নাংশটি বীজগণিতীয় ভগ্নাংশ ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487032,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "[math]\\frac{a-2}{5}[/math] ও [math]\\frac{6}{a+5}[/math] ভগ্নাংশন্বয় সমতুল হলে-\n\ni. a = - 8\n\nii. a = - 5\n\niii. a = 5\n\nনিচের কোনটি সঠিক?",
+        "solution": "a = - 8 ও a = 5 হলে [math]\\frac{a-2}{5}[/math]\u003Cbr\u003E ও [math]\\frac{6}{a+5}[/math]\u003Cbr\u003E ভগ্নাংশন্বয় সমতুল হবে। অতএব, সঠিক উত্তর হবে:i. a = -8 এবং iii. a = 5 ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487031,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "[math]\\frac{2 a^{2} b^{2}}{a b^{3}}, \\frac{2 a}{b}[/math] দুইটি বীজগণিতীয় ভগ্নাং ভগ্নাংশ হলে-\n\ni. ভগ্নাংশন্বয় পরস্পর সমতুল\n\nii. ১ম ভগ্নাংশকে [math]\\frac{1}{a b^{3}}[/math] দ্বারা ভাগ করলে [math]2 a^{2} b^{2}[/math] পাওয়া যায়\n\niii. ১ম ভগ্নাংশকে [math]a b^{3}[/math] দ্বারা গুণ করলে ২য় ভগ্নাংশটি পাওয়া যায়\n\nনিচের কোনটি সঠিক?",
+        "solution": "(iii) সঠিক নয়; কেননা [math]\\frac{2 a^{2} b^{2}}{a b^{3}} \\times a b^{3}[/math]\u003Cbr\u003E = [math]2 a^{2} b^{2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487030,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i , ii ও iii"
+        },
+        "question": "[math]\\frac{8 x}{14 y}[/math] বীজগণিতীয় ভগ্নাংশটির-\n\ni. হর 14y\n\nii. লব ৪x\n\niii. লঘিষ্ঠরূপ [math]\\frac{4 x}{7 y}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i , ii ও iii",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487029,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{b^{2}-a c}{b^{2}-1}[/math]",
+          "খ": "[math]\\frac{b-a c}{b^{2}-1}[/math]",
+          "গ": "[math]\\frac{b^{3}-a c}{b^{2}-1}[/math]",
+          "ঘ": "[math]\\frac{b-c}{b^{2}-1}[/math]"
+        },
+        "question": "[math]\\frac{b^{2}-a b c}{b^{3}-b}[/math] এর সমতুল ভগ্নাংশ কোনটি?",
+        "solution": "[math]\\frac{b^{2}-a b c}{b^{3}-b}[/math]\u003Cbr\u003E এর সমতুল ভগ্নাংশ [math]\\frac{b-a c}{b^{2}-1}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487028,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x+4}{x-4}[/math]",
+          "খ": "[math]\\frac{1}{x^{2}-16}[/math]",
+          "গ": "[math]\\frac{1}{x-4}[/math]",
+          "ঘ": "[math]\\frac{1}{x^{2}-4}[/math]"
+        },
+        "question": "[math]\\frac{x^{2}+4 x}{x^{3}-16 x}[/math] এর সমতুল ভগ্নাংশ কোনটি?",
+        "solution": "[math]\\frac{x^{2}+4 x}{x^{3}-16 x}[/math]\u003Cbr\u003E এর সমতুল ভগ্নাংশ [math]\\frac{1}{x-4}[/math]\u003Cbr\u003E হবে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487027,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "2",
+          "গ": "1",
+          "ঘ": "o"
+        },
+        "question": "[math]\\frac{3}{5 a}[/math] ভগ্নাংশটিকে নিচের কোনটি দ্বারা গুণ করলে ভগ্নাংশটির মানের পরিবর্তন হবে না?",
+        "solution": "[math]\\frac{3}{5 a}[/math] ভগ্নাংশটিকে 1 দ্বারা গুণ করলে ভগ্নাংশটির মানের পরিবর্তন হবে না।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487026,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a b c}{x y z}[/math]",
+          "খ": "[math]\\frac{a b c}{x y z}[/math]",
+          "গ": "[math]\\frac{a b z}{x y z}[/math]",
+          "ঘ": "[math]\\frac{a}{x}[/math]"
+        },
+        "question": "[math]\\frac{a b}{x y}[/math] এর সমতুল ভগ্নাংশটি নিচের কোনটি?",
+        "solution": "[math]\\frac{a b}{x y}[/math]\u003Cbr\u003E এর সমতুল ভগ্নাংশটি হলো [math]\\frac{a b z}{x y z}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487025,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x y}{x+y}[/math]",
+          "খ": "[math]\\frac{x^{2} y^{2}}{x+y}[/math]",
+          "গ": "[math]\\frac{x y}{x-y}[/math]",
+          "ঘ": "[math]\\frac{x^{2} y^{2}}{x-y}[/math]"
+        },
+        "question": "[math]\\frac{x^{3} y^{2}-y^{3} x^{2}}{x^{2}-y^{2}}[/math] এর সমতুল ভগ্নাংশ কোনটি?",
+        "solution": "[math]\\frac{x^{3} y^{2}-y^{3} x^{2}}{x^{2}-y^{2}}=\\frac{x^{2} y^{2}(x-y)}{(x+y)(x-y)}=\\frac{x^{2} y^{2}}{x+y}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487024,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{4 a c}{3 b}[/math]",
+          "খ": "[math]\\frac{4 a c}{3 b^{2}}[/math]",
+          "গ": "[math]\\frac{2 a c}{3 b^{2}}[/math]",
+          "ঘ": "[math]\\frac{3 b^{2}}{4 a c}[/math]"
+        },
+        "question": "[math]\\frac{16 a^{3} b^{2} c^{4}}{12 a^{2} b^{4} c^{3}}[/math]এর সমতুল ভগ্নাংশ নিচের কোনটি?",
+        "solution": "[math]\\frac{4 a c}{3 b^{2}}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487023,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a^{2} b b}{c^{2} d^{2}}[/math]",
+          "খ": "[math]\\frac{a^{4} b^{2}}{c^{2} d^{4}}[/math]",
+          "গ": "[math]\\frac{a^{4} b^{2}}{a^{2} b c d^{2}}[/math]",
+          "ঘ": "[math]\\frac{a^{2} b^{2}}{c^{2} d}[/math]"
+        },
+        "question": "[math]\\frac{a^{2} b}{c d^{2}}[/math]এর সমতুল ভগ্নাংশ কোনটি?",
+        "solution": "[math]\\frac{a^{2} b}{c d^{2}}[/math]\u003Cbr\u003Eএর সমতুল ভগ্নাংশ [math]\\frac{a^{4} b^{2}}{a^{2} b c d^{2}}[/math]\u003Cbr\u003E কারণ, সমতুল ভগ্নাংশ হতে হবে, যার মানও একই ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487022,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2 x-1}{x}[/math]",
+          "খ": "[math]\\frac{7 x}{5 x}[/math]",
+          "গ": "[math]\\frac{14}{4}[/math]",
+          "ঘ": "[math]\\frac{5}{8}[/math]"
+        },
+        "question": "নিচের কোনটি বীজগণিতীয় ভগ্নাংশ?",
+        "solution": "[math]\\frac{2x - 1}{x}[/math] একটি বীজগণিতীয় ভগ্নাংশ (algebraic fraction)। কারণ এটি একটি ভগ্নাংশ যার মধ্যে বীজগণিতীয় সহগ রয়েছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487021,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2 x-1}{x}[/math]",
+          "খ": "[math]\\frac{7 x}{x}[/math]",
+          "গ": "[math]\\frac{14}{4}[/math]",
+          "ঘ": "[math]\\frac{5}{8}[/math]"
+        },
+        "question": "নিচের কোনটি বীজগণিতীয় ভগ্নাংশ?",
+        "solution": "[math]\\frac{2x - 1}{x}[/math] একটি বীজগণিতীয় ভগ্নাংশ (algebraic fraction)। কারণ এটি একটি ভগ্নাংশ যার মধ্যে বীজগণিতীয় সহগ রয়েছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487020,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a^{2}}{b c}[/math]",
+          "খ": "[math]\\frac{\\mathrm{ac}}{\\mathrm{~b}}[/math]",
+          "গ": "[math]\\frac{1^{3}}{n^{2}}[/math]",
+          "ঘ": "[math]\\frac{a c}{b c}[/math]"
+        },
+        "question": "[math]\\frac{a}{b}[/math] এর সমতুল ভগ্নাংশ নিচের কোনটি?",
+        "solution": "যদি দুটি ভগ্নাংশের সংখ্যা সমান থাকে তবে তারা সমতুল্য। তাহলে, [math]\\frac{a}{b}[/math]\u003Cbr\u003E এর সমতুল্য ভগ্নাংশগুলি হবে এমন কিছু ভগ্নাংশ যেগুলি [math]\\frac{a}{b}[/math]\u003Cbr\u003E এর অনুপাতের সমান।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487040,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a-6}{a-9}[/math]",
+          "খ": "[math]\\frac{a-3}{a+1}[/math]",
+          "গ": "[math]\\frac{a-3}{a-1}[/math]",
+          "ঘ": "[math]\\frac{a-3}{a+3}[/math]"
+        },
+        "question": "[math]\\frac{a^{2}-6 a+9}{a^{2}-9}[/math] এর লঘিষ্ঠ রূপ কোনটি?",
+        "solution": "[math]\\frac{a^{2}-6 a+9}{a^{2}-9}[/math]\u003Cbr\u003E এর লঘিষ্ঠ রূপ [math]\\frac{a-3}{a+3}[/math]\u003Cbr\u003E ।",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{a-3}{a+3}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:08.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486973,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{x+2}{x-2}[/math]",
+          "B": "[math]\\frac{x-2}{x+2}[/math]",
+          "C": "[math]\\frac{x+2}{x^{2}+2}[/math]",
+          "D": "[math]\\frac{x-2}{x^{2}-4}[/math]"
+        },
+        "question": "[math]\\frac{x^{2}+4 x+4}{x^{2}-4}[/math]\n\nভগ্নাংশটির লঘিষ্ঠ আকার কোনটি?",
+        "solution": "[math]\\frac{x^{2}+4 x+4}{x^{2}-4}[/math]\u003Cbr\u003E ভগ্নাংশটির লঘিষ্ঠ আকার [math]\\frac{x+2}{x-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x+2}{x-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486960,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2 \\mathrm{~b}}{1+2 \\mathrm{~b}}[/math]",
+          "খ": "[math]\\frac{2 a}{1+2 b}[/math]",
+          "গ": "[math]\\frac{2 a}{1-2 b}[/math]",
+          "ঘ": "[math]\\frac{2 b}{1-2 b}[/math]"
+        },
+        "question": "[math]\\frac{2 a-4 a b}{1-4 b^{2}}[/math] এর লঘিষ্ঠ আকার কোনটি?",
+        "solution": "[math]\\frac{2 a-4 a b}{1-4 b^{2}}=\\frac{2 a(1-2 b)}{1^{2}-(2 b)^{2}}=\\frac{2 a(1-2 b)}{(1+2 b)(1-2 b)}=\\frac{2 a}{1+2 b}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{2 a}{1+2 b}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486961,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{1}{a\\left(x^{2}-a^{2}\\right)}[/math]",
+          "B": "[math]\\frac{1}{a x^{2}}[/math]",
+          "C": "[math]\\frac{1}{a}[/math]",
+          "D": "[math]\\frac{1}{a\\left(x^{2}+a^{2}\\right)}[/math]"
+        },
+        "question": "[math]\\frac{(x+a)(x-a)\\left(x^{2}+a^{2}\\right)}{a\\left(x^{4}-a^{4}\\right)}[/math] এর লঘিষ্ঠ রূপ কোনটি?",
+        "solution": "[math]\\frac{(x+a)(x-a)\\left(x^{2}+a^{2}\\right)}{a\\left(x^{4}-a^{4}\\right)}[/math]\u003Cbr\u003E এর লঘিষ্ঠ রূপ [math]\\frac{1}{a}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{1}{a}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486962,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{3 a}{2 b+1}[/math]",
+          "খ": "3b",
+          "গ": "[math]\\frac{1}{3 a}[/math]",
+          "ঘ": "[math]\\frac{3 a+1}{2 b+1}[/math]"
+        },
+        "question": "[math]\\frac{2 b+1}{3 a+6 a b}[/math] এর লঘিষ্ঠ আকার নিচের কোনটি?",
+        "solution": "[math]\\frac{2 b+1}{3 a+6 a b}[/math]\u003Cbr\u003E এর লঘিষ্ঠ আকার [math]\\frac{1}{3 a}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{1}{3 a}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486963,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{2 p-5 q}[/math]",
+          "খ": "2p-5q",
+          "গ": "[math]\\frac{1}{2 p+5 q}[/math]",
+          "ঘ": "2p+5q"
+        },
+        "question": "[math]\\frac{2 p+5 q}{4 p^{2}-25 q}[/math] এর লঘিষ্ঠ আকার নিচের কোনটি?",
+        "solution": "[math]\\frac{2 p+5 q}{4 p^{2}-25 q}[/math]\u003Cbr\u003E এর লঘিষ্ঠ আকার [math]\\frac{1}{2 p-5 q}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{1}{2 p-5 q}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486964,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2 \\mathrm{p}}{3 \\mathrm{k}}[/math]",
+          "খ": "[math]\\frac{2 m}{3 k}[/math]",
+          "গ": "[math]\\frac{3 p}{4 k}[/math]",
+          "ঘ": "[math]\\frac{3 k}{2 m}[/math]"
+        },
+        "question": "[math]\\frac{38 k^{2} p^{3} m^{4}}{57 k^{3} p^{3} m^{3}}[/math] এর লঘিষ্ঠ আকার নিচের কোনটি?",
+        "solution": "[math]\\frac{38 k^{2} p^{3} m^{4}}{57 k^{3} p^{3} m^{3}}[/math]\u003Cbr\u003E এর লঘিষ্ঠ আকার [math]\\frac{2 m}{3 k}[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{2 m}{3 k}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486965,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "[math]\\frac{a x-3}{2 x^{2}-x-3}[/math] ভগ্নাংশটির ক্ষেত্রে-\n\ni. হরের উৎপাদক দুইটি (2x - 3)(x + 1)\n\nii. a = 2 হলে, ভগ্নাংশটির লঘিষ্ঠ রূপ [math]\\frac{1}{x+1}[/math]\n\niii. লব ও হরকে দ্বারা গুণ করলে একটি সমতুল ভগ্নাংশ পাওয়া যায়\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\frac{a x-3}{2 x^{2}-x-3}[/math] ভগ্নাংশটির ক্ষেত্রে i ও ii সংজ্ঞাটি সঠিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486966,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "iiও iii",
+          "ঘ": "i , ii ও iii"
+        },
+        "question": "[math]\\frac{x-5}{x^{2}-8 x+15}[/math] ভগ্নাংশটির-\n\ni. হরকে উৎপাদকে বিশ্লেষণ করলে হবে (x - 5)(x - 3)\n\nii. লব ও হরের সাধারণ উৎপাদক (x - 5)\n\niii. লঘিষ্ঠ আকার [math]\\frac{1}{x-3}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\frac{x-5}{x^{2}-8 x+15}[/math] ভগ্নাংশটির i , ii ও iii সব গুলোই সঠিক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486967,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i ii ও iii"
+        },
+        "question": "কোনো ভগ্নাংশের লঘুকরণে হর ও লবকে এদের সাধারণ\n\ni . গুণনীয়ক দ্বারা ভাগ করা হয়\n\nii. উৎপাদক দ্বারা ভাগ করা হয়\n\niii. গুণিতক দ্বারা ভাগ করা হয়\n\nনিচের কোনটি সঠিক?",
+        "solution": "ভগ্নাংশের লঘুকরণে হর ও লবকে এদের সাধারণ গুণনীয়ক দ্বারা ভাগ করা হয় ও উৎপাদক দ্বারা ভাগ করা হয় ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486968,
+      "value": {
+        "options": {
+          "ক": "(x + 2)(x - 2)",
+          "খ": "(x - 2)",
+          "গ": "(x - 2)",
+          "ঘ": "[math]\\left(x^{2}-4\\right)[/math]"
+        },
+        "question": "[math]\\frac{x+1}{x^{2}+3 x+2} ও \\frac{b}{x^{2}-1}[/math] দুইটি বীজগণিতীয় ভগ্নাংশ।\n\n১ম ভগ্নাংশটি লঘিষ্ঠ আকারে প্রকাশ করে [math]\\left(x^{2}-4\\right)[/math] দ্বারা গুণ করলে কত হবে?",
+        "solution": "[math]\\frac{x+1}{x^{2}+3 x+2}[/math]\u003Cbr\u003E ভগ্নাংশটি লঘিষ্ঠ আকারে প্রকাশ করে [math]\\left(x^{2}-4\\right)[/math]\u003Cbr\u003E দ্বারা গুণ করলে (x - 2)।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486969,
+      "value": {
+        "options": {
+          "ক": "[math](x+2)\\left(x^{2}-1\\right)[/math]",
+          "খ": "[math]x(x+2)\\left(x^{2}-1\\right)[/math]",
+          "গ": "2(x + 1)",
+          "ঘ": "[math]\\left(x^{2}-1\\right)(x+3)[/math]"
+        },
+        "question": "[math]\\frac{x+1}{x^{2}+3 x+2}[/math]ও [math]\\frac{b}{x^{2}-1}[/math] দুইটি বীজগণিতীয় ভগ্নাংশ।\n\nহর দুটির ল.সা.গু কোনটি?",
+        "solution": "[math]\\frac{x+1}{x^{2}+3 x+2}[/math]\u003Cbr\u003Eও [math]\\frac{b}{x^{2}-1}[/math]\u003Cbr\u003E দুইটি বীজগণিতীয় ভগ্নাংশ।হর দুটির ল.সা.গু [math](x+2)\\left(x^{2}-1\\right)[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math](x+2)\\left(x^{2}-1\\right)[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486970,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{x-3}{x+4}[/math]",
+          "B": "x - 3",
+          "C": "x + 4",
+          "D": "[math]\\frac{x+4}{x-3}[/math]"
+        },
+        "question": "[math]\\frac{x-3}{x+4}[/math] ও [math]\\frac{x^{2}-9}{x^{2}+7 x+12}[/math] দুইটি ভগ্নাংশ\n\nদ্বিতীয় ভগ্নাংশটির লঘিষ্ঠরূপ কোনটি?",
+        "solution": "[math]\\frac{x^{2}-9}{x^{2}+7 x+12}[/math]\u003Cbr\u003E ভগ্নাংশটির লঘিষ্ঠরূপ [math]\\frac{x-3}{x+4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x-3}{x+4}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486971,
+      "value": {
+        "options": {
+          "A": "-1",
+          "B": "0",
+          "C": "1",
+          "D": "(x + 5)"
+        },
+        "question": "[math]\\frac{x-3}{x+4}[/math] ও [math]\\frac{x^{2}-9}{x^{2}+7 x+12}[/math] দুইটি ভগ্নাংশ\n\n১ম ভগ্নাংশকে ২য় ভগ্নাংশ দ্বারা ভাগ করলে ভাগফল কত হবে?",
+        "solution": "[math]\\frac{x-3}{x+4}[/math]\u003Cbr\u003E ও [math]\\frac{x^{2}-9}{x^{2}+7 x+12}[/math]\u003Cbr\u003E দুইটি ভগ্নাংশ ভাগ করলে ভাগফল 1।",
+        "explanation": "",
+        "correct_answer": "C.1"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486972,
+      "value": {
+        "options": {
+          "A": "(x + 2)(x - 2)",
+          "B": "(2 + x)(2 - x)",
+          "C": "(x - 2)(x = 2)",
+          "D": "(x + 1)(x + 1)(x - 4)"
+        },
+        "question": "[math]\\frac{x^{2}+4 x+4}{x^{2}-4}[/math]\n\nহরের উৎপাদকে বিশ্লেষিত রূপ কোনটি?",
+        "solution": "[math]\\frac{x^{2}+4 x+4}{x^{2}-4}[/math] হরের উৎপাদকে বিশ্লেষিত রূপ (x + 2)(x - 2)",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486986,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i ,ii ও iii"
+        },
+        "question": "[math]\\frac{6 y}{12 x}[/math] একটি বীজগণিতীয় ভগ্নাংশ-(6y)/(12x)\n\ni. ভগ্নাংশটির লব 6y\n\nii. ভগ্নাংশটির হর একটি নির্দিষ্ট সংখ্যা\n\niii. ভগ্নাংশটির লঘিষ্ঠরূপ [math]\\frac{y}{2 x}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486974,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{x-1}{x+4}[/math]",
+          "B": "[math]\\frac{x+2}{x+4}[/math]",
+          "C": "[math]\\frac{x+2}{x-1}[/math]",
+          "D": "[math]\\frac{x-1}{x+2}[/math]"
+        },
+        "question": "$ \\frac{2 x+8}{x-1} [math]ও[/math]\\frac{x^{2}+x-2}{x^{2}+6 x+8}$ দুইটি ভগ্নাংশ।\n\n২য় ভগ্নাংশের লঘিষ্ঠ রূপ কোনটি?",
+        "solution": "[math]\\frac{x^{2}+x-2}{x^{2}+6 x+8}[/math]\u003Cbr\u003E ভগ্নাংশের লঘিষ্ঠ রূপ [math]\\frac{x-1}{x+4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x-1}{x+4}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486975,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{1}{2}[/math]",
+          "B": "1",
+          "C": "2",
+          "D": "3"
+        },
+        "question": "[math]\\frac{2 x+8}{x-1}[/math] ও [math]\\frac{x^{2}+x-2}{x^{2}+6 x+8}[/math] দুইটি ভগ্নাংশ।\n\nভগ্নাংশন্বয়ের গুণফল কত?",
+        "solution": "[math]\\frac{2 x+8}{x-1}[/math]\u003Cbr\u003E ও [math]\\frac{x^{2}+x-2}{x^{2}+6 x+8}[/math]\u003Cbr\u003E দুইটি ভগ্নাংশ।ভগ্নাংশন্বয়ের গুণফল 2।",
+        "explanation": "",
+        "correct_answer": "C.2"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486976,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x^{2}}{x y z^{2}} \\frac{y^{2}}{x y z^{2} x y z}[/math]",
+          "খ": "[math]\\frac{x y z}{x^{2}}, \\frac{x y z}{y^{2}}, \\frac{x y z}{z^{2}}[/math]",
+          "গ": "[math]\\frac{x^{3}}{x y z^{\\prime}} \\frac{y^{3}}{x y z^{\\prime}}, \\frac{z^{3}}{x y z}[/math]",
+          "ঘ": "[math]\\frac{x}{x y z^{\\prime}} \\frac{y}{x y z^{\\prime}} \\frac{z}{x y z}[/math]"
+        },
+        "question": "[math]\\frac{x}{y z^{\\prime}}, \\frac{y}{z x^{\\prime}}, \\frac{z}{x y}[/math]এর সাধারণ হরবিশিষ্ট ভগ্নাংশ নিচের কোনটি?",
+        "solution": "[math]\\frac{x}{y z^{\\prime}}, \\frac{y}{z x^{\\prime}}, \\frac{z}{x y}[/math]\u003Cbr\u003Eএর সাধারণ হরবিশিষ্ট ভগ্নাংশ [math]\\frac{x^{2}}{x y z^{4}} \\frac{y^{2}}{x y z^{3} x y z}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x^{2}}{x y z^{2}} \\frac{y^{2}}{x y z^{2} x y z}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486977,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a}{a^{2}-9}, \\frac{b(a+3)}{a^{2}-9}[/math]",
+          "খ": "[math]\\frac{a(a+3)}{a^{2}-9}, \\frac{b(a-3)}{a^{2}-9}[/math]",
+          "গ": "[math]\\frac{a}{a^{2}-9}, \\frac{b(a-3)}{a^{2}-9}[/math]",
+          "ঘ": "[math]\\frac{a}{a^{2}-9}, \\frac{a(a-3)}{a-9}[/math]"
+        },
+        "question": "[math]\\frac{a}{a^{2}-9}, \\frac{b}{a-3}[/math] এর সাধারণ হরবিশিষ্ট ভগ্নাংশ-নিচের কোনটি?",
+        "solution": "[math]\\frac{a}{a^{2}-9}, \\frac{b}{a-3}[/math]\u003Cbr\u003E এর সাধারণ হরবিশিষ্ট ভগ্নাংশ [math]\\frac{a}{i^{2}-9}, \\frac{b(a+3)}{a^{2}-9}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{a}{a^{2}-9}, \\frac{b(a+3)}{a^{2}-9}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486978,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x^{2}}{y^{2}} \\cdot \\frac{y^{2}}{x^{2}}[/math]",
+          "খ": "[math]\\frac{x y}{x}, \\frac{x y}{y}[/math]",
+          "গ": "[math]\\frac{x}{y}, \\frac{y}{x}[/math]",
+          "ঘ": "[math]\\frac{x^{2}}{x y}, \\frac{y^{2}}{x y}[/math]"
+        },
+        "question": "[math]\\frac{x}{y}, \\frac{y}{x}[/math] ভগ্নাংশদ্বয়ের সমরবিশিষ্ট ভগ্নাংশে প্রকাশ নিচের কোনটি?",
+        "solution": "[math]\\frac{x}{y}, \\frac{y}{x}[/math]\u003Cbr\u003E ভগ্নাংশদ্বয়ের সমরবিশিষ্ট ভগ্নাংশে প্রকাশ [math]\\frac{x^{2}}{x y}, \\frac{y^{2}}{x y}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{x^{2}}{x y}, \\frac{y^{2}}{x y}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486979,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a^{2}}{b c}, \\frac{a b}{a b c}[/math]",
+          "খ": "[math]\\frac{a b}{b c}, \\frac{a b}{a b c}[/math]",
+          "গ": "[math]\\frac{a^{2}}{a b c} \\cdot \\frac{a b}{a b c}[/math]",
+          "ঘ": "[math]\\frac{a^{2}}{a b c}, \\frac{b^{2}}{a b c}[/math]"
+        },
+        "question": "[math]\\frac{a}{b c}, \\frac{a}{a c}[/math] এর সাধারণ হরবিশিষ্ট ভগ্নাংশগুলো কী কী?",
+        "solution": "[math]\\frac{a}{b c}, \\frac{a}{a c}[/math]\u003Cbr\u003E এর সাধারণ হরবিশিষ্ট ভগ্নাংশগুলো [math]\\frac{a^{2}}{a b c} \\cdot \\frac{a b}{a b c}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{a^{2}}{a b c} \\cdot \\frac{a b}{a b c}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486980,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a}{b c}, \\frac{a}{a c}[/math]",
+          "খ": "[math]\\frac{2}{4 x}, \\frac{2}{4 y}[/math]",
+          "গ": "[math]\\frac{x^{2}}{x^{2}+x y^{3}} \\frac{y^{2}}{x^{2}+x y}[/math]",
+          "ঘ": "[math]\\frac{10}{a b} \\cdot \\frac{10}{b c}[/math]"
+        },
+        "question": "নিচের কোন জোড়া ভগ্নাংশ সমরবিশিষ্ট?",
+        "solution": "জোড়া ভগ্নাংশ সমরবিশিষ্ট [math]\\frac{x^{2}}{x^{2}+x y^{\\prime}} \\frac{y^{2}}{x^{2}+x y}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{x^{2}}{x^{2}+x y^{3}} \\frac{y^{2}}{x^{2}+x y}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486981,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{4 n x}{6 m n}, \\frac{9 m y}{6 m n}[/math]",
+          "খ": "[math]\\frac{4 x}{m n}, \\frac{9 y}{6 m n}[/math]",
+          "গ": "[math]\\frac{2 x}{6 m n}, \\frac{3 y}{6 m n}[/math]",
+          "ঘ": "[math]\\frac{4 n}{6 m n}, \\frac{9 m}{6 m n}[/math]"
+        },
+        "question": "[math]\\frac{2 x}{3 m}, \\frac{3 y}{2 n}[/math] কে সমরবিশিষ্ট ভগ্নাংশে পরিণত করলে নিচের কোনটি হবে?",
+        "solution": "[math]\\frac{2 x}{3 m}, \\frac{3 y}{2 n}[/math]\u003Cbr\u003E কে সমরবিশিষ্ট ভগ্নাংশে পরিণত করলে [math]\\frac{4 n x}{6 m n}, \\frac{9 m y}{6 m n}[/math]\u003Cbr\u003E হবে।",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{4 n x}{6 m n}, \\frac{9 m y}{6 m n}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486982,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সাধারণ হরবিশিষ্ট ভগ্নাংশ প্রকাশ করার নিয়ম হলো-\n\ni . ভগ্নাংশগুলোর হরের ল.সা.গু. বের করতে হয়\n\nii. ল. সা. গু. কে প্রত্যেক ভগ্নাংশের হর দ্বারা ভাগ করে ভাগফল বের করতে হয়\n\niii. প্রাপ্ত ভাগফল দ্বারা সংশ্লিষ্ট ভগ্নাংশের লব ও হরকে গুণ করতে হয়\n\nনিচের কোনটি সঠিক?",
+        "solution": "সাধারণ হরবিশিষ্ট ভগ্নাংশ প্রকাশ করার নিয়ম হলো ভগ্নাংশগুলোর হরের ল.সা.গু. বের করতে হয় , ল. সা. গু. কে প্রত্যেক ভগ্নাংশের হর দ্বারা ভাগ করে ভাগফল বের করতে হয় ,প্রাপ্ত ভাগফল দ্বারা সংশ্লিষ্ট ভগ্নাংশের লব ও হরকে গুণ করতে হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486983,
+      "value": {
+        "options": {
+          "A": "i ও ii",
+          "B": "i ও iii",
+          "C": "ii ও iii",
+          "D": "i, ii ও iii"
+        },
+        "question": "[math]\\frac{x}{x^{2}-1}, 8 \\frac{x+1}{x^{2}-1}[/math] ভগ্নাংশন্বয়-\n\ni. সমহরবিশিষ্ট ভগ্নাংশ\n\nii. সবগুলোর ল.সা.গু. x + 1\n\niii. ভগ্নাংশন্বয়ের লঘিষ্ঠ রূপ [math]\\frac{x}{x^{2}-1}[/math]ও [math]\\frac{1}{x-1}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\frac{x}{x^{2}-1}, 8 \\frac{x+1}{x^{2}-1}[/math]\u003Cbr\u003E ভগ্নাংশন্বয় সমহরবিশিষ্ট ভগ্নাংশ ,ভগ্নাংশন্বয়ের লঘিষ্ঠ রূপ [math]\\frac{x}{x^{2}-1}[/math]\u003Cbr\u003Eও [math]\\frac{1}{x-1}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486984,
+      "value": {
+        "options": {
+          "A": "(a + b)",
+          "B": "b(a + b)",
+          "C": "a(a + b)",
+          "D": "1"
+        },
+        "question": "[math]\\frac{a}{a-b}, \\frac{b}{a+b}[/math]\n\nহরগুলোর গ. সা. গু. কত?",
+        "solution": "[math]\\frac{a}{a-b}, \\frac{b}{a+b}[/math] হরগুলোর গ. সা. গু. 1।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486985,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a^{2}}{a^{2}-b^{2}} \\frac{b^{2}}{a^{2}-b^{2}}[/math]",
+          "B": "[math]\\frac{a}{a^{2}-b^{2}} \\frac{b}{a^{2}-b^{2}}[/math]",
+          "C": "[math]\\frac{a^{2}-a b}{a^{2}-b^{2}} \\frac{a b+b^{2}}{a^{2}-b^{2}}[/math]",
+          "D": "[math]\\frac{a(a+b)}{a^{2}-b^{2}}, \\frac{b(a-b)}{a^{2}-b^{2}}[/math]"
+        },
+        "question": "[math]\\frac{a}{a-b}, \\frac{b}{a+b}[/math]\n\nউদ্দীপকের ভগ্নাংশগুলোর সমহরবিশিষ্ট ভগ্নাংশ কোনটি?",
+        "solution": "[math]\\frac{a}{a-b}, \\frac{b}{a+b}[/math]\u003Cbr\u003E ভগ্নাংশগুলোর সমহরবিশিষ্ট ভগ্নাংশ [math]\\frac{a(a+b)}{a^{2}-b^{2}}, \\frac{b(a-b)}{a^{2}-b^{2}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{a(a+b)}{a^{2}-b^{2}}, \\frac{b(a-b)}{a^{2}-b^{2}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:07.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7763&grade=3&lesson=7764&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7763&grade=3&lesson=7764&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7763&grade=3&lesson=7764&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 81,
+  "total": 81
+}

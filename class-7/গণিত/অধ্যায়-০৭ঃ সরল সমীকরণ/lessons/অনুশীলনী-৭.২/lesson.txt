@@ -1,0 +1,3171 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 488385,
+      "value": {
+        "options": [],
+        "question": "কোন সংখ্যার অর্ধেক হতে এর এক-চতুর্থাংশ বিয়োগ করলে বিয়োগফল ২০ হবে?",
+        "solution": "ধরি, সংখ্যাটি [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{y}{2} - \\dfrac{y}{4} = 20[/math]\u003Cbr\u003Eবা, [math]\\dfrac{2y - y}{4} = 20[/math]\u003Cbr\u003Eবা, [math]\\dfrac{y}{4} = 20[/math]\u003Cbr\u003Eউভয় পক্ষকে ৪ দ্বারা গুণ করি: [math]y = 20 \\times 4[/math]\u003Cbr\u003E∴ [math]y = 80[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সংখ্যাটি ধরা যাক [math]x[/math]. তার অর্ধেক থেকে এক-চতুর্থাংশ বিয়োগ করলে [math]\\frac{x}{2}-\\frac{x}{4}=20[/math] হয়, তাই [math]\\frac{x}{4}=20[/math] থেকে [math]x=80[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488385,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488375,
+      "value": {
+        "options": [],
+        "question": "দুইটি সংখ্যার যোগফল ৬০ এবং বিয়োগফল ৩০ হলে, ছোট সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, বড় সংখ্যা [math]x[/math]\u003Cbr\u003E এবং ছোট সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে,(i) [math]x + y = 60[/math]\u003Cbr\u003E(ii) [math]x - y = 30[/math]\u003Cbr\u003E(i) থেকে (ii) সমীকরণ বিয়োগ করি:[math]x + y - (x - y) = 60 - 30[/math]\u003Cbr\u003E [math]x + y - x + y = 30[/math]\u003Cbr\u003E [math]2y = 30[/math]\u003Cbr\u003E [math]y = \\dfrac{30}{2} = 15[/math]\u003Cbr\u003E∴ ছোট সংখ্যা = 15 (Ans.)",
+        "explanation": "ব্যাখ্যা: দুটি সংখ্যা ধরা যাক [math]x[/math] (বড়) ও [math]y[/math] (ছোট)। শর্তানুসারে [math]x+y=60[/math] ও [math]x-y=30[/math]; যোগ করলে [math]2x=90\\Rightarrow x=45[/math], তাই ছোট সংখ্যা [math]y=60-45=15[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488375,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488376,
+      "value": {
+        "options": [],
+        "question": "দুইটি সংখ্যার মধ্যে বড়টি ছোটটির দ্বিগুণের থেকে ১২ বেশি এবং তাদের যোগফল ৭৮। ছোট সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, ছোট সংখ্যা [math]x[/math]\u003Cbr\u003Eবড় সংখ্যা = [math]2x + 12[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (2x + 12) = 78[/math]\u003Cbr\u003E [math]3x + 12 = 78[/math]\u003Cbr\u003E [math]3x = 66[/math]\u003Cbr\u003E [math]x = \\dfrac{66}{3}[/math]\u003Cbr\u003E∴ ছোট সংখ্যা = 22 (Ans.)",
+        "explanation": "ছোট সংখ্যাকে [math]x[/math] ধরে বড়টি হবে [math]2x+12[/math], এবং [math]x+(2x+12)=78[/math] থেকে [math]3x+12=78[/math] হয়, ফলে [math]3x=66[/math] এবং [math]x=22[/math]. তাই ছোট সংখ্যা হল [math]22[/math] — সমীকরণ গঠন করে অজানা সংখ্যাটি নির্ণয় করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488376,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488377,
+      "value": {
+        "options": [],
+        "question": "তিনটি ক্রমিক স্বাভাবিক সংখ্যার যোগফল ৭৮ হলে ক্ষুদ্রতম সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, ক্ষুদ্রতম সংখ্যাটি [math]x[/math]\u003Cbr\u003Eঅপর দুটি সংখ্যা [math]x + 1[/math]\u003Cbr\u003E এবং [math]x + 2[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (x + 1) + (x + 2) = 78[/math]\u003Cbr\u003Eবা, [math]3x + 3 = 78[/math]\u003Cbr\u003Eবা, [math]3x = 75[/math]\u003Cbr\u003Eউভয় পক্ষকে ৩ দ্বারা ভাগ করি: [math]x = \\dfrac{75}{3}[/math]\u003Cbr\u003E∴ [math]x = 25[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমাধান: ধরা যাক ক্ষুদ্রতম সংখ্যা [math]n[/math]; তখন তিনটি ক্রমিক সংখ্যার যোগফল [math]n+(n+1)+(n+2)=3n+3=78[/math]. ফলে [math]3n=75\\Rightarrow n=25[/math], সুতরাং ক্ষুদ্রতম সংখ্যা হলো [math]25[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488377,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488378,
+      "value": {
+        "options": [],
+        "question": "তিনটি ক্রমিক বিজোড় সংখ্যার যোগফল ১২৩। ক্ষুদ্রতম সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, ক্ষুদ্রতম সংখ্যা [math]x[/math]\u003Cbr\u003Eপরের দুটি: [math]x + 2[/math]\u003Cbr\u003E এবং [math]x + 4[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (x + 2) + (x + 4) = 123[/math]\u003Cbr\u003E [math]3x + 6 = 123[/math]\u003Cbr\u003E [math]3x = 117[/math]\u003Cbr\u003E [math]x = \\dfrac{117}{3}[/math]\u003Cbr\u003E∴ [math]x = 39[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: ক্ষুদ্রতম সংখ্যাটি ধরে নিই [math]n[/math], তখন পরের দুটি ক্রমিক বিজোড় হবে [math]n+2[/math] ও [math]n+4[/math], এবং তাদের যোগফল হবে [math]n+(n+2)+(n+4)=123[/math]. সমাধানে পাওয়া যায় [math]3n+6=123\\Rightarrow 3n=117\\Rightarrow n=39[/math], অতএব ক্ষুদ্রতম সংখ্যা [math]39[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488378,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488379,
+      "value": {
+        "options": [],
+        "question": "তামিম ও সাকিব একটি ম্যাচে মোট ১৪৮ রান করেছে। সাকিব, তামিমের রানসংখ্যার দ্বিগুণের থেকে ১৬ রান কম করেছে। তামিম ও সাকিবের কত রান ছিল?",
+        "solution": "ধরি, তামিমের রান = [math]x[/math]\u003Cbr\u003Eতাহলে, সাকিবের রান = [math]2x - 16[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (2x - 16) = 148[/math]\u003Cbr\u003Eবা, [math]3x - 16 = 148[/math]\u003Cbr\u003Eবা, [math]3x = 164[/math]\u003Cbr\u003E [math]x = \\dfrac{164}{3}[/math]\u003Cbr\u003E∴ তামিমের রান = [math]\\dfrac{164}{3}[/math]\u003Cbr\u003E এবং সাকিবের রান = [math]2 \\times \\dfrac{164}{3} - 16[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধরো তামিমের রান [math]x[/math], তাহলে সাকিবের রান [math]2x-16[/math] এবং মোট হল [math]x+(2x-16)=148[/math]. সমাধান করলে [math]3x-16=148\\Rightarrow3x=164\\Rightarrow x=164/3=54\\frac{2}{3}[/math], তাই সাকিবের রান [math]2x-16=280/3=93\\frac{1}{3}[/math]; যদি রান পুরো সংখ্যা হতে হয় তাহলে এই শর্তে কোন পূর্ণসংখ্যা সমাধান নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488379,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488380,
+      "value": {
+        "options": [],
+        "question": "তামিম ও লিটনের মোট রান ২২০। তামিম লিটনের থেকে ৩২ রান বেশি করেছে। লিটনের রান সংখ্যা নির্ণয় কর।",
+        "solution": "ধরি, লিটনের রান = [math]x[/math]\u003Cbr\u003Eতাহলে তামিমের রান = [math]x + 32[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (x + 32) = 220[/math]\u003Cbr\u003E [math]2x + 32 = 220[/math]\u003Cbr\u003E [math]2x = 188[/math]\u003Cbr\u003E [math]x = \\dfrac{188}{2} = 94[/math]\u003Cbr\u003E∴ লিটনের রান = 94 (Ans.)",
+        "explanation": "ধরা যাক লিটনের রান [math]x[/math]। তাহলে তামিমের রান [math]x+32[/math] এবং [math]x+(x+32)=220\\Rightarrow 2x+32=220\\Rightarrow 2x=188\\Rightarrow x=94[/math]. অতএব লিটনের রান [math]94[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488380,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488381,
+      "value": {
+        "options": [],
+        "question": "টিনা, মিনা ও রিনার একত্রে 238 টাকা আছে। টিনার চেয়ে মিনার 15 টাকা বেশি ও রিনার 17 টাকা কম হলে, টিনার কত টাকা?",
+        "solution": "ধরি, টিনার টাকার পরিমাণ [math]x[/math]\u003Cbr\u003Eমিনার: [math]x + 15[/math]\u003Cbr\u003E টাকারিনা: [math]x - 17[/math]\u003Cbr\u003E টাকাপ্রশ্নমতে, [math]x + (x + 15) + (x - 17) = 238[/math]\u003Cbr\u003Eবা, [math]3x - 2 = 238[/math]\u003Cbr\u003Eবা, [math]3x = 240[/math]\u003Cbr\u003Eউভয় পক্ষকে ৩ দ্বারা ভাগ করি: [math]x = \\dfrac{240}{3}[/math]\u003Cbr\u003E∴ [math]x = 80[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "টিনাকে [math]x[/math] ধরে মিনা [math]x+15[/math] ও রিনা [math]x-17[/math] হলে সমীকরণ হবে [math]x+(x+15)+(x-17)=238[/math]. এতে [math]3x-2=238[/math] হয়, তাই [math]x=80[/math]; অর্থাৎ টিনার কাছে [math]80[/math] টাকা আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488381,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488382,
+      "value": {
+        "options": [],
+        "question": "কোন সংখ্যার চারগুণের সাথে ১৮ যোগ করলে যোগফল ১৩০ হবে?",
+        "solution": "ধরি, সংখ্যাটি [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]4x + 18 = 130[/math]\u003Cbr\u003Eবা, [math]4x = 130 - 18[/math]\u003Cbr\u003Eবা, [math]4x = 112[/math]\u003Cbr\u003Eউভয় পক্ষকে ৪ দ্বারা ভাগ করি: [math]x = \\dfrac{112}{4}[/math]\u003Cbr\u003E∴ [math]x = 28[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ধরা যাক সংখ্যাটি [math]x[/math]. তার চারগুণে ১৮ যোগ করলে [math]4x+18=130[/math] হয়, ফলে [math]4x=112[/math] এবং [math]x=28[/math]—সরল রৈখিক সমীকরণ থেকে চলককে আলাদা করে সমাধান করা হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488382,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488383,
+      "value": {
+        "options": [],
+        "question": "কোন সংখ্যার এক-তৃতীয়াংশের সাথে এর এক-পঞ্চমাংশ যোগ করলে যোগফল ৪০ হবে?",
+        "solution": "ধরি, সংখ্যাটি [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{x}{3} + \\dfrac{x}{5} = 40[/math]\u003Cbr\u003Eবা, [math]\\dfrac{5x + 3x}{15} = 40[/math]\u003Cbr\u003Eবা, [math]\\dfrac{8x}{15} = 40[/math]\u003Cbr\u003Eউভয় পক্ষকে ১৫ দ্বারা গুণ করি: [math]8x = 40 \\times 15[/math]\u003Cbr\u003Eবা, [math]x = \\dfrac{600}{8}[/math]\u003Cbr\u003E∴ [math]x = 75[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: ধরো সংখ্যাটি [math]x[/math]। তখন [math]\\frac{1}{3}x+\\frac{1}{5}x=40[/math] এবং এটি যোগ করলে [math]\\frac{8}{15}x=40[/math] হয়, তাই [math]x=40\\times\\frac{15}{8}=75[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488383,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488384,
+      "value": {
+        "options": [],
+        "question": "কোন সংখ্যার এক-তৃতীয়াংশ থেকে ১২ বিয়োগ করলে বিয়োগফল ২২ হবে?",
+        "solution": "ধরি, সংখ্যাটি [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{x}{3} - 12 = 22[/math]\u003Cbr\u003Eবা, [math]\\dfrac{x}{3} = 22 + 12 = 34[/math]\u003Cbr\u003Eউভয় পক্ষকে ৩ দ্বারা গুণ করি: [math]x = 34 \\times 3[/math]\u003Cbr\u003E∴ [math]x = 102[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সমাধান: ধরি সংখ্যাটি [math]x[/math]. প্রশ্ন থেকে [math]\\frac{1}{3}x-12=22[/math], ফলে [math]\\frac{1}{3}x=34[/math] এবং [math]x=34\\times3=102[/math]. এটি একটি সরলরৈখিক সমীকরণ; অজ্ঞাত ধরা ও ধাপে ধাপে সমাধান করলে সংখ্যাটি পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488384,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488374,
+      "value": {
+        "options": [],
+        "question": "দুইটি সংখ্যার যোগফল 60 এবং বিয়োগফল 30 হলে, ছোট সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, বড় সংখ্যা [math]x[/math]\u003Cbr\u003E এবং ছোট সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে,(i) [math]x + y = 60[/math]\u003Cbr\u003E(ii) [math]x - y = 30[/math]\u003Cbr\u003E(i) ও (ii) সমীকরণ বিয়োগ করি:[math]x + y - (x - y) = 60 - 30[/math]\u003Cbr\u003E [math]x + y - x + y = 30[/math]\u003Cbr\u003E [math]2y = 30[/math]\u003Cbr\u003E [math]y = \\dfrac{30}{2}[/math]\u003Cbr\u003E∴ [math]y = 15[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ধরো বড় সংখ্যাটি [math]x[/math], ছোটটি [math]y[/math]; তাহলে [math]x+y=60,\\;x-y=30[/math]. এসব যোগ করলে [math]2x=90\\Rightarrow x=45[/math], ফলে ছোটটি [math]y=60-45=15[/math] (অথবা সরাসরি [math](60-30)/2=15[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488374,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488386,
+      "value": {
+        "options": [],
+        "question": "কোন সংখ্যা থেকে ১৫ বিয়োগ করলে বিয়োগফলের ৭ গুণ ১৬১ এর সমান হবে?",
+        "solution": "ধরি, সংখ্যাটি [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]7(x - 15) = 161[/math]\u003Cbr\u003Eউভয় পক্ষকে ৭ দ্বারা ভাগ করি: [math]x - 15 = \\dfrac{161}{7} = 23[/math]\u003Cbr\u003Eউভয় পাশে ১৫ যোগ করি: [math]x = 23 + 15[/math]\u003Cbr\u003E∴ [math]x = 38[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ধরি সংখ্যাটি [math]x[/math], তাহলে [math]7(x-15)=161[/math]. এ থেকে [math]x-15=23[/math] এবং [math]x=38[/math]; পরীক্ষা করলে [math]7(38-15)=7×23=161[/math] মেলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488386,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488387,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার তিনগুণ হতে ১২ বিয়োগ করলে, যে ফল পাওয়া যায় তা সংখ্যাটির অর্ধেকের সমান হয়। সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, সংখ্যাটি [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]3x - 12 = \\dfrac{x}{2}[/math]\u003Cbr\u003Eউভয় পক্ষকে ২ দ্বারা গুণ করি: [math]2(3x - 12) = x[/math]\u003Cbr\u003E [math]6x - 24 = x[/math]\u003Cbr\u003E [math]6x - x = 24[/math]\u003Cbr\u003E [math]5x = 24[/math]\u003Cbr\u003E [math]x = \\dfrac{24}{5}[/math]\u003Cbr\u003E∴ [math]x = \\dfrac{24}{5}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা: সংখ্যা ধরা যাক [math]x[/math]; শর্ত অনুযায়ী [math]3x - 12 = \\tfrac{x}{2}[/math]. দুই পাশে 2 দিয়ে গুণ করলে [math]6x - 24 = x[/math], ফলে [math]5x = 24[/math] এবং তাই সংখ্যা [math]x = \\tfrac{24}{5} = 4.8[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488387,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488388,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার এক-তৃতীয়াংশ এবং এক-ষষ্ঠাংশের যোগফল সংখ্যাটির অর্ধেকের সমান। সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, সংখ্যাটি [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{x}{3} + \\dfrac{x}{6} = \\dfrac{x}{2}[/math]\u003Cbr\u003ELCM 6 নিয়ে: [math]\\dfrac{2x + x}{6} = \\dfrac{x}{2}[/math]\u003Cbr\u003E [math]\\dfrac{3x}{6} = \\dfrac{x}{2}[/math]\u003Cbr\u003Eউভয় পক্ষকে 6 দ্বারা গুণ করি: [math]3x = 3x[/math]\u003Cbr\u003E∴ সমীকরণ সব ক্ষেত্রেই সত্য, তাই [math]x[/math]\u003Cbr\u003E যে কোনো সংখ্যা হতে পারে (অনির্দিষ্ট সমাধান)",
+        "explanation": "ধরি সংখ্যাটি [math]x[/math]. তখন [math]x/3 + x/6 = x/2[/math]। বাম পাশকে সংযুক্ত করলে [math](2x + x)/6 = 3x/6 = x/2[/math] পাওয়া যায়, যা সরাসরি [math]x/2 = x/2[/math]—একটি পরিচয়। তাই সমীকরণটি সব বাস্তব সংখ্যার জন্য সত্য; অর্থাৎ সংখ্যা যেকোনো বাস্তব সংখ্যা হতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488388,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488389,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার এক-চতুর্থাংশের সাথে তার ১০ যোগ করলে, যোগফল সংখ্যাটির এক-দ্বিতীয়াংশের সমান হয়। সংখ্যাটি নির্ণয় কর।",
+        "solution": "ধরি, সংখ্যাটি [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{x}{4} + 10 = \\dfrac{x}{2}[/math]\u003Cbr\u003Eউভয় পক্ষকে 4 দ্বারা গুণ করি:[math]x + 40 = 2x[/math]\u003Cbr\u003E [math]40 = 2x - x[/math]\u003Cbr\u003E [math]x = 40[/math]\u003Cbr\u003E∴ [math]x = 40[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "সংখ্যাটি ধরে নি [math]x[/math]. শর্ত অনুযায়ী [math]\\frac{x}{4}+10=\\frac{x}{2}\u003C/math\u003E; উভয় পাশে থেকে [math]\\frac{x}{4}\u003C/math\u003E বাদ দিলে [math]10=\\frac{x}{4}\u003C/math\u003E হয় এবং তাই [math]x=40\u003C/math\u003E।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488389,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488390,
+      "value": {
+        "options": [],
+        "question": "একটি শ্রেণিতে ছেলেদের সংখ্যা মেয়েদের সংখ্যার তিনগুণের থেকে ৮ কম। যদি মোট শিক্ষার্থী সংখ্যা ৮৪ হয়, তবে শ্রেণিতে মেয়েদের সংখ্যা কত?",
+        "solution": "ধরি, মেয়েদের সংখ্যা = [math]x[/math]\u003Cbr\u003Eতাহলে ছেলেদের সংখ্যা = [math]3x - 8[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (3x - 8) = 84[/math]\u003Cbr\u003E [math]4x - 8 = 84[/math]\u003Cbr\u003E [math]4x = 92[/math]\u003Cbr\u003E [math]x = \\dfrac{92}{4} = 23[/math]\u003Cbr\u003E∴ মেয়েদের সংখ্যা = 23 (Ans.)",
+        "explanation": "মেয়েদের সংখ্যা ধরে নিলেই [math]g[/math], তখন ছেলেদের সংখ্যা [math]3g-8[/math] হবে। মোটে [math]g+(3g-8)=84\\Rightarrow4g-8=84\\Rightarrow4g=92\\Rightarrow g=23[/math], তাই মেয়েরা ২৩ জন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488390,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488391,
+      "value": {
+        "options": [],
+        "question": "একটি শ্রেণিতে ছাত্র ও ছাত্রীদের অনুপাত 4:5। যদি মোট শিক্ষার্থীর সংখ্যা ৮১ হয়, তাহলে ছাত্র ও ছাত্রীদের সংখ্যা কত?",
+        "solution": "ধরি, ছাত্র সংখ্যা = [math]4x[/math]\u003Cbr\u003E, ছাত্রী সংখ্যা = [math]5x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]4x + 5x = 81[/math]\u003Cbr\u003Eবা, [math]9x = 81[/math]\u003Cbr\u003E [math]x = \\dfrac{81}{9} = 9[/math]\u003Cbr\u003Eছাত্র = [math]4 \\times 9 = 36[/math]\u003Cbr\u003E, ছাত্রী = [math]5 \\times 9 = 45[/math]\u003Cbr\u003E∴ ছাত্র = 36, ছাত্রী = 45",
+        "explanation": "সমাধান: অনুপাতের মোট অংশ [math]4+5=9[/math], প্রতি অংশের মান [math]81÷9=9[/math]। তাই ছাত্র = [math]4×9=36[/math] এবং ছাত্রী = [math]5×9=45[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488391,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488392,
+      "value": {
+        "options": [],
+        "question": "একটি ঝুড়িতে কমলার [math]\\dfrac{1}{4}[/math] অংশ বাদে সবগুলো আপেল। যদি আপেলের সংখ্যা ৩৬ হয়, তাহলে মোট কতগুলো ফল আছে?",
+        "solution": "ধরি, মোট ফল = [math]x[/math]\u003Cbr\u003Eকমলার সংখ্যা = [math]\\dfrac{1}{4}x[/math]\u003Cbr\u003Eতাহলে আপেলের সংখ্যা = [math]x - \\dfrac{1}{4}x = \\dfrac{3x}{4}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{3x}{4} = 36[/math]\u003Cbr\u003Eউভয় পক্ষকে ৪ দ্বারা গুণ করি: [math]3x = 144[/math]\u003Cbr\u003E [math]x = \\dfrac{144}{3} = 48[/math]\u003Cbr\u003E∴ মোট ফল = 48",
+        "explanation": "ব্যাখ্যা: প্রশ্ন থেকে আপেলদের অনুপাত মোটের [math]1-\\tfrac{1}{4}=\\tfrac{3}{4}[/math]. তাই মোট ফল = আপেল ÷ আপেলের অনুপাত = [math]36 \\div \\tfrac{3}{4} = 36 \\times \\tfrac{4}{3} = 48[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488392,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488393,
+      "value": {
+        "options": [],
+        "question": "একটি ক্রিকেট ম্যাচে তামিম ও সাকিবের মোট রানসংখ্যা ৬২। তামিমের রানসংখ্যা সাকিবের তিনগুণ হতে ১০ রান কম। সাকিবের রান সংখ্যা নির্ণয় কর।",
+        "solution": "ধরি, সাকিবের রান = [math]x[/math]\u003Cbr\u003Eতাহলে তামিমের রান = [math]3x - 10[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (3x - 10) = 62[/math]\u003Cbr\u003Eবা, [math]4x - 10 = 62[/math]\u003Cbr\u003E [math]4x = 62 + 10 = 72[/math]\u003Cbr\u003Eউভয় পক্ষকে ৪ দ্বারা ভাগ করি: [math]x = \\dfrac{72}{4}[/math]\u003Cbr\u003E∴ সাকিবের রান = 18 (Ans.)",
+        "explanation": "ব্যাখ্যা: ধরা যাক সাকিবের রান [math]S[/math] এবং তামিমের রান [math]T[/math]. শর্ত অনুযায়ী [math]T=3S-10[/math] এবং মোট [math]T+S=62[/math]; তাই [math]3S-10+S=62\\Rightarrow4S-10=62\\Rightarrow4S=72\\Rightarrow S=18[/math]. অতএব সাকিবের রান ১৮।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488393,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488394,
+      "value": {
+        "options": [],
+        "question": "একজন ফল বিক্রেতার মোট ফলের একটি অংশ কমলা এবং অবশিষ্ট সবগুলো আপেল। যদি তার কাছে 32টি আপেল থাকে, তাহলে তার কাছে মোট কতগুলো ফল আছে?",
+        "solution": "ধরি, মোট ফল আছে [math]x[/math]\u003Cbr\u003Eকমলার সংখ্যা: [math]\\dfrac{1}{4}x[/math]\u003Cbr\u003Eআপেলের সংখ্যা: [math]x - \\dfrac{1}{4}x = \\dfrac{3x}{4}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{3x}{4} = 32[/math]\u003Cbr\u003Eউভয় পক্ষকে ৪ দ্বারা গুণ করি: [math]3x = 128[/math]\u003Cbr\u003E [math]x = \\dfrac{128}{3}[/math]\u003Cbr\u003E∴ মোট ফল = [math]x = 42.67[/math]\u003Cbr\u003E (ভগ্নাংশে অযৌক্তিক, তাই প্রশ্নে সংখ্যাগত ত্রুটি থাকতে পারে)",
+        "explanation": "ব্যাখ্যা: মোট ফলের এক-তৃতীয়াংশ কমলা হলে আপেল থাকে মোটের [math]\\tfrac{2}{3}[/math], এবং দেওয়া আছে আপেল = [math]32 = \\tfrac{2}{3}T[/math]. সুতরাং [math]T = 32 \\times \\tfrac{3}{2} = 48[/math], অর্থাৎ মোট [math]48[/math]টি ফল আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488394,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488395,
+      "value": {
+        "options": [],
+        "question": "একজন ফল বিক্রেতার মোট ফলের [math]\\dfrac{1}{3}[/math] অংশ কমলা ও অবশিষ্ট সবগুলো আপেল। যদি তার কাছে ৩২টি আপেল থাকে, তাহলে তার মোট ফল কতগুলো?",
+        "solution": "ধরি, মোট ফল আছে [math]x[/math]\u003Cbr\u003E টিতাহলে কমলা: [math]\\dfrac{1}{3}x[/math]\u003Cbr\u003Eআপেল: [math]x - \\dfrac{1}{3}x = \\dfrac{2x}{3}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\dfrac{2x}{3} = 32[/math]\u003Cbr\u003Eউভয় পক্ষকে ৩ দ্বারা গুণ করি: [math]2x = 96[/math]\u003Cbr\u003Eউভয় পক্ষকে ২ দ্বারা ভাগ করি: [math]x = \\dfrac{96}{2}[/math]\u003Cbr\u003E∴ মোট ফল = 48 (Ans.)",
+        "explanation": "ব্যাখ্যা: মোট ফল ধরে নাও [math]T[/math]. কমলা হলো [math]\\dfrac{1}{3}T\u003C/math\u003E, তাই আপেল হলো [math]T-\\dfrac{1}{3}T=\\dfrac{2}{3}T\u003C/math]; এইটি [math]32[/math] হলে [math]\\dfrac{2}{3}T=32\\Rightarrow T=32\\times\\dfrac{3}{2}=48[/math]. ফলে মোট ফল ৪৮টি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488395,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488373,
+      "value": {
+        "options": [],
+        "question": "রিয়াদ একটি পরীক্ষায় ইংরেজি ও গণিতে মোট 179 নম্বর পেয়েছে। সে ইংরেজি অপেক্ষা গণিতে 19 নম্বর বেশি পেলে, ইংরেজিতে কত নম্বর পেয়েছে?",
+        "solution": "ধরি, ইংরেজিতে রিয়াদের নম্বর [math]x[/math]\u003Cbr\u003Eতাহলে গণিতে তার নম্বর [math]x + 19[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + (x + 19) = 179[/math]\u003Cbr\u003Eবা, [math]2x + 19 = 179[/math]\u003Cbr\u003Eবা, [math]2x = 179 - 19 = 160[/math]\u003Cbr\u003Eউভয় পক্ষকে ২ দ্বারা ভাগ করি: [math]x = \\dfrac{160}{2}[/math]\u003Cbr\u003E∴ [math]x = 80[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ইংরেজিতে [math]x[/math] নম্বর ধরলে গণিতে [math]x+19[/math] হবে, তাই [math]x+(x+19)=179[/math] → [math]2x+19=179[/math], ফলে [math]2x=160[/math] এবং [math]x=80[/math]। তাই ইংরেজিতে 80 নম্বর পেয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488373,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488356,
+      "value": {
+        "options": {
+          "ক": "12",
+          "খ": "10",
+          "গ": "16",
+          "ঘ": "4"
+        },
+        "question": "কোন সংখ্যার এক-চতুর্থাংশ ও তার সমান হবে?",
+        "solution": "যদি [math]x = \\frac{x}{4}[/math]\u003Cbr\u003E হয়, তাহলে [math]4x = x \\Rightarrow 3x = 0 \\Rightarrow x = 0[/math]\u003Cbr\u003E। কিন্তু এই অপশনগুলোতে 0 নেই, তাই প্রশ্নটি ভুলভাবে গঠিত। তবে যদি প্রশ্ন হয় \"এক-চতুর্থাংশ ৩ হয়\", তখন [math]x = 12[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488356,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488357,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "1",
+          "গ": "2",
+          "ঘ": "5"
+        },
+        "question": "দুটি ক্রমিক স্বাভাবিক সংখ্যার বিয়োগফল নিচের কোনটি?",
+        "solution": "যেমন: [math]4 - 3 = 1[/math]\u003Cbr\u003E, তাই সবসময় বিয়োগফল হবে [math]1[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488357,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488358,
+      "value": {
+        "options": {
+          "ক": "37",
+          "খ": "47",
+          "গ": "57",
+          "ঘ": "67"
+        },
+        "question": "কোন সংখ্যার সাথে 15 যোগ করলে যোগফল 52 হয়?",
+        "solution": "[math]x + 15 = 52 \\Rightarrow x = 52 - 15 = 37[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488358,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488359,
+      "value": {
+        "options": {
+          "ক": "17",
+          "খ": "18",
+          "গ": "19",
+          "ঘ": "20"
+        },
+        "question": "কোন সংখ্যার সাথে 7 যোগ করলে যোগফল 26 হয়?",
+        "solution": "[math]x + 7 = 26 \\Rightarrow x = 19[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488359,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488360,
+      "value": {
+        "options": {
+          "ক": "12",
+          "খ": "16",
+          "গ": "20",
+          "ঘ": "24"
+        },
+        "question": "কোন সংখ্যার অর্ধেক থেকে তার এক-তৃতীয়াংশ বিয়োগ করলে বিয়োগফল 4 হবে?",
+        "solution": "[math]\\frac{x}{2} - \\frac{x}{3} = 4 \\Rightarrow \\frac{3x - 2x}{6} = 4 \\Rightarrow \\frac{x}{6} = 4 \\Rightarrow x = 24[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488360,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488361,
+      "value": {
+        "options": {
+          "ক": "4 মিটার",
+          "খ": "7 মিটার",
+          "গ": "9 মিটার",
+          "ঘ": "6 মিটার"
+        },
+        "question": "একটি বর্গাকার জমির পরিসীমা 36 মিটার। বাহুর দৈর্ঘ্য কত?",
+        "solution": "পরিসীমা [math]= 4 \\times বাহু \\Rightarrow বাহু = \\frac{36}{4} = 9[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488361,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488362,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "10",
+          "গ": "15",
+          "ঘ": "30"
+        },
+        "question": "কোন সংখ্যাকে 3 দ্বারা গুণ করলে ফলাফল 30 হয়?",
+        "solution": "[math]3x = 30 \\Rightarrow x = 10[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488362,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488363,
+      "value": {
+        "options": {
+          "ক": "9",
+          "খ": "12",
+          "গ": "15",
+          "ঘ": "18"
+        },
+        "question": "কোন সংখ্যার এক-তৃতীয়াংশ 6 হলে সংখ্যাটি কত?",
+        "solution": "[math]\\frac{x}{3} = 6 \\Rightarrow x = 18[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488363,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488364,
+      "value": {
+        "options": {
+          "ক": "24",
+          "খ": "28",
+          "গ": "32",
+          "ঘ": "36"
+        },
+        "question": "কোন সংখ্যার এক-অষ্টমাংশ 4 হলে সংখ্যাটি কত?",
+        "solution": "[math]\\frac{x}{8} = 4 \\Rightarrow x = 32[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488364,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488365,
+      "value": {
+        "options": {
+          "ক": "10",
+          "খ": "11",
+          "গ": "12",
+          "ঘ": "13"
+        },
+        "question": "একটি সংখ্যার ৪ গুণ 48 হলে, সংখ্যাটি কত?",
+        "solution": "[math]4x = 48 \\Rightarrow x = 12[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488365,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488366,
+      "value": {
+        "options": {
+          "ক": "25 ও 30",
+          "খ": "24 ও 31",
+          "গ": "26 ও 29",
+          "ঘ": "23 ও 32"
+        },
+        "question": "দুটি সংখ্যার যোগফল 55 এবং বড় সংখ্যাটির 5 গুণ ছোট সংখ্যার 6 গুণের সমান। সংখ্যা দুটি কত?",
+        "solution": "ছোট সংখ্যা [math]x[/math]\u003Cbr\u003E, বড় সংখ্যা [math]55 - x[/math]\u003Cbr\u003E [math]5(55 - x) = 6x \\Rightarrow 275 - 5x = 6x \\Rightarrow 11x = 275 \\Rightarrow x = 25[/math]\u003Cbr\u003E, বড়টি [math]30[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488366,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488367,
+      "value": {
+        "options": {
+          "ক": "52, 58, 70",
+          "খ": "56, 60, 64",
+          "গ": "58, 64, 58",
+          "ঘ": "54, 60, 66"
+        },
+        "question": "গীতা, রিতা ও মিতার একত্রে 180 টাকা আছে। রিতার চেয়ে গীতার 6 টাকা কম এবং মিতার চেয়ে 12 টাকা বেশি। কার কত টাকা আছে?",
+        "solution": "রিতার টাকা [math]x[/math]\u003Cbr\u003E, গীতার [math]x - 6[/math]\u003Cbr\u003E, মিতার [math]x + 12[/math]\u003Cbr\u003E [math]x + (x - 6) + (x + 12) = 180 \\Rightarrow 3x + 6 = 180 \\Rightarrow x = 58[/math]\u003Cbr\u003E, গীতা 52, মিতা 70",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488367,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488368,
+      "value": {
+        "options": {
+          "ক": "5 ও 30",
+          "খ": "6 ও 36",
+          "গ": "4 ও 24",
+          "ঘ": "7 ও 42"
+        },
+        "question": "পিতার বর্তমান বয়স পুত্রের বয়সের ৬ গুণ। ৫ বছর পর তাদের বয়সের যোগফল ৪৫। বর্তমান বয়স কত?",
+        "solution": "পুত্র [math]x[/math]\u003Cbr\u003E, পিতা [math]6x[/math]\u003Cbr\u003E [math](x+5) + (6x+5) = 45 \\Rightarrow 7x + 10 = 45 \\Rightarrow x = 5[/math]\u003Cbr\u003E, পিতা 30",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488368,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488369,
+      "value": {
+        "options": {
+          "ক": "12 ও 18",
+          "খ": "10 ও 20",
+          "গ": "15 ও 15",
+          "ঘ": "14 ও 16"
+        },
+        "question": "লিজা ও শিখার বয়সের অনুপাত 2:3, তাদের মোট বয়স 30 বছর হলে কে কত বছর বয়সে?",
+        "solution": "অনুপাত 2x:3x, [math]2x + 3x = 30 \\Rightarrow x = 6[/math], লিজা 12, শিখা 18",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488369,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488370,
+      "value": {
+        "options": {
+          "ক": "44 ও 31",
+          "খ": "40 ও 35",
+          "গ": "43 ও 32",
+          "ঘ": "45 ও 30"
+        },
+        "question": "একটি খাতা ও একটি কলমের দাম 75 টাকা। খাতার দাম 5 টাকা কমালে ও কলমের 2 টাকা বাড়ালে, খাতার দাম কলমের দ্বিগুণ হতো। দাম কত?",
+        "solution": "খাতা [math]x[/math]\u003Cbr\u003E, কলম [math]75 - x[/math]\u003Cbr\u003E [math]x - 5 = 2((75 - x) + 2)[/math]\u003Cbr\u003E সমাধানে [math]x = 44[/math]\u003Cbr\u003E, কলম = 31",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488370,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488371,
+      "value": {
+        "options": {
+          "ক": "37",
+          "খ": "36",
+          "গ": "38",
+          "ঘ": "35"
+        },
+        "question": "ইমন ও সুমনের মোট রান 58। ইমনের রান সুমনের দ্বিগুণের ৫ কম। ইমনের রান কত?",
+        "solution": "সুমন [math]x[/math]\u003Cbr\u003E, ইমন [math]2x - 5[/math]\u003Cbr\u003E, [math]x + (2x - 5) = 58 \\Rightarrow 3x = 63 \\Rightarrow x = 21[/math]\u003Cbr\u003E, ইমন 37",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488371,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488372,
+      "value": {
+        "options": {
+          "ক": "16",
+          "খ": "18",
+          "গ": "14",
+          "ঘ": "12"
+        },
+        "question": "একটি সংখ্যার দ্বিগুণ থেকে 7 বিয়োগ করলে 25 হয়। সংখ্যাটি কত?",
+        "solution": "[math]2x - 7 = 25 \\Rightarrow 2x = 32 \\Rightarrow x = 16[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 488372,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T10:18:39.000000Z",
+            "updated_at": "2025-08-21T10:18:39.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488413,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "4",
+          "গ": "5",
+          "ঘ": "6"
+        },
+        "question": "6x + 2 = 3x + 17 হলে x কত?",
+        "solution": "[math]\\begin{array}{l}6 x+2=3 x+17\\\\\\text{1. } 6 x-3 x=17-2\\\\\\text{2. } 3 x=15\\\\\\text{3. } x=5\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488411,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{3}{2}[/math]",
+          "খ": "[math]\\frac{5}{2}[/math]",
+          "গ": "[math]-\\frac{3}{2}[/math]",
+          "ঘ": "[math]-\\frac{5}{8}[/math]"
+        },
+        "question": "[math]\\frac{2 z}{3}-\\frac{2}{6}=-\\frac{3}{4}[/math] সমীকরণের বীজ কোনটি?",
+        "solution": "[math]\\frac{2 z}{3}=\\frac{-3}{4}+\\frac{2}{6}[/math]\u003Cbr\u003E বা, [math]\\frac{2 z}{3}=\\frac{-9+4}{12}[/math]\u003Cbr\u003E বা, [math]\\frac{2 z}{3}=\\frac{-5}{12} \\therefore z=\\frac{-5 \\times 3}{2 \\times 12}=\\frac{-5}{8}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]-\\frac{5}{8}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488412,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "1",
+          "গ": "2",
+          "ঘ": "3"
+        },
+        "question": "3x - 4 = - x + 4 সমীকরণের মূল কত?",
+        "solution": "[math]\\begin{array}{l}3 x-4=-x+4 \\\\\\Rightarrow 4 x=8 \\\\\\Rightarrow x=2\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488407,
+      "value": {
+        "options": {
+          "ক": "-4",
+          "খ": "-3",
+          "গ": "-2",
+          "ঘ": "-1"
+        },
+        "question": "4(2x + 1) = 4(x - 2) সমীকরণের সমাধান নিচের কোনটি?",
+        "solution": "[math]4(2 x+1)=4(x-2)[/math]\u003Cbr\u003E [math]8 x+4=4 x-8 \\Rightarrow 8 x-4 x=-8-4 \\Rightarrow 4 x=-12 \\Rightarrow x=-3[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488410,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2}{17}[/math]",
+          "খ": "[math]-\\frac{3}{17}[/math]",
+          "গ": "[math]\\frac{4}{17}[/math]",
+          "ঘ": "[math]-\\frac{4}{17}[/math]"
+        },
+        "question": "[math]4 x+9=8-\\frac{1}{4} x[/math] সমীকরণের সমাধান নিচের কোনটি?",
+        "solution": "[math]\\begin{array}{l}4 x+9=8-\\frac{1}{4} x\\\\4 x+\\frac{1}{4} x=8-9=-1\\\\\\frac{17}{4} x=-1\\\\x=\\frac{-4}{17}\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]-\\frac{4}{17}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488409,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "6",
+          "গ": "8",
+          "ঘ": "12"
+        },
+        "question": "4(x - 3) = 3(x - 2) এর মান কত?",
+        "solution": "[math]4(x-3)=3(x-2) \\Rightarrow 4 x-12=3 x-6 \\Rightarrow 4 x-3 x=-6+12 \\Rightarrow x=6[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488408,
+      "value": {
+        "options": {
+          "ক": "6",
+          "খ": "8",
+          "গ": "5",
+          "ঘ": "3"
+        },
+        "question": "[math]\\frac{2 z-1}{3}=5[/math] এ z এর মান কত?",
+        "solution": "[math]\\frac{2 z-1}{3}=5[/math]\u003Cbr\u003E [math]\\begin{array}{l}\\rightarrow 2 z-1=15 \\\\\\rightarrow 2 z=16 \\\\\\rightarrow z=8\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488420,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য কর:\n\ni. x - 2 হলে ডানপক্ষের মান 6\n\nii. x = -2 বামপক্ষের মান ০\n\niii. x = - 1 হলে বামপক্ষ ও ডানপক্ষের মান 15\n\nনিচের কোনটি সঠিক?",
+        "solution": "x = -2 বামপক্ষের মান ০ , x = - 1 হলে বামপক্ষ ও ডানপক্ষের মান 15 ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488414,
+      "value": {
+        "options": {
+          "ক": "8",
+          "খ": "16",
+          "গ": "20",
+          "ঘ": "50"
+        },
+        "question": "[math]2 y-5=9[/math] হলে, [math]y^{2}+1[/math]= কত?",
+        "solution": "[math]2 y-5=9[/math]\u003Cbr\u003E বা, [math]2 y=9+5[/math]\u003Cbr\u003E বা, [math]y=\\frac{14}{2}=7[/math]\u003Cbr\u003E [math]\\therefore y^{2}+1=7^{2}+1=49+1=50[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488415,
+      "value": {
+        "options": {
+          "ক": "-4",
+          "খ": "-3",
+          "গ": "6",
+          "ঘ": "3"
+        },
+        "question": "[math]\\frac{x}{-2}+1[/math]=3 হলে (x+1) এর মান কত?",
+        "solution": "[math]\\frac{x}{-2}+1[/math]\u003Cbr\u003E=3 -[math]\\begin{array}{l}\\Rightarrow \\frac{x}{-2}=2 \\\\\\Rightarrow x=-4 \\\\\\Rightarrow x+1=-4+1=-3\\end{array}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488416,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "4",
+          "গ": "5",
+          "ঘ": "6"
+        },
+        "question": "5(1 - x) + 3(2 - x) = - 29 সমীকরণটির বীজ কত?",
+        "solution": "5 - 5x + 6 - 3x = - 29বা, - 8x = - 29 - 11 বা, - 8x = - 40 [math]\\therefore x=\\frac{-40}{-8}=5[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488417,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "2x - 8 = 0 একটি সমীকরণ-\n\ni. সমীকরণটির ঘাত 2\n\niii. সমীকরণটির মূল 4\n\nii. এটি একটি সরল সমীকরণ\n\nনিচের কোনটি সঠিক?",
+        "solution": "2x - 8 = 0 সমীকরণটির মূল 4 , এটি একটি সরল সমীকরণ (ii ও iii) সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488418,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি সমীকরণের উভয়পক্ষ থেকে-\n\ni. সাধারণ উৎপাদক বাদ দেওয়া যায়\n\nii. চিহ্ন পরিবর্তন করে একটি পদকে অন্য পক্ষে নেওয়া যায়\n\niii. বিপরীত চিহ্নযুক্ত পদ বর্জন করা যায়\n\nনিচের কোনটি সঠিক?",
+        "solution": "একটি সমীকরণের উভয়পক্ষ থেকে-সাধারণ উৎপাদক বাদ দেওয়া যায়, চিহ্ন পরিবর্তন করে একটি পদকে অন্য পক্ষে নেওয়া যায় ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488419,
+      "value": {
+        "options": {
+          "A": "x = - 1",
+          "B": "x=-3",
+          "C": "x=3",
+          "D": "x=5"
+        },
+        "question": "5(x - 2) - 3(x - 4)\n\nউপরোক্ত সমীকরণের সমাধান কোনটি?",
+        "solution": "x = - 1",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488352,
+      "value": {
+        "options": {
+          "A": "5",
+          "B": "6",
+          "C": "7",
+          "D": "8"
+        },
+        "question": "[math]A=\\frac{2 x-1}{3}, B=\\frac{3 x+1}{5}[/math]\n\nযদি A = 5 হয় তবে কত?",
+        "solution": "[math]\\begin{array}{l}A=\\frac{2 x-1}{3}=5 \\\\\\Rightarrow 2 x-1=15 \\\\\\Rightarrow x=8\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488406,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{6}{13}[/math]",
+          "খ": "[math]\\frac{7}{15}[/math]",
+          "গ": "[math]\\frac{8}{15}[/math]",
+          "ঘ": "[math]\\frac{9}{15}[/math]"
+        },
+        "question": "13x - 5 = 3 - 2x সমীকরণের সমাধান নিচের কোনটি?",
+        "solution": "x= [math]\\frac{8}{15}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488405,
+      "value": {
+        "options": {
+          "ক": "0",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "x এর কোন মানের জন্য 4x + 1 = 2x + 7 সমীকরণটি সিদ্ধ?",
+        "solution": "[math]\\begin{array}{l}4 x+1=2 x+7 \\\\\\Rightarrow 2 x=6 \\\\\\Rightarrow x=3\\end{array}[/math]অতএব, x এর মান 3",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488404,
+      "value": {
+        "options": {
+          "ক": "-14",
+          "খ": "-12",
+          "গ": "-10",
+          "ঘ": "-8"
+        },
+        "question": "[math]\\frac{x}{3}+5=\\frac{x}{2}+7[/math] সমীকরণটির বীজ কত?",
+        "solution": "[math]\\begin{array}{l}\\frac{x}{3}+5=\\frac{x}{2}+7\\\\\\frac{x}{3}-\\frac{x}{2}=2 \\Rightarrow \\frac{-x}{6}=2 \\Rightarrow x=-12\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488403,
+      "value": {
+        "options": {
+          "ক": "আড়গুণন বিধি",
+          "খ": "প্রতিসাম্য বিধি",
+          "গ": "গুণের বণ্টন বিধি",
+          "ঘ": "গুণের বিনিময় বিধি"
+        },
+        "question": "2x + 1 = 5x - 8 , 5x-8=2x+1 এক্ষেত্রে কোন বিধি অনুসরণ করা হয়েছে?",
+        "solution": "2x + 1 = 5x - 8 , 5x-8=2x+1 এক্ষেত্রে প্রতিসাম্য বিধি বিধি অনুসরণ করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488402,
+      "value": {
+        "options": {
+          "ক": "সহযোজন",
+          "খ": "যোগের বর্জন",
+          "গ": "পক্ষান্তর",
+          "ঘ": "গুণের বর্জন"
+        },
+        "question": "4x + y - 8 = 2x + k - 8 বা, 4x + y = 2x + k এখানে কোন বিধি ব্যবহৃত হয়েছে?",
+        "solution": "4x + y - 8 = 2x + k - 8 বা, 4x + y = 2x + k এখানে যোগের বর্জন বিধি ব্যবহৃত হয়েছে ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488401,
+      "value": {
+        "options": {
+          "ক": "যোগের বর্জননীতি",
+          "খ": "পক্ষান্তর বিধি",
+          "গ": "গুণের বর্জন বিধি",
+          "ঘ": "প্রতিসাম্য বিধি"
+        },
+        "question": "কোনো সমীকরণের উভয়পক্ষ থেকে সাধারণ উৎপাদক সরাসরি বর্জন করলে তাকে কী বলে?",
+        "solution": "কোনো সমীকরণের উভয়পক্ষ থেকে সাধারণ উৎপাদক সরাসরি বর্জন করলে তাকে গুণের বর্জন বিধি বলে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488400,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "3",
+          "গ": "4",
+          "ঘ": "6"
+        },
+        "question": "সমীকরণ সমাধানের জন্য কয়টি স্বতঃসিদ্ধ আছে?",
+        "solution": "সমীকরণ সমাধানের জন্য 4 টি স্বতঃসিদ্ধ আছে ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488399,
+      "value": {
+        "options": {
+          "ক": "সূচক বিধি",
+          "খ": "পক্ষান্তর বিধি",
+          "গ": "বর্জন বিধি",
+          "ঘ": "প্রতিসাম্য বিধি"
+        },
+        "question": "একই সাথে বামপক্ষের সবগুলো পদ ডানপক্ষে ও ডানপক্ষের সবগুলো পদ বামপক্ষে কোন চিহ্ন পরিবর্তন না করে স্থানান্তর করাকে বলা হয়-",
+        "solution": "একই সাথে বামপক্ষের সবগুলো পদ ডানপক্ষে ও ডানপক্ষের সবগুলো পদ বামপক্ষে কোন চিহ্ন পরিবর্তন না করে স্থানান্তর করাকে বলা হয় প্রতিসাম্য বিধি।",
+        "explanation": "",
+        "correct_answer": "D. প্রতিসাম্য বিধি"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488398,
+      "value": {
+        "options": {
+          "ক": "প্রতিসাম্য বিধি",
+          "খ": "আড় গুণন বিধি",
+          "গ": "পক্ষান্তর বিধি",
+          "ঘ": "গুণের বর্জন বিধি"
+        },
+        "question": "কোনো সমীকরণের বামপক্ষের লব ডানপক্ষের হর বামপক্ষের হর ডানপক্ষের লব; একে কী বলে?",
+        "solution": "আড় গুণন বিধি হলো, কোনো সমীকরণের বামপক্ষের লব ডানপক্ষের হর বামপক্ষের হর ডানপক্ষের লব ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488397,
+      "value": {
+        "options": {
+          "ক": "5x - 2x - 5 + 3",
+          "খ": "5x - 6 - 2x - 3 + 0",
+          "গ": "2x + 3 - 5x - 6",
+          "ঘ": "5x - 3 = 2x + 6"
+        },
+        "question": "নিচের কোনটি 5x - 6 = 2x + 3 সমীকরণটির প্রতিসাম্য বিধি?",
+        "solution": "5x - 6 = 2x + 3 এর প্রতিসাম্য বিধি 2x + 3 - 5x - 6",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488396,
+      "value": {
+        "options": {
+          "ক": "6",
+          "খ": "5",
+          "গ": "2",
+          "ঘ": "4"
+        },
+        "question": "[math]\\frac{a}{2}+1=3[/math] সমীকরণের মূল কত?",
+        "solution": "[math]\\frac{a}{2}+1=3[/math] সমীকরণের মূল 4।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488355,
+      "value": {
+        "options": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "4"
+        },
+        "question": "[math]x^{2}-9[/math] এবং [math]x^{2}-9 x+18[/math]\n\n(১ম রাশি - ২য় রাশি)=0 হলে, x এর মান কত?",
+        "solution": "[math]\\begin{array}{l}\\left(x^{2}-9\\right)-\\left(x^{2}-9 x+18\\right)=0\\\\x^{2}-9-x^{2}+9 x-18=0 \\Rightarrow 9 x-27=0 \\Rightarrow x=\\frac{27}{9}=3\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488354,
+      "value": {
+        "options": {
+          "A": "i ও ii",
+          "B": "i ও iii",
+          "C": "ii ও iii",
+          "D": "i, ii ও iii"
+        },
+        "question": "[math]x^{2}-9[/math] এবং [math]x^{2}-9 x+18[/math]\n\nরাশি দুটির-\n\ni. গ. সা. গু. x - 3\n\nii. ল. সা. গু. [math]\\left(x^{2}-9\\right)(x-6)[/math]\n\niii. ভাগফল [math]\\frac{x+3}{x-6}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "রাশি দুটির- (i, ii ও iii) সবগুলো তথ্য সঠিক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 488353,
+      "value": {
+        "options": {
+          "A": "8",
+          "B": "7",
+          "C": "4",
+          "D": "1"
+        },
+        "question": "[math]A=\\frac{2 x-1}{3}, B=\\frac{3 x+1}{5}[/math]\n\nযদি A = B হয় তবে x= কত?",
+        "solution": "[math]\\frac{2 x-1}{3}=\\frac{3 x+1}{5}[/math]\u003Cbr\u003E বা, [math]10 x-5=9 x+3[/math]\u003Cbr\u003Eবা, [math]10 x-9 x=3+5 \\therefore x=8[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7766,
+      "created_at": "2025-08-21T10:18:39.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7766&grade=3&lesson=7768&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7766&grade=3&lesson=7768&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7766&grade=3&lesson=7768&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 69,
+  "total": 69
+}

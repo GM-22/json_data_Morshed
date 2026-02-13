@@ -1,0 +1,560 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 768808,
+      "value": {
+        "options": {
+          "ক": "আরবি",
+          "খ": "ফারসি",
+          "গ": "উর্দু",
+          "ঘ": "বাংলা"
+        },
+        "question": "হাদিস কী শব্দ?",
+        "solution": "ক. আরবি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768809,
+      "value": {
+        "options": {
+          "ক": "তাফসীর গ্রন্থ",
+          "খ": "হাদিস গ্রন্থ",
+          "গ": "ফিকহ শাস্ত্র",
+          "ঘ": "ইলমে তাসাউফ"
+        },
+        "question": "কুরআনের ব্যাখ্যা বলা হয় কোনটিকে?",
+        "solution": "খ. হাদিস গ্রন্থ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768810,
+      "value": {
+        "options": {
+          "ক": "সঠিক",
+          "খ": "ছয়",
+          "গ": "গুরুত্বপূর্ণ",
+          "ঘ": "গ্রন্থ"
+        },
+        "question": "الستة অর্থ কী?",
+        "solution": "খ. ছয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768811,
+      "value": {
+        "options": {
+          "ক": "i ও ii&nbsp;",
+          "খ": "ii ও iii&nbsp;",
+          "গ": "i ও iii&nbsp;",
+          "ঘ": "i, ii ও iii&nbsp;"
+        },
+        "question": "সিহাহ সিত্তাহর অন্তর্ভুক্ত হলো-\u003Cbr\u003E\ni. সুনানে নাসাই\u003Cbr\u003E\nii. মুয়াত্তা\u003Cbr\u003E\niii. ইবন মাজাহ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. i ও iii&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768811,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 768812,
+      "value": {
+        "options": [],
+        "question": "সিহাহ সিত্তাহ কী? সংক্ষেপে লেখ।",
+        "solution": "সিহাহ শব্দের অর্থ শুদ্ধ, সঠিক। আর সিত্তাহ শব্দের অর্থ ছয়।&nbsp;বিশুদ্ধ ছয়টি গ্রন্থকে একত্রে সিহাহ সিত্তাহ বলা হয়। প্রিয় নবি হযরত মুহাম্মদ (স.)-এর সহিহ হাদিসসমূহ এ ছয়টি গ্রন্থে একত্র করা হয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768813,
+      "value": {
+        "options": {
+          "ক": "হাদিস রাসুল\u003Cbr /\u003E\n(স.)-এর বাণী",
+          "খ": "হাদিসের অধিকাংশ বাণী সত্য",
+          "গ": "হাদিস কুরআনের ব্যাখ্যা",
+          "ঘ": "সবগুলো"
+        },
+        "question": "ইসলামি শরিয়তে হাদিস গুরুত্ববহ। কারণ-",
+        "solution": "গ. হাদিস কুরআনের ব্যাখ্যা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768814,
+      "value": {
+        "options": {
+          "ক": "সূরা বাকারা",
+          "খ": "সূরা হাশর",
+          "গ": "সূরা রাহমান",
+          "ঘ": "সূরা ইয়াছিন"
+        },
+        "question": "\"আর রাসুল তোমাদের যা দেন, তা তোমরা গ্রহণ এবং যা থেকে তোমাদের নিষেধ করেন তা থেকে বিরত থাক।\"-আয়াতটি কোন সূরার?",
+        "solution": "খ. সূরা হাশর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768815,
+      "value": {
+        "options": {
+          "ক": "পুণ্য ও ন্যায়ের পথে চলার জন্য",
+          "খ": "কুরআন তিলাওয়াতের জন্য",
+          "গ": "সালাত পড়ার জন্য",
+          "ঘ": "তাজবিদ জানার জন্য"
+        },
+        "question": "হাদিস শরিফের প্রয়োজনীয়তা অনস্বীকার্য কেন?",
+        "solution": "ক. পুণ্য ও ন্যায়ের পথে চলার জন্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768816,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আমাদের জীবনে হাদিস গুরুত্বপূর্ণ; কারণ-\u003Cbr\u003E\ni. রাসুলুল্লাহ (স.)-এর জীবনাদর্শ\u003Cbr\u003E\nii. কুরআনের ব্যাখ্যা\u003Cbr\u003E\niii. ভাষা সহজ-সরল\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768816,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 768817,
+      "value": {
+        "options": [],
+        "question": "সহিহ বুখারির সংক্ষিপ্ত পরিচয় লেখ।",
+        "solution": "সহিহ বুখারি গ্রন্থের সংকলক হলেন আবু আব্দুল্লাহ মুহাম্মদ&nbsp;ইবনু ইসমাইল বুখারি (র.)। তিনি ইমাম বুখারি নামে খ্যাত। তাঁর নামানুসারেই তাঁর সংকলিত কিতাবকে সহিহ বুখারি বলা হয়। তিনি সর্বমোট ছয় লক্ষ হাদিস থেকে যাচাই-বাছাই করে তাঁর কিতাব সংকলন করেন। সহিহ বুখারি সবচেয়ে প্রসিদ্ধ হাদিস গ্রন্থ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768818,
+      "value": {
+        "options": [],
+        "question": "সহিহ মুসলিমের সংক্ষিপ্ত পরিচয় লেখ।",
+        "solution": "সহিহ মুসলিম সিহাহ সিত্তাহর দ্বিতীয় গ্রন্থ। বিশুদ্ধতার দিক থেকে সহিহ বুখারির পরই এর স্থান। এ গ্রন্থের সংকলক হলেন আবুল হুসাইন মুসলিম ইবনু হাজ্জাজ আল কুশাইরি (র.) তিনি তিন লক্ষ হাদিস থেকে বাছাই করে এ কিতাব সংকলন করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768819,
+      "value": {
+        "options": {
+          "ক": "বাণী",
+          "খ": "উপদেশ",
+          "গ": "সংবাদবাহক",
+          "ঘ": "পাঠ"
+        },
+        "question": "'হাদিস' অর্থ-",
+        "solution": "ক. বাণী",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768820,
+      "value": {
+        "options": [],
+        "question": "হাদিস শব্দটি দ্বারা কী বোঝায়?",
+        "solution": "হাদিস আরবি শব্দ। এর অর্থ কথা, বাণী ইত্যাদি। ইসলামি পরিভাষায়, মহানবি হযরত মুহাম্মদ (স.)-এর বাণী, কর্ম ও মৌনসম্মতিকে হাদিস বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768821,
+      "value": {
+        "options": [],
+        "question": "জামি তিরমিযির সংক্ষিপ্ত পরিচয় লেখ।",
+        "solution": "জামি তিরমিযি কিতাবের সংকলক আবু ঈসা মুহাম্মদ ইবনু ঈসা আত-তিরমিযি (র.)। এ কিতাবে প্রায় সব বিষয়ের হাদিস সংকলন করা হয়েছে। এ কিতাব সম্পর্কে বলা হয়- &#39;যার ঘরে এ কিতাব থাকবে, মনে করা যাবে যে তার ঘরে নবি করিম (স.) আছেন এবং তিনি নিজে কথা বলছেন।&#39;",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12919,
+      "created_at": "2025-12-01T06:55:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12919&grade=3&lesson=14363&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12919&grade=3&lesson=14363&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12919&grade=3&lesson=14363&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

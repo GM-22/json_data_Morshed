@@ -1,0 +1,1045 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 767450,
+      "value": {
+        "options": {
+          "ক": "কী-বোর্ড",
+          "খ": "মাইক্রোফোন",
+          "গ": "মাউস",
+          "ঘ": "ওয়েব ক্যাম"
+        },
+        "question": "রিপন কোন ডিভাইসের বাটনে ক্লিক করে কম্পিউটারে নির্দেশ প্রদান করতে পারবে?",
+        "solution": "গ. মাউস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767450,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767461,
+      "value": {
+        "options": [],
+        "question": "ইনপুট ডিভাইস বলতে কী বোঝো?",
+        "solution": "ইনপুট ডিভাইস হলো এমন যন্ত্র বা মাধ্যম, যা ব্যবহারকারীদের কাছ থেকে ডেটা, তথ্য বা নির্দেশনা সংগ্রহ করে কম্পিউটারে প্রেরণ করে। এই ডিভাইসগুলো ব্যবহারকারীর নির্দেশনা ও ডেটাকে কম্পিউটারের প্রসেসিংয়ের জন্য পাঠায়। যেমন- কীবোর্ড, মাউস, মাইক্রোফোন, স্ক্যানার, ক্যামেরা, টাচপ্যাড ইত্যাদি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767460,
+      "value": {
+        "options": [],
+        "question": "কী-বোর্ডকে প্রধান ইনপুট ডিভাইস বলা হয় কেন? ব্যাখ্যা করো।",
+        "solution": "কী-বোর্ডকে প্রধান ইনপুট ডিভাইস বলা হয়। কারণ তথ্য ও যোগাযোগ প্রযুক্তির অধিকাংশ যন্ত্রে কী-বোর্ডের মাধ্যমে নির্দেশনা দিতে হয়। বিশেষ করে কম্পিউটারে ওয়ার্ড প্রসেসিং কাজে একমাত্র কী-বোর্ড দিয়ে প্রায় সকল ধরনের নির্দেশনা দিতে হয়। কোনো কিছু লিখতে কী-বোর্ডে বর্ণ, সংখ্যা, চিহ্ন থাকে। এমনকি কী-বোর্ডের মাধ্যমে বিভিন্ন ভাষার কমান্ড থাকে। ব্যবহারকারী সেগুলো কী-বোর্ড কমান্ডের মাধ্যমে ব্যবহার করতে পারেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767459,
+      "value": {
+        "options": [],
+        "question": "মাইক্রোফোন কী ধরনের ডিভাইস? লেখো।",
+        "solution": "মাইক্রোফোন এক ধরনের ইনপুট ডিভাইস। এটি ব্যবহার করে আমরা কথা, গান বা যেকোনো ধরনের শব্দ কম্পিউটারে প্রবেশ করাতে পারি। বিশেষ করে অনলাইনভিত্তিক ভিডিও কনফারেন্সিংয়ের ক্ষেত্রে কথা বলার জন্য এটি ব্যবহৃত হয়। বর্তমানে এটি কম্পিউটার ও স্মার্টফোনে ইনপুট যন্ত্র হিসাবে ব্যবহার হয়। কথা বলা ছাড়াও ভয়েস রিকগনিশনের ক্ষেত্রে মাইক্রোফোন ব্যবহার হয়ে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767458,
+      "value": {
+        "options": [],
+        "question": "কী-বোর্ডের গঠন সম্পর্কে লেখো।",
+        "solution": "কম্পিউটারে বিভিন্ন তথ্য বা নির্দেশনা প্রদান করার অন্যতম মাধ্যম হিসাবে কী-বোর্ড ব্যবহৃত হয়। আধুনিক কম্পিউটারের কী-বোর্ডের ধারণা টাইপরাইটার থেকে এসেছে। কী-বোর্ডে সাধারণত বর্ণ, সংখ্যা, অঙ্ক, প্রতীক ইত্যাদি বাটন বিন্যস্ত থাকে। কী-বোর্ডে বিভিন্ন ধরনের কী থাকে। কী-বোর্ডর উপরের দিকে ১২টি ফাংশন কী, ডানদিকে নিউমেরিক কী এবং এর পাশে মুভমেন্ট কী থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 767458,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 767457,
+      "value": {
+        "options": [],
+        "question": "কী-বোর্ড একটি ইনপুট ডিভাইস- ব্যাখ্যা করো।",
+        "solution": "কম্পিউটারে ইনপুট দেওয়ার প্রধান এবং বহুল ব্যবহৃত যন্ত্র হলো কী-বোর্ড। তথ্য ও যোগাযোগ প্রযুক্তির অধিকাংশ যন্ত্রে সাধারণত কী-বোর্ডের মাধ্যমে ইনপুট দেওয়া হয়। কম্পিউটার বা অন্যান্য যন্ত্র দিয়ে কোনো কাজ করতে চাইলে, এদের কিছু নির্দেশনা দিতে হয়। কী-বোর্ডের বোতাম চেপে এ নির্দেশ বা ডেটা কম্পিউটার/যন্ত্রের মধ্যে প্রবেশ করানো হয়। এ জন্য কী-বোর্ড ইনপুট ডিভাইস হিসেবে বহুল ব্যবহৃত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 767457,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 767456,
+      "value": {
+        "options": [],
+        "question": "কম্পিউটারের মাউস সম্পর্কে বুঝিয়ে বলো।&nbsp;",
+        "solution": "কম্পিউটারের মাউস একটি জনপ্রিয় ইনপুট ডিভাইস। একে পয়েন্টিং ডিভাইসও বলা হয়। এটি দেখতে অনেকটা ইঁদুরের মতো, তাই এর নাম দেওয়া হয় মাউস। মাউসে সাধারণত দুটি বাটন ও একটি স্ক্রল চক্র (হুইল) থাকে। মাউসের বাম বাটন দিয়ে ফাইল নির্বাচন করা এবং ডান বাটন দিয়ে বিভিন্ন অপশনে যাওয়া যায়। মাউসের স্ক্রল চক্র দিয়ে স্ক্রিনের ডকুমেন্টের উপরে নিচে যাওয়া যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 767456,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 767455,
+      "value": {
+        "options": {
+          "ক": "বর্ণ",
+          "খ": "সংখ্যা",
+          "গ": "বিশেষ কিছু চিহ্ন",
+          "ঘ": "সবগুলো"
+        },
+        "question": "কী-বোর্ডে সারিবদ্ধভাবে কোন কোন জিনিস বিন্যস্ত থাকে?",
+        "solution": "ঘ. সবগুলো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767454,
+      "value": {
+        "options": {
+          "ক": "কী-বোর্ড",
+          "খ": "মাইক্রোফোন",
+          "গ": "ওয়েব ক্যামেরা",
+          "ঘ": "টাচপ্যাড"
+        },
+        "question": "ল্যাপটপে কী দিয়ে মাউসের কাজ সম্পাদন করা যায়?",
+        "solution": "ঘ. টাচপ্যাড",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767454,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767453,
+      "value": {
+        "options": {
+          "ক": "মাইক্রোফোন",
+          "খ": "ডিজিটাল ক্যামেরা",
+          "গ": "ওয়েব ক্যাম",
+          "ঘ": "ওএমআর"
+        },
+        "question": "ভয়েস রিকগনিশনের ক্ষেত্রে নিচের কোনটি ব্যবহার করা হয়?",
+        "solution": "ক. মাইক্রোফোন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767452,
+      "value": {
+        "options": {
+          "ক": "কী-বোর্ড",
+          "খ": "মাইক্রোফোন",
+          "গ": "মাউস",
+          "ঘ": "ওএমআর"
+        },
+        "question": "কথা বা গান কম্পিউটারে প্রবেশ করাতে মিতু কোন ডিভাইসটি ব্যবহার করবে?",
+        "solution": "খ. মাইক্রোফোন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767452,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767451,
+      "value": {
+        "options": {
+          "ক": "সাধারণ কাজের ক্ষেত্রে",
+          "খ": "নির্দেশনা দানের ক্ষেত্রে",
+          "গ": "বিশেষ কাজের ক্ষেত্রে",
+          "ঘ": "টাইপ করার ক্ষেত্রে"
+        },
+        "question": "কম্পিউটারের কী-বোর্ড টাইপরাইটারের কী-বোর্ডের মতো তবে এখানে কিছু অতিরিক্ত কী থাকে। এগুলো কখন ব্যবহার করা হয়?",
+        "solution": "গ. বিশেষ কাজের ক্ষেত্রে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767451,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767439,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার",
+          "খ": "মোবাইল",
+          "গ": "ই-বুক রিডার",
+          "ঘ": "ল্যাপটপ"
+        },
+        "question": "সম্প্রতি বাংলাদেশ সরকার আমদানিকৃত কোন যন্ত্রের কী-বোর্ড বাংলা লেআউট যুক্ত করার এক নির্দেশনা জারি করেছে?",
+        "solution": "খ. মোবাইল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767439,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767449,
+      "value": {
+        "options": {
+          "ক": "যন্ত্রগুলোকে আধুনিক করতে হয়",
+          "খ": "যন্ত্রগুলোকে কিছু নির্দেশনা দিতে হয়",
+          "গ": "যন্ত্রগুলোকে সব সময় পরিষ্কার রাখতে হয়",
+          "ঘ": "যন্ত্রগুলোকে নেটওয়ার্কভুক্ত করতে হয়"
+        },
+        "question": "যন্ত্র দিয়ে কোনো কাজ করাতে চাইলে কী করতে হয়?",
+        "solution": "খ. যন্ত্রগুলোকে কিছু নির্দেশনা দিতে হয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767449,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767448,
+      "value": {
+        "options": {
+          "ক": "রেডিও",
+          "খ": "টেলিভিশন",
+          "গ": "টেলিফোন",
+          "ঘ": "টাইপ রাইটার"
+        },
+        "question": "আধুনিক কী- বোর্ডের ধারণা কোন যন্ত্র থেকে এসেছে?",
+        "solution": "ঘ. টাইপ রাইটার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767448,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767447,
+      "value": {
+        "options": {
+          "ক": "আউটপুট ডিভাইস",
+          "খ": "পয়েন্টিং ডিভাইস",
+          "গ": "স্টোরেজ ডিভাইস",
+          "ঘ": "ইলেকট্রনিক ডিভাইস"
+        },
+        "question": "মাউসকে অনেকে কী বলে?",
+        "solution": "খ. পয়েন্টিং ডিভাইস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767447,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767446,
+      "value": {
+        "options": {
+          "ক": "একবার",
+          "খ": "দু'বার",
+          "গ": "তিনবার",
+          "ঘ": "চারবার"
+        },
+        "question": "কতবার ক্লিক করলে কম্পিউটারের প্রোগ্রামটি চালু হবে?",
+        "solution": "খ. দু'বার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767445,
+      "value": {
+        "options": {
+          "ক": "র‍্যাম",
+          "খ": "কী-বোর্ড",
+          "গ": "রম",
+          "ঘ": "মনিটর"
+        },
+        "question": "কম্পিউটারে ইনপুট দেওয়ার প্রধান যন্ত্র কোনটি?",
+        "solution": "খ. কী-বোর্ড",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767444,
+      "value": {
+        "options": {
+          "ক": "কী-বোর্ড",
+          "খ": "মনিটর",
+          "গ": "মাউস",
+          "ঘ": "প্রিন্টার"
+        },
+        "question": "পয়েন্টিং ডিভাইস হচ্ছে-",
+        "solution": "গ. মাউস",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 767444,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T05:02:31.000000Z",
+            "updated_at": "2025-12-01T05:02:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767443,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সপ্তম শ্রেণিতে ওঠার পর যতিনের বাবা যতিনকে একটি কম্পিউটার কিনে দিলেন। যতিন কম্পিউটারের বাক্স খুলে দেখল সেখানে একটি সিপিইউ, একটি মনিটর, একটি কী-বোর্ড, একটি মাউস এবং দুইটি স্পিকার রয়েছে। ছোট চাচার সাহায্য নিয়ে সে যন্ত্রগুলো সংযুক্ত করে কম্পিউটার চালু করল।\u003Cbr\u003E\nযতীন তার ইনপুট ডিভাইসগুলো ব্যবহার করে কম্পিউটারে যে ধরনের ইনপুট প্রবেশ করাতে পারবে-\u003Cbr\u003E\ni. বর্ণ ও সংখ্যা\u003Cbr\u003E\nii. বিশেষ ধরনের চিহ্ন\u003Cbr\u003E\niii. যেকোনো ধরনের শব্দ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767443,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767443,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767443,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767442,
+      "value": {
+        "options": {
+          "ক": "কী-বোর্ড",
+          "খ": "মাউস",
+          "গ": "মনিটর",
+          "ঘ": "সিপিইউ"
+        },
+        "question": "সপ্তম শ্রেণিতে ওঠার পর যতিনের বাবা যতিনকে একটি কম্পিউটার কিনে দিলেন। যতিন কম্পিউটারের বাক্স খুলে দেখল সেখানে একটি সিপিইউ, একটি মনিটর, একটি কী-বোর্ড, একটি মাউস এবং দুইটি স্পিকার রয়েছে। ছোট চাচার সাহায্য নিয়ে সে যন্ত্রগুলো সংযুক্ত করে কম্পিউটার চালু করল।\u003Cbr\u003E\nনিচের কোন ডিভাইস থেকে যতিন তার কাজের আউটপুট পাবে?",
+        "solution": "গ. মনিটর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767442,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767442,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767441,
+      "value": {
+        "options": {
+          "ক": "আউটপুট ডিভাইস",
+          "খ": "ইনপুট ডিভাইস",
+          "গ": "সফ্টওয়্যার",
+          "ঘ": "উপরের কোনোটিই নয়"
+        },
+        "question": "মাইক্রোফোন কম্পিউটারে-",
+        "solution": "খ. ইনপুট ডিভাইস",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767440,
+      "value": {
+        "options": {
+          "ক": "কী-বোর্ড",
+          "খ": "মাউস",
+          "গ": "মাইক্রোফোন",
+          "ঘ": "ওয়েব ক্যামেরা"
+        },
+        "question": "কম্পিউটারে ইনপুট দেয়ার প্রধান বাহন কোনটি?",
+        "solution": "ক. কী-বোর্ড",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:02:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767440,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=619&grade=3&lesson=14309&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=619&grade=3&lesson=14309&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=619&grade=3&lesson=14309&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 23,
+  "total": 23
+}

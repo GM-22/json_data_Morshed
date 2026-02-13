@@ -1,0 +1,941 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 766286,
+      "value": {
+        "options": {
+          "ক": "হিলিয়াম",
+          "খ": "হাইড্রোজেন",
+          "গ": "অক্সিজেন",
+          "ঘ": "ব্রোমিন"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744691530330_1764560096_oSbwMnK9.webp\"\u003Eপ্রথম চিত্রটি কোন মৌলের?",
+        "solution": "ক. হিলিয়াম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766286,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 766286,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766286,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766294,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "হিলিয়াম পরমাণুর কেন্দ্রে আছে-\u003Cbr\u003E\ni. দুটি প্রোটন&nbsp;\u003Cbr\u003E\nii. দুটি নিউট্রন&nbsp;\u003Cbr\u003E\niii. দুটি ইলেকট্রন&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766294,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766294,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766293,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রন",
+          "খ": "মেসন",
+          "গ": "নিউট্রন ও প্রোটন",
+          "ঘ": "পজিট্রন"
+        },
+        "question": "পরমাণুর কেন্দ্রে অবস্থান করে কোনটি?",
+        "solution": "গ. নিউট্রন ও প্রোটন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766293,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766292,
+      "value": {
+        "options": {
+          "ক": "নিউট্রন",
+          "খ": "প্রোটন",
+          "গ": "মেসন",
+          "ঘ": "ইলেকট্রন"
+        },
+        "question": "পরমাণুর কেন্দ্রের বাইরে কী থাকে?",
+        "solution": "ঘ. ইলেকট্রন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766292,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766291,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রন, প্রোটন ও মেসন",
+          "খ": "ইলেকট্রন, নিউট্রন ও মেসন",
+          "গ": "পজিট্রন, মেসন, পাইডন",
+          "ঘ": "ইলেকট্রন, প্রোটন ও নিউট্রন"
+        },
+        "question": "পরমাণুর ক্ষুদ্র কণাগুলো কী কী?",
+        "solution": "ঘ. ইলেকট্রন, প্রোটন ও নিউট্রন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766291,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766290,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744691530330_1764560096_SPnAVfAx.webp\"\u003Eদ্বিতীয় চিত্রটি-\u003Cbr\u003E\ni. অক্সিজেন পরমাণুর গঠন চিত্র&nbsp;\u003Cbr\u003E\nii. এর কেন্দ্রে আছে ৮টি প্রোটন ও ৮টি নিউট্রন&nbsp;\u003Cbr\u003E\niii. কক্ষপথে আছে ৬টি ইলেকট্রন&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 766290,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 766290,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766290,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766290,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766289,
+      "value": {
+        "options": {
+          "ক": "৫",
+          "খ": "৬",
+          "গ": "৭",
+          "ঘ": "৮"
+        },
+        "question": "O\u003Csub\u003E2\u003C/sub\u003E এর কক্ষপথে কতটি ইলেকট্রন আছে?",
+        "solution": "ঘ. ৮",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766289,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766288,
+      "value": {
+        "options": {
+          "ক": "হিলিয়াম",
+          "খ": "অক্সিজেন",
+          "গ": "হাইড্রোজেন",
+          "ঘ": "ক্লোরিন"
+        },
+        "question": "কোন পরমাণুর কেন্দ্রে থাকে ১টি প্রোটন আর বাইরে থাকে ১টি ইলেকট্রন?",
+        "solution": "গ. হাইড্রোজেন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766288,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766287,
+      "value": {
+        "options": {
+          "ক": "অণু",
+          "খ": "পরমাণু",
+          "গ": "যৌগ",
+          "ঘ": "মৌল"
+        },
+        "question": "ইলেকট্রন, প্রোটন ও নিউট্রন একত্রে কী সৃষ্টি করে?",
+        "solution": "খ. পরমাণু",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766287,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766277,
+      "value": {
+        "options": {
+          "ক": "১টি",
+          "খ": "২টি",
+          "গ": "৩টি",
+          "ঘ": "৪টি"
+        },
+        "question": "হিলিয়াম পরমাণুর কেন্দ্রে ২টি প্রোটন আছে। এতে কয়টি ইলেকট্রন থাকবে?",
+        "solution": "খ. ২টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766277,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766285,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "i ও iii",
+          "ঘ": "ii ও iii"
+        },
+        "question": "পরমাণুর কেন্দ্রে থাকে-\u003Cbr\u003E\ni. ইলেকট্রন&nbsp;\u003Cbr\u003E\nii. প্রোটন&nbsp;\u003Cbr\u003E\niii. নিউট্রন&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766285,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766285,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766284,
+      "value": {
+        "options": {
+          "ক": "৭টি",
+          "খ": "৮টি",
+          "গ": "৯টি",
+          "ঘ": "১০টি"
+        },
+        "question": "অক্সিজেন পরমাণুর কেন্দ্রে ৮টি প্রোটন ও ৮টি নিউট্রন আছে। এতে কয়টি ইলেকট্রন বিদ্যমান?",
+        "solution": "খ. ৮টি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766284,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766283,
+      "value": {
+        "options": {
+          "ক": "হাইড্রোজেন",
+          "খ": "হিলিয়াম",
+          "গ": "অক্সিজেন",
+          "ঘ": "নাইট্রোজেন"
+        },
+        "question": "নিচের কোন মৌলের পরমাণুতে নিউট্রন অনুপস্থিত?",
+        "solution": "ক. হাইড্রোজেন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766283,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766282,
+      "value": {
+        "options": {
+          "ক": "প্রোটন",
+          "খ": "নিউট্রন",
+          "গ": "পজিট্রন",
+          "ঘ": "ইলেকট্রন"
+        },
+        "question": "পরমাণুর কোনটি কেন্দ্রের চারদিকে বৃত্তাকার কক্ষপথে ঘোরে?",
+        "solution": "ঘ. ইলেকট্রন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766282,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766281,
+      "value": {
+        "options": {
+          "ক": "পরমাণুর ফাঁকা স্থানে",
+          "খ": "পরমাণুর বাইরে",
+          "গ": "পরমাণুর কেন্দ্রে",
+          "ঘ": "পরমাণুর চারপাশে"
+        },
+        "question": "পরমাণুতে প্রোটন কোথায় অবস্থান করে?",
+        "solution": "গ. পরমাণুর কেন্দ্রে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766281,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766280,
+      "value": {
+        "options": {
+          "ক": "পরমাণুর কেন্দ্রে",
+          "খ": "পরমাণুর চারপাশে",
+          "গ": "পরমাণুর ফাঁকা স্থানে",
+          "ঘ": "পরমাণুর বাইরে"
+        },
+        "question": "নিউট্রন পরমাণুর কোথায় অবস্থান করে?",
+        "solution": "ক. পরমাণুর কেন্দ্রে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766280,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766279,
+      "value": {
+        "options": {
+          "ক": "সাধারণ মাইক্রোস্কোপ",
+          "খ": "ইলেকট্রন মাইক্রোস্কোপ",
+          "গ": "সাধারণ টেলিস্কোপ",
+          "ঘ": "ইলেকট্রন টেলিস্কোপ"
+        },
+        "question": "কোনো জিনিসকে তার আকারের তুলনায় কয়েক মিলিয়ন গুণ বড় দেখার জন্য কী যন্ত্র ব্যবহার হয়?",
+        "solution": "খ. ইলেকট্রন মাইক্রোস্কোপ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766279,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766278,
+      "value": {
+        "options": {
+          "ক": "৬টি",
+          "খ": "৭টি",
+          "গ": "৮টি",
+          "ঘ": "৯টি"
+        },
+        "question": "অক্সিজেন পরমাণুর কেন্দ্রে কয়টি নিউট্রন আছে?",
+        "solution": "গ. ৮টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7827,
+      "created_at": "2025-12-01T03:34:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766278,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7827&grade=3&lesson=14244&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7827&grade=3&lesson=14244&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7827&grade=3&lesson=14244&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

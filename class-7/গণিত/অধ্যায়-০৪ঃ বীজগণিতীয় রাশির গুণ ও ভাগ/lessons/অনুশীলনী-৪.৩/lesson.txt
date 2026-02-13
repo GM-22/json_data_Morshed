@@ -1,0 +1,2903 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 487287,
+      "value": {
+        "options": {
+          "ক": "[math]0[/math]",
+          "খ": "[math]1[/math]",
+          "গ": "[math]2[/math]",
+          "ঘ": "[math]3[/math]"
+        },
+        "question": "[math]x = 2[/math] হলে, [math]3x - [x + {2x - 1}] =[/math] কত?",
+        "solution": "[math]{2x - 1} = 3[/math]\u003Cbr\u003E, [math]x + 3 = 5[/math]\u003Cbr\u003E, [math]3x = 6[/math]\u003Cbr\u003E, [math]6 - 5 = 1[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487287,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487274,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]9x^2 - {4x^2 - [3x^2 - (2x^2 - x^2)]}[/math]",
+        "solution": "[math]= 9x^2 - {4x^2 - [3x^2 - (x^2)]}[/math]\u003Cbr\u003E [math]= 9x^2 - {4x^2 - (3x^2 - x^2)}[/math]\u003Cbr\u003E [math]= 9x^2 - {4x^2 - 2x^2}[/math]\u003Cbr\u003E [math]= 9x^2 - 2x^2 = 7x^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভিতরের বন্ধনীগুলো থেকে শুরু করলে [math](2x^2 - x^2)=x^2[/math] এবং তাই [math]3x^2 - (2x^2 - x^2)=3x^2 - x^2=2x^2[/math]. এখন [math]4x^2 - [3x^2 - (2x^2 - x^2)]=4x^2 - 2x^2=2x^2[/math] হওয়ায় [math]9x^2 - {4x^2 - [3x^2 - (2x^2 - x^2)]}=9x^2 - 2x^2=7x^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487274,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487275,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]16a^2 + {4b^2 - [2a^2 + (b^2 - 3a^2)]}[/math]",
+        "solution": "[math]= 16a^2 + {4b^2 - [2a^2 + b^2 - 3a^2]}[/math]\u003Cbr\u003E [math]= 16a^2 + {4b^2 - (b^2 - a^2)}[/math]\u003Cbr\u003E [math]= 16a^2 + (4b^2 - b^2 + a^2)[/math]\u003Cbr\u003E [math]= 16a^2 + 3b^2 + a^2 = 17a^2 + 3b^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে ভিতরের বন্ধনীগুলো খুললে [math]2a^2+(b^2-3a^2)=b^2-a^2[/math]. তাই [math]4b^2-[b^2-a^2]=3b^2+a^2[/math] এবং শেষে [math]16a^2+(3b^2+a^2)=17a^2+3b^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487275,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487276,
+      "value": {
+        "options": {
+          "ক": "[math]10[/math]",
+          "খ": "[math]8[/math]",
+          "গ": "[math]9[/math]",
+          "ঘ": "[math]11[/math]"
+        },
+        "question": "[math]3 + {2 + (4 - 1)} =[/math] কত?",
+        "solution": "[math](4 - 1) = 3[/math]\u003Cbr\u003E, তারপর [math]2 + 3 = 5[/math]\u003Cbr\u003E, শেষে [math]3 + 5 = 8[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487276,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487277,
+      "value": {
+        "options": {
+          "ক": "[math]3[/math]",
+          "খ": "[math]5[/math]",
+          "গ": "[math]4[/math]",
+          "ঘ": "[math]2[/math]"
+        },
+        "question": "[math]5 - {3 - (2 - 1)} =[/math] কত?",
+        "solution": "[math](2 - 1) = 1[/math]\u003Cbr\u003E, [math]3 - 1 = 2[/math]\u003Cbr\u003E, [math]5 - 2 = 3[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487277,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487278,
+      "value": {
+        "options": {
+          "ক": "[math]4[/math]",
+          "খ": "[math]5[/math]",
+          "গ": "[math]6[/math]",
+          "ঘ": "[math]7[/math]"
+        },
+        "question": "[math]4 + [2 - {3 - (5 - 2)}] =[/math] কত?",
+        "solution": "[math](5 - 2) = 3[/math]\u003Cbr\u003E, [math]3 - 3 = 0[/math]\u003Cbr\u003E, [math]2 - 0 = 2[/math]\u003Cbr\u003E, [math]4 + 2 = 6[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487278,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487279,
+      "value": {
+        "options": {
+          "ক": "[math]4[/math]",
+          "খ": "[math]5[/math]",
+          "গ": "[math]6[/math]",
+          "ঘ": "[math]7[/math]"
+        },
+        "question": "[math]10 - [3 + {2 - (1 - 1)}] =[/math] কত?",
+        "solution": "[math](1 - 1) = 0[/math]\u003Cbr\u003E, [math]2 - 0 = 2[/math]\u003Cbr\u003E, [math]3 + 2 = 5[/math]\u003Cbr\u003E, [math]10 - 5 = 5[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487279,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487280,
+      "value": {
+        "options": {
+          "ক": "[math]2[/math]",
+          "খ": "[math]1[/math]",
+          "গ": "[math]3[/math]",
+          "ঘ": "[math]0[/math]"
+        },
+        "question": "[math]6 - {2 + [3 - (4 - 2)]} =[/math] কত?",
+        "solution": "[math](4 - 2) = 2[/math]\u003Cbr\u003E, [math]3 - 2 = 1[/math]\u003Cbr\u003E, [math]2 + 1 = 3[/math]\u003Cbr\u003E, [math]6 - 3 = 3[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487280,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487281,
+      "value": {
+        "options": {
+          "ক": "[math]6[/math]",
+          "খ": "[math]5[/math]",
+          "গ": "[math]4[/math]",
+          "ঘ": "[math]7[/math]"
+        },
+        "question": "[math]x = 2[/math] হলে, [math]x + [x + {x - 1}] =[/math] কত?",
+        "solution": "[math]{x - 1} = 1[/math]\u003Cbr\u003E, [math]x + 1 = 3[/math]\u003Cbr\u003E, [math]x + 3 = 5[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487281,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487282,
+      "value": {
+        "options": {
+          "A": "[math]5[/math]",
+          "B": "[math]6[/math]",
+          "C": "[math]7[/math]",
+          "D": "[math]4[/math]"
+        },
+        "question": "[math]x = 3[/math], [math]x + {x - [x - 1]} =[/math] কত?",
+        "solution": "[math][x - 1] = 2[/math]\u003Cbr\u003E, [math]{x - 2} = 1[/math]\u003Cbr\u003E, [math]3 + 1 = 4[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487282,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487283,
+      "value": {
+        "options": {
+          "A": "[math]0[/math]",
+          "B": "[math]1[/math]",
+          "C": "[math]2[/math]",
+          "D": "[math]3[/math]"
+        },
+        "question": "[math]a = 2, b = 3[/math], [math](a + b) - [b + (a - b)] =[/math] কত?",
+        "solution": "[math]a + b = 5[/math]\u003Cbr\u003E, [math]a - b = -1[/math]\u003Cbr\u003E, [math]b + (-1) = 2[/math]\u003Cbr\u003E, [math]5 - 5 = 0[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487283,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487284,
+      "value": {
+        "options": {
+          "ক": "[math]10[/math]",
+          "খ": "[math]8[/math]",
+          "গ": "[math]9[/math]",
+          "ঘ": "[math]6[/math]"
+        },
+        "question": "[math]x = 4[/math] হলে, [math]{x + [x - (x - 2)]} =[/math] কত?",
+        "solution": "[math](x - 2) = 2[/math]\u003Cbr\u003E, [math]x - 2 = 2[/math]\u003Cbr\u003E, [math]x + 2 = 6[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487284,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487285,
+      "value": {
+        "options": {
+          "ক": "[math]3[/math]",
+          "খ": "[math]4[/math]",
+          "গ": "[math]5[/math]",
+          "ঘ": "[math]6[/math]"
+        },
+        "question": "[math]6 - [2 - {4 - (1 + 1)}] =[/math] কত?",
+        "solution": "[math](1 + 1) = 2[/math]\u003Cbr\u003E, [math]4 - 2 = 2[/math]\u003Cbr\u003E, [math]2 - 2 = 0[/math]\u003Cbr\u003E, [math]6 - 0 = 6[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487285,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487286,
+      "value": {
+        "options": {
+          "A": "[math]4a + 2[/math]",
+          "B": "[math]4a - 2[/math]",
+          "C": "[math]2a + 2[/math]",
+          "D": "[math]2a - 2[/math]"
+        },
+        "question": "[math]2a + [3a - (a + 2)] =[/math] কত?",
+        "solution": "[math](a + 2) = a + 2[/math]\u003Cbr\u003E, [math]3a - (a + 2) = 2a - 2[/math]\u003Cbr\u003E, তারপর [math]2a + 2a - 2 = 4a - 2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487286,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487273,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]m^2 - {n^2 - [p^2 + (m^2 - n^2 + p^2)]}[/math]",
+        "solution": "[math]= m^2 - {n^2 - [p^2 + m^2 - n^2 + p^2]}[/math]\u003Cbr\u003E [math]= m^2 - {n^2 - (2p^2 + m^2 - n^2)}[/math]\u003Cbr\u003E [math]= m^2 - (0 - 2p^2 - m^2) = m^2 + 2p^2 + m^2[/math]\u003Cbr\u003E [math]= 2m^2 + 2p^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে কৌটো ভেতরের যোগফলভাবে [math]p^2+(m^2-n^2+p^2)=m^2-n^2+2p^2[/math] পাওয়া যায়, অতঃপর [math]n^2-(m^2-n^2+2p^2)=2n^2-m^2-2p^2[/math]. সবশেষে [math]m^2-(2n^2-m^2-2p^2)=2(m^2-n^2+p^2)[/math], তাই সরল রূপ হলো [math]2(m^2-n^2+p^2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487273,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487288,
+      "value": {
+        "options": {
+          "A": "[math]1[/math]",
+          "B": "[math]2[/math]",
+          "C": "[math]\\frac{2a}{2a - 2}[/math]",
+          "D": "[math]\\frac{a}{2}[/math]"
+        },
+        "question": "[math]2a \\div {a + (a - 2)} =[/math] কত?",
+        "solution": "ভিতরে: [math]a + (a - 2) = 2a - 2[/math]\u003Cbr\u003E, [math]2a \\div (2a - 2)[/math]\u003Cbr\u003E → উত্তর হবে [math]\\frac{2a}{2a - 2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487288,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487289,
+      "value": {
+        "options": {
+          "A": "[math]2a - 1[/math]",
+          "B": "[math]2a + 1[/math]",
+          "C": "[math]2a - a^2 + 1[/math]",
+          "D": "[math]2a - a^2 - 1[/math]"
+        },
+        "question": "[math]a^2 - {2a - (a^2 - 1)} =[/math] কত?",
+        "solution": "ভিতরে: [math]a^2 - 1[/math]\u003Cbr\u003E → [math]2a - (a^2 - 1) = 2a - a^2 + 1[/math]\u003Cbr\u003E → [math]a^2 - (2a - a^2 + 1)[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487289,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487290,
+      "value": {
+        "options": {
+          "A": "[math]-1[/math]",
+          "B": "[math]1[/math]",
+          "C": "[math]0[/math]",
+          "D": "[math]2[/math]"
+        },
+        "question": "[math]a = 2, b = -1[/math], [math](ab - b) \\div (a + b) =[/math] কত?",
+        "solution": "[math]ab = -2[/math]\u003Cbr\u003E, [math]-2 - (-1) = -1[/math]\u003Cbr\u003E, [math]a + b = 1[/math]\u003Cbr\u003E, [math]-1 \\div 1 = -1[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487290,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487291,
+      "value": {
+        "options": {
+          "A": "[math]a + 8[/math]",
+          "B": "[math]a - 8[/math]",
+          "C": "[math]a + 2[/math]",
+          "D": "[math]a - 2[/math]"
+        },
+        "question": "[math]3a - 2 \\times (a - 4) =[/math] কত?",
+        "solution": "[math]2 \\times (a - 4) = 2a - 8[/math]\u003Cbr\u003E, [math]3a - 2a + 8 = a + 8[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487291,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487292,
+      "value": {
+        "options": {
+          "A": "[math]2x - 1[/math]",
+          "B": "[math]2x + 1[/math]",
+          "C": "[math]2x - x^2 + 1[/math]",
+          "D": "[math]x^2 - 2x + x^2 + 1[/math]"
+        },
+        "question": "[math]x^2 - {2x - (x^2 + 1)} =[/math] কত?",
+        "solution": "ভিতরেরটা: [math]2x - x^2 - 1[/math]\u003Cbr\u003E, এবার [math]x^2 - (2x - x^2 - 1) = x^2 - 2x + x^2 + 1 = 2x^2 - 2x + 1[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487292,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487293,
+      "value": {
+        "options": {
+          "A": "[math]a^2 + 2a[/math]",
+          "B": "[math]a^2 - 2a[/math]",
+          "C": "[math]2a^2 - 2a^2 + 2a[/math]",
+          "D": "[math]0[/math]"
+        },
+        "question": "[math]2a^2 - [a^2 + (a^2 - 2a)] =[/math] কত?",
+        "solution": "ভিতরে: [math]a^2 + a^2 - 2a = 2a^2 - 2a[/math]\u003Cbr\u003E, বাহিরে: [math]2a^2 - (2a^2 - 2a) = 2a[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487293,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487294,
+      "value": {
+        "options": {
+          "A": "[math]3[/math]",
+          "B": "[math]2[/math]",
+          "C": "[math]4[/math]",
+          "D": "[math]1[/math]"
+        },
+        "question": "[math]x = 1[/math] হলে, [math]2x^2 + 3x - [x^2 + x - 1] =[/math] কত?",
+        "solution": "[math]2(1)^2 + 3(1) = 5[/math]\u003Cbr\u003E, ভিতরে [math]1 + 1 - 1 = 1[/math]\u003Cbr\u003E, [math]5 - 1 = 4[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487294,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487295,
+      "value": {
+        "options": {
+          "A": "[math]2[/math]",
+          "B": "[math]x + 2[/math]",
+          "C": "[math]2x + 2[/math]",
+          "D": "[math]3x - 2[/math]"
+        },
+        "question": "[math]3x - [2x - (x - 2)] =[/math] কত?",
+        "solution": "ভিতরে: [math]x - 2[/math]\u003Cbr\u003E, তারপর [math]2x - (x - 2) = x + 2[/math]\u003Cbr\u003E, বাহিরে: [math]3x - (x + 2) = 2x - 2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487295,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487296,
+      "value": {
+        "options": {
+          "A": "[math]2[/math]",
+          "B": "[math]4[/math]",
+          "C": "[math]5[/math]",
+          "D": "[math]3[/math]"
+        },
+        "question": "[math]x = 2, y = -1[/math] হলে, [math]2x + {y - (x + y)} =[/math] কত?",
+        "solution": "[math]x = 2[/math]\u003Cbr\u003E, [math]y = -1[/math]\u003Cbr\u003E, [math]x + y = 1[/math]\u003Cbr\u003E, [math]y - 1 = -2[/math]\u003Cbr\u003E, [math]2x + (-2) = 4 - 2 = 2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487296,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487297,
+      "value": {
+        "options": {
+          "ক": "[math]1[/math]",
+          "খ": "[math]2[/math]",
+          "গ": "[math]4[/math]",
+          "ঘ": "[math]5[/math]"
+        },
+        "question": "[math]4 - {2 - [3 - (1 + 1)]} =[/math] কত?",
+        "solution": "ভিতরে [math]1 + 1 = 2[/math]\u003Cbr\u003E, [math]3 - 2 = 1[/math]\u003Cbr\u003E, [math]2 - 1 = 1[/math]\u003Cbr\u003E, [math]4 - 1 = 3[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487297,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487298,
+      "value": {
+        "options": {
+          "A": "[math]5[/math]",
+          "B": "[math]4[/math]",
+          "C": "[math]3[/math]",
+          "D": "[math]6[/math]"
+        },
+        "question": "[math]a = 3, b = 2[/math] হলে, [math]2ab - [ab + (b - a)] =[/math] কত?",
+        "solution": "[math]ab = 6[/math]\u003Cbr\u003E, [math]b - a = -1[/math]\u003Cbr\u003E, ভিতরে [math]6 - 1 = 5[/math]\u003Cbr\u003E, [math]2ab = 12[/math]\u003Cbr\u003E, [math]12 - 5 = 7[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487298,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487299,
+      "value": {
+        "options": {
+          "ক": "[math]4[/math]",
+          "খ": "[math]7[/math]",
+          "গ": "[math]3[/math]",
+          "ঘ": "[math]6[/math]"
+        },
+        "question": "[math]x = -2[/math] হলে, [math]x^2 + [x - {2x + 1}] =[/math] কত?",
+        "solution": "[math]x^2 = 4[/math]\u003Cbr\u003E, [math]2x + 1 = -3[/math]\u003Cbr\u003E, [math]x - (-3) = 1[/math]\u003Cbr\u003E, [math]4 + 3 = 7[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487299,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487300,
+      "value": {
+        "options": {
+          "ক": "[math]4[/math]",
+          "খ": "[math]3[/math]",
+          "গ": "[math]6[/math]",
+          "ঘ": "[math]5[/math]"
+        },
+        "question": "[math]5 - {3 - [2 - (4 - 2)]} =[/math] কত?",
+        "solution": "[math]4 - 2 = 2[/math]\u003Cbr\u003E, [math]2 - 2 = 0[/math]\u003Cbr\u003E, [math]3 - 0 = 3[/math]\u003Cbr\u003E, [math]5 - 3 = 2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487300,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487272,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]a^2 - {b^2 + [c^2 - (a^2 + b^2 - c^2)]}[/math]",
+        "solution": "[math]= a^2 - {b^2 + [c^2 - a^2 - b^2 + c^2]}[/math]\u003Cbr\u003E [math]= a^2 - {b^2 + (2c^2 - a^2 - b^2)}[/math]\u003Cbr\u003E [math]= a^2 - (2c^2 - a^2)[/math]\u003Cbr\u003E [math]= a^2 - 2c^2 + a^2 = 2a^2 - 2c^2[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে ভেতরের কৌঁচগুলো সরল করলে [math]c^2 - (a^2 + b^2 - c^2) = 2c^2 - a^2 - b^2[/math], তাই [math]b^2 + [\\cdots] = 2c^2 - a^2[/math]. এরপর [math]a^2 - (2c^2 - a^2) = 2a^2 - 2c^2 = 2(a^2 - c^2)[/math], সুতরাং ফল হল [math]2(a^2 - c^2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487272,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487260,
+      "value": {
+        "options": [],
+        "question": "[math]8m + 12n - 4p + 10[/math] রাশিটির দ্বিতীয় ও তৃতীয় পদ একটি বন্ধনীতে রেখে, তার আগে (−) চিহ্ন বসাও। এরপর প্রথম পদ এবং সেই বন্ধনীবদ্ধ অংশকে নতুন একটি বন্ধনীতে রেখে তার আগে (+) চিহ্ন বসাও।",
+        "solution": "দ্বিতীয় ও তৃতীয় পদ: [math]12n[/math]\u003Cbr\u003E এবং [math]-4p[/math]\u003Cbr\u003Eএগুলোকে একত্র করে: [math](12n - 4p)[/math]\u003Cbr\u003Eএই অংশটির আগে (−) চিহ্ন বসানো হলে, সেটা হবে: [math]- (12n - 4p)[/math]\u003Cbr\u003Eএখন প্রথম পদ [math]8m[/math]\u003Cbr\u003E এবং উপরের অংশকে একটি বন্ধনীতে নেওয়া হবে: [math][8m - (12n - 4p)][/math]\u003Cbr\u003Eএর আগে (+) চিহ্ন থাকবে, তাই চূড়ান্ত রূপ: [math]+ \\left[8m - (12n - 4p)\\right][/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে দ্বিতীয় ও তৃতীয় পদকে একত্রে বন্ধনীতে রেখে তার আগে (−) চিহ্ন দিলে পাওয়া যায় [math]-(12n-4p)[/math]। এরপর প্রথম পদ [math]8m[/math] এবং ওই বন্ধনীকে নতুন একটি বন্ধনীতে রেখে তার আগে (+) দিলে রাশি লেখা হবে [math]+(8m-(12n-4p))+10[/math], যা নির্দেশিত ধাপে ধাপে গ্রুপিং ও চিহ্ন স্থাপনের সরাসরি ফল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487260,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487261,
+      "value": {
+        "options": [],
+        "question": "রাশির সরলীকরণে যে সূত্র অনুসরণ করা হয় তা লিখে ব্যাখ্যা কর।",
+        "solution": "রাশির সরলীকরণে BEDMAS সূত্র অনুসরণ করা হয়। এটি একটি ধারাবাহিক নিয়ম যা গাণিতিক রাশির পদগুলোর ক্রম নির্ধারণ করে দেয়। এই সূত্রের অর্থ হলো:B → Bracket (বন্ধনী): প্রথমেই বন্ধনী ভেতরের রাশি সরলীকরণ করতে হয়।E → Exponent (ঘাত): বন্ধনীর কাজ শেষ হলে ঘাত বা সূচক সরলীকরণ করতে হয়।D → Division (ভাগ): এরপর রাশির মধ্যে ভাগ (÷) থাকা অংশকে সরল করতে হয়।M → Multiplication (গুণ): ভাগের পরে গুণ (×) করার কাজ করতে হয়।A → Addition (যোগ): গুণশেষে রাশির মধ্যে যেসব পদ আছে তা যোগ করতে হয়।S → Subtraction (বিয়োগ): সবশেষে বিয়োগ চিহ্নযুক্ত অংশ সরল করতে হয়।উদাহরণ: [math]6 + (4 \\times 2)^2 \\div 8[/math]\u003Cbr\u003E⇒ প্রথমে বন্ধনী: [math]4 \\times 2 = 8[/math]\u003Cbr\u003E⇒ ঘাত: [math]8^2 = 64[/math]\u003Cbr\u003E⇒ ভাগ: [math]64 \\div 8 = 8[/math]\u003Cbr\u003E⇒ যোগ: [math]6 + 8 = 14[/math]\u003Cbr\u003Eঅতএব, BEDMAS সূত্র অনুসারে ধাপে ধাপে রাশি সরলীকরণ করলে ফলাফল নির্ভুল হয়।",
+        "explanation": "ব্যাখ্যা: রাশির সরলীকরণে প্রথমে বন্ধনী, ঘাত (পাওয়ার), তারপর গুণ/ভাগ এবং সবশেষে যোগ/বিয়োগ—এই ক্রম (BODMAS) অনুসরণ করতে হয়। তারপর একই ধরনের পদ (যেমন একই ভরের [math]x[/math] বা ধ্রুবক) একত্রিত করা হয় এবং প্রয়োজন হলে বন্টন সূত্র [math]a(b+c)=ab+ac[/math] ব্যবহার করে বন্ধনী বিস্তৃত করা যায়। উদাহরণস্বরূপ, [math]3x+2x=5x[/math] এবং ভগ্নাংশে সাধারণ গুণক বাতিল করে আরও সরল আকার পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487261,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487262,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]7a - {4b - (2b - 5a)}[/math]",
+        "solution": "[math]= 7a - {4b - 2b + 5a}[/math]\u003Cbr\u003E [math]= 7a - {2b + 5a}[/math]\u003Cbr\u003E [math]= 7a - 2b - 5a[/math]\u003Cbr\u003E [math]= (7a - 5a) - 2b = 2a - 2b[/math]\u003Cbr\u003E",
+        "explanation": "অভ্যন্তরীণ বন্ধনীতে চিহ্ন পাল্টানো হলে [math]4b - (2b - 5a) = 4b - 2b + 5a = 2b + 5a[/math], তাই পুরোটা হয় [math]7a - (2b + 5a) = 7a - 2b - 5a[/math]. সমান ধরনের পদগুলো যোগ করলে ফল হয় [math]2a - 2b = 2(a - b)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487262,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487263,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]9x - {6x - (3y - 2x)}[/math]",
+        "solution": "[math]= 9x - {6x - 3y + 2x}[/math]\u003Cbr\u003E [math]= 9x - {8x - 3y}[/math]\u003Cbr\u003E [math]= 9x - 8x + 3y[/math]\u003Cbr\u003E [math]= x + 3y[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে ভিতরের বন্ধনী সরল করলে [math]6x - (3y - 2x)=6x - 3y + 2x = 8x - 3y[/math]. এরপর বাইরের মাইনাস বিতরণ করলে [math]9x - (8x - 3y)=9x - 8x + 3y = x + 3y[/math], তাই উত্তর [math]x + 3y[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487263,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487264,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]5m - {3n - (2m - 4n)}[/math]",
+        "solution": "[math]= 5m - {3n - 2m + 4n}[/math]\u003Cbr\u003E [math]= 5m - {7n - 2m}[/math]\u003Cbr\u003E [math]= 5m - 7n + 2m[/math]\u003Cbr\u003E [math]= (5m + 2m) - 7n = 7m - 7n[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভেতরের বন্ধনীগুলো থেকে নেতিবাচক চিহ্ন বিতরণ করলে [math]3n - (2m - 4n)=3n - 2m + 4n = -2m + 7n[/math], এবং এরপর মূল অভিব্যক্তিতে এটি ব্যতীত করলে [math]5m - (-2m + 7n)=5m + 2m - 7n = 7m - 7n[/math]; কারণ \"-\" চিহ্ন বন্ধনী ভেতরের প্রতিটি চিহ্নের চিহ্ন উল্টে দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487264,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487265,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]4a - {2b - [3a - (5b - 2a)]}[/math]",
+        "solution": "[math]= 4a - {2b - [3a - 5b + 2a]}[/math]\u003Cbr\u003E [math]= 4a - {2b - [5a - 5b]}[/math]\u003Cbr\u003E [math]= 4a - {2b - 5a + 5b}[/math]\u003Cbr\u003E [math]= 4a - (7b - 5a)[/math]\u003Cbr\u003E [math]= 4a - 7b + 5a = 9a - 7b[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে ভিতরের কৌল থেকে শুরু করে, [math]3a - (5b - 2a) = 3a - 5b + 2a = 5a - 5b[/math]. তারপর [math]2b - (5a - 5b) = -5a + 7b[/math] এবং শেষে [math]4a - (-5a + 7b) = 9a - 7b[/math], তাই সরলীকরণে ফল [math]9a - 7b[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487265,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487266,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]x - {y - [z - (x - y)]}[/math]",
+        "solution": "[math]= x - {y - [z - x + y]}[/math]\u003Cbr\u003E [math]= x - {y - z + x - y}[/math]\u003Cbr\u003E [math]= x - (x - z) = x - x + z = z[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]z - (x - y)=z - x + y[/math], তাই [math]y - [z - (x - y)]=y - (z - x + y)=x - z[/math]; ফলে [math]x - {y - [z - (x - y)]}=x - (x - z)=z[/math]. এই সরলিকরণে বন্ধনীর সামনে ঋণচিহ্ন হলে ভিতরের সঙ্কেত উলটে যায়—এই নিয়ম ব্যবহার করা হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487266,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487267,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]6m - {4n - [2m - (3n - m)]}[/math]",
+        "solution": "[math]= 6m - {4n - [2m - 3n + m]}[/math]\u003Cbr\u003E [math]= 6m - {4n - (3m - 3n)}[/math]\u003Cbr\u003E [math]= 6m - (4n - 3m + 3n)[/math]\u003Cbr\u003E [math]= 6m - 7n + 3m = 9m - 7n[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ঘন কৌঁটের সামনে নেতিবাচক চিহ্ন থাকলে কৌঁটের মধ্যে প্রতিটি পদমধ্যে চিহ্ন বদলে যায়। ধাপে ধাপে: [math]2m-(3n-m)=2m-3n+m=3m-3n[/math], তাই [math]4n-[3m-3n]=4n-3m+3n=-3m+7n[/math] এবং পরে [math]6m-(-3m+7n)=6m+3m-7n=9m-7n[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487267,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487268,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]x^2 - {y^2 - [z^2 - (x^2 - y^2)]}[/math]",
+        "solution": "[math]= x^2 - {y^2 - [z^2 - x^2 + y^2]}[/math]\u003Cbr\u003E [math]= x^2 - {y^2 - z^2 + x^2 - y^2}[/math]\u003Cbr\u003E [math]= x^2 - (x^2 - z^2)[/math]\u003Cbr\u003E [math]= x^2 - x^2 + z^2 = z^2[/math]\u003Cbr\u003E",
+        "explanation": "ভিতরের বন্ধনী থেকেই চালালে [math]z^2 - (x^2 - y^2) = z^2 - x^2 + y^2[/math], তাই [math]y^2 - [z^2 - (x^2 - y^2)] = y^2 - (z^2 - x^2 + y^2) = x^2 - z^2[/math]. শেষে [math]x^2 - (x^2 - z^2) = z^2[/math], অতএব সরলীকরণে ফল [math]z^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487268,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487269,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]a^2 - {b^2 - [c^2 - (a^2 + b^2)]}[/math]",
+        "solution": "[math]= a^2 - {b^2 - [c^2 - a^2 - b^2]}[/math]\u003Cbr\u003E [math]= a^2 - {b^2 - c^2 + a^2 + b^2}[/math]\u003Cbr\u003E [math]= a^2 - (a^2 + 2b^2 - c^2)[/math]\u003Cbr\u003E [math]= a^2 - a^2 - 2b^2 + c^2 = c^2 - 2b^2[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে অভ্যন্তরীণভাবে [math]c^2-(a^2+b^2)=c^2-a^2-b^2[/math] হওয়ায় [math]b^2-[c^2-(a^2+b^2)]=b^2-(c^2-a^2-b^2)=a^2+2b^2-c^2[/math]. তাই [math]a^2-(a^2+2b^2-c^2)=c^2-2b^2[/math], ফলে সরল রূপ [math]c^2-2b^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487269,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487270,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]4m^2 - {2n^2 - [m^2 - (3n^2 - 2m^2)]}[/math]",
+        "solution": "[math]= 4m^2 - {2n^2 - [m^2 - 3n^2 + 2m^2]}[/math]\u003Cbr\u003E [math]= 4m^2 - {2n^2 - (3m^2 - 3n^2)}[/math]\u003Cbr\u003E [math]= 4m^2 - (2n^2 - 3m^2 + 3n^2)[/math]\u003Cbr\u003E [math]= 4m^2 - (-3m^2 + 5n^2)[/math]\u003Cbr\u003E [math]= 4m^2 + 3m^2 - 5n^2 = 7m^2 - 5n^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে ভেতরের বন্ধনীগুলো সরিয়ে: [math]m^2-(3n^2-2m^2)=3m^2-3n^2[/math], তাই [math]2n^2-[m^2-(3n^2-2m^2)]=-3m^2+5n^2[/math], এবং শেষে [math]4m^2-(-3m^2+5n^2)=7m^2-5n^2[/math]। এটা নেগেটিভ চিহ্ন বিতরণ করে এবং একই ধরনের পদের সমষ্টি-বিয়োগ করে সরলীকরণ করার ফল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487270,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487271,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]x^2 + {y^2 - [z^2 - (x^2 + y^2 - z^2)]}[/math]",
+        "solution": "[math]= x^2 + {y^2 - [z^2 - x^2 - y^2 + z^2]}[/math]\u003Cbr\u003E [math]= x^2 + {y^2 - ( - x^2 - y^2)}[/math]\u003Cbr\u003E [math]= x^2 + y^2 + x^2 + y^2[/math]\u003Cbr\u003E [math]= 2x^2 + 2y^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে ভেতরের বন্ধনীতে নেতিবাচকটি বিতরণ করলে [math]z^2-(x^2+y^2-z^2)=2z^2-x^2-y^2[/math] হয়, তাই মধ্যবর্তী অংশটি হয়ে যায় [math]y^2-(2z^2-x^2-y^2)=x^2+2y^2-2z^2[/math]. তারপর বাইরের [math]x^2[/math] যোগ করলে সমীকরণটি সরলীকৃত হয় [math]2(x^2+y^2-z^2)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487271,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487246,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য করঃ\n\ni. (+) চিহ্ন দিয়ে রাশির যেসব পদ বন্ধনীভুক্ত করা হয়, তাদের স্ব-স্ব চিহ্ন ঠিক থাকে।\n\nii. (-) চিহ্ন দিয়ে রাশির যেসব পদ বন্ধনীভুক্ত করা হয়, তাদের চিহ্ন বিপরীত করে নিতে হয়।\n\niii. পাটিগণিতের মতো বীজগণিতেও পর্যায়ক্রমে প্রথম, দ্বিতীয় ও তৃতীয় বন্ধনীর কাজ করতে হয়।\n\nনিচের কোনটি সঠিক?",
+        "solution": "সবগুলো তথ্য সঠিক: ধনাত্মক চিহ্নে চিহ্ন অপরিবর্তিত থাকে, ঋণাত্মকে বিপরীত হয়, আর বন্ধনী খোলার সময় পর্যায় অনুসরণ করতে হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487246,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487245,
+      "value": {
+        "options": {
+          "A": "[math]3[/math]",
+          "B": "[math]2[/math]",
+          "C": "[math]4[/math]",
+          "D": "[math]5[/math]"
+        },
+        "question": "[math]a = 1[/math], [math]b = 2[/math], [math]c = -1[/math] হলে, [math]a + b - [c - (a + b)] =[/math] কত?",
+        "solution": "[math]a + b = 3[/math]\u003Cbr\u003E, [math]c - 3 = -4[/math]\u003Cbr\u003E, [math]a + b - (-4) = 3 + 4 = 7[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487245,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487247,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য করঃ\n\ni. যেকোনো রাশির আগে ঋণাত্মক চিহ্ন থাকলে বন্ধনী খুললে প্রতিটি পদের চিহ্ন পরিবর্তন হয়।\n\nii. ধনাত্মক চিহ্ন থাকলে বন্ধনী খুললে চিহ্ন অপরিবর্তিত থাকে।\n\niii. বন্ধনীর কাজ না করে সরাসরি গুণফল বের করা যায়।\n\nনিচের কোনটি সঠিক?",
+        "solution": "প্রথম দুটি সঠিক, কিন্তু iii ভুল; কারণ বন্ধনীর কাজ আগে করতে হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487247,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487248,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য করঃ\n\ni. তিন স্তরের বন্ধনী ব্যবহারে ভেতরের বন্ধনী প্রথমে খুলতে হয়।\n\nii. বন্ধনী খোলার সময় আগে যোগফল নিতে হয়, পরে বিয়োগ।\n\niii. বন্ধনীর বাইরে যদি ঋণাত্মক চিহ্ন থাকে তবে ভিতরের পদগুলো বিপরীত চিহ্নযুক্ত হয়।\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii সঠিক; ii ভুল — সবসময় যোগ আগে নিতে হয় না, তা নির্ভর করে অভিব্যক্তির গঠনের ওপর।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487248,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487249,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য করঃ\n\ni. (–) চিহ্নযুক্ত রাশি থেকে বন্ধনী খোলা হলে ভিতরের প্রতিটি পদের চিহ্ন বিপরীত হয়।\n\nii. বীজগাণিতিক রাশির ক্ষেত্রেও পাটিগণিতের মতো কাজের ক্রম (BODMAS) অনুসরণ করা হয়।\n\niii. বন্ধনীর বাইরে ধনাত্মক সংখ্যা থাকলে চিহ্ন পরিবর্তন হয়।\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও ii সঠিক; iii ভুল — ধনাত্মক চিহ্নে চিহ্ন পরিবর্তন হয় না।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487249,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487250,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য করঃ\n\ni. বন্ধনী খোলার সময় গুণ এবং ভাগ আগে করতে হয়।\n\nii. ঋণাত্মক চিহ্নসহ বন্ধনী খোলা হলে শুধুমাত্র প্রথম পদের চিহ্ন পরিবর্তন হয়।\n\niii. বন্ধনী খোলার নিয়ম না মানলে উত্তর ভুল হতে পারে।\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii সঠিক; ii ভুল — সব পদেই চিহ্ন পরিবর্তন হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487250,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487251,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য করঃ\n\ni. [math]-(x + y)[/math] = [math]-x - y[/math]\n\nii. [math]-(x - y)[/math] = [math]-x + y[/math]\n\niii. [math]+(x - y)[/math] = [math]x - y[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "তিনটিই সঠিক: ঋণাত্মক চিহ্নে সব পদের চিহ্ন পরিবর্তন হয়; ধনাত্মকে চিহ্ন অপরিবর্তিত থাকে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487251,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487252,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ্য করঃ\n\ni. [math]a - (b + c)[/math] = [math]a - b - c[/math]\n\nii. [math]a + (b - c)[/math] = [math]a + b - c[/math]\n\niii. [math]a - (b - c)[/math] = [math]a - b - c[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও ii সঠিক; iii ভুল কারণ [math]a - (b - c) = a - b + c[/math] হওয়া উচিত।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487252,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487253,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্য লক্ষ্য করঃ\n\ni. [math]2 - {3 - [1 - 2]} = 0[/math]\n\nii. [math]5 - {4 - (2 + 1)} = 4[/math]\n\niii. [math]3 - [2 - {1 - 1}] = 2[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "ii ও iii সঠিক: i এর ভুল কারণ [math]1 - 2 = -1[/math]\u003Cbr\u003E, [math]3 - (-1) = 4[/math]\u003Cbr\u003E, [math]2 - 4 = -2 \\ne 0[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487253,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487254,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্য লক্ষ্য করঃ\n\ni. [math]x = 2[/math] হলে, [math]x + [x - {x - 1}] = 3[/math]\n\nii. [math]a = 3[/math], [math]b = 2[/math] হলে, [math]a + [b - (a - b)] = 4[/math]\n\niii. [math]a = 2[/math] হলে, [math]a + (a - a) = 2[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "ii: [math]2 - (3 - 2) = 1[/math]\u003Cbr\u003E, [math]3 + 1 = 4[/math]\u003Cbr\u003E, iii: [math]2 + 0 = 2[/math]\u003Cbr\u003E, i ভুল ( [math]2 + [2 - 1] = 3[/math]\u003Cbr\u003E না, [math]3[/math]\u003Cbr\u003E ঠিক, তাই i ও iii ও ii সবই সঠিক → উত্তর 4)",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487254,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487255,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্য লক্ষ্য করঃ\n\ni. বন্ধনী খুলতে হলে প্রথমে ভেতরের বন্ধনী খুলতে হয়।\n\nii. তিনটি স্তরের বন্ধনী থাকলে, তৃতীয়টি (বাহিরের) প্রথমে খুলতে হয়।\n\niii. বন্ধনী খোলার সময় গাণিতিক ক্রম মানা জরুরি।\n\nনিচের কোনটি সঠিক?",
+        "solution": "i ও iii সঠিক; ii ভুল কারণ বাহিরের বন্ধনী সর্বশেষে খুলতে হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487255,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487256,
+      "value": {
+        "options": [],
+        "question": "মুনির কেজি প্রতি টাকা [math]a[/math], [math]b[/math] ও [math]c[/math] টাকা মূল্যে যথাক্রমে ৩ কেজি আপেল, ২ কেজি মাল্টা ও ৫ কেজি পেয়ারা কিনে। দোকানদারকে [math]p[/math] টাকা দিলে দোকানদার মুনিরকে কিছু টাকা ফেরত দেয়, যার অর্ধেক দিয়ে সে ফুল কিনে। ফুল কিনতে মুনিরের খরচকে বীজগণিতীয় রাশির মাধ্যমে প্রকাশ কর।",
+        "solution": "মোট ফলের দাম = [math]3a + 2b + 5c[/math]\u003Cbr\u003Eফেরত পাওয়া টাকা = [math]p - (3a + 2b + 5c)[/math]\u003Cbr\u003Eফুল কিনতে খরচ = [math]\\dfrac{1}{2} \\left(p - 3a - 2b - 5c\\right)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: মোট খরচ হলো [math]3a+2b+5c[/math]. ফেরত পাওয়া টাকা [math]p-(3a+2b+5c)[/math] এবং তার অর্ধেক ফুলে খরচ হলে তা হয় [math]\\tfrac{1}{2}\\big(p-(3a+2b+5c)\\big)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487256,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487257,
+      "value": {
+        "options": [],
+        "question": "[math]7x - 3y - 5z + 9[/math] এর তৃতীয় ও চতুর্থ পদ বন্ধনীর আগে (−) চিহ্ন দিয়ে প্রথমে একটি বন্ধনীভুক্ত কর। পরবর্তীতে দ্বিতীয় পদ ও প্রথম বন্ধনীভুক্ত রাশিকে দ্বিতীয় বন্ধনীভুক্ত কর যেন বন্ধনীর আগে (−) চিহ্ন থাকে।",
+        "solution": "প্রথম ধাপ: [math]7x - 3y - (5z - 9)[/math]\u003Cbr\u003Eদ্বিতীয় ধাপ: [math]7x - \\left[3y + (5z - 9)\\right][/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে তৃতীয় ও চতুর্থ পদকে বন্ধনীভুক্ত করে লেখা হয় [math]7x - 3y -(-5z + 9)[/math] কারণ ওই বন্ধনীর আগে (−) ছিল; এরপর দ্বিতীয় পদ ও প্রথম বন্ধনীকে দ্বিতীয় বন্ধনীর মধ্যে (−) চিহ্নসহ নিয়ে লেখা হয় [math]7x -\\big(-3y -(-5z + 9)\\big)[/math]. দুটি (−) চিহ্ন ছাপানো হলে চিহ্ন বদলে যায়, ফলে সহজ করলে আমরা পাই [math]7x + 3y - 5z + 9[/math], যা প্রদত্ত ধাপে চিহ্নের নিয়ম অনুযায়ী সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487257,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487258,
+      "value": {
+        "options": [],
+        "question": "[math]4x + 3y - 7z + 2[/math] রাশিটির প্রথম দুই পদ একটি বন্ধনীর মধ্যে রেখে, তার আগে (+) চিহ্ন দাও এবং বাকি অংশটি দ্বিতীয় বন্ধনীতে রেখে তার আগে (−) চিহ্ন দাও।",
+        "solution": "রাশিটিতে মোট চারটি পদ আছে: [math]4x[/math]\u003Cbr\u003E, [math]3y[/math]\u003Cbr\u003E, [math]-7z[/math]\u003Cbr\u003E, এবং [math]+2[/math]\u003Cbr\u003E।প্রথম দুই পদ = [math]4x + 3y[/math]\u003Cbr\u003Eপরবর্তী দুই পদ = [math]-7z + 2[/math]\u003Cbr\u003Eপ্রথমে [math]4x + 3y[/math]\u003Cbr\u003E-কে একটি বন্ধনীর মধ্যে নেওয়া হয় এবং তার আগে (+) চিহ্ন বসানো হয়।তারপর [math]-7z + 2[/math]\u003Cbr\u003E-কে একটি নতুন বন্ধনীতে নেওয়া হয় এবং তার আগে (−) চিহ্ন বসানো হয়।সুতরাং, চূড়ান্ত রূপ: [math](4x + 3y) - (7z - 2)[/math]\u003Cbr\u003E",
+        "explanation": "[math](+)(4x+3y)-(7z-2)[/math] \n\nব্যাখ্যা: প্রথম বন্ধনী সরাসরি [math]4x+3y[/math] রাখে এবং দ্বিতীয় বন্ধনির সামনে [math]-[/math] বসালে ভিতরের চিহ্নগুলো উল্টে গিয়ে [math]-(7z-2)=-7z+2[/math] হয়, ফলে মোট যোগফল হলো [math]4x+3y-7z+2[/math] যা মূল রাশির সমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487258,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:12.000000Z",
+            "updated_at": "2025-08-21T09:51:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487259,
+      "value": {
+        "options": [],
+        "question": "[math]5a - 6b + 9c - 4[/math] এর শেষ তিনটি পদকে একটি বন্ধনীতে নাও এবং তার আগে (−) চিহ্ন বসাও। এরপর প্রথম পদ এবং পূর্বের বন্ধনীবদ্ধ অংশকে আবার একটি নতুন বন্ধনীতে রেখে তার আগে (−) চিহ্ন বসাও।",
+        "solution": "রাশিটির শেষ তিনটি পদ: [math]-6b[/math]\u003Cbr\u003E, [math]+9c[/math]\u003Cbr\u003E, এবং [math]-4[/math]\u003Cbr\u003Eএগুলোকে একটি বন্ধনীতে নেওয়া হলে হয়: [math](6b - 9c + 4)[/math]\u003Cbr\u003Eকারণ বাহিরে (−) চিহ্ন থাকবে, তাই ভেতরের চিহ্ন বদলাবে।এখন পুরো রাশিটিকে দ্বিতীয় ধাপে একটি নতুন বন্ধনীতে নেওয়া হবে, যেখানে প্রথম পদ [math]5a[/math]\u003Cbr\u003E এবং পূর্বের বন্ধনী একত্রে থাকবে।চূড়ান্ত রূপ: [math]- \\left[5a - (6b - 9c + 4)\\right][/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে শেষ তিনটি পদকে বন্ধনীতে নিয়ে তার আগে (−) বসালে আমরা পাই [math]-(-6b+9c-4)[/math], এরপর প্রথম পদ ও পূর্বের বন্ধনীকে একটি বড় বন্ধনীর মধ্যে রেখে তার আগে (−) বসালে ফল হয় [math]-(5a-(-6b+9c-4))[/math]. কারণ বন্ধনীর আগে (−) দিলে ঐ বন্ধনীর সব পদগুলোর চিহ্ন পাল্টে যায় এবং দুইটি একে–অপরের বিপরীত চিহ্ন (double negative) মিললে + হয়ে যায়, ফলে সম্প্রসারণ করলে [math]-(5a-(-6b+9c-4))=-(5a+6b-9c+4)=-5a-6b+9c-4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:51:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487259,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:51:13.000000Z",
+            "updated_at": "2025-08-21T09:51:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7757&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7757&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7757&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 56,
+  "total": 56
+}

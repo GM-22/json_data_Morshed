@@ -1,0 +1,847 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 768547,
+      "value": {
+        "options": {
+          "ক": "ফরয",
+          "খ": "ওয়াজিব",
+          "গ": "সুন্নাত",
+          "ঘ": "নফল"
+        },
+        "question": "এক রাস্তায় ঈদগাহে যাওয়া এবং অন্য রাস্তায় ফিরে আসা কী?",
+        "solution": "গ. সুন্নাত",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768547,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768555,
+      "value": {
+        "options": [],
+        "question": "ঈদের দিনের সুন্নত কাজসমূহ উল্লেখ করো।",
+        "solution": "ঈদের দিনের সুন্নত কাজসমূহ হলো- ১. গোসল করা, ২. সুগন্ধি ব্যবহার করা, ৩. পবিত্র ও পরিচ্ছন্ন কাপড় পরা, ৪. সালাতে যাওয়ার পূর্বে মিষ্টি জাতীয় খাদ্য খাওয়া। ৫. ঈদগাহে যাওয়ার সময় তাকবির বলা, ৬. এক রাস্তায় ঈদগাহে যাওয়া এবং অন্য রাস্তা দিয়ে ফিরে আসা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 768554,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রাজামিয়া প্রায়ই পশু জবাই করে এলাকাবাসীকে খাওয়ান। কিন্তু কুরবানি দেন না। তিনি বলেন, কুরবানি আবার কী? তা না দিলেও হয়।\u003Cbr\u003E\nএরূপ মনোভাবের ফলে রাজা মিয়া -\u003Cbr\u003E\ni. আল্লাহর অসন্তুষ্টি লাভ করবেন\u003Cbr\u003E\nii. এলাকায় তার দুর্নাম হবে\u003Cbr\u003E\niii. অশেষ পুণ্য থেকে বঞ্চিত হবেন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 768554,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768554,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768553,
+      "value": {
+        "options": {
+          "ক": "প্রচুর ধন-সম্পদ",
+          "খ": "সামাজিক মর্যাদা",
+          "গ": "আল্লাহর সন্তুষ্টি",
+          "ঘ": "মানসিক শান্তি"
+        },
+        "question": "জনাব জলিল প্রতি বছর ঈদুল আযহার দিনে পশু কুরবানি করে থাকেন। এর ফলে তিনি কী লাভ করবেন?",
+        "solution": "গ. আল্লাহর সন্তুষ্টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 768553,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768552,
+      "value": {
+        "options": {
+          "ক": "ইবরাহিম (আ.)-এর",
+          "খ": "ইসমাঈল (আ.)-এর",
+          "গ": "আদম (আ.)-এর",
+          "ঘ": "মুসা (আ.)-এর"
+        },
+        "question": "কার স্মৃতি রক্ষার্থে কুরবানির ঈদ পালন করা হয়?",
+        "solution": "ক. ইবরাহিম (আ.)-এর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768552,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768551,
+      "value": {
+        "options": {
+          "ক": "কাফির",
+          "খ": "মুনাফিক",
+          "গ": "মুমিন",
+          "ঘ": "মুসলিম"
+        },
+        "question": "রাজামিয়া প্রায়ই পশু জবাই করে এলাকাবাসীকে খাওয়ান। কিন্তু কুরবানি দেন না। তিনি বলেন, কুরবানি আবার কী? তা না দিলেও হয়।\u003Cbr\u003E\nইসলামের দৃষ্টিতে রাজামিয়া কী হিসেবে পরিগণিত হবে?",
+        "solution": "গ. মুমিন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 768551,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 768551,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 768550,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "i ও ii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ঈদের দিনে সুন্নাত কাজ হলো- i. গোসল করা ii. পরিষ্কার কাপড় পরিধান করা iii. ফিতরা দেওয়া নিচের কোনটি সঠিক?",
+        "solution": "খ. i ও ii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 768550,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 768550,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 768549,
+      "value": {
+        "options": {
+          "ক": "উৎসব",
+          "খ": "দান",
+          "গ": "রোযা ভঙ্গ করা",
+          "ঘ": "স্বভাব"
+        },
+        "question": "ফিতর শব্দের অর্থ কী?",
+        "solution": "গ. রোযা ভঙ্গ করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768549,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768548,
+      "value": {
+        "options": {
+          "ক": "ফরয",
+          "খ": "ওয়াজিব",
+          "গ": "সুন্নাত",
+          "ঘ": "মুস্তাহাব"
+        },
+        "question": "সাদাকাতুল ফিতর আদায় করা কী?",
+        "solution": "খ. ওয়াজিব",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768548,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768539,
+      "value": {
+        "options": {
+          "ক": "একত্রিত হয়ে ঈদগাহ ময়দানে যাওয়া",
+          "খ": "মালের যাকাত প্রদান করা",
+          "গ": "নির্দিষ্ট পরিমাণ অর্থ দরিদ্রকে দান করা",
+          "ঘ": "মিসকিনকে খাদ্য দেওয়া"
+        },
+        "question": "সাদাকাতুল ফিতর বলতে কী বোঝায়?",
+        "solution": "গ. নির্দিষ্ট পরিমাণ অর্থ দরিদ্রকে দান করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 768539,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768546,
+      "value": {
+        "options": {
+          "ক": "যিলহজ মাসের ১০ তারিখ",
+          "খ": "যিলহজ মাসের ১১ তারিখ",
+          "গ": "যিলহজ মাসের ১২ তারিখ",
+          "ঘ": "যিলহজ মাসের ১৩ তারিখ"
+        },
+        "question": "কুরবানি কোন মাসের কত তারিখে করতে হয়?",
+        "solution": "ক. যিলহজ মাসের ১০ তারিখ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768546,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768545,
+      "value": {
+        "options": {
+          "ক": "পাঁচ",
+          "খ": "ছয়",
+          "গ": "সাত",
+          "ঘ": "আট"
+        },
+        "question": "ঈদের সালাতে কয়টি তাকবির বলতে হয়?",
+        "solution": "খ. ছয়",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768545,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768544,
+      "value": {
+        "options": {
+          "ক": "রোযার প্রথম দিন",
+          "খ": "জিলকদের ১ তারিখ",
+          "গ": "শাবানের শেষ দিন",
+          "ঘ": "শাওয়ালের প্রথম দিন"
+        },
+        "question": "ঈদুল ফিতর পালিত হয় কখন?",
+        "solution": "ঘ. শাওয়ালের প্রথম দিন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768544,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768543,
+      "value": {
+        "options": {
+          "ক": "হযরত ইবরাহিম (আ.)-এর সন্তুষ্টির জন্য",
+          "খ": "হযরত ইসমাঈল (আ.)-এর সন্তুষ্টির জন্য",
+          "গ": "হযরত মুহাম্মদ (স.)-এর সন্তুষ্টির জন্য",
+          "ঘ": "আল্লাহ তাআলার সন্তুষ্টির জন্য"
+        },
+        "question": "ঈদুল আযহার দিনে আমরা পশু কুরবানি করি কেন?",
+        "solution": "ঘ. আল্লাহ তাআলার সন্তুষ্টির জন্য",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 768543,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768542,
+      "value": {
+        "options": {
+          "ক": "মহামিলন",
+          "খ": "আনন্দ",
+          "গ": "কল্যাণ",
+          "ঘ": "ভালোবাসা"
+        },
+        "question": "ঈদ শব্দের অর্থ কী?",
+        "solution": "খ. আনন্দ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768542,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768541,
+      "value": {
+        "options": {
+          "ক": "ফরয",
+          "খ": "ওয়াজিব",
+          "গ": "সুন্নাত",
+          "ঘ": "নফল"
+        },
+        "question": "ঈদের সালাত আদায় করা কী?",
+        "solution": "খ. ওয়াজিব",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 768541,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 768540,
+      "value": {
+        "options": {
+          "ক": "আল্লাহর বিধানের",
+          "খ": "সামাজিক বিধানের",
+          "গ": "রাষ্ট্রীয় বিধানের",
+          "ঘ": "ঈসমাঈল (আ.)-এর বিধানের"
+        },
+        "question": "কাজল মিয়া আর্থিকভাবে সচ্ছল হওয়া সত্ত্বেও ঈদুল আযহায় পশু কুরবানি করে না। তার এ কাজটি কোন বিধানের পরিপন্থী?",
+        "solution": "ক. আল্লাহর বিধানের",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 303,
+      "book_grade_id": 3,
+      "content_chunk_id": 12918,
+      "created_at": "2025-12-01T06:50:53.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 303,
+        "title": "ইসলাম শিক্ষা",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 768540,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12918&grade=3&lesson=14344&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12918&grade=3&lesson=14344&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12918&grade=3&lesson=14344&question_paper_id=47300&subject=303&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

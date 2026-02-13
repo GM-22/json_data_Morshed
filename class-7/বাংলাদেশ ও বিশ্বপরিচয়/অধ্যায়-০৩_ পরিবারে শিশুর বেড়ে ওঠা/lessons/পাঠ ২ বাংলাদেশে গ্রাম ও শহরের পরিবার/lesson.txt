@@ -1,0 +1,727 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 761481,
+      "value": {
+        "options": {
+          "ক": "একক পরিবার",
+          "খ": "বৃহৎ পরিবার",
+          "গ": "পরিবর্তনশীল পরিবার",
+          "ঘ": "অপরিবর্তনশীল পরিবার"
+        },
+        "question": "শহুরে পরিবারের প্রধান রূপ কোনটি?",
+        "solution": "ক. একক পরিবার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 761481,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761483,
+      "value": {
+        "options": {
+          "ক": "একক পরিবার বৃদ্ধি",
+          "খ": "বিবাহ বিচ্ছেদ বৃদ্ধি",
+          "গ": "পেশাগত পরিবর্তন",
+          "ঘ": "আর্থিক পরিবর্তন"
+        },
+        "question": "শহরে ইদানিং এক-অভিভাবক পরিবারের সংখ্যা বৃদ্ধি পাওয়ার কারণ কী?",
+        "solution": "খ. বিবাহ বিচ্ছেদ বৃদ্ধি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761483,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761485,
+      "value": {
+        "options": [],
+        "question": "সম্প্রতি গ্রামের যৌথ পরিবারে ভাঙন দেখা দেওয়ার দুটি কারণ উল্লেখ করো।",
+        "solution": "সম্প্রতি গ্রামের যৌথ পরিবারে ভাঙন দেখা দেওয়ার দুটি কারণ হলো- ১. আর্থিক পরিবর্তন; ২. সম্পত্তির সর্বোচ্চ সীমা নির্ধারণ নীতি।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761486,
+      "value": {
+        "options": [],
+        "question": "গ্রাম ও শহরে পরিবারের সিদ্ধান্ত গ্রহণ প্রক্রিয়ায় কী পার্থক্য রয়েছে?",
+        "solution": "বাংলাদেশের গ্রামীণ সমাজে পরিবারের ক্ষমতা পিতার হাতেই বেশি লক্ষ করা যায়। তবে গ্রামে যেসব পরিবারে পুরুষরা প্রবাসী সেখানে সীমিত হলেও নারীদের সিদ্ধান্ত নেওয়ার সুযোগ থাকে। অন্যদিকে শহরে শিক্ষিত মধ্যবিত্ত ও উচ্চবিত্ত পরিবারে সিদ্ধান্ত গ্রহণের ক্ষমতা কেবল স্বামীর হাতেই ন্যস্ত থাকে না, এক্ষেত্রে স্বামীরা স্ত্রীর মতামতকে যথেষ্ট গুরুত্ব দিয়ে থাকেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761488,
+      "value": {
+        "options": {
+          "ক": "কৃষিকাজ",
+          "খ": "মাছচাষ",
+          "গ": "ব্যবসা",
+          "ঘ": "কুটির শিল্প"
+        },
+        "question": "গ্রামের অধিকাংশ লোক প্রধানত কীসের ওপর নির্ভরশীল?",
+        "solution": "ক. কৃষিকাজ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 761488,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-11-30T13:53:17.000000Z",
+            "updated_at": "2025-11-30T13:53:17.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761488,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 761488,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 761490,
+      "value": {
+        "options": {
+          "ক": "সামাজিক পরিবর্তন",
+          "খ": "পেশাগত পরিবর্তন",
+          "গ": "ধর্মীয় পরিবর্তন",
+          "ঘ": "রাষ্ট্রীয় পরিবর্তন"
+        },
+        "question": "গ্রামীণ যৌথ পরিবার ভেঙে যাওয়ার উপযুক্ত কারণ কোনটি?",
+        "solution": "খ. পেশাগত পরিবর্তন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761490,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761491,
+      "value": {
+        "options": {
+          "ক": "পিতার",
+          "খ": "মাতার",
+          "গ": "দাদার",
+          "ঘ": "ভাইয়ের"
+        },
+        "question": "বাংলাদেশের গ্রামীণ সমাজে পরিবারের ক্ষমতা কার হাতেই বেশি লক্ষ করা যায়?",
+        "solution": "ক. পিতার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761491,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 761491,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 761493,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "যৌথ পরিবারে ভাঙন দেখা দেওয়ার কারণ- i. আর্থিক পরিবর্তন ii. পেশাগত পরিবর্তন iii. সম্পত্তির সর্বোচ্চ সীমা নির্ধারণ নীতি নিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 761493,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761493,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 761495,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আজিজ মোল্লা একজন কৃষক। গ্রামে তার পরিবারের সদস্যদের মধ্যে আছেন। স্ত্রী, দুই সন্তান, বাবা-মা, ছোট তিন ভাই ও তাদের সন্তান। তাদের অনেক ধানী জমি আছে, যেগুলো চাষাবাদ করে তারা পরিবারের ব্যয় মেটান।\u003Cbr\u003E\nবর্তমানে এ ধরনের পরিবারে ভাঙনের কারণসমূহ হচ্ছে- i. রাজনৈতিক পরিবর্তন ii. পেশাগত পরিবর্তন iii. সম্পত্তির সর্বোচ্চ সীমা নির্ধারণ নীতি নিচের কোনটি সঠিক?",
+        "solution": "খ. ii ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 761495,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761495,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 761495,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 761497,
+      "value": {
+        "options": [],
+        "question": "কোথায় যৌথ পরিবার বেশি দেখা যায়? এ ধরনের পরিবার ভেঙে যাচ্ছে কেন?",
+        "solution": "গ্রামীণ সমাজে যৌথ পরিবার বেশি দেখা যায়। আর্থিক পরিবর্তন, পেশাগত পরিবর্তন, সম্পত্তির সর্বোচ্চ সীমা নির্ধারণ নীতি প্রভৃতি কারণে যৌথ পরিবার ভেঙে যাচ্ছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 761499,
+      "value": {
+        "options": {
+          "ক": "গ্রামীণ সমাজে",
+          "খ": "শহুরে সমাজে",
+          "গ": "নদী তীরবর্তী সমাজে",
+          "ঘ": "পাহাড়ি সমাজে"
+        },
+        "question": "কোন সমাজে যৌথ পরিবার বেশি দেখা যায়?",
+        "solution": "ক. গ্রামীণ সমাজে",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761499,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761501,
+      "value": {
+        "options": {
+          "ক": "স্বামীর হাতে",
+          "খ": "স্ত্রীর হাতে",
+          "গ": "স্বামী-স্ত্রী উভয়ের হাতে",
+          "ঘ": "সকলের হাতে"
+        },
+        "question": "শহুরে শিক্ষিত পরিবারে সিদ্ধান্ত নেয়ার ক্ষমতা কার হাতে ন্যস্ত থাকে?",
+        "solution": "গ. স্বামী-স্ত্রী উভয়ের হাতে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 761501,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 761503,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গ্রামীণ সমাজের বৈশিষ্ট্য হচ্ছে- i. যৌথ পরিবার বেশি ii. কৃষিকাজের ওপর নির্ভরশীল iii. শিল্পনির্ভর উৎপাদন নিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 761503,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 761503,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 761504,
+      "value": {
+        "options": {
+          "ক": "একক পরিবার",
+          "খ": "যৌথ পরিবার",
+          "গ": "বর্ধিত পরিবার",
+          "ঘ": "মাতৃপ্রধান পরিবার"
+        },
+        "question": "আজিজ মোল্লা একজন কৃষক। গ্রামে তার পরিবারের সদস্যদের মধ্যে আছেন। স্ত্রী, দুই সন্তান, বাবা-মা, ছোট তিন ভাই ও তাদের সন্তান। তাদের অনেক ধানী জমি আছে, যেগুলো চাষাবাদ করে তারা পরিবারের ব্যয় মেটান।\u003Cbr\u003E\nউদ্দীপকে কোন ধরনের পরিবারের ইঙ্গিত রয়েছে?",
+        "solution": "খ. যৌথ পরিবার",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 43,
+      "book_grade_id": 3,
+      "content_chunk_id": 7821,
+      "created_at": "2025-11-30T13:53:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 43,
+        "title": "বাংলাদেশ ও বিশ্বপরিচয়",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 761504,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 761504,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7821&grade=3&lesson=14011&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7821&grade=3&lesson=14011&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7821&grade=3&lesson=14011&question_paper_id=47300&subject=43&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

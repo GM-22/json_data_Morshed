@@ -1,0 +1,838 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 766167,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "শারীরিক পরিশ্রমের উদাহরণ-\u003Cbr\u003E\ni. টেলিভিশন দেখা&nbsp;\u003Cbr\u003E\nii. খেলাধুলা করা&nbsp;\u003Cbr\u003E\niii. ব্যায়াম করা&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766167,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766167,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766175,
+      "value": {
+        "options": [],
+        "question": "খাদ্যবস্তুর স্বাদ গ্রহণ করে কোনটি? ব্যাখ্যা কর।",
+        "solution": "জিহ্বা খাদ্যবস্তুর স্বাদ গ্রহণ করে।\u003Cbr /\u003E\nআমরা যেসব খাদ্য খেয়ে থাকি তার সবগুলোর স্বাদ জিহ্বা গ্রহণ করে। এক এক স্বাদের খাদ্য জিহ্বার এক এক অংশ গ্রহণ করে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766174,
+      "value": {
+        "options": [],
+        "question": "এনজাইমের ক্ষেত্রে তাপমাত্রার ভূমিকা ব্যাখ্যা কর।",
+        "solution": "প্রতিটি এনজাইমের ক্ষেত্রে একটি নির্দিষ্ট তাপমাত্রা প্রযোজ্য থাকে। ভিন্ন ভিন্ন এনজাইম ভিন্ন ভিন্ন তাপমাত্রায় সজীব থাকে। প্রতিটি এনজাইমের কার্যকারিতার ক্ষেত্রে একটি নির্দিষ্ট তাপমাত্রা থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766173,
+      "value": {
+        "options": {
+          "ক": "ফুসফুস",
+          "খ": "পাকস্থলী",
+          "গ": "হৃৎপিণ্ড",
+          "ঘ": "মস্তিষ্ক"
+        },
+        "question": "হাবিবের বয়স ২৪ বছর। বয়স ও উচ্চতা অনুযায়ী তার ওজন অনেক বেশি।\u003Cbr\u003E\nহাবিবের রোগটি কোন অঙ্গের ওপর প্রভাব ফেলে?",
+        "solution": "গ. হৃৎপিণ্ড",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 766173,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766173,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766172,
+      "value": {
+        "options": {
+          "ক": "নিয়মিত শারীরিক পরিশ্রম",
+          "খ": "ধূমপান করা",
+          "গ": "দেহের ওজন বাড়তে না দেয়া",
+          "ঘ": "সুষম খাদ্য গ্রহণ"
+        },
+        "question": "নিচের কোনটি হৃদরোগের কারণ?",
+        "solution": "খ. ধূমপান করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4112,
+          "full_name": "আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা",
+          "short_name": "আদমজী ক্যান্টনমেন্ট কলেজ, ঢাকা",
+          "slug": "admjee-kzantnment-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 766172,
+            "tag_id": 4112,
+            "year": null,
+            "created_at": "2025-12-01T03:32:57.000000Z",
+            "updated_at": "2025-12-01T03:32:57.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766171,
+      "value": {
+        "options": {
+          "ক": "দেহের ওজন বাড়তে দেয়া",
+          "খ": "নিয়মিত শারীরিক পরিশ্রম করা",
+          "গ": "নিয়মিত ধূমপান করা",
+          "ঘ": "অধিক শর্করাযুক্ত খাবার খাওয়া"
+        },
+        "question": "হৃদরোগের আক্রমণ থেকে রক্ষা পাবার উপায় কোনটি?",
+        "solution": "খ. নিয়মিত শারীরিক পরিশ্রম করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766171,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766170,
+      "value": {
+        "options": [],
+        "question": "অক্সিজেন পরিবহনের ক্ষেত্রে রক্তের ভূমিকা ব্যাখ্যা কর।",
+        "solution": "আমাদের দেহে সকল কাজের জন্য অক্সিজেন দরকার। অক্সিজেন না হলে জীবকোষ বাঁচতে পারে না। কাজেই খাবারের সাথে সাথে এদের দিতে হয় অক্সিজেন। রক্তের লোহিত রক্তকণিকায় অবস্থিত হিমোগ্লোবিন ফুসফুস থেকে অক্সিজেন গ্রহণ করে অক্সিহিমোগ্লোবিন রূপে প্রতিটি কোষে বহন করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766169,
+      "value": {
+        "options": [],
+        "question": "পেষণ দাঁতের কাজ ব্যাখ্যা কর।",
+        "solution": "মানুষের চার ধরনের দাঁত থাকে। এর মধ্যে পেষণ দাঁত একটি গুরুত্বপূর্ণ দাঁত। পেষণ দাঁত খাদ্যবস্তু চিবাতে সাহায্য করে। খাদ্যবস্তু চিবানোর পাশাপাশি পেষণ দাঁত খাদ্যবস্তু গিলতেও সাহায্য করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766168,
+      "value": {
+        "options": [],
+        "question": "রাসায়নিক বিক্রিয়ার ক্ষেত্রে এনজাইমের ভূমিকা ব্যাখ্যা কর।",
+        "solution": "এনজাইম খাদ্যবস্তুর পরিপাকের ক্ষেত্রে রাসায়নিক বিক্রিয়ায় সাহায্যে করে কিন্তু নিজে অংশ নেয় না। এনজাইম রাসায়নিক বিক্রিয়ার পর অপরিবর্তিত থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766158,
+      "value": {
+        "options": {
+          "ক": "খেলাধুলা করা",
+          "খ": "লেখাপড়া করা",
+          "গ": "গান শোনা",
+          "ঘ": "টিভি দেখা"
+        },
+        "question": "নিচের কোনটি শারীরিক পরিশ্রমের উদাহরণ?",
+        "solution": "ক. খেলাধুলা করা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766158,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766166,
+      "value": {
+        "options": {
+          "ক": "শর্করা",
+          "খ": "আমিষ",
+          "গ": "ভিটামিন",
+          "ঘ": "খনিজ লবণ"
+        },
+        "question": "কোন জাতীয় খাবারে হৃদরোগের ঝুঁকি বেশি?",
+        "solution": "ক. শর্করা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766166,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766165,
+      "value": {
+        "options": {
+          "ক": "টাইফয়েড",
+          "খ": "আমাশয়",
+          "গ": "ডায়রিয়া",
+          "ঘ": "হৃদরোগ"
+        },
+        "question": "ধূমপান করলে কী রোগ হতে পারে?",
+        "solution": "ঘ. হৃদরোগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766165,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766164,
+      "value": {
+        "options": {
+          "ক": "উচ্চ রক্তচাপ",
+          "খ": "নিম্ন রক্তচাপ",
+          "গ": "যক্ষ্মা",
+          "ঘ": "ব্রঙ্কাইটিস"
+        },
+        "question": "হাবিবের বয়স ২৪ বছর। বয়স ও উচ্চতা অনুযায়ী তার ওজন অনেক বেশি।\u003Cbr\u003E\nহাবিবের কোন রোগটি হওয়ার সম্ভাবনা আছে?",
+        "solution": "ক. উচ্চ রক্তচাপ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766164,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766164,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766163,
+      "value": {
+        "options": {
+          "ক": "আমাশয়",
+          "খ": "ডেঙ্গুজ্বর",
+          "গ": "উচ্চ রক্তচাপ",
+          "ঘ": "এইডস"
+        },
+        "question": "ধূমপান ত্যাগ করার মাধ্যমে কোন রোগের ঝুঁকি কমে?",
+        "solution": "গ. উচ্চ রক্তচাপ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766163,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766162,
+      "value": {
+        "options": {
+          "ক": "কলেরা",
+          "খ": "যক্ষ্মা",
+          "গ": "হৃদরোগ",
+          "ঘ": "সর্দি"
+        },
+        "question": "দেহের ওজন বাড়লে কোন রোগ হওয়ার সম্ভাবনা থাকে?",
+        "solution": "গ. হৃদরোগ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766162,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766161,
+      "value": {
+        "options": [],
+        "question": "খাদ্য পরিপাকের ক্ষেত্রে সুস্থদেহের প্রয়োজনীয়তা ব্যাখ্যা কর।",
+        "solution": "খাদ্য পরিপাক একটি জটিল প্রক্রিয়া। খাদ্য মুখ দিয়ে গ্রহণ করার পর বিভিন্ন পথ অতিক্রম শেষে উচ্ছিষ্ট অংশ দেহের বাইরে পায়ুপথের মাধ্যমে বের হয়। অসুস্থ দেহে পরিপাক ঠিকমতো হয় না কিন্তু সুস্থদেহে পরিপাক আপনা আপনি ঘটে। তাই খাদ্য পরিপাকের ক্ষেত্রেও সুস্থ দেহের প্রয়োজন রয়েছে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766160,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ধূমপানের ক্ষতিকর দিক-\u003Cbr\u003E\ni. ধমনীগাত্র শক্ত হয়&nbsp;\u003Cbr\u003E\nii. রক্তপবাহে ব্যাঘাত ঘটে\u003Cbr\u003E\niii. হৃদরোগের ঝুঁকি থাকে &nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 766160,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766160,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766159,
+      "value": {
+        "options": {
+          "ক": "যক্ষ্মা",
+          "খ": "এইডস",
+          "গ": "হৃদরোগ",
+          "ঘ": "ব্রঙ্কাইটিস"
+        },
+        "question": "শারীরিক পরিশ্রম না করলে কী রোগ হতে পারে?",
+        "solution": "গ. হৃদরোগ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:32:57.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766159,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7826&grade=3&lesson=14238&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7826&grade=3&lesson=14238&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7826&grade=3&lesson=14238&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

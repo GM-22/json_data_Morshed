@@ -1,0 +1,2055 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 767603,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক ইউনিট",
+          "খ": "যুক্তি ইউনিট",
+          "গ": "নিয়ন্ত্রণ অংশ",
+          "ঘ": "রেজিস্টার স্মৃতি"
+        },
+        "question": "কম্পিউটারের সকল নিয়ন্ত্রণমূলক কাজ কোন অংশের মাধ্যমে সম্পন্ন হয়?",
+        "solution": "গ. নিয়ন্ত্রণ অংশ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767603,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767593,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রসেসরকে কম্পিউটারের মস্তিষ্ক বলার কারণ-\u003Cbr\u003E\ni. এটি মাদারবার্ডে সংযুক্ত থাকে\u003Cbr\u003E\nii. এটি কম্পিউটারের সকল কাজের নির্দেশনা দেয়\u003Cbr\u003E\niii. এর মাধ্যমে তথ্যের প্রক্রিয়াকরণ করা হয়\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3981,
+          "full_name": "জালালাবাদ ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ, সিলেট",
+          "short_name": "জালালাবাদ ক্যান্টনমেন্ট পাবলিক স্কুল এন্ড কলেজ, সিলেট",
+          "slug": "jalalabad-kzantnment-pablik-skul-end-klej-silet",
+          "pivot": {
+            "question_bank_id": 767593,
+            "tag_id": 3981,
+            "year": null,
+            "created_at": "2025-12-01T05:03:41.000000Z",
+            "updated_at": "2025-12-01T05:03:41.000000Z"
+          }
+        }
+      ],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767593,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767593,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767594,
+      "value": {
+        "options": {
+          "ক": "সকল প্রকার গাণিতিক কাজ",
+          "খ": "যৌক্তিক সিদ্ধান্তমূলক কাজ",
+          "গ": "সকল নিয়ন্ত্রণমূলক কাজ",
+          "ঘ": "তথ্য প্রক্রিয়াকরণ কাজ"
+        },
+        "question": "প্রসেসর হচ্ছে কম্পিউটারের মস্তিষ্কস্বরূপ যা গাণিতিক যক্তি ইউনিট, নিয়ন্ত্রণ অংশ, রেজিস্টার স্মৃতি-এই তিনটি অংশের সমন্বয়ে গঠিত। কম্পিউটারের যাবতীয় কাজ এই তিনটি অংশের মাধ্যমে সম্পন্ন হয়।\u003Cbr\u003E\nউদ্দীপকে যন্ত্রটির নিয়ন্ত্রণ অংশ কী কাজ করে?",
+        "solution": "গ. সকল নিয়ন্ত্রণমূলক কাজ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767594,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767594,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767595,
+      "value": {
+        "options": {
+          "ক": "Central Processing Unit",
+          "খ": "Control Processing Unit",
+          "গ": "Control Pragram Unit",
+          "ঘ": "Central Processing Universal"
+        },
+        "question": "CPU-এর পূর্ণরূপ কী?",
+        "solution": "ক. Central Processing Unit",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767596,
+      "value": {
+        "options": {
+          "ক": "রেডিও দিয়ে",
+          "খ": "ট্রানজিস্টর দিয়ে",
+          "গ": "কম্পিউটার দিয়ে",
+          "ঘ": "মোবাইল দিয়ে"
+        },
+        "question": "IC তৈরি হয় কোনটি দ্বারা?",
+        "solution": "খ. ট্রানজিস্টর দিয়ে",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 767596,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 767597,
+      "value": {
+        "options": {
+          "ক": "প্রসেসরের",
+          "খ": "ট্রানজিস্টারের",
+          "গ": "ইন্টিগ্রেটেড সার্কিটের",
+          "ঘ": "মাদারবোর্ডের"
+        },
+        "question": "প্রসেসরের উন্নয়নে কিসের সাহায্য নেওয়া হয়?",
+        "solution": "খ. ট্রানজিস্টারের",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767597,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767598,
+      "value": {
+        "options": {
+          "ক": "আকারে বড় এবং মূল্য কম",
+          "খ": "আকারে ছোট এবং ক্ষমতা কম",
+          "গ": "আকারে বড় এবং ক্ষমতা বেশি",
+          "ঘ": "আকারে ছোট এবং ক্ষমতা বেশি"
+        },
+        "question": "পূর্বের তুলনায় বর্তমান প্রসেসরগুলো কেমন?",
+        "solution": "ঘ. আকারে ছোট এবং ক্ষমতা বেশি",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767598,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767599,
+      "value": {
+        "options": {
+          "ক": "৪",
+          "খ": "৮",
+          "গ": "১৬",
+          "ঘ": "৩২"
+        },
+        "question": "Unicode কয় বিটের কোড?",
+        "solution": "গ. ১৬",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767599,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767600,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রসেসর হচ্ছে কম্পিউটারের মস্তিষ্কস্বরূপ যা গাণিতিক যক্তি ইউনিট, নিয়ন্ত্রণ অংশ, রেজিস্টার স্মৃতি-এই তিনটি অংশের সমন্বয়ে গঠিত। কম্পিউটারের যাবতীয় কাজ এই তিনটি অংশের মাধ্যমে সম্পন্ন হয়।\u003Cbr\u003E\nউক্ত যন্ত্রটি যে অংশ যুক্তির ভিত্তিতে কাজ করে সে অংশে সাধারণত-\u003Cbr\u003E\ni. যোগ, বিয়োগ, গুণ, ভাগ প্রভৃতি চিহ্ন থাকে\u003Cbr\u003E\nii. এবং, অথবা, নতুবা ইত্যাদি যুক্তিমূলক নির্দেশনা থাকে\u003Cbr\u003E\niii. নির্দেশ নির্বাহের জন্য প্রয়োজনীয় নির্বাহ সংকেত থাকে\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 767600,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767600,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 767600,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 767601,
+      "value": {
+        "options": {
+          "ক": "চিপসেট",
+          "খ": "প্রসেসর",
+          "গ": "রম",
+          "ঘ": "ক্লক জেনারেটর"
+        },
+        "question": "আজকের দুনিয়ার সবচেয়ে আধুনিক প্রযুক্তি কোনটি?",
+        "solution": "খ. প্রসেসর",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767601,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767602,
+      "value": {
+        "options": {
+          "ক": "আইবিএম",
+          "খ": "ইন্টেল",
+          "গ": "অ্যাপেল",
+          "ঘ": "অপেরা"
+        },
+        "question": "কোন কোম্পানি প্রথম মাইক্রোপ্রসেসর উদ্ভাবন করে?",
+        "solution": "খ. ইন্টেল",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767602,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767592,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "প্রসেসর যেসব অংশের সমন্বয়ে গঠিত-\u003Cbr\u003E\ni. নিয়ন্ত্রণ অংশ\u003Cbr\u003E\nii. রেজিস্টার স্মৃতি\u003Cbr\u003E\niii. গাণিতিক যুক্তি ইউনিট\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767592,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767592,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767604,
+      "value": {
+        "options": {
+          "ক": "র‍্যাম",
+          "খ": "রম",
+          "গ": "প্রসেসর",
+          "ঘ": "হার্ডডিস্ক"
+        },
+        "question": "কম্পিউটারের সবচেয়ে গুরুত্বপূর্ণ অংশ কোনটি?",
+        "solution": "গ. প্রসেসর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767605,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মাইক্রোপ্রসেসরের গাণিতিক যুক্তি ইউনিটের কাজের মধ্যে রয়েছে-\u003Cbr\u003E\ni. যুক্তিমূলক কাজ\u003Cbr\u003E\nii. গাণিতিক কাজ\u003Cbr\u003E\niii. তথ্য সংরক্ষণের কাজ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767605,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767605,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767606,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মাইক্রোপ্রসেসরের ইতিহাস পাঠ করলে সাব্বির যে নামগুলো খুঁজে পাবে-\u003Cbr\u003E\ni. জাপানের সামাতোশি শিমা\u003Cbr\u003E\nii. জাপানের স্ট্যান মেজার\u003Cbr\u003E\niii. মার্কিন যুক্তরাষ্ট্রের টেড হফ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767606,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767606,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767607,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পূর্বের প্রসেসরগুলোর তুলনায় বর্তমান প্রসেসরগুলো-\u003Cbr\u003E\ni. আকারে অনেক বড়\u003Cbr\u003E\nii. অনেক বেশি ক্ষমতাধর\u003Cbr\u003E\niii. অধিক সংখ্যক আইসি যুক্ত\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767607,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767607,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767608,
+      "value": {
+        "options": [],
+        "question": "কম্পিউটারের মস্তিষ্ক কোনটি? ব্যাখা করো।",
+        "solution": "কম্পিউটার বা আইসিটি ডিভাইসগুলোর সবচেয়ে গুরুত্বপূর্ণ অংশ হলো প্রসেসর। প্রসেসরকে কম্পিউটারের মস্তিষ্ক বলা হয়। কম্পিউটারের সামগ্রিক প্রক্রিয়াকরণের কাজ প্রসেসরের মাধ্যমে হয়ে থাকে। সফটওয়&zwj;্যারের নির্দেশ বোঝা এবং সে অনুযায়ী তথ্য প্রক্রিয়া করা এর কাজ। অর্থাৎ আইসিটি &#39;ডিভাইসের ডেটার ইনপুট ও আউটপুট আদান-প্রদানের কাজটি প্রসেসর নিয়ন্ত্রণ করে থাকে। এ কারণে প্রসেসরকে কম্পিউটারের মস্তিষ্ক বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767609,
+      "value": {
+        "options": [],
+        "question": "কম্পিউটারের ভাষা কী? ব্যাখ্যা করো।",
+        "solution": "কম্পিউটার তথ্য প্রক্রিয়াকরণের জন্য যে নিজস্ব ভাষা ব্যবহার করে তাকে মেশিন ভাষা বলা হয়। এটির মাধ্যমে কম্পিউটার সকল তথ্য বা নির্দেশনা বাইনারি সংখ্যা (০ এবং ।) দ্বারা বোঝে। পৃথিবীর সকল ভাষাভাষী মানুষের তথ্য এবং নির্দেশনা কম্পিউটার বাইনারি সংখ্যায়&nbsp;রূপান্তর করে। এজন্য কম্পিউটার মেশিন ভাষা রূপান্তর করতে অনুবাদক প্রোগ্রাম বা সফটওয়্যার ব্যবহার করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767610,
+      "value": {
+        "options": [],
+        "question": "প্রসেসরের সংগঠন সম্পর্কে লেখো।",
+        "solution": "প্রসেসরের অভ্যন্তরীণ সংগঠনকে তিনটি অংশে ভাগ করা যায়।\u003Cbr /\u003E\n১. গাণিতিক যুক্তি অংশ: প্রসেসরের এ অংশে গাণিতিক ও যৌক্তিক সিদ্ধান্তমূলক কাজ সংঘটিত হয়।\u003Cbr /\u003E\n২. নিয়ন্ত্রক অংশ: নিয়ন্ত্রক অংশ প্রসেসরের যাবতীয় কাজ নিয়ন্ত্রণ করে থাকে। অর্থাৎ কোন নির্দেশের পর কোন নির্দেশ পালিত হবে তা নির্ধারিত হয় এ অংশে।\u003Cbr /\u003E\n৩. রেজিস্টার স্মৃতি: এটি ছোট আকারের অত্যন্ত দ্রুতগতির অস্থায়ী মেমোরি বা স্মৃতি। এ স্মৃতি থেকে তথ্য নিয়ে দ্রুত প্রক্রিয়াকরণ সম্পন্ন হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 767610,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 767611,
+      "value": {
+        "options": [],
+        "question": "পৃথিবীর সকল ভাষার নির্দেশ কম্পিউটার কিভাবে বুঝে ফেলে? ব্যাখ্যা করো।",
+        "solution": "কম্পিউটারের অভ্যন্তরে অবস্থিত প্রসেসর তার নিজের ভাষা ব্যবহার করে। প্রসেসর তথা কম্পিউটারের ভাষায় কেবলমাত্র দুটো অক্ষর &#39;0&#39; এবং &#39;1&#39; ব্যবহৃত হয়।\u003Cbr /\u003E\n&#39;0&#39; মানে হচ্ছে ০ থেকে ২ ভোল্ট বিদ্যুৎ আর &#39;1&#39; মানে হচ্ছে ৩ থেকে ৫ ভোল্ট বিদ্যুৎ। এ ভাষার নাম মেশিন ভাষা। অর্থাৎ প্রসেসর মানুষের ভাষাকে মেশিন ভাষা রূপান্তর করে নেয়। ভাষা রূপান্তরের জন্য প্রসেসর অনুবাধক প্রোগ্রাম ব্যবহার করে মেশিন ভাষায় রূপান্তরিত করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767612,
+      "value": {
+        "options": [],
+        "question": "ASCII কোর্ড সম্পর্কে লেখো।",
+        "solution": "ASCII-এর পূর্ণরূপ হচ্ছে- American Standard Code for Information Interchange। এটি একটি ৮ বিটের কোড। ইংরেজি বর্ণমালাসহ বিশেষ কিছু চিহ্নকে কম্পিউটারের বোধগম্য ভাষায় রূপান্তর করার জন্য ASCII কোড ব্যবহার হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767613,
+      "value": {
+        "options": [],
+        "question": "প্রসেসর সম্পর্কে বুঝিয়ে বলো।",
+        "solution": "প্রসেসর এক ধরনের সিলিকন চিপ। একে সিপিইউ (CPU) বা কেন্দ্রীয় প্রক্রিয়াকরণ অংশও বলা হয়। অসংখ্য ইন্টিগ্রেট সার্কিট (IC) দিয়ে প্রসেসর তৈরি করা হয়। আইসিগুলো তৈরি হয় ট্রানজিস্টর দিয়ে। আর এসব আইসি ক্ষুদ্র চিপ (Chip) এর মধ্যে থাকে। প্রতিনিয়ত আইসির সংখ্যা বাড়লেও চিপ এর আকার ছোট হয়ে আসছে এবং কাজ করার ক্ষমতা ক্রমান্বয়ে বেড়ে চলছে। কম্পিউটারের সামগ্রিক প্রক্রিয়াকরণের কাজ প্রসেসরের মাধ্যমে হয়ে থাকে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767582,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কম্পিউটারের ভাষা অনুযায়ী-\u003Cbr\u003E\ni. ০ মানে হচ্ছে ০ থেকে ২ ভোল্ট বিদ্যুৎ\u003Cbr\u003E\nii. ১ মানে হচ্ছে ৩ থেকে ৫ ভোল্ট বিদ্যুৎ\u003Cbr\u003E\niii. ২ মানে হচ্ছে ৫ থেকে ১০ ভোল্ট বিদ্যুৎ\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767582,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 767582,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 767572,
+      "value": {
+        "options": {
+          "ক": "গাণিতিক সিদ্ধান্তমূলক কাজ",
+          "খ": "আউটপুট ডিভাইস",
+          "গ": "সকল নিয়ন্ত্রণমূলক",
+          "ঘ": "তথ্য প্রক্রিয়াকরণের কাজ"
+        },
+        "question": "গাণিতিক যুক্তি ইউনিটে কী ধরনের কাজ হয়?",
+        "solution": "গ. সকল নিয়ন্ত্রণমূলক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767572,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767573,
+      "value": {
+        "options": {
+          "ক": "ইনপুট ডিভাইস",
+          "খ": "আউটপুট ডিভাইস",
+          "গ": "প্রসেসর",
+          "ঘ": "স্টোরেজ ডিভাইস"
+        },
+        "question": "কম্পিউটারে তথ্য আদান-প্রদানের কাজ কে নিয়ন্ত্রণ করে?",
+        "solution": "গ. প্রসেসর",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767573,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767574,
+      "value": {
+        "options": {
+          "ক": "প্রসেসর",
+          "খ": "ট্রানজিস্টর",
+          "গ": "চিপসেট",
+          "ঘ": "এক্সপানশন স্লট"
+        },
+        "question": "ইন্টিগ্রেটেড সার্কিট কী দিয়ে তৈরি?",
+        "solution": "ক. প্রসেসর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767574,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767575,
+      "value": {
+        "options": {
+          "ক": "Inter Circuit",
+          "খ": "Integrated Circuit",
+          "গ": "International Circuit",
+          "ঘ": "Information Computer"
+        },
+        "question": "IC-এর পূর্ণরূপ কী?",
+        "solution": "খ. Integrated Circuit",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767576,
+      "value": {
+        "options": {
+          "ক": "৪০০৪",
+          "খ": "৮০০৮",
+          "গ": "৯০০৯",
+          "ঘ": "২০০২"
+        },
+        "question": "ইন্টেলের প্রথম মাইক্রোপ্রসেসরের নাম কী?",
+        "solution": "ক. ৪০০৪",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 767576,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 767577,
+      "value": {
+        "options": {
+          "ক": "যাবতীয় গাণিতিক কাজ করা",
+          "খ": "যাবতীয় যুক্তিমূলক কাজ করা",
+          "গ": "সকল কাজ নিয়ন্ত্রণ করা",
+          "ঘ": "স্মৃতি থেকে তথ্য নিয়ে প্রক্রিয়াকরণ করা"
+        },
+        "question": "রেজিস্টার স্মৃতির কাজ কী?",
+        "solution": "ঘ. স্মৃতি থেকে তথ্য নিয়ে প্রক্রিয়াকরণ করা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767577,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767578,
+      "value": {
+        "options": {
+          "ক": "কম্পিউটার শুধু ইংরেজি ভাষা বুঝে",
+          "খ": "কম্পিউটার নির্দিষ্ট কিছু ভাষা বুঝে",
+          "গ": "কম্পিউটার সকল ভাষা বুঝে",
+          "ঘ": "কম্পিউটার শুধু নিজের ভাষাই বুঝে"
+        },
+        "question": "পৃথিবীর বিভিন্ন জাতি কম্পিউটারকে বিভিন্ন ভাষায় নির্দেশ দেয় এবং কম্পিউটার ঠিক সেই অনুযায়ী কাজ সম্পন্ন করে। কম্পিউটারের ভাষা বোঝার ক্ষেত্রে কোন তথ্যটি সত্য?",
+        "solution": "ঘ. কম্পিউটার শুধু নিজের ভাষাই বুঝে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 767578,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767579,
+      "value": {
+        "options": {
+          "ক": "তারবিহীন",
+          "খ": "ক্যাবলযুক্ত",
+          "গ": "তারযুক্ত",
+          "ঘ": "স্যাটেলাইটযুক্ত"
+        },
+        "question": "ব্লুটথ বা ওয়াইফাই প্রযুক্তি হলো-",
+        "solution": "ক. তারবিহীন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4302,
+          "full_name": "বর্ডার গার্ড পাবলিক স্কুল এন্ড কলেজ, সিলেট",
+          "short_name": "বর্ডার গার্ড পাবলিক স্কুল এন্ড কলেজ, সিলেট",
+          "slug": "brdar-gard-pablik-skul-end-klej-silet",
+          "pivot": {
+            "question_bank_id": 767579,
+            "tag_id": 4302,
+            "year": null,
+            "created_at": "2025-12-01T05:03:41.000000Z",
+            "updated_at": "2025-12-01T05:03:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767580,
+      "value": {
+        "options": {
+          "ক": "ইন্টেল ৪০০৪",
+          "খ": "ইন্টেল ৪০৪০",
+          "গ": "Altair 880",
+          "ঘ": "ইন্টেল ৮০০৮"
+        },
+        "question": "বিশ্বের প্রথম মাইক্রোপ্রসেসর ভিত্তিক কম্পিউটার-",
+        "solution": "ক. ইন্টেল ৪০০৪",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4307,
+          "full_name": "আর্মড পুলিশ ব্যাটালিয়ন স্কুল অ্যান্ড কলেজ, বগুড়া",
+          "short_name": "আর্মড পুলিশ ব্যাটালিয়ন স্কুল অ্যান্ড কলেজ, বগুড়া",
+          "slug": "armd-pulis-bzataliyn-skul-ozand-klej-bgura",
+          "pivot": {
+            "question_bank_id": 767580,
+            "tag_id": 4307,
+            "year": null,
+            "created_at": "2025-12-01T05:03:41.000000Z",
+            "updated_at": "2025-12-01T05:03:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767581,
+      "value": {
+        "options": {
+          "ক": "২ বিটের",
+          "খ": "৪ বিটের",
+          "গ": "৮ বিটের",
+          "ঘ": "১৬ বিটের"
+        },
+        "question": "ASCII কোডের সংখ্যা-",
+        "solution": "গ. ৮ বিটের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4304,
+          "full_name": "ডাঃ খাস্তগীর সরকারি বালিকা উচ্চ বিদ্যালয়, চট্টগ্রাম",
+          "short_name": "ডাঃ খাস্তগীর সরকারি বালিকা উচ্চ বিদ্যালয়, চট্টগ্রাম",
+          "slug": "da-khastgeer-srkari-balika-ucc-bidzaly-cttgram",
+          "pivot": {
+            "question_bank_id": 767581,
+            "tag_id": 4304,
+            "year": null,
+            "created_at": "2025-12-01T05:03:41.000000Z",
+            "updated_at": "2025-12-01T05:03:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 5,
+          "name": "রিপিটেড স্কুল",
+          "pivot": {
+            "question_bank_id": 767581,
+            "question_bank_special_filter_id": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": 767571,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "কয়টি অংশের সমন্বয়ে প্রসেসর গঠিত হয়?",
+        "solution": "খ. তিন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767571,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767583,
+      "value": {
+        "options": {
+          "ক": "Arithmetic Local Unity",
+          "খ": "Arithmetic logic Unit",
+          "গ": "Alocation and Logic Unit",
+          "ঘ": "Arithmetic Local Unit"
+        },
+        "question": "ALU এর পূর্ণ নাম কী?",
+        "solution": "খ. Arithmetic logic Unit",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767584,
+      "value": {
+        "options": {
+          "ক": "Arithmetic Local Unit",
+          "খ": "Arithmetic Local Unity",
+          "গ": "Arithmetic and Logic Unit",
+          "ঘ": "Alocation and Logic Unit"
+        },
+        "question": "ALU-এর পূর্ণ নাম কী?",
+        "solution": "ক. Arithmetic Local Unit",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767585,
+      "value": {
+        "options": {
+          "ক": "মহুল গতিতে",
+          "খ": "দ্রুত গতিতে",
+          "গ": "অবিশ্বাস্য গতিতে",
+          "ঘ": "অকল্পনীয় গতিতে"
+        },
+        "question": "আবিষ্কারের পর থেকে প্রসেসরের উন্নয়ন কীভাবে হয়েছে?",
+        "solution": "ঘ. অকল্পনীয় গতিতে",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767585,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767586,
+      "value": {
+        "options": {
+          "ক": "২০০০",
+          "খ": "২৩০০",
+          "গ": "২৩৫০",
+          "ঘ": "২৫০০"
+        },
+        "question": "ইন্টেলের আবিষ্কৃত ৪০০৪ মাইক্রোপ্রসেসরে কতটি ট্রানজিস্টর ছিল?",
+        "solution": "খ. ২৩০০",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767586,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767587,
+      "value": {
+        "options": {
+          "ক": "তথ্য বের করা",
+          "খ": "তথ্য উৎপাদন",
+          "গ": "তথ্য সরবরাহ",
+          "ঘ": "তথ্য প্রক্রিয়া"
+        },
+        "question": "কম্পিউটারের Processor এর কাজ কী?",
+        "solution": "ঘ. তথ্য প্রক্রিয়া",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767588,
+      "value": {
+        "options": {
+          "ক": "প্রসেসর",
+          "খ": "হার্ডডিস্ক",
+          "গ": "রম",
+          "ঘ": "সিডি"
+        },
+        "question": "প্রাথমিকভাবে র‍্যামে প্রয়োজনীয় তথ্য জমা করে কোনটি?",
+        "solution": "ক. প্রসেসর",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4054,
+          "full_name": "সরকারি করোনেশন মাধ্যমিক বালিকা বিদ্যালয়, খুলনা",
+          "short_name": "সরকারি করোনেশন মাধ্যমিক বালিকা বিদ্যালয়, খুলনা",
+          "slug": "srkari-kronesn-madhzmik-balika-bidzaly-khulna",
+          "pivot": {
+            "question_bank_id": 767588,
+            "tag_id": 4054,
+            "year": null,
+            "created_at": "2025-12-01T05:03:41.000000Z",
+            "updated_at": "2025-12-01T05:03:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 767589,
+      "value": {
+        "options": {
+          "ক": "১",
+          "খ": "২",
+          "গ": "৪",
+          "ঘ": "৮"
+        },
+        "question": "কম্পিউটারের ভাষায় অক্ষর কয়টি?",
+        "solution": "খ. ২",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 767589,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767590,
+      "value": {
+        "options": {
+          "ক": "পৃথিবীর সকল ভাষাকে ইংরেজি ভাষায় রূপান্তর করা",
+          "খ": "আমাদের ভাষাকে মেশিনের বোধগম্য কোডে রূপান্তর করা",
+          "গ": "মেশিনের ভাষাকে ইংরেজি ভাষায় রূপান্তর করা",
+          "ঘ": "পৃথিবীর যে কোনো ভাষাকে অন্য ভাষায় রূপান্তর করা"
+        },
+        "question": "আধুনিক প্রোগ্রামের কাজ কী?",
+        "solution": "খ. আমাদের ভাষাকে মেশিনের বোধগম্য কোডে রূপান্তর করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 767590,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 767591,
+      "value": {
+        "options": {
+          "ক": "১,২",
+          "খ": "১,৩",
+          "গ": "A, B",
+          "ঘ": "০,১"
+        },
+        "question": "কম্পিউটার কেবলমাত্র চিনে-",
+        "solution": "ঘ. ০,১",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 41,
+      "book_grade_id": 3,
+      "content_chunk_id": 619,
+      "created_at": "2025-12-01T05:03:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 41,
+        "title": "তথ্য ও যোগাযোগ প্রযুক্তি",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4302,
+          "full_name": "বর্ডার গার্ড পাবলিক স্কুল এন্ড কলেজ, সিলেট",
+          "short_name": "বর্ডার গার্ড পাবলিক স্কুল এন্ড কলেজ, সিলেট",
+          "slug": "brdar-gard-pablik-skul-end-klej-silet",
+          "pivot": {
+            "question_bank_id": 767591,
+            "tag_id": 4302,
+            "year": null,
+            "created_at": "2025-12-01T05:03:41.000000Z",
+            "updated_at": "2025-12-01T05:03:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=619&grade=3&lesson=14314&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=619&grade=3&lesson=14314&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=619&grade=3&lesson=14314&question_paper_id=47300&subject=41&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 43,
+  "total": 43
+}

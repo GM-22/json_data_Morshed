@@ -1,0 +1,664 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 766957,
+      "value": {
+        "options": {
+          "ক": "নিচে",
+          "খ": "মাঝখানে",
+          "গ": "উপরে",
+          "ঘ": "প্রান্তভাগে"
+        },
+        "question": "আপাতদৃষ্টিতে পৃথিবীকে একটি থালার মতো মনে হয়। আমরা এ থালার কোথায় অবস্থান করছি?",
+        "solution": "গ. উপরে",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766957,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766958,
+      "value": {
+        "options": {
+          "ক": "বায়ুমণ্ডল",
+          "খ": "আকাশ",
+          "গ": "পৃথিবীপৃষ্ঠ",
+          "ঘ": "বারিমন্ডল"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746766655353_1764561338_tB0yexrZ.webp\"\u003Eচিত্রে পৃথিবীর আকারকে একটি থালার সাথে তুলনা করা হয়েছে। এই থালাকে কী ঢেকে আছে?",
+        "solution": "খ. আকাশ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766958,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 766958,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766958,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766959,
+      "value": {
+        "options": {
+          "ক": "পানি",
+          "খ": "মাটি",
+          "গ": "পাহাড়",
+          "ঘ": "বায়ুমণ্ডল"
+        },
+        "question": "পৃথিবী পৃষ্ঠের চার ভাগের তিন ভাগ কী দিয়ে গঠিত?",
+        "solution": "ক. পানি",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766959,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766960,
+      "value": {
+        "options": {
+          "ক": "সূর্য",
+          "খ": "মহাকাশ",
+          "গ": "চাঁদ",
+          "ঘ": "বায়ুমণ্ডল"
+        },
+        "question": "পৃথিবীকে ঘিরে কী আছে?",
+        "solution": "ঘ. বায়ুমণ্ডল",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3858,
+          "full_name": "মাইলস্টোন কলেজ, ঢাকা",
+          "short_name": "মাইলস্টোন কলেজ, ঢাকা",
+          "slug": "mailston-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 766960,
+            "tag_id": 3858,
+            "year": null,
+            "created_at": "2025-12-01T03:55:38.000000Z",
+            "updated_at": "2025-12-01T03:55:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 766961,
+      "value": {
+        "options": {
+          "ক": "মহাকর্ষ বল",
+          "খ": "চৌঙ্ক বল",
+          "গ": "তাড়িত চৌম্বক বল",
+          "ঘ": "অভিকর্ষ বল"
+        },
+        "question": "পৃথিবীর যে কোনো দুইটি বস্তুর মধ্যে আকর্ষণ বলকে কী বলে?",
+        "solution": "ক. মহাকর্ষ বল",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766961,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766962,
+      "value": {
+        "options": {
+          "ক": "পানি",
+          "খ": "মাটি",
+          "গ": "বায়ুমণ্ডল",
+          "ঘ": "পাহাড়"
+        },
+        "question": "পৃথিবী পৃষ্ঠের চার ভাগের এক ভাগ কী দিয়ে গঠিত?",
+        "solution": "খ. মাটি",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766962,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766963,
+      "value": {
+        "options": {
+          "ক": "মঙ্গল",
+          "খ": "বুধ",
+          "গ": "পৃথিবী",
+          "ঘ": "বৃহস্পতি"
+        },
+        "question": "নিচের কোন গ্রহটি বসবাসের জন্য উপযোগী?",
+        "solution": "গ. পৃথিবী",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766963,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766964,
+      "value": {
+        "options": {
+          "ক": "গোলাকার",
+          "খ": "ডিম্বাকার",
+          "গ": "ডাম্বেলাকার",
+          "ঘ": "কমলালেবুর মতো"
+        },
+        "question": "পৃথিবীর আকার কেমন?",
+        "solution": "ঘ. কমলালেবুর মতো",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766964,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766965,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746766655353_1764561338_p50ZipIV.webp\"\u003Eচিত্রের উপরে অবস্থান করছে-\u003Cbr\u003E\ni. মানুষ&nbsp;\u003Cbr\u003E\nii. গাছপালা&nbsp;\u003Cbr\u003E\niii. জীবজন্তু&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766965,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 766965,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766965,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766965,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766966,
+      "value": {
+        "options": {
+          "ক": "পশ্চিম-দক্ষিণ",
+          "খ": "উত্তর-দক্ষিণ",
+          "গ": "দক্ষিণ-পশ্চিম",
+          "ঘ": "পূর্ব-পশ্চিম"
+        },
+        "question": "পৃথিবী কোন দিকে চাপানো?",
+        "solution": "খ. উত্তর-দক্ষিণ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766966,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766967,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পৃথিবী পৃষ্ঠে রয়েছে-\u003Cbr\u003E\ni. বাতাস&nbsp;\u003Cbr\u003E\nii. মাটি&nbsp;\u003Cbr\u003E\niii. পানি&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766967,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766967,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766968,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "পৃথিবী দেখতে-\u003Cbr\u003E\ni. কমলালেবুর মতো&nbsp;\u003Cbr\u003E\nii. আপেলের মতো&nbsp;\u003Cbr\u003E\niii. গ্লোবের মতো&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7833,
+      "created_at": "2025-12-01T03:55:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766968,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766968,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7833&grade=3&lesson=14279&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7833&grade=3&lesson=14279&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7833&grade=3&lesson=14279&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

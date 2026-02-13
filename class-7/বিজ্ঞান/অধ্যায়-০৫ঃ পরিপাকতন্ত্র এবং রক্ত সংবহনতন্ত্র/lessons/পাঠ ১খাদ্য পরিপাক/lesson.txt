@@ -1,0 +1,706 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 765998,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "খাদ্যের প্রধান উপাদান-\u003Cbr\u003E\ni. ভিটামিন&nbsp;\u003Cbr\u003E\nii. খনিজ লবণ&nbsp;\u003Cbr\u003E\niii. স্নেহ পদার্থ&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 765998,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 765998,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 765999,
+      "value": {
+        "options": {
+          "ক": "শ্বসন",
+          "খ": "রক্তসংবহন",
+          "গ": "পরিপাক",
+          "ঘ": "রেচন"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744642097456_1764559906_xLyCyPKX.webp\"\u003Eচিত্রের প্রক্রিয়াটির নাম কী?",
+        "solution": "গ. পরিপাক",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 765999,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 765999,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 765999,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766000,
+      "value": {
+        "options": {
+          "ক": "খাদ্যসার",
+          "খ": "উচ্ছিষ্ট",
+          "গ": "খনিজ লবণ",
+          "ঘ": "ভিটামিন"
+        },
+        "question": "খাদ্যের অপ্রয়োজনীয় অংশকে কী বলা হয়?",
+        "solution": "খ. উচ্ছিষ্ট",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766000,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766001,
+      "value": {
+        "options": {
+          "ক": "সরল উপাদান",
+          "খ": "জটিল উপাদান",
+          "গ": "উচ্ছিষ্ট দ্রব্য",
+          "ঘ": "ভিটামিন"
+        },
+        "question": "পরিপককৃত খাদ্যের কোন উপাদান দেহ শোষণ করে?",
+        "solution": "ক. সরল উপাদান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766001,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766002,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "প্রধান খাদ্য কয় শ্রেণির?",
+        "solution": "খ. তিন",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766002,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766003,
+      "value": {
+        "options": {
+          "ক": "ভিটামিন",
+          "খ": "খনিজ লবণ",
+          "গ": "শর্করা",
+          "ঘ": "আঁশযুক্ত খাবার"
+        },
+        "question": "কোন খাদ্য সহজে হজম হয় না?",
+        "solution": "ঘ. আঁশযুক্ত খাবার",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766003,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766004,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "খাদ্যের পরিবর্তন ঘটায়-\u003Cbr\u003E\ni. রক্তসংবহনতন্ত্র&nbsp;\u003Cbr\u003E\nii. পরিপাকতন্ত্র&nbsp;\u003Cbr\u003E\niii. পৌষ্টিকতন্ত্র&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "গ. ii ও iii",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766004,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766004,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766005,
+      "value": {
+        "options": {
+          "ক": "সরল উপাদান",
+          "খ": "জটিল উপাদান",
+          "গ": "খাদ্যসার",
+          "ঘ": "অপ্রাচ্য বস্তু"
+        },
+        "question": "খাদ্য পরিপাক হওয়ার পর কিসে পরিণত হয়?",
+        "solution": "ক. সরল উপাদান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766005,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 765993,
+      "value": {
+        "options": {
+          "ক": "আমরা যা দেখি",
+          "খ": "আমরা যা শুনি",
+          "গ": "দেহের ভেতরে খাদ্যের পরিবর্তন",
+          "ঘ": "তৈরিকৃত খাবার খাওয়া"
+        },
+        "question": "নিচের কোন বিষয়ের ওপর আমাদের নিয়ন্ত্রণ নেই?",
+        "solution": "গ. দেহের ভেতরে খাদ্যের পরিবর্তন",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 765993,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 765994,
+      "value": {
+        "options": {
+          "ক": "খাদ্যের পরিপাক শুরু হয় মুখগহ্বরে",
+          "খ": "আমরা মুখ দিয়ে খাবার খাই",
+          "গ": "সকল লোকের খাদ্য পরিপাক হার একই ধরনের",
+          "ঘ": "ভিটামিন খাদ্যের গুরুত্বপূর্ণ উপাদান"
+        },
+        "question": "নিচের কোন উক্তিটি অসত্য?",
+        "solution": "গ. সকল লোকের খাদ্য পরিপাক হার একই ধরনের",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 765994,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 765995,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "আমাদের শরীর সরাসরি কাজে লাগাতে পারে না-\u003Cbr\u003E\ni. জটিল খাদ্য&nbsp;\u003Cbr\u003E\nii. সরল ও তরল খাদ্য&nbsp;\u003Cbr\u003E\niii. অদ্রবণীয় খাদ্য&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 765995,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 765996,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1744642097456_1764559905_jBPHCRG2.webp\"\u003Eচিত্রের প্রক্রিয়াটি-\u003Cbr\u003E\ni. আপনা আপনি ঘটে&nbsp;\u003Cbr\u003E\nii. নিয়ন্ত্রণযোগ্য&nbsp;\u003Cbr\u003E\niii. আরম্ভ হয় মুখগহ্বরে&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 765996,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 765996,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 765996,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 765996,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 765997,
+      "value": {
+        "options": {
+          "ক": "দামি পোশাক",
+          "খ": "উঁচু দালান",
+          "গ": "খাদ্য",
+          "ঘ": "খেলার সামগ্রী"
+        },
+        "question": "বেঁচে থাকার জন্য কোনটি দরকার?",
+        "solution": "গ. খাদ্য",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7826,
+      "created_at": "2025-12-01T03:31:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 765997,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7826&grade=3&lesson=14232&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7826&grade=3&lesson=14232&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7826&grade=3&lesson=14232&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 13,
+  "total": 13
+}

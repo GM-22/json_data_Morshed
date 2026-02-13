@@ -1,0 +1,3651 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 487070,
+      "value": {
+        "options": [],
+        "question": "সরলীকরণ কর: [math]\\frac{(x - y)^2}{xyz} - \\frac{v}{zx} + \\frac{z}{xy}[/math]",
+        "solution": "প্রথমে একটি সাধারণ হর [math]xyz[/math]\u003Cbr\u003E ঠিক করি:দ্বিতীয় ভগ্নাংশ: [math]\\frac{v}{zx} = \\frac{v \\cdot y}{xyz}[/math]\u003Cbr\u003Eতৃতীয় ভগ্নাংশ: [math]\\frac{z}{xy} = \\frac{z \\cdot z}{xyz} = \\frac{z^2}{xyz}[/math]\u003Cbr\u003E∴ [math]\\frac{(x - y)^2 - vy + z^2}{xyz}[/math]\u003Cbr\u003E∴ চূড়ান্ত উত্তর: [math]\\boxed{\\frac{(x - y)^2 - vy + z^2}{xyz}}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: সাধারণ ভাজক নেওয়া হলে তিনটি ভগ্নাংশের প্রত্যেকটির অভিন্ন ভাজক হবে [math]xyz[/math], তাই দ্বিতীয় ও তৃতীয় অংশকে উপযুক্তভাবে গুণ করলে পাওয়া যায় [math]\\frac{(x-y)^2}{xyz}-\\frac{vy}{xyz}+\\frac{z^2}{xyz}[/math]. এগুলোকে একত্র করলে সরলিকৃত ফল হয় [math]\\frac{(x-y)^2 - vy + z^2}{xyz}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487070,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487061,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{5}{x + 7} - \\frac{2}{x^2 - x - 56}[/math]",
+        "solution": "প্রথমে [math]x^2 - x - 56 = (x + 7)(x - 8)[/math]\u003Cbr\u003E∴ [math]\\frac{5}{x + 7} - \\frac{2}{(x + 7)(x - 8)}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x + 7)(x - 8)[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশকে একই হরে রূপান্তর করি:[math]\\frac{5(x - 8)}{(x + 7)(x - 8)} - \\frac{2}{(x + 7)(x - 8)}[/math]\u003Cbr\u003E [math]= \\frac{5x - 40 - 2}{(x + 7)(x - 8)}[/math]\u003Cbr\u003E [math]= \\frac{5x - 42}{(x + 7)(x - 8)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{5x - 42}{(x + 7)(x - 8)}}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে গুণফলে বিন্যাস করলে [math]x^2-x-56=(x+7)(x-8)[math] হওয়ায় সাধারণ নামাঙ্কন [math](x+7)(x-8)[math] নিলে লঘু করি: [math]\\frac{5(x-8)-2}{(x+7)(x-8)}[/math]. সরল করলে ফল হয় [math]\\frac{5x-42}{(x+7)(x-8)}[/math] এবং শর্ত আছে যে [math]x\\neq -7,\\,8[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487061,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487062,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{2}{x - 4} - \\frac{2x}{x^2 + 5x - 36}[/math]",
+        "solution": "প্রথমে [math]x^2 + 5x - 36 = (x - 4)(x + 9)[/math]\u003Cbr\u003E∴ [math]\\frac{2}{x - 4} - \\frac{2x}{(x - 4)(x + 9)}[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশকে একই হরে রূপান্তর করি:[math]\\frac{2(x + 9)}{(x - 4)(x + 9)} - \\frac{2x}{(x - 4)(x + 9)}[/math]\u003Cbr\u003E [math]= \\frac{2x + 18 - 2x}{(x - 4)(x + 9)} = \\frac{18}{(x - 4)(x + 9)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{18}{(x - 4)(x + 9)}}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]x^2+5x-36=(x-4)(x+9)[/math] তাই প্রথম ভগ্নাংশকে [math](x+9)/(x+9)[math] দ্বারা বাড়িয়ে সাধারণ হারিকরণ করলে টার্মগুলো মিলে যায়: [math]\\frac{2(x+9)-2x}{(x-4)(x+9)}=\\frac{18}{(x-4)(x+9)}[/math]. মন রাখো [math]x\\neq4,\\,-9[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487062,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487063,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{p + a}{p - a} - \\frac{4ap}{(p + a)(p - a)}[/math]",
+        "solution": "প্রথম ভগ্নাংশের হর [math]p - a[/math]\u003Cbr\u003E, দ্বিতীয়টির হর [math](p + a)(p - a)[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশকে একই হরে রূপান্তর করি:[math]\\frac{(p + a)(p + a)}{(p + a)(p - a)} = \\frac{(p + a)^2}{(p + a)(p - a)}[/math]\u003Cbr\u003E∴ [math]\\frac{(p + a)^2 - 4ap}{(p + a)(p - a)}[/math]\u003Cbr\u003Eএখন লবকে সরল করি: [math](p + a)^2 - 4ap = p^2 + 2ap + a^2 - 4ap = p^2 - 2ap + a^2 = (p - a)^2[/math]\u003Cbr\u003E∴ [math]\\frac{(p - a)^2}{(p + a)(p - a)} = \\frac{p - a}{p + a}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{p - a}{p + a}}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: সাধারণ নামাঙ্কন করা হলে প্রথম ভগ্নাংশকে একই হারে গুণ করে পাওয়া যায় [math]\\frac{(p+a)^2}{(p+a)(p-a)}[/math], তাই পার্থক্যটি হচ্ছে [math]\\frac{(p+a)^2-4ap}{(p+a)(p-a)}=\\frac{p^2+2ap+a^2-4ap}{p^2-a^2}=\\frac{p^2-2ap+a^2}{p^2-a^2}[/math]. উপরেকথা সহজ করলে নিউমেরেটর [math](p-a)^2[/math] হয় এবং একটি (p-a) কেটে গেলে ফল হয় [math]\\frac{p-a}{p+a}[/math] (শর্ত: [math]p\\neq \\pm a[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487063,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487064,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{3x}{x^2 - 2x - 15} - \\frac{2}{x^2 + x - 30}[/math]",
+        "solution": "প্রথমে উৎপাদকে বিশ্লেষণ করি:[math]x^2 - 2x - 15 = (x - 5)(x + 3)[/math]\u003Cbr\u003E [math]x^2 + x - 30 = (x - 5)(x + 6)[/math]\u003Cbr\u003E∴ [math]\\frac{3x}{(x - 5)(x + 3)} - \\frac{2}{(x - 5)(x + 6)}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x - 5)(x + 3)(x + 6)[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশকে: [math]\\frac{3x(x + 6)}{(x - 5)(x + 3)(x + 6)}[/math]\u003Cbr\u003Eদ্বিতীয় ভগ্নাংশকে: [math]\\frac{2(x + 3)}{(x - 5)(x + 3)(x + 6)}[/math]\u003Cbr\u003E∴ [math]\\frac{3x(x + 6) - 2(x + 3)}{(x - 5)(x + 3)(x + 6)}[/math]\u003Cbr\u003E [math]= \\frac{3x^2 + 18x - 2x - 6}{(x - 5)(x + 3)(x + 6)}[/math]\u003Cbr\u003E [math]= \\frac{3x^2 + 16x - 6}{(x - 5)(x + 3)(x + 6)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{3x^2 + 16x - 6}{(x - 5)(x + 3)(x + 6)}}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: প্রথমে ভগ্নাঙ্কগুলো তুলুন: [math]x^2-2x-15=(x-5)(x+3)[/math] এবং [math]x^2+x-30=(x-5)(x+6)[/math], তাই সাধারণ নামহার [math](x-5)(x+3)(x+6)[/math]. প্রতিটি ভগ্নাংশকে সেই নামহারে আনলে পাই [math]\\frac{3x(x+6)-2(x+3)}{(x-5)(x+3)(x+6)}=\\frac{3x^2+16x-6}{(x-5)(x+3)(x+6)}[/math]. নিউমারেটরটি আর নামহার কোনো সাধারণ গুণফল শেয়ার করে না, তাই এটি চূড়ান্ত সরলীকৃত রূপ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487064,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487065,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{2x - 3}{x^2 - 11x + 30} - \\frac{5}{x^2 - 16x + 63}[/math]",
+        "solution": "উৎপাদকে বিশ্লেষণ করি:[math]x^2 - 11x + 30 = (x - 6)(x - 5)[/math]\u003Cbr\u003E [math]x^2 - 16x + 63 = (x - 9)(x - 7)[/math]\u003Cbr\u003E∴ [math]\\frac{2x - 3}{(x - 6)(x - 5)} - \\frac{5}{(x - 9)(x - 7)}[/math]\u003Cbr\u003Eএটি সরাসরি ল.সা.গু. করা না গেলেও পৃথকভাবে বিশ্লেষণযোগ্য; অতএব,∴ [math]\\boxed{\\text{এই বিয়োগফল নির্ণয়ের জন্য একটি সাধারণ হর নির্ধারণ করে যোগফল করা সম্ভব}}[/math]\u003Cbr\u003Eতবে এটি ফলাফলে যুক্ত করে:[math]\\frac{(2x - 3)(x - 9)(x - 7) - 5(x - 6)(x - 5)}{(x - 6)(x - 5)(x - 9)(x - 7)}[/math]\u003Cbr\u003Eএই পূর্ণ বিস্তার করে উত্তর: [math]\\boxed{\\frac{2x^3 - 39x^2 + 243x - 441 - (5x^2 - 55x + 150)}{(x - 6)(x - 5)(x - 9)(x - 7)}}[/math]\u003Cbr\u003Eযা সরল করলে: [math]\\boxed{\\frac{2x^3 - 44x^2 + 298x - 591}{(x - 6)(x - 5)(x - 9)(x - 7)}}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে মাথার নামচিহ্নগুলো ভেঙে নিই: [math]x^2-11x+30=(x-5)(x-6)[/math] এবং [math]x^2-16x+63=(x-7)(x-9)[/math], তাই সাধারণ নিতি হলো [math](x-5)(x-6)(x-7)(x-9)[/math].  \nএকই ভগ্নাংশে নিয়ে যোগ করলে পাই [math]\\frac{(2x-3)(x-7)(x-9)-5(x-5)(x-6)}{(x-5)(x-6)(x-7)(x-9)}[/math].  \nএটি বিস্তৃত ও সরল করলে ফল হয় [math]\\frac{2x^3-40x^2+229x-339}{(x-5)(x-6)(x-7)(x-9)}[/math], এবং কোনো সাধারণ গুণক নেই, সুতরাং এটা চূড়ান্ত উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487065,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487066,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{4}{x^2 - 10x + 21} - \\frac{3x}{x^2 - 6x + 5}[/math]",
+        "solution": "উৎপাদকে বিশ্লেষণ করি:[math]x^2 - 10x + 21 = (x - 7)(x - 3)[/math]\u003Cbr\u003E [math]x^2 - 6x + 5 = (x - 1)(x - 5)[/math]\u003Cbr\u003E∴ [math]\\frac{4}{(x - 7)(x - 3)} - \\frac{3x}{(x - 1)(x - 5)}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x - 7)(x - 3)(x - 1)(x - 5)[/math]\u003Cbr\u003E∴ [math]\\frac{4(x - 1)(x - 5) - 3x(x - 7)(x - 3)}{(x - 7)(x - 3)(x - 1)(x - 5)}[/math]\u003Cbr\u003Eলব বিস্তার করে:[math]4(x^2 - 6x + 5) - 3x(x^2 - 10x + 21)[/math]\u003Cbr\u003E [math]= 4x^2 - 24x + 20 - (3x^3 - 30x^2 + 63x)[/math]\u003Cbr\u003E [math]= -3x^3 + 34x^2 - 87x + 20[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{-3x^3 + 34x^2 - 87x + 20}{(x - 7)(x - 3)(x - 1)(x - 5)}}[/math]\u003Cbr\u003E",
+        "explanation": "প্রক্রিয়া: প্রথমে নামানগুলিকে ভগ্নাংশের গুণনীয় হিসাবে ফ্যাক্টর করে নেওয়া যায়: [math]x^2-10x+21=(x-3)(x-7)[/math] এবং [math]x^2-6x+5=(x-1)(x-5)[/math], তাই সাধারণ নামাঙ্ক হল [math](x-3)(x-7)(x-1)(x-5)[/math].  \nপ্রতিটি ভগ্নাংশকে সেই নামাঙ্কে আনলে অভিন্ন সূচক রূপে বিয়োগ করলে লেখাটি হয় [math]\\dfrac{4(x-1)(x-5)-3x(x-3)(x-7)}{(x-3)(x-7)(x-1)(x-5)}[/math], যা প্রসারিত করলে সংখ্যাগুণকায় [math]-3x^3+34x^2-87x+20[/math] পাওয়া যায়.  \nঅতএব ফলাফলটি হল [math]\\dfrac{-3x^3+34x^2-87x+20}{(x-3)(x-7)(x-1)(x-5)}\u003C/math\u003E, যেখানে [math]x\\neq 1,5,3,7[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487066,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487067,
+      "value": {
+        "options": [],
+        "question": "সরলীকরণ কর: [math]\\frac{m + n}{m} - \\frac{m - n}{m} - 2[/math]",
+        "solution": "প্রথমে ভগ্নাংশ দুটি একত্রে করি:[math]\\frac{m + n - (m - n)}{m} - 2 = \\frac{m + n - m + n}{m} - 2[/math]\u003Cbr\u003E [math]= \\frac{2n}{m} - 2[/math]\u003Cbr\u003Eএখন একটি হরে আনতে লিখি: [math]= \\frac{2n - 2m}{m}[/math]\u003Cbr\u003Eতবে ছবির পদ্ধতিতে সব ধাপ একত্রে আছে:[math]= \\frac{m(m + n) - n(m - n) - 2mn}{mn}[/math]\u003Cbr\u003E [math]= \\frac{m^2 + mn - mn + n^2 - 2mn}{mn} = \\frac{m^2 - 2mn + n^2}{mn}[/math]\u003Cbr\u003E [math]= \\frac{(m - n)^2}{mn}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{(m - n)^2}{mn}}[/math]\u003Cbr\u003E",
+        "explanation": "দুটি ভগ্নাংশের ভগ্নক একই হওয়ায় এগুলো একত্র করলে পাওয়া যায় [math]\\frac{(m+n)-(m-n)}{m}=\\frac{2n}{m}[/math]. এরপর [math]2[/math] বিয়োগ করলে ফল হয় [math]\\frac{2n}{m}-2=2\\left(\\frac{n}{m}-1\\right)=\\frac{2(n-m)}{m}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487067,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487068,
+      "value": {
+        "options": [],
+        "question": "সরলীকরণ কর: [math]\\frac{a}{a + b} - \\frac{b}{a - b} + \\frac{2ab}{a^2 - b^2}[/math]",
+        "solution": "এখানে [math]a^2 - b^2 = (a + b)(a - b)[/math]\u003Cbr\u003E∴ প্রথম দুইটি ভগ্নাংশের ল.সা.গু. = [math](a + b)(a - b)[/math]\u003Cbr\u003Eপ্রথম: [math]\\frac{a(a - b)}{(a + b)(a - b)}[/math]\u003Cbr\u003Eদ্বিতীয়: [math]\\frac{b(a + b)}{(a + b)(a - b)}[/math]\u003Cbr\u003Eতৃতীয়: [math]\\frac{2ab}{(a + b)(a - b)}[/math]\u003Cbr\u003E∴ [math]\\frac{a(a - b) - b(a + b) + 2ab}{(a + b)(a - b)}[/math]\u003Cbr\u003E [math]= \\frac{a^2 - ab - ab - b^2 + 2ab}{a^2 - b^2}[/math]\u003Cbr\u003E [math]= \\frac{a^2 - b^2}{a^2 - b^2} = 1[/math]\u003Cbr\u003E∴ [math]\\boxed{1}[/math]\u003Cbr\u003E",
+        "explanation": "সমান হর নেওয়ার পর প্রতিটি ভগ্নাংশকে বিভাজক [math](a+b)(a-b)=a^2-b^2[/math] এ আনলে উর্দ্ধপাতি হয়ে যায় [math]a^2-b^2[/math], তাই সমীকরণটি দাঁড়ায় [math]\\dfrac{a^2-b^2}{a^2-b^2}=1[/math]. শর্ত: এটি বৈধ কেবল যখন [math]a\\ne b[/math] এবং [math]a\\ne -b[/math] (অর্থাৎ [math]a^2\\ne b^2[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487068,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487069,
+      "value": {
+        "options": [],
+        "question": "সরলীকরণ কর: [math]\\frac{4}{x^2 - 2x - 35} + \\frac{2}{x + 5} - \\frac{1}{x - 7}[/math]",
+        "solution": "উৎপাদকে বিশ্লেষণ করি: [math]x^2 - 2x - 35 = (x - 7)(x + 5)[/math]\u003Cbr\u003E∴ [math]\\frac{4}{(x - 7)(x + 5)} + \\frac{2}{x + 5} - \\frac{1}{x - 7}[/math]\u003Cbr\u003Eএকই হরে রূপান্তর করে লিখি:[math]\\frac{4 + 2(x - 7) - 1(x + 5)}{(x - 7)(x + 5)}[/math]\u003Cbr\u003E [math]= \\frac{4 + 2x - 14 - x - 5}{(x - 7)(x + 5)}[/math]\u003Cbr\u003E [math]= \\frac{x - 15}{(x - 7)(x + 5)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{x - 15}{(x - 7)(x + 5)}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে গুণকারী দ্বারা ভগ্নাংশের সমান নামকরণ করা যায় কারণ [math]x^2-2x-35=(x-7)(x+5)[/math]. তাই [math]\\frac{2}{x+5}=\\frac{2(x-7)}{(x-7)(x+5)}[/math] এবং [math]\\frac{1}{x-7}=\\frac{x+5}{(x-7)(x+5)}[/math] নিয়ে সবকটি যোগ করলে উপরেরগুলোকে যোগ করলে নামগুণক সাধারণ হয়ে যায় এবং অঙ্কগুলো যোগ করলে: [math]4+2(x-7)-(x+5)=x-15[/math]. ফলে সরলীকৃত ফলাফল হবে [math]\\frac{x-15}{(x-7)(x+5)}[/math], যেখানে [math]x\\neq7,\\,x\\neq-5[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487069,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487042,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "10",
+          "গ": "15",
+          "ঘ": "50"
+        },
+        "question": "[math]\\frac{5 a}{10}, \\frac{a}{5}[/math] দুটি বীজগণিতীয় ভগ্নাংশ\n\nহরগুলোর ল.সা.গু. কত?",
+        "solution": "[math]\\frac{5 a}{10}, \\frac{a}{5}[/math] হরগুলোর ল.সা.গু. 10",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3455,
+          "full_name": "Kustia Govt Girls High School, Kushtia",
+          "short_name": "KGGHS",
+          "slug": "kgghs",
+          "pivot": {
+            "question_bank_id": 487042,
+            "tag_id": 3455,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487071,
+      "value": {
+        "options": [],
+        "question": "সরলীকরণ কর: [math]\\frac{x^2 - 9}{x^2 + 5x + 6} \\div \\frac{x - 3}{x + 2}[/math]",
+        "solution": "প্রথমে উৎপাদকে বিশ্লেষণ করি:[math]x^2 - 9 = (x - 3)(x + 3)[/math]\u003Cbr\u003E [math]x^2 + 5x + 6 = (x + 2)(x + 3)[/math]\u003Cbr\u003E∴ [math]\\frac{(x - 3)(x + 3)}{(x + 2)(x + 3)} \\div \\frac{x - 3}{x + 2}[/math]\u003Cbr\u003Eভাগকে গুণে রূপান্তর করি:[math]\\frac{(x - 3)(x + 3)}{(x + 2)(x + 3)} \\times \\frac{x + 2}{x - 3}[/math]\u003Cbr\u003Eসংক্ষেপণ করে:[math]= \\frac{(x - 3) \\cancel{(x + 3)} \\cdot (x + 2)}{(x + 2) \\cancel{(x + 3)} \\cdot (x - 3)}[/math]\u003Cbr\u003E [math]= \\frac{1}{1} = \\boxed{1}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে গুণনীয় করে মুকলি করলে [math]\\frac{x^2-9}{x^2+5x+6}=\\frac{(x-3)(x+3)}{(x+2)(x+3)}=\\frac{x-3}{x+2}[/math], তাই পুরো অভিব্যক্তি হয়ে যায় [math]\\frac{x-3}{x+2}\\div\\frac{x-3}{x+2}=1[/math]. শর্ত: মূল সমস্যা থেকে ডোমেইন সীমাবদ্ধ থাকে, তাই [math]x\\neq -2,\\,-3,\\;3[/math] (বিভাজ্যক বা বিভাজ্য দ্বারা ভাগ শূন্য হলে অক্ষম)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487071,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487072,
+      "value": {
+        "options": [],
+        "question": "সরলীকরণ কর: [math]\\frac{1}{x} + \\frac{1}{x + a} - \\frac{2x + a}{x(x + a)}[/math]",
+        "solution": "প্রথম দুইটি ভগ্নাংশের ল.সা.গু. = [math]x(x + a)[/math]\u003Cbr\u003Eপ্রথম: [math]\\frac{x + a}{x(x + a)}[/math]\u003Cbr\u003Eদ্বিতীয়: [math]\\frac{x}{x(x + a)}[/math]\u003Cbr\u003E∴ [math]\\frac{x + a + x - (2x + a)}{x(x + a)}[/math]\u003Cbr\u003E [math]= \\frac{2x + a - 2x - a}{x(x + a)} = \\frac{0}{x(x + a)} = \\boxed{0}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সাধারণ সহগে নিয়ে [math]x(x+a)[/math] হিসাবে যোগ করলে চরগুলি যোগ করলে উর্ধ্বাংশ হয় [math](x+a)+x-(2x+a)=0[/math], ফলে সমগ্র ভগ্নাংশটির মান [math]0[/math]. শর্ত: [math]x\\neq0[/math] এবং [math]x\\neq -a[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487072,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487073,
+      "value": {
+        "options": [],
+        "question": "সরলীকরণ কর: [math]\\frac{a^2 + ab}{a^2 - b^2} - \\frac{a}{a + b}[/math]",
+        "solution": "প্রথমে [math]a^2 - b^2 = (a + b)(a - b)[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশকে একই হরে রাখি:[math]\\frac{a(a + b)}{(a + b)(a - b)}[/math]\u003Cbr\u003Eদ্বিতীয় ভগ্নাংশ: [math]\\frac{a(a - b)}{(a + b)(a - b)}[/math]\u003Cbr\u003E∴ [math]\\frac{a(a + b) - a(a - b)}{(a + b)(a - b)}[/math]\u003Cbr\u003E [math]= \\frac{a^2 + ab - a^2 + ab}{(a + b)(a - b)} = \\frac{2ab}{(a + b)(a - b)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{2ab}{a^2 - b^2}}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে ভাগফল সরলীকরণ করলে [math]\\frac{a^2+ab}{a^2-b^2}=\\frac{a(a+b)}{(a-b)(a+b)}=\\frac{a}{a-b}[/math] (যদি [math]a+b\\neq0[/math])। এরপর সাধারণ বরগসমানে যোগ করেsubtract করলে [math]\\frac{a}{a-b}-\\frac{a}{a+b}=\\frac{a(a+b)-a(a-b)}{a^2-b^2}=\\frac{2ab}{a^2-b^2}[/math] (শর্ত: [math]a\\pm b\\neq0[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487073,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487074,
+      "value": {
+        "options": {
+          "ক": "x - 3",
+          "খ": "x + 3",
+          "গ": "x + 9",
+          "ঘ": "[math]x^{2}-9[/math]"
+        },
+        "question": "[math]\\frac{1}{x+3}[/math] ও [math]\\frac{1}{x^{2}-9}[/math] দুটি বীজগণিতীয় ভগ্নাংশ\n\nভগ্নাংশদ্বয়ের হরের ল.সা.গু. কত?",
+        "solution": "[math]\\frac{1}{x+3}[/math]\u003Cbr\u003E ও [math]\\frac{1}{x^{2}-9}[/math]\u003Cbr\u003E ভগ্নাংশদ্বয়ের হরের ল.সা.গু. [math]x^{2}-9[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487074,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487075,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x-4}{x^{2}-9}[/math]",
+          "খ": "[math]\\frac{x+4}{x^{2}+9}[/math]",
+          "গ": "[math]\\frac{x-4}{9-x^{2}}[/math]",
+          "ঘ": "[math]\\frac{x-4}{x^{2}+9}[/math]"
+        },
+        "question": "[math]\\frac{1}{x+3}[/math] ও [math]\\frac{1}{x^{2}-9}[/math] দুটি বীজগণিতীয় ভগ্নাংশ\n\n১ম ভগ্নাংশ হতে ২য় ভগ্নাংশের বিয়োগফল কত?",
+        "solution": "[math]\\frac{1}{x+3}-\\frac{1}{x^{2}-9}[/math]\u003Cbr\u003E= [math]\\frac{x-4}{x^{2}-9}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x-4}{x^{2}-9}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487075,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487076,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{x-1}{(x+1)(x-2)}[/math]",
+          "B": "[math]\\frac{2 x-1}{(x+1)(x-2)}[/math]",
+          "C": "[math]\\frac{2 x+1}{(x+1)(x-2)}[/math]",
+          "D": "[math]\\frac{x+1}{(x+1)(x-2)}[/math]"
+        },
+        "question": "[math]A=\\frac{1}{x+1}[/math] এবং [math]B=\\frac{1}{x-2}[/math]\n\nA + B = ?",
+        "solution": "[math]A+B=\\frac{1}{x+1}+\\frac{1}{x-2}=\\frac{x-2+x+1}{(x+1)(x-2)}=\\frac{2 x-1}{(x+1)(x-2)}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{2 x-1}{(x+1)(x-2)}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487076,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487077,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{-3}{(x+1)(x-2)}[/math]",
+          "B": "[math]\\frac{-1}{(x+1)(x-2)}[/math]",
+          "C": "[math]\\frac{2 x+1}{(x+1)(x-2)}[/math]",
+          "D": "[math]\\frac{2 x-1}{x+1)(x-2)}[/math]"
+        },
+        "question": "[math]A=\\frac{1}{x+1}[/math] এবং [math]B=\\frac{1}{x-2}[/math]\n\nA-B=?",
+        "solution": "[math]\\frac{1}{x+1}-\\frac{1}{x-2}=\\frac{(x-2)-(x+1)}{(x+1)(x-2)}=\\frac{x-2-x-1}{(x+1)(x-2)}=\\frac{-3}{(x+1)(x-2)}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{-3}{(x+1)(x-2)}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487077,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487078,
+      "value": {
+        "options": {
+          "A": "x + 3",
+          "B": "(x + 3)(x + 2)",
+          "C": "x + 2",
+          "D": "(x + 1)(x - 2)"
+        },
+        "question": "[math]A=\\frac{1}{x+1}[/math] এবং [math]B=\\frac{1}{x-2}[/math]\n\nভগ্নাংশ দুইটি হরের ল. সা. গু কত?",
+        "solution": "[math]A=\\frac{1}{x+1}[/math]\u003Cbr\u003E এবং [math]B=\\frac{1}{x-2}[/math]\u003Cbr\u003E ভগ্নাংশ দুইটি হরের ল. সা. গু (x + 1)(x - 2)",
+        "explanation": "",
+        "correct_answer": "D.(x + 1)(x - 2)"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3221,
+          "full_name": "স্কুলের বার্ষিক/অর্ধবার্ষিক/সাময়িক পরীক্ষা",
+          "short_name": "SIE",
+          "slug": "sie",
+          "pivot": {
+            "question_bank_id": 487078,
+            "tag_id": 3221,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487059,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{1}{a^2 - 3a} - \\frac{1}{a^2 - 9}[/math]",
+        "solution": "প্রথমে উৎপাদকে বিশ্লেষণ করি:[math]a^2 - 3a = a(a - 3)[/math]\u003Cbr\u003E এবং [math]a^2 - 9 = (a - 3)(a + 3)[/math]\u003Cbr\u003E∴ [math]\\frac{1}{a(a - 3)} - \\frac{1}{(a - 3)(a + 3)}[/math]\u003Cbr\u003Eল.সা.গু. = [math]a(a - 3)(a + 3)[/math]\u003Cbr\u003E∴ [math]\\frac{(a + 3) - a}{a(a - 3)(a + 3)} = \\frac{3}{a(a - 3)(a + 3)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{3}{a(a^2 - 9)}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: হরগুলোকে গুণনীয় করে নিলে [math]a^2-3a=a(a-3)[/math] এবং [math]a^2-9=(a-3)(a+3)[/math], সাধারণহার হয় [math]a(a-3)(a+3)[/math]. তাই বিয়োগ করলে [math]\\frac{1}{a(a-3)}-\\frac{1}{(a-3)(a+3)}=\\frac{a+3-a}{a(a-3)(a+3)}=\\frac{3}{a(a-3)(a+3)}[/math], যেখানে [math]a\\ne0,\\pm3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487059,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487043,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a}{10}[/math]",
+          "খ": "[math]\\frac{7 \\mathrm{a}}{5}[/math]",
+          "গ": "[math]\\frac{a}{5}[/math]",
+          "ঘ": "[math]\\frac{7 \\mathrm{a}}{10}[/math]"
+        },
+        "question": "[math]\\frac{5 a}{10}, \\frac{a}{5}[/math] দুটি বীজগণিতীয় ভগ্নাংশ\n\nভগ্নাংশন্বয়ের যোগফল কত?",
+        "solution": "[math]\\frac{5 a}{10}+\\frac{2 a}{10}=\\frac{7 a}{10}[/math]",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3455,
+          "full_name": "Kustia Govt Girls High School, Kushtia",
+          "short_name": "KGGHS",
+          "slug": "kgghs",
+          "pivot": {
+            "question_bank_id": 487043,
+            "tag_id": 3455,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487060,
+      "value": {
+        "options": [],
+        "question": "বিয়োগফল নির্ণয় কর: [math]\\frac{10}{x - 4} - \\frac{5}{x^2 - 8x + 16}[/math]",
+        "solution": "প্রথমে [math]x^2 - 8x + 16 = (x - 4)^2[/math]\u003Cbr\u003E∴ [math]\\frac{10}{x - 4} - \\frac{5}{(x - 4)^2}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x - 4)^2[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশকে একই হরে রূপান্তর করি:[math]\\frac{10(x - 4)}{(x - 4)^2} - \\frac{5}{(x - 4)^2}[/math]\u003Cbr\u003E [math]= \\frac{10(x - 4) - 5}{(x - 4)^2}[/math]\u003Cbr\u003E [math]= \\frac{10x - 40 - 5}{(x - 4)^2}[/math]\u003Cbr\u003E [math]= \\frac{10x - 45}{(x - 4)^2}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{5(2x - 9)}{(x - 4)^2}}[/math]\u003Cbr\u003E",
+        "explanation": "বুঝানো: নামকরণটি [math]x^2-8x+16=(x-4)^2[/math] হওয়ায় সাধারণ সূচক নেওয়া যায়; তাই [math]\\frac{10}{x-4}-\\frac{5}{x^2-8x+16}=\\frac{10}{x-4}-\\frac{5}{(x-4)^2}=\\frac{10(x-4)-5}{(x-4)^2}[/math]. সরল করলে পাই [math]\\frac{10x-45}{(x-4)^2}=\\frac{5(2x-9)}{(x-4)^2}[/math], যেখানে ধার্য্য যে [math]x\\neq4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487060,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487045,
+      "value": {
+        "options": {
+          "ক": "[math]A[/math] এর মান নির্ণয় কর।",
+          "খ": "[math]B[/math] কে সরলীকরণ কর।",
+          "গ": "[math]C[/math] এর সরল মান নির্ণয় কর।"
+        },
+        "question": "তিনটি বীজগণিতীয় ভগ্নাংশের রাশি:\n\n[math]A = \\frac{1}{x+y} + \\frac{1}{(x+y)^2}[/math],\n\n[math]B = \\frac{1}{2x - 3y} + \\frac{3x}{4x^2 - 9y^2}[/math],\n\n[math]C = \\frac{-4}{x^2 - 4y^2} - \\frac{1}{2y^2 - xy}[/math]",
+        "solution": "ক. দেওয়া আছে, [math]A = \\frac{1}{x+y} + \\frac{1}{(x+y)^2}[/math]\u003Cbr\u003E [math]= \\frac{x+y+1}{(x+y)^2}[/math]\u003Cbr\u003E (Ans.)খ.[math]B = \\frac{1}{2x - 3y} + \\frac{3x}{4x^2 - 9y^2}[/math]\u003Cbr\u003E [math]= \\frac{1}{2x - 3y} + \\frac{3x}{(2x)^2 - (3y)^2}[/math]\u003Cbr\u003E [math]= \\frac{1}{2x - 3y} + \\frac{3x}{(2x - 3y)(2x + 3y)}[/math]\u003Cbr\u003E [math]= \\frac{(2x + 3y) + 3x}{(2x - 3y)(2x + 3y)}[/math]\u003Cbr\u003E [math]= \\frac{5x + 3y}{(2x - 3y)(2x + 3y)}[/math]\u003Cbr\u003E (Ans.)গ.[math]C = \\frac{-4}{x^2 - 4y^2} - \\frac{1}{2y^2 - xy}[/math]\u003Cbr\u003E [math]= \\frac{-4}{(x)^2 - (2y)^2} - \\frac{1}{y(2y - x)}[/math]\u003Cbr\u003E [math]= \\frac{-4}{(x - 2y)(x + 2y)} + \\frac{1}{y(x - 2y)}[/math]\u003Cbr\u003E [math]= \\frac{-4y + x + 2y}{y(x + 2y)(x - 2y)}[/math]\u003Cbr\u003E [math]= \\frac{x - 2y}{y(x + 2y)(x - 2y)}[/math]\u003Cbr\u003E [math]= \\frac{1}{y(x + 2y)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E সমন্বিতগুলি একই রাজ্যে আনতে সাধারণ হর্নিক ব্যবহার করলে [math]\\frac{1}{x+y}=\\frac{x+y}{(x+y)^2}[/math] হয়, ফলে [math]A=\\frac{x+y+1}{(x+y)^2}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E লক্ষ্য করুন [math]4x^2-9y^2=(2x-3y)(2x+3y)[/math]; সাধারণ নজিরে যোগ করলে ঊর্ধ্বরাশি হয় [math]2x+3y+3x=5x+3y[/math], তাই [math]B=\\frac{5x+3y}{(2x-3y)(2x+3y)}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এখানে [math]x^2-4y^2=(x-2y)(x+2y)[/math] এবং [math]2y^2-xy=y(2y-x)=-y(x-2y)[/math]; যোগ করলে [math](x-2y)[/math] বাতিল হয়ে [math]C=\\frac{1}{y(x+2y)}[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487045,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487046,
+      "value": {
+        "options": {
+          "ক": "যোগফল নির্ণয় কর: [math]\\frac{1}{x+3} + \\frac{1}{x-3}[/math]",
+          "খ": "যদি [math]x = \\frac{5}{2}[/math] হয়, তবে [math]\\frac{D}{4} + \\frac{E}{3} - \\frac{F}{2}[/math] এর সরলীকরণ করে মান নির্ণয় কর।",
+          "গ": "সরল কর: [math]\\frac{3}{A} + \\frac{1}{B} - \\frac{2}{C}[/math]"
+        },
+        "question": "[math]A = x^2 - x - 12,\\quad B = x^2 + 8x + 15,\\quad C = x^2 + x - 20[/math] [math]D = 4x + 5,\\quad E = 2x + 7,\\quad F = 3x + 2[/math]",
+        "solution": "ক.[math]\\frac{1}{x+3} + \\frac{1}{x-3} = \\frac{x-3 + x+3}{(x+3)(x-3)} = \\frac{2x}{x^2 - 9}[/math]\u003Cbr\u003E (Ans.)খ.[math]\\frac{D}{4} + \\frac{E}{3} - \\frac{F}{2} = \\frac{4x+5}{4} + \\frac{2x+7}{3} - \\frac{3x+2}{2}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{3(4x+5) + 4(2x+7) - 6(3x+2)}{12}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{12x+15 + 8x+28 - 18x - 12}{12}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{2x+31}{12}[/math]\u003Cbr\u003Eযেহেতু [math]x = \\frac{5}{2}[/math]\u003Cbr\u003E, তাই:[math]\\frac{2(\\frac{5}{2}) + 31}{12} = \\frac{5 + 31}{12} = \\frac{36}{12} = 3[/math]\u003Cbr\u003E (Ans.)গ.[math]\\frac{3}{A} + \\frac{1}{B} - \\frac{2}{C} = \\frac{3}{x^2 - x - 12} + \\frac{1}{x^2 + 8x + 15} - \\frac{2}{x^2 + x - 20}[/math]\u003Cbr\u003E [math]= \\frac{3}{(x-4)(x+3)} + \\frac{1}{(x+3)(x+5)} - \\frac{2}{(x+5)(x-4)}[/math]\u003Cbr\u003Eল.সা.গু = [math](x-4)(x+3)(x+5)[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{3(x+5) + (x-4) - 2(x+3)}{(x-4)(x+3)(x+5)}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{3x+15 + x-4 - 2x - 6}{(x-4)(x+3)(x+5)}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{2x + 5}{(x-4)(x+3)(x+5)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E যোগ করলে লব্ধি হয় যে সাধারণ নামহার [math](x+3)(x-3)=x^2-9[/math] এবং সংখ্যাগুণফল [math](x-3)+(x+3)=2x[/math], তাই ফল হচ্ছে [math]\\frac{2x}{x^2-9}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রথমে মান বসান: [math]D=4(5/2)+5=15,\\;E=2(5/2)+7=12,\\;F=3(5/2)+2=19/2[/math]; তারপর [math]\\frac{D}{4}+\\frac{E}{3}-\\frac{F}{2}=\\frac{15}{4}+4-\\frac{19}{4}=3[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E তিনটিকে গুণনীয়ক করে লিখুন: [math]A=(x-4)(x+3),\\;B=(x+3)(x+5),\\;C=(x+5)(x-4)[/math]; সাধারণ নামহার নিয়ে সংখ্যাগুণফল হয় [math]3(x+5)+(x-4)-2(x+3)=2x+5[/math], সুতরাং সরল রূপ [math]\\frac{2x+5}{(x-4)(x+3)(x+5)}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487046,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487047,
+      "value": {
+        "options": {
+          "ক": "৩য় ভগ্নাংশের হরকে উৎপাদকে বিশ্লেষণ কর।",
+          "খ": "হর তিনটির ল.সা.গু. কত?",
+          "গ": "ভগ্নাংশগুলোর যোগফল বের কর।"
+        },
+        "question": "তিনটি বীজগণিতীয় ভগ্নাংশ:\n\n[math]\\dfrac{2}{x^2 - x - 2},\\ \\dfrac{3}{x^2 - x - 6},\\ \\dfrac{4}{x^2 + 5x - 14}[/math]",
+        "solution": "ক.৩য় ভগ্নাংশের হর [math]x^2 + 5x - 14 = x^2 + 7x - 2x - 14[/math]\u003Cbr\u003E [math]= x(x + 7) - 2(x + 7) = (x + 7)(x - 2)[/math]\u003Cbr\u003E (Ans.)খ.১ম ভগ্নাংশের হর [math]x^2 - x - 2 = x^2 - 2x + x - 2[/math]\u003Cbr\u003E [math]= x(x - 2) + 1(x - 2) = (x - 2)(x + 1)[/math]\u003Cbr\u003E২য় ভগ্নাংশের হর [math]x^2 - x - 6 = x^2 + 3x - 2x - 6[/math]\u003Cbr\u003E [math]= x(x + 3) - 2(x + 3) = (x + 3)(x - 2)[/math]\u003Cbr\u003E৩য় ভগ্নাংশের হর [math](x + 7)(x - 2)[/math]\u003Cbr\u003Eঅতএব ল.সা.গু. = [math](x - 2)(x + 1)(x + 3)(x + 7)[/math]\u003Cbr\u003E (Ans.)গ.[math]\\dfrac{2}{x^2 - x - 2} + \\dfrac{3}{x^2 - x - 6} + \\dfrac{4}{x^2 + 5x - 14}[/math]\u003Cbr\u003E [math]= \\dfrac{2}{(x - 2)(x + 1)} + \\dfrac{3}{(x - 2)(x + 3)} + \\dfrac{4}{(x + 7)(x - 2)}[/math]\u003Cbr\u003Eল.সা.গু = [math](x - 2)(x + 1)(x + 3)(x + 7)[/math]\u003Cbr\u003E [math]\\Rightarrow \\dfrac{2(x + 7)(x + 3) + 3(x + 7)(x + 1) + 4(x + 1)(x + 3)}{(x - 2)(x + 1)(x + 3)(x + 7)}[/math]\u003Cbr\u003E [math]\\Rightarrow \\dfrac{2x^2 + 14x + 3x + 21 + 3x^2 + 7x + 3x + 7 + 4x^2 + 12x + 3x + 9}{(x - 2)(x + 1)(x + 3)(x + 7)}[/math]\u003Cbr\u003E [math]\\Rightarrow \\dfrac{9x^2 + 60x + 75}{(x - 2)(x + 1)(x + 3)(x + 7)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E হরটির নবমীয় নামক (ডেনোমিনেটর) উৎপাদকে বিশ্লেষণ করলে [math]x^2+5x-14=(x+7)(x-2)[/math], তাই [math]\\dfrac{4}{x^2+5x-14}=\\dfrac{4}{(x+7)(x-2)}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রথম দুইটি ও তৃতীয়টির নামকগুলো-factor করলে [math]x^2-x-2=(x-2)(x+1),\\; x^2-x-6=(x-3)(x+2),\\; x^2+5x-14=(x+7)(x-2)[/math]; সেহেতু ল.সা.গু. হলো সব ভিন্ন তফসিলী গুণকের গুণফল [math](x-2)(x+1)(x-3)(x+2)(x+7)[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সাধারণ নামক নিয়ে যোগ করলে প্রতিটি ভগ্নাংশকে উপযুক্ত গুণক দিয়ে বাড়িয়ে পাই সমষ্টি [math]\\dfrac{2(x-3)(x+2)(x+7)+3(x-2)(x+1)(x+7)+4(x+1)(x-3)(x+2)}{(x-2)(x+1)(x-3)(x+2)(x+7)}[/math], যা বিস্তৃত করলে [math]\\dfrac{9x^3+30x^2-81x-150}{(x-2)(x+1)(x-3)(x+2)(x+7)}[/math] হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487047,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487048,
+      "value": {
+        "options": {
+          "ক": "[math]A[/math] ভগ্নাংশটির হরকে উৎপাদকে বিশ্লেষণ কর।",
+          "খ": "[math]A - B[/math] নির্ণয় কর।",
+          "গ": "[math]A, B[/math] ও [math]C[/math] কে সমহরবিশিষ্ট ভগ্নাংশে প্রকাশ কর।"
+        },
+        "question": "[math]A = \\dfrac{2x}{x^2 - 4y^2}, \\quad B = \\dfrac{x}{xy + 2y^2}[/math]\n\nএবং [math]C = \\dfrac{y}{x^2 + 3xy + 3y^2}[/math] — তিনটি বীজগণিতীয় রাশি।",
+        "solution": "ক.[math]x^2 - 4y^2 = (x)^2 - (2y)^2 = (x + 2y)(x - 2y)[/math]\u003Cbr\u003E (Ans.)খ.[math]A - B = \\dfrac{2x}{x^2 - 4y^2} - \\dfrac{x}{xy + 2y^2}[/math]\u003Cbr\u003E [math]= \\dfrac{2x}{(x + 2y)(x - 2y)} - \\dfrac{x}{y(x + 2y)}[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E ল.সা.গু [math](x + 2y)(x - 2y)y[/math]\u003Cbr\u003E [math]= \\dfrac{2xy - x(x - 2y)}{y(x + 2y)(x - 2y)}[/math]\u003Cbr\u003E [math]= \\dfrac{2xy - x^2 + 2xy}{y(x + 2y)(x - 2y)}[/math]\u003Cbr\u003E [math]= \\dfrac{4xy - x^2}{y(x + 2y)(x - 2y)}[/math]\u003Cbr\u003E (Ans.)গ.[math]A, B, C[/math]\u003Cbr\u003E এর হরের ল.সা.গু = [math](x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)[/math]\u003Cbr\u003E [math]A = \\dfrac{2x}{(x + 2y)(x - 2y)} \\times \\dfrac{x^2 + 3xy + 3y^2}{x^2 + 3xy + 3y^2}[/math]\u003Cbr\u003E [math]= \\dfrac{2x(x^2 + 3xy + 3y^2)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]\u003Cbr\u003E [math]B = \\dfrac{x}{y(x + 2y)} \\times \\dfrac{(x - 2y)(x^2 + 3xy + 3y^2)}{(x - 2y)(x^2 + 3xy + 3y^2)}[/math]\u003Cbr\u003E [math]= \\dfrac{x(x - 2y)(x^2 + 3xy + 3y^2)}{y(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]\u003Cbr\u003E [math]C = \\dfrac{y}{x^2 + 3xy + 3y^2} \\times \\dfrac{(x + 2y)(x - 2y)}{(x + 2y)(x - 2y)}[/math]\u003Cbr\u003E [math]= \\dfrac{y(x + 2y)(x - 2y)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]\u003Cbr\u003Eসমহর বিশিষ্ট আকারে:[math]\\dfrac{2x(x^2 + 3xy + 3y^2)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)},\\quad \\dfrac{x(x - 2y)(x^2 + 3xy + 3y^2)}{y(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)},\\quad \\dfrac{y(x + 2y)(x - 2y)}{(x + 2y)(x - 2y)(x^2 + 3xy + 3y^2)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E নামযোগে, [math]x^2-4y^2=(x-2y)(x+2y)[math] হওয়ায় [math]A=\\dfrac{2x}{(x-2y)(x+2y)}[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সাধারণ নামহার হিসেবে [math]y(x-2y)(x+2y)[math] নিলে [math]A=\\dfrac{2xy}{y(x-2y)(x+2y)},\\; B=\\dfrac{x(x-2y)}{y(x-2y)(x+2y)}[/math] এবং তাদের পার্থক্য হল [math]A-B=\\dfrac{2xy-x(x-2y)}{y(x-2y)(x+2y)}=\\dfrac{x(4y-x)}{y(x-2y)(x+2y)}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সাধারণ সমহার হিসেবে [math]D=y(x-2y)(x+2y)(x^2+3xy+3y^2)[/math] নিতে গেলে\n[math]A=\\dfrac{2x\\cdot y(x^2+3xy+3y^2)}{D},\\; B=\\dfrac{x\\cdot(x-2y)(x^2+3xy+3y^2)}{D},\\; C=\\dfrac{y^2(x-2y)(x+2y)}{D}[/math] — যা প্রত্যেকটি একই নামহারে প্রকাশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487048,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487049,
+      "value": {
+        "options": {
+          "ক": "১ম ভগ্নাংশের হরকে উৎপাদকে বিশ্লেষণ কর।",
+          "খ": "১ম ও ২য় ভগ্নাংশের যোগফল নির্ণয় কর।",
+          "গ": "৩য় ভগ্নাংশ হতে ৪র্থ ভগ্নাংশটির বিয়োগফল নির্ণয় কর।"
+        },
+        "question": "চারটি বীজগণিতীয় ভগ্নাংশ:\n\n[math]\\frac{5}{x^2 - 6x + 5},\\ \\frac{1}{x - 1},\\ \\frac{2 + y^2}{x^2 - y^2},\\ \\frac{x - y}{2x + 2y}[/math]",
+        "solution": "ক.[math]x^2 - 6x + 5 = x^2 - x - 5x + 5 = x(x - 1) - 5(x - 1) = (x - 1)(x - 5)[/math]\u003Cbr\u003E (Ans.)খ.[math]\\frac{5}{x^2 - 6x + 5} + \\frac{1}{x - 1} = \\frac{5}{(x - 1)(x - 5)} + \\frac{1}{x - 1}[/math]\u003Cbr\u003E [math]= \\frac{5}{(x - 1)(x - 5)} + \\frac{x - 5}{(x - 1)(x - 5)}[/math]\u003Cbr\u003E [math]= \\frac{5 + x - 5}{(x - 1)(x - 5)} = \\frac{x}{(x - 1)(x - 5)}[/math]\u003Cbr\u003E (Ans.)গ.[math]\\frac{2 + y^2}{x^2 - y^2} - \\frac{x - y}{2x + 2y} = \\frac{2 + y^2}{(x - y)(x + y)} - \\frac{x - y}{2(x + y)}[/math]\u003Cbr\u003E [math]= \\frac{2 + y^2}{(x - y)(x + y)} - \\frac{1}{2} \\cdot \\frac{x - y}{x + y}[/math]\u003Cbr\u003E [math]= \\frac{2 + y^2}{(x - y)(x + y)} - \\frac{x - y}{2(x + y)}[/math]\u003Cbr\u003Eল.সা.গু = [math]2(x - y)(x + y)[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{2(2 + y^2) - (x - y)^2}{2(x - y)(x + y)}[/math]\u003Cbr\u003E [math]= \\frac{4 + 2y^2 - (x^2 - 2xy + y^2)}{2(x - y)(x + y)}[/math]\u003Cbr\u003E [math]= \\frac{4 + 2y^2 - x^2 + 2xy - y^2}{2(x - y)(x + y)}[/math]\u003Cbr\u003E [math]= \\frac{-x^2 + y^2 + 2xy + 4}{2(x - y)(x + y)}[/math]\u003Cbr\u003E (Ans.)",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]x^2-6x+5=(x-1)(x-5)[/math] তাই [math]\\frac{5}{x^2-6x+5}=\\frac{5}{(x-1)(x-5)}[/math].\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সাধারণ নামহার [math](x-1)(x-5)[/math] নেওয়া হলে\n[math]\\frac{5}{(x-1)(x-5)}+\\frac{1}{x-1}=\\frac{5+(x-5)}{(x-1)(x-5)}=\\frac{x}{(x-1)(x-5)}[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]x^2-y^2=(x-y)(x+y)[/math] হওয়ায় সাধারণ নামহার [math]2(x-y)(x+y)[/math] নিয়ে\n[math]\\frac{2+y^2}{(x-y)(x+y)}-\\frac{x-y}{2(x+y)}=\\frac{2(2+y^2)-(x-y)^2}{2(x-y)(x+y)}=\\frac{4+y^2-x^2+2xy}{2(x^2-y^2)}[/math] ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487049,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487050,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{4}{x^2 - 3x - 54} + \\frac{3}{x - 9}[/math] এর যোগফল নির্ণয় কর।",
+        "solution": "প্রথমে, [math]x^2 - 3x - 54 = (x - 9)(x + 6)[/math]\u003Cbr\u003E∴ [math]\\frac{4}{x^2 - 3x - 54} + \\frac{3}{x - 9} = \\frac{4}{(x - 9)(x + 6)} + \\frac{3}{x - 9}[/math]\u003Cbr\u003Eএখন, দ্বিতীয় ভগ্নাংশটির হরকে সমপার্থক হরে রূপান্তর করি:[math]\\frac{3}{x - 9} = \\frac{3(x + 6)}{(x - 9)(x + 6)}[/math]\u003Cbr\u003E∴ [math]\\frac{4}{(x - 9)(x + 6)} + \\frac{3(x + 6)}{(x - 9)(x + 6)}[/math]\u003Cbr\u003Eএখন একই হরে যোগ করি:[math]\\frac{4 + 3(x + 6)}{(x - 9)(x + 6)} = \\frac{4 + 3x + 18}{(x - 9)(x + 6)}[/math]\u003Cbr\u003E∴ [math]\\frac{3x + 22}{(x - 9)(x + 6)}[/math]\u003Cbr\u003Eঅতএব, যোগফল = [math]\\boxed{\\frac{3x + 22}{(x - 9)(x + 6)}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বহুগুণকে ভগ্নাংশের নামমাত্রে ভাঙলে [math]x^2-3x-54=(x-9)(x+6)[/math] পাওয়া যায়, তাই প্রথম ভগ্নাংশটি লেখতে পারি [math]\\frac{4}{(x-9)(x+6)}[/math] এবং দ্বিতীয়টিকে ওসই নামমাত্রে আনলে [math]\\frac{3}{x-9}=\\frac{3(x+6)}{(x-9)(x+6)}[/math]। যোগ করলে উভয়ের উপরাংশ যোগ হয়ে [math]\\frac{4+3(x+6)}{(x-9)(x+6)}=\\frac{3x+22}{(x-9)(x+6)}[/math] হয়, যেখানে [math]x\\neq 9,\\,-6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487050,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487052,
+      "value": {
+        "options": [],
+        "question": "[math]M = \\frac{a}{2a + 2}[/math] এবং [math]N = \\frac{-3a}{a^2 - 1}[/math] হলে, [math]M + N[/math] নির্ণয় কর।",
+        "solution": "প্রথমে, [math]M = \\frac{a}{2a + 2} = \\frac{a}{2(a + 1)}[/math]\u003Cbr\u003Eএবং [math]N = \\frac{-3a}{a^2 - 1} = \\frac{-3a}{(a + 1)(a - 1)}[/math]\u003Cbr\u003Eএখন, [math]M + N = \\frac{a}{2(a + 1)} + \\frac{-3a}{(a + 1)(a - 1)}[/math]\u003Cbr\u003Eসাধারণ হর হবে [math]2(a + 1)(a - 1)[/math]\u003Cbr\u003E∴ [math]\\frac{a(a - 1) - 3a \\cdot 2}{2(a + 1)(a - 1)}[/math]\u003Cbr\u003E [math]= \\frac{a^2 - a - 6a}{2(a + 1)(a - 1)} = \\frac{a^2 - 7a}{2(a + 1)(a - 1)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{a(a - 7)}{2(a + 1)(a - 1)}}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: অমূলক ভগ্নাংশগুলোকে গুণফেক্টর করে লিখলে [math]M=\\frac{a}{2(a+1)}[/math] এবং [math]N=\\frac{-3a}{(a-1)(a+1)}[/math]। সাধারণ নামপাত [math]2(a-1)(a+1)[/math] নেওয়া হলে যোগফলটির হিসাব হয় [math]\\frac{a(a-1)-6a}{2(a-1)(a+1)}=\\frac{a(a-7)}{2(a-1)(a+1)}[/math] (শর্ত: [math]a\\ne\\pm1[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487052,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487053,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{a - b - c}{2a} + \\frac{a + b + c}{3a}[/math] এর যোগফল নির্ণয় করে [math]6a[/math] দ্বারা গুণ কর।",
+        "solution": "প্রদত্ত রাশি: [math]\\frac{a - b - c}{2a} + \\frac{a + b + c}{3a}[/math]\u003Cbr\u003Eল.সা.গু. = [math]6a[/math]\u003Cbr\u003E∴ [math]\\frac{3(a - b - c) + 2(a + b + c)}{6a}[/math]\u003Cbr\u003E [math]= \\frac{3a - 3b - 3c + 2a + 2b + 2c}{6a}[/math]\u003Cbr\u003E [math]= \\frac{5a - b - c}{6a}[/math]\u003Cbr\u003Eএখন [math]6a[/math]\u003Cbr\u003E দ্বারা গুণ করলে: [math]\\frac{5a - b - c}{6a} \\times 6a = 5a - b - c[/math]\u003Cbr\u003E∴ চূড়ান্ত উত্তর: [math]\\boxed{5a - b - c}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে ভাগগুলোকে সাধারণ নামাঙ্কনে নিয়ে আসলে [math]\\frac{a-b-c}{2a}+\\frac{a+b+c}{3a}=\\frac{3(a-b-c)+2(a+b+c)}{6a}=\\frac{5a-b-c}{6a}[/math]. এবার এটা [math]6a[/math] দ্বারা গুণ করলে নামাঙ্ক বাতিল হয়ে ফল হয় [math]5a-b-c[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487053,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487054,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{x - a}{x + a} + \\frac{4ax}{x^2 - a^2}[/math] এর যোগফল নির্ণয় কর।",
+        "solution": "প্রদত্ত রাশি: [math]\\frac{x - a}{x + a} + \\frac{4ax}{x^2 - a^2}[/math]\u003Cbr\u003Eযেহেতু [math]x^2 - a^2 = (x + a)(x - a)[/math]\u003Cbr\u003E∴ [math]\\frac{x - a}{x + a} + \\frac{4ax}{(x + a)(x - a)}[/math]\u003Cbr\u003Eপ্রথম ভগ্নাংশের হরকে একই হরে রূপান্তর করি:[math]\\frac{(x - a)^2}{(x + a)(x - a)} + \\frac{4ax}{(x + a)(x - a)}[/math]\u003Cbr\u003E∴ [math]\\frac{(x - a)^2 + 4ax}{(x + a)(x - a)}[/math]\u003Cbr\u003E [math]= \\frac{x^2 - 2ax + a^2 + 4ax}{(x + a)(x - a)}[/math]\u003Cbr\u003E [math]= \\frac{x^2 + 2ax + a^2}{(x + a)(x - a)} = \\frac{(x + a)^2}{(x + a)(x - a)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{x + a}{x - a}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সাধারণ নামবাহক [math]x^2-a^2=(x-a)(x+a)[/math] নিয়ে যোগ করলে সংখ্যাগুণক করলে পাই numerator [math](x-a)^2+4ax=x^2-2ax+a^2+4ax=x^2+2ax+a^2=(x+a)^2[/math]. সুতরাং ফল [math]\\frac{(x+a)^2}{x^2-a^2}=\\frac{x+a}{x-a}[/math], শর্ত [math]x\\neq\\pm a[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487054,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487055,
+      "value": {
+        "options": [],
+        "question": "[math]A = \\frac{1}{x^2 + 2x}[/math] এবং [math]B = \\frac{4}{x^2 - 4}[/math] হলে [math]A + B[/math] নির্ণয় কর।",
+        "solution": "প্রদত্ত রাশি: [math]A + B = \\frac{1}{x^2 + 2x} + \\frac{4}{x^2 - 4}[/math]\u003Cbr\u003E [math]x^2 + 2x = x(x + 2)[/math]\u003Cbr\u003E এবং [math]x^2 - 4 = (x + 2)(x - 2)[/math]\u003Cbr\u003E∴ [math]\\frac{1}{x(x + 2)} + \\frac{4}{(x + 2)(x - 2)}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x + 2)(x)(x - 2)[/math]\u003Cbr\u003E∴ [math]\\frac{1(x - 2) + 4x}{(x + 2)(x)(x - 2)}[/math]\u003Cbr\u003E [math]= \\frac{x - 2 + 4x}{(x + 2)(x)(x - 2)} = \\frac{5x - 2}{(x + 2)(x)(x - 2)}[/math]\u003Cbr\u003E∴ চূড়ান্ত উত্তর: [math]\\boxed{\\frac{5x - 2}{(x + 2)(x)(x - 2)}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে [math]A=\\frac{1}{x(x+2)}[/math] এবং [math]B=\\frac{4}{(x-2)(x+2)}[/math] হিসেবে লিখে সাধারণ নামহার নেওয়া হলে নামহার হবে [math]x(x-2)(x+2)[/math]. যোগফল হলো [math]\\frac{x-2+4x}{x(x-2)(x+2)}=\\frac{5x-2}{x(x-2)(x+2)}[/math]. এখানে [math]x\\neq 0,\\pm2[/math] হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487055,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487056,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{3}{x^2 - 9} + \\frac{5}{x^2 + 2x - 3}[/math] =?",
+        "solution": "প্রথমে উৎপাদকে বিশ্লেষণ করি:[math]x^2 - 9 = (x - 3)(x + 3)[/math]\u003Cbr\u003E [math]x^2 + 2x - 3 = (x + 3)(x - 1)[/math]\u003Cbr\u003E∴ [math]\\frac{3}{(x - 3)(x + 3)} + \\frac{5}{(x + 3)(x - 1)}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x - 3)(x + 3)(x - 1)[/math]\u003Cbr\u003E∴ [math]\\frac{3(x - 1) + 5(x - 3)}{(x - 3)(x + 3)(x - 1)}[/math]\u003Cbr\u003E [math]= \\frac{3x - 3 + 5x - 15}{(x - 3)(x + 3)(x - 1)} = \\frac{8x - 18}{(x - 3)(x + 3)(x - 1)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{8x - 18}{(x - 3)(x + 3)(x - 1)}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সংযোজনের জন্য ভগ্নাঙ্কগুলোর নামকালকে গুণনীয়কের রূপে লিখি [math]x^2-9=(x-3)(x+3),\\;x^2+2x-3=(x+3)(x-1)[/math], সাধারণ নামকরা [math](x-3)(x+3)(x-1)[/math]. তাই যোগ করলে, [math]\\frac{3(x-1)+5(x-3)}{(x-3)(x+3)(x-1)}=\\frac{8x-18}{(x-3)(x+3)(x-1)}=\\frac{2(4x-9)}{(x-3)(x+3)(x-1)}[/math] এবং সংজ্ঞায়নের জন্য [math]x\\neq 3,\\,-3,\\,1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487056,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487057,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{2x}{x^2 - x - 6} + \\frac{3}{x^2 - 4}[/math] = ?",
+        "solution": "প্রথমে উৎপাদকে বিশ্লেষণ করি:[math]x^2 - x - 6 = (x - 3)(x + 2)[/math]\u003Cbr\u003E [math]x^2 - 4 = (x - 2)(x + 2)[/math]\u003Cbr\u003E∴ [math]\\frac{2x}{(x - 3)(x + 2)} + \\frac{3}{(x - 2)(x + 2)}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x - 3)(x + 2)(x - 2)[/math]\u003Cbr\u003E∴ [math]\\frac{2x(x - 2) + 3(x - 3)}{(x - 3)(x + 2)(x - 2)}[/math]\u003Cbr\u003E [math]= \\frac{2x^2 - 4x + 3x - 9}{(x - 3)(x + 2)(x - 2)} = \\frac{2x^2 - x - 9}{(x - 3)(x + 2)(x - 2)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{2x^2 - x - 9}{(x - 3)(x + 2)(x - 2)}}[/math]\u003Cbr\u003E",
+        "explanation": "Factor the denominators: [math]x^2-x-6=(x-3)(x+2)[/math] and [math]x^2-4=(x-2)(x+2)[/math], so the common denominator is [math](x-3)(x+2)(x-2)[/math]; the numerator becomes [math]2x(x-2)+3(x-3)=2x^2-x-9[/math]. Hence the sum is [math]\\frac{2x^2-x-9}{(x-3)(x+2)(x-2)}[/math], with [math]x\\neq3,-2,2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487057,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487058,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{x + 1}{x^2 - 5x + 6} + \\frac{2x - 3}{x^2 - x - 6}[/math] = ?",
+        "solution": "উৎপাদকে বিশ্লেষণ করি:[math]x^2 - 5x + 6 = (x - 2)(x - 3)[/math]\u003Cbr\u003E [math]x^2 - x - 6 = (x - 3)(x + 2)[/math]\u003Cbr\u003E∴ [math]\\frac{x + 1}{(x - 2)(x - 3)} + \\frac{2x - 3}{(x - 3)(x + 2)}[/math]\u003Cbr\u003Eল.সা.গু. = [math](x - 2)(x - 3)(x + 2)[/math]\u003Cbr\u003E∴ [math]\\frac{(x + 1)(x + 2) + (2x - 3)(x - 2)}{(x - 2)(x - 3)(x + 2)}[/math]\u003Cbr\u003E [math]= \\frac{x^2 + 3x + 2 + 2x^2 - 7x + 6}{(x - 2)(x - 3)(x + 2)}[/math]\u003Cbr\u003E [math]= \\frac{3x^2 - 4x + 8}{(x - 2)(x - 3)(x + 2)}[/math]\u003Cbr\u003E∴ [math]\\boxed{\\frac{3x^2 - 4x + 8}{(x - 2)(x - 3)(x + 2)}}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে মুলনাক্ত করি: [math]x^2-5x+6=(x-2)(x-3)[/math] ও [math]x^2-x-6=(x-3)(x+2)[/math], তাই সাধারণ নামহার [math](x-2)(x-3)(x+2)[/math]. দুই ভগ্নাংশকে একই নামহারে আনলে যোগফল হয় [math]\\frac{(x+1)(x+2)+(2x-3)(x-2)}{(x-2)(x-3)(x+2)}=\\frac{3x^2-4x+8}{(x-2)(x-3)(x+2)}[/math]. এখানে অনুপযুক্ত মানগুলো হল [math]x\\neq2,3,-2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487058,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487051,
+      "value": {
+        "options": [],
+        "question": "[math]A = \\frac{1}{p^2 + 4}[/math] এবং [math]B = \\frac{2}{p^2 - 16}[/math] হলে, [math]A + B[/math] নির্ণয় কর।",
+        "solution": "প্রথমে, [math]A + B = \\frac{1}{p^2 + 4} + \\frac{2}{p^2 - 16}[/math]\u003Cbr\u003Eএখানে [math]p^2 - 16 = (p - 4)(p + 4) = (p^2 - 4^2)[/math]\u003Cbr\u003Eকিন্তু [math]p^2 + 4[/math]\u003Cbr\u003E কে সরাসরি উৎপাদকে ভাঙ্গা যাবে না, তাই সাধারণ হর ব্যবহার করব:∴ [math]A + B = \\frac{1(p^2 - 16) + 2(p^2 + 4)}{(p^2 + 4)(p^2 - 16)}[/math]\u003Cbr\u003E [math]= \\frac{p^2 - 16 + 2p^2 + 8}{(p^2 + 4)(p^2 - 16)}[/math]\u003Cbr\u003E [math]= \\frac{3p^2 - 8}{(p^2 + 4)(p^2 - 16)}[/math]\u003Cbr\u003Eঅতএব, [math]A + B = \\boxed{\\frac{3p^2 - 8}{(p^2 + 4)(p^2 - 16)}}[/math]\u003Cbr\u003E",
+        "explanation": "[math]A+B=\\frac{1}{p^2+4}+\\frac{2}{p^2-16}=\\frac{(p^2-16)+2(p^2+4)}{(p^2+4)(p^2-16)}=\\frac{3p^2-8}{(p^2+4)(p^2-16)}[/math] । শর্ত: [math]p\\ne\\pm4[/math] যাতে হারগুলো সংজ্ঞায়িত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487051,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:47:38.000000Z",
+            "updated_at": "2025-08-21T09:47:38.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487112,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{2 x^{2}}{x y}[/math]",
+          "B": "[math]\\frac{2 x^{2}}{x^{2} y^{2}}[/math]",
+          "C": "[math]\\frac{x^{2}-y^{2}}{x y}[/math]",
+          "D": "[math]\\frac{x^{2}+y^{2}}{x y}[/math]"
+        },
+        "question": "[math]\\frac{x}{y}, \\frac{y}{x}, \\frac{x+y}{x}[/math] এবং [math]\\frac{x-y}{y}[/math] চারটি বীজগণিতীয় ভগ্নাংশ।\n\n৩য় ও ৪র্থ ভগ্নাংশের যোগফল নিচের কঠিন?",
+        "solution": "[math]\\frac{x+y}{x}+\\frac{x-y}{y}=\\frac{(x+y) y+(x-y) x}{x y}[/math]\u003Cbr\u003E [math]=\\frac{x y+y^{2}+x^{2}-x y}{x y}=\\frac{x^{2}+y^{2}}{x y}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{x^{2}+y^{2}}{x y}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487111,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{x-y}{x y}[/math]",
+          "B": "[math]\\frac{x+y}{x y}[/math]",
+          "C": "[math]\\frac{x^{2}-y^{2}}{x y}[/math]",
+          "D": "[math]\\frac{x^{2}+y^{2}}{x y}[/math]"
+        },
+        "question": "[math]\\frac{x}{y}, \\frac{y}{x}, \\frac{x+y}{x}[/math] এবং [math]\\frac{x-y}{y}[/math] চারটি বীজগণিতীয় ভগ্নাংশ।\n\n১ম ও ২য় ভগ্নাংশের বিয়োগফল নিচের কোনটি?",
+        "solution": "[math]\\frac{x}{y}-\\frac{y}{x}=\\frac{x^{2}-y^{2}}{x y}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{x^{2}-y^{2}}{x y}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487110,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a-4}{a^{2}-16}[/math]",
+          "B": "[math]\\frac{a-5}{(a+4)\\left(a^{2}-16\\right)}[/math]",
+          "C": "[math]\\frac{a-5}{a+4}[/math]",
+          "D": "[math]\\frac{a-5}{a^{2}-16}[/math]"
+        },
+        "question": "[math]x=\\frac{1}{a+4}[/math] এবং [math]y=\\frac{1}{a^{2}-16}[/math]\n\nx - y = কত?",
+        "solution": "[math]\\begin{array}{l}\\begin{array}{c}x=\\frac{1}{a+4}, \\quad y=\\frac{1}{a^{2}-16}=\\frac{1}{(a-4)(a+4)} \\\\x-y=\\frac{1}{a+4}-\\frac{1}{(a-4)(a+4)}=\\frac{a-5}{(a-4)(a+4)}\\end{array}\\\\\\frac{a-5}{(a-4)(a+4)}\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{a-5}{a^{2}-16}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487109,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a-4}{a^{2}+16}[/math]",
+          "B": "[math]\\frac{a-3}{a^{2}-16}[/math]",
+          "C": "[math]\\frac{a-4}{a^{2}-16}[/math]",
+          "D": "1"
+        },
+        "question": "[math]x=\\frac{1}{a+4}[/math] এবং [math]y=\\frac{1}{a^{2}-16}[/math]   \n\n x + y = কত?",
+        "solution": "[math]\\begin{array}{l}x=\\frac{1}{a+4}, \\quad y=\\frac{1}{a^{2}-16}=\\frac{1}{(a+4)(a-4)} \\\\x+y=\\frac{1}{a+4}+\\frac{1}{(a+4)(a-4)}=\\frac{a-3}{a^{2}-16}\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{a-3}{a^{2}-16}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487108,
+      "value": {
+        "options": {
+          "A": "a - 4",
+          "B": "[math]a^{2}-4[/math]",
+          "C": "a + 4",
+          "D": "[math]a^{2}-16[/math]"
+        },
+        "question": "[math]x=\\frac{1}{a+4}[/math] এবং [math]y=\\frac{1}{a^{2}-16}[/math]\n\nx ও y-এর হরগুলোর গ.সা.গু. কত?",
+        "solution": "x-এর হর: [math]a+4[/math]\u003Cbr\u003Ey-এর হর: [math]a^{2}-16=(a-4)(a+4)[/math]\u003Cbr\u003Eদুই হরের গ.সা.গু. [math]=a+4[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.a + 4"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487107,
+      "value": {
+        "options": {
+          "A": "[math]x^{2}-4[/math]",
+          "B": "[math]x^{2}+4[/math]",
+          "C": "[math]x^{4}-16[/math]",
+          "D": "[math]x^{4}+16[/math]"
+        },
+        "question": "[math]\\frac{1}{x-2}, \\frac{1}{x+2}, \\frac{4}{x^{2}+4}, \\frac{4}{x^{4}-16}[/math] চারটি বীজগণিতীয় রাশি।\n\nভগ্নাংশ চারটির হরগুলোর ল. সা. গু. কত?",
+        "solution": "ভগ্নাংশগুলোর হর:[math]\\begin{array}{l}x-2, \\quad x+2, \\quad x^{2}+4, \\quad x^{4}-16\\\\x^{4}-16=(x-2)(x+2)\\left(x^{2}+4\\right)\\end{array}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]x^{4}-16[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487106,
+      "value": {
+        "options": {
+          "A": "[math]x^{2}-4[/math]",
+          "B": "[math]\\frac{1}{x^{2}-4}[/math]",
+          "C": "[math]\\frac{2}{x^{2}-4}[/math]",
+          "D": "[math]\\frac{4}{x^{2}-4}[/math]"
+        },
+        "question": "[math]\\frac{1}{x-2} \\, \\frac{1}{x+2} \\cdot \\frac{4}{x^{2}+4} \\cdot \\frac{4}{x^{4}-16}[/math] চারটি বীজগণিতীয় রাশি।\n\n১ম রাশি থেকে ২য় রাশির বিয়োগফল কত?",
+        "solution": "[math]\\frac{1}{x-2}-\\frac{1}{x+2}=\\frac{(x+2)-(x-2)}{(x-2)(x+2)}=\\frac{x+2-x+2}{x^{2}-4}=\\frac{4}{x^{2}-4}[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{4}{x^{2}-4}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487105,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a}{2\\left(x^{2}-1\\right)}[/math]",
+          "B": "[math]\\frac{a(x-1)}{2\\left(x^{2}-1\\right)}[/math]",
+          "C": "[math]\\frac{a(x-1)}{2(x+1)}[/math]",
+          "D": "[math]\\frac{2 a(x-1)}{x^{2}-1}[/math]"
+        },
+        "question": "[math]\\frac{a}{x+1}, \\frac{a}{2 x+2}, \\frac{3 a}{x^{2}-1}[/math] তিনটি বীজগণিতীয় রাশি।\n\nভগ্নাংশ তিনটিকে সমহরবিশিষ্ট ভগ্নাংশে রূপান্তর করলে ২য় ভগ্নাংশটি কী হবে?",
+        "solution": "[math]\\frac{a}{2 x+2}[/math]\u003Cbr\u003E [math]=\\frac{a \\cdot(x-1)}{2(x+1)(x-1)}=\\frac{a(x-1)}{2(x+1)(x-1)}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{a(x-1)}{2\\left(x^{2}-1\\right)}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487104,
+      "value": {
+        "options": {
+          "A": "[math]2\\left(x^{2}-1\\right)[/math]",
+          "B": "[math](x+1)^{3}(x-1)[/math]",
+          "C": "[math]2\\left(x^{2}+1\\right)[/math]",
+          "D": "2(x + 1)"
+        },
+        "question": "[math]\\frac{a}{x+1}, \\frac{a}{2 x+2}, \\frac{3 a}{x^{2}-1}[/math] তিনটি বীজগণিতীয় রাশি।\n\nহর ল. সা. গু. নিচের কোনটি?",
+        "solution": "[math]\\frac{a}{x+1}, \\frac{a}{2 x+2}, \\frac{3 a}{x^{2}-1}[/math]\u003Cbr\u003E হর ল. সা. গু. [math]2\\left(x^{2}-1\\right)[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]2\\left(x^{2}-1\\right)[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487103,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{1}{2 x+2}[/math]",
+          "B": "[math]\\frac{2 a}{x+2}[/math]",
+          "C": "[math]\\frac{a}{x+1}[/math]",
+          "D": "[math]\\frac{a}{2(x+1)}[/math]"
+        },
+        "question": "[math]\\frac{a}{x+1}, \\frac{a}{2 x+2}, \\frac{3 a}{x^{2}-1}[/math] তিনটি বীজগণিতীয় রাশি।\n\n১ম ভগ্নাংশ থেকে ২য় ভগ্নাংশ বিয়োগ করলে বিয়োগফল নিচের কোনটি হয়?",
+        "solution": "[math]\\frac{a}{x+1}, \\frac{a}{2 x+2}[/math]\u003Cbr\u003E বিয়োগফল [math]\\frac{a}{2(x+1)}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{a}{2(x+1)}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487102,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "নিচের তথ্যগুলো লক্ষ কর-\n\n[math]\\text { i. } \\quad a-\\frac{3 a}{4}=\\frac{a}{4}[/math] [math]\\text { ii. } \\frac{1}{a+2}-\\frac{1}{a^{2}-4}=\\frac{a-3}{a^{2}-4}[/math] [math]\\text { iii. } \\frac{a}{x}+\\frac{b}{x y}=\\frac{a+b}{x y}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\text { } \\quad a-\\frac{3 a}{4}=\\frac{a}{4}[/math]\u003Cbr\u003E , [math]\\text { } \\frac{1}{a+2}-\\frac{1}{a^{2}-4}=\\frac{a-3}{a^{2}-4}[/math]\u003Cbr\u003E (i ও ii) সঠিক।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487101,
+      "value": {
+        "options": {
+          "A": "i ও ii",
+          "B": "i ও iii",
+          "C": "ii ও iii",
+          "D": "i, ii ও iii"
+        },
+        "question": "[math]\\frac{x}{x y z}[/math] এবং [math]\\frac{y}{x y z}[/math] ভগ্নাংশন্বয়-\n\ni. সমতুল ভগ্নাংশ\n\nii. এর পার্থক্য [math]\\frac{x-y}{x y z}[/math]\n\niii. যোগফল [math]\\frac{x+y}{x y z}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\frac{x}{x y z}[/math]\u003Cbr\u003E এবং [math]\\frac{y}{x y z}[/math]\u003Cbr\u003E ভগ্নাংশন্বয় (ii ও iii) (i) সঠিক নয়; কেননা, [math]\\frac{x}{x y z}=\\frac{1}{y z}[/math]\u003Cbr\u003E এবং [math]\\frac{y}{x y z}=\\frac{1}{x z}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487113,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{1}{2 x+2}[/math]",
+          "খ": "[math]\\frac{2}{x+2}[/math]",
+          "গ": "[math]\\frac{3}{2(x+1)}[/math]",
+          "ঘ": "[math]\\frac{1}{x+1}[/math]"
+        },
+        "question": "[math]\\frac{1}{x+1}, \\frac{1}{2(x+1)} \\cdot \\frac{3}{2(x+1)}[/math] তিনটি বীজগণিতীয় ভগ্নাংশ\n\n১ম ভগ্নাংশ থেকে ২য় ভগ্নাংশের বিয়োগফল কোনটি?",
+        "solution": "[math]\\frac{1}{x+1}-\\frac{3}{4(x+1)^{2}}[/math]\u003Cbr\u003E [math]\\frac{4}{4(x+1)^{2}}-\\frac{3}{4(x+1)^{2}}=\\frac{1}{4(x+1)^{2}}[/math]\u003Cbr\u003E= [math]\\frac{1}{2 x+2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{1}{2 x+2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487114,
+      "value": {
+        "options": {
+          "ক": "x",
+          "খ": "[math]x^{2}[/math]",
+          "গ": "1",
+          "ঘ": "0"
+        },
+        "question": "[math]\\frac{1}{x+1}, \\frac{1}{2(x+1)} \\cdot \\frac{3}{2(x+1)}[/math] তিনটি বীজগণিতীয় ভগ্নাংশ\n\nভগ্নাংশ তিনটির লবের গ.সা.গু. কত?",
+        "solution": "ভগ্নাংশ তিনটির লবের গ.সা.গু. 1",
+        "explanation": "",
+        "correct_answer": "C.1"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487115,
+      "value": {
+        "options": {
+          "ক": "x + 3",
+          "খ": "(2x + 2)",
+          "গ": "x + 2",
+          "ঘ": "(x + 3)(x - 2)"
+        },
+        "question": "[math]\\frac{1}{x+1}, \\frac{1}{2(x+1)} \\cdot \\frac{3}{2(x+1)}[/math] তিনটি বীজগণিতীয় ভগ্নাংশ\n\nভগ্নাংশ তিনটির হরের ল.সা.গু. কত?",
+        "solution": "[math]\\frac{1}{x+1}, \\frac{1}{2(x+1)} \\cdot \\frac{3}{2(x+1)}[/math] ভগ্নাংশ তিনটির হরের ল.সা.গু. (2x + 2)",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487116,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{10 b}{15 a b}, \\frac{9}{15 a b}[/math]",
+          "খ": "[math]\\frac{6}{15 a b}, \\frac{b}{15 a b}[/math]",
+          "গ": "[math]\\frac{2}{15 a^{2} b}, \\frac{3}{15 a^{2} b}[/math]",
+          "ঘ": "[math]\\frac{10 a}{15 a^{2} b}, \\frac{9 a}{15 a^{2} b}[/math]"
+        },
+        "question": "[math]\\frac{2}{3 a}[/math] ও [math]\\frac{3}{5 a b}[/math] এর সমহরবিশিষ্ট ভগ্নাংশ নিচের কোনটি?",
+        "solution": "[math]\\frac{2}{3 a}[/math]\u003Cbr\u003E ও [math]\\frac{3}{5 a b}[/math]\u003Cbr\u003E এর সমহরবিশিষ্ট ভগ্নাংশ [math]\\frac{10 b}{15 a b}, \\frac{9}{15 a b}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{10 b}{15 a b}, \\frac{9}{15 a b}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487117,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{z x^{2}}{x y z^{2}}, \\frac{y^{2} z}{x y z^{2}}[/math]",
+          "খ": "[math]\\frac{x^{2}}{x y z^{2}}, \\frac{y^{2}}{x y z^{2}}[/math]",
+          "গ": "[math]\\frac{x}{x y z}, \\frac{y}{x y z}[/math]",
+          "ঘ": "[math]\\frac{x^{2}}{x y z}, \\frac{y^{2}}{x y z}[/math]"
+        },
+        "question": "[math]\\frac{x}{y z} ও \\frac{y}{z x}[/math] এর সাধারণ হরবিশিষ্ট ভগ্নাংশ নিচের কোনটি?",
+        "solution": "[math]\\frac{x}{y z}, \\frac{y}{z x}[/math]\u003Cbr\u003E এর হর yz ও zx এর ল. সা. I = xyz[math]\\therefore \\frac{x}{y z}=\\frac{x \\times x}{y z \\times x}=\\frac{x^{2}}{x y z} \\therefore \\frac{y}{z x}=\\frac{y \\times y}{z x \\times y}=\\frac{y^{2}}{x y z}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{x^{2}}{x y z}, \\frac{y^{2}}{x y z}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487118,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{2}{a^{2}-b^{2}}[/math]",
+          "B": "[math]\\frac{1}{a^{2}-b^{2}}[/math]",
+          "C": "[math]\\frac{2 a}{a^{2}-b^{2}}[/math]",
+          "D": "[math]\\frac{a b}{a^{2}-b^{2}}[/math]"
+        },
+        "question": "[math]\\frac{1}{a+b}+\\frac{1}{a-b}[/math] এর মান কত?",
+        "solution": "[math]\\frac{1}{a+b}+\\frac{1}{a-b}=\\frac{a-b+a+b}{(a+b)(a-b)}=\\frac{2 a}{a^{2}-b^{2}}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{2 a}{a^{2}-b^{2}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487119,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "4",
+          "গ": "6",
+          "ঘ": "8"
+        },
+        "question": "[math]\\frac{x}{2}+1=3[/math] এর সমাধান নিচের কোনটি?",
+        "solution": "[math]\\frac{x}{2}+1=3[/math]\u003Cbr\u003E বা, [math]\\frac{x}{2}=3-1[/math]\u003Cbr\u003E বা, [math]\\frac{x}{2}=2 \\quad \\therefore x=4[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487120,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{a^{2}}{b c}[/math]",
+          "খ": "[math]\\frac{a c}{b}[/math]",
+          "গ": "[math]\\frac{a^{3}}{b^{2}}[/math]",
+          "ঘ": "[math]\\frac{\\mathrm{ac}}{\\mathrm{bc}}[/math]"
+        },
+        "question": "[math]\\frac{a}{b}[/math] এর সমতুল ভগ্নাংশ নিচের কোনটি?",
+        "solution": "[math]\\frac{a}{b}[/math]\u003Cbr\u003E এর সমতুল ভগ্নাংশ [math]\\frac{\\mathrm{ac}}{\\mathrm{bc}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{\\mathrm{ac}}{\\mathrm{bc}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487121,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2 a+3 b}{2 a b}[/math]",
+          "খ": "[math]\\frac{2 a-3 b}{2 a b}[/math]",
+          "গ": "[math]\\frac{2 a-3 b}{2 a}[/math]",
+          "ঘ": "[math]\\frac{2 a+3 b}{2 a}[/math]"
+        },
+        "question": "[math]\\frac{4 a^{2} b-9 b^{3}}{4 a^{2} b+6 a b^{2}}[/math] এর লঘিষ্ঠ রূপ নিচের কোনটি?",
+        "solution": "[math]\\frac{4 a^{2} b-9 b^{3}}{4 a^{2} b+6 a b^{2}}=\\frac{b\\left(4 a^{2}-9 b^{2}\\right)}{2 a b(2 a+3 b)}=\\frac{b(2 a+3 b)(2 a-3 b)}{2 a b(2 a+3 b)}=\\frac{(2 a-5 b)}{2 a}[/math]",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{2 a-3 b}{2 a}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487122,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a+b+c}{x}[/math]",
+          "B": "[math]\\frac{a+b-c}{x}[/math]",
+          "C": "[math]\\frac{a-b-c}{x}[/math]",
+          "D": "[math]\\frac{a-b+c}{x}[/math]"
+        },
+        "question": "[math]\\frac{a}{x}+\\frac{b}{x}-\\frac{c}{x}[/math] এর মান কত?",
+        "solution": "[math]\\frac{a}{x}+\\frac{b}{x}-\\frac{c}{x}=\\frac{a+b-c}{x}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{a+b-c}{x}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487123,
+      "value": {
+        "options": {
+          "ক": "(x + 2)(x - 2)",
+          "খ": "(2 + x)(2 - x)",
+          "গ": "(x - 2)(x - 2)",
+          "ঘ": "(x + 1)(x - 4)"
+        },
+        "question": "হরের উৎপাদকে বিশ্লেষিত রূপ কোনটি?",
+        "solution": "ভগ্নাংশের হর [math]=x^{2}-4=x^{2}-2^{2}=(x+2)(x-2)[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487041,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x+2}{x-2}[/math]",
+          "খ": "[math]\\frac{x-2}{x+2}[/math]",
+          "গ": "[math]\\frac{x+2}{x^{2}+2}[/math]",
+          "ঘ": "[math]\\frac{x-2}{x^{2}-4}[/math]"
+        },
+        "question": "ভগ্নাংশটির লঘিষ্ঠ আকার কোনটি?",
+        "solution": "[math]\\frac{x^{2}+4 x+4}{x^{2}-4}=\\frac{x^{2}+2 \\cdot x \\cdot 2+2^{2}}{(x+2)(x-2)}=\\frac{(x+2)^{2}}{(x+2)(x-2)}=\\frac{(x+2)}{(x-2)}[/math]",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x+2}{x-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487089,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{1}{a b}[/math]",
+          "B": "[math]\\frac{2}{a+b}[/math]",
+          "C": "[math]\\frac{a b}{a+b}[/math]",
+          "D": "[math]\\frac{2}{a b(a+b}[/math]"
+        },
+        "question": "[math]\\frac{1}{b(a+b)}+\\frac{1}{a(a+b)}[/math] এর মান কত?",
+        "solution": "[math]\\frac{1}{b(a+b)}+\\frac{1}{a(a+b)}[/math]\u003Cbr\u003E = [math]\\frac{1}{a b}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{1}{a b}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487044,
+      "value": {
+        "options": {
+          "A": "i ও ii",
+          "B": "i ও iii",
+          "C": "ii ও iii",
+          "D": "i, ii ও iii"
+        },
+        "question": "[math]\\frac{a^{2}-a b}{a+b}, \\frac{a+b}{a b-b^{2}}[/math] দুইটি বীজগণিতীয় ভগ্নাংশ হলে-\n\ni. হরগুলোর ল.সা.গু. [math]b\\left(a^{2}-b^{2}\\right)[/math]\n\nii. ভগ্নাংশন্বয় সমহরবিশিষ্ট\n\niii. ভগ্নাংশদ্বয়ের গুণফল [math]\\frac{\\mathrm{a}}{\\mathrm{~b}}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\frac{a^{2}-a b}{a+b}, \\frac{a+b}{a b-b^{2}}[/math]\u003Cbr\u003E দুইটি বীজগণিতীয় ভগ্নাংশ হলে , হরগুলোর ল.সা.গু. [math]b\\left(a^{2}-b^{2}\\right)[/math]\u003Cbr\u003E , ভগ্নাংশদ্বয়ের গুণফল [math]\\frac{\\mathrm{a}}{\\mathrm{~b}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487079,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{2 x}{x^{2}-x-2}[/math]",
+          "খ": "[math]\\frac{1}{x^{2}-x-2}[/math]",
+          "গ": "[math]\\frac{x}{x^{2}-x-2}[/math]",
+          "ঘ": "[math]\\frac{2 x-1}{x^{2}-x-2}[/math]"
+        },
+        "question": "[math]\\frac{1}{x+1}+\\frac{1}{x-2}[/math] এর মান নিচের কোনটি?",
+        "solution": "[math]\\frac{1}{x+1}+\\frac{1}{x-2}=\\frac{x-2+x+1}{(x+1)(x-2)}=\\frac{2 x-1}{x^{2}+x-2 x-2}=\\frac{2 x-1}{x^{2}-x-2}[/math]",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{2 x-1}{x^{2}-x-2}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487080,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{3 x^{3}+2 y}{a+b}[/math]",
+          "খ": "[math]\\frac{3 x^{3} b-2 a y}{a+b}[/math]",
+          "গ": "[math]\\frac{3 x^{3} b+2 a y}{a b}[/math]",
+          "ঘ": "[math]\\frac{3 x^{3}+2 y}{a b}[/math]"
+        },
+        "question": "[math]\\frac{3 x^{3}}{a}+\\frac{2 y}{b}[/math] এর মান নিচের কোনটি?",
+        "solution": "[math]\\frac{3 x^{3}}{a}+\\frac{2 y}{b}[/math]\u003Cbr\u003E এর মান [math]\\frac{3 x^{1} b+2 a y}{a b}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{3 x^{3} b+2 a y}{a b}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487081,
+      "value": {
+        "options": {
+          "A": "0",
+          "B": "[math]\\frac{-2 x}{x^{2}-1}[/math]",
+          "C": "[math]-\\frac{2 x}{1-x^{2}}[/math]",
+          "D": "[math]\\frac{2}{1-x^{2}}[/math]"
+        },
+        "question": "[math]\\frac{1}{x+1}-\\frac{1}{1-x}[/math] = কত?",
+        "solution": "[math]\\frac{1}{x+1}-\\frac{1}{1-x}[/math]\u003Cbr\u003E = [math]-\\frac{2 x}{1-x^{2}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.[math]-\\frac{2 x}{1-x^{2}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487082,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x-6}{(x+3)(x+2)}[/math]",
+          "খ": "[math]\\frac{x}{(x+3)(x+2)}[/math]",
+          "গ": "[math]\\frac{5 x}{(x+3)(x+2)}[/math]",
+          "ঘ": "[math]\\frac{5 x+6}{(x+3)(x+2)}[/math]"
+        },
+        "question": "[math]\\frac{3}{x+3}[/math] থেকে [math]\\frac{2}{x+2}[/math] বিয়োগ করলে বিয়োগফল কত হবে?",
+        "solution": "[math]\\frac{3}{x+3}-\\frac{2}{x+2}=\\frac{3(x+2)-2(x+3)}{(x+2)(x+3)}=\\frac{3 x+6-2 x-6}{(x+2)(x+3)}=\\frac{x}{(x+2)(x+3)}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{x}{(x+3)(x+2)}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487083,
+      "value": {
+        "options": {
+          "A": "0",
+          "B": "1",
+          "C": "[math]\\frac{1}{x y z}[/math]",
+          "D": "[math]\\frac{x y+y z+z x}{x y z}[/math]"
+        },
+        "question": "[math]\\frac{y-z}{y z}+\\frac{z-x}{z x}+\\frac{x-y}{x y}[/math] এর মান নিচের কোনটি?",
+        "solution": "[math]\\frac{y-z}{y z}+\\frac{z-x}{z x}+\\frac{x-y}{x y}=\\frac{x y-z x+y z-x y+z x-y z}{x y z}=\\frac{0}{x y z}=0[/math]",
+        "explanation": "",
+        "correct_answer": "A.0"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487084,
+      "value": {
+        "options": {
+          "A": "1",
+          "B": "0",
+          "C": "2",
+          "D": "[math]\\frac{6 a}{14}[/math]"
+        },
+        "question": "[math]\\frac{2 a}{7}-\\frac{4 a}{14}[/math] এর মান কত?",
+        "solution": "[math]\\frac{2 a}{7}-\\frac{4 a}{14}[/math] =0",
+        "explanation": "",
+        "correct_answer": "B.0"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487085,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{1}{p^{2}}[/math]",
+          "B": "[math]\\frac{12}{\\mathrm{p}^{2}}[/math]",
+          "C": "[math]\\frac{4-3 p}{p}[/math]",
+          "D": "[math]\\frac{4-3 p}{p^{2}}[/math]"
+        },
+        "question": "[math]\\frac{4}{p^{1}}-\\frac{3}{p}[/math] কত?",
+        "solution": "[math]\\frac{4}{p^{1}}-\\frac{3}{p}[/math]\u003Cbr\u003E = [math]\\frac{4-3 p}{p^{2}}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "D.[math]\\frac{4-3 p}{p^{2}}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487086,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{4 a^{2}+1}{2 a}[/math]",
+          "খ": "[math]\\frac{4 a^{2}-1}{2 a}[/math]",
+          "গ": "[math]\\frac{4 a^{2}-a}{2}[/math]",
+          "ঘ": "[math]\\frac{a^{2}}{2}[/math]"
+        },
+        "question": "[math]\\frac{1}{2 a}[/math] এর সাথে কত যোগ করলে যোগফল 2a হবে?",
+        "solution": "[math]\\frac{1}{2 a}[/math]\u003Cbr\u003E এর সাথে [math]\\frac{4 a^{2}-1}{2 a}[/math]\u003Cbr\u003E যোগ করলে যোগফল 2a হবে ।",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{4 a^{2}-1}{2 a}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487087,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x-2}{x^{2}-9}[/math]",
+          "খ": "[math]\\frac{x-3}{x^{2}-9}[/math]",
+          "গ": "[math]\\frac{x-4}{x^{2}-9}[/math]",
+          "ঘ": "[math]\\frac{x+4}{x^{2}-9}[/math]"
+        },
+        "question": "[math]\\frac{1}{x+3}[/math] থেকে [math]\\frac{1}{x^{2}-9}[/math] বিয়োগ করলে বিয়োগফল কত হবে?",
+        "solution": "[math]\\frac{1}{x+3}-\\frac{1}{x^{2}-9}=\\frac{1}{x+3}-\\frac{1}{(x+3)(x-3)}[/math]\u003Cbr\u003E [math]=\\frac{x-3-1}{(x+3)(x-3)}=\\frac{x-4}{(x+3)(x-3)}=\\frac{x-4}{x^{2}-9}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "C.[math]\\frac{x-4}{x^{2}-9}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487088,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x-a}{x+a}[/math]",
+          "খ": "[math]\\frac{x+a}{x-a}[/math]",
+          "গ": "[math]\\frac{-x+a}{x-a}[/math]",
+          "ঘ": "[math]\\frac{-x+a}{x+a}[/math]"
+        },
+        "question": "[math]\\frac{x+n}{x-n}[/math] থেকে [math]\\frac{4 a x}{x^{2}-a^{2}}[/math] বিয়োগ করলে বিয়োগফল কত হবে?",
+        "solution": "[math]\\frac{x+a}{x-a}-\\frac{4 a x}{x^{2}-a^{2}}=\\frac{x+a}{x-a}-\\frac{4 a x}{(x+a)(x-a)}=\\frac{(x+a)^{2}-4 a x}{(x+a)(x-a)}[/math]\u003Cbr\u003E [math]=\\frac{(x-a)^{2}}{(x+a)(x-a)}=\\frac{x-a}{x+a}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x-a}{x+a}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487100,
+      "value": {
+        "options": {
+          "A": "i ও ii",
+          "B": "i ও iii",
+          "C": "ii ও iii",
+          "D": "i, ii ও iii"
+        },
+        "question": "[math]\\left(\\frac{a}{b}-1\\right)[/math] ও [math]\\left(1-\\frac{a}{b}\\right)[/math] রাশি দুইটির-\n\ni. হরের গুণফল [math]\\frac{a^{2}}{b^{2}}[/math]\n\nii. ভগ্নাংশন্বয় সমহরবিশিষ্ট\n\niii. ভগ্নাংশন্বয়ের গুণফল [math]\\frac{a}{b}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\left(\\frac{a}{b}-1\\right)[/math]\u003Cbr\u003E ও [math]\\left(1-\\frac{a}{b}\\right)[/math]\u003Cbr\u003E রাশি দুইটির , ভগ্নাংশন্বয় সমহরবিশিষ্ট ,ভগ্নাংশন্বয়ের গুণফল [math]\\frac{a}{b}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487090,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{2}{a+b}[/math]",
+          "B": "[math]\\frac{1}{a+b}[/math]",
+          "C": "1",
+          "D": "a+b"
+        },
+        "question": "[math]\\frac{a}{a+b}+\\frac{b}{a+b}=[/math] কত?",
+        "solution": "[math]\\frac{a}{a+b}+\\frac{b}{a+b}=[/math] 1",
+        "explanation": "",
+        "correct_answer": "C.1"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487091,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{1}{x+1}[/math]",
+          "B": "[math]\\frac{1}{x}[/math]",
+          "C": "[math]\\frac{2}{x+1}[/math]",
+          "D": "[math]\\frac{2}{x}[/math]"
+        },
+        "question": "[math]\\frac{3 x+1}{x(x+1)}-\\frac{2}{x+1}[/math] এর মান কত?",
+        "solution": "[math]\\frac{3 x+1}{x(x+1)}-\\frac{2}{x+1}=\\frac{3 x+1-2 x}{x(x+1)}=\\frac{x+1}{x(x+1)}=\\frac{1}{x}[/math]",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{1}{x}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487092,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{y^{2}}{x y}[/math]",
+          "B": "[math]\\frac{2 y}{x}[/math]",
+          "C": "[math]\\frac{1}{y}[/math]",
+          "D": "[math]\\frac{1}{2 \\mathrm{y}}[/math]"
+        },
+        "question": "[math]\\frac{x^{2}+y^{2}}{x y}-\\frac{x^{2}-y^{2}}{x y}[/math] এর মান নিচের কোনটি?",
+        "solution": "[math]\\frac{x^{2}+y^{2}}{x y}-\\frac{x^{2}-y^{2}}{x y}[/math]\u003Cbr\u003E = [math]\\frac{2 y}{x}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{2 y}{x}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487093,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{x^{2}-z^{2}}{x y z}[/math]",
+          "B": "[math]\\frac{2 x^{2}+2 y^{2}}{x y z}[/math]",
+          "C": "1",
+          "D": "[math]\\frac{x^{2}+y^{2}+z^{2}}{x y z}[/math]"
+        },
+        "question": "[math]\\frac{x^{2}+y^{2}}{x y z}-\\frac{y}{z x}-\\frac{z}{x y}[/math] এর সরলীকৃত মান নিচের কোনটি?",
+        "solution": "[math]\\frac{x^{2}+y^{2}}{x y z}-\\frac{y}{z x}-\\frac{z}{x y}[/math]\u003Cbr\u003E এর সরলীকৃত মান [math]\\frac{x^{2}-z^{2}}{x y z}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x^{2}-z^{2}}{x y z}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487094,
+      "value": {
+        "options": {
+          "ক": "[math]\\frac{x^{2}-z^{2}}{x y z}[/math]",
+          "খ": "[math]\\frac{2}{x-2}[/math]",
+          "গ": "[math]\\frac{1}{x-2}[/math]",
+          "ঘ": "[math]\\frac{2 x+2}{2 x-4}[/math]"
+        },
+        "question": "[math]\\frac{2 x}{2 x-4}[/math] বীজগণিতীয় ভগ্নাংশ থেকে। বিয়োগ করলে বিয়োগফল নিচের 2 কোনটি?",
+        "solution": "[math]\\frac{2 x}{2 x-4}[/math]\u003Cbr\u003E বীজগণিতীয় ভগ্নাংশ থেকে। বিয়োগ করলে বিয়োগফল [math]\\frac{2}{x-2}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "A.[math]\\frac{x^{2}-z^{2}}{x y z}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487095,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "a",
+          "ঘ": "2a"
+        },
+        "question": "[math]\\frac{a-b-c}{x}[/math] এবং [math]\\frac{y+b+c}{z}[/math] এর যোগফল নিচের কোনটি?",
+        "solution": "[math]\\frac{a-b-c}{a}+\\frac{a+b+c}{a}=\\frac{a-b-c+a+b+c}{a}=\\frac{2 a}{a}=2[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487096,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{x}{2}[/math]",
+          "B": "[math]\\frac{x}{4}[/math]",
+          "C": "[math]\\frac{9}{12}[/math]",
+          "D": "[math]\\frac{2 x}{13}[/math]"
+        },
+        "question": "[math]\\frac{x}{3}+\\frac{x}{6}-\\frac{3 x}{12}[/math] এর সরল মান কত?",
+        "solution": "[math]\\frac{x}{3}+\\frac{x}{6}-\\frac{3 x}{12}[/math]\u003Cbr\u003E এর সরল মান [math]\\frac{x}{4}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{x}{4}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487097,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a}{b}[/math]",
+          "B": "[math]\\frac{a}{5 b}[/math]",
+          "C": "[math]\\frac{a}{3 b}[/math]",
+          "D": "[math]\\frac{a}{4 b}[/math]"
+        },
+        "question": "[math]\\left(\\frac{a}{b}-\\frac{4 a}{3 b}+\\frac{a}{2 b}\\right)[/math] সমান কোনটি?",
+        "solution": "[math]\\left(\\frac{a}{b}-\\frac{4 a}{3 b}+\\frac{a}{2 b}\\right)[/math]\u003Cbr\u003E = [math]\\frac{a}{5 b}[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "B.[math]\\frac{a}{5 b}[/math]"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487098,
+      "value": {
+        "options": {
+          "A": "[math]\\frac{a+3}{a-3}[/math]",
+          "B": "[math]\\frac{a+3}{3-a}[/math]",
+          "C": "0",
+          "D": "1"
+        },
+        "question": "[math]\\frac{a}{a-3}+\\frac{3}{3-a}=[/math] কত?",
+        "solution": "[math]\\frac{a}{a-3}+\\frac{3}{3-a}=[/math] 1",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487099,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "[math]\\frac{a-b}{a b}, \\frac{b-c}{b c}[/math] দুইটি দুইটি বীজগাণিতীয় ভগ্নাংশ হলে-\n\ni. হরগুলোর ল.সা.গু abc\n\nii. ভগ্নাংশদ্বয়ের সমষ্টি [math]\\frac{a-c}{a c}[/math]\n\niii. ভগ্নাংশদ্বয়ের ভাগফল [math]\\frac{c(a-b)}{a(b-c)}[/math]\n\nনিচের কোনটি সঠিক?",
+        "solution": "[math]\\frac{a-b}{a b}, \\frac{b-c}{b c}[/math]\u003Cbr\u003E দুইটি দুইটি বীজগাণিতীয় ভগ্নাংশ হলে , হরগুলোর ল.সা.গু abc, ভগ্নাংশদ্বয়ের সমষ্টি [math]\\frac{a-c}{a c}[/math]\u003Cbr\u003E ,ভগ্নাংশদ্বয়ের ভাগফল [math]\\frac{c(a-b)}{a(b-c)}[/math]\u003Cbr\u003E (i, ii ও iii ) ই সঠিক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7763,
+      "created_at": "2025-08-21T09:47:38.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7763&grade=3&lesson=7765&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7763&grade=3&lesson=7765&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7763&grade=3&lesson=7765&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 83,
+  "total": 83
+}

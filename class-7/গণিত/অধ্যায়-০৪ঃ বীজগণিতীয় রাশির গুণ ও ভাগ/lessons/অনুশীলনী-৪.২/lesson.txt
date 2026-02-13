@@ -1,0 +1,3591 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 487219,
+      "value": {
+        "options": {
+          "ক": "প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা গুণ কর।",
+          "খ": "প্রথম, দ্বিতীয় ও তৃতীয় রাশিকে সূচকের সাহায্যে গুণফল নির্ণয় কর।",
+          "গ": "খ হতে প্রাপ্ত গুণফলকে তৃতীয় রাশি দ্বারা ভাগ কর।"
+        },
+        "question": "[math]x + y[/math], [math]x - y[/math], [math]x^2 + y^2[/math] তিনটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E(x+y)(x−y)=x2−y2\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eগুণফল:(x+y)(x−y)(x2+y2)প্রথম দুইটি গুণফল: [math]x^2 - y^2[/math]\u003Cbr\u003Eএরপর, (x2−y2)(x2+y2)=x4−y4\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eএখন, x2+y2x4−y4​[math]x^4 - y^4 = (x^2 + y^2)(x^2 - y^2)[/math]\u003Cbr\u003Eসুতরাং ভাগফল: x2−y2",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E থেকে [math](x+y)(x-y)=x^2-y^2[/math] (difference of squares)। \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সব তিনটি গুণ করলে [math](x^2-y^2)(x^2+y^2)=x^4-y^4[/math] পাওয়া যায়, আর \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E এ সেই গুণফলকে তৃতীয় রাশি [math](x^2+y^2)[/math] দ্বারা ভাগ করলে পুনরায় [math]x^2-y^2[/math] পাওয়া যায় কারণ [math]x^4-y^4=(x^2-y^2)(x^2+y^2)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487219,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487227,
+      "value": {
+        "options": [],
+        "question": "[math]x^4 + x^3y + x^2y^2 + xy^3 + y^4[/math] কে [math]x^2 - xy + y^2[/math] দ্বারা ভাগ কর",
+        "solution": "ধাপে ধাপে ভাগ করা হয়েছে:[math]x^4 + x^3y + x^2y^2 + xy^3 + y^4[/math]\u003Cbr\u003E কে [math]x^2 - xy + y^2[/math]\u003Cbr\u003E দ্বারা ভাগ করতে হবে।প্রথম ধাপে:[math]x^2 \\times (x^2 - xy + y^2) = x^4 - x^3y + x^2y^2[/math]\u003Cbr\u003Eবিয়োগ করলে পাই:[math](x^4 + x^3y + x^2y^2) - (x^4 - x^3y + x^2y^2) = 2x^3y[/math]\u003Cbr\u003Eদ্বিতীয় ধাপে:[math]+xy \\times (x^2 - xy + y^2) = x^3y - x^2y^2 + xy^3[/math]\u003Cbr\u003Eবিয়োগ করলে পাই:[math]2x^3y - (x^3y - x^2y^2 + xy^3) = x^3y + x^2y^2 - xy^3[/math]\u003Cbr\u003Eতৃতীয় ধাপে:[math]+y^2 \\times (x^2 - xy + y^2) = x^2y^2 - x y^3 + y^4[/math]\u003Cbr\u003Eবিয়োগ করলে সব পদ কেটে যায়, অবশিষ্ট থাকে [math]0[/math]\u003Cbr\u003Eনির্ণীত ভাগফল: [math]x^2 + xy + y^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: y-কে ধ্রুব ধরে x-এ দীর্ঘ ভাগ করলে শীর্ষ পদ থেকে ক্রমান্বয়ে ভাগ করলে পাওয়া যায় ভাগফল [math]x^2+2xy+2y^2[/math] এবং অবশিষ্ট অংশ (remainder) [math]xy^3-y^4[/math]. যাচাই: [math](x^2-xy+y^2)(x^2+2xy+2y^2)+(xy^3-y^4)=x^4+x^3y+x^2y^2+xy^3+y^4[/math], সুতরাং উত্তর সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487227,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487226,
+      "value": {
+        "options": {
+          "ক": "২য় রাশিটির বর্গ কর।",
+          "খ": "২য় রাশিকে ১ম রাশি দ্বারা গুণ কর।",
+          "গ": "৩য় রাশি দ্বারা ২য় রাশিকে ভাগ কর।"
+        },
+        "question": "[math]2x + y[/math], [math]2p + 3q[/math], [math]16p^4 - 81q^4[/math] — তিনটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E(2p+3q)2=4p2+12pq+9q2\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E(2p+3q)(2x+y)=4px+2py+6qx+3qy\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E2p+3q16p4−81q4​লক্ষ্য করি:[math]16p^4 - 81q^4 = (4p^2)^2 - (9q^2)^2 = (4p^2 - 9q^2)(4p^2 + 9q^2)[/math]\u003Cbr\u003Eএদের কোনো অংশ [math]2p + 3q[/math]\u003Cbr\u003E দ্বারা সরাসরি বিভাজ্য নয়।তাই, সরাসরি ভাগফল নির্ণয় সম্ভব না হলেও প্রকাশ করা যায়:2p+3q(4p2−9q2)(4p2+9q2)​ — এটি সরলীকৃত নয়।",
+        "explanation": "ব্যাখ্যা: [math]16p^4-81q^4=(2p)^4-(3q)^4[/math] এবং এটি ভাঙলে [math]=(2p-3q)(2p+3q)(4p^2+9q^2)[/math] পাওয়া যায়, তাই [math]2p+3q[/math] তৃতীয় রাশির একটি গুণক। ফলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক — তৃতীয় রাশিকে দ্বিতীয় রাশি দিয়ে ভাগ করলে বাকি অংশ [math](2p-3q)(4p^2+9q^2)[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487226,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487225,
+      "value": {
+        "options": {
+          "ক": "২য় রাশি থেকে ১ম রাশি বিয়োগ কর।",
+          "খ": "১ম রাশিকে ২য় রাশি দ্বারা গুণ কর।",
+          "গ": "৩য় রাশিকে ২য় রাশি দ্বারা ভাগ কর।"
+        },
+        "question": "[math]3x + 4[/math], [math]9x^2 - 12x + 16[/math], এবং [math]81x^4 + 144x^2 + 256[/math] — তিনটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E(9x2−12x+16)−(3x+4)=9x2−15x+12\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E(3x+4)(9x2−12x+16)ধাপে ধাপে গুণফল:[math]= 3x \\cdot 9x^2 + 3x \\cdot (-12x) + 3x \\cdot 16 + 4 \\cdot 9x^2 + 4 \\cdot (-12x) + 4 \\cdot 16[/math]\u003Cbr\u003E [math]= 27x^3 - 36x^2 + 48x + 36x^2 - 48x + 64[/math]\u003Cbr\u003E [math]= 27x^3 + 0x^2 + 0x + 64 = 27x^3 + 64[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E9x2−12x+1681x4+144x2+256​লক্ষ্য করি:[math]81x^4 + 144x^2 + 256 = (9x^2 + 16)^2[/math]\u003Cbr\u003Eএবং [math]9x^2 - 12x + 16 = (3x - 4)^2[/math]\u003Cbr\u003Eতাই ভাগফল:(3x−4)2(9x2+16)2​",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E সঠিক, কারণ [math](3x+4)(9x^2-12x+16)=27x^3+64[/math]; গুণ করার সময় মধ্যবর্তী ধরা-অধরা পদগুলো বাতিল হয়ে কেবল এই দ্বিপদী রাশি থাকে। এছাড়া এটি আসলে [math](3x)^3+4^3[/math]—sum of cubes—এর ভগ্নাংশ হিসেবে বিশ্লেষিত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487225,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487224,
+      "value": {
+        "options": {
+          "ক": "দ্বিতীয় রাশির যোগফলকে বিপরীত রাশি লিখ এবং ঘাতের অবক্রম অনুসারে সাজাও।",
+          "খ": "সূত্রের সাহায্যে ২য় রাশিকে ৩য় রাশি দ্বারা গুণ কর।",
+          "গ": "১ম রাশিকে ২য় রাশি দ্বারা ভাগ কর।"
+        },
+        "question": "[math]1 - x^3[/math], [math]1 - x + x^2[/math], [math]1 + x + x^2[/math] — তিনটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eদ্বিতীয় রাশি: [math]1 - x + x^2[/math]\u003Cbr\u003Eএর বিপরীত: [math]-1 + x - x^2[/math]\u003Cbr\u003Eঘাত অনুযায়ী সাজানো হলে:−x2+x−1\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E(1−x+x2)(1+x+x2)সূত্র: [math](a - b)(a + b) = a^2 - b^2[/math]\u003Cbr\u003Eএখানে [math]a = 1 + x + x^2[/math]\u003Cbr\u003E, [math]b = x[/math]\u003Cbr\u003E নয়, তাই স্বাভাবিক গুণফলাফল হবে: [math]1 + x + x^2 - x - x^2 - x^3 + x^4 = 1 - x^3[/math]\u003Cbr\u003Eঅর্থাৎ: [math]1 - x^3[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E1−x+x21−x3​=1+x+x2কারণ: (1−x3)=(1−x+x2)(1+x+x2)সুতরাং ভাগফল: [math]1 + x + x^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E দ্বিতীয় রাশি [math]1 - x + x^2[/math] এর যোগফলকের বিপরীত রাশি হলো [math]-1 + x - x^2[/math], ঘাতের অবক্রম (উত্থিত ঘাত অর্ধক্রমে) অনুসারে সাজালে [math]-x^2 + x - 1[/math] পাওয়া যায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গুণ করলে (সরল গুণফল বা পরিচিত সূত্র প্রয়োগে) [math](1 - x + x^2)(1 + x + x^2)=1 + x^2 + x^4[/math] হয়, কারণ মধ্যবর্তী ধনাত্মক এবং ঋণাত্মক x ও x^3 ধরা টার্মগুলো পরস্পরে বাতিল হয়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ভাগ করলে বর্গে ব্যাবহার করে দেখা যায় [math]1 - x^3=(1 - x + x^2)(-x -1)+2[/math], তাই ভাগফল হচ্ছে [math]-x-1+\\dfrac{2}{1 - x + x^2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487224,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487223,
+      "value": {
+        "options": {
+          "ক": "[math]A - 2PB[/math] নির্ণয় কর।",
+          "খ": "[math]A \\times B[/math] নির্ণয় কর।",
+          "গ": "[math]C + D[/math] নির্ণয় কর।"
+        },
+        "question": "[math]A = p^2 + 7p + 49[/math], [math]B = p - 7[/math], [math]C = 16p^4 - 81q^4[/math], [math]D = 2p - 3q[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপ্রথমে [math]2PB = 2p(p - 7) = 2p^2 - 14p[/math]\u003Cbr\u003Eএখন,A−2PB=p2+7p+49−2p2+14p=−p2+21p+49\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E(p2+7p+49)(p−7)মনে রাখতে হবে, এটি হলো [math](p + 7)^2(p - 7)[/math]\u003Cbr\u003E=(p2−49)(p+7)=p3+7p2−49p−343\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003EC+D=(16p4−81q4)+(2p−3q)=16p4+2p−81q4−3q",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E \u003Cmath\u003EA-2pB=(p^2+7p+49)-2p(p-7)=p^2+7p+49-2p^2+14p=-p^2+21p+49\u003C/math\u003E. এখানে সরলভাবে [math]2pB[/math]কে বিয়োগ করে যোগফল সরলীকরণ করা হয়েছে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E \u003Cmath\u003EA\\times B=(p^2+7p+49)(p-7)=p^3-343\u003C/math\u003E. কারণ এটি [math]p^3-7^3[/math] অর্থাৎ ভগ্নাংশের ঘনফলের পার্থক্য।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E \u003Cmath\u003EC+D=16p^4-81q^4+2p-3q\u003C/math\u003E, এবং \u003Cmath\u003E16p^4-81q^4=(2p-3q)(2p+3q)(4p^2+9q^2)\u003C/math\u003E, তাই \u003Cmath\u003EC+D=(2p-3q)\\big((2p+3q)(4p^2+9q^2)+1\\big)\u003C/math\u003E. এখানে চতুর্থ ঘাতের পার্থক্যকে ভাজ্যাংশ হিসেবে ভাঙে সাধারণ গুণক [math](2p-3q)[/math] বের করা হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487223,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487222,
+      "value": {
+        "options": {
+          "ক": "রাশি দুইটির যোগফল কত?",
+          "খ": "রাশি দুইটির গুণফল নির্ণয় কর।",
+          "গ": "প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা ভাগ কর।"
+        },
+        "question": "[math]6x^2 - 5x + 1[/math] এবং [math]2x - 1[/math] — দুটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E6x2−5x+1+2x−1=6x2−3x\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E(6x2−5x+1)(2x−1)=12x3−6x2−10x2+5x+2x−1[math]= 12x^3 - 16x^2 + 7x - 1[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E2x−16x2−5x+1​ — বহুপদী ভাগ করতে হবে।2x6x2​=3x[math]3x \\cdot (2x - 1) = 6x^2 - 3x[/math]\u003Cbr\u003Eবিয়োগ: [math](-2x + 1)[/math]\u003Cbr\u003E2x−2x​=−1[math]-1 \\cdot (2x - 1) = -2x + 1[/math]\u003Cbr\u003Eঅবশিষ্ট [math]0[/math]\u003Cbr\u003E, ভাগফল: [math]3x - 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E যোগফল: [math](6x^2-5x+1)+(2x-1)=6x^2-3x[/math] — কারণ সমজাতীয় পদগুলো যোগ করলে [math]-5x+2x=-3x[/math] এবং ধ্রুবকরা বিদায় দেয়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E গুণফল: [math](6x^2-5x+1)(2x-1)=12x^3-16x^2+7x-1[/math] — প্রতিটি পদকে গুণ করে এবং সমজাতীয় পদগুলো যোগ করলে এই ফল মেলে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ভাগফল: [math](6x^2-5x+1)÷(2x-1)=3x-1[/math], অবশিষ্ট [math]0[/math] — লং ডিভিশনে প্রথম ধাপেই [math]3x(2x-1)=6x^2-3x[/math] বাদ দিলে [math]-2x+1[/math] পাওয়া যায় এবং পরবর্তী ধাপে [math]-1(2x-1)=-2x+1[/math] বের হয়, ফলে অবশিষ্ট শূন্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487222,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487221,
+      "value": {
+        "options": {
+          "ক": "[math]A - B[/math] কত?",
+          "খ": "[math]A \\times B[/math] দ্বারা গুণ কর।",
+          "গ": "[math]C[/math] কে [math]B[/math] দ্বারা ভাগ কর।"
+        },
+        "question": "[math]A = 4x^2 + 6x + 9[/math], [math]B = 4x^2 - 6x + 9[/math], [math]C = 16x^4 + 36x^2 + 81[/math]",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003EA−B=(4x2+6x+9)−(4x2−6x+9)=12x\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E(4x2+6x+9)(4x2−6x+9)এটি একটি সূত্র: (a+b+c)(a−b+c)=a2−b2+c2সুতরাং গুণফল:16x4−36x2+81\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003EBC​=4x2−6x+916x4+36x2+81​যদি [math]C = B \\times A[/math]\u003Cbr\u003E হয়, তাহলে ভাগফল হবে [math]A[/math]\u003Cbr\u003E।গুণফল যাচাই করে দেখা যায়,B×A=Cতাই ভাগফল: [math]A = 4x^2 + 6x + 9[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]A-B=(4x^2+6x+9)-(4x^2-6x+9)=6x+6x=12x[/math]—সমান পদগুলি নিঃশেষ হয়ে কেবল [math]12x[/math] থাকে।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math]A\\times B=(4x^2+6x+9)(4x^2-6x+9)= (4x^2+9)^2-(6x)^2=16x^4+36x^2+81[/math]—এটি পার্থক্য-আয়তনের সূত্র প্রয়োগ করে সরল হয়ে [math]C[/math] পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E যেহেতু [math]C= A\\times B[/math], তাই [math]C\\div B=A[/math] এবং ফলাফল হবে [math]4x^2+6x+9[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487221,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487220,
+      "value": {
+        "options": {
+          "ক": "প্রত্যেক প্রথম ও দ্বিতীয় রাশিকে [math]x[/math] এর ঘাতের অবনমন অনুযায়ী সাজিয়ে লিখ।",
+          "খ": "প্রথম রাশি ও তৃতীয় রাশির গুণফল নির্ণয় কর।",
+          "গ": "দেখাও যে প্রথম ও দ্বিতীয় রাশি ভাগ করলে তৃতীয় রাশি মিলে।"
+        },
+        "question": "[math]-8a + 12a^2 - 32[/math], [math]-8 + 4a[/math], [math]3a + 4[/math] — তিনটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপ্রথম রাশি: [math]12a^2 - 8a - 32[/math]\u003Cbr\u003Eদ্বিতীয় রাশি: [math]4a - 8[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eগুণফল:(12a2−8a−32)(3a+4)[math]= 12a^2 \\cdot 3a + 12a^2 \\cdot 4 - 8a \\cdot 3a - 8a \\cdot 4 - 32 \\cdot 3a - 32 \\cdot 4[/math]\u003Cbr\u003E$[math]= 36a^3 + 48a^2 - 24a^2 - 32a - 96a - 128[/math]\u003Cbr\u003E [math]= 36a^3 + 24a^2 - 128a - 128[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eভাগফল নির্ণয়:4a−812a2−8a−32​উপপাদ্য অনুযায়ী, যদি ভাগফল হয় [math]3a + 4[/math]\u003Cbr\u003E, তবে:(4a−8)(3a+4)=12a2+16a−24a−32=12a2−8a−32যা প্রথম রাশির সমান।সুতরাং প্রমাণিত: ভাগফল [math]3a + 4[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রথম ও দ্বিতীয় রাশিকে [math]x[/math] দিয়ে লেখলে অবনমনে পাওয়া যায়: [math]12x^2-8x-32[/math] এবং [math]4x-8[/math] (তৃতীয় রাশি হবে [math]3x+4[/math])। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রথম ও তৃতীয় রাশির গুণফল হিসাব করলে পাওয়া যায়: [math](12x^2-8x-32)(3x+4)=36x^3+24x^2-128x-128[/math]। \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কারণ [math]12x^2-8x-32=4(3x^2-2x-8)=4(x-2)(3x+4)[/math] এবং [math]4x-8=4(x-2)[/math], তাই ভাগ করলে ফল [math]3x+4[/math] (তৃতীয় রাশি) পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487220,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487228,
+      "value": {
+        "options": [],
+        "question": "[math]a^5 + 11a - 12[/math] কে [math]a^2 - 2a + 3[/math] দ্বারা ভাগ কর",
+        "solution": "ধাপে ধাপে ভাগ করা হয়েছে:প্রথম ধাপে:[math]a^3 \\times (a^2 - 2a + 3) = a^5 - 2a^4 + 3a^3[/math]\u003Cbr\u003Eবিয়োগ করলে পাই:[math](a^5 + 0a^4 + 0a^3 + 0a^2 + 11a - 12) - (a^5 - 2a^4 + 3a^3) = 2a^4 - 3a^3[/math]\u003Cbr\u003Eদ্বিতীয় ধাপে:[math]+2a \\times (a^2 - 2a + 3) = 2a^3 - 4a^2 + 6a[/math]\u003Cbr\u003Eবিয়োগ করলে পাই:[math]-3a^3 - (2a^3 - 4a^2 + 6a) = -5a^3 + 4a^2 - 6a[/math]\u003Cbr\u003Eতৃতীয় ধাপে:[math]+1 \\times (a^2 - 2a + 3) = a^2 - 2a + 3[/math]\u003Cbr\u003Eশেষে বিয়োগ করলে অবশিষ্ট থাকে [math]0[/math]\u003Cbr\u003Eনির্ণীত ভাগফল: [math]a^3 + 2a + 1[/math]\u003Cbr\u003E",
+        "explanation": "ভাগ করলে ভাগফল হয় [math]a^3+2a^2+a-4[/math] এবং অবশিষ্টাংশ শূন্য। কারণ [math](a^2-2a+3)(a^3+2a^2+a-4)=a^5+11a-12[/math], তাই পূর্ণ ভাগ সম্ভব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487228,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487218,
+      "value": {
+        "options": {
+          "ক": "রাশি দুইটির যোগফল নির্ণয় কর।",
+          "খ": "প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা গুণ কর।",
+          "গ": "প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা ভাগ কর।"
+        },
+        "question": "[math]12a^4 + 11a^2 + 2[/math] এবং [math]3a^2 + 2[/math] দুটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eযোগফল:(12a4+11a2+2)+(3a2+2)=12a4+(11a2+3a2)+(2+2)=12a4+14a2+4\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eগুণফল:(12a4+11a2+2)(3a2+2)[math]= 12a^4 \\cdot 3a^2 + 12a^4 \\cdot 2 + 11a^2 \\cdot 3a^2 + 11a^2 \\cdot 2 + 2 \\cdot 3a^2 + 2 \\cdot 2[/math]\u003Cbr\u003E$[math]= 36a^6 + 24a^4 + 33a^4 + 22a^2 + 6a^2 + 4[/math]\u003Cbr\u003E [math]= 36a^6 + 57a^4 + 28a^2 + 4[/math]\u003Cbr\u003E \u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eভাগ করতে হলে বহুপদী ভাগ করতে হবে।এটি সরাসরি ভাগ না গেলে বহুপদী বিভাজন প্রয়োগ করতে হবে।এখানে [math]3a^2 + 2[/math]\u003Cbr\u003E দ্বারা [math]12a^4 + 11a^2 + 2[/math]\u003Cbr\u003E ভাগ করলে:প্রথম পদ: 3a212a4​=4a2এরপর ধাপে ধাপে বিয়োগ করে অবশিষ্ট নির্ণয় করা হয়।এখানে পূর্ণ ভাগফল আসবে না, অবশিষ্ট থাকবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math] (12a^4+11a^2+2)+(3a^2+2)=12a^4+(11a^2+3a^2)+(2+2)=12a^4+14a^2+4[/math] — কারণ একজাতীয় পদগুলো যোগ করা হয়েছে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E [math](12a^4+11a^2+2)(3a^2+2)=36a^6+57a^4+28a^2+4[/math] — কারণ প্রতিটি পদকে গুণ করে পরে সমান ধরনের পদগুলো মিলানো হয়েছে (বিতরণীয় সূত্র)।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E [math]\\dfrac{12a^4+11a^2+2}{3a^2+2}=4a^2+1[/math] — কারণ বহুপদী ভাগ করলে প্রথম ধাপে অতিথির অনুপাত [math]4a^2[/math] এবং পরে [math]1[/math] এনে পুরো ভাগ শূন্য অবশিষ্ট রেখে সম্পূর্ণ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487218,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487217,
+      "value": {
+        "options": {
+          "ক": "[math]a = 1[/math] হলে ১ম রাশির মান নির্ণয় কর।",
+          "খ": "১ম রাশিকে ২য় রাশি দ্বারা ভাগ কর।",
+          "গ": "৩য় রাশিকে ৪র্থ রাশি দ্বারা ভাগ করে এবং প্রাপ্ত ভাগফল থেকে ‘ক’ এর প্রাপ্ত মান বিয়োগ কর।"
+        },
+        "question": "[math]a^3 + 11a - 12[/math], [math]a^2 - 2a + 3[/math], [math]64 - a^3[/math], [math]a - 4[/math] — চারটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003E [math]a = 1[/math]\u003Cbr\u003E বসিয়ে ১ম রাশির মান নির্ণয় করি:a3+11a−12=13+11×1−12=1+11−12=0সুতরাং, ১ম রাশির মান [math]0[/math]\u003Cbr\u003E।\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003E১ম রাশি: [math]a^3 + 11a - 12[/math]\u003Cbr\u003E,২য় রাশি: [math]a^2 - 2a + 3[/math]\u003Cbr\u003Eভাগ করবঃa2−2a+3a3+11a−12​ধাপে ধাপে ভাগ করলে পাই:a2a3​=aa×(a2−2a+3)=a3−2a2+3aবিয়োগ করলে: (a3+11a−12)−(a3−2a2+3a)=2a2+8a−12a22a2​=22×(a2−2a+3)=2a2−4a+6আবার বিয়োগ করলে: (2a2+8a−12)−(2a2−4a+6)=12a−18যা আর ভাগ যায় না, তাই ভাগফল: [math]a + 2[/math]\u003Cbr\u003E, এবং বাকি: [math]12a - 18[/math]\u003Cbr\u003E।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003E",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E [math]a=1[/math] বসিয়ে [math]1^3+11\\cdot1-12=1+11-12=0[/math], সুতরাং মান = [math]0[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E ভাগে নেতৃত্বের অনুপাত অনুসারে প্রথম ধাপ দেয় [math]a[/math] ও পরে [math]+2[/math]; ভাগফল হচ্ছে [math]a+2[/math] এবং অপরিসমাপ্ত অংশ (remainder) [math]12a-18[/math]।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E কারণ [math]a^3-64=(a-4)(a^2+4a+16)[/math], তাই [math]64-a^3=-(a-4)(a^2+4a+16)[/math] এবং ভাগফল হচ্ছে [math]-a^2-4a-16[/math]; \u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E থেকে পাওয়া মান [math]0[/math] বিয়োগ করলে ফল অপরিবর্তিত [math]-a^2-4a-16[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487217,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487216,
+      "value": {
+        "options": {
+          "ক": "প্রথম রাশি এবং দ্বিতীয় রাশি যোগ কর।",
+          "খ": "প্রথম রাশিকে দ্বিতীয় রাশি দ্বারা ভাগ কর।",
+          "গ": "রাশিদ্বয়ের গুণফল নির্ণয় কর।"
+        },
+        "question": "[math]15x^2 + 7x - 2[/math] এবং [math]5x - 1[/math] দুটি দ্বিপদী রাশি",
+        "solution": "\u003Cdiv class=\"cq-explanation-label\"\u003Eক\u003C/div\u003Eপ্রথম রাশি [math]15x^2 + 7x - 2[/math]\u003Cbr\u003E এবং দ্বিতীয় রাশি [math]5x - 1[/math]\u003Cbr\u003E যোগ করলে পাই:(15x2+7x−2)+(5x−1)=15x2+12x−3\u003Cdiv class=\"cq-explanation-label\"\u003Eখ\u003C/div\u003Eপ্রথম রাশি [math]15x^2 + 7x - 2[/math]\u003Cbr\u003E, দ্বিতীয় রাশি [math]5x - 1[/math]\u003Cbr\u003E।ভাগের ধাপ:5x15x2​=3x3x×(5x−1)=15x2−3xবিয়োগ করলে:(15x2+7x−2)−(15x2−3x)=10x−25x10x​=22×(5x−1)=10x−2অবশিষ্ট [math]0[/math]\u003Cbr\u003E।সুতরাং ভাগফল: [math]3x + 2[/math]\u003Cbr\u003E।\u003Cdiv class=\"cq-explanation-label\"\u003Eগ\u003C/div\u003Eপ্রথম রাশি [math]15x^2 + 7x - 2[/math]\u003Cbr\u003E, দ্বিতীয় রাশি [math]5x - 1[/math]\u003Cbr\u003E।গুণফলের ধাপ:15x2×(5x−1)=75x3−15x27x×(5x−1)=35x2−7x−2×(5x−1)=−10x+2সব মিলিয়ে পাই:75x3+20x2−17x+2সুতরাং গুণফল: [math]75x^3 + 20x^2 - 17x + 2[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E কারণ [math](5x-1)(3x+2)=15x^2+7x-2[/math]. তাই [math]15x^2+7x-2[/math] কে [math]5x-1[/math] দ্বারা ভাগ করলে ভাগফল [math]3x+2\u003C/math] এবং অবশিষ্ট শূন্য হবে, অর্থাৎ বিভাজ্যতা সম্পূর্ণ ঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487216,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487215,
+      "value": {
+        "options": {
+          "ক": "[math]x + 5[/math]",
+          "খ": "[math]x - 5[/math]",
+          "গ": "[math]x + 3[/math]",
+          "ঘ": "[math]x + 2[/math]"
+        },
+        "question": "[math]x^2 + 7x + 10[/math] কে [math](x + 2)[/math] দ্বারা ভাগ করলে ভাগফল কোনটি?",
+        "solution": "[math]x^2 + 7x + 10 = (x + 2)(x + 5)[/math]\u003Cbr\u003E → ভাগফল [math]x + 5[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487215,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487214,
+      "value": {
+        "options": {
+          "ক": "[math]x - 3[/math]",
+          "খ": "[math]x + 5[/math]",
+          "গ": "[math]x + 3[/math]",
+          "ঘ": "[math]x - 5[/math]"
+        },
+        "question": "[math]x^2 - 2x - 15[/math] কে [math](x - 5)[/math] দ্বারা ভাগ করলে ভাগফল কোনটি?",
+        "solution": "[math]x^2 - 2x - 15 = (x - 5)(x + 3)[/math]\u003Cbr\u003E → ভাগফল [math]x + 3[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487214,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487213,
+      "value": {
+        "options": {
+          "ক": "[math]x - 2[/math]",
+          "খ": "[math]x + 3[/math]",
+          "গ": "[math]x - 3[/math]",
+          "ঘ": "[math]x + 2[/math]"
+        },
+        "question": "[math]x^2 - x - 6[/math] কে [math](x + 2)[/math] দ্বারা ভাগ করলে ভাগফল কোনটি?",
+        "solution": "[math]x^2 - x - 6 = (x + 2)(x - 3)[/math]\u003Cbr\u003E → ভাগফল [math]x - 3[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487213,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487212,
+      "value": {
+        "options": {
+          "ক": "[math]x + 3[/math]",
+          "খ": "[math]x - 3[/math]",
+          "গ": "[math]x + 5[/math]",
+          "ঘ": "[math]x - 5[/math]"
+        },
+        "question": "[math]x^2 + 2x - 15[/math] কে [math](x + 5)[/math] দ্বারা ভাগ করলে ভাগফল কোনটি?",
+        "solution": "[math]x^2 + 2x - 15 = (x + 5)(x - 3)[/math]\u003Cbr\u003E → ভাগফল [math]x - 3[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487212,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487211,
+      "value": {
+        "options": {
+          "ক": "[math]x - 2[/math]",
+          "খ": "[math]x + 2[/math]",
+          "গ": "[math]x - 3[/math]",
+          "ঘ": "[math]x + 3[/math]"
+        },
+        "question": "[math]x^2 - 9x + 14[/math] কে [math](x - 7)[/math] দ্বারা ভাগ করলে ভাগফল কোনটি?",
+        "solution": "[math]x^2 - 9x + 14 = (x - 7)(x - 2)[/math]\u003Cbr\u003E → ভাগফল [math]x - 2[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487211,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487236,
+      "value": {
+        "options": [],
+        "question": "[math]30x^6y^8 - 45x^4y^7[/math] কে [math]3x^2y^4[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{30x^6y^8 - 45x^4y^7}{3x^2y^4} = \\dfrac{30x^6y^8}{3x^2y^4} - \\dfrac{45x^4y^7}{3x^2y^4}[/math]\u003Cbr\u003E [math]= 10x^{6-2}y^{8-4} - 15x^{4-2}y^{7-4}[/math]\u003Cbr\u003E [math]= 10x^4y^4 - 15x^2y^3[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি পদকে আলাদাভাবে [math]3x^2y^4[/math] দ্বারা ভাগ করলে প্রথম পদ থেকে পাওয়া যায় [math]30/3=10,\\;x^{6-2}=x^4,\\;y^{8-4}=y^4[/math] অর্থাৎ [math]10x^4y^4[/math], এবং দ্বিতীয় পদ থেকে পাওয়া যায় [math]-45/3=-15,\\;x^{4-2}=x^2,\\;y^{7-4}=y^3[/math] অর্থাৎ [math]-15x^2y^3[/math]. তাই ফলাফল হচ্ছে [math]\\frac{30x^6y^8-45x^4y^7}{3x^2y^4}=10x^4y^4-15x^2y^3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487236,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487244,
+      "value": {
+        "options": [],
+        "question": "[math]8a^2 - 10a - 12[/math] কে [math]2a + 3[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]2a + 3) , \\overline{8a^2 - 10a - 12}[/math]\u003Cbr\u003E [math]= 4a[/math]\u003Cbr\u003E দিয়ে গুণ: [math]4a \\times (2a + 3) = 8a^2 + 12a[/math]\u003Cbr\u003Eবিয়োগ: [math](8a^2 - 10a) - (8a^2 + 12a) = -22a - 12[/math]\u003Cbr\u003E [math]-11[/math]\u003Cbr\u003E দিয়ে গুণ: [math]-11 \\times (2a + 3) = -22a - 33[/math]\u003Cbr\u003Eবিয়োগ: [math]-22a - 12 - (-22a - 33) = 21[/math]\u003Cbr\u003Eভাগফল: [math]4a - 11[/math]\u003Cbr\u003E, ভাগশেষ: [math]21[/math]\u003Cbr\u003E",
+        "explanation": "ভাগফল হল [math]4a-11[/math] এবং অবশিষ্টাংশ [math]21[/math]. কারণ [math](2a+3)(4a-11)+21=8a^2-10a-12[/math], তাই ভাগটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487244,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487243,
+      "value": {
+        "options": [],
+        "question": "[math]9x^3 - 6x^2 - 20x + 12[/math] কে [math]3x - 2[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]3x - 2) , \\overline{9x^3 - 6x^2 - 20x + 12}[/math]\u003Cbr\u003E [math]= 3x^2[/math]\u003Cbr\u003E দিয়ে গুণ: [math]3x^2 \\times (3x - 2) = 9x^3 - 6x^2[/math]\u003Cbr\u003Eবিয়োগ: [math]0 - 20x + 12[/math]\u003Cbr\u003E [math]-20x \\div 3x = -\\dfrac{20}{3}[/math]\u003Cbr\u003E... (অসমানভাবে বিভাজ্য, ভাগশেষ থাকবে)।ভাগফল: [math]3x^2[/math]\u003Cbr\u003E, বাকিটুকু অসমানভাবে বিভাজ্য হওয়ায় সম্পূর্ণ ভাগফল নয়।",
+        "explanation": "ব্যাখ্যা: পলিনোমিয়াল ভাগে প্রথমে [math]9x^3[/math] কে [math]3x[/math] দিয়ে ভাগ করে প্রথম ভাগফল [math]3x^2[/math] পাওয়া যায়; [math](3x-2)\\cdot3x^2=9x^3-6x^2[/math] দ্বারা [math]x^3[/math] ও [math]x^2[/math] টার্মগুলো ঘুচে গিয়ে অবশিষ্ট থাকে [math]-20x+12[/math]. এরপর [math]-20x[/math] কে [math]3x[/math] দিয়ে ভাগ করে দ্বিতীয় ভাগফল [math]-\\tfrac{20}{3}[/math] পাওয়া যায় এবং গুণফল [math]-20x+\\tfrac{40}{3}[/math] ছাড়া করলে রিমেইনডার হয় [math]-\\tfrac{4}{3}[/math]. তাই ভাগফল হলো [math]3x^2-\\tfrac{20}{3}[/math] এবং অবশিষ্ট [math]-\\tfrac{4}{3}[/math], অর্থাৎ [math]9x^3-6x^2-20x+12=(3x-2)\\left(3x^2-\\tfrac{20}{3}\\right)-\\tfrac{4}{3}.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487243,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487242,
+      "value": {
+        "options": [],
+        "question": "[math]6x^2 + 5x - 6[/math] কে [math]2x - 1[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]2x - 1) , \\overline{6x^2 + 5x - 6}[/math]\u003Cbr\u003E [math]= 3x[/math]\u003Cbr\u003E দিয়ে গুণ: [math]3x \\times (2x - 1) = 6x^2 - 3x[/math]\u003Cbr\u003Eবিয়োগ: [math]6x^2 + 5x - (6x^2 - 3x) = 8x - 6[/math]\u003Cbr\u003E [math]+4[/math]\u003Cbr\u003E দিয়ে গুণ: [math]4 \\times (2x - 1) = 8x - 4[/math]\u003Cbr\u003Eবিয়োগ: [math]8x - 6 - (8x - 4) = -2[/math]\u003Cbr\u003Eভাগফল: [math]3x + 4[/math]\u003Cbr\u003E, ভাগশেষ [math]-2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]2x-1[/math] দিয়ে ভাগ করলে ভাগফল হয় [math]3x+4[/math] এবং অবশিষ্ট হয় [math]-2[/math], কারণ [math](2x-1)(3x+4)-2=6x^2+5x-6[/math]। দীর্ঘ ভাগে প্রথমে [math]6x^2/2x=3x[/math] নেওয়া হলে অবশিষ্ট হয় [math]8x-6[/math], এরপর [math]8x/2x=4[/math] নেওলে অবশিষ্ট [math]-2[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487242,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487241,
+      "value": {
+        "options": [],
+        "question": "[math]90m^{12}n^9 - 60m^9n^6 + 30m^6n^3[/math] কে [math]-15m^6n^3[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{90m^{12}n^9 - 60m^9n^6 + 30m^6n^3}{-15m^6n^3}[/math]\u003Cbr\u003E [math]= \\dfrac{90m^{12}n^9}{-15m^6n^3} - \\dfrac{60m^9n^6}{-15m^6n^3} + \\dfrac{30m^6n^3}{-15m^6n^3}[/math]\u003Cbr\u003E [math]= -6m^{6}n^{6} + 4m^{3}n^{3} - 2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিটি পদকে [math]-15m^6n^3[/math] দ্বারা ভাগ করলে সহগ ও ঘাতগুলো আলাদা করে ভাগ করা যায়: [math]90/(-15)=-6,\\ -60/(-15)=4,\\ 30/(-15)=-2[/math] এবং [math]m^{12}/m^6=m^6,\\ m^9/m^6=m^3,\\ m^6/m^6=1[/math], [math]n^9/n^3=n^6,\\ n^6/n^3=n^3,\\ n^3/n^3=1[/math]. তাই ভাগফল হলো [math]-6m^6n^6+4m^3n^3-2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487241,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487240,
+      "value": {
+        "options": [],
+        "question": "[math]-64a^{10}b^7c^5 + 32a^7b^5c^3 - 16a^4b^3c[/math] কে [math]-8a^4b^3c[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{-64a^{10}b^7c^5 + 32a^7b^5c^3 - 16a^4b^3c}{-8a^4b^3c}[/math]\u003Cbr\u003E [math]= \\dfrac{-64a^{10}b^7c^5}{-8a^4b^3c} + \\dfrac{32a^7b^5c^3}{-8a^4b^3c} - \\dfrac{16a^4b^3c}{-8a^4b^3c}[/math]\u003Cbr\u003E [math]= 8a^{6}b^{4}c^{4} - 4a^{3}b^{2}c^{2} + 2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিটি পদকে বিভাজক দিয়ে ভাগ করলে সহগ ভাগ হয় এবং একই বেসের ঘাতগুলো বিয়োগ করা হয়; তাই  \n[math]\\frac{-64a^{10}b^7c^5}{-8a^4b^3c}=8a^6b^4c^4,\\quad \\frac{32a^7b^5c^3}{-8a^4b^3c}=-4a^3b^2c^2,\\quad \\frac{-16a^4b^3c}{-8a^4b^3c}=2[/math].  \nঅতএব ফল হলো [math]8a^6b^4c^4-4a^3b^2c^2+2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487240,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487239,
+      "value": {
+        "options": [],
+        "question": "[math]48x^9y^8 - 36x^6y^5 + 24x^3y^2[/math] কে [math]6x^3y^2[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{48x^9y^8 - 36x^6y^5 + 24x^3y^2}{6x^3y^2}[/math]\u003Cbr\u003E [math]= \\dfrac{48x^9y^8}{6x^3y^2} - \\dfrac{36x^6y^5}{6x^3y^2} + \\dfrac{24x^3y^2}{6x^3y^2}[/math]\u003Cbr\u003E [math]= 8x^{6}y^{6} - 6x^3y^3 + 4[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: বহুপদটির প্রতিটি পদকে আলাদাভাবে [math]6x^3y^2[/math] দ্বারা ভাগ করলে সহগ ভাগ হয় এবং ঘাতগুলো বিয়োগ হয়। তাই [math]48x^9y^8 ÷ 6x^3y^2 = 8x^6y^6, \\; -36x^6y^5 ÷ 6x^3y^2 = -6x^3y^3, \\; 24x^3y^2 ÷ 6x^3y^2 = 4[/math]; ফলে ফলাফল [math]8x^6y^6 - 6x^3y^3 + 4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487239,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487238,
+      "value": {
+        "options": [],
+        "question": "[math]-72x^7y^{12} + 60x^5y^{10}[/math] কে [math]-6x^3y^6[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{-72x^7y^{12} + 60x^5y^{10}}{-6x^3y^6}[/math]\u003Cbr\u003E [math]= \\dfrac{-72x^7y^{12}}{-6x^3y^6} + \\dfrac{60x^5y^{10}}{-6x^3y^6}[/math]\u003Cbr\u003E [math]= 12x^{4}y^{6} - 10x^2y^4[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিটি পদকে আলাদাভাবে ভাগ করে সহগগুলো ভাগ করা এবং ঘাতগুলো থেকে সমান পরিবর্তনশীলের ঘাত অপরাহ্ণ করলে [math]\\dfrac{-72x^7y^{12}}{-6x^3y^6}=12x^4y^6[/math] এবং [math]\\dfrac{60x^5y^{10}}{-6x^3y^6}=-10x^2y^4[/math]; তাই ফল [math]12x^4y^6-10x^2y^4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487238,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487237,
+      "value": {
+        "options": [],
+        "question": "[math]\\dfrac{a^9b^6c^4 - a^6b^3c^3 + a^3b^2c^2}{a^3b^2c^2}[/math]",
+        "solution": "[math]= \\dfrac{a^9b^6c^4}{a^3b^2c^2} - \\dfrac{a^6b^3c^3}{a^3b^2c^2} + \\dfrac{a^3b^2c^2}{a^3b^2c^2}[/math]\u003Cbr\u003E [math]= a^{6}b^{4}c^{2} - a^{3}bc + 1[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি টার্মকে ভগ্নাংশের নামের গুণগুলোর দ্বারা ভাগ করলে ঘাতগুলোর পার্থক্য নেওয়া হয়: [math]\\frac{a^9b^6c^4}{a^3b^2c^2}=a^6b^4c^2,\\ \\frac{a^6b^3c^3}{a^3b^2c^2}=a^3bc,\\ \\frac{a^3b^2c^2}{a^3b^2c^2}=1[/math]; তাই ফলাফল [math]a^6b^4c^2-a^3bc+1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487237,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487210,
+      "value": {
+        "options": {
+          "A": "[math]a - b[/math]",
+          "B": "[math]a + b[/math]",
+          "C": "[math]a^2 + b^2[/math]",
+          "D": "[math]2a[/math]"
+        },
+        "question": "[math](a^2 - b^2) \\div (a - b) =[/math] কত?",
+        "solution": "[math]a^2 - b^2 = (a + b)(a - b)[/math]\u003Cbr\u003E → ভাগফল [math]a + b[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487210,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487235,
+      "value": {
+        "options": [],
+        "question": "[math]-96x^8y^{10}z^7[/math] কে [math]12x^3y^4z^2[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{-96x^8y^{10}z^7}{12x^3y^4z^2}[/math]\u003Cbr\u003E [math]= \\dfrac{-96}{12} \\times \\dfrac{x^8}{x^3} \\times \\dfrac{y^{10}}{y^4} \\times \\dfrac{z^7}{z^2}[/math]\u003Cbr\u003E [math]= -8x^5y^6z^5[/math]\u003Cbr\u003E",
+        "explanation": "সংখ্যাগুলি ভাগ করলে [math]-96/12=-8[/math], এবং ঘাতযুক্ত ভেরিয়েবলগুলোর ভাগে ঘাতগুলো বিয়োগ করে পাওয়া যায়: [math]x^{8-3}=x^5,\\; y^{10-4}=y^6,\\; z^{7-2}=z^5[/math]. অতএব ফলাফল হল [math]-8x^5y^6z^5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487235,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487234,
+      "value": {
+        "options": [],
+        "question": "[math]72a^{14}b^6c^9[/math] কে [math]-9a^7b^2c^3[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{72a^{14}b^6c^9}{-9a^7b^2c^3}[/math]\u003Cbr\u003E [math]= \\dfrac{72}{-9} \\times \\dfrac{a^{14}}{a^7} \\times \\dfrac{b^6}{b^2} \\times \\dfrac{c^9}{c^3}[/math]\u003Cbr\u003E [math]= -8a^7b^4c^6[/math]\u003Cbr\u003E",
+        "explanation": "গুণিতকের অংশগুলো পৃথকভাবে ভাগ করি: সহগের জন্য [math]72 ÷ (-9) = -8[/math] এবং ঘাতগুলো বিয়োগ করলে পাই [math]a^{14-7}=a^7,\\; b^{6-2}=b^4,\\; c^{9-3}=c^6[/math]. সুতরাং ফলটি হচ্ছে [math]-8a^7b^4c^6[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487234,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487233,
+      "value": {
+        "options": [],
+        "question": "[math]-125x^{10}y^7z^9[/math] কে [math]-25x^5y^3z^4[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{-125x^{10}y^7z^9}{-25x^5y^3z^4}[/math]\u003Cbr\u003E [math]= \\dfrac{-125}{-25} \\times \\dfrac{x^{10}}{x^5} \\times \\dfrac{y^7}{y^3} \\times \\dfrac{z^9}{z^4}[/math]\u003Cbr\u003E [math]= 5x^5y^4z^5[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সহগগুলো ভাগ করলে [math]\\frac{-125}{-25}=5[/math] এবং ঘাতগুলোর নিয়ম অনুযায়ী ঘাতগুলো বিয়োগ করলে [math]x^{10-5}=x^5,\\; y^{7-3}=y^4,\\; z^{9-4}=z^5[/math]. তাই ভাগফল হলো [math]5x^5y^4z^5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487233,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487232,
+      "value": {
+        "options": [],
+        "question": "[math]144m^9n^8p^6[/math] কে [math]-12m^3n^2p^3[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{144m^9n^8p^6}{-12m^3n^2p^3}[/math]\u003Cbr\u003E [math]= \\dfrac{144}{-12} \\times \\dfrac{m^9}{m^3} \\times \\dfrac{n^8}{n^2} \\times \\dfrac{p^6}{p^3}[/math]\u003Cbr\u003E [math]= -12m^6n^6p^3[/math]\u003Cbr\u003E",
+        "explanation": "বিভাজনের ফল: [math]144m^9n^8p^6 \\div (-12m^3n^2p^3)= -12m^6n^6p^3[/math]. কারণ সহগগুলো ভাগ করলে [math]144\\div(-12)=-12[/math] এবং ঘাতগুলো ভাগের সময় বিয়োগ হয়: [math]m^{9-3}=m^6,\\ n^{8-2}=n^6,\\ p^{6-3}=p^3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487232,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487231,
+      "value": {
+        "options": [],
+        "question": "[math]108a^{12}b^9c^5[/math] কে [math]-18a^5b^3c[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{108a^{12}b^9c^5}{-18a^5b^3c}[/math]\u003Cbr\u003E [math]= \\dfrac{108}{-18} \\times \\dfrac{a^{12}}{a^5} \\times \\dfrac{b^9}{b^3} \\times \\dfrac{c^5}{c}[/math]\u003Cbr\u003E [math]= -6a^7b^6c^4[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সহগ ভাগ করলে [math]108/(-18)=-6[/math] এবং ঘাতগুলি বিয়োগ করলে [math]a^{12-5}=a^7,\\; b^{9-3}=b^6,\\; c^{5-1}=c^4[/math]; তাই ফল হচ্ছে [math]-6a^7b^6c^4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487231,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487230,
+      "value": {
+        "options": [],
+        "question": "[math]-90x^{13}y^8z^6[/math] কে [math]15x^4y^3z^2[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{-90x^{13}y^8z^6}{15x^4y^3z^2}[/math]\u003Cbr\u003E [math]= \\dfrac{-90}{15} \\times \\dfrac{x^{13}}{x^4} \\times \\dfrac{y^8}{y^3} \\times \\dfrac{z^6}{z^2}[/math]\u003Cbr\u003E [math]= -6x^9y^5z^4[/math]\u003Cbr\u003E",
+        "explanation": "ফল হচ্ছে [math]-6x^9y^5z^4[/math]। কারণ সহগটি ভাগ করলে [math]-90/15=-6\u003C/math] আসে এবং ঘাতের নিয়ম [math]x^{m}/x^{n}=x^{m-n}\u003C/math] অনুযায়ী ঘাতগুলোকে বিয়োগ করলে [math]x^{13-4}=x^9,\\;y^{8-3}=y^5,\\;z^{6-2}=z^4\u003C/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487230,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487229,
+      "value": {
+        "options": [],
+        "question": "[math]-72m^{15}n^8p^5[/math] কে [math]18m^6n^3p^2[/math] দ্বারা ভাগ কর।",
+        "solution": "[math]\\dfrac{-72m^{15}n^8p^5}{18m^6n^3p^2}[/math]\u003Cbr\u003E [math]= \\dfrac{-72}{18} \\times \\dfrac{m^{15}}{m^6} \\times \\dfrac{n^8}{n^3} \\times \\dfrac{p^5}{p^2}[/math]\u003Cbr\u003E [math]= -4 \\times m^{15-6} \\times n^{8-3} \\times p^{5-2}[/math]\u003Cbr\u003E [math]= -4m^9n^5p^3[/math]\u003Cbr\u003E",
+        "explanation": "বিভাজন করলে গুণকের ভাগফল ও ঘাতগুলো বিয়োগ করা হয়: [math]\\frac{-72}{18}=-4[/math] এবং [math]m^{15-6}=m^9,\\; n^{8-3}=n^5,\\; p^{5-2}=p^3[/math]. তাই ফলাফল হল [math]-4m^9n^5p^3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 487229,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487184,
+      "value": {
+        "options": {
+          "ক": "[math]x^2 + 6x + 9[/math]",
+          "খ": "[math]x^2 + 9x + 3[/math]",
+          "গ": "[math]x^2 + 3x + 9[/math]",
+          "ঘ": "[math]x^2 + 3x + 3[/math]"
+        },
+        "question": "[math](x + 3)^2 =[/math] কত?",
+        "solution": "[math](x + 3)^2 = x^2 + 2×3x + 9[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487184,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487192,
+      "value": {
+        "options": {
+          "A": "[math]3x^2y^2[/math]",
+          "B": "[math]3xy^2[/math]",
+          "C": "[math]6x^2y[/math]",
+          "D": "[math]3x^2y^3[/math]"
+        },
+        "question": "[math]9x^2y^3 \\div 3xy =[/math] কত?",
+        "solution": "[math]9/3 = 3[/math]\u003Cbr\u003E, [math]x^2/x = x[/math]\u003Cbr\u003E, [math]y^3/y = y^2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487192,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487191,
+      "value": {
+        "options": {
+          "A": "[math]x + 1[/math]",
+          "B": "[math]x - 1[/math]",
+          "C": "[math]x^2 + 1[/math]",
+          "D": "[math]x^2 - 1[/math]"
+        },
+        "question": "[math](x^2 - 1) \\div (x - 1) =[/math] কত?",
+        "solution": "[math]x^2 - 1 = (x + 1)(x - 1)[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487191,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487190,
+      "value": {
+        "options": {
+          "A": "[math]2x^2y[/math]",
+          "B": "[math]6x^2y[/math]",
+          "C": "[math]2x^2[/math]",
+          "D": "[math]2xy[/math]"
+        },
+        "question": "[math]4x^2y - 2x^2y =[/math] কত?",
+        "solution": "একই পদ → [math]4 - 2 = 2[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487190,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487189,
+      "value": {
+        "options": {
+          "A": "[math]x^2[/math]",
+          "B": "[math]x^8[/math]",
+          "C": "[math]x^1[/math]",
+          "D": "[math]x^3[/math]"
+        },
+        "question": "[math]x^5 \\div x^3 =[/math] কত?",
+        "solution": "[math]x^{5-3} = x^2[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487189,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487188,
+      "value": {
+        "options": {
+          "A": "[math]a^3b^4[/math]",
+          "B": "[math]ab^2[/math]",
+          "C": "[math]a^2b^2[/math]",
+          "D": "[math]ab^3[/math]"
+        },
+        "question": "[math]a^2b^3 \\div ab =[/math] কত?",
+        "solution": "[math]a^{2-1} = a[/math]\u003Cbr\u003E, [math]b^{3-1} = b^2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487188,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487187,
+      "value": {
+        "options": {
+          "A": "[math]x^2 - 3x - 10[/math]",
+          "B": "[math]x^2 - 3x + 10[/math]",
+          "C": "[math]x^2 - x - 10[/math]",
+          "D": "[math]x^2 - 10x + 10[/math]"
+        },
+        "question": "[math](x + 2)(x - 5) =[/math] কত?",
+        "solution": "[math]x^2 - 5x + 2x - 10 = x^2 - 3x - 10[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487187,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487186,
+      "value": {
+        "options": {
+          "A": "[math]2x^2y[/math]",
+          "B": "[math]2xy^2[/math]",
+          "C": "[math]2x^2y^2[/math]",
+          "D": "[math]2x^2[/math]"
+        },
+        "question": "[math]6x^3y^2 \\div 3xy =[/math] কত?",
+        "solution": "সহগ: 6/3 = 2, [math]x^{3-1} = x^2[/math]\u003Cbr\u003E, [math]y^{2-1} = y[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487186,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487185,
+      "value": {
+        "options": {
+          "ক": "[math]x + 2[/math]",
+          "খ": "[math]x - 2[/math]",
+          "গ": "[math]x + 4[/math]",
+          "ঘ": "[math]x^2 - 2[/math]"
+        },
+        "question": "[math]x^2 - 4[/math] কে [math](x - 2)[/math] দ্বারা ভাগ করলে ভাগফল —",
+        "solution": "[math]x^2 - 4 = (x + 2)(x - 2)[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487185,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487193,
+      "value": {
+        "options": {
+          "ক": "[math]ab(a + b)[/math]",
+          "খ": "[math]ab^2(a + b)[/math]",
+          "গ": "[math]a^2b^2[/math]",
+          "ঘ": "[math]a + b[/math]"
+        },
+        "question": "[math]a^2b + ab^2 =[/math] কত সাধারণ গুণক বের করলে?",
+        "solution": "[math]ab[/math]\u003Cbr\u003E সাধারণ গুণক → [math]ab(a + b)[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487193,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487183,
+      "value": {
+        "options": {
+          "A": "[math]x^4[/math]",
+          "B": "[math]x^2 + x[/math]",
+          "C": "[math]x^2 + x[/math]",
+          "D": "[math]x^2 + 1[/math]"
+        },
+        "question": "[math](x^3 + x^2) \\div x =[/math] কত?",
+        "solution": "[math]x^3 \\div x = x^2[/math]\u003Cbr\u003E, [math]x^2 \\div x = x[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487183,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487182,
+      "value": {
+        "options": {
+          "A": "[math]a^2b[/math]",
+          "B": "[math]ab^2[/math]",
+          "C": "[math]a^3b[/math]",
+          "D": "[math]a^2b^2[/math]"
+        },
+        "question": "[math]a^3b^2 \\div ab =[/math] কত?",
+        "solution": "[math]a^{3-1}b^{2-1} = a^2b[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487182,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487181,
+      "value": {
+        "options": {
+          "A": "[math]x^2 + 1[/math]",
+          "B": "[math]x^2 - 1[/math]",
+          "C": "[math]x^2 - 2x + 1[/math]",
+          "D": "[math]x^2[/math]"
+        },
+        "question": "[math](x - 1)(x + 1) =[/math] কত?",
+        "solution": "[math](x - 1)(x + 1) = x^2 - 1[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487181,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487180,
+      "value": {
+        "options": {
+          "A": "[math]a^3[/math]",
+          "B": "[math]a^7[/math]",
+          "C": "[math]a^2[/math]",
+          "D": "[math]a^4[/math]"
+        },
+        "question": "[math]a^5 \\div a^2 =[/math] কত?",
+        "solution": "[math]a^{5-2} = a^3[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487180,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487179,
+      "value": {
+        "options": {
+          "ক": "[math]0[/math]",
+          "খ": "[math]1[/math]",
+          "গ": "[math]x[/math]",
+          "ঘ": "[math]x^1[/math]"
+        },
+        "question": "[math]x^0 =[/math] কত? (যদি [math]x \\ne 0[/math])",
+        "solution": "যেকোনো অশূন্য সংখ্যার ঘাত [math]০[/math]\u003Cbr\u003E হলে মান [math]১[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487179,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487178,
+      "value": {
+        "options": {
+          "A": "[math]6x^6[/math]",
+          "B": "[math]6x^5[/math]",
+          "C": "[math]5x^5[/math]",
+          "D": "[math]5x^6[/math]"
+        },
+        "question": "[math](2x^2)(3x^3) =[/math] কত?",
+        "solution": "[math]2×3 = 6[/math]\u003Cbr\u003E, [math]x^2 × x^3 = x^5[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487178,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487177,
+      "value": {
+        "options": {
+          "A": "[math]x^2[/math]",
+          "B": "[math]x^8[/math]",
+          "C": "[math]x^6[/math]",
+          "D": "[math]x^3[/math]"
+        },
+        "question": "[math]x^4 \\div x^2 =[/math] কত?",
+        "solution": "[math]x^{4-2} = x^2[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487177,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487201,
+      "value": {
+        "options": {
+          "A": "[math]-4x^3yz[/math]",
+          "B": "[math]4x^3z[/math]",
+          "C": "[math]4x^2y^2z[/math]",
+          "D": "[math]-4x^2z[/math]"
+        },
+        "question": "[math]-12x^5y^2z^2 \\div -3x^2y^2z =[/math] কত?",
+        "solution": "সহগ: [math]-12 \\div -3 = 4[/math]\u003Cbr\u003E; ঘাত: [math]x^{5-2} = x^3[/math]\u003Cbr\u003E, [math]y^2 \\div y^2 = 1[/math]\u003Cbr\u003E, [math]z^2 \\div z = z[/math]\u003Cbr\u003E → [math]4x^3z[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487201,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487209,
+      "value": {
+        "options": {
+          "A": "[math]n + 3[/math]",
+          "B": "[math]n - 3[/math]",
+          "C": "[math]n^2 - 6[/math]",
+          "D": "[math]3n[/math]"
+        },
+        "question": "[math](n^2 - 9) \\div (n - 3) =[/math] কত?",
+        "solution": "[math]n^2 - 9 = (n + 3)(n - 3)[/math]\u003Cbr\u003E → ভাগফল [math]n + 3[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487209,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487208,
+      "value": {
+        "options": {
+          "A": "[math]x - 2[/math]",
+          "B": "[math]x + 2[/math]",
+          "C": "[math]x^2 + 4[/math]",
+          "D": "[math]2x[/math]"
+        },
+        "question": "[math](x^2 - 4) \\div (x - 2) =[/math] কত?",
+        "solution": "[math]x^2 - 4 = (x + 2)(x - 2)[/math]\u003Cbr\u003E → ভাগফল [math]x + 2[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487208,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487207,
+      "value": {
+        "options": {
+          "A": "[math]a - 1[/math]",
+          "B": "[math]a + 1[/math]",
+          "C": "[math]a^2 + 1[/math]",
+          "D": "[math]1[/math]"
+        },
+        "question": "[math](a^2 - 1) \\div (a - 1) =[/math] কত?",
+        "solution": "[math]a^2 - 1 = (a + 1)(a - 1)[/math]\u003Cbr\u003E → ভাগফল [math]a + 1[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487207,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487206,
+      "value": {
+        "options": {
+          "A": "[math]x + 1[/math]",
+          "B": "[math]x^2 + 1[/math]",
+          "C": "[math]x - 1[/math]",
+          "D": "[math]x^2 - 1[/math]"
+        },
+        "question": "[math](x^2 - 1) \\div (x + 1) =[/math] কত?",
+        "solution": "[math]x^2 - 1[/math]\u003Cbr\u003E হচ্ছে [math](x + 1)(x - 1)[/math]\u003Cbr\u003E → [math][(x + 1)(x - 1)] \\div (x + 1) = x - 1[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487206,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487205,
+      "value": {
+        "options": {
+          "A": "[math]-4x^3y^3[/math]",
+          "B": "[math]4x^4y^2[/math]",
+          "C": "[math]-4x^4y^2[/math]",
+          "D": "[math]-4x^6y[/math]"
+        },
+        "question": "[math]-20x^6y^3 \\div 5x^2y =[/math] কত?",
+        "solution": "[math]-20 \\div 5 = -4[/math]\u003Cbr\u003E, [math]x^6 \\div x^2 = x^4[/math]\u003Cbr\u003E, [math]y^3 \\div y = y^2[/math]\u003Cbr\u003E → [math]-4x^4y^2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487205,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487204,
+      "value": {
+        "options": {
+          "A": "[math]a + b + c[/math]",
+          "B": "[math]\\dfrac{a + b + c}{a}[/math]",
+          "C": "[math]1 + \\dfrac{b}{a} + \\dfrac{c}{a}[/math]",
+          "D": "[math]\\dfrac{1}{a} + b + c[/math]"
+        },
+        "question": "[math](a + b + c) \\div a =[/math] কত?",
+        "solution": "ভাগের মান: প্রতিটি পদকে আলাদা ভাগ করতে হয় → [math]\\dfrac{a}{a} + \\dfrac{b}{a} + \\dfrac{c}{a} = 1 + \\dfrac{b}{a} + \\dfrac{c}{a}[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487204,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487203,
+      "value": {
+        "options": {
+          "A": "[math]x^2yz[/math]",
+          "B": "[math]x^3y^2z[/math]",
+          "C": "[math]xy^2z[/math]",
+          "D": "[math]x^2y^2z^2[/math]"
+        },
+        "question": "[math]x^4y^2z \\div x^2y =[/math] কত?",
+        "solution": "[math]x^4 \\div x^2 = x^2[/math]\u003Cbr\u003E, [math]y^2 \\div y = y[/math]\u003Cbr\u003E, [math]z[/math]\u003Cbr\u003E থাকে → [math]x^2yz[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487203,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487202,
+      "value": {
+        "options": {
+          "A": "[math]2a^2b^2[/math]",
+          "B": "[math]3a^2b^2[/math]",
+          "C": "[math]3a^2b[/math]",
+          "D": "[math]a^2b^2[/math]"
+        },
+        "question": "[math]18a^4b^3 \\div 6a^2b =[/math] কত?",
+        "solution": "[math]18 \\div 6 = 3[/math]\u003Cbr\u003E, [math]a^4 \\div a^2 = a^2[/math]\u003Cbr\u003E, [math]b^3 \\div b = b^2[/math]\u003Cbr\u003E → [math]3a^2b^2[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487202,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487176,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii",
+          "গ": "i ও ii",
+          "ঘ": "i ও iii"
+        },
+        "question": "[math]2a^4 - 3a^3 + 6a^2 - 5a + 8[/math] একটি বহুপদী রাশি —\n\ni. রাশিটির চালক [math]a[/math]\n\nii. বহুপদীর মান 5\n\niii. [math]a^3[/math] এর সংখ্যা 3\n\nনিচের কোনটি সঠিক?",
+        "solution": "৫টি পদ, চালক [math]a[/math]\u003Cbr\u003E, [math]a^3[/math]\u003Cbr\u003E এর সহগ [math]-3[/math]\u003Cbr\u003E (সংখ্যা 3 নয়)। তাই i ও ii সঠিক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487176,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487200,
+      "value": {
+        "options": {
+          "A": "[math]m^9[/math]",
+          "B": "[math]m^5[/math]",
+          "C": "[math]m^2[/math]",
+          "D": "[math]m^1[/math]"
+        },
+        "question": "[math]m^7 \\div m^2 =[/math] কত?",
+        "solution": "[math]m^{7-2} = m^5[/math]।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487200,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487199,
+      "value": {
+        "options": {
+          "A": "[math]x^5[/math]",
+          "B": "[math]5x[/math]",
+          "C": "[math]x[/math]",
+          "D": "[math]1[/math]"
+        },
+        "question": "[math]x^5 \\div x^5 =[/math] কত?",
+        "solution": "[math]x^{5-5} = x^0 = 1[/math]\u003Cbr\u003E (যদি [math]x \\ne 0[/math]\u003Cbr\u003E)।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487199,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487198,
+      "value": {
+        "options": {
+          "ক": "[math]0[/math]",
+          "খ": "[math]a[/math]",
+          "গ": "[math]1[/math]",
+          "ঘ": "[math]a^1[/math]"
+        },
+        "question": "[math]a^0 =[/math] কত, যদি [math]a \\ne 0[/math]?",
+        "solution": "কোনো অশূন্য সংখ্যার ঘাত শূন্য হলে মান হয় ১।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487198,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487197,
+      "value": {
+        "options": {
+          "A": "[math]x^9[/math]",
+          "B": "[math]x^3[/math]",
+          "C": "[math]x^2[/math]",
+          "D": "[math]x^6[/math]"
+        },
+        "question": "[math]x^6 \\div x^3 =[/math] কত?",
+        "solution": "সূচক বিয়োগ: [math]x^6 \\div x^3 = x^{6-3} = x^3[/math]।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487197,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487196,
+      "value": {
+        "options": {
+          "A": "[math]a^2[/math]",
+          "B": "[math]a^3[/math]",
+          "C": "[math]a^7[/math]",
+          "D": "[math]a^{10}[/math]"
+        },
+        "question": "[math]a^5 \\div a^2 =[/math] কত?",
+        "solution": "সূচক নিয়ম অনুযায়ী: [math]a^5 \\div a^2 = a^{5-2} = a^3[/math]।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487196,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487195,
+      "value": {
+        "options": {
+          "A": "[math]-6x^5[/math]",
+          "B": "[math]6x^6[/math]",
+          "C": "[math]-5x^5[/math]",
+          "D": "[math]-6x^6[/math]"
+        },
+        "question": "[math](2x^2)(-3x^3) =[/math] কত?",
+        "solution": "[math]2×(-3) = -6[/math]\u003Cbr\u003E, [math]x^2×x^3 = x^5[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487195,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 487194,
+      "value": {
+        "options": {
+          "A": "[math]x + 3[/math]",
+          "B": "[math]x + 2[/math]",
+          "C": "[math]x + 4[/math]",
+          "D": "[math]x + 1[/math]"
+        },
+        "question": "[math](x^2 + 4x + 3) \\div (x + 1) =[/math] কত?",
+        "solution": "গুণফল: [math](x + 1)(x + 3) = x^2 + 4x + 3[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7754,
+      "created_at": "2025-08-21T09:50:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 487194,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:50:12.000000Z",
+            "updated_at": "2025-08-21T09:50:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7756&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7756&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7754&grade=3&lesson=7756&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 69,
+  "total": 69
+}

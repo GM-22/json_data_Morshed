@@ -1,0 +1,979 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 766812,
+      "value": {
+        "options": {
+          "ক": "জিংক",
+          "খ": "টিন",
+          "গ": "লেড",
+          "ঘ": "কপার"
+        },
+        "question": "একটি ধাতব পদার্থকে ক্ষয় হতে বাঁচাতে কোন উপাদানের তৈরি সামগ্রী তুমি বেছে নিবে?",
+        "solution": "ক. জিংক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766812,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766821,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্টেইনলেস স্টিলের উপাদান-\u003Cbr\u003E\ni. নিকেল&nbsp;\u003Cbr\u003E\nii. হাইড্রোজেন&nbsp;\u003Cbr\u003E\niii. ক্রোমিয়াম&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766821,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766821,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766820,
+      "value": {
+        "options": {
+          "ক": "গ্যালভানাইজেশন",
+          "খ": "পেইন্টিং",
+          "গ": "ইলেকট্রোপ্লেটিং",
+          "ঘ": "বর্তনী"
+        },
+        "question": "ধাতব পদার্থসমূহের ক্ষয়রোধ করা যায় কিসের মাধ্যমে?",
+        "solution": "খ. পেইন্টিং",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 4,
+          "name": "দক্ষতা",
+          "pivot": {
+            "question_bank_id": 766820,
+            "question_bank_label_id": 4
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766819,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রোপ্লেটিং",
+          "খ": "গ্যালভানাইজিং",
+          "গ": "ডায়িং",
+          "ঘ": "পেইন্টিং"
+        },
+        "question": "লোহার উপর দস্তার পাতলা আবরণ দেওয়াকে কী বলে?",
+        "solution": "খ. গ্যালভানাইজিং",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766819,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766818,
+      "value": {
+        "options": {
+          "ক": "ক্ষয়রোধ করার জন্য",
+          "খ": "মজবুত করার জন্য",
+          "গ": "টেকসই করার জন্য",
+          "ঘ": "আকর্ষণীয় করার জন্য"
+        },
+        "question": "স্টিলের আলমারিতে পেইন্ট দেওয়া থাকে কেন?",
+        "solution": "ক. ক্ষয়রোধ করার জন্য",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766818,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766817,
+      "value": {
+        "options": {
+          "ক": "ইলেকট্রোপ্লেটিং",
+          "খ": "পেইন্টিং",
+          "গ": "গ্যালভানাইডিং",
+          "ঘ": "ইলেকট্রোটাইপিং"
+        },
+        "question": "তড়িৎ বিশ্লেষণের সাহায্যে একটি ধাতুর উপর আরেকটি ধাতুর পাতলা আবরণ তৈরির প্রক্রিয়াকে কী বলে?",
+        "solution": "ক. ইলেকট্রোপ্লেটিং",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766817,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766816,
+      "value": {
+        "options": {
+          "ক": "ধাতব",
+          "খ": "অধাতব",
+          "গ": "মসৃণ",
+          "ঘ": "ভৌত মসৃণ"
+        },
+        "question": "মরিচা সাধারণত কোন ধরনের পদার্থে হয়ে থাকে?",
+        "solution": "ক. ধাতব",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766816,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766815,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "মরিচা প্রতিরোধে ব্যবহৃত হয়-\u003Cbr\u003E\ni. গ্যালভানাইজিং&nbsp;\u003Cbr\u003E\nii. পেইন্টিং&nbsp;\u003Cbr\u003E\niii. ইলেকট্রোপ্লেটিং&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766815,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766815,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766814,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "গ্যালভানাইজিং এ ব্যবহৃত হয়-\u003Cbr\u003E\ni. দস্তা&nbsp;\u003Cbr\u003E\nii. তামা&nbsp;\u003Cbr\u003E\niii. টিন&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?&nbsp;",
+        "solution": "খ. i ও iii",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766814,
+            "question_bank_special_filter_id": 3
+          }
+        }
+      ]
+    },
+    {
+      "id": 766813,
+      "value": {
+        "options": {
+          "ক": "গ্যালভানাইজিং",
+          "খ": "পেইন্টিং",
+          "গ": "ইলেকট্রোপ্লেটিং",
+          "ঘ": "স্ফুটন"
+        },
+        "question": "কোনটির মাধ্যমে ধাতুর ক্ষয়রোধ করা অসম্ভব?",
+        "solution": "ঘ. স্ফুটন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766813,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766803,
+      "value": {
+        "options": {
+          "ক": "ক্ষয়",
+          "খ": "অক্সিজেন",
+          "গ": "পানি",
+          "ঘ": "জলীয় বাষ্প"
+        },
+        "question": "লোহায় গ্যালভানাইজিং করা হলে লোহা কী থেকে রক্ষা পায়?",
+        "solution": "ক. ক্ষয়",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766803,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766811,
+      "value": {
+        "options": {
+          "ক": "আয়রন",
+          "খ": "গোল্ড",
+          "গ": "জিংক",
+          "ঘ": "প্লাটিনাম"
+        },
+        "question": "আমাদের ব্যবহৃত জিনিসের মধ্যে কোনটির ব্যবহার বেশি?",
+        "solution": "ক. আয়রন",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766811,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766810,
+      "value": {
+        "options": {
+          "ক": "হাইড্রোজেন",
+          "খ": "অক্সিজেন",
+          "গ": "কপার",
+          "ঘ": "কার্বন"
+        },
+        "question": "স্টেইনলেস স্টিলের উপাদান কোনটি?",
+        "solution": "ঘ. কার্বন",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766810,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766809,
+      "value": {
+        "options": {
+          "ক": "লোহা + কার্বন + নিকেল + ক্রোমিয়াম",
+          "খ": "কার্বন + নিকেল + ক্রোমিয়াম",
+          "গ": "লোহা + কার্বন + নিকেল",
+          "ঘ": "লোহা + নিকেল + ক্রোমিয়াম"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746761082746_1764561178_Xpt2ADB6.webp\"\u003Eচিত্রের চামচটি কী দ্বারা তৈরি হয়?",
+        "solution": "ক. লোহা + কার্বন + নিকেল + ক্রোমিয়াম",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766809,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 766809,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766809,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766808,
+      "value": {
+        "options": {
+          "ক": "লোহা",
+          "খ": "প্লাটিনাম",
+          "গ": "নিকেল",
+          "ঘ": "প্লাটিনাম"
+        },
+        "question": "গ্যালভানাইজিং করা হয় কোন জিনিসে?",
+        "solution": "ক. লোহা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 2,
+          "name": "অনুধাবন",
+          "pivot": {
+            "question_bank_id": 766808,
+            "question_bank_label_id": 2
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766807,
+      "value": {
+        "options": {
+          "ক": "লোহা",
+          "খ": "নিকেল",
+          "গ": "ক্রোমিয়াম",
+          "ঘ": "কার্বন"
+        },
+        "question": "স্টেইনলেস স্টীলের প্রধান উপাদান কোনটি?",
+        "solution": "ক. লোহা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766807,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766806,
+      "value": {
+        "options": {
+          "ক": "ধাতব পদার্থ",
+          "খ": "মূল্যবান রত্ন",
+          "গ": "এক ধরনের ধাতু মিশ্রণ",
+          "ঘ": "দ্রাবক"
+        },
+        "question": "স্টেইনলেস স্টিল কী?",
+        "solution": "গ. এক ধরনের ধাতু মিশ্রণ",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 1,
+          "name": "জ্ঞান",
+          "pivot": {
+            "question_bank_id": 766806,
+            "question_bank_label_id": 1
+          }
+        }
+      ],
+      "special_filters": []
+    },
+    {
+      "id": 766805,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1746761082746_1764561178_0un4FUGf.webp\"\u003Eচামচে মরিচা না পড়ার কারণ-\u003Cbr\u003E\ni. এটি পানির সাথে বিক্রিয়া করে না&nbsp;\u003Cbr\u003E\nii. এটি অক্সিজেনের সাথে বিক্রিয়া করে না&nbsp;\u003Cbr\u003E\niii. এটি ক্ষয় হয় না&nbsp;\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": [
+        {
+          "id": 2,
+          "name": "চিত্রযুক্ত",
+          "pivot": {
+            "question_bank_id": 766805,
+            "question_bank_special_filter_id": 2
+          }
+        },
+        {
+          "id": 3,
+          "name": "বহুপদী",
+          "pivot": {
+            "question_bank_id": 766805,
+            "question_bank_special_filter_id": 3
+          }
+        },
+        {
+          "id": 4,
+          "name": "অভিন্ন তথ্যভিত্তিক",
+          "pivot": {
+            "question_bank_id": 766805,
+            "question_bank_special_filter_id": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": 766804,
+      "value": {
+        "options": {
+          "ক": "মরিচা",
+          "খ": "রং",
+          "গ": "অন্য দ্রবণ",
+          "ঘ": "আরেকটি পদার্থ"
+        },
+        "question": "রিতা একখণ্ড লোহা বাইরে রাখল। কয়েকদিন পর দেখতে পেল এর উপর একধরনের প্রলেপ পড়েছে। প্রলেপটি কী?",
+        "solution": "ক. মরিচা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 44,
+      "book_grade_id": 3,
+      "content_chunk_id": 7832,
+      "created_at": "2025-12-01T03:52:58.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 44,
+        "title": "বিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [
+        {
+          "id": 3,
+          "name": "প্রয়োগ",
+          "pivot": {
+            "question_bank_id": 766804,
+            "question_bank_label_id": 3
+          }
+        }
+      ],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7832&grade=3&lesson=14273&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7832&grade=3&lesson=14273&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7832&grade=3&lesson=14273&question_paper_id=47300&subject=44&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 19,
+  "total": 19
+}

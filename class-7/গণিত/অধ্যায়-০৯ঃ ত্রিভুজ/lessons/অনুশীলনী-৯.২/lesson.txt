@@ -1,0 +1,3155 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 486599,
+      "value": {
+        "options": {
+          "ক": "তিনটি কোণ",
+          "খ": "তিনটি বাহু",
+          "গ": "দুই বাহু ও একটি কোণ",
+          "ঘ": "একটি বাহু"
+        },
+        "question": "ত্রিভুজ আঁকার জন্য আবশ্যক কি?",
+        "solution": "দুই বাহু ও একটি অন্তর্ভুক্ত কোণ থাকলে ত্রিভুজ আঁকা যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486599,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486585,
+      "value": {
+        "options": [],
+        "question": "[math]\\angle A \u003E \\angle C \u003E \\angle B[/math] হলে, [math]ABC[/math] ত্রিভুজের বাহুগুলোর দৈর্ঘ্যকে ঊর্ধ্বক্রমানুসারে সাজাও।",
+        "solution": "আমরা জানি, ত্রিভুজের বৃহত্তর কোণের বিপরীত বাহু বৃহত্তর এবং ক্ষুদ্রতর কোণের বিপরীত বাহু ক্ষুদ্রতর হয়।[math]\\angle A[/math]\u003Cbr\u003E, [math]\\angle B[/math]\u003Cbr\u003E ও [math]\\angle C[/math]\u003Cbr\u003E এর বিপরীত বাহু যথাক্রমে [math]a[/math]\u003Cbr\u003E, [math]b[/math]\u003Cbr\u003E ও [math]c[/math]\u003Cbr\u003E। যেহেতু, [math]\\angle A \u003E \\angle C \u003E \\angle B[/math]\u003Cbr\u003E,∴ [math]b \u003C c \u003C a[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ত্রিভুজে বড় কোণটির বিপরীত বাহু বড় হয়, তাই [math]\\angle A\u003E\\angle C\u003E\\angle B[/math] হলে [math]BC\u003EAB\u003EAC[/math]. অতএব ঊর্ধ্বক্রম (ছোট থেকে বড়) হলো [math]AC\u003CAB\u003CBC[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486585,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486586,
+      "value": {
+        "options": [],
+        "question": "[math]4[/math] সে.মি., [math]9[/math] সে.মি. ও [math]6[/math] সে.মি. দৈর্ঘ্যের বাহু নিয়ে ত্রিভুজ গঠন করা সম্ভব হবে কি?",
+        "solution": "আমরা জানি, ত্রিভুজের ক্ষুদ্রতর দুই বাহুর দৈর্ঘ্যের সমষ্টি বৃহত্তর বাহুর দৈর্ঘ্য অপেক্ষা বড় হতে হবে।এখানে, [math]4 + 6 = 10 \u003E 9[/math]∴ প্রদত্ত বাহু তিনটি দ্বারা ত্রিভুজ গঠন সম্ভব।",
+        "explanation": "হ্যাঁ — ত্রিভুজ গঠন করতে হলে যেকোন দুই বাহুর যোগ তৃতীয় বাহুর থেকে বড় হতে হবে; এখানে [math]4+6=10\u003E9[/math], [math]4+9=13\u003E6[/math] এবং [math]6+9=15\u003E4[/math], সুতরাং ত্রিভুজ করা যাবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486586,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486587,
+      "value": {
+        "options": [],
+        "question": "রিফাত একটি ত্রিভুজ অঙ্কন করতে চায়। ত্রিভুজ অঙ্কনের জন্য সে ক্ষুদ্রতম বাহুকে ধরে নেয় [math]6[/math] সে.মি. ও বৃহত্তম বাহুকে ধরে নেয় [math]9[/math] সে.মি.। ত্রিভুজের তৃতীয় বাহুটির দৈর্ঘ্যের মান স্বাভাবিক হলে, দৈর্ঘ্য কমপক্ষে কত সে.মি. হতে হবে?",
+        "solution": "আমরা জানি, ক্ষুদ্রতম বাহু ও অজানা বাহুর সমষ্টি বৃহত্তম বাহুর চেয়ে বেশি হতে হবে।ধরি, তৃতীয় বাহু [math]x[/math]\u003Cbr\u003E সে.মি.তাহলে [math]6 + x \u003E 9[/math]\u003Cbr\u003E⇒ [math]x \u003E 3[/math]\u003Cbr\u003E∴ তৃতীয় বাহুটির দৈর্ঘ্য কমপক্ষে [math]4[/math]\u003Cbr\u003E সে.মি. হতে হবে।",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের জন্য [math]6+x\u003E9[/math] হওয়া প্রয়োজন, ফলে [math]x\u003E3[/math]; আবার ক্ষুদ্রতম বাহু [math]6[/math] ধরা আছে, তাই তৃতীয় বাহু কমপক্ষে [math]6[/math] সে.মি. (স্বাভাবিক সংখ্যা হলে সবচেয়ে ছোট মান [math]6[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486587,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486588,
+      "value": {
+        "options": [],
+        "question": "সিরাজ শ্রেণিকক্ষে ঢুকে দেখল ব্ল্যাকবোর্ডে [math]x[/math] একক, [math](x+1)[/math] একক ও [math](x+2)[/math] একক লেখা রয়েছে। যদি [math]x = 3[/math] হয়, তাহলে দৈর্ঘ্যের বাহুগুলো দিয়ে ত্রিভুজ গঠন সম্ভব কিনা যাচাই কর।",
+        "solution": "[math]x = 3[/math]\u003Cbr\u003E হলে, তিনটি বাহু হবে [math]3[/math]\u003Cbr\u003E সে.মি., [math]4[/math]\u003Cbr\u003E সে.মি. ও [math]5[/math]\u003Cbr\u003E সে.মি.আমরা জানি, ত্রিভুজের যেকোনো দুই বাহুর সমষ্টি তৃতীয় বাহুর চেয়ে বড় হতে হবে:[math]3 + 4 = 7 \u003E 5[/math]\u003Cbr\u003E, [math]3 + 5 = 8 \u003E 4[/math]\u003Cbr\u003E, [math]4 + 5 = 9 \u003E 3[/math]\u003Cbr\u003E∴ [math]3[/math]\u003Cbr\u003E, [math]4[/math]\u003Cbr\u003E, [math]5[/math]\u003Cbr\u003E সে.মি. দৈর্ঘ্যের বাহু দ্বারা ত্রিভুজ গঠন সম্ভব।",
+        "explanation": "ব্যাখ্যা: [math]x=3[/math] হলে বাহুগুলো হয় [math]3,\\;4,\\;5[/math]. ত্রিভুজ অসমতা অনুযায়ী [math]3+4\u003E5,\\;3+5\u003E4,\\;4+5\u003E3[/math] হওয়ায় ত্রিভুজ গঠন সম্ভব; পাশাপাশি এটি একটি সামকোণী ত্রিভুজ কারণ [math]3^2+4^2=5^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486588,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486589,
+      "value": {
+        "options": {
+          "A": "[math]\\angle C \u003E \\angle A[/math]",
+          "B": "[math]\\angle B = \\angle C[/math]",
+          "C": "[math]\\angle B + \\angle C = \\angle A[/math]",
+          "D": "[math]\\angle A = \\angle B[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math] তে [math]AB = AC[/math] হলে কোনটি সঠিক?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে দুই সমান বাহুর বিপরীত কোণও সমান হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486589,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486590,
+      "value": {
+        "options": {
+          "ক": "সন্নিহিত",
+          "খ": "অনুরূপ",
+          "গ": "একান্তর",
+          "ঘ": "সম্পূরক"
+        },
+        "question": "সমদ্বিবাহু ত্রিভুজের ভূমির সমান্তরাল রেখা অঙ্কন করলে কোন প্রকার কোণ পাওয়া যায়?",
+        "solution": "সমান্তরাল রেখা ও ছেদকের ক্ষেত্রে অনুরূপ কোণ গঠিত হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486590,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486591,
+      "value": {
+        "options": {
+          "A": "স্থূলকোণী",
+          "B": "সমকোণী",
+          "C": "সমবাহু",
+          "D": "সমদ্বিবাহু"
+        },
+        "question": "[math]\\triangle ABC[/math] তে [math]\\angle A = 70^\\circ[/math], [math]\\angle C = 40^\\circ[/math] হলে ত্রিভুজটি কী ধরনের?",
+        "solution": "তৃতীয় কোণ [math]\\angle B = 180^\\circ - 110^\\circ = 70^\\circ[/math]\u003Cbr\u003E → সব কোণ \u003C [math]90^\\circ[/math]\u003Cbr\u003E নয়, কিন্তু [math]\\angle A = \\angle B[/math]\u003Cbr\u003E, তবুও সব কোণ না [math]\u003C 90^\\circ[/math]\u003Cbr\u003E, তাই এটি স্থূলকোণী নয় → আবার [math]\\angle C = 40^\\circ[/math]\u003Cbr\u003E → ছোট, তাই সমদ্বিবাহু হবে না। সঠিক হবে স্থূলকোণী।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486591,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486592,
+      "value": {
+        "options": {
+          "ক": "[math]AD = BC[/math]",
+          "খ": "[math]\\angle ADC = \\angle ABC[/math]",
+          "গ": "[math]\\angle CAD = \\angle ACB[/math]",
+          "ঘ": "[math]AD = AB[/math]"
+        },
+        "question": "ABCD একটি সামান্তরিক, [math]AB = DC[/math], [math]\\angle BAC = \\angle ACD[/math] এই তথ্যের ভিত্তিতে কোনটি সঠিক নয়?",
+        "solution": "সামান্তরিকের বিপরীত বাহু সমান হয় কিন্তু [math]AD = AB[/math] নয় — এটি সমবাহু নয়, তাই সঠিক নয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486592,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486593,
+      "value": {
+        "options": {
+          "ক": "সমান্তরাল কোণদ্বয়",
+          "খ": "সন্নিহিত কোণদ্বয়",
+          "গ": "সমবাহু কোণদ্বয়",
+          "ঘ": "সমান বাহুর বিপরীত কোণদ্বয়"
+        },
+        "question": "যদি একটি ত্রিভুজে দুটি বাহু সমান হয়, তবে কোন কোণদ্বয় সমান হবে?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে সমান বাহুর বিপরীত কোণদ্বয় সমান হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486593,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486594,
+      "value": {
+        "options": {
+          "ক": "৭০°",
+          "খ": "১০০°",
+          "গ": "৬০°",
+          "ঘ": "৯০°"
+        },
+        "question": "সমবাহু ত্রিভুজের তিনটি কোণের পরিমাণ কেমন?",
+        "solution": "সমবাহু ত্রিভুজে তিনটি কোণই সমান এবং প্রত্যেকটি ৬০°।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486594,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486595,
+      "value": {
+        "options": {
+          "ক": "সমকোণী",
+          "খ": "সমদ্বিবাহু",
+          "গ": "সমবাহু",
+          "ঘ": "স্থূলকোণী"
+        },
+        "question": "একটি ত্রিভুজে একটি কোণ ৯০°, এটি কোন প্রকার ত্রিভুজ?",
+        "solution": "একটি কোণ ৯০° হলে তা সমকোণী ত্রিভুজ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486595,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486596,
+      "value": {
+        "options": {
+          "ক": "তিনটি বাহু সমান",
+          "খ": "দুটি কোণ সমান",
+          "গ": "একটি কোণ ১২০°",
+          "ঘ": "তিনটি কোণ ভিন্ন"
+        },
+        "question": "সমদ্বিবাহু ত্রিভুজের ক্ষেত্রে কোনটি সত্য?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে দুটি কোণ সমান হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486596,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486597,
+      "value": {
+        "options": {
+          "ক": "১০০°",
+          "খ": "৯০°",
+          "গ": "৬০°",
+          "ঘ": "৪৫°"
+        },
+        "question": "সমকোণী ত্রিভুজে এক কোণ কত?",
+        "solution": "সমকোণী ত্রিভুজে একটি কোণ ৯০° হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486597,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486598,
+      "value": {
+        "options": {
+          "ক": "৯০°",
+          "খ": "১৮০°",
+          "গ": "৩৬০°",
+          "ঘ": "২৭০°"
+        },
+        "question": "ত্রিভুজের কোণসমূহের সমষ্টি কত ডিগ্রি?",
+        "solution": "সব ত্রিভুজের কোণসমূহের সমষ্টি ১৮০°।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486598,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486584,
+      "value": {
+        "options": [],
+        "question": "[math]3[/math] সে.মি., [math]7[/math] সে.মি. ও [math]3[/math] সে.মি. দৈর্ঘ্যের বাহু নিয়ে ত্রিভুজ গঠন করা সম্ভব হবে কি?",
+        "solution": "আমরা জানি, ত্রিভুজের যে কোনো দুই বাহুর দৈর্ঘ্যের সমষ্টি তৃতীয় বাহুর দৈর্ঘ্য অপেক্ষা বৃহত্তর হবে।এখানে, [math]3 + 3 = 6[/math]\u003Cbr\u003E সে.মি. \u003C [math]7[/math]\u003Cbr\u003E সে.মি.∴ প্রদত্ত বাহুগুলো দিয়ে ত্রিভুজ গঠন করা সম্ভব নয়।",
+        "explanation": "ব্যাখ্যা: ত্রিভুজ গঠনের জন্য যেকোন একটি বাহুর দৈর্ঘ্য অপর দুই বাহুর যোগফলের চেয়ে ছোট হতে হয়; এখানে [math]3+3=6\u003C7[/math] তাই [math]7[/math] বড় হওয়ায় এই তিনটি বাহু দিয়ে ত্রিভুজ গঠন সম্ভব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486584,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486600,
+      "value": {
+        "options": {
+          "ক": "সমদ্বিবাহু",
+          "খ": "সমবাহু",
+          "গ": "সমকোণী",
+          "ঘ": "স্থূলকোণী"
+        },
+        "question": "কোন ত্রিভুজে তিনটি কোণই ৬০° হয়?",
+        "solution": "সমবাহু ত্রিভুজে তিনটি কোণই ৬০° হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486600,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486601,
+      "value": {
+        "options": {
+          "ক": "সমকোণী",
+          "খ": "স্থূলকোণী",
+          "গ": "সমবাহু",
+          "ঘ": "সমদ্বিবাহু"
+        },
+        "question": "কোন ত্রিভুজে একাধিক সমকোণ থাকতে পারে না?",
+        "solution": "সমকোণী ত্রিভুজে একটি মাত্র ৯০° কোণ হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486601,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486602,
+      "value": {
+        "options": {
+          "ক": "৬০°",
+          "খ": "৬৫°",
+          "গ": "৭৫°",
+          "ঘ": "৮০°"
+        },
+        "question": "সমদ্বিবাহু ত্রিভুজের শীর্ষ কোণ যদি ৫০° হয়, ভূমি সংলগ্ন প্রতিটি কোণ কত?",
+        "solution": "অবশিষ্ট ১৩০° দুই সমান কোণে ভাগ হলে ৬৫° করে হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486602,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486603,
+      "value": {
+        "options": {
+          "ক": "৪০°",
+          "খ": "৫০°",
+          "গ": "৬০°",
+          "ঘ": "৩০°"
+        },
+        "question": "একটি ত্রিভুজের কোণ ৭০°, ৬০° হলে তৃতীয় কোণ কত?",
+        "solution": "[math]180° - (৭০° + ৬০°) = ৫০°[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486603,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486604,
+      "value": {
+        "options": {
+          "ক": "৬০°",
+          "খ": "৭০°",
+          "গ": "৮০°",
+          "ঘ": "৯০°"
+        },
+        "question": "একটি সমদ্বিবাহু ত্রিভুজে শীর্ষ কোণ ৪০° হলে ভূমি সংলগ্ন কোণ কত?",
+        "solution": "অবশিষ্ট [math]140° \\div 2 = ৭০°[/math]",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486604,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486605,
+      "value": {
+        "options": {
+          "ক": "১ সেমি",
+          "খ": "২ সেমি",
+          "গ": "৩ সেমি",
+          "ঘ": "৪ সেমি"
+        },
+        "question": "একটি ত্রিভুজের বাহু ৭ সেমি, ৫ সেমি, অপরটি কত হতে পারে না?",
+        "solution": "[math]৫+১ \u003C ৭[/math] হয় না, তাই অসম্ভব।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486605,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486606,
+      "value": {
+        "options": {
+          "ক": "১০",
+          "খ": "৮",
+          "গ": "৭",
+          "ঘ": "৬"
+        },
+        "question": "একটি ত্রিভুজে AB=6, AC=8, ∠A=৬০° হলে BC কত?",
+        "solution": "কসমাইন সূত্র প্রয়োগ করে [math]BC^2 = 6^2 + 8^2 - 268*\\cos 60° = 49[/math]\u003Cbr\u003E ⇒ [math]BC = 7[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486606,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486607,
+      "value": {
+        "options": {
+          "ক": "৩",
+          "খ": "৬",
+          "গ": "৯",
+          "ঘ": "১২"
+        },
+        "question": "একটি সমবাহু ত্রিভুজের পরিসীমা ১৮ সেমি হলে এক বাহুর দৈর্ঘ্য কত?",
+        "solution": "[math]18 ÷ 3 = ৬[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486607,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486608,
+      "value": {
+        "options": {
+          "ক": "সমকোণী",
+          "খ": "সমবাহু",
+          "গ": "সমদ্বিবাহু",
+          "ঘ": "স্থূলকোণী"
+        },
+        "question": "একটি ত্রিভুজে ∠A=৪৫°, ∠B=৪৫°, তাহলে এটি কোন ত্রিভুজ?",
+        "solution": "[math]৪৫° + ৪৫° = ৯০°, ⇒ ∠C = ৯০°, সমকোণী[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486608,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486609,
+      "value": {
+        "options": {
+          "ক": "[math]5\\sqrt{2}[/math]",
+          "খ": "১০",
+          "গ": "[math]১০\\sqrt{2}[/math]",
+          "ঘ": "৭"
+        },
+        "question": "একটি সমকোণী ত্রিভুজে সমান বাহুর দৈর্ঘ্য ৫ সেমি হলে অতিভুজ কত?",
+        "solution": "[math]c = \\sqrt{5^2 + 5^2} = \\sqrt{50} = 5\\sqrt{2}[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486609,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486610,
+      "value": {
+        "options": {
+          "ক": "৩০°",
+          "খ": "২০°",
+          "গ": "১০°",
+          "ঘ": "১৫°"
+        },
+        "question": "যদি একটি ত্রিভুজে দুটি কোণ ১২০° ও ৩০°, তবে তৃতীয় কোণ কত?",
+        "solution": "[math]180° - (১২০°+৩০°) = ৩০°[/math]",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486610,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486611,
+      "value": {
+        "options": {
+          "ক": "সমবাহু",
+          "খ": "সমদ্বিবাহু",
+          "গ": "সমকোণী",
+          "ঘ": "স্থূলকোণী"
+        },
+        "question": "ত্রিভুজের বাহু ৩ সেমি, ৪ সেমি, ৫ সেমি — এটি কোন ধরনের ত্রিভুজ?",
+        "solution": "[math]3^2 + 4^2 = 5^2 ⇒ 9+16=25[/math], সমকোণী ত্রিভুজ",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486611,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486612,
+      "value": {
+        "options": {
+          "ক": "৬০°",
+          "খ": "৩০°",
+          "গ": "৪০°",
+          "ঘ": "২০°"
+        },
+        "question": "∠B=৬০°, ∠C=৬০°, ∠A কত?",
+        "solution": "[math]180° - ৬০° - ৬০° = ৬০°[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486612,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486613,
+      "value": {
+        "options": {
+          "ক": "স্থূলকোণী",
+          "খ": "সমকোণী",
+          "গ": "সমদ্বিবাহু",
+          "ঘ": "সমবাহু"
+        },
+        "question": "ত্রিভুজের শিরঃকোণের সমদ্বিখণ্ডক ভূমিকে সমদ্বিখণ্ডিত করলে ত্রিভুজটি কোন ধরনের?",
+        "solution": "এটি সমদ্বিবাহু ত্রিভুজের একটি বৈশিষ্ট্য।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486613,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486583,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজে তিনটি বাহুর দৈর্ঘ্য [math]6[/math] সেমি, [math]8[/math] সেমি ও [math]10[/math] সেমি হলে, বৃহত্তম কোণ কোন বাহুর বিপরীতে অবস্থিত?",
+        "solution": "বৃহত্তম কোণ সর্বদা বৃহত্তম বাহুর বিপরীতে অবস্থিত।এখানে বৃহত্তম বাহু [math]10[/math] সেমি, তাই বৃহত্তম কোণটি এই বাহুর বিপরীতে অবস্থিত।",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের বৃহত্তম কোণ সর্বদা সবচেয়ে দীর্ঘ বাহুর বিপরীতে থাকে; এখানে দীর্ঘতম বাহু [math]10[/math] সেমি। আরও দেখা যায় যে [math]6^2+8^2=36+64=100=10^2[/math], তাই এটি সমকোণী ত্রিভুজ এবং বৃহত্তম কোণ ( [math]90^\\circ[/math] ) [math]10[/math] সেমি বাহুর বিপরীতে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486583,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486582,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজে [math]\\angle X \u003E \\angle Y \u003E \\angle Z[/math] হলে, বাহুগুলোর দৈর্ঘ্যকে ঊর্ধ্বক্রমে সাজাও।",
+        "solution": "বৃহত্তর কোণের বিপরীতে বৃহত্তর বাহু হয়।অতএব, বিপরীত বাহু যথাক্রমে [math]x[/math]\u003Cbr\u003E, [math]y[/math]\u003Cbr\u003E, [math]z[/math]\u003Cbr\u003E হলে,[math]z \u003C y \u003C x[/math]\u003Cbr\u003E",
+        "explanation": "কোন ত্রিভুজে বড় কোণটির বিপরীত বাহু বড় হয়। তাই [math]\\angle X \u003E \\angle Y \u003E \\angle Z[/math] হলে বিপরীত বাহুগুলো ঊর্ধ্বক্রমে হবে [math]a_Z \u003C a_Y \u003C a_X[/math], অর্থাৎ Z‑এর বিপরীত বাহু সবচেয়ে ছোট এবং X‑এর বিপরীত বাহু সবচেয়ে বড়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486582,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486581,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের বাহুর দৈর্ঘ্য [math]a = 9[/math] সেমি, [math]b = 7[/math] সেমি, [math]c = 5[/math] সেমি। কোণ [math]A[/math], [math]B[/math], [math]C[/math] কে বৃহত্তর থেকে ক্ষুদ্রতর ক্রমে সাজাও।",
+        "solution": "বৃহত্তর বাহুর বিপরীতে বৃহত্তর কোণ হয়।[math]a = 9[/math]\u003Cbr\u003E এর বিপরীতে [math]\\angle A[/math]\u003Cbr\u003E, [math]b = 7[/math]\u003Cbr\u003E এর বিপরীতে [math]\\angle B[/math]\u003Cbr\u003E, [math]c = 5[/math]\u003Cbr\u003E এর বিপরীতে [math]\\angle C[/math]\u003Cbr\u003E∴ [math]\\angle A \u003E \\angle B \u003E \\angle C[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একটি ত্রিভুজে বড় বাহু বড় কোণের বিপরীতে থাকে। এখানে [math]a=9,[/math] [math]b=7,[/math] [math]c=5[/math] এবং [math]9\u003E7\u003E5[/math] হওয়ায় [math]\\angle A\u003E\\angle B\u003E\\angle C[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486581,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486580,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের বাহুর দৈর্ঘ্য [math]AB = 12[/math] সেমি, [math]BC = 10[/math] সেমি, [math]CA = 9[/math] সেমি। কোণ [math]A[/math], [math]B[/math], [math]C[/math] কে ঊর্ধ্বক্রমে সাজাও এবং ব্যাখ্যা কর।",
+        "solution": "বৃহত্তর বাহুর বিপরীতে বৃহত্তর কোণ হয়।তালিকা:বাহু [math]AB = 12[/math]\u003Cbr\u003E → বিপরীত কোণ [math]C[/math]\u003Cbr\u003E [math]BC = 10[/math]\u003Cbr\u003E → বিপরীত কোণ [math]A[/math]\u003Cbr\u003E [math]CA = 9[/math]\u003Cbr\u003E → বিপরীত কোণ [math]B[/math]\u003Cbr\u003Eতাই [math]\\angle B \u003C \\angle A \u003C \\angle C[/math]\u003Cbr\u003E",
+        "explanation": "ত্রিভুজে বড় কোণটি তার বিপরীত বৃহত্তর বাহুর প্রতি অনুপাতে বড় হয়; তাই বৃহত্তর বাহুর বিপরীতে বড় কোণ। এখানে [math]∠A[/math] এর বিপরীতে [math]BC=10[/math], [math]∠B[/math] এর বিপরীতে [math]CA=9[/math], [math]∠C[/math] এর বিপরীতে [math]AB=12[/math]; সুতরাং উর্ধ্বক্রমে [math]∠B\u003C∠A\u003C∠C[/math] বা কোণগুলোর ক্রম [math]B,\\,A,\\,C[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486580,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486579,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজে [math]PQ = 6[/math] সেমি, [math]QR = 11[/math] সেমি এবং [math]\\angle P = 40^\\circ[/math] হলে, [math]\\angle Q[/math] এবং [math]\\angle R[/math] এর মধ্যে কে বড় হবে এবং কেন?",
+        "solution": "যেহেতু [math]QR[/math]\u003Cbr\u003E বৃহত্তম বাহু, তাই তার বিপরীতে অবস্থিত কোণ [math]P[/math]\u003Cbr\u003E সবচেয়ে বড় হওয়ার কথা, কিন্তু প্রশ্নে [math]\\angle P = 40^\\circ[/math]\u003Cbr\u003E দেওয়া আছে।এখন তুলনা করতে হবে বাকি দুই কোণের মধ্যে কার বিপরীতে বড় বাহু রয়েছে:[math]PQ = 6[/math]\u003Cbr\u003E → বিপরীতে [math]\\angle R[/math]\u003Cbr\u003E [math]PR[/math]\u003Cbr\u003E না জানা থাকলেও [math]QR \u003E PQ[/math]\u003Cbr\u003Eতাই [math]\\angle R \u003E \\angle Q[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সাইন নীতির দ্বারা [math]\\sin R=\\dfrac{PQ\\sin P}{QR}=\\dfrac{6\\sin40^\\circ}{11}\u003C\\sin40^\\circ[/math], তাই [math]R\u003C40^\\circ[/math]. যেহেতু [math]Q+R=180^\\circ-40^\\circ=140^\\circ[/math] ও [math]R\u003C40^\\circ\u003C70^\\circ[/math], তাই [math]Q=140^\\circ-R\u003ER[/math]; অতএব [math]\\angle Q[/math] বড়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486579,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486578,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজে [math]\\angle A = 70^\\circ[/math], [math]\\angle B = 60^\\circ[/math], এবং [math]\\angle C = 50^\\circ[/math] হলে, ত্রিভুজের বাহুগুলোর দৈর্ঘ্যকে বৃহত্তর থেকে ক্ষুদ্রতর ক্রমে সাজাও এবং ব্যাখ্যা কর।",
+        "solution": "যেহেতু কোণ [math]A \u003E B \u003E C[/math]\u003Cbr\u003E, তাই বিপরীত বাহুগুলোর অনুক্রম হবে: [math]BC \u003E AC \u003E AB[/math]\u003Cbr\u003Eকারণ, বৃহত্তর কোণের বিপরীতে বৃহত্তর বাহু থাকে।∴ বাহুগুলোর অনুক্রম: [math]BC \u003E AC \u003E AB[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ত্রিভুজে বড় কোণের বিপরীত বাহু বড় হয়, তাই [math]\\angle A=70^\\circ[/math] এর বিপরীত বাহু সবচেয়ে বড়, তার পরে [math]\\angle B=60^\\circ[/math] এবং সবশেষে [math]\\angle C=50^\\circ[/math]। যদি [math]a,b,c[/math] যথাক্রমে [math]BC,CA,AB[/math] (অর্থাৎ [math]a\\text{ opposite to }A,\\; b\\text{ opposite to }B,\\; c\\text{ opposite to }C[/math]) হয়, তবে [math]a\u003Eb\u003Ec[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486578,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486577,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC[/math] এর [math]AB = AC[/math]। [math]BC[/math] বাহুকে [math]D[/math] পর্যন্ত বর্ধিত কর।\n\n(ক) উপযুক্ত তথ্যের আলোকে চিত্রটি আঁক।\n\n(খ) প্রমাণ কর যে, [math]\\angle ABC + \\angle BAC + \\angle ACB = ২[/math] সমকোণ।\n\n(গ) যদি [math]D[/math], [math]BC[/math] এর উপর একটি বিন্দু হয় তবে, প্রমাণ কর যে, [math]AB \u003E AD[/math]।",
+        "solution": "(ক)\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot202025-06-1720140730_1755769305_dYmEkojW.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E(খ)\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot202025-06-1720141308_1755769304_SMoU6cYB.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003Eপ্রমাণ করতে হবে:[math]\\angle ABC + \\angle BAC + \\angle ACB = ২[/math]\u003Cbr\u003E সমকোণঅঙ্কন:[math]BC[/math]\u003Cbr\u003E বাহুকে [math]D[/math]\u003Cbr\u003E পর্যন্ত বর্ধিত করি এবং [math]BA[/math]\u003Cbr\u003E রেখার সমান্তরাল করে [math]CE[/math]\u003Cbr\u003E রেখা আঁকি।প্রমাণ:[math]BA \\parallel CE[/math]\u003Cbr\u003E এবং [math]AC[/math]\u003Cbr\u003E রেখা তাদের ছেদক হলে,[math]\\angle BAC = \\angle ACE[/math]\u003Cbr\u003E [∵ একান্তর কোণ দুইটি সমান]আবার, [math]BA \\parallel CE[/math]\u003Cbr\u003E এবং [math]BD[/math]\u003Cbr\u003E রেখা তাদের ছেদক হলে,[math]\\angle ABC = \\angle ECD[/math]\u003Cbr\u003E [∵ অনুরূপ কোণ দুইটি সমান]এখন,[math]\\angle BAC + \\angle ABC = \\angle ACE + \\angle ECD = \\angle ACD[/math]\u003Cbr\u003Eউভয় পাশে [math]\\angle ACB[/math]\u003Cbr\u003E যোগ করি,[math]\\angle BAC + \\angle ABC + \\angle ACB = \\angle ACD + \\angle ACB[/math]\u003Cbr\u003Eএখন, [math]\\angle ACD + \\angle ACB = ২[/math]\u003Cbr\u003E সমকোণ [∵ সরল কোণ উপপাদ্য অনুযায়ী]অতএব,[math]\\angle BAC + \\angle ABC + \\angle ACB = ২[/math]\u003Cbr\u003E সমকোণ — প্রমাণিত।(গ)\u003Cbr/\u003E\u003Cimg src=\"https://app.nexes.ai/storage/question-bank-images/2025/08/images2fscreenshot202025-06-1720141709_1755769303_Cs8NCmVf.webp\" alt=\"undefined\"\u003E\u003Cbr/\u003E[math]\\triangle ABC[/math]\u003Cbr\u003E-এ [math]AB = AC[/math]\u003Cbr\u003E এবং [math]D[/math]\u003Cbr\u003E, [math]BC[/math]\u003Cbr\u003E এর উপর একটি বিন্দু।প্রমাণ করতে হবে: [math]AB \u003E AD[/math]\u003Cbr\u003Eঅঙ্কন: [math]A[/math]\u003Cbr\u003E ও [math]D[/math]\u003Cbr\u003E যুক্ত করি।প্রমাণ:[math]\\triangle ABC[/math]\u003Cbr\u003E-এ, [math]AB = AC[/math]\u003Cbr\u003E [সমান সমান বাহুর বিপরীত কোণ সমান]⇒ [math]\\angle ACB = \\angle ABC[/math]\u003Cbr\u003E⇒ [math]\\angle ACD = \\angle ABD[/math]\u003Cbr\u003Eআবার, [math]\\triangle ADC[/math]\u003Cbr\u003E-এ,[math]\\angle ADB \u003E \\angle ACD[/math]\u003Cbr\u003E [∵ বহিঃস্থ কোণ বৃহত্তর]⇒ [math]\\angle ADB \u003E \\angle ABD[/math]\u003Cbr\u003E [∵ পূর্ব থেকে [math]\\angle ACD = \\angle ABD[/math]\u003Cbr\u003E]⇒ [math]\\angle ADB[/math]\u003Cbr\u003E ত্রিভুজের বৃহত্তম কোণ⇒ [math]AB \u003E AD[/math]\u003Cbr\u003E [∵ ত্রিভুজে বৃহত্তর কোণের বিপরীত বাহু বৃহত্তর]অতএব, প্রমাণিত যে [math]AB \u003E AD[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3172,
+          "full_name": "Important",
+          "short_name": "Important",
+          "slug": "dannrikma-spesal",
+          "pivot": {
+            "question_bank_id": 486577,
+            "tag_id": 3172,
+            "year": null,
+            "created_at": "2025-08-21T09:41:45.000000Z",
+            "updated_at": "2025-08-21T09:41:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486565,
+      "value": {
+        "options": {
+          "A": "i",
+          "B": "ii",
+          "C": "iii",
+          "D": "ii ও iii"
+        },
+        "question": "[math]\\triangle ABC[/math] তে [math]\\angle A + \\angle C = 90^\\circ[/math] হলে, ত্রিভুজটি—\n\ni. সমকোণী\n\nii. স্থূলকোণী\n\niii. সমবাহু",
+        "solution": "i সঠিক — তৃতীয় কোণ [math]90^\\circ[/math]\u003Cbr\u003E হওয়ায় সমকোণী।ii ও iii ভুল — একটি কোণ [math]90^\\circ[/math]\u003Cbr\u003E হলে স্থূল বা সমবাহু হতে পারে না।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486565,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486555,
+      "value": {
+        "options": {
+          "ক": "সমবাহু",
+          "খ": "সমদ্বিবাহু",
+          "গ": "বিষমবাহু",
+          "ঘ": "সমকোণী"
+        },
+        "question": "কোন ত্রিভুজের কোণগুলো পরস্পর সমান?",
+        "solution": "সমবাহু ত্রিভুজে তিনটি কোণই [math]60^\\circ[/math] করে হয় — অর্থাৎ সমান।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486555,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486564,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমকোণী ত্রিভুজের—\n\ni. বিপরীত বাহু অতিভুজ\n\nii. একটি কোণ [math]180^\\circ[/math] থাকে\n\niii. দুইটি কোণ পূরক কোণ\n\nনিচের কোনটি সঠিক?",
+        "solution": "i সঠিক — [math]90^\\circ[/math]\u003Cbr\u003E কোণের বিপরীত বাহুই অতিভুজ।ii ভুল — একটি কোণ কখনোই [math]180^\\circ[/math]\u003Cbr\u003E নয়, মোট তিন কোণ মিলিয়ে হয় [math]180^\\circ[/math]\u003Cbr\u003E।iii সঠিক — বাকি দুই সূক্ষ্মকোণ পূরক হয় (যোগফল [math]90^\\circ[/math]\u003Cbr\u003E)।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486564,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486563,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "[math]\\triangle ACB[/math] সমবাহু ত্রিভুজ হলে—\n\ni. [math]AB = AC = BC[/math]\n\nii. [math]\\angle A = \\angle B = \\angle C[/math]\n\niii. [math]\\angle A + \\angle B + \\angle C = 181^\\circ[/math]",
+        "solution": "i সঠিক — সমবাহু ত্রিভুজে তিন বাহু সমান।ii সঠিক — তিন কোণও সমান।iii ভুল — কোণসমষ্টি সবসময় [math]180^\\circ[/math]",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486563,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486562,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দুইটি সর্বসম ত্রিভুজের ক্ষেত্রে—\n\ni. পরিসীমায় সমান\n\nii. অনুরূপ বাহু এবং সংশ্লিষ্ট কোণদ্বয় সমান\n\niii. অনুরূপ বাহুগুলো সমান\n\nনিচের কোনটি সঠিক?",
+        "solution": "i সঠিক — সর্বসম ত্রিভুজে পরিসীমা সমান হয়।\n\nii সঠিক — সর্বসম মানে প্রতিটি অনুরূপ বাহু ও কোণ সমান।\n\niii সঠিক — অনুরূপ মানে অবস্থানগতভাবে একই, এবং এরা সমান হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486562,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486561,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কোনো ত্রিভুজের:\n\ni. অতিভুজ ও অপর এক বাহু দেওয়া থাকলে, ত্রিভুজটি আঁকা যায়\n\nii. একাধিক স্থূলকোণ থাকতে পারে\n\niii. কমপক্ষে দুইটি সূক্ষ্মকোণ থাকে\n\nনিচের কোনটি সঠিক?",
+        "solution": "i সঠিক — অতিভুজ ও একটি বাহু থাকলে আঁকা সম্ভব।ii ভুল — একাধিক স্থূলকোণ সম্ভব নয়, একটি থাকলে বাকি দুটি কোণের যোগফল [math]\u003C90^\\circ[/math] হয় যা অসম্ভব।iii সঠিক — সর্বোচ্চ একটি স্থূলকোণ থাকতে পারে, তাই কমপক্ষে দুইটি সূক্ষ্মকোণ থাকবে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486561,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486560,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের শীর্ষবিন্দুতে অবস্থিত কোণটির মান [math]50^\\circ[/math] হলে:\n\ni. ভূমি সংলগ্ন কোণদ্বয় সমান\n\nii. অপর কোণ দুটির সমষ্টি [math]130^\\circ[/math]\n\niii. ভূমি সংলগ্ন বাহুদ্বয় সমান\n\nনিচের কোনটি সঠিক?",
+        "solution": "i সঠিক — সমদ্বিবাহু ত্রিভুজে ভূমির কোণদ্বয় সমান হয়।ii সঠিক — [math]180^\\circ - 50^\\circ = 130^\\circ[/math] (বাকি দুই কোণের সমষ্টি)।iii ভুল — ভূমি সংলগ্ন বাহু নয়, কোণ সমান হয়; বাহু সমান হয় শীর্ষ থেকে ভূমিতে যাওয়া দুই বাহু।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486560,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486559,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সমদ্বিবাহু ত্রিভুজের—\n\ni. ভূমি সংলগ্ন কোণদ্বয় পরস্পর সমান\n\nii. তিন কোণের সমষ্টি দুই সমকোণ\n\niii. একটি কোণ সমকোণ হলে তা সমদ্বিবাহু সমকোণী ত্রিভুজ\n\nনিচের কোনটি সঠিক?",
+        "solution": "i সঠিক — সমান বাহুর বিপরীত কোণ সমান হয়।ii সঠিক — ত্রিভুজের কোণসমষ্টি সর্বদা [math]180^\\circ = 2[/math]\u003Cbr\u003E সমকোণ।iii সঠিক — যদি একটি কোণ [math]90^\\circ[/math]\u003Cbr\u003E হয় এবং অপর দুটি সমান হয়, তবে তা সমদ্বিবাহু সমকোণী ত্রিভুজ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486559,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486558,
+      "value": {
+        "options": {
+          "ক": "পরস্পর সমান",
+          "খ": "পরস্পর সমান্তরাল",
+          "গ": "পরস্পর অসমান",
+          "ঘ": "অসমান"
+        },
+        "question": "সমদ্বিবাহু ত্রিভুজের ভূমি সংলগ্ন কোণদ্বয় কীরূপ হবে?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে ভূমির কোণদ্বয় সর্বদা সমান হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486558,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486557,
+      "value": {
+        "options": {
+          "A": "সমকোণী ও সমদ্বিবাহু",
+          "B": "সূক্ষ্মকোণী",
+          "C": "সমবাহু",
+          "D": "সমদ্বিবাহু"
+        },
+        "question": "[math]\\triangle ABC[/math] তে [math]\\angle A = 70^\\circ[/math], [math]\\angle B = 20^\\circ[/math] হলে ত্রিভুজটি কী ধরনের?",
+        "solution": "[math]70^\\circ + 20^\\circ = 90^\\circ[/math]\u003Cbr\u003E, তাই বাকি কোণ [math]90^\\circ[/math]\u003Cbr\u003E → সমকোণী, কিন্তু তিন কোণই \u003C [math]90^\\circ[/math]\u003Cbr\u003E → সূক্ষ্মকোণী।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486557,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486556,
+      "value": {
+        "options": {
+          "ক": "সমবাহু",
+          "খ": "সমদ্বিবাহু",
+          "গ": "বিষমবাহু",
+          "ঘ": "সমকোণী"
+        },
+        "question": "কোন ত্রিভুজের শিরঃকোণের সমদ্বিখণ্ডক ভূমিকে সমদ্বিখণ্ডিত করে?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে শীর্ষ কোণের সমদ্বিখণ্ডক ভূমিকে দুটি সমান অংশে ভাগ করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486556,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486554,
+      "value": {
+        "options": {
+          "ক": "সমান",
+          "খ": "সমান্তরাল",
+          "গ": "পূরক",
+          "ঘ": "সম্পূরক"
+        },
+        "question": "সমকোণী ত্রিভুজের সূক্ষ্মকোণ পরস্পর কীরূপ?",
+        "solution": "সমকোণী ত্রিভুজে দুইটি সূক্ষ্মকোণ মিলিয়ে হয় [math]90^\\circ[/math] — অর্থাৎ তারা পূরক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486554,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486566,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "স্থূলকোণী ত্রিভুজের—\n\ni. দুই বাহুর সমষ্টি তৃতীয় বাহুর চেয়ে বড়\n\nii. তিন বাহু অসমান\n\niii. এটি সমবাহু হতে পারে না",
+        "solution": "i সঠিক — সব ত্রিভুজেই এটি প্রযোজ্য।\n\nii ভুল — সবসময় নয়, কিছু স্থূলকোণী ত্রিভুজে দুটি বাহু সমান হতে পারে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486566,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486567,
+      "value": {
+        "options": {
+          "ক": "i",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "ত্রিভুজের—\n\ni. যেকোনো দুই বাহুর সমষ্টি তৃতীয় বাহুর চেয়ে বড়\n\nii. বৃহত্তর বাহুর বিপরীত কোণ ক্ষুদ্রতর\n\niii. দুই বাহুর অন্তর তৃতীয় বাহুর চেয়ে ছোট",
+        "solution": "i সঠিক — ত্রিভুজ গঠনের মূল শর্ত।\n\nii ভুল — বৃহত্তর বাহুর বিপরীত কোণ বড় হয়।\n\niii সঠিক — ত্রিভুজ গঠনের আরেক শর্ত।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486567,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486568,
+      "value": {
+        "options": {
+          "ক": "AC",
+          "খ": "CD",
+          "গ": "AD",
+          "ঘ": "BC"
+        },
+        "question": "[math]\\triangle ABC[/math] ও [math]ABCD[/math] এর সাধারণ বাহু কোনটি?",
+        "solution": "দুটি ত্রিভুজের সাধারণ (common) বাহু [math]AB[/math]\u003Cbr\u003E — তাই উত্তর হবে [math]BC[/math]\u003Cbr\u003E (দুই ত্রিভুজেই বিদ্যমান)।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486568,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486569,
+      "value": {
+        "options": {
+          "A": "[math]BC \u003E AC[/math]",
+          "B": "[math]AC \u003E BC[/math]",
+          "C": "[math]AC = AB[/math]",
+          "D": "[math]AC \u003E AB[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math] এ [math]\\angle B \u003C \\angle C[/math] হলে কোনটি সঠিক?",
+        "solution": "যে কোণের বিপরীত বাহু বড়, তাই [math]\\angle C[/math]\u003Cbr\u003E বড় মানে [math]AB \u003E AC[/math]\u003Cbr\u003E বা [math]AC \u003C BC[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486569,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486570,
+      "value": {
+        "options": {
+          "ক": "[math]AB = PB[/math]",
+          "খ": "[math]AB = BQ[/math]",
+          "গ": "[math]PB = BQ[/math]",
+          "ঘ": "[math]\\angle APB = 90^\\circ[/math]"
+        },
+        "question": "AB রেখাংশ, PQ রেখাংশের সমদ্বিখণ্ডক হলে, কোনটি সঠিক?",
+        "solution": "সমদ্বিখণ্ডক দুই রেখাকে সমান দুই অংশে ভাগ করে: [math]PB = BQ[/math]।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486570,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486571,
+      "value": {
+        "options": {
+          "A": "[math]90^\\circ[/math]",
+          "B": "[math]60^\\circ[/math]",
+          "C": "[math]45^\\circ[/math]",
+          "D": "[math]30^\\circ[/math]"
+        },
+        "question": "[math]\\triangle ABC[/math] তে [math]\\angle B = \\angle C[/math] এবং [math]\\angle A = 90^\\circ[/math] হলে, [math]\\angle B[/math] কত?",
+        "solution": "[math]\\angle B = \\angle C[/math]\u003Cbr\u003E, আর [math]\\angle A = 90^\\circ[/math]\u003Cbr\u003E, তাহলে [math]\\angle B + \\angle C = 90^\\circ[/math]\u003Cbr\u003E → প্রত্যেকটি হবে [math]45^\\circ[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486571,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486572,
+      "value": {
+        "options": {
+          "ক": "[math]60^\\circ[/math]",
+          "খ": "[math]30^\\circ[/math]",
+          "গ": "[math]90^\\circ[/math]",
+          "ঘ": "[math]180^\\circ[/math]"
+        },
+        "question": "একটি সমকোণী ত্রিভুজের একটি সূক্ষ্মকোণ [math]60^\\circ[/math] হলে অপর সূক্ষ্মকোণ কত?",
+        "solution": "সমকোণ ব্যতীত দুই কোণের যোগফল = [math]90^\\circ[/math]\u003Cbr\u003E → [math]90^\\circ - 60^\\circ = 30^\\circ[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486572,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486573,
+      "value": {
+        "options": {
+          "ক": "[math]6.75[/math] সেমি",
+          "খ": "[math]5.4[/math] সেমি",
+          "গ": "[math]4.4[/math] সেমি",
+          "ঘ": "[math]5[/math] সেমি"
+        },
+        "question": "[math]\\triangle ABC[/math] একটি সমদ্বিবাহু সমকোণী ত্রিভুজ যার [math]\\angle B = 90^\\circ[/math] যদি [math]BC = ৫[/math] সেমি, তবে [math]AB[/math] কত?",
+        "solution": "সমকোণী ত্রিভুজে [math]AB = AC[/math]\u003Cbr\u003E, এবং [math]BC[/math]\u003Cbr\u003E যদি [math]5[/math]\u003Cbr\u003E হয়, তাহলে [math]AB = \\sqrt{(5^2 + 5^2)} = \\sqrt{50} \\approx 7.07[/math]\u003Cbr\u003E — সবচেয়ে কাছাকাছি [math]6.75[/math]\u003Cbr\u003E।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486573,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486574,
+      "value": {
+        "options": {
+          "A": "[math]50^\\circ[/math]",
+          "B": "[math]60^\\circ[/math]",
+          "C": "[math]65^\\circ[/math]",
+          "D": "[math]130^\\circ[/math]"
+        },
+        "question": "[math]\\triangle XYZ[/math]-এ [math]XY = XZ[/math] এবং [math]\\angle XYZ = 65^\\circ[/math] হলে [math]\\angle YXZ[/math] কত?",
+        "solution": "[math]XY = XZ[/math]\u003Cbr\u003E → এটি সমদ্বিবাহু, [math]2x + 65^\\circ = 180^\\circ[/math]\u003Cbr\u003E → [math]x = 57.5^\\circ[/math]\u003Cbr\u003E তাই [math]\\angle YXZ = 180^\\circ - 65^\\circ = 50^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486574,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486575,
+      "value": {
+        "options": {
+          "ক": "[math]40^\\circ[/math]",
+          "খ": "[math]45^\\circ[/math]",
+          "গ": "[math]50^\\circ[/math]",
+          "ঘ": "[math]60^\\circ[/math]"
+        },
+        "question": "সমবাহু ত্রিভুজের প্রত্যেকটি কোণের পরিমাণ কত?",
+        "solution": "সমবাহু ত্রিভুজে তিনটি কোণই [math]60^\\circ[/math] করে হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486575,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:42.000000Z",
+            "updated_at": "2025-08-21T09:41:42.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 486576,
+      "value": {
+        "options": {
+          "ক": "[math]100^\\circ[/math]",
+          "খ": "[math]90^\\circ[/math]",
+          "গ": "[math]80^\\circ[/math]",
+          "ঘ": "[math]60^\\circ[/math]"
+        },
+        "question": "সমদ্বিবাহু ত্রিভুজের সমান বাহুদ্বয়কে বর্ধিত করলে উৎপন্ন বহিঃস্থ কোণদ্বয়ের একটি [math]100^\\circ[/math] হলে অপরটি কত হবে?",
+        "solution": "দুই কোণ মিলিয়ে সরলরেখায় [math]180^\\circ[/math]\u003Cbr\u003E হয়। [math]180^\\circ - 100^\\circ = 80^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 40,
+      "book_grade_id": 3,
+      "content_chunk_id": 7771,
+      "created_at": "2025-08-21T09:41:42.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 40,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 486576,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-21T09:41:43.000000Z",
+            "updated_at": "2025-08-21T09:41:43.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=7771&grade=3&lesson=7773&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=7771&grade=3&lesson=7773&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=7771&grade=3&lesson=7773&question_paper_id=47300&subject=40&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 60,
+  "total": 60
+}

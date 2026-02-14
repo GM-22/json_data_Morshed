@@ -1,0 +1,109 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 152637,
+      "value": {
+        "options": [],
+        "question": "গণনা করে ২ দশ ১ লিখলে তা কি সংখ্যায় প্রকাশ হবে?",
+        "solution": "সমাধান:\n\nপ্রথমে বোঝা যাক এখানে \"দশ\" মানে দশকের (tens) স্থান। সংখ্যায় প্রতিটি অঙ্কের মান = অঙ্ক × তার স্থানীয় মান।\n\n- দশকের স্থানে [math]2[/math] আছে, তাই এর মান হবে [math]2×10=20[/math]।\n- এককের স্থানে [math]1[/math] আছে, তাই এর মান [math]1[/math]।\n\nএগুলো যোগ করলে পাই: [math]20+1=21[/math]।\n\nঅতএব \"২ দশ ১\" সংখ্যায় প্রকাশ করলে তা হবে [math]21[/math]।",
+        "chapter_id": "3720",
+        "explanation": "ব্যাখ্যা: \"২ দশ ১\" মানে ২টি দশক (দশের গুণ) এবং ১ একক, তাই [math]2×10+1=21[/math]। তাই সংখ্যাটি হলো [math]21[/math]।",
+        "correct_answer": "21"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3720,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152627,
+      "value": {
+        "options": {
+          "a": "১৩",
+          "b": "১২",
+          "c": "১৪",
+          "d": "১৫"
+        },
+        "question": "৭ জন শিশু একদিকে এবং ৬ জন শিশু অন্যদিকে খেলা করছে। মোট কতজন শিশু খেলা করছে?",
+        "solution": "সমাধান:\nপ্রথম ধাপে দুই দলে থাকা শিশুগুলো যোগ করি: [math]7 + 6[/math]।\nফলাফল: [math]7 + 6 = 13[/math], তাই মোট [math]13[/math] জন শিশু খেলছে—সঠিক উত্তর a: 13।\nবাকি বিকল্পগুলো ভুল, কারণ [math]12, 14, 15[/math] কোনোোটিই [math]7 + 6[/math] এর সমান নয়।",
+        "chapter_id": "3720",
+        "correct_answer": "13"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3720,
+      "created_at": "2025-07-31T05:42:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=3720&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=3720&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=3720&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 2,
+  "total": 2
+}

@@ -1,0 +1,327 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 168701,
+      "value": {
+        "options": {
+          "a": "10",
+          "b": "8",
+          "c": "6",
+          "d": "9"
+        },
+        "question": "১০টি আপেল থেকে ২টি খেলে মোট কয়টি আপেল রয়ে গেল?",
+        "chapter_id": "3716",
+        "correct_answer": "8"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168702,
+      "value": {
+        "options": {
+          "a": "3",
+          "b": "5",
+          "c": "7",
+          "d": "4"
+        },
+        "question": "একটি গাছের ডালে ৭টি পাখি বসেছিল। পরে ৪টি পাখি উড়ে গেল। গাছে এখন কয়টি পাখি রইল?",
+        "chapter_id": "3716",
+        "correct_answer": "3"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168703,
+      "value": {
+        "options": {
+          "a": "4",
+          "b": "3",
+          "c": "2",
+          "d": "5"
+        },
+        "question": "রাহাত ১টি মাছ ধরেছে এবং আবিদ ৫টি মাছ ধরেছে। আবিদ কয়টি মাছ কম ধরেছে?",
+        "chapter_id": "3716",
+        "correct_answer": "4"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152638,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "যদি একটি গাছের ডালে ৭টি পাখি বসে থাকে এবং ৪টি পাখি উড়ে যায়, তাহলে গাছে ৩টি পাখি অবশিষ্ট থাকবে।",
+        "solution": "সমাধান:\nপদ্ধতি: এখানে পাখির মোট সংখ্যা থেকে উড়ে যাওয়া পাখির সংখ্যাটি বিয়োগ (subtraction) করতে হবে।\n\nধাপ:\n1. প্রাথমিক পাখির সংখ্যা = [math]7[/math]।\n2. উড়ে যাওয়া পাখি = [math]4[/math]।\n3. অবশিষ্ট পাখি = প্রাথমিক সংখ্যা − উড়ে যাওয়া = [math]7 - 4 = 3[/math]।\n\nতত্ত্ব ও যুক্তি: সংখ্যা গণনায় যখন কোনো বস্তু (এখানে পাখি) ছেড়ে যায়, তখন মোট থেকে সেই সংখ্যাটি বিয়োগ করা হয়। ফলে অবশিষ্ট সংখ্যা হবে 3, যা ধনাত্মক এবং বাস্তবসংগত।\n\nসঠিক উত্তর: a — সত্য",
+        "chapter_id": "3716",
+        "explanation": "ব্যাখ্যা: যদি একটি গাছের ডালে প্রথমে ৭টি পাখি থাকে এবং ৪টি উড়ে যায়, তখন বাকি পাখির সংখ্যা হবে [math]7-4=3[/math]। এটি সাধারণভাবে বিযোগ (কিছু কিছু তুলে নেয়া) দ্বারা হিসাব করা হয়, তাই বিবৃতি সঠিক।",
+        "correct_answer": "a"
+      },
+      "question_type_id": 4,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-07-31T05:43:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152628,
+      "value": {
+        "options": [],
+        "question": "রাফির ৬টি ফুল এবং তুলির ৩টি ফুল রয়েছে, রাফির ফুল তুলির ফুলের থেকে কতটি বেশি?",
+        "solution": "সমাধান:\n\nকোন মূল ধারণা: দুটি সংখ্যা একে অপরের থেকে কতটা বড় বা ছোট তা জানতে বিয়োগ (subtraction) করা হয়।\n\nধাপগুলো:\n1. রাফির ফুলের সংখ্যা [math]= 6[/math], তুলির ফুলের সংখ্যা [math]= 3[/math]।\n2. বেশি ফুলের সংখ্যা = রাফির ফুল − তুলির ফুল = [math]6 - 3[/math]।\n3. হিসাব করলে ফল পাওয়া যায় [math]= 3[/math]।\n\nঅতএব, রাফির ফুল তুলির ফুলের থেকে [math]3[/math]টি বেশি।",
+        "chapter_id": "3716",
+        "explanation": "রাফির আছে 6টি ফুল আর তুলির আছে 3টি ফুল; বেশি ফুল বের করতে বিয়োগ করতে হবে: [math]6-3=3[/math]. তাই রাফির ফুল তুলির থেকে 3টি বেশি।",
+        "correct_answer": "3"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152629,
+      "value": {
+        "options": [],
+        "question": "রিমির ৯টি বেলুন এবং রাজুর ৫টি বেলুন আছে, রিমির কয়টি বেলুন বেশি আছে?",
+        "solution": "সমাধান:\nরিমির বেলুন = [math]9[/math], রাজুর বেলুন = [math]5[/math]।  \nকোনো দুইটি সংখ্যার মধ্যে বেশি কী পরিমাণ তা জানতে বড় সংখ্যাটি থেকে ছোটটি বিয়োগ করি। তাই\n\n[math]9 - 5 = 4[/math]\n\nঅতএব রিমির কাছে রাজুর থেকে [math]4[/math]টি বেশি বেলুন আছে।",
+        "chapter_id": "3716",
+        "explanation": "রিমির বেশি বেলুনের সংখ্যা বের করতে রাজুর বেলুন সংখ্যা বিয়োগ করি: [math]9-5=4[/math]. তাই রিমির কাছে রাজুর চেয়ে ৪টি বেশি বেলুন আছে।",
+        "correct_answer": "4"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152630,
+      "value": {
+        "options": [],
+        "question": "মেহজাবিন ১০টি ফুল তুলেছিল এবং ৫টি তার ভাইকে দিয়েছে, তার কাছে এখনও কয়টি ফুল রয়েছে?",
+        "solution": "সমাধান:\nপ্রশ্নে মেহজাবিনের মোট ফুলের সংখ্যা ছিল [math]10[/math]টি এবং তিনি তার ভাইকে [math]5[/math]টি ফুল দিয়েছে। এই ধরনের সমস্যায় আমরা বিয়োগ (subtraction) ব্যবহার করে অবশিষ্ট ফুলের সংখ্যা বের করি।\n\nধাপ ১: মোট ফুল [math]=10[/math]  \nধাপ ২: দেয়া ফুল [math]=5[/math]  \nধাপ ৩: অবশিষ্ট = মোট − দেয়া = [math]10 - 5 = 5[/math]\n\nতাই, তার কাছে এখনও [math]5[/math]টি ফুল আছে। \n\nযাচাই: দেয়া ফুল ও অবশিষ্ট যোগ করলে [math]5 + 5 = 10[/math] হয়, যা মোট ফুলের সাথে মিলে যায়।",
+        "chapter_id": "3716",
+        "explanation": "ব্যাখ্যা: মেহজাবিনের কাছে প্রথমে [math]10[/math]টি ফুল ছিল এবং তিনি [math]5[/math]টি দিয়েছেন, তাই বেঁচে থাকে [math]10 - 5 = 5[/math]টি ফুল।",
+        "correct_answer": "5"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152631,
+      "value": {
+        "options": [],
+        "question": "মিনার ৬টি রং পেনসিল এবং রাজুর ৪টি রং পেনসিল ছিল, মিনার পেনসিল রাজুর পেনসিলের চেয়ে কয়টি বেশি?",
+        "solution": "সমাধান:\nপ্রশ্নে মিনারের পেন্সিলের সংখ্যা এবং রাজুর পেন্সিলের সংখ্যা দেয়া আছে। কোনটি বেশি তা বের করতে আমরা মৌলিক বিয়োগ (subtraction) ব্যবহার করব — বেশির পরিমাণ = বেশি সংখ্যক বস্তুর সংখ্যা − কম সংখ্যক বস্তুর সংখ্যা।\n\nধাপ ১: সংখ্যাগুলো লিখি: মিনার = [math]6[/math], রাজু = [math]4[/math]  \nধাপ ২: বিয়োগ করি: [math]6 - 4 = 2[/math]\n\nঅতএব মিনারের পেন্সিল রাজুর থেকে [math]2[/math]টি বেশি।",
+        "chapter_id": "3716",
+        "explanation": "ব্যাখ্যা: মিনারের কাছে ৬টি পেনসিল এবং রাজুর কাছে ৪টি ছিল, বেশি পেনসিল বের করতে বিয়োগ করব: [math]6-4=2[/math]. সুতরাং মিনার রাজুর চেয়ে ২টি বেশি।",
+        "correct_answer": "2"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3716,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=3716&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=3716&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=3716&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

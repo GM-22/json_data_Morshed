@@ -1,0 +1,640 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 168713,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): বিদ্যালয়ের আলমারিতে কতটি বল রইল এবং তা কিভাবে জানলে?",
+          "খ": "(অনুধাবন): চকলেটের সংখ্যা বিয়োগ করার পর কত রইল তার ব্যাখ্যা করো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): বল ও চকলেটের সংখ্যা নিয়ে একটি তুলনা করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): বল এবং চকলেটের সংখ্যা থেকে একটি গল্প তৈরি করো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি বিদ্যালয়ের আলমারিতে ১৪টি বল আছে। শিশুরা সেখান থেকে ৪টি বল নিয়ে খেলছে। আর একটি প্যাকেটে ১৭টি চকলেট ছিল। হিয়া ও সামি সেখান থেকে ১০টি চকলেট খেয়েছে।",
+        "chapter_id": "3719",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শুরুতে আলমারিতে [math]14[/math]টি বল ছিল এবং শিশুরা [math]4[/math]টি নিয়ে খেলছে, তাই বাকি বল হল [math]14-4=10[/math]—মোট থেকে নেয়া অংশ বিয়োগ করলে বাকি পাওয়া যায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E চকলেটের ক্ষেত্রে প্যাকেটে [math]17[/math]টি ছিল এবং হিয়া ও সামি মিলিয়ে [math]10[/math]টি খেয়েছে, তাই রইল [math]17-10=7[/math]—এটাই বিয়োগের সরল ধারণা: খাওয়া অংশ বাদ দিলে বাকি সংখ্যা পাওয়া যায়।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E বল রইল [math]10[/math]টি আর চকলেট রইল [math]7[/math]টি, তাই বল চকলেটের চাইতে বেশি: [math]10\u003E7[/math] এবং বেশি অংশের পার্থক্য হল [math]10-7=3[/math]।  \n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E ছোট গল্প: স্কুলে আলমারিতে ছিল [math]14[/math]টি বল; ৪টি নিয়ে খেলায়, শেষে আলমারিতে [math]10[/math]টি বল রইল। একই দিনে প্যাকেটে [math]17[/math]টি চকলেট ছিল, হিয়া-সামি মিলে [math]10[/math]টা খেয়ে গেলে প্যাকেটে [math]7[/math]টি রইল এবং সেগুলো বন্ধুদের মধ্যে ভাগ করে নেওয়া হলো।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168714,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): রাজুর কাছে কয়টি চকলেট রইল এবং তা কিভাবে হিসাব করা হলো?",
+          "খ": "(অনুধাবন): দিতির কাছে কয়টি রং পেনসিল রইল তার হিসাব ব্যাখ্যা করো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): রাজু এবং দিতির পরিস্থিতির মধ্যে যোগফল এবং বিয়োগফলের তুলনা করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): এই দুটি পরিস্থিতির উপর ভিত্তি করে একটি গল্প তৈরি করো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // রাজু দোকান থেকে ১৯টি চকলেট কিনল। এর থেকে ৯টি চকলেট তার বোনকে দিল। এবং দিতির ১৫টি রং পেনসিল ছিল। তিনি ৫টি রং পেনসিল তার ছোট ভাইকে দিলেন।",
+        "chapter_id": "3719",
+        "explanation": "ব্যাখ্যা:\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E রাজুর কাছে রইল [math]19-9=10[/math]টি চকলেট; কারণ মোট থেকে দান করা অংশ বাদ দিলে বাকি পাওয়া যায়—এটি বিয়োগের সাধারণ ধারণা।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দিতির কাছে রইল [math]15-5=10[/math]টি রং পেনসিল; একইভাবে মোট পেন্সিল থেকে দিতি যে পেন্সিলগুলি দিলো সেগুলো বিয়োগ করলে বাকি পাওয়া যায়।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E উভয়ের বাকি পরিমাণ সমান — প্রতিটি’রই [math]10[/math]টি আছে; তাদের যোগফল [math]10+10=20[/math] এবং যারা দিলো তাদের মোট দিলের সংখ্যা [math]9+5=14[/math]; বিয়োগ করলে (রাজুর বাকি − দিতির বাকি) = [math]10-10=0[/math], তাই বিয়োগে পার্থক্য নেই।\n\n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E রাজু তার বোনকে চকলেট দিল আর দিতি তার ছোট ভাইকে রং পেন্সিল দিল; দুইজনই দয়ালু হওয়ায় প্রত্যেকে কিছু দিয়ে রেখেছে আর প্রত্যেকের কাছে শেষমেশ [math]10[/math]টি জিনিস রইল, ফলে তারা মিলে [math]20[/math]টি জিনিস উপভোগ করতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168715,
+      "value": {
+        "options": {
+          "ক": "(জ্ঞানমূলক): শ্রেণিতে কয়জন ছাত্র আছে এবং তা কিভাবে হিসাব করা হলো?",
+          "খ": "(অনুধাবন): রাহাত ও আবিদের মাছ ধরার সংখ্যা নিয়ে একটি তুলনা করো।",
+          "গ": "(বিশ্লেষণ/প্রয়োগ): ছাত্রী ও ছাত্রের সংখ্যা নিয়ে একটি বিশ্লেষণ করো।",
+          "ঘ": "(মূল্যায়ন/সৃজন): এই সংখ্যা থেকে একটি গল্প তৈরি করো।"
+        },
+        "question": "নিচের উদ্দীপকটি পড়ো এবং প্রশ্নগুলোর উত্তর দাও: // একটি শ্রেণিতে ১৮ জন ছাত্র-ছাত্রী আছে। এদের মধ্যে ১০ জন ছাত্রী। রাহাত ১টি মাছ ধরেছে এবং আবিদ ৫টি মাছ ধরেছে।",
+        "chapter_id": "3719",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E শ্রেণিতে মোট ১৮ জন বলা আছে, ছাত্রী ১০ জন হওয়ায় ছাত্রের সংখ্যা = [math]18 - 10 = 8[/math] জন।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E রাহাত ১টি এবং আবিদ ৫টি মাছ ধরেছে, তাই আবিদ রাহাতের চেয়ে বেশি মাছ ধরেছে: [math]1 \u003C 5[/math], পার্থক্য [math]5 - 1 = 4[/math] টি।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ছাত্রী ১০ জন ও ছাত্র ৮ জন; ছাত্রীদের সংখ্যা ছাত্রদের থেকে [math]10 - 8 = 2[/math] জন বেশি, অনুপাত [math]\\tfrac{10}{8}=\\tfrac{5}{4}[/math]।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eঘ\u003C/span\u003E গল্প: একদিন ১৮ জনের ক্লাস পিকনিক এ গেলো; ১০ জন ছাত্রী ও ৮ জন ছাত্র ছিলো। আবিদ ৫টি মাছ ধরে সবাইকে মাছ দেয়, আর রাহাত ১টি ধরায় সবাই তাকে উৎসাহ দিলো এবং মজাদার দিন কাটলো।",
+        "correct_answer": ""
+      },
+      "question_type_id": 3,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 3,
+        "name": "CQ",
+        "answer_type": "paragraph"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168706,
+      "value": {
+        "options": {
+          "a": "10",
+          "b": "8",
+          "c": "12",
+          "d": "14"
+        },
+        "question": "একটি বিদ্যালয়ে ১৪টি বল আছে। শিশু ৪টি বল নিয়ে খেলছে। এখন বিদ্যালয়ে কয়টি বল রইল?",
+        "chapter_id": "3719",
+        "correct_answer": "10"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168707,
+      "value": {
+        "options": {
+          "a": "6",
+          "b": "4",
+          "c": "3",
+          "d": "9"
+        },
+        "question": "রাজুর কাছে ১৫টি ডিম আছে এবং সে ৯টি কলা কিনেছে। কলা এবং ডিমের মধ্যে পার্থক্য কত?",
+        "chapter_id": "3719",
+        "correct_answer": "9"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168708,
+      "value": {
+        "options": {
+          "a": "10",
+          "b": "12",
+          "c": "8",
+          "d": "9"
+        },
+        "question": "রাজু দোকান থেকে ১৯টি চকলেট কিনলে, ৯টি তার বোনকে দিলে তার কাছে কতটি চকলেট রইল?",
+        "chapter_id": "3719",
+        "correct_answer": "10"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168709,
+      "value": {
+        "options": {
+          "a": "10",
+          "b": "12",
+          "c": "8",
+          "d": "15"
+        },
+        "question": "দিতির কাছে ১৫টি রং পেনসিল ছিল। সে ৫টি পেনসিল তার ভাইকে দিল। তার কাছে মোট কয়টি পেনসিল রইল?",
+        "chapter_id": "3719",
+        "correct_answer": "10"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 168710,
+      "value": {
+        "options": {
+          "a": "8",
+          "b": "10",
+          "c": "6",
+          "d": "12"
+        },
+        "question": "একটি শ্রেণিতে ১৮ জন ছাত্র-ছাত্রী আছে, এর মধ্যে 10 জন ছাত্রী। শ্রেণিতে কয়জন ছাত্র আছে?",
+        "chapter_id": "3719",
+        "correct_answer": "8"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-08-03T04:01:29.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152641,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "একটি বিদ্যালয়ে ১৮ জন ছাত্র-ছাত্রী আছে, এর মধ্যে ১০ জন ছাত্রী। তাই শ্রেণিতে ৮ জন ছাত্র রয়েছে।",
+        "solution": "সমাধান:\n\nউত্তর: মিথ্যা\n\nকারণ ও যুক্তি:\n1. প্রশ্নে বলা আছে: একটি বিদ্যালয়ে মোট [math]18[/math] জন ছাত্র-ছাত্রী আছে এবং তাদের মধ্যে [math]10[/math] জন ছাত্রী। স্কুলে ছাত্রীদের বাদে বাকি শিক্ষার্থীর সংখ্যা হবে [math]18 - 10 = 8[/math]। (এটা কেবলই সেই প্রতিষ্ঠানের বাকি শিক্ষার্থীর সংখ্যা বলে দেয়।)\n\n2. প্রদত্ত বিবৃতিটিতে বলা হয়েছে \"তাই শ্রেণিতে ৮ জন ছাত্র রয়েছে\" — এখানে \"বিদ্যালয়\" (school) এবং \"শ্রেণি\" (class) দুইটি ভিন্ন স্তর। স্কুল সম্পর্কে দেওয়া তথ্য থেকে নির্দিষ্ট কোনো শ্রেণির ছাত্রসংখ্যা নির্ধারণ করা যায় না। তাই উপসংহারটি সঠিক নয়।\n\nঅতিরিক্ত বোঝাপড়া: যদি প্রশ্নে শব্দটিও \"বিদ্যালয়ে\" থাকত এবং আমরা ধরি সব শিক্ষার্থী বাৎসরিকভাবে শুধু দুই লিঙ্গের (ছাত্র/ছাত্রী), তখন সংখ্যাগতভাবে বাকি [math]8[/math] জনকে ছাত্র (male students) বলা যেতে পারে। কিন্তু এখানে অবস্থানগত (school vs class) ভ্রাম্যমাণতা থাকায় দেওয়া উপসংহারটি গ্রহণযোগ্য নয়।",
+        "chapter_id": "3719",
+        "explanation": "ব্যাখ্যা: বিদ্যালয়ে মোট [math]18[/math] জনের মধ্যে [math]10[/math] জন ছাত্রী হলে বিদ্যালয়ে ছাত্রের সংখ্যা হবে [math]18-10=8[/math]। কিন্তু এখানে 'বিদ্যালয়' ও 'শ্রেণি' ভিন্ন বস্তু; বিদ্যালয়ের তথ্য থেকে সরাসরি কোনো শ্রেণির সংখ্যার সিদ্ধান্ত নেওয়া যায় না, তাই বিবৃতিটি মিথ্যা।",
+        "correct_answer": "b"
+      },
+      "question_type_id": 4,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:43:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152642,
+      "value": {
+        "options": {
+          "a": "সত্য",
+          "b": "মিথ্যা"
+        },
+        "question": "রাজুর ১৫টি ডিম এবং ৯টি কলা কিনলে, কলা থেকে ডিম সে ৫টি বেশি কিনেছে।",
+        "solution": "সমাধান:\nপদ্ধতি: ডিম এবং কলার সংখ্যার পার্থক্য বের করে বিবৃতিটির সত্যতা পরীক্ষা করা যাবে।\n\nপর্যায়ক্রমে কাজ:\n1. ডিমের সংখ্যা [math]=15[/math], কলার সংখ্যা [math]=9[/math]।\n2. পার্থক্য বের করি: [math]15-9=6[/math]।\n3. বিবৃতিটি বলছে ডিম কলার তুলনায় [math]5[/math] বেশি হওয়া উচিত, কিন্তু বাস্তবে পার্থক্য [math]6[/math]। তাই বিবৃতিটি মিথ্যা।\n\nউপসংহার: মিথ্যা (b)",
+        "chapter_id": "3719",
+        "explanation": "ব্যাখ্যা: রাজুর ডিম ১৫টি এবং কলা ৯টি, তাই ডিম কলার চাইতে [math]15-9=6[/math]টি বেশি; প্রশ্নে বলা হয়েছে ৫টি বেশি, যা সঠিক নয়, তাই উত্তর মিথ্যা।",
+        "correct_answer": "b"
+      },
+      "question_type_id": 4,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:43:52.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 4,
+        "name": "True False",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152634,
+      "value": {
+        "options": [],
+        "question": "একটি বিদ্যালয়ে ১৪টি বল আছে, যদি ৪টি বল নিয়ে খেলা হয়, তাহলে আলমারিতে কতগুলি বল থাকবে?",
+        "solution": "সমাধান:\nপদ্ধতি ও ধারণা: এখানে সাধারণ ধ্রুবক সংখ্যা বৃদ্ধি/কমানোর সমস্যা — মোট বল থেকে যে পরিমাণ নেওয়া হয়েছে তা বিয়োগ করে বাকিটা পাওয়া যায়। সংখ্যাসূচক বিয়োগ (subtraction) প্রয়োগ করব।\n\nধাপসমূহ:\n1. মোট বল আছে [math]14[/math]টি।\n2. খেলতে নেওয়া হয়েছে [math]4[/math]টি বল।\n3. বাকিতে থাকবে = মোট − নেওয়া = [math]14 - 4 = 10[/math] (টি)।\n\nউপসংহার: আলমারিতে থাকবে [math]10[/math]টি বল।",
+        "chapter_id": "3719",
+        "explanation": "ব্যাখ্যা: মোট বল ছিল [math]14[/math] এবং খেলার জন্য নেওয়া হয়েছে [math]4[/math]; তাই আলমারিতে রয়ে যায় [math]14-4=10[/math]টি বল। এটি সরল বিয়োগ—মোট থেকে নেওয়া অংশ বাদ দিলে বাকি পাওয়া যায়।",
+        "correct_answer": "10"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152635,
+      "value": {
+        "options": [],
+        "question": "রাজু ১৫টি ডিম এবং ৯টি কলা কিনেছে, কলা থেকে ডিম সে কয়টি বেশি কিনেছে?",
+        "solution": "সমাধান:\nরজু যেহেতু ডিম ও কলার পরিমাণ তুলনা করতে চাচ্ছে, তাই সহজভাবে বড় সংখ্যাটির থেকে ছোট সংখ্যাটি বিয়োগ করলেই কতটা বেশি তা পাওয়া যায় (বিয়োগ—সংখ্যার মধ্যে পার্থক্য নির্ণয় করার প্রক্রিয়া)।\n\nধাপ ১: ডিমের সংখ্যা [math]15[/math] এবং কলার সংখ্যা [math]9[/math]।\nধাপ ২: পার্থক্য বের করুন: [math]15-9=6[/math]।\n\nঅতএব, কলার তুলনায় রজু [math]6[/math]টি বেশি ডিম কিনেছেন।",
+        "chapter_id": "3719",
+        "explanation": "রাজু ১৫টি ডিম এবং ৯টি কলা কিনেছে, তাই বেশি কটি তা বের করতে বিয়োগ করবে: [math]15-9=6[/math]. এটি সরল তুলনা—বেশি এবং কম সংখ্যার পার্থক্য বের করতে বিয়োগ ব্যবহার করা হয়।",
+        "correct_answer": "6"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152636,
+      "value": {
+        "options": [],
+        "question": "একটি শ্রেণিকক্ষে ১৮ জন ছাত্র-ছাত্রী রয়েছে, এর মধ্যে ১০ জন ছাত্রী, শ্রেণিতে কতজন ছাত্র আছে?",
+        "solution": "সমাধান:\nমোট শিক্ষার্থী = [math]18[/math], ছাত্রীর সংখ্যা = [math]10[/math]।\nছাত্রদের সংখ্যা = মোট − ছাত্রীরা।\n\nধাপে ধাপে:\nStep 1: মোটকে এবং ছাত্রীর সংখ্যাকে নির্ধারণ করি: [math]T = 18,\\; G = 10[/math]।\nStep 2: ছাত্রদের সংখ্যা বের করি: [math]B = T - G[/math]।\nStep 3: গণনা করি: [math]B = 18 - 10 = 8[/math]।\n\nউত্তর: শ্রেণিতে [math]8[/math] জন ছাত্র আছে।",
+        "chapter_id": "3719",
+        "explanation": "শ্রেণিতে মোট [math]18[/math] জন এবং তাদের মধ্যে [math]10[/math] জন ছাত্রী, তাই ছাত্রদের সংখ্যা = মোট − ছাত্রী = [math]18-10=8[/math]. অতএব শ্রেণিতে ৮ জন ছাত্র আছে।",
+        "correct_answer": "8"
+      },
+      "question_type_id": 1,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:43:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152624,
+      "value": {
+        "options": {
+          "a": "৭",
+          "b": "৫",
+          "c": "১০",
+          "d": "১২"
+        },
+        "question": "কথা ও ছবির মাধ্যমে গণনা করে ১৭টি চকলেটের মধ্যে ১০টি খেলে কতগুলি চকলেট থাকে?",
+        "solution": "সমাধান:\nমোট চকলেট ছিল [math]17[/math]টি এবং খাওয়া হয়েছে [math]10[/math]টি। বাকি চকলেটের সংখ্যা = মোট − খাওয়া = [math]17 - 10 = 7[/math]। তাই সঠিক উত্তর হলো [math]7[/math] (বিকল্প a)।\n\nঅন্য বিকল্পগুলো ভুল কারণ তাদের মান প্রশ্নের হিসাবের সঙ্গে মেলে না — (b) [math]5[/math] হলে [math]12[/math] খাওয়া হয়েছে, (c) [math]10[/math] হলে কোনো চকলেট বাকি নেই বলে ভুল, এবং (d) [math]12[/math] হলে মাত্র [math]5[/math] খাওয়া হয়েছে; সবকটি প্রশ্নের দেওয়া তথ্যের সঙ্গে সঙ্গতিপূর্ণ নয়।",
+        "chapter_id": "3719",
+        "correct_answer": "7"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:42:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152625,
+      "value": {
+        "options": {
+          "a": "৫",
+          "b": "৬",
+          "c": "৪",
+          "d": "৩"
+        },
+        "question": "রাজুর কাছে ১৫টি ডিম এবং ৯টি কলা আছে। ডিমের সংখ্যা কলার সংখ্যার চেয়ে কতো বেশি?",
+        "solution": "সমাধান:\nপ্রশ্নে রাজুর কাছে ডিম [math]15[/math]টি এবং কলা [math]9[/math]টি আছে। তাই ডিমের সংখ্যা কলার সংখ্যার থেকে কমতে হবে না—ফারক বা পার্থক্য হল:\n[math]15 - 9 = 6[/math]\nসুতরাং ডিমের সংখ্যা কলার সংখ্যার চেয়ে [math]6[/math] বেশি। সঠিক উত্তর: b: ৬। অন্য অপশনগুলো (৫, ৪, ৩) এই হিসাবকে সন্তুষ্ট করে না কারণ তারা পার্থক্যকে ভুলভাবে দেখায়।",
+        "chapter_id": "3719",
+        "correct_answer": "6"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:42:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 152626,
+      "value": {
+        "options": {
+          "a": "৭",
+          "b": "৮",
+          "c": "১০",
+          "d": "১১"
+        },
+        "question": "বিজয়ের কাছে ১৯টি রং পেনসিল এবং অনিতার কাছে ৮টি রং পেনসিল আছে। বিজয়ের কাছে কয়টি বেশি?",
+        "solution": "সমাধান:\nবিজয়ের এবং অনিতার রং পেন্সিলের পার্থক্য বের করতে সংখ্যা বাদ দিতে হবে: [math]19 - 8 = 11[/math]।\nঅতএব বিজয়ের কাছে অনিতার থেকে [math]11[/math]টি বেশি পেন্সিল আছে, তাই সঠিক উত্তর ১১ — অপশন d। অন্যান্য অপশনগুলো (৭, ৮, ১০) গণিতীয়ভাবে ভুল কারণ এগুলো পার্থক্যকে সঠিকভাবে প্রকাশ করে না।",
+        "chapter_id": "3719",
+        "correct_answer": "11"
+      },
+      "question_type_id": 2,
+      "book_id": 217,
+      "book_grade_id": 13,
+      "content_chunk_id": 3719,
+      "created_at": "2025-07-31T05:42:54.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 217,
+        "title": "প্রাথমিক গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=3719&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=3719&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=3719&grade=13&question_paper_id=47967&subject=217&type=board&per_page=2000&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2000,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

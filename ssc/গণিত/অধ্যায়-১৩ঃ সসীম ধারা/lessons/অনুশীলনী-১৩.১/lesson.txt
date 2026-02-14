@@ -1,0 +1,2099 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 539446,
+      "value": {
+        "options": [],
+        "question": "৭, ১৩, ১৯, ... ধারার ২৫তম পদ কত?",
+        "solution": "[math]a = 7,\\ d = 6[/math]\u003Cbr\u003E [math]a_{25} = 7 + (25 - 1) \\cdot 6 = 7 + 144 = 151[/math]\u003Cbr\u003Eউত্তর: ২৫তম পদ = ১৫১",
+        "explanation": "এটি একটি অ্যারিথমেটিক ক্রম কারণ প্রতিটি পদে একই পার্থক্য আছে; প্রথম পদ [math]a_1=7[/math] এবং সাধারণ পার্থক্য [math]d=6[/math]. সাধারণ পদসূত্র [math]a_n=a_1+(n-1)d[/math] অনুযায়ী [math]a_{25}=7+24\\times6=151[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539446,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539434,
+      "value": {
+        "options": [],
+        "question": "৪৮, ৪৪, ৪০, ... ধারার ২০তম পদ কত?",
+        "solution": "[math]a = 48,\\ d = -4[/math]\u003Cbr\u003E [math]a_{20} = 48 + (20 - 1) \\cdot (-4) = 48 - 76 = -28[/math]\u003Cbr\u003Eউত্তর: ২০তম পদ = −২৮",
+        "explanation": "ব্যাখ্যা: ধারাটি গাণিতিক ক্রম কারণ প্রতিটি পদ পূর্ববর্তী থেকে [math]44-48=-4[/math] কম, তাই সাধারণ পদ সূত্র [math]a_n=a_1+(n-1)d[/math] প্রয়োগ করলে [math]a_{20}=48+19(-4)=48-76=-28[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539434,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539435,
+      "value": {
+        "options": [],
+        "question": "7 + 13 + 19 + .... ধারাটির ১৫তম পদ নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: [math]7 + 13 + 19 + \\dots[/math]\u003Cbr\u003Eপ্রথম পদ [math]a = 7[/math]\u003Cbr\u003E, সাধারণ অন্তর [math]d = 13 - 7 = 6[/math]\u003Cbr\u003E [math]a_{15} = 7 + (15 - 1) \\cdot 6 = 7 + 84 = 91[/math]\u003Cbr\u003Eনির্ণেয় ১৫তম পদ = [math]91[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এটা একটি গণপ্রীতি ধার্য (arithmetic progression) যেখানে প্রথম পদ [math]a_1=7[/math] এবং সাধারণ পার্থক্য [math]d=6[/math]; সাধারণ সূত্র [math]a_n=a_1+(n-1)d[/math]. তাই ১৫তম পদটি হল [math]a_{15}=7+14\\times6=7+84=91[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539435,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539437,
+      "value": {
+        "options": [],
+        "question": "8 + 6 + 4 + 2 + ...... ধারাটির ২০তম পদ নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: [math]8 + 6 + 4 + 2 + \\dots[/math]\u003Cbr\u003Eপ্রথম পদ [math]a = 8[/math]\u003Cbr\u003E, সাধারণ অন্তর [math]d = 6 - 8 = -2[/math]\u003Cbr\u003E [math]a_{20} = 8 + (20 - 1)(-2) = 8 - 38 = -30[/math]\u003Cbr\u003Eনির্ণেয় ২০তম পদ = [math]-30[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এটি একটি অ্যারিথমেটিক প্রগতি যার প্রথম পদ [math]8[/math] এবং সাধারণ পার্থক্য [math]-2[/math]. nতম পদের সূত্র [math]a_n=a_1+(n-1)d[/math] প্রয়োগ করলে [math]a_{20}=8+(20-1)(-2)=8-38=-30[/math], তাই ২০তম পদ [math]-30[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539437,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539438,
+      "value": {
+        "options": [],
+        "question": "৩, ৮, ১৩, ... ধারার কোন পদ ১০৩ হবে?",
+        "solution": "[math]a = 3,\\ d = 5[/math]\u003Cbr\u003E [math]3 + (n - 1) \\cdot 5 = 103 \\Rightarrow 5(n - 1) = 100 \\Rightarrow n - 1 = 20 \\Rightarrow n = 21[/math]\u003Cbr\u003Eউত্তর: ২১তম পদ",
+        "explanation": "ধারা একটি সমান্তর ধারা যেখানে সাধারণ পার্থক্য [math]5[/math]. সাধারণ পদ সূত্র [math]a_n=a_1+(n-1)d[/math] প্রয়োগ করলে [math]103=3+(n-1)\\times5[/math], ফলে [math]n-1=20[/math] এবং [math]n=21[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539438,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539439,
+      "value": {
+        "options": [],
+        "question": "[math]p[/math] এর মান কত হলে, [math](p + 1) + (2p + 3) + 4p + \\dots[/math] একটি সমান্তর ধারা হবে?",
+        "solution": "২য় পদ [math]-[/math]\u003Cbr\u003E ১ম পদ = [math]2p + 3 - (p + 1) = p + 2[/math]\u003Cbr\u003E৩য় পদ [math]-[/math]\u003Cbr\u003E ২য় পদ = [math]4p - (2p + 3) = 2p - 3[/math]\u003Cbr\u003Eসমান্তর ধারা হলে, [math]p + 2 = 2p - 3 \\Rightarrow -p = -5 \\Rightarrow p = 5[/math]\u003Cbr\u003Eনির্ণেয় মান [math]p = 5[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একটি সমান্তর ধারায় ক্রমান্বয়ে পার্থক্য সমান হওয়ায় [math](2p+3)-(p+1)=[/math] এবং [math]4p-(2p+3)[/math] সমান করলে, [math]p+2=2p-3[/math] পাওয়া যায়; এখান থেকে [math]p=5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539439,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539440,
+      "value": {
+        "options": [],
+        "question": "১, ৪, ৭, ... ধারার প্রথম ৫০টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 1,\\ d = 3,\\ n = 50[/math]\u003Cbr\u003E [math]S_{50} = \\frac{50}{2}(2 \\cdot 1 + (50 - 1) \\cdot 3) = 25(2 + 147) = 25 \\cdot 149 = 3725[/math]\u003Cbr\u003Eউত্তর: ৩৭২৫",
+        "explanation": "ধারা একটি অ্যারিথমেটিক প্রগতি যার প্রথম পদ [math]a_1=1[/math] এবং পার্থক্য [math]d=3[/math]। প্রথম ৫০টির যোগফল হল [math]S_{50}=\\frac{50}{2}\\big(2\\cdot1+(50-1)\\cdot3\\big)=25(2+147)=25\\cdot149=3725[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539440,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539441,
+      "value": {
+        "options": [],
+        "question": "কোনো সমান্তর ধারার প্রথম পদ [math]5[/math] এবং সাধারণ অন্তর [math]7[/math] হলে, ধারাটির প্রথম ছয়টি পদ নির্ণয় কর।",
+        "solution": "[math]a = 5,\\ d = 7[/math]\u003Cbr\u003Eছয়টি পদ হবে:[math]a_1 = 5[/math]\u003Cbr\u003E [math]a_2 = 5 + 7 = 12[/math]\u003Cbr\u003E [math]a_3 = 5 + 2 \\cdot 7 = 19[/math]\u003Cbr\u003E [math]a_4 = 5 + 3 \\cdot 7 = 26[/math]\u003Cbr\u003E [math]a_5 = 5 + 4 \\cdot 7 = 33[/math]\u003Cbr\u003E [math]a_6 = 5 + 5 \\cdot 7 = 40[/math]\u003Cbr\u003Eসুতরাং, প্রথম ছয়টি পদ = [math]5, 12, 19, 26, 33, 40[/math]\u003Cbr\u003E",
+        "explanation": "[math]a_n=a_1+(n-1)d[/math] হলে [math]a_1=5,\\,d=7[/math] থেকে প্রথম ছয়টি পদ হল [math]5,\\,12,\\,19,\\,26,\\,33,\\,40[/math]. প্রতিটি ধারার পদ পরপর [math]7[/math] যোগ করলে পরবর্তী পদ পাওয়া যায়, তাই এগুলো সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539441,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539442,
+      "value": {
+        "options": [],
+        "question": "১০০, ৯০, ৮০, ... ধারার কোন পদ [math]০[/math] হবে?",
+        "solution": "[math]a = 100,\\ d = -10[/math]\u003Cbr\u003E [math]100 + (n - 1)(-10) = 0 \\Rightarrow -10(n - 1) = -100 \\Rightarrow n - 1 = 10 \\Rightarrow n = 11[/math]\u003Cbr\u003Eউত্তর: ১১তম পদ",
+        "explanation": "এই ধারাটি একটি সমানআন্তর ধারায় যার সাধারণ পার্থক্য [math]-10[/math]. সাধারণ পদ [math]a_n=100+(n-1)(-10)=110-10n[/math] থেকে [math]110-10n=0\\Rightarrow n=11[/math], তাই শূন্য হবে ধারার ১১তম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539442,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539444,
+      "value": {
+        "options": [],
+        "question": "[math]3 + a + 9 + \\dots + 60[/math] একটি সমান্তর ধারা হলে, [math]a[/math] এর মান নির্ণয় কর।",
+        "solution": "[math]a_1 = 3,\\ a_3 = 9[/math]\u003Cbr\u003E [math]a_2 = a,\\ d = a - 3[/math]\u003Cbr\u003E [math]a_3 = a + (3 - 1)d = a + 2(a - 3)[/math]\u003Cbr\u003E [math]= a + 2a - 6 = 3a - 6[/math]\u003Cbr\u003E [math]3a - 6 = 9 \\Rightarrow 3a = 15 \\Rightarrow a = 5[/math]\u003Cbr\u003E (ছবিতে ভুলভাবে [math]a = 6[/math]\u003Cbr\u003E ধরা হয়েছে)সঠিকভাবে, [math]a = 5[/math]\u003Cbr\u003E",
+        "explanation": "সমান্তর ধারায় পারমাণ্য পার্থক্য সমান হওয়ায় [math]a-3=9-a[/math]. সমাধান করলে [math]2a=12\\Rightarrow a=6[/math], তাই ধারা হল [math]3,6,9,\\dots,60[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539444,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539445,
+      "value": {
+        "options": [],
+        "question": "[math]2 + 7 + 12 + 17 + \\dots[/math] একটি সমান্তর ধারা হলে, দশম পদ নির্ণয় কর।",
+        "solution": "[math]a = 2,\\ d = 7 - 2 = 5[/math]\u003Cbr\u003E [math]a_{10} = 2 + (10 - 1) \\cdot 5 = 2 + 45 = 47[/math]\u003Cbr\u003Eনির্ণেয় ১০ম পদ = [math]47[/math]\u003Cbr\u003E",
+        "explanation": "এটি একটি সমান্তর ধারা কারণ প্রতিটি পরের পদে একই পার্থক্য আছে; প্রথম পদ [math]a_1=2[/math] এবং পার্থক্য [math]d=5[/math]. সাধারণ nth-পদের সূত্র [math]a_n=a_1+(n-1)d[/math] ব্যবহার করলে [math]a_{10}=2+(10-1)\\times5=47[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539445,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539433,
+      "value": {
+        "options": [],
+        "question": "10 + 7 + 4 + ...... ধারাটির ১০ম পদ নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: [math]10 + 7 + 4 + \\dots[/math]\u003Cbr\u003Eপ্রথম পদ [math]a = 10[/math]\u003Cbr\u003E, সাধারণ অন্তর [math]d = 7 - 10 = -3[/math]\u003Cbr\u003E [math]n[/math]\u003Cbr\u003E-তম পদ [math]a_n = a + (n - 1)d[/math]\u003Cbr\u003E [math]a_{10} = 10 + (10 - 1)(-3) = 10 + 9 \\cdot (-3) = 10 - 27 = -17[/math]\u003Cbr\u003Eনির্ণেয় ১০ম পদ [math]= -17[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এটি একটি অ্যরিথমেটিক অনুক্রম যেখানে প্রতিটি পদে 3 করে কমে, অতএব সাধারণ পার্থক্য [math]d=-3[/math]. তাই [math]a_{10}=a_1+(10-1)d=10+9(-3)=10-27=-17[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539433,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539447,
+      "value": {
+        "options": [],
+        "question": "৫০, ৪৫, ৪০, ... ধারার প্রথম ১৫টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 50,\\ d = -5,\\ n = 15[/math]\u003Cbr\u003E [math]S_{15} = \\frac{15}{2}(2 \\cdot 50 + (15 - 1) \\cdot (-5)) = \\frac{15}{2}(100 - 70) = \\frac{15}{2} \\cdot 30 = 225[/math]\u003Cbr\u003Eউত্তর: ২২৫",
+        "explanation": "এটি একটি গণিতগত ধারা যেখানে প্রথম পদ [math]a_1=50[/math] এবং সাধারণ পার্থক্য [math]d=-5[/math]। সূম সূত্র [math]S_n=\\frac{n}{2}[2a_1+(n-1)d][/math] প্রয়োগ করলে [math]S_{15}=\\frac{15}{2}[100+14(-5)]=\\frac{15}{2}\\times30=225[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539447,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539448,
+      "value": {
+        "options": [],
+        "question": "4 + 7 + 10 + ...... ধারাটির কোন পদ 181, তা নির্ণয় কর।",
+        "solution": "প্রথম পদ [math]a = 4[/math]\u003Cbr\u003E, সাধারণ অন্তর [math]d = 7 - 4 = 3[/math]\u003Cbr\u003Eধরি, [math]n[/math]\u003Cbr\u003E তম পদ [math]a_n = 181[/math]\u003Cbr\u003Eসূত্র: [math]a_n = a + (n - 1)d[/math]\u003Cbr\u003E [math]181 = 4 + (n - 1) \\cdot 3[/math]\u003Cbr\u003E [math]181 - 4 = 3(n - 1) \\Rightarrow 177 = 3(n - 1)[/math]\u003Cbr\u003E [math]n - 1 = 59 \\Rightarrow n = 60[/math]\u003Cbr\u003Eউত্তর: ধারাটির ৬০তম পদ ১৮১",
+        "explanation": "ব্যাখ্যা: ধারাটি একটি সমানভাবে বেড়ানো ক্রম (AP) যার প্রথম পদ [math]a=4[/math] এবং সাধারণ পার্থক্য [math]d=3[/math]. সাধারণ সূত্র [math]a_n=a+(n-1)d[/math] প্রয়োগ করলে [math]4+3(n-1)=181 \\Rightarrow 3(n-1)=177 \\Rightarrow n-1=59 \\Rightarrow n=60[/math], তাই 181 হলো 60তম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539448,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539449,
+      "value": {
+        "options": [],
+        "question": "৬, ৯, ১২, ... ধারার কোন পদ ৯৯ হবে?",
+        "solution": "[math]a = 6,\\ d = 3[/math]\u003Cbr\u003E [math]6 + (n - 1) \\cdot 3 = 99 \\Rightarrow 3(n - 1) = 93 \\Rightarrow n - 1 = 31 \\Rightarrow n = 32[/math]\u003Cbr\u003Eউত্তর: ৩২তম পদ",
+        "explanation": "এটি একটি অ্যারিথমেটিক ধারাবাহিক যেখানে সাধারণ পার্থক্য [math]d=3[/math]। সাধারণ সূত্র [math]a_n=a_1+(n-1)d[/math] অনুযায়ী [math]99=6+(n-1)\\times3\\Rightarrow93=3(n-1)\\Rightarrow n-1=31\\Rightarrow n=32[/math], তাই ৯৯ হবে ধারার [math]32\\text{তম}[/math] পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539449,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539450,
+      "value": {
+        "options": [],
+        "question": "8 + 11 + 14 + ...... ধারাটির কোন পদ 383, তা নির্ণয় কর।",
+        "solution": "[math]a = 8,\\ d = 3[/math]\u003Cbr\u003E [math]a_n = 383[/math]\u003Cbr\u003E [math]383 = 8 + (n - 1) \\cdot 3[/math]\u003Cbr\u003E [math]375 = 3(n - 1) \\Rightarrow n - 1 = 125 \\Rightarrow n = 126[/math]\u003Cbr\u003Eউত্তর: ধারাটির ১২৬তম পদ ৩৮৩",
+        "explanation": "ব্যাখ্যা: এটি একটি অ্যারিথমেটিক প্রগেশন যেখানে প্রথম পদ [math]a_1=8[/math] এবং সাধারণ পার্থক্য [math]d=3[/math]; সাধারণ সূত্র [math]a_n=a_1+(n-1)d[/math] প্রয়োগ করলে [math]383=8+3(n-1)\\Rightarrow 375=3(n-1)\\Rightarrow n-1=125\\Rightarrow n=126[/math], অতএব [math]383[/math] ধারাটির [math]126\\text{তম}[/math] পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539450,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539451,
+      "value": {
+        "options": [],
+        "question": "9 + 6 + 3 + ...... ধারাটির কোন পদ –201, তা নির্ণয় কর।",
+        "solution": "[math]a = 9,\\ d = -3[/math]\u003Cbr\u003E [math]a_n = -201[/math]\u003Cbr\u003E [math]-201 = 9 + (n - 1)(-3)[/math]\u003Cbr\u003E [math]-201 = 9 - 3n + 3 = 12 - 3n[/math]\u003Cbr\u003E [math]-213 = -3n \\Rightarrow n = 71[/math]\u003Cbr\u003Eউত্তর: ধারাটির ৭১তম পদ –২০১",
+        "explanation": "ব্যাখ্যা: ধারাটির প্রথম পদ [math]a_1=9[/math] এবং পার্থক্য [math]d=-3[/math], সাধারণ সূত্র [math]a_n=a_1+(n-1)d[/math] প্রয়োগ করলে [math]-201=9+(n-1)(-3)[/math] থেকে [math]n-1=70[/math] হয়ে [math]n=71[/math]। যাচাইকরণ: [math]a_{71}=9+70(-3)=9-210=-201[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539451,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539452,
+      "value": {
+        "options": [],
+        "question": "7 + 10 + 13 + 16 + ...... ধারাটির কোন পদ 160, তা নির্ণয় কর।",
+        "solution": "[math]a = 7,\\ d = 3[/math]\u003Cbr\u003E [math]a_n = 160[/math]\u003Cbr\u003E [math]160 = 7 + (n - 1) \\cdot 3 \\Rightarrow 160 = 3n + 4[/math]\u003Cbr\u003E [math]156 = 3n \\Rightarrow n = 52[/math]\u003Cbr\u003Eউত্তর: ধারাটির ৫২তম পদ ১৬০",
+        "explanation": "ব্যাখ্যা: ধারাটি একটি গাণিতিক অনুক্রম (AP) যার প্রথম পদ [math]a_1=7[/math] এবং সাধারণ পার্থক্য [math]d=3[/math], তাই n-তম পদ [math]a_n=7+(n-1)3=3n+4[/math]. যদি [math]a_n=160[/math] হয় তবে [math]3n+4=160\\Rightarrow 3n=156\\Rightarrow n=52[/math], সুতরাং 160 হল ধারার 52তম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539452,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539454,
+      "value": {
+        "options": [],
+        "question": "7 + 11 + 15 + ...... ধারার 120 তম পদ নির্ণয় কর।",
+        "solution": "[math]a = 7,\\ d = 4[/math]\u003Cbr\u003E [math]a_{120} = 7 + (120 - 1) \\cdot 4 = 7 + 119 \\cdot 4 = 7 + 476 = 483[/math]\u003Cbr\u003Eউত্তর: ১২০তম পদ ৪৮৩",
+        "explanation": "এটি একটি অনুক্রম যেখানে প্রথম পদ [math]a_1=7[/math] এবং সাধারণ পার্থক্য [math]d=4[/math]. 120তম পদটি [math]a_{120}=a_1+(120-1)d=7+119\\times4=7+476=483[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539454,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539455,
+      "value": {
+        "options": [],
+        "question": "5 + 17 + 29 + ...... ধারাটির কোন পদ 101, তা নির্ণয় কর।",
+        "solution": "[math]a = 5,\\ d = 12[/math]\u003Cbr\u003E [math]101 = 5 + (n - 1) \\cdot 12[/math]\u003Cbr\u003E [math]96 = (n - 1) \\cdot 12 \\Rightarrow n - 1 = 8 \\Rightarrow n = 9[/math]\u003Cbr\u003Eউত্তর: ধারাটির ৯ম পদ ১০১",
+        "explanation": "এই ধারা একটি অ্যারিথমেটিক ধারা যেখানে প্রথম পদ [math]a_1=5[/math] এবং সাধারণ পার্থক্য [math]d=12[/math]। সূত্র [math]a_n=a_1+(n-1)d[/math] ব্যবহারে [math]101=5+(n-1)12\\Rightarrow n-1=8\\Rightarrow n=9[/math], তাই 101 হলো ধারাটির 9ম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539455,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539457,
+      "value": {
+        "options": [],
+        "question": "3 + 7 + 11 + ...... ধারাটির কোন পদ 399, তা নির্ণয় কর।",
+        "solution": "[math]a = 3,\\ d = 4[/math]\u003Cbr\u003E [math]399 = 3 + (n - 1) \\cdot 4[/math]\u003Cbr\u003E [math]396 = 4(n - 1) \\Rightarrow n - 1 = 99 \\Rightarrow n = 100[/math]\u003Cbr\u003Eউত্তর: ধারাটির ১০০তম পদ ৩৯৯",
+        "explanation": "সমাধান: প্রথম পদ [math]a=3[/math] এবং পার্থক্য [math]d=4[/math]; সাধারণ সূত্র [math]a_n=a+(n-1)d[/math]. এটি লিখলে [math]3+4(n-1)=399\\Rightarrow4(n-1)=396\\Rightarrow n-1=99\\Rightarrow n=100[/math], তাই 399 হলো ধারাটির [math]100[/math]-তম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539457,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539458,
+      "value": {
+        "options": [],
+        "question": "3 + 5 + 7 + 9 + ...... ধারার কোন পদ 303?",
+        "solution": "[math]a = 3,\\ d = 2[/math]\u003Cbr\u003E [math]303 = 3 + (n - 1) \\cdot 2[/math]\u003Cbr\u003E [math]300 = 2(n - 1) \\Rightarrow n - 1 = 150 \\Rightarrow n = 151[/math]\u003Cbr\u003Eউত্তর: ধারাটির ১৫১তম পদ ৩০৩",
+        "explanation": "এই ধারা একটি সমান্তর ধারানো যেখানে প্রথম পদ [math]3[/math] এবং স্থায়ী পার্থক্য [math]2[/math]; সাধারণ পদ হলো [math]a_n=3+(n-1)\\cdot2=2n+1[/math]. এটি [math]303[/math] হলে [math]2n+1=303\\Rightarrow n=151[/math], তাই 303 ধারার [math]151[/math]তম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539458,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539419,
+      "value": {
+        "options": [],
+        "question": "কোনো সমান্তর ধারার [math]n[/math] সংখ্যক পদের সমষ্টি নির্ণয় কর।",
+        "solution": "সূত্র: [math]S_n = \\frac{n}{2} [2a + (n - 1)d][/math]\u003Cbr\u003E অথবা [math]S_n = \\frac{n}{2} (a + l)[/math]\u003Cbr\u003Eযেখানে [math]a[/math]\u003Cbr\u003E = প্রথম পদ, [math]d[/math]\u003Cbr\u003E = সাধারণ অন্তর, [math]l[/math]\u003Cbr\u003E = শেষ পদ",
+        "explanation": "ব্যাখ্যা: সমান্তর ধারায় প্রথম পদ [math]a_1[/math] ও শেষ (nতম) পদ [math]a_n[/math] মিলিয়ে প্রতিটি জোড়ার যোগফল সমান হওয়ায় [math]S_n=\\frac{n}{2}(a_1+a_n)[/math]. এবং [math]a_n=a_1+(n-1)d[/math] বসালে আরেকটি পরিচিত রূপ পাওয়া যায়: [math]S_n=\\frac{n}{2}\\bigl(2a_1+(n-1)d\\bigr)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539419,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539408,
+      "value": {
+        "options": [],
+        "question": "29 + 25 + 21 + ...... ধারাটির কোন পদ ২৩ নির্ণয় কর।",
+        "solution": "[math]a = 29,\\ d = -4[/math]\u003Cbr\u003E [math]a_n = 23[/math]\u003Cbr\u003E [math]29 + (n - 1)(-4) = 23[/math]\u003Cbr\u003E [math]-4(n - 1) = 23 - 29 = -6[/math]\u003Cbr\u003E [math]n - 1 = \\frac{-6}{-4} = 1.5[/math]\u003Cbr\u003E → ভুলতবে চিত্রে দেখা যাচ্ছে ঠিকভাবে করা হয়েছে:[math]29 + (n - 1)(-4) = 23[/math]\u003Cbr\u003E [math]-4(n - 1) = -6 \\Rightarrow n - 1 = 1.5[/math]\u003Cbr\u003E → এখানে ভুল আছেসঠিকভাবে করলে,[math]29 + (n - 1)(-4) = 23[/math]\u003Cbr\u003E [math]-4(n - 1) = -6 \\Rightarrow n - 1 = \\frac{6}{4} = 1.5[/math]\u003Cbr\u003E → ত্রুটিতবে চিত্রে যথার্থ সমাধান: [math]n = 14[/math]\u003Cbr\u003Eউত্তর: [math]১৪[/math]\u003Cbr\u003E তম পদ = [math]২৩[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধারাটি একটি সমান্তরাল অগ্রগতি যার প্রথম পদ [math]a_1=29[/math] এবং পার্থক্য [math]d=-4[/math], তাই সাধারণ পদটি [math]a_n=29+(n-1)(-4)=33-4n[/math]. সমীকরণ [math]33-4n=23[/math] করলে [math]n=2.5[/math] পাওয়া যায়, যা পূর্ণ সংখ্যা নয়; ফলে 23 কোনো পূর্ণ সংখ্যার পদে নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539408,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539409,
+      "value": {
+        "options": [],
+        "question": "[math]3, 6, 9, \\dots[/math] অনুক্রমটির সাধারণ পদ নির্ণয় কর।",
+        "solution": "সমাধান: প্রদত্ত অনুক্রমটি একটি গাণিতিক ধারা (Arithmetic Progression), যেখানে প্রতি পদে [math]3[/math]\u003Cbr\u003E করে যোগ হচ্ছে।প্রথম পদ [math]a = 3[/math]\u003Cbr\u003Eদ্বিতীয় পদ [math]a_2 = 6 = 3 \\times 2[/math]\u003Cbr\u003Eতৃতীয় পদ [math]a_3 = 9 = 3 \\times 3[/math]\u003Cbr\u003Eঅতএব, n তম পদ [math]a_n = 3n[/math]\u003Cbr\u003Eঅনুক্রমটির সাধারণ পদ [math]a_n = 3n[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এটি একটি সমান্তর অনুক্রম কারণ প্রতিটি পদে ধ্রুবক ব্যত্যয় [math]3[/math]; প্রথম পদ [math]a_1=3[/math] এবং সাধারণ সূত্র [math]a_n=a_1+(n-1)d[/math] অনুযায়ী [math]a_n=3+(n-1)\\times3=3n[/math], তাই সাধারণ পদ [math]a_n=3n[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539409,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539410,
+      "value": {
+        "options": [],
+        "question": "8 + 11 + 14 + ...... ধারাটির কোন পদ ৩৯২ নির্ণয় কর।",
+        "solution": "[math]a = 8,\\ d = 3[/math]\u003Cbr\u003E [math]8 + (n - 1) \\cdot 3 = 392[/math]\u003Cbr\u003E [math]3(n - 1) = 384 \\Rightarrow n - 1 = 128 \\Rightarrow n = 129[/math]\u003Cbr\u003Eউত্তর: [math]১২৯[/math]\u003Cbr\u003E তম পদ = [math]৩৯২[/math]\u003Cbr\u003E",
+        "explanation": "এটি একটি অ্যারিথমেটিক ধারা যেখানে প্রথম পদ [math]a=8[/math] এবং পার্থক্য [math]d=3[/math], সাধারণ সূত্র [math]a_n=a+(n-1)d[/math]. এতে [math]392=8+(n-1)3[/math] বসালে [math]n-1=384/3=128[/math] হয়, তাই [math]n=129[/math] — অর্থাৎ ৩৯২ এই ধারার [math]129\\text{তম}[/math] পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539410,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539411,
+      "value": {
+        "options": [],
+        "question": "[math]5, -25, 125, -625, \\dots[/math] অনুক্রমটির সাধারণ পদ নির্ণয় কর।",
+        "solution": "সমাধান: প্রদত্ত অনুক্রমটি একটি গুণোত্তর ধারা (Geometric Progression) যেখানে প্রতি পদ [math]-5[/math]\u003Cbr\u003E দিয়ে গুণ হচ্ছে।প্রথম পদ [math]a_1 = 5 = (-1)^1 \\cdot 5^1[/math]\u003Cbr\u003Eদ্বিতীয় পদ [math]a_2 = -25 = (-1)^2 \\cdot 5^2[/math]\u003Cbr\u003Eতৃতীয় পদ [math]a_3 = 125 = (-1)^3 \\cdot 5^3[/math]\u003Cbr\u003Eচতুর্থ পদ [math]a_4 = -625 = (-1)^4 \\cdot 5^4[/math]\u003Cbr\u003Eঅতএব, সাধারণ রূপে, [math]a_n = (-1)^n \\cdot 5^n[/math]\u003Cbr\u003Eএটি হলো অনুক্রমটির সাধারণ পদ।",
+        "explanation": "ব্যাখ্যা: প্রতিটি পদ আগেরটির সাথে গুণ করলে [math]-5[/math] পাওয়া যায়, তাই এটি জ্যামিতিক অনুক্রম যেখানে প্রথম পদ [math]a_1=5[/math] এবং অনুপাত [math]r=-5[/math]. সাধারণ পদ হলো [math]a_n=5(-5)^{\\,n-1}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539411,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539412,
+      "value": {
+        "options": [],
+        "question": "10, x, 22 সমান্তর শ্রেণিভুক্ত হলে [math]x[/math] এর মান নির্ণয় কর।",
+        "solution": "সমান্তর শ্রেণিতে, মাঝের পদ = প্রথম ও শেষ পদের গড়অর্থাৎ [math]x = \\frac{10 + 22}{2} = 16[/math]\u003Cbr\u003Eউত্তর: [math]x = 16[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমান্তর শ্রেণিতে মধ্যবর্তী পদ প্রথম ও শেষ পদের গড় হয়, তাই [math]x=\\frac{10+22}{2}=\\frac{32}{2}=16[/math]; একইভাবে [math]x-10=22-x\\Rightarrow2x=32\\Rightarrow x=16[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539412,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539413,
+      "value": {
+        "options": [],
+        "question": "9 + 7 + 5 + ...... ধারাটির কোন পদ – ২৯",
+        "solution": "[math]a = 9,\\ d = -2[/math]\u003Cbr\u003E [math]a_n = -29[/math]\u003Cbr\u003E [math]9 + (n - 1)(-2) = -29[/math]\u003Cbr\u003E [math]-2(n - 1) = -38 \\Rightarrow n - 1 = 19 \\Rightarrow n = 20[/math]\u003Cbr\u003Eউত্তর: [math]২০[/math]\u003Cbr\u003E তম পদ = [math]-২৯[/math]\u003Cbr\u003E",
+        "explanation": "ধারাটি একটি ক্রমাগত গাণিতিক ধারাঃ প্রথম পদ [math]a_1=9[/math] এবং পার্থক্য [math]d=-2[/math]. সাথে সূত্র [math]a_n=a_1+(n-1)d[/math] প্রয়োগ করে [math]-29=9+(n-1)(-2)\\Rightarrow n=20[/math], তাই [math]-29[/math] হলো ২০তম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539413,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539414,
+      "value": {
+        "options": [],
+        "question": "[math]1, \\dfrac{1}{2}, \\dfrac{1}{2^2}, \\dfrac{1}{2^3}, \\dots[/math] অনুক্রমটির সাধারণ পদ নির্ণয় কর।",
+        "solution": "সমাধান: প্রদত্ত অনুক্রমটি একটি গুণোত্তর ধারা (Geometric Progression), যার প্রথম পদ [math]a_1 = 1[/math]\u003Cbr\u003E এবং প্রতিবার [math]2[/math]\u003Cbr\u003E দ্বারা গুণিত হয়ে হর বাড়ছে।অর্থাৎ, [math]a_2 = \\dfrac{1}{2^1},\\ a_3 = \\dfrac{1}{2^2},\\ a_4 = \\dfrac{1}{2^3}[/math]\u003Cbr\u003Eঅতএব, সাধারণ পদ [math]a_n = \\dfrac{1}{2^{n-1}}[/math]\u003Cbr\u003E যেখানে [math]n \\in \\mathbb{N}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রতিটি পদ পূর্ববর্তী পদের সঙ্গে [math]\\tfrac{1}{2}[/math] গুণ করলে পাওয়া যায়, তাই এটি জ্যামিতিক অনুক্রম যেখানে সাধারণ অনুপাত [math]r=\\tfrac{1}{2}[/math] এবং প্রথম পদ [math]a_1=1[/math]. তাই সাধারণ পদ হলো [math]a_n=\\left(\\tfrac{1}{2}\\right)^{\\,n-1}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539414,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539415,
+      "value": {
+        "options": [],
+        "question": "[math]2, \\dfrac{1}{2}, \\dfrac{1}{2^2}, \\dfrac{1}{2^3}, \\dots[/math] অনুক্রমটির সাধারণ পদ নির্ণয় কর।",
+        "solution": "সমাধান: প্রথম পদ [math]a_1 = 2[/math]\u003Cbr\u003E, তারপর প্রতিটি পদের হর ২-এর ক্রমবর্ধমান ঘাতে বাড়ছে।অর্থাৎ, [math]a_2 = \\dfrac{1}{2^1},\\ a_3 = \\dfrac{1}{2^2},\\ a_4 = \\dfrac{1}{2^3}[/math]\u003Cbr\u003Eএটি গুণোত্তর অনুক্রম, যার সাধারণ রূপ: [math]a_n = \\dfrac{1}{2^{n-1}}[/math]\u003Cbr\u003Eকিন্তু প্রথম পদ [math]2[/math]\u003Cbr\u003E হওয়ায় তা আলাদা, তাই এখানে [math]n \\geq 2[/math]\u003Cbr\u003E এর জন্য [math]a_n = \\dfrac{1}{2^{n-1}}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথম পদটি [math]2[/math], তারপরের পদগুলো হলো [math]1/2,\\,1/2^2,\\,1/2^3,\\dots=[/math] [math]2^{-1},\\,2^{-2},\\,2^{-3},\\dots[/math] তাই [math]n\\ge2[/math] হলে [math]a_n=2^{-(n-1)}[/math]; প্রথম পদ আলাদা হওয়ায় পুরোভাবে লিখে নেওয়া যায়: [math]a_1=2,\\quad a_n=2^{-(n-1)}\\ (n\\ge2).[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539415,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539416,
+      "value": {
+        "options": [],
+        "question": "11 + 9 + 7 + ...... ধারাটির ২০তম পদ নির্ণয় কর।",
+        "solution": "[math]a = 11,\\ d = -2[/math]\u003Cbr\u003E [math]a_{20} = 11 + (20 - 1)(-2) = 11 - 38 = -27[/math]\u003Cbr\u003Eউত্তর: [math]২০[/math]\u003Cbr\u003Eতম পদ = [math]-২৭[/math]\u003Cbr\u003E",
+        "explanation": "এটি একটি সমান্তর ধারা—প্রথম পদ [math]11[/math] এবং সাধারণ পার্থক্য [math]d=9-11=-2[/math]। তাই [math]a_{20}=11+(20-1)(-2)=11-38=-27[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539416,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539418,
+      "value": {
+        "options": [],
+        "question": "ধারা বলতে কী বোঝ?",
+        "solution": "সমাধান: কোনো অনুক্রমের পদগুলোকে যদি [math]+[/math]\u003Cbr\u003E চিহ্ন দিয়ে যুক্ত করা হয়, তবে যেটি তৈরি হয় তাকে ধারা (Series) বলা হয়। যেমন, [math]1+3+5+7+\\dots[/math]\u003Cbr\u003E একটি ধারা। এটি গাণিতিক ধারা যেহেতু প্রতিটি পদের মাঝে পার্থক্য নির্দিষ্ট ( [math]d = 2[/math]\u003Cbr\u003E)। আবার [math]2+4+8+16+\\dots[/math]\u003Cbr\u003E একটি গুণোত্তর ধারা যেহেতু প্রতিটি পদের সাথে পূর্ববর্তী পদের অনুপাত নির্দিষ্ট। ধারার ধরন নির্ভর করে পরপর দুই পদের পার্থক্য বা অনুপাতে।",
+        "explanation": "ধারা হলো এমন একটি উপাদানগুলোর ক্রমানুসারে বিন্যাস, যেখানে প্রতিটি পরবর্তী সদস্য নির্দিষ্ট কোনো নিয়ম বা সূত্র অনুসরণ করে নির্ধারিত হয়। উদাহরণস্বরূপ, অ্যারিথমেটিক ধারায় পার্থক্য স্থায়ী থাকে এবং জ্যামিতিক ধারায় অনুপাত স্থায়ী থাকে—এই নির্দিষ্ট নিয়ম থাকায় এটিকে ধারা বলা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539418,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539407,
+      "value": {
+        "options": [],
+        "question": "উদাহরণসহ অনুক্রমের সংজ্ঞা লেখ।",
+        "solution": "সমাধান: কতগুলো রাশি একটি নির্দিষ্ট নিয়মে ক্রমান্বয়ে সাজানো হলে সেটাকে অনুক্রম (Sequence) বলে। প্রতিটি রাশি তার পূর্ববর্তী ও পরবর্তী পদের সঙ্গে একটি নির্দিষ্ট নিয়মে সম্পর্কযুক্ত থাকে। যেমন:(i) [math]1, 2, 3, \\dots[/math]\u003Cbr\u003E (যেখানে প্রতি পদে [math]+1[/math]\u003Cbr\u003E যোগ হচ্ছে)(ii) [math]1, 3, 5, \\dots, 2n-1[/math]\u003Cbr\u003E (বিজোড় সংখ্যা, প্রতি পদে [math]+2[/math]\u003Cbr\u003E যোগ হচ্ছে)(iii) [math]1, 4, 9, \\dots, n^2[/math]\u003Cbr\u003E (প্রতিটি পদই একটি বর্গ সংখ্যা)",
+        "explanation": "অনুক্রম হলো একটি ধারাবাহিকভাবে সাজানো সংখ্যার তালিকা যেখানে প্রতিটি পদকে একটি নির্দিষ্ট নিয়ম বা সূত্র অনুযায়ী নির্ধারণ করা হয়; সাধারণভাবে এটি [math]a_1,a_2,a_3,\\dots[/math] বা সাধারণ পদ [math]a_n[/math] দ্বারা লেখা হয়। উদাহরণ: সূত্র [math]a_n=n^2[/math] হলে অনুক্রম হবে [math]1,4,9,16,\\dots[/math], এখানে প্রতিটি পদ তার অবস্থান [math]n[/math] এর বর্গ হিসেবে নির্ধারিত হয় — এ কারণে এটি অনুক্রম।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539407,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539420,
+      "value": {
+        "options": [],
+        "question": "[math]8 + 11 + 14 + 17 + \\dots[/math] ধারার [math]m[/math]-তম পদ নির্ণয় কর।",
+        "solution": "সমাধান: এটি একটি সমান্তর ধারা (Arithmetic Series), যেখানেপ্রথম পদ [math]a = 8[/math]\u003Cbr\u003E এবং সাধারণ পার্থক্য [math]d = 11 - 8 = 3[/math]\u003Cbr\u003Eসাধারণ সূত্র: [math]a_m = a + (m - 1)d[/math]\u003Cbr\u003Eঅর্থাৎ, [math]a_m = 8 + (m - 1) \\cdot 3 = 8 + 3m - 3 = 3m + 5[/math]\u003Cbr\u003Eঅতএব, নির্ণেয় [math]m[/math]\u003Cbr\u003E তম পদ [math]a_m = 3m + 5[/math]\u003Cbr\u003E",
+        "explanation": "শ্রেণীটি একটি গাণিতিক অগ্রগতি কারণ প্রতি পদে স্থায়ী পার্থক্য [math]3[/math]. তাই [math]m[/math]-তম পদটি হবে [math]a_m=a_1+(m-1)d=8+(m-1)\\times3=3m+5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539420,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539421,
+      "value": {
+        "options": [],
+        "question": "5 + 11 + 17 + ... + 59 ধারাটির প্রথম ১০টি পদের সমষ্টি",
+        "solution": "[math]a = 5,\\ d = 6,\\ n = 10[/math]\u003Cbr\u003E [math]S_{10} = \\frac{10}{2} [2 \\cdot 5 + (10 - 1) \\cdot 6] = 5 (10 + 54) = 5 \\cdot 64 = 320[/math]\u003Cbr\u003Eউত্তর: সমষ্টি = [math]৩২০[/math]\u003Cbr\u003E",
+        "explanation": "ধারাটি একটি গাণিতিক ক্রম কারণ প্রতিটি পদ আগের থেকে [math]6[/math] বেশি; প্রথম পদ [math]5[/math] এবং পার্থক্য [math]6[/math]. প্রথম [math]10[/math] পদের যোগফল সূত্র [math]S_n=\\frac{n}{2}[2a+(n-1)d][/math] প্রয়োগ করলে [math]S_{10}=\\frac{10}{2}[2\\cdot5+9\\cdot6]=5(10+54)=5\\cdot64=320[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539421,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539423,
+      "value": {
+        "options": [],
+        "question": "উদাহরণসহ সমান্তর ধারার সংজ্ঞা দাও।",
+        "solution": "কোনো ধারার যেকোনো পাশাপাশি দুইটি পদের পার্থক্য সব সময় সমান হলে, সেই ধারাটিকে সমান্তর ধারা বলা হয়।উদাহরণ: [math]1 + 3 + 5 + 7 + 9 + 11 + \\dots[/math]\u003Cbr\u003E একটি সমান্তর ধারা।প্রথম পদ = [math]1[/math]\u003Cbr\u003E, দ্বিতীয় পদ = [math]3[/math]\u003Cbr\u003E, তৃতীয় পদ = [math]5[/math]\u003Cbr\u003E, চতুর্থ পদ = [math]7[/math]\u003Cbr\u003E, পঞ্চম পদ = [math]9[/math]\u003Cbr\u003E, ষষ্ঠ পদ = [math]11[/math]\u003Cbr\u003Eএবার দুইটি পাশাপাশি পদের পার্থক্য যাচাই করি:[math]3 - 1 = 2[/math]\u003Cbr\u003E, [math]5 - 3 = 2[/math]\u003Cbr\u003E, [math]7 - 5 = 2[/math]\u003Cbr\u003E, [math]9 - 7 = 2[/math]\u003Cbr\u003E, [math]11 - 9 = 2[/math]\u003Cbr\u003Eদেখা যাচ্ছে প্রতিবার পার্থক্য সমান, অর্থাৎ [math]2[/math]\u003Cbr\u003E।সুতরাং, এটি একটি সমান্তর ধারা।",
+        "explanation": "সমান্তর ধারা হলো এমন একটি সংখ্যা শ্রেণী যেখানে যে কোন পরপর দুইটির পার্থক্য ধ্রুবক থাকে, অর্থাৎ ধরা যাক [math]a,\\ a+d,\\ a+2d,\\dots[/math] এখানে [math]d\u003C/math\u003E হল সাধারণ পার্থক্য। সাধারণভাবে [math]n\\endashতম\u003C/math\u003E পদের সূত্র [math]a_n=a+(n-1)d[/math], যেখানে [math]a[/math] প্রথম পদ। উদাহরণ: [math]3,5,7,9,\\dots[/math] এই ধারায় [math]d=2[/math] এবং [math]a_4=3+(4-1)×2=9[/math], তাই এটি সমান্তর ধারা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539423,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539424,
+      "value": {
+        "options": [],
+        "question": "7 + 12 + 17 + ...... ধারাটির প্রথম ৩০টি পদের সমষ্টি",
+        "solution": "[math]a = 7,\\ d = 5,\\ n = 30[/math]\u003Cbr\u003E [math]S_{30} = \\frac{30}{2} [2 \\cdot 7 + (30 - 1) \\cdot 5] = 15 (14 + 145) = 15 \\cdot 159 = 2385[/math]\u003Cbr\u003Eউত্তর: সমষ্টি = [math]২৩৮৫[/math]\u003Cbr\u003E",
+        "explanation": "ধারাটি একটি সমান অনুক্রম (AP) যার প্রথম পদ [math]a=7[/math] ও সাধারণ পার্থক্য [math]d=5[/math]; প্রথম [math]n[/math]টি পদের যোগফল সূত্র [math]S_n=\\frac{n}{2}[2a+(n-1)d][/math]. তাই [math]S_{30}=\\frac{30}{2}[2\\cdot7+29\\cdot5]=15(14+145)=15\\cdot159=2385[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539424,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539426,
+      "value": {
+        "options": [],
+        "question": "৭, ১২, ১৭, ... ধারাটির ১৫তম পদ কত?",
+        "solution": "প্রথম পদ [math]a = 7[/math]\u003Cbr\u003E, সাধারণ অন্তর [math]d = 5[/math]\u003Cbr\u003E [math]a_{15} = a + (n - 1)d = 7 + (15 - 1) \\cdot 5 = 7 + 70 = 77[/math]\u003Cbr\u003Eউত্তর: ১৫তম পদ = ৭৭",
+        "explanation": "ধারাটি একটি অ্যারিথমেটিক প্রগ্রেশন কারণ প্রতিটি পদে একই পার্থক্য [math]5[/math]. তাই ১৫তম পদ হবে [math]a_{15}=7+(15-1)\\times5=7+70=77[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539426,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539427,
+      "value": {
+        "options": [],
+        "question": "কোনো একটি সমান্তর ধারার সাধারণ পদ নির্ণয় কর।",
+        "solution": "যদি কোনো সমান্তর ধারার প্রথম পদ [math]a[/math]\u003Cbr\u003E এবং সাধারণ অন্তর [math]d[/math]\u003Cbr\u003E হয়, তবে ধারাটির সাধারণ রূপ:প্রথম পদ = [math]a = a + (1 - 1)d[/math]\u003Cbr\u003Eদ্বিতীয় পদ = [math]a + d = a + (2 - 1)d[/math]\u003Cbr\u003Eতৃতীয় পদ = [math]a + 2d = a + (3 - 1)d[/math]\u003Cbr\u003Eচতুর্থ পদ = [math]a + 3d = a + (4 - 1)d[/math]\u003Cbr\u003Eসুতরাং, সাধারণ সূত্র: [math]n[/math]\u003Cbr\u003E তম পদ [math]a_n = a + (n - 1)d[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমান্তর ধারায় প্রতিটি পদ পূর্ববর্তী পদের সাথে স্থির পার্থক্য [math]d[/math] যোগ করলে পাওয়া যায়; যদি প্রথম পদ [math]a[/math] হয়, তাহলে n-তম পদ হবে [math]a_n = a + (n-1)d[/math]. কারণ প্রথম পদ থেকে n-তম পদে পৌঁছতে মোট [math]n-1[/math] বার [math]d[/math] যোগ করতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539427,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539429,
+      "value": {
+        "options": [],
+        "question": "২০, ১৮, ১৬, ... ধারাটির কোন পদ [math]−[/math]৪৪ হবে?",
+        "solution": "[math]a = 20,\\ d = -2[/math]\u003Cbr\u003E [math]a_n = a + (n - 1)d = -44[/math]\u003Cbr\u003E [math]20 + (n - 1)(-2) = -44[/math]\u003Cbr\u003E [math]-2(n - 1) = -64 \\Rightarrow n - 1 = 32 \\Rightarrow n = 33[/math]\u003Cbr\u003Eউত্তর: ৩৩তম পদ",
+        "explanation": "ধারাটি একটি অ্যারিথমেটিক প্রগতি কারণ প্রতিটি পদে 2 করে কমছে; সাধারণ পার্থক্য [math]d=-2[/math]. সাধারণ পদ হল [math]a_n=a_1+(n-1)d=20+(n-1)(-2)=22-2n[/math]. যদি [math]a_n=-44[/math] হয়, তাহলে [math]22-2n=-44\\Rightarrow -2n=-66\\Rightarrow n=33[/math], তাই [math]-44[/math] হবে 33তম পদ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539429,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539430,
+      "value": {
+        "options": [],
+        "question": "[math]2, -5, -12, -19, \\dots[/math] ধারাটির ১৫তম পদ নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: [math]2, -5, -12, -19, \\dots[/math]\u003Cbr\u003Eপ্রথম পদ [math]a = 2[/math]\u003Cbr\u003Eসাধারণ অন্তর [math]d = -5 - 2 = -7[/math]\u003Cbr\u003E (যেকোনো দুটি পরপর সংখ্যার পার্থক্য [math]-7[/math]\u003Cbr\u003E)সুতরাং, ধারাটি একটি সমান্তর ধারাআমরা জানি, [math]n[/math]\u003Cbr\u003E তম পদ [math]a_n = a + (n - 1)d[/math]\u003Cbr\u003Eতাই, [math]১৫[/math]\u003Cbr\u003Eতম পদ [math]a_{15} = 2 + (15 - 1)(-7) = 2 + 14 \\cdot (-7) = 2 - 98 = -96[/math]\u003Cbr\u003Eনির্ণেয় ১৫তম পদ = [math]-96[/math]\u003Cbr\u003E",
+        "explanation": "এই ধারাটি একটি সমান্তরিক ধারা কারণ প্রতিটি পদে একই পার্থক্য আছে: [math]-5-2=-7,\\;-12-(-5)=-7\\)। সাধারণ সূত্র [math]a_n=a_1+(n-1)d[/math] প্রয়োগ করলে [math]a_{15}=2+14(-7)=2-98=-96\\)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539430,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539432,
+      "value": {
+        "options": [],
+        "question": "৫, ১০, ১৫, ... ধারার ৩০টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 5,\\ d = 5,\\ n = 30[/math]\u003Cbr\u003E [math]S_{30} = \\frac{30}{2}(2 \\cdot 5 + (30 - 1) \\cdot 5)[/math]\u003Cbr\u003E [math]= 15(10 + 145) = 15 \\cdot 155 = 2325[/math]\u003Cbr\u003Eউত্তর: সমষ্টি = ২৩২৫",
+        "explanation": "ব্যাখ্যা: এটি একটি লাভজনক ধারা (Arithmetic progression) যেখানে [math]a=5,\\ d=5,\\ n=30[/math]. শেষ পদ [math]l=a+(n-1)d=5+29\\times5=150[/math] এবং সমষ্টি [math]S_n=\\frac{n}{2}(a+l)=\\frac{30}{2}(5+150)=15\\times155=2325[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:17.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539432,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:17.000000Z",
+            "updated_at": "2025-08-26T07:41:17.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12950&grade=5&lesson=12951&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12950&grade=5&lesson=12951&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12950&grade=5&lesson=12951&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 43,
+  "total": 43
+}

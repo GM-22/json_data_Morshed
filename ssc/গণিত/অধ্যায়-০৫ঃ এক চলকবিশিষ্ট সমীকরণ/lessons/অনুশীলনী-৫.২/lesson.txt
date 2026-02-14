@@ -1,0 +1,1331 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 535066,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের ভূমি তার উচ্চতার দ্বিগুণ অপেক্ষা [math]6[/math] সে.মি. বেশি। ত্রিভুজ ক্ষেত্রটির ক্ষেত্রফল [math]810[/math] বর্গ সে.মি. হলে, এর উচ্চতা কত?",
+        "solution": "ধরি, উচ্চতা [math]= x[/math]\u003Cbr\u003E সে.মি.তাহলে, ভূমি [math]= 2x + 6[/math]\u003Cbr\u003Eত্রিভুজের ক্ষেত্রফল [math]= \\frac{1}{2} \\times[/math]\u003Cbr\u003E ভূমি [math]\\times[/math]\u003Cbr\u003E উচ্চতা∴ [math]\\frac{1}{2} \\times (2x + 6) \\times x = 810[/math]\u003Cbr\u003Eবা, [math](2x + 6)x = 1620[/math]\u003Cbr\u003Eবা, [math]2x^2 + 6x - 1620 = 0[/math]\u003Cbr\u003Eবা, [math]x^2 + 3x - 810 = 0[/math]\u003Cbr\u003E∴ [math](x + 30)(x - 27) = 0[/math]\u003Cbr\u003E∴ [math]x = 27[/math]\u003Cbr\u003E (উচ্চতা), ভূমি [math]= 60[/math]\u003Cbr\u003E∴ উচ্চতা [math]27[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: ভূমি উচ্চতার দ্বিগুণের চেয়ে [math]6[/math] সে.মি. বেশি হলে ভূমি [math]b=2h+6[/math] এবং ক্ষেত্রফল [math]\\tfrac{1}{2}bh=810[/math], তাই [math]\\tfrac{1}{2}(2h+6)h=810[/math]. এখান থেকে [math](2h+6)h=1620\\Rightarrow2h^2+6h-1620=0\\Rightarrow h^2+3h-810=0[/math], যা [math](h+30)(h-27)=0[/math] হিসেবে বিভক্ত হয়; তাই ধনাত্মক উচ্চতা [math]h=27[/math] সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535066,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535052,
+      "value": {
+        "options": [],
+        "question": "একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী পড়ে, প্রত্যেকে তত পয়সার চেয়ে আরও [math]30[/math] পয়সা বেশি করে চাঁদা দেওয়াতে মোট [math]70[/math] টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রীর সংখ্যা কত?",
+        "solution": "ধরি, ছাত্র-ছাত্রীর সংখ্যা [math]= x[/math]\u003Cbr\u003Eপ্রতি জনের চাঁদা [math]= x + 30[/math]\u003Cbr\u003E পয়সামোট চাঁদা = [math]x(x + 30)[/math]\u003Cbr\u003E পয়সা = [math]70 \\times 100 = 7000[/math]\u003Cbr\u003E পয়সা∴ [math]x(x + 30) = 7000[/math]\u003Cbr\u003Eবা, [math]x^2 + 30x - 7000 = 0[/math]\u003Cbr\u003E∴ [math](x + 100)(x - 70) = 0[/math]\u003Cbr\u003E∴ [math]x = 70[/math]\u003Cbr\u003E∴ ছাত্র-ছাত্রীর সংখ্যা [math]= 70[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক ছাত্র-ছাত্রীর সংখ্যা [math]n[/math]. প্রত্যেকে দেয় [math]n+30[/math] পয়সা এবং মোট হল 70 টাকা = [math]7000[/math] পয়সা, তাই [math]n(n+30)=7000[/math]. সমাধান করলে [math]n^2+30n-7000=0[/math], [math]\\sqrt{28900}=170\u003C/math] থেকে [math]n=(-30+170)/2=70\u003C/math] (নেগেটিভ মূল বহিষ্কার), অতএব ছাত্র-ছাত্রীর সংখ্যা [math]70[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535052,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535038,
+      "value": {
+        "options": [],
+        "question": "একটি বয়সজনিত সমস্যায়, একজন বাবার বয়স তার ছেলের ৪ গুণ। ৫ বছর পরে বাবার বয়স ছেলের বয়সের ৩ গুণ হবে। বর্তমানে তাদের বয়স কত?",
+        "solution": "ধরি, ছেলের বর্তমান বয়স [math]= x[/math]\u003Cbr\u003E বছর∴ বাবার বয়স [math]= 4x[/math]\u003Cbr\u003E বছর৫ বছর পর: বাবার বয়স [math]= 4x + 5[/math]\u003Cbr\u003E, ছেলের বয়স [math]= x + 5[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]4x + 5 = 3(x + 5)[/math]\u003Cbr\u003Eবা, [math]4x + 5 = 3x + 15[/math]\u003Cbr\u003Eবা, [math]x = 10[/math]\u003Cbr\u003E∴ বাবার বয়স [math]= 40[/math]\u003Cbr\u003E বছর, ছেলের বয়স [math]= 10[/math]\u003Cbr\u003E বছর",
+        "explanation": "বাবার বয়সকে [math]F[/math] এবং ছেলের বয়সকে [math]S[/math] ধরে শর্তগুলো থেকে [math]F=4S[/math] এবং পাচ বছরে [math]F+5=3(S+5)[/math] পাওয়া যায়; এগুলো মিলিয়ে [math]4S+5=3S+15 \\Rightarrow S=10[/math]. তাই বর্তমানে ছেলের বয়স [math]10[/math] বছর এবং বাবার বয়স [math]40[/math] বছর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535038,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535018,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজের অতিভুজের দৈর্ঘ্য [math]15[/math] সে.মি. ও অপর বাহুদ্বয়ের দৈর্ঘ্যের অন্তর [math]5[/math] সে.মি.। ঐ বাহুদ্বয়ের দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "ধরি, ছোট বাহু [math]= x[/math]\u003Cbr\u003E সে.মি.তাহলে অপর বাহু [math]= x + 5[/math]\u003Cbr\u003E সে.মি.অতিভুজ [math]= 15[/math]\u003Cbr\u003E সে.মি.∴ [math]x^2 + (x + 5)^2 = 15^2[/math]\u003Cbr\u003Eবা, [math]x^2 + x^2 + 10x + 25 = 225[/math]\u003Cbr\u003Eবা, [math]2x^2 + 10x - 200 = 0[/math]\u003Cbr\u003Eবা, [math]x^2 + 5x - 100 = 0[/math]\u003Cbr\u003E∴ [math](x + 10)(x - 10) = 0[/math]\u003Cbr\u003E∴ [math]x = 10[/math]\u003Cbr\u003E (ছোট বাহু), অন্যটি [math]= 15[/math]\u003Cbr\u003E∴ বাহুগুলো [math]10[/math]\u003Cbr\u003E সে.মি. ও [math]15[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: ধরা যাক বাহুগুলো [math]x[/math] ও [math]y[/math] এবং [math]x\u003Ey[/math], তাই [math]x-y=5[/math] ও পিথাগোরাস অনুসারে [math]x^2+y^2=15^2=225[/math]. [math]x=y+5[/math] বসালে [math](y+5)^2+y^2=225\\Rightarrow 2y^2+10y-200=0\\Rightarrow y^2+5y-100=0[/math]. ফলে [math]y=\\frac{-5+5\\sqrt{17}}{2},\\; x=\\frac{5+5\\sqrt{17}}{2}[/math] (প্রায় [math]y\\approx7.81\\text{ সেমি},\\; x\\approx12.81\\text{ সেমি}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535018,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535009,
+      "value": {
+        "options": [],
+        "question": "একটি আয়তাকার ঘরের মেঝের ক্ষেত্রফল ১৯২ বর্গমিটার। মেঝের দৈর্ঘ্য ৪ মিটার কমালে ও প্রস্থ ৪ মিটার বাড়ালে ক্ষেত্রফল অপরিবর্তিত থাকে। মেঝের দৈর্ঘ্য ও প্রস্থ নির্ণয় কর।",
+        "solution": "ধরি, দৈর্ঘ্য [math]= x[/math]\u003Cbr\u003E মিটার এবং প্রস্থ [math]= y[/math]\u003Cbr\u003E মিটারপ্রশ্নমতে, [math]xy = 192[/math]\u003Cbr\u003E এবং [math](x - 4)(y + 4) = 192[/math]\u003Cbr\u003Eপ্রথম সমীকরণ থেকে [math]x = \\frac{192}{y}[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণে বসিয়ে: [math]\\left(\\frac{192}{y} - 4\\right)(y + 4) = 192[/math]\u003Cbr\u003Eবা, [math]\\left(\\frac{192 - 4y}{y}\\right)(y + 4) = 192[/math]\u003Cbr\u003Eবা, [math](192 - 4y)(y + 4) = 192y[/math]\u003Cbr\u003Eবা, [math]192y + 768 - 4y^2 - 16y = 192y[/math]\u003Cbr\u003E∴ [math]768 - 4y^2 - 16y = 0[/math]\u003Cbr\u003Eবা, [math]y^2 + 4y - 192 = 0[/math]\u003Cbr\u003E∴ [math](y + 16)(y - 12) = 0[/math]\u003Cbr\u003E∴ [math]y = 12[/math]\u003Cbr\u003E (প্রস্থ), তাহলে [math]x = \\frac{192}{12} = 16[/math]\u003Cbr\u003E (দৈর্ঘ্য)∴ মেঝের দৈর্ঘ্য [math]16[/math]\u003Cbr\u003E মিটার ও প্রস্থ [math]12[/math]\u003Cbr\u003E মিটার",
+        "explanation": "মেঝের দৈর্ঘ্য [math]L[/math] ও প্রস্থ [math]W[/math] ধরে দুটি সমীকরণ হবে: [math]LW=192[/math] এবং [math](L-4)(W+4)=192[/math]; দ্বিতীয়টি সম্প্রসারণ করে ও প্রথমটি বাদ দিলে পাওয়া যায় [math]4L-4W-16=0\\Rightarrow L-W=4[/math]. এখানে [math]W=L-4[/math] রেখে [math]L(L-4)=192\\Rightarrow L^2-4L-192=0[/math] সমাধান করলে [math]L=16[/math], ফলে [math]W=12[/math]. এইভাবে সমীকরণ থেকে দৈর্ঘ্য ও প্রস্থ নিশ্চিতভাবে নির্ণয় করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535009,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534994,
+      "value": {
+        "options": [],
+        "question": "একটি বৃত্তের পরিধি ও ক্ষেত্রফল সমান। বৃত্তটির ব্যাসার্ধ কত?",
+        "solution": "ধরি, ব্যাসার্ধ [math]= r[/math]\u003Cbr\u003Eপরিধি = [math]2\\pi r[/math]\u003Cbr\u003E, ক্ষেত্রফল = [math]\\pi r^2[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2\\pi r = \\pi r^2[/math]\u003Cbr\u003Eউভয় পাশে [math]\\pi r[/math]\u003Cbr\u003E দ্বারা ভাগ করলে, [math]2 = r[/math]\u003Cbr\u003E∴ ব্যাসার্ধ [math]= 2[/math]\u003Cbr\u003E",
+        "explanation": "বৃত্তের পরিধি [math]C=2\\pi r[/math] এবং ক্ষেত্রফল [math]A=\\pi r^2[/math]। সমান হলে [math]2\\pi r=\\pi r^2[/math] হওয়ায় [math]\\pi[/math] দিয়ে ভাগ করলে [math]2r=r^2[/math], ফলে [math]r(r-2)=0[/math] হয়। ছোট অক্ষম সমাধান বাদ দিলে ব্যাসার্ধ [math]r=2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534994,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534975,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার থেকে ৫ বিয়োগ করলে এবং প্রাপ্ত ফলাফলের ঘন করলে ১২৫ পাওয়া যায়। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math](x - 5)^3 = 125[/math]\u003Cbr\u003Eবা, [math]x - 5 = \\sqrt[3]{125} = 5[/math]\u003Cbr\u003E∴ [math]x = 5 + 5 = 10[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]10[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক সংখ্যাটি [math]x[/math]. শর্ত অনুযায়ী [math](x-5)^3=125[/math], তাই [math]x-5=\\sqrt[3]{125}=5[/math] এবং ফলে [math]x=10[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534975,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534961,
+      "value": {
+        "options": [],
+        "question": "কোনো সংখ্যা ৬ দ্বারা ভাগ করলে ৮ বেশি থাকে এবং ১২ দ্বারা ভাগ করলে ৪ কম থাকে। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\frac{x}{6} = \\frac{x}{12} + 1[/math]\u003Cbr\u003Eবা, [math]\\frac{x}{6} - \\frac{x}{12} = 1[/math]\u003Cbr\u003Eবা, [math]\\frac{2x - x}{12} = 1[/math]\u003Cbr\u003E∴ [math]\\frac{x}{12} = 1[/math]\u003Cbr\u003E∴ [math]x = 12[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]12[/math]\u003Cbr\u003E",
+        "explanation": "প্রথম শর্ত অনুযায়ী সংখ্যাটি কোনো 6-এর বহুগুণের থেকে 8 বেশি, তাই [math]n=6a+8[/math]; দ্বিতীয় শর্তে 12 দ্বারা ভাগ করলে 4 কম মানে অবশিষ্টাংশ [math]12-4=8[/math], তাই [math]n=12b+8[/math]. উভয় থেকে পাওয়া যায় [math]n\\equiv8\\pmod{12}[/math], সাধারণ রূপ [math]n=12t+8[/math] এবং ছোট্ট ধনাত্মক সংখ্যাটি হলো [math]8[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534961,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534947,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার বর্গের সাথে সংখ্যাটির ৩ গুণ যোগ করলে ৮৮ পাওয়া যায়। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x^2 + 3x = 88[/math]\u003Cbr\u003Eবা, [math]x^2 + 3x - 88 = 0[/math]\u003Cbr\u003E∴ [math](x + 11)(x - 8) = 0[/math]\u003Cbr\u003E∴ [math]x = 8[/math]\u003Cbr\u003E (ধনাত্মক সংখ্যা ধরি)∴ সংখ্যাটি [math]8[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: ধরা যাক সংখ্যাটি [math]x[/math]. শর্ত অনুযায়ী [math]x^2+3x=88[/math], অর্থাৎ [math]x^2+3x-88=0[/math] এবং এটি ফ্যাক্টর করলে [math](x+11)(x-8)=0[/math] পাওয়া যায়। অতএব [math]x=8[/math] বা [math]x=-11[/math], উভয়টি শর্ত পূরণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534947,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533502,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের ভূমি তার উচ্চতার দ্বিগুণ অপেক্ষা [math]6[/math] সে.মি. বেশি। ত্রিভুজ ক্ষেত্রটির ক্ষেত্রফল [math]810[/math] বর্গ সে.মি. হলে, এর উচ্চতা কত?",
+        "solution": "ধরি, উচ্চতা [math]= x[/math]\u003Cbr\u003E সে.মি.তাহলে, ভূমি [math]= 2x + 6[/math]\u003Cbr\u003Eত্রিভুজের ক্ষেত্রফল [math]= \\frac{1}{2} \\times[/math]\u003Cbr\u003E ভূমি [math]\\times[/math]\u003Cbr\u003E উচ্চতা∴ [math]\\frac{1}{2} \\times (2x + 6) \\times x = 810[/math]\u003Cbr\u003Eবা, [math](2x + 6)x = 1620[/math]\u003Cbr\u003Eবা, [math]2x^2 + 6x - 1620 = 0[/math]\u003Cbr\u003Eবা, [math]x^2 + 3x - 810 = 0[/math]\u003Cbr\u003E∴ [math](x + 30)(x - 27) = 0[/math]\u003Cbr\u003E∴ [math]x = 27[/math]\u003Cbr\u003E (উচ্চতা), ভূমি [math]= 60[/math]\u003Cbr\u003E∴ উচ্চতা [math]27[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের ক্ষেত্রফল সূত্র [math]A=\\tfrac{1}{2}\\times\\text{ভূমি}\\times\\text{উচ্চতা}[/math], ভূমি দেওয়া আছে [math]2h+6[/math] হলে [math]\\tfrac{1}{2}(2h+6)h=810[/math] হয়। সমাধান করলে [math]2h^2+6h-1620=0\\Rightarrow h^2+3h-810=0[/math] এবং [math]h=\\frac{-3\\pm57}{2}[/math] থেকে ধনাত্মক মান [math]h=27\\text{ সেমি}[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533502,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533494,
+      "value": {
+        "options": [],
+        "question": "একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী পড়ে, প্রত্যেকে তত পয়সার চেয়ে আরও [math]30[/math] পয়সা বেশি করে চাঁদা দেওয়াতে মোট [math]70[/math] টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রীর সংখ্যা কত?",
+        "solution": "ধরি, ছাত্র-ছাত্রীর সংখ্যা [math]= x[/math]\u003Cbr\u003Eপ্রতি জনের চাঁদা [math]= x + 30[/math]\u003Cbr\u003E পয়সামোট চাঁদা = [math]x(x + 30)[/math]\u003Cbr\u003E পয়সা = [math]70 \\times 100 = 7000[/math]\u003Cbr\u003E পয়সা∴ [math]x(x + 30) = 7000[/math]\u003Cbr\u003Eবা, [math]x^2 + 30x - 7000 = 0[/math]\u003Cbr\u003E∴ [math](x + 100)(x - 70) = 0[/math]\u003Cbr\u003E∴ [math]x = 70[/math]\u003Cbr\u003E∴ ছাত্র-ছাত্রীর সংখ্যা [math]= 70[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক ছাত্র-ছাত্রী সংখ্যা [math]n[/math], প্রত্যেকে দিয়েছে [math]n+30[/math] পয়সা এবং মোট হলো [math]70\\ \\text{টাকা}=7000\\ \\text{পয়সা}[/math], তাই [math]n(n+30)=7000[/math]. সমীকরণটি লেখলে [math]n^2+30n-7000=0[/math], ডিসক্রিমিন্যান্ট [math]D=28900=(170)^2[/math] হলে [math]n=\\frac{-30+170}{2}=70[/math], অতএব শ্রেণিতে [math]70[/math] জন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533494,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533479,
+      "value": {
+        "options": [],
+        "question": "একটি আয়তাকার ঘরের মেঝের ক্ষেত্রফল ১৯২ বর্গমিটার। মেঝের দৈর্ঘ্য ৪ মিটার কমালে ও প্রস্থ ৪ মিটার বাড়ালে ক্ষেত্রফল অপরিবর্তিত থাকে। মেঝের দৈর্ঘ্য ও প্রস্থ নির্ণয় কর।",
+        "solution": "ধরি, দৈর্ঘ্য [math]= x[/math]\u003Cbr\u003E মিটার এবং প্রস্থ [math]= y[/math]\u003Cbr\u003E মিটারপ্রশ্নমতে, [math]xy = 192[/math]\u003Cbr\u003E এবং [math](x - 4)(y + 4) = 192[/math]\u003Cbr\u003Eপ্রথম সমীকরণ থেকে [math]x = \\frac{192}{y}[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণে বসিয়ে: [math]\\left(\\frac{192}{y} - 4\\right)(y + 4) = 192[/math]\u003Cbr\u003Eবা, [math]\\left(\\frac{192 - 4y}{y}\\right)(y + 4) = 192[/math]\u003Cbr\u003Eবা, [math](192 - 4y)(y + 4) = 192y[/math]\u003Cbr\u003Eবা, [math]192y + 768 - 4y^2 - 16y = 192y[/math]\u003Cbr\u003E∴ [math]768 - 4y^2 - 16y = 0[/math]\u003Cbr\u003Eবা, [math]y^2 + 4y - 192 = 0[/math]\u003Cbr\u003E∴ [math](y + 16)(y - 12) = 0[/math]\u003Cbr\u003E∴ [math]y = 12[/math]\u003Cbr\u003E (প্রস্থ), তাহলে [math]x = \\frac{192}{12} = 16[/math]\u003Cbr\u003E (দৈর্ঘ্য)∴ মেঝের দৈর্ঘ্য [math]16[/math]\u003Cbr\u003E মিটার ও প্রস্থ [math]12[/math]\u003Cbr\u003E মিটার",
+        "explanation": "সমাধান: দৈর্ঘ্য ও প্রস্থকে ক্রমে [math]l[/math] ও [math]w[/math] ধরা হলে [math]lw=192[/math] এবং পরিবর্তিত আকারে [math](l-4)(w+4)=192[/math]। এগুলো থেকে [math]l-w=4[/math] হয়, সুতরাং [math]l=w+4[/math] এবং [math]w(w+4)=192\\Rightarrow w^2+4w-192=0[/math]। এতে [math]\\Delta=784=(28)^2[/math] হলে [math]w=\\frac{-4+28}{2}=12[/math] এবং [math]l=12+4=16[/math]; তাই দৈর্ঘ্য ১৬ মি. ও প্রস্থ ১২ মি.।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533479,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533487,
+      "value": {
+        "options": [],
+        "question": "একটি বয়সজনিত সমস্যায়, একজন বাবার বয়স তার ছেলের ৪ গুণ। ৫ বছর পরে বাবার বয়স ছেলের বয়সের ৩ গুণ হবে। বর্তমানে তাদের বয়স কত?",
+        "solution": "ধরি, ছেলের বর্তমান বয়স [math]= x[/math]\u003Cbr\u003E বছর∴ বাবার বয়স [math]= 4x[/math]\u003Cbr\u003E বছর৫ বছর পর: বাবার বয়স [math]= 4x + 5[/math]\u003Cbr\u003E, ছেলের বয়স [math]= x + 5[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]4x + 5 = 3(x + 5)[/math]\u003Cbr\u003Eবা, [math]4x + 5 = 3x + 15[/math]\u003Cbr\u003Eবা, [math]x = 10[/math]\u003Cbr\u003E∴ বাবার বয়স [math]= 40[/math]\u003Cbr\u003E বছর, ছেলের বয়স [math]= 10[/math]\u003Cbr\u003E বছর",
+        "explanation": "সমাধান: ছেলে বয়স ধরা যাক [math]x[/math], বাবার বয়স তখন [math]4x[/math]. পাঁচ বছর পরে শর্ত থেকে [math]4x+5=3(x+5)[/math] যা থেকে [math]4x+5=3x+15\\Rightarrow x=10[/math], তাই ছেলে ১০ বছর এবং বাবা [math]4x=40[/math] বছর। ব্যাখ্যা: সম্পর্কগুলোকে অজানা সংখ্যা ধরে সরল রৈখিক সমীকরণ বানিয়ে সমাধান করলে উত্তর পাওয়া যায় এবং ফিরে চেক করলে শর্ত মানানসই হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533487,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533482,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজের অতিভুজের দৈর্ঘ্য [math]15[/math] সে.মি. ও অপর বাহুদ্বয়ের দৈর্ঘ্যের অন্তর [math]5[/math] সে.মি.। ঐ বাহুদ্বয়ের দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "ধরি, ছোট বাহু [math]= x[/math]\u003Cbr\u003E সে.মি.তাহলে অপর বাহু [math]= x + 5[/math]\u003Cbr\u003E সে.মি.অতিভুজ [math]= 15[/math]\u003Cbr\u003E সে.মি.∴ [math]x^2 + (x + 5)^2 = 15^2[/math]\u003Cbr\u003Eবা, [math]x^2 + x^2 + 10x + 25 = 225[/math]\u003Cbr\u003Eবা, [math]2x^2 + 10x - 200 = 0[/math]\u003Cbr\u003Eবা, [math]x^2 + 5x - 100 = 0[/math]\u003Cbr\u003E∴ [math](x + 10)(x - 10) = 0[/math]\u003Cbr\u003E∴ [math]x = 10[/math]\u003Cbr\u003E (ছোট বাহু), অন্যটি [math]= 15[/math]\u003Cbr\u003E∴ বাহুগুলো [math]10[/math]\u003Cbr\u003E সে.মি. ও [math]15[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "সমাধান: ধরা যাক ত্রিভুজের বাহুগুলো [math]a[/math] ও [math]b[/math] যেখানে [math]a-b=5[/math] এবং [math]a^2+b^2=15^2=225[/math]. [math]a=b+5[/math] বসালে পাই [math]2b^2+10b-200=0[/math] বা [math]b^2+5b-100=0[/math], তাই [math]b=\\dfrac{-5+5\\sqrt{17}}{2} \\approx 7.8075[/math] (অন্য মূল নেগেটিভ হওয়ায় বাতিল) এবং [math]a=b+5=\\dfrac{5+5\\sqrt{17}}{2} \\approx 12.8075[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533482,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533472,
+      "value": {
+        "options": [],
+        "question": "একটি বৃত্তের পরিধি ও ক্ষেত্রফল সমান। বৃত্তটির ব্যাসার্ধ কত?",
+        "solution": "ধরি, ব্যাসার্ধ [math]= r[/math]\u003Cbr\u003Eপরিধি = [math]2\\pi r[/math]\u003Cbr\u003E, ক্ষেত্রফল = [math]\\pi r^2[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2\\pi r = \\pi r^2[/math]\u003Cbr\u003Eউভয় পাশে [math]\\pi r[/math]\u003Cbr\u003E দ্বারা ভাগ করলে, [math]2 = r[/math]\u003Cbr\u003E∴ ব্যাসার্ধ [math]= 2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একটি বৃত্তের পরিধি [math]2\\pi r[/math] এবং ক্ষেত্রফল [math]\\pi r^2[/math]। সমান করলে [math]2\\pi r=\\pi r^2[/math] থেকে [math]r=0[/math] বা [math]r=2[/math] পাওয়া যায়, সাধারণ বৃত্তের ধনাত্মক ব্যাসার্ধ হলে [math]r=2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533472,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533468,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার থেকে ৫ বিয়োগ করলে এবং প্রাপ্ত ফলাফলের ঘন করলে ১২৫ পাওয়া যায়। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math](x - 5)^3 = 125[/math]\u003Cbr\u003Eবা, [math]x - 5 = \\sqrt[3]{125} = 5[/math]\u003Cbr\u003E∴ [math]x = 5 + 5 = 10[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]10[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক সংখ্যাটি [math]x[/math]. প্রশ্ন অনুযায়ী [math](x-5)^3=125[/math], তাই [math]x-5=\\sqrt[3]{125}=5[/math] এবং ফলত [math]x=10[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533468,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533466,
+      "value": {
+        "options": [],
+        "question": "কোনো সংখ্যা ৬ দ্বারা ভাগ করলে ৮ বেশি থাকে এবং ১২ দ্বারা ভাগ করলে ৪ কম থাকে। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\frac{x}{6} = \\frac{x}{12} + 1[/math]\u003Cbr\u003Eবা, [math]\\frac{x}{6} - \\frac{x}{12} = 1[/math]\u003Cbr\u003Eবা, [math]\\frac{2x - x}{12} = 1[/math]\u003Cbr\u003E∴ [math]\\frac{x}{12} = 1[/math]\u003Cbr\u003E∴ [math]x = 12[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]12[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধরা যাক সংখ্যা [math]N[/math]. শর্তগুলো থেকে [math]N=6k+8[/math] এবং [math]N=12m-4[/math]। এগুলো সমান করলে [math]6k+8=12m-4\\Rightarrow6k+12=12m\\Rightarrow k+2=2m[/math], ফলে [math]N=12m-4=12(m-1)+8[/math], অর্থাৎ সব সমাধান হল [math]N=12t+8[/math] (t কোনো পূর্ণসংখ্যা) এবং ক্ষুদ্রতম ধনাত্মক মান [math]8[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533466,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533461,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার বর্গের সাথে সংখ্যাটির ৩ গুণ যোগ করলে ৮৮ পাওয়া যায়। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x^2 + 3x = 88[/math]\u003Cbr\u003Eবা, [math]x^2 + 3x - 88 = 0[/math]\u003Cbr\u003E∴ [math](x + 11)(x - 8) = 0[/math]\u003Cbr\u003E∴ [math]x = 8[/math]\u003Cbr\u003E (ধনাত্মক সংখ্যা ধরি)∴ সংখ্যাটি [math]8[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: সংখ্যাকে [math]x[/math] ধরে, শর্ত অনুযায়ী পাই [math]x^2+3x=88[/math], যা হয়ে যায় [math]x^2+3x-88=0[/math]. এটি ভাগ করলে [math](x+11)(x-8)=0[/math] ফলে [math]x=8[/math] বা [math]x=-11[/math], দুইটি মানই শর্ত পূরণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533461,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531706,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার বর্গের সাথে সংখ্যাটির ৩ গুণ যোগ করলে ৮৮ পাওয়া যায়। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x^2 + 3x = 88[/math]\u003Cbr\u003Eবা, [math]x^2 + 3x - 88 = 0[/math]\u003Cbr\u003E∴ [math](x + 11)(x - 8) = 0[/math]\u003Cbr\u003E∴ [math]x = 8[/math]\u003Cbr\u003E (ধনাত্মক সংখ্যা ধরি)∴ সংখ্যাটি [math]8[/math]\u003Cbr\u003E",
+        "explanation": "সংখ্যাটি যদি [math]x[/math] ধরা হয়, তাহলে [math]x^2+3x=88[/math] বা [math]x^2+3x-88=0[/math]. এটি factor করলে [math](x+11)(x-8)=0[/math] পাওয়া যায়, সুতরাং [math]x=8[/math] অথবা [math]x=-11[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531706,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531717,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের ভূমি তার উচ্চতার দ্বিগুণ অপেক্ষা [math]6[/math] সে.মি. বেশি। ত্রিভুজ ক্ষেত্রটির ক্ষেত্রফল [math]810[/math] বর্গ সে.মি. হলে, এর উচ্চতা কত?",
+        "solution": "ধরি, উচ্চতা [math]= x[/math]\u003Cbr\u003E সে.মি.তাহলে, ভূমি [math]= 2x + 6[/math]\u003Cbr\u003Eত্রিভুজের ক্ষেত্রফল [math]= \\frac{1}{2} \\times[/math]\u003Cbr\u003E ভূমি [math]\\times[/math]\u003Cbr\u003E উচ্চতা∴ [math]\\frac{1}{2} \\times (2x + 6) \\times x = 810[/math]\u003Cbr\u003Eবা, [math](2x + 6)x = 1620[/math]\u003Cbr\u003Eবা, [math]2x^2 + 6x - 1620 = 0[/math]\u003Cbr\u003Eবা, [math]x^2 + 3x - 810 = 0[/math]\u003Cbr\u003E∴ [math](x + 30)(x - 27) = 0[/math]\u003Cbr\u003E∴ [math]x = 27[/math]\u003Cbr\u003E (উচ্চতা), ভূমি [math]= 60[/math]\u003Cbr\u003E∴ উচ্চতা [math]27[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ত্রিভুজের উচ্চতা ধরা যাক [math]h[/math], তখন ভিত্তি হবে [math]2h+6[/math]; ক্ষেত্রফল সূত্র অনুযায়ী [math]\\frac{1}{2}(2h+6)h=810[/math]। সমীকরণটি সরল করলে [math]h^2+3h-810=0[/math], যার ডিসক্রিমিন্যান্ট [math]Δ=3249=57^2[/math] থেকে ধনাত্মক মূল [math]h=\\frac{-3+57}{2}=27[/math] সে.মি. (নেতিবাচক মূল গ্রহণ করা হয় না)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531717,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531716,
+      "value": {
+        "options": [],
+        "question": "একটি শ্রেণিতে যতজন ছাত্র-ছাত্রী পড়ে, প্রত্যেকে তত পয়সার চেয়ে আরও [math]30[/math] পয়সা বেশি করে চাঁদা দেওয়াতে মোট [math]70[/math] টাকা উঠল। ঐ শ্রেণির ছাত্র-ছাত্রীর সংখ্যা কত?",
+        "solution": "ধরি, ছাত্র-ছাত্রীর সংখ্যা [math]= x[/math]\u003Cbr\u003Eপ্রতি জনের চাঁদা [math]= x + 30[/math]\u003Cbr\u003E পয়সামোট চাঁদা = [math]x(x + 30)[/math]\u003Cbr\u003E পয়সা = [math]70 \\times 100 = 7000[/math]\u003Cbr\u003E পয়সা∴ [math]x(x + 30) = 7000[/math]\u003Cbr\u003Eবা, [math]x^2 + 30x - 7000 = 0[/math]\u003Cbr\u003E∴ [math](x + 100)(x - 70) = 0[/math]\u003Cbr\u003E∴ [math]x = 70[/math]\u003Cbr\u003E∴ ছাত্র-ছাত্রীর সংখ্যা [math]= 70[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক ছাত্র-ছাত্রীর সংখ্যা [math]n[/math]; প্রত্যেকে দিলে [math]n+30[/math] পয়সা, তাই মোট হবে [math]n(n+30)[/math] পয়সা এবং [math]70[/math] টাকা = [math]7000[/math] পয়সা। সমীকরণ [math]n(n+30)=7000 \\Rightarrow n^2+30n-7000=0[/math] থেকে [math]n=\\frac{-30+170}{2}=70[/math], তাই ছাত্র-ছাত্রীর সংখ্যা [math]70[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531716,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531715,
+      "value": {
+        "options": [],
+        "question": "একটি বয়সজনিত সমস্যায়, একজন বাবার বয়স তার ছেলের ৪ গুণ। ৫ বছর পরে বাবার বয়স ছেলের বয়সের ৩ গুণ হবে। বর্তমানে তাদের বয়স কত?",
+        "solution": "ধরি, ছেলের বর্তমান বয়স [math]= x[/math]\u003Cbr\u003E বছর∴ বাবার বয়স [math]= 4x[/math]\u003Cbr\u003E বছর৫ বছর পর: বাবার বয়স [math]= 4x + 5[/math]\u003Cbr\u003E, ছেলের বয়স [math]= x + 5[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]4x + 5 = 3(x + 5)[/math]\u003Cbr\u003Eবা, [math]4x + 5 = 3x + 15[/math]\u003Cbr\u003Eবা, [math]x = 10[/math]\u003Cbr\u003E∴ বাবার বয়স [math]= 40[/math]\u003Cbr\u003E বছর, ছেলের বয়স [math]= 10[/math]\u003Cbr\u003E বছর",
+        "explanation": "সমাধান: ধরুন ছেলের বর্তমান বয়স [math]s[/math] বছর, তখন বাবার বয়স [math]4s[/math] বছর; পাঁচ বছর পরে শর্ত অনুযায়ী [math]4s+5=3(s+5)[/math]। সমীকরণ থেকে [math]4s+5=3s+15 \\Rightarrow s=10[/math], তাই ছেলে ১০ বছর এবং বাবা [math]4\\times10=40[/math] বছর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531715,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531714,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজের অতিভুজের দৈর্ঘ্য [math]15[/math] সে.মি. ও অপর বাহুদ্বয়ের দৈর্ঘ্যের অন্তর [math]5[/math] সে.মি.। ঐ বাহুদ্বয়ের দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "ধরি, ছোট বাহু [math]= x[/math]\u003Cbr\u003E সে.মি.তাহলে অপর বাহু [math]= x + 5[/math]\u003Cbr\u003E সে.মি.অতিভুজ [math]= 15[/math]\u003Cbr\u003E সে.মি.∴ [math]x^2 + (x + 5)^2 = 15^2[/math]\u003Cbr\u003Eবা, [math]x^2 + x^2 + 10x + 25 = 225[/math]\u003Cbr\u003Eবা, [math]2x^2 + 10x - 200 = 0[/math]\u003Cbr\u003Eবা, [math]x^2 + 5x - 100 = 0[/math]\u003Cbr\u003E∴ [math](x + 10)(x - 10) = 0[/math]\u003Cbr\u003E∴ [math]x = 10[/math]\u003Cbr\u003E (ছোট বাহু), অন্যটি [math]= 15[/math]\u003Cbr\u003E∴ বাহুগুলো [math]10[/math]\u003Cbr\u003E সে.মি. ও [math]15[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: সমকোণী ত্রিভুজে পিথাগোরাস অনুযায়ী, যদি অপর বাহুদ্বয় হয় [math]x[/math] এবং [math]x+5[/math], তাহলে [math]x^2+(x+5)^2=15^2=225[/math], যা সরল করলে হয় [math]x^2+5x-100=0[/math। এই সমীকরণের ধনাত্মক মূল হল [math]x=\\frac{5(-1+\\sqrt{17})}{2}[/math], তাই বাহুদ্বয় হল [math]\\frac{5(-1+\\sqrt{17})}{2}\\approx7.81[/math] সে.মি. এবং [math]\\frac{5(1+\\sqrt{17})}{2}\\approx12.81[/math] সে.মি.।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531714,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531713,
+      "value": {
+        "options": [],
+        "question": "একটি আয়তাকার ঘরের মেঝের ক্ষেত্রফল ১৯২ বর্গমিটার। মেঝের দৈর্ঘ্য ৪ মিটার কমালে ও প্রস্থ ৪ মিটার বাড়ালে ক্ষেত্রফল অপরিবর্তিত থাকে। মেঝের দৈর্ঘ্য ও প্রস্থ নির্ণয় কর।",
+        "solution": "ধরি, দৈর্ঘ্য [math]= x[/math]\u003Cbr\u003E মিটার এবং প্রস্থ [math]= y[/math]\u003Cbr\u003E মিটারপ্রশ্নমতে, [math]xy = 192[/math]\u003Cbr\u003E এবং [math](x - 4)(y + 4) = 192[/math]\u003Cbr\u003Eপ্রথম সমীকরণ থেকে [math]x = \\frac{192}{y}[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণে বসিয়ে: [math]\\left(\\frac{192}{y} - 4\\right)(y + 4) = 192[/math]\u003Cbr\u003Eবা, [math]\\left(\\frac{192 - 4y}{y}\\right)(y + 4) = 192[/math]\u003Cbr\u003Eবা, [math](192 - 4y)(y + 4) = 192y[/math]\u003Cbr\u003Eবা, [math]192y + 768 - 4y^2 - 16y = 192y[/math]\u003Cbr\u003E∴ [math]768 - 4y^2 - 16y = 0[/math]\u003Cbr\u003Eবা, [math]y^2 + 4y - 192 = 0[/math]\u003Cbr\u003E∴ [math](y + 16)(y - 12) = 0[/math]\u003Cbr\u003E∴ [math]y = 12[/math]\u003Cbr\u003E (প্রস্থ), তাহলে [math]x = \\frac{192}{12} = 16[/math]\u003Cbr\u003E (দৈর্ঘ্য)∴ মেঝের দৈর্ঘ্য [math]16[/math]\u003Cbr\u003E মিটার ও প্রস্থ [math]12[/math]\u003Cbr\u003E মিটার",
+        "explanation": "ব্যাখ্যা: দৈর্ঘ্য নিলাম [math]L[/math] ও প্রস্থ [math]W[/math]। শর্তগুলো থেকে [math]LW=192[/math] ও [math](L-4)(W+4)=192[/math] হওয়ায় তাদের বাদ দিয়ে সরলীকরণ করলে [math]L-W=4[/math] পাওয়া যায়, অর্থাৎ [math]L=W+4[/math]। তাই [math]W(W+4)=192\\Rightarrow W^2+4W-192=0[/math], এর সমাধান দিয়ে [math]W=\\frac{-4\\pm\\sqrt{784}}{2}=\\frac{-4+28}{2}=12[/math] (ধনাত্মক) ফলে [math]L=12+4=16[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531713,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531712,
+      "value": {
+        "options": [],
+        "question": "একটি বৃত্তের পরিধি ও ক্ষেত্রফল সমান। বৃত্তটির ব্যাসার্ধ কত?",
+        "solution": "ধরি, ব্যাসার্ধ [math]= r[/math]\u003Cbr\u003Eপরিধি = [math]2\\pi r[/math]\u003Cbr\u003E, ক্ষেত্রফল = [math]\\pi r^2[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2\\pi r = \\pi r^2[/math]\u003Cbr\u003Eউভয় পাশে [math]\\pi r[/math]\u003Cbr\u003E দ্বারা ভাগ করলে, [math]2 = r[/math]\u003Cbr\u003E∴ ব্যাসার্ধ [math]= 2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বৃত্তের পরিধি [math]2\\pi r[/math] এবং ক্ষেত্রফল [math]\\pi r^2[/math]; সমান হলে [math]2\\pi r=\\pi r^2[/math]। π দিয়ে ভাগ করলে [math]2r=r^2[/math] বা [math]r(r-2)=0[/math] হয়, তাই অসামান্য সমাধান [math]r=2[/math] (r=0 অপ্রাসঙ্গিক)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531712,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531710,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার থেকে ৫ বিয়োগ করলে এবং প্রাপ্ত ফলাফলের ঘন করলে ১২৫ পাওয়া যায়। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math](x - 5)^3 = 125[/math]\u003Cbr\u003Eবা, [math]x - 5 = \\sqrt[3]{125} = 5[/math]\u003Cbr\u003E∴ [math]x = 5 + 5 = 10[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]10[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক সংখ্যাটি [math]x[/math]; প্রশ্ন অনুযায়ী [math](x-5)^3=125[/math]. কিউব রুট নিলে [math]x-5=5[/math] ফলে [math]x=10[/math], কারণ 125-এর কিউব রুট হল [math]5[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531710,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531708,
+      "value": {
+        "options": [],
+        "question": "কোনো সংখ্যা ৬ দ্বারা ভাগ করলে ৮ বেশি থাকে এবং ১২ দ্বারা ভাগ করলে ৪ কম থাকে। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]\\frac{x}{6} = \\frac{x}{12} + 1[/math]\u003Cbr\u003Eবা, [math]\\frac{x}{6} - \\frac{x}{12} = 1[/math]\u003Cbr\u003Eবা, [math]\\frac{2x - x}{12} = 1[/math]\u003Cbr\u003E∴ [math]\\frac{x}{12} = 1[/math]\u003Cbr\u003E∴ [math]x = 12[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]12[/math]\u003Cbr\u003E",
+        "explanation": "সংখ্যাকে নিন [math]n=6k+8[/math] এবং একই সংখ্যা [math]n=12m-4[/math] হলে সমীকরণ থেকে [math]6k+8=12m-4\\Rightarrow 6k=12m-12\\Rightarrow k=2m-2[/math] পাওয়া যায়। তাই [math]n=12m-4=12(m-1)+8[/math], অর্থাৎ সাধারণভাবে [math]n=12t+8[/math] এবং সবচেয়ে ছোট ধনাত্মক সংখ্যা হলো [math]8[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531708,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12933&grade=5&lesson=12935&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12933&grade=5&lesson=12935&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12933&grade=5&lesson=12935&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 27,
+  "total": 27
+}

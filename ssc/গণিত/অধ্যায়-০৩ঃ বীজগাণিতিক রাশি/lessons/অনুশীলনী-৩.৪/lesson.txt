@@ -1,0 +1,1187 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 538459,
+      "value": {
+        "options": [],
+        "question": "উৎপাদক বিশ্লেষণ কর: [math]x^3 + 6x^2 + 11x + 6[/math]",
+        "solution": "[math]x^3 + 6x^2 + 11x + 6[/math]\u003Cbr\u003E [math]= x^2(x + 1) + 5x(x + 1) + 6(x + 1)[/math]\u003Cbr\u003E [math]= (x + 1)(x^2 + 5x + 6)[/math]\u003Cbr\u003E [math]= (x + 1)(x^2 + 3x + 2x + 6)[/math]\u003Cbr\u003E [math]= (x + 1)[x(x + 3) + 2(x + 3)][/math]\u003Cbr\u003E [math]= (x + 1)(x + 2)(x + 3)[/math]\u003Cbr\u003Eসুতরাং, উৎপাদক বিশ্লেষণ: [math](x + 1)(x + 2)(x + 3)[/math]\u003Cbr\u003E",
+        "explanation": "উৎপাদক: [math](x+1)(x+2)(x+3)[/math]। কারণ ধ্রুবক 6-এর বিভাজক পরীক্ষা করলে [math]x=-1,-2,-3[/math] এ বহুপদী শূন্য হয়, তাই তাদের জন্য সংশ্লিষ্ট গুণফল ফ্যাক্টরগুলো [math](x+1),(x+2),(x+3)[/math] এবং এই গুণফল বিস্তারে আবার মূল বহুপদীটি পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538459,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538487,
+      "value": {
+        "options": [],
+        "question": "[math]2p^3 - 3p^2 + 3p - 1[/math] এর একটি উৎপাদক নির্ধারণ কর।",
+        "solution": "ধরি, [math]f(p) = 2p^3 - 3p^2 + 3p - 1[/math]\u003Cbr\u003E [math]f\\left(\\dfrac{1}{2}\\right) = 2\\left(\\dfrac{1}{2}\\right)^3 - 3\\left(\\dfrac{1}{2}\\right)^2 + 3\\left(\\dfrac{1}{2}\\right) - 1[/math]\u003Cbr\u003E [math]= \\dfrac{2}{8} - \\dfrac{3}{4} + \\dfrac{3}{2} - 1[/math]\u003Cbr\u003E [math]= \\dfrac{2 - 6 + 12 - 8}{8} = \\dfrac{0}{8} = 0[/math]\u003Cbr\u003Eযেহেতু, [math]f\\left(\\dfrac{1}{2}\\right) = 0[/math]\u003Cbr\u003E,অতএব, [math]p - \\dfrac{1}{2} = 0[/math]\u003Cbr\u003Eবা, [math]2p - 1 = 0[/math]\u003Cbr\u003Eসুতরাং, [math]2p - 1[/math]\u003Cbr\u003E হলো [math]f(p)[/math]\u003Cbr\u003E এর একটি উৎপাদক।",
+        "explanation": "ব্যাখ্যা: যদি [math]p=\\tfrac{1}{2}[/math] ধরে বসানো হয়, তাহলে [math]2p^3-3p^2+3p-1=0[/math], তাই [math]2p-1[/math] একটি উৎপাদক। বিভাজন করলে আমরা পাই [math](2p-1)(2p^2-2p+2)[/math], অতএব [math]2p-1[/math] নিশ্চিতভাবে একটি উৎপাদক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538487,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538486,
+      "value": {
+        "options": [],
+        "question": "[math]3x^2 - x - 16[/math] কে [math]x + 2[/math] দ্বারা ভাগ করলে ভাগশেষ কত? ভাগশেষ উপপাদ্যের সাহায্যে নির্ণয় কর।",
+        "solution": "ধরি, [math]f(x) = 3x^2 - x - 16[/math]\u003Cbr\u003E [math]f(x)[/math]\u003Cbr\u003E কে [math]x + 2[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হবে [math]f(-2)[/math]\u003Cbr\u003E এখন, [math]f(-2) = 3(-2)^2 - (-2) - 16[/math]\u003Cbr\u003E [math]= 3 \\cdot 4 + 2 - 16[/math]\u003Cbr\u003E [math]= 12 + 2 - 16 = 14 - 16 = -2[/math]\u003Cbr\u003E সুতরাং, ভাগশেষ = [math]-2[/math]\u003Cbr\u003E নির্ণীত ভাগশেষ = [math]-2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভাগশেষ উপপাদ্য অনুযায়ী, [math]x+2=x-(-2)[/math] হওয়ায় ভাগশেষ হবে [math]f(-2)[/math], যেখানে [math]f(x)=3x^2-x-16[/math]. তাই [math]f(-2)=3(-2)^2-(-2)-16=3\\cdot4+2-16=12+2-16=-2[/math], অতএব ভাগশেষ [math]-2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538486,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538484,
+      "value": {
+        "options": [],
+        "question": "[math]6x^2 - 7x + 5[/math] কে [math]x - 1[/math] দ্বারা ভাগ করলে ভাগশেষ কত? ভাগশেষ উপপাদ্যের সাহায্যে দেখাও।",
+        "solution": "ধরি, [math]f(x) = 6x^2 - 7x + 5[/math]\u003Cbr\u003E [math]f(x)[/math]\u003Cbr\u003E কে [math]x - 1[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হবে [math]f(1)[/math]\u003Cbr\u003E এখন, [math]f(1) = 6(1)^2 - 7(1) + 5[/math]\u003Cbr\u003E [math]= 6 - 7 + 5 = 4[/math]\u003Cbr\u003E সুতরাং, ভাগশেষ = [math]4[/math]\u003Cbr\u003E অতএব, [math]6x^2 - 7x + 5[/math]\u003Cbr\u003E কে [math]x - 1[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ [math]4[/math]\u003Cbr\u003E হবে। (দেখানো হলো)",
+        "explanation": "ভাগশেষ উপপাদ্য অনুযায়ী, একটি বহুপদীকে [math]x-a[/math] দ্বারা ভাগ করলে ভাগশেষ হবে বহুপদীর [math]a[/math]-এ মূল্য। এখানে [math]a=1[/math], তাই ভাগশেষ হবে [math]f(1)=6(1)^2-7(1)+5=4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538484,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538482,
+      "value": {
+        "options": [],
+        "question": "[math]7x^2 - x - 110[/math] কে [math]7x - 29[/math] দ্বারা ভাগ করলে ভাগফল ও ভাগশেষ কত?",
+        "solution": "[math]7x^2 - x - 110[/math]\u003Cbr\u003E কে [math]7x - 29[/math]\u003Cbr\u003E দ্বারা ভাগ করলে,ভাগফল = [math]x + 4[/math]\u003Cbr\u003Eভাগশেষ = [math]6[/math]\u003Cbr\u003Eনির্ণীত ভাগশেষ = [math]6[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]7x^2/(7x)=x[/math], তাই [math]x(7x-29)=7x^2-29x[/math] এবং বিয়োগ করলে অবশিষ্ট হয় [math]28x-110[/math]; এরপর [math]28x/(7x)=4[/math], [math]4(7x-29)=28x-116[/math] এবং বিয়োগ করলে অবশিষ্ট [math]6[/math]. অতএব ভাগফল [math]x+4[/math] এবং ভাগশেষ [math]6[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538482,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538480,
+      "value": {
+        "options": [],
+        "question": "[math]7x^2 - x - 110[/math] কে [math]7x - 29[/math] দ্বারা ভাগ করলে ভাগশেষ কত?",
+        "solution": "[math]7x - 29 \\big) 7x^2 - x - 110[/math]\u003Cbr\u003E প্রথম ধাপ: [math]7x^2 \\div 7x = x[/math]\u003Cbr\u003E গুণফল: [math]x \\cdot (7x - 29) = 7x^2 - 29x[/math]\u003Cbr\u003E বাদ দিলে: [math]-x - (-29x) = 28x[/math]\u003Cbr\u003E [math]28x - 110[/math]\u003Cbr\u003E থেকে [math]28x - 116[/math]\u003Cbr\u003E বাদ দিলে ভাগশেষ = [math]6[/math]\u003Cbr\u003E সুতরাং, ভাগফল = [math]x + 4[/math]\u003Cbr\u003E এবং ভাগশেষ = [math]6[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভাগশেষ নির্ণয়ে রিমাইন্ডার থিওরেম প্রয়োগ করলে বিভাজক [math]7x-29=0[/math] থেকে [math]x=\\tfrac{29}{7}[/math] এবং ভাগশেষ হবে [math]f(\\tfrac{29}{7})[/math]. তাই [math]7(\\tfrac{29}{7})^2-(\\tfrac{29}{7})-110=\\tfrac{841}{7}-\\tfrac{29}{7}-110=\\tfrac{42}{7}=6[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538480,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538478,
+      "value": {
+        "options": [],
+        "question": "[math]f(x) = 54x^4 + 27x^3 - 16x - 8[/math] হলে, [math]f(x)[/math] কে উৎপাদককে বিশ্লেষণ কর।",
+        "solution": "দেওয়া আছে, [math]f(x) = 54x^4 + 27x^3 - 16x - 8[/math]\u003Cbr\u003E [math]= 27x^3(2x + 1) - 8(2x + 1)[/math]\u003Cbr\u003E [math]= (2x + 1)(27x^3 - 8)[/math]\u003Cbr\u003E [math]= (2x + 1)\\left((3x)^3 - 2^3\\right)[/math]\u003Cbr\u003E [math]= (2x + 1)(3x - 2)\\left((3x)^2 + 3x \\cdot 2 + 2^2\\right)[/math]\u003Cbr\u003E [math]= (2x + 1)(3x - 2)(9x^2 + 6x + 4)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে গুচ্ছ করে লেখলে [math]54x^4+27x^3-16x-8=27x^3(2x+1)-8(2x+1)=(2x+1)(27x^3-8)[/math]. এখানে [math]27x^3-8=(3x)^3-2^3[/math] হলো ঘনফলের পার্থক্য, তাই [math]27x^3-8=(3x-2)(9x^2+6x+4)[/math]. ফলে সম্পূর্ণ উৎপাদক হলো [math](2x+1)(3x-2)(9x^2+6x+4)[/math], এবং শেষের দ্বিঘাতটির বিভাজ্যকী [math]36-144=-108\u003C0[/math] হওয়ায় তা বাস্তব বা রাশিতে আরো ভাঙে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538478,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538475,
+      "value": {
+        "options": [],
+        "question": "[math]f(x) = x^3 + 6x^2 + 11x + 6[/math] হলে, [math](x + 1)[/math], [math]f(x)[/math] এর একটি উৎপাদক কিনা নির্ধারণ কর।",
+        "solution": "এখানে, [math]f(x) = x^3 + 6x^2 + 11x + 6[/math]\u003Cbr\u003E [math]f(-1) = (-1)^3 + 6(-1)^2 + 11(-1) + 6[/math]\u003Cbr\u003E [math]= -1 + 6 - 11 + 6[/math]\u003Cbr\u003E [math]= 12 - 12 = 0[/math]\u003Cbr\u003Eসুতরাং, [math]f(-1) = 0[/math]\u003Cbr\u003Eঅতএব, [math](x + 1)[/math]\u003Cbr\u003E, [math]f(x)[/math]\u003Cbr\u003E এর একটি উৎপাদক",
+        "explanation": "ব্যাখ্যা: Remainder–Factor থিওরেম অনুযায়ী [math]x+1[/math] একটি উৎপাদক হবে যদি [math]f(-1)=0[/math]. এখানে [math]f(-1)=(-1)^3+6(-1)^2+11(-1)+6=-1+6-11+6=0[/math], অতএব [math]x+1[/math] উৎপাদক; আসলে [math]f(x)=(x+1)(x^2+5x+6)=(x+1)(x+2)(x+3)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538475,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538472,
+      "value": {
+        "options": [],
+        "question": "[math]P(a) = a^3 + a^2 + 10a - 8[/math] কে [math](a - 2)[/math] দ্বারা ভাগ করলে ভাগশেষ কত হবে তা নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]P(a) = a^3 + a^2 + 10a - 8[/math]\u003Cbr\u003Eভাগশেষ উপপাদ্য অনুযায়ী [math]P(a)[/math]\u003Cbr\u003E কে [math](a - 2)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হবে [math]P(2)[/math]\u003Cbr\u003E [math]P(2) = 2^3 + 2^2 + 10 \\cdot 2 - 8[/math]\u003Cbr\u003E [math]= 8 + 4 + 20 - 8 = 24[/math]\u003Cbr\u003Eসুতরাং, নির্ণীত মান = [math]24[/math]\u003Cbr\u003E",
+        "explanation": "বশিষ্টাংশ সূত্র অনুযায়ী, কোনো পলিনোমকে [math](a-2)[/math] দ্বারা ভাগ করলে বশিষ্টাংশ হবে সেই পলিনোমের [math]a=2[/math] এ মান, তাই [math]P(2)=2^3+2^2+10\\times2-8=8+4+20-8=24[/math]. অতএব বশিষ্টাংশ [math]24[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538472,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538469,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + 13x + 50[/math] কে [math]x + 9[/math] দ্বারা ভাগ করলে ভাগফল ও ভাগশেষ কত?",
+        "solution": "[math]x + 9 \\big) x^2 + 13x + 50[/math]\u003Cbr\u003E প্রথম ধাপ: [math]x^2 \\div x = x[/math]\u003Cbr\u003E গুণফল: [math]x \\cdot (x + 9) = x^2 + 9x[/math]\u003Cbr\u003E বাদ দিলে: [math]13x - 9x = 4x[/math]\u003Cbr\u003E [math]4x + 50[/math]\u003Cbr\u003E থেকে [math]4x + 36[/math]\u003Cbr\u003E বাদ দিলে ভাগশেষ = [math]14[/math]\u003Cbr\u003E সুতরাং, ভাগফল = [math]x + 4[/math]\u003Cbr\u003E এবং ভাগশেষ = [math]14[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভাগফল হলো [math]x+4[/math] এবং ভাগশেষ [math]14[/math], কারণ [math]x^2+13x+50=(x+9)(x+4)+14[/math]. এছাড়া ভাগশেষ দ্রুত পেতে [math]x=-9[/math] বসালে [math](-9)^2+13(-9)+50=14[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538469,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538465,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + 13x + 50[/math] কে [math]x + 9[/math] দ্বারা ভাগ করলে ভাগফল ও ভাগশেষ কত?",
+        "solution": "[math]x^2 + 13x + 50[/math]\u003Cbr\u003E কে [math]x + 9[/math]\u003Cbr\u003E দ্বারা ভাগ করলে,ভাগফল = [math]x + 4[/math]\u003Cbr\u003Eভাগশেষ = [math]14[/math]\u003Cbr\u003Eনির্ণীত ভাগফল = [math]x + 4[/math]\u003Cbr\u003E এবং ভাগশেষ = [math]14[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]x^2+13x+50[/math]-এ যদি [math]x+9[/math] দিয়ে ভাগ করা হয়, ভাগশর্তে [math]x=-9[/math] রেখে চেক করলে [math](-9)^2+13(-9)+50=81-117+50=14[/math], তাই ভাগশেষ [math]14[/math]. সিনথেটিক ডিভিশনে সহগ [math]1,13,50[/math] থেকে ভাগফল হিসেবে [math]1,4[/math] দাঁড়ায়, ফলে ভাগফল [math]x+4[/math] এবং ভাগশেষ [math]14[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538465,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538463,
+      "value": {
+        "options": [],
+        "question": "উৎপাদক বিশ্লেষণ কর: [math]x^2 - 21x - 20[/math]",
+        "solution": "[math]x^2 - 21x - 20[/math]\u003Cbr\u003E [math]= x^2 + x - x - 21x - 20[/math]\u003Cbr\u003E [math]= x(x + 1) - (21x + 20)[/math]\u003Cbr\u003E [math]= (x + 1)(x - 21) - 20[/math]\u003Cbr\u003E (ভুল ধারা পরিহার করে নিচের ধাপে)[math]= x^2 + x - 20x - 20[/math]\u003Cbr\u003E [math]= x(x + 1) - 20(x + 1)[/math]\u003Cbr\u003E [math]= (x + 1)(x - 20)[/math]\u003Cbr\u003Eঅতএব, [math]x^2 - 21x - 20 = (x + 1)(x - 20)[/math]\u003Cbr\u003E",
+        "explanation": "পূর্ণ সংখ্যা গুণফল -20 এবং যোগফল -21 দেয় এমন কোন পূর্ণসংখ্যার জোড়া নেই (1,2,4,5,10,20 যাচাই করলে দেখা যায়), তাই এটি সম্পূর্ণ রূপে পূর্ণসংখ্যায় বিভাজ্য নয়। দ্বিঘাত সূত্র প্রয়োগ করলে মূলগুলো পাওয়া যায় [math]x=\\frac{21\\pm\\sqrt{521}}{2}[/math], অতএব উৎপাদক হিসেবে লিখতে পারি [math]\\left(x-\\frac{21+\\sqrt{521}}{2}\\right)\\left(x-\\frac{21-\\sqrt{521}}{2}\\right)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538463,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538377,
+      "value": {
+        "options": [],
+        "question": "যদি [math]f(x)[/math] এর মাত্রা ধনাত্মক হয় তবে কোন শর্তে [math]f(x)[/math] কে [math](ax + b)[/math] দ্বারা ভাগ করলে ভাগশেষ হবে [math]f\\left(-\\dfrac{b}{a}\\right)[/math]?",
+        "solution": "যদি [math]f(x)[/math]\u003Cbr\u003E এর মাত্রা ধনাত্মক হয় এবং [math]a \\ne 0[/math]\u003Cbr\u003E হয়,তবে [math]f(x)[/math]\u003Cbr\u003E কে [math](ax + b)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হবে [math]f\\left(-\\dfrac{b}{a}\\right)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: শর্ত হল [math]a \\neq 0[/math], যাতে [math]ax+b[/math] একটি প্রকৃত লাইনার ফ্যাক্টর হয়। বিভাজন সূত্র অনুযায়ী [math]f(x)=(ax+b)q(x)+r[/math] যেখানে [math]r[/math] ধ্রুবক; এখন [math]x=-\\dfrac{b}{a}[/math] বসালে [math]ax+b=0[/math] হয় এবং ফলে [math]r=f\\!\\left(-\\dfrac{b}{a}\\right)[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538377,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538455,
+      "value": {
+        "options": [],
+        "question": "কোনো বহুপদী [math]f(x)[/math] কে [math](2x + 1)[/math] দ্বারা ভাগ করলে ভাগশেষ কত হবে?",
+        "solution": "আমরা জানি, কোনো বহুপদী [math]f(x)[/math]\u003Cbr\u003E কে [math](x - a)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হয় [math]f(a)[/math]\u003Cbr\u003Eএখন, [math]2x + 1 = 2\\left(x + \\dfrac{1}{2}\\right) = 2\\left[x - \\left(-\\dfrac{1}{2}\\right)\\right][/math]\u003Cbr\u003Eসুতরাং, [math]f(x)[/math]\u003Cbr\u003E কে [math](2x + 1)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হবে [math]f\\left(-\\dfrac{1}{2}\\right)[/math]\u003Cbr\u003E",
+        "explanation": "বহুপদী [math]f(x)[/math]‑কে রৈখিক বিভাজক [math]2x+1[/math] দ্বারা ভাগ করলে প্রথমে [math]2x+1=0[/math] থেকে [math]x=-\\tfrac{1}{2}[/math] পাওয়া যায়। ভাগশেষ হবে ঠিকই সেই বিন্দুর মান, অর্থাৎ ভাগশেষ = [math]f\\bigl(-\\tfrac{1}{2}\\bigr)[/math], কারণ অবশিষ্ট থিওরেম বলে রৈখিক বিভাজকের শূন্যবিন্দুতে বহুপদীর মানটাই ভাগশেষ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538455,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538452,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math]12x^2 + 17x + 6[/math] এর একটি উৎপাদক [math](3x + 2)[/math]",
+        "solution": "ধরি, [math]f(x) = 12x^2 + 17x + 6[/math]\u003Cbr\u003E [math]3x + 2 = 3\\left(x + \\dfrac{2}{3}\\right)[/math]\u003Cbr\u003E [math]f(x)[/math]\u003Cbr\u003E এর উৎপাদক হবে, যদি এবং কেবল যদি [math]f\\left(-\\dfrac{2}{3}\\right) = 0[/math]\u003Cbr\u003E হয়।এখন,[math]f\\left(-\\dfrac{2}{3}\\right) = 12\\left(-\\dfrac{2}{3}\\right)^2 + 17\\left(-\\dfrac{2}{3}\\right) + 6[/math]\u003Cbr\u003E [math]= 12 \\cdot \\dfrac{4}{9} - \\dfrac{34}{3} + 6[/math]\u003Cbr\u003E [math]= \\dfrac{48}{9} - \\dfrac{102}{9} + \\dfrac{54}{9} = \\dfrac{48 + 54 - 102}{9} = 0[/math]\u003Cbr\u003Eসুতরাং, [math]f\\left(-\\dfrac{2}{3}\\right) = 0[/math]\u003Cbr\u003Eঅতএব, [math](3x + 2)[/math]\u003Cbr\u003E, [math]12x^2 + 17x + 6[/math]\u003Cbr\u003E এর একটি উৎপাদক। (দেখানো হলো)",
+        "explanation": "যদি [math]3x+2[/math] একটি উৎপাদক হয়, তাহলে তার শূন্যমূল [math]x=-\\tfrac{2}{3}[/math] দিয়ে বহুপদকের মান শূন্য হওয়া উচিত; বসালে [math]12\\bigl(-\\tfrac{2}{3}\\bigr)^2+17\\bigl(-\\tfrac{2}{3}\\bigr)+6=\\tfrac{16}{3}-\\tfrac{34}{3}+\\tfrac{18}{3}=0[/math]. অতএব [math]3x+2[/math] উৎপাদক এবং [math]12x^2+17x+6=(3x+2)(4x+3)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538452,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538445,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math]ax + b[/math], [math]a \\ne 0[/math] হলে, রাশিটি কোনো বহুপদী [math]f(x)[/math] এর উৎপাদক হবে, যদি এবং কেবল যদি [math]f\\left(-\\dfrac{b}{a}\\right) = 0[/math] হয়।",
+        "solution": "[math]a \\ne 0[/math]\u003Cbr\u003E, [math]ax + b = a \\left( x + \\dfrac{b}{a} \\right)[/math]\u003Cbr\u003E [math]f(x)[/math]\u003Cbr\u003E এর উৎপাদক হবে, যদি এবং কেবল যদি [math]\\left( x + \\dfrac{b}{a} \\right) = x - \\left( -\\dfrac{b}{a} \\right)[/math]\u003Cbr\u003E [math]f(x)[/math]\u003Cbr\u003E এর একটি উৎপাদক হয়।অর্থাৎ, যদি এবং কেবল যদি [math]f\\left(-\\dfrac{b}{a}\\right) = 0[/math]\u003Cbr\u003E হয়। (দেখানো হলো)",
+        "explanation": "ব্যাখ্যা: যদি [math]ax+b[/math] দ্বারা [math]f(x)[/math] ভাগ হয়, তাহলে থাকে [math]f(x)=(ax+b)q(x)[/math] এবং [math]x=-\\dfrac{b}{a}[/math] বসালে [math]f\\!\\left(-\\dfrac{b}{a}\\right)=0[/math]. বিপরীতভাবে, যদি [math]f\\!\\left(-\\dfrac{b}{a}\\right)=0[/math] হয় তবে [math]x+\\dfrac{b}{a}[/math] হল [math]f(x)[/math] এর গুণক; এবং কারণ [math]ax+b=a\\bigl(x+\\dfrac{b}{a}\\bigr)[/math] ও [math]a\\neq0[/math], তাই [math]ax+b[/math] ও গুণক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538445,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538434,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math]x^2 - 37x - 650[/math] এর একটি উৎপাদক [math](x - 50)[/math]",
+        "solution": "ধরি, [math]f(x) = x^2 - 37x - 650[/math]\u003Cbr\u003E [math](x - 50)[/math]\u003Cbr\u003E, [math]f(x)[/math]\u003Cbr\u003E এর একটি উৎপাদক হবে যদি এবং কেবল যদি [math]f(50) = 0[/math]\u003Cbr\u003E হয়।এখন,[math]f(50) = (50)^2 - 37 \\cdot 50 - 650[/math]\u003Cbr\u003E [math]= 2500 - 1850 - 650[/math]\u003Cbr\u003E [math]= 2500 - 2500 = 0[/math]\u003Cbr\u003Eসুতরাং, [math](x - 50)[/math]\u003Cbr\u003E, [math]x^2 - 37x - 650[/math]\u003Cbr\u003E এর একটি উৎপাদক। (দেখানো হলো)",
+        "explanation": "পলিনোমে [math]x=50[/math] বসালে [math]50^2-37\\cdot50-650=2500-1850-650=0[/math]. পলিনোমের মান শূন্য হলে সেই রুটের জন্য [math](x-50)[/math] একটি উৎপাদক (factor) হওয়ায় [math](x-50)[/math] সত্যিই এই多র উৎপাদক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538434,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538426,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math]x^2 - 37x - 650[/math] এর একটি উৎপাদক [math](x - 50)[/math]",
+        "solution": "ধরি, [math]f(x) = x^2 - 37x - 650[/math]\u003Cbr\u003E [math](x - 50)[/math]\u003Cbr\u003E, [math]f(x)[/math]\u003Cbr\u003E এর একটি উৎপাদক হবে যদি এবং কেবল যদি [math]f(50) = 0[/math]\u003Cbr\u003E হয়। এখন, [math]f(50) = (50)^2 - 37 \\cdot 50 - 650[/math]\u003Cbr\u003E [math]= 2500 - 1850 - 650[/math]\u003Cbr\u003E [math]= 2500 - 2500 = 0[/math]\u003Cbr\u003E সুতরাং, [math](x - 50)[/math]\u003Cbr\u003E, [math]x^2 - 37x - 650[/math]\u003Cbr\u003E এর একটি উৎপাদক। (দেখানো হলো)",
+        "explanation": "যদি কোনো বহুপদে [math]x=a[/math] বসালে মান শূন্য হয়, তবে [math](x-a)[/math] সেই বহুপদের উৎপাদক। এখানে [math]50^2-37\\times50-650=2500-1850-650=0[/math], সুতরাং [math](x-50)[/math] উৎপাদক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538426,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538419,
+      "value": {
+        "options": [],
+        "question": "প্রমাণ কর যে, [math](x - a)[/math], [math]f(x)[/math] এর উৎপাদক হবে, যদি এবং কেবল যদি [math]f(a) = 0[/math] হয়।",
+        "solution": "ধরি, [math]f(a) = 0[/math]\u003Cbr\u003Eঅতএব, ভাগশেষ উপপাদ্য অনুযায়ী, [math]f(x)[/math]\u003Cbr\u003E কে [math](x - a)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ শূন্য হবে।অর্থাৎ, [math](x - a)[/math]\u003Cbr\u003E, [math]f(x)[/math]\u003Cbr\u003E এর একটি উৎপাদক হবে।বিপরীতক্রমে, ধরি, [math](x - a)[/math]\u003Cbr\u003E, [math]f(x)[/math]\u003Cbr\u003E এর একটি উৎপাদক।অতএব, [math]f(x) = (x - a) \\cdot h(x)[/math]\u003Cbr\u003E, যেখানে [math]h(x)[/math]\u003Cbr\u003E বহুপদী।উভয়পক্ষে [math]x = a[/math]\u003Cbr\u003E বসিয়ে পাই, [math]f(a) = (a - a) \\cdot h(a) = 0[/math]\u003Cbr\u003Eসুতরাং, [math]f(a) = 0[/math]\u003Cbr\u003Eসুতরাং, কোনো বহুপদী [math]f(x)[/math]\u003Cbr\u003E, [math](x - a)[/math]\u003Cbr\u003E দ্বারা বিভাজ্য হবে যদি এবং কেবল যদি [math]f(a) = 0[/math]\u003Cbr\u003E হয়। (প্রমাণিত)",
+        "explanation": "ব্যাখ্যা: যদি [math](x - a)[/math] [math]f(x)[/math] এর উৎপাদক হয়, তাহলে [math]f(x)=(x-a)g(x)[/math] যেসকল [math]g(x)[/math] বহুপদ আছে এবং তাই [math]f(a)=0[/math]. বিপরীতে, যদি [math]f(a)=0[/math], তাহলে বহুপদভাগে লিখি [math]f(x)=(x-a)q(x)+r[/math] (যেখানে [math]r[/math] ধ্রুবক); [math]x=a[/math] বসালে [math]r=f(a)=0[/math] হয়, ফলে [math]f(x)=(x-a)q(x)[/math] এবং [math](x-a)[/math] উৎপাদক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538419,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538414,
+      "value": {
+        "options": [],
+        "question": "প্রতীক পরিচিতিসহ ভাগশেষ উপপাদ্যের সূত্রটি লেখ।",
+        "solution": "ভাগশেষ উপপাদ্য নামে পরিচিত সূত্রটি হলো:[math]f(x) = (x - a) \\cdot h(x) + r[/math]\u003Cbr\u003Eএখানে, [math]f(x)[/math]\u003Cbr\u003E = ভাজ্য[math]h(x)[/math]\u003Cbr\u003E = ভাগফল[math](x - a)[/math]\u003Cbr\u003E = ভাজকএবং [math]r[/math]\u003Cbr\u003E = ভাগশেষ",
+        "explanation": "ব্যাখ্যা: যদি [math]a[/math] একটি পূর্ণসংখ্যা এবং [math]b\u003E0[/math] একটি ধন পূর্ণসংখ্যা হয়, তাহলে এমন অনন্য পূর্ণসংখ্যা [math]q[/math] এবং [math]r[/math] থাকেঃ [math]a=bq+r[/math] এবং [math]0\\le r\u003Cb[/math]। এখানে [math]q[/math] ভাগফল (quotient) এবং [math]r[/math] ভাগশেষ (remainder), এবং শর্তটি নিশ্চিত করে যে ভাগশেষ ধন ও ভাগকের থেকে ছোট।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538414,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538407,
+      "value": {
+        "options": [],
+        "question": "ভাগশেষ উপপাদ্য কী? ব্যাখ্যা কর।",
+        "solution": "[math]f(x)[/math]\u003Cbr\u003E কে [math](x - a)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হয় [math]f(a)[/math]\u003Cbr\u003E। এই সূত্র ভাগশেষ উপপাদ্য নামে পরিচিত। অর্থাৎ ধনাত্মক মাত্রার কোনো বহুপদী [math]f(x)[/math]\u003Cbr\u003E কে [math](x - a)[/math]\u003Cbr\u003E আকারের বহুপদী দ্বারা ভাগ করলে ভাগশেষ কত হবে তা ভাগ না করে বের করার সূত্রই হলো ভাগশেষ উপপাদ্য।[math]f(x) = 6x^2 - 7x + 5[/math]\u003Cbr\u003E কে [math]x - 1[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ [math]f(1) = 6 - 7 + 5 = 4[/math]\u003Cbr\u003E যা ভাগশেষের সমান।ভাজক বহুপদী [math](x - a)[/math]\u003Cbr\u003E এর মাত্রা ১, ভাজক যদি ভাজ্যের উৎপাদক হয়, তাহলে ভাগশেষ হবে শূন্য। আর যদি উৎপাদক না হয়, তাহলে ভাগশেষ থাকবে এবং তা হবে অশূন্য কোনো সংখ্যা। তবে সাধারণভাবে বলতে গেলে ভাগশেষ ভাজকের থেকে কম মাত্রার একটি বহুপদী হবে।",
+        "explanation": "ব্যাখ্যা: ভাগশেষ উপপাদ্য বলে যে যেকোন পূর্ণসংখ্যা [math]a[/math] এবং ধনাত্মক পূর্ণসংখ্যা [math]b[/math] এর জন্য এমন এককটি ভাগফল [math]q[/math] এবং ভাগশেষ [math]r[/math] আছে যাতে [math]a=bq+r,\\ 0\\le r\u003Cb[/math]. অস্তিত্ব বোঝানো হয় ধাপে ধাপে বিয়োগ (বা ইউক্লিডীয় ভাগ) করে যেকোনো সময়ে প্রথমবার যে ছোট সংখ্যা পাওয়া যায় সেটিই ভাগশেষ, এবং এককত্ব কারণ যদি দুইটি ভিন্ন [math]r[/math] থাকতো তাদের পার্থক্য [math]b[/math] দ্বারা ভাগ্য হওয়ায় কিন্তু দুইটি শর্তই মিললে তা সম্ভব নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538407,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538400,
+      "value": {
+        "options": [],
+        "question": "প্রমাণ কর যে, [math]f(x)[/math] কে [math](ax + b)[/math] দ্বারা ভাগ করলে ভাগশেষ হয় [math]f\\left(-\\dfrac{b}{a}\\right)[/math], যেখানে [math]f(x)[/math] এর মাত্রা ধনাত্মক এবং [math]a \\ne 0[/math]।",
+        "solution": "এখানে, ভাজক [math](ax + b)[/math]\u003Cbr\u003E, [math]a \\ne 0[/math]\u003Cbr\u003E এবং মাত্রা [math]1[/math]\u003Cbr\u003E।এখন, [math]f(x) = (ax + b) \\cdot h(x) + r[/math]\u003Cbr\u003Eবা, [math]f(x) = a \\left(x + \\dfrac{b}{a} \\right) \\cdot h(x) + r[/math]\u003Cbr\u003Eবা, [math]f(x) = \\left(x + \\dfrac{b}{a} \\right) \\cdot a \\cdot h(x) + r[/math]\u003Cbr\u003Eঅর্থাৎ, [math]f(x)[/math]\u003Cbr\u003E কে [math]\\left(x + \\dfrac{b}{a} \\right)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগফল হবে [math]a \\cdot h(x)[/math]\u003Cbr\u003E এবং ভাগশেষ হবে [math]r[/math]\u003Cbr\u003E।এখানে, ভাজক = [math]x + \\dfrac{b}{a} = x - \\left(- \\dfrac{b}{a} \\right)[/math]\u003Cbr\u003Eসুতরাং, ভাগশেষ উপপাদ্য অনুযায়ী, [math]r = f\\left(-\\dfrac{b}{a} \\right)[/math]\u003Cbr\u003Eঅতএব, [math]f(x)[/math]\u003Cbr\u003E কে [math](ax + b)[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ [math]f\\left(-\\dfrac{b}{a} \\right)[/math]\u003Cbr\u003E (প্রমাণিত)।",
+        "explanation": "f(x)-কে [math](ax+b)[/math] দ্বারা ভাগ করলে থাকবে [math]f(x)=(ax+b)q(x)+r[/math], যেখানে [math]q(x)[/math] ভাগফল ও [math]r[/math] ধ্রুবক ভাগশেষ (কারণ বিভাজকটির মাত্রা 1)। এখন [math]x=-\\dfrac{b}{a}[/math] বসালে [math]ax+b=0[/math] হয়ে যায় এবং তাই [math]f\\!\\left(-\\dfrac{b}{a}\\right)=r[/math], অর্থাৎ ভাগশেষই [math]f\\!\\left(-\\dfrac{b}{a}\\right)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538400,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538391,
+      "value": {
+        "options": [],
+        "question": "[math]3x^2 - x - 16[/math] কে [math]x + 2[/math] দ্বারা ভাগ করলে ভাগশেষ কত? ভাগশেষ উপপাদ্যের সাহায্যে নির্ণয় কর।",
+        "solution": "ধরি, [math]f(x) = 3x^2 - x - 16[/math]\u003Cbr\u003E [math]f(x)[/math]\u003Cbr\u003E কে [math]x + 2[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হবে [math]f(-2)[/math]\u003Cbr\u003Eএখন,[math]f(-2) = 3(-2)^2 - (-2) - 16[/math]\u003Cbr\u003E [math]= 3 \\cdot 4 + 2 - 16[/math]\u003Cbr\u003E [math]= 12 + 2 - 16 = 14 - 16 = -2[/math]\u003Cbr\u003Eসুতরাং, ভাগশেষ = [math]-2[/math]\u003Cbr\u003Eনির্ণীত ভাগশেষ = [math]-2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ভাগশেষ উপপাদ্য অনুযায়ী [math]x-a[/math] দ্বারা ভাগ করলে ভাগশেষ হয় [math]f(a)[/math]; এখানে [math]x+2=x-(-2)[/math] হলে [math]a=-2[/math]. তাই [math]f(-2)=3(-2)^2-(-2)-16=3\\times4+2-16=12+2-16=-2[/math], ফলে ভাগশেষ [math]-2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538391,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538382,
+      "value": {
+        "options": [],
+        "question": "ভাগশেষ উপপাদ্যের সাহায্যে দেখাও যে, [math]6x^2 - 7x + 5[/math] কে [math]x - 1[/math] দ্বারা ভাগ করলে ভাগশেষ 4 হয়।",
+        "solution": "ধরি, [math]f(x) = 6x^2 - 7x + 5[/math]\u003Cbr\u003E [math]f(x)[/math]\u003Cbr\u003E কে [math]x - 1[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ হবে [math]f(1)[/math]\u003Cbr\u003Eএখন,[math]f(1) = 6(1)^2 - 7(1) + 5[/math]\u003Cbr\u003E [math]= 6 - 7 + 5 = 4[/math]\u003Cbr\u003Eসুতরাং, ভাগশেষ = [math]4[/math]\u003Cbr\u003Eঅতএব, [math]6x^2 - 7x + 5[/math]\u003Cbr\u003E কে [math]x - 1[/math]\u003Cbr\u003E দ্বারা ভাগ করলে ভাগশেষ [math]4[/math]\u003Cbr\u003E হবে। (দেখানো হলো)",
+        "explanation": "ব্যাখ্যা: ভাগশেষ উপপাদ্য অনুযায়ী, যদি কোন বহুপদকে [math]x-c[/math] দিয়ে ভাগ করা হয় তাহলে ভাগশেষ হবে বহুপদের মান [math]x=c[/math] এ। এখানে [math]c=1[/math], তাই [math]f(1)=6(1)^2-7(1)+5=6-7+5=4[/math], ফলে ভাগশেষ 4।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538382,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12928&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12928&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12928&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2200,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

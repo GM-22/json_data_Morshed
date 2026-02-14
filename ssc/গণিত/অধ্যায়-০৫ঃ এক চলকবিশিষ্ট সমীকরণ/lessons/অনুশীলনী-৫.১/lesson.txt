@@ -1,0 +1,2345 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 535188,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{1}{x-1} + \\frac{1}{x+2} = \\frac{1}{x+1} + \\frac{1}{x}[/math]",
+        "solution": "[math]\\frac{1}{x-1} + \\frac{1}{x+2} - \\frac{1}{x+1} - \\frac{1}{x}[/math]\u003Cbr\u003Eবা, সমস্ত ভগ্নাংশকে সাধারণ হরে আনতে LCM নিই: [math](x-1)(x)(x+1)(x+2)[/math]\u003Cbr\u003Eউপরের লবগুলোর সমন্বয় করে পাই, [math]x(x+1)(x+2) + (x-1)(x)(x+1) - (x-1)(x)(x+2) - (x-1)(x+1)(x+2)[/math]\u003Cbr\u003Eসবগুলো গুণফল হিসাব করে সরলীকরণ করলে পাই, [math]4x^3 + 6x^2 - 4x - 6 = 0[/math]\u003Cbr\u003Eএই ঘন সমীকরণকে বিভাজন করে পাই, [math]x = 1[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = 1[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: দুদিকে একে আনলে লিখি [math]\\frac{1}{x-1}-\\frac{1}{x}+\\frac{1}{x+2}-\\frac{1}{x+1}=0[/math], এবং পৃথকভাবে সরলীকরণ করলে পাই [math]\\frac{1}{x(x-1)}-\\frac{1}{(x+2)(x+1)}=0[/math]. ফলে [math]\\frac{1}{x(x-1)}=\\frac{1}{(x+2)(x+1)}[/math] এবং সমীকরণ থেকে [math](x+2)(x+1)=x(x-1)\\Rightarrow 4x+2=0\\Rightarrow x=-\\tfrac{1}{2}[/math]. অনিবার্য শর্ত [math]x\\neq0,1,-1,-2[/math] হওয়ায় [math]x=-\\tfrac{1}{2}[/math] গ্রহণযোগ্য একমাত্র সমাধান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535188,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535171,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math]\\frac{1}{x+1} + \\frac{1}{x+4} = \\frac{1}{x+2} + \\frac{1}{x+3}[/math]",
+        "solution": "[math]\\frac{1}{x+1} + \\frac{1}{x+4} - \\frac{1}{x+2} - \\frac{1}{x+3}[/math]\u003Cbr\u003Eবা, [math]\\frac{x+2 - x+1}{(x+1)(x+2)} + \\frac{x+4 - x+3}{(x+3)(x+4)}[/math]\u003Cbr\u003Eবা, [math]\\frac{1}{(x+1)(x+2)} + \\frac{1}{(x+3)(x+4)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 + 3x + 2 - x^2 + 7x + 12}{(x+1)(x+2)(x+3)(x+4)} = \\frac{1}{1}[/math]\u003Cbr\u003Eবা, [math]x^2 + 7x + 12 = x^2 + 3x + 2[/math]\u003Cbr\u003Eবা, [math]x^2 + 7x - x^2 - 3x = 2 - 12[/math]\u003Cbr\u003Eবা, [math]4x = -10[/math]\u003Cbr\u003Eবা, [math]x = \\frac{-10}{4} = \\frac{-5}{2}[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{-5}{2}[/math]\u003Cbr\u003E",
+        "explanation": "দুটি পার্শ্বের উপাদানগুলো জোড়া করে সরানো হলে পাই [math]\\frac{1}{(x+1)(x+2)}=\\frac{1}{(x+3)(x+4)}[/math], ফলে [math](x+1)(x+2)=(x+3)(x+4)[/math] হয়। বিস্তৃত করে সমাধান করলে [math]3x+2=7x+12\\Rightarrow x=-\\tfrac{5}{2}[/math] পাওয়া যায়। ডোমেইন থেকে [math]x\\neq -1,-2,-3,-4[/math] হওয়া মানে এই সমাধান বৈধ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535171,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535154,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math]\\frac{a}{x-a} - \\frac{b}{x-b} = \\frac{a + b}{x - a - b}[/math]",
+        "solution": "[math]\\frac{a}{x-a} - \\frac{b}{x-b} = \\frac{a + b}{x - a - b}[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{1}{x-a} - \\frac{1}{x-a-b} \\right) - b \\left( \\frac{1}{x-b} - \\frac{1}{x-a-b} \\right)[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{(x-a-b)-(x-a)}{(x-a)(x-a-b)} \\right) - b \\left( \\frac{(x-a-b)-(x-b)}{(x-b)(x-a-b)} \\right)[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{-b}{(x-a)(x-a-b)} \\right) - b \\left( \\frac{-a}{(x-b)(x-a-b)} \\right)[/math]\u003Cbr\u003Eবা, [math]\\frac{-ab}{(x-a)(x-a-b)} + \\frac{ab}{(x-b)(x-a-b)}[/math]\u003Cbr\u003Eবা, [math]\\frac{ab[(x-b) - (x-a)]}{(x-a)(x-b)(x-a-b)}[/math]\u003Cbr\u003Eবা, [math]\\frac{ab(a - b)}{(x-a)(x-b)(x-a-b)}[/math]\u003Cbr\u003Eউভয়পক্ষকে সমান করে: [math]LHS = RHS[/math]\u003Cbr\u003E∴ সমতা প্রমাণিত।",
+        "explanation": "প্রথমে বাম পাশকে সাধারণ হর অতিক্রম করে সরলীকরণ করলে [math]\\frac{a}{x-a}-\\frac{b}{x-b}=\\frac{(a-b)x}{(x-a)(x-b)}[/math] পাওয়া যায়। এরপর সমীকরণকে ক্রস-মাল্টিপ্লায় করে ও সরল করে (যদি [math]b\\neq0[/math]) পাই [math]2x^2-2(a+b)x+a(a+b)=0[/math], তার থেকে সমাধানগুলো হল [math]x=\\frac{(a+b)\\pm\\sqrt{(a+b)(b-a)}}{2}[/math]. এছাড়া মোট শূন্যস্থানগুলো থেকে বাদ দিতে হবে: [math]x\\neq a,\\;x\\neq b,\\;x\\neq a+b[/math]; বিশেষ ক্ষেত্রে [math]b=0[/math] হলে সমীকরণটি সমস্ত গ্রহণযোগ্য [math]x[/math]-এ সত্য (পরিহারিত মান ব্যতীত), আর যদি [math]a=b\\neq0[/math] হয় তখন কোনো সমাধান নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535154,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535137,
+      "value": {
+        "options": {
+          "গ": "সা.গু. ৬ এবং ল.সা.গু. ৭২। একটি সংখ্যা ২৪ হলে অপরটি কত?"
+        },
+        "question": "দুটি সংখ্যার",
+        "solution": "গ.সা.গু. × ল.সা.গু. = সংখ্যা ১ × সংখ্যা ২∴ [math]6 \\times 72 = 24 \\times x[/math]\u003Cbr\u003Eবা, [math]432 = 24x[/math]\u003Cbr\u003E∴ [math]x = \\frac{432}{24} = 18[/math]\u003Cbr\u003E∴ অপর সংখ্যা [math]18[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দুই সংখ্যার গুণফল সমান তাদের সা.গু. ও ল.সা.গু.-এর গুণফল, অর্থাৎ [math]a\\times b=\\text{সা.গু.}\\times\\text{ল.সা.গু.}[/math]. যদি [math]a=24[/math], সা.গু. [math]=6[/math] এবং ল.সা.গু. [math]=72[/math], তবে অপরটি [math]b=\\dfrac{6\\times72}{24}=18[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535137,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535127,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{3}{x+1} - \\frac{2}{x-2} = \\frac{5x+1}{x^2 - x - 2}[/math]",
+        "solution": "ডানপাশের হরকে বিশ্লেষণ করি: [math]x^2 - x - 2 = (x+1)(x-2)[/math]\u003Cbr\u003Eবামপাশের ল.সা.গু: [math](x+1)(x-2)[/math]\u003Cbr\u003Eবা, [math]\\frac{3(x-2) - 2(x+1)}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]\\frac{3x - 6 - 2x - 2}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x - 8}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]x - 8 = 5x + 1[/math]\u003Cbr\u003Eবা, [math]-4x = 9[/math]\u003Cbr\u003Eবা, [math]x = \\frac{-9}{4}[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{-9}{4}[/math]\u003Cbr\u003E",
+        "explanation": "ধারণা: মহড়ার সাথে গুণ করা হলে সব ভগ্নাংশের সাধারণ হার হচ্ছে [math](x+1)(x-2)[/math], কারণ [math]x^2-x-2=(x+1)(x-2)[/math]. একই মূলভাগে এনে উপরের অংশগুলো যোগ করলে [math]3(x-2)-2(x+1)=x-8[/math] পাওয়া যায় এবং ফলে [math]\\frac{x-8}{(x+1)(x-2)}=\\frac{5x+1}{(x+1)(x-2)}[/math] থেকে ডিনোমিনেটর বজায় রাখলে [math]x-8=5x+1\\Rightarrow 4x=-9\\Rightarrow x=-\\tfrac{9}{4}[/math]. শর্তে [math]x\\neq-1,2[/math] যা সমস্যায় পড়ে না, তাই সমাধানটি বৈধ: [math]x=-\\tfrac{9}{4}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535127,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535025,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার তিনগুণ ও অপর একটি সংখ্যার দ্বিগুণের পার্থক্য ৪। সংখ্যা দুটি যোগ করলে ২২ হয়। সংখ্যা দুটি কত?",
+        "solution": "ধরি, প্রথম সংখ্যা [math]x[/math]\u003Cbr\u003E, দ্বিতীয় সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]3x - 2y = 4[/math]\u003Cbr\u003E এবং [math]x + y = 22[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণ থেকে [math]y = 22 - x[/math]\u003Cbr\u003Eপ্রথম সমীকরণে বসিয়ে, [math]3x - 2(22 - x) = 4[/math]\u003Cbr\u003Eবা, [math]3x - 44 + 2x = 4[/math]\u003Cbr\u003Eবা, [math]5x = 48[/math]\u003Cbr\u003E∴ [math]x = \\frac{48}{5} = 9.6[/math]\u003Cbr\u003Eকিন্তু ভগ্নাংশ আসায়, সম্ভবত প্রশ্নটি সম্পূর্ণ সংখ্যা ভিত্তিক নয় বা ভিন্নভাবে দেয়া উচিত ছিল।",
+        "explanation": "সংখ্যাসমূহ ধরুন [math]x[/math] ও [math]y[/math]. শর্ত অনুযায়ী আমাদের সমীকরণ দুটি হল [math]3x-2y=4[/math] এবং [math]x+y=22[/math]। দ্বিতীয় সমীকরণ থেকে [math]y=22-x[/math] স্থাপন করে প্রথমটিতে বসালে [math]3x-2(22-x)=4\\Rightarrow 5x=48\\Rightarrow x=\\tfrac{48}{5}[/math] এবং [math]y=22-\\tfrac{48}{5}=\\tfrac{62}{5}[/math] হয়। প্রক্রিয়াটি সাধারণ লিনিয়ার সমীকরণ সমাধান (উপস্থাপন ও প্রতিস্থাপন)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535025,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534958,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n(z+1)(z−2)=(z−4)(z+2)",
+        "solution": "সমাধান: (z+1)(z−2)=(z−4)(z+2)\n\nবা, z2−2z+z−2=z2+2z−4z−8\n\nবা, z2−z−2=z2−2z−8\n\nবা, z2−z−z2+2z=−8+2\n\nবা, z=−6\n\n∴ নির্ণ",
+        "explanation": "সমাধান: দুই পাশে বিস্তৃত করলে [math](z+1)(z-2)=z^2 - z - 2[/math] এবং [math](z-4)(z+2)=z^2 - 2z - 8[/math]. একই ধরনীয় [math]z^2[/math] বাদ দিলে [math]-z-2=-2z-8[/math] পাওয়া যায় এবং এটি সমাধান করলে [math]z=-6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534958,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534977,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math](z + 1)(z - 2) = (z - 4)(z + 2)[/math]",
+        "solution": "সমাধান:[math](z + 1)(z - 2) = (z - 4)(z + 2)[/math]\u003Cbr\u003Eবা, [math]z^2 - 2z + z - 2 = z^2 + 2z - 4z - 8[/math]\u003Cbr\u003Eবা, [math]z^2 - z - 2 = z^2 - 2z - 8[/math]\u003Cbr\u003Eবা, [math]z^2 - z - z^2 + 2z = -8 + 2[/math]\u003Cbr\u003Eবা, [math]z = -6[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]z = -6[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: দুই পাশে গুণ করলে পাই [math](z+1)(z-2)=z^2 - z -2[/math] এবং [math](z-4)(z+2)=z^2 -2z -8[/math]. উভয় পাশ থেকে [math]z^2[/math] রদ করলে [math]-z-2=-2z-8[/math] হয় এবং এটি সমাধান করলে [math]z=-6[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534977,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534995,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার থেকে ৮ বিয়োগ করলে প্রাপ্ত ফলাফলের দ্বিগুণ ৪৮। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2(x - 8) = 48[/math]\u003Cbr\u003Eবা, [math]x - 8 = 24[/math]\u003Cbr\u003E∴ [math]x = 24 + 8 = 32[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]32[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সংখ্যাটি [math]x[/math] ধরে, শর্ত অনুযায়ী [math]2(x-8)=48[/math]. সমীকরণ সরল করে [math]x-8=24[/math] থেকে [math]x=32[/math], তাই সংখ্যাটি ৩২।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534995,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535007,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: একটি প্রকৃত ভগ্নাংশের লব ও হরের অন্তর [math]1[/math]; লব থেকে [math]2[/math] বিয়োগ ও হরের সাথে [math]2[/math] যোগ করলে যে ভগ্নাংশ পাওয়া যাবে তা [math]\\frac{1}{6}[/math] এর সমান। ভগ্নাংশটি নির্ণয় কর।",
+        "solution": "ধরি, ভগ্নাংশটি [math]\\frac{x}{y}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x = y - 1[/math]\u003Cbr\u003Eআবার, [math]\\frac{x - 2}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003E [math]x[/math]\u003Cbr\u003E এর স্থলে [math]y - 1[/math]\u003Cbr\u003E বসালে পাই, [math]\\frac{(y - 1) - 2}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003Eবা, [math]\\frac{y - 3}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003Eক্রস-মাল্টিপ্লাই করে, [math]6(y - 3) = y + 2[/math]\u003Cbr\u003Eবা, [math]6y - 18 = y + 2[/math]\u003Cbr\u003Eবা, [math]6y - y = 2 + 18[/math]\u003Cbr\u003Eবা, [math]5y = 20[/math]\u003Cbr\u003Eবা, [math]y = 4[/math]\u003Cbr\u003Eতাহলে, [math]x = y - 1 = 3[/math]\u003Cbr\u003E∴ ভগ্নাংশটি [math]= \\frac{3}{4}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধরা যাক ভগ্নাংশটি [math]\\frac{a}{b}[/math] যেখানে [math]b-a=1[/math], সুতরাং [math]b=a+1[/math]. লব থেকে ২ বিয়োগ ও হরে ২ যোগ করলে [math]\\frac{a-2}{b+2}=\\frac{1}{6}\u003C/math\u003E, এখানে বসিয়ে পাওয়া যায় [math]\\frac{a-2}{a+3}=\\frac{1}{6}\u003C/math], ফলে [math]6(a-2)=a+3[/math] এবং [math]a=3,\\,b=4[/math]. তাই ভগ্নাংশটি [math]\\frac{3}{4}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535007,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535035,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার দ্বিগুণ অপর সংখ্যার তিনগুণের থেকে ৮ কম। সংখ্যা দুটি যোগফল ৪৬ হলে সংখ্যা দুটি নির্ণয় কর।",
+        "solution": "ধরি, প্রথম সংখ্যা [math]x[/math]\u003Cbr\u003E, দ্বিতীয় সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2x = 3y - 8[/math]\u003Cbr\u003E এবং [math]x + y = 46[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণ থেকে [math]x = 46 - y[/math]\u003Cbr\u003Eপ্রথম সমীকরণে বসিয়ে, [math]2(46 - y) = 3y - 8[/math]\u003Cbr\u003Eবা, [math]92 - 2y = 3y - 8[/math]\u003Cbr\u003Eবা, [math]92 + 8 = 3y + 2y = 5y[/math]\u003Cbr\u003E∴ [math]y = \\frac{100}{5} = 20[/math]\u003Cbr\u003Eতাহলে, [math]x = 46 - 20 = 26[/math]\u003Cbr\u003E∴ সংখ্যা দুটি [math]26[/math]\u003Cbr\u003E ও [math]20[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: ধরা যাক সংখ্যা দুটি [math]x[/math] ও [math]y[/math]। শর্ত অনুযায়ী [math]2x=3y-8[/math] এবং [math]x+y=46[/math], প্রথম সমীকরণ থেকে [math]x=(3y-8)/2[/math] রেখে যোগফলে বসালে [math]\\frac{3y-8}{2}+y=46[/math] ⇒ [math]5y-8=92[/math] ⇒ [math]y=20[/math], তাই [math]x=46-20=26[/math]। পরীক্ষা করলে [math]2×26=52[/math] এবং [math]3×20-8=60-8=52[/math] তাই উত্তর সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535035,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535047,
+      "value": {
+        "options": [],
+        "question": "একটি ট্রেন ৪৫ কি.মি./ঘণ্টা গতিতে গেলে নির্দিষ্ট সময়ে গন্তব্যে পৌঁছায়। যদি গতি ৫০ কি.মি./ঘণ্টা করা হয়, তবে ১২ মিনিট আগে পৌঁছে যায়। দূরত্ব কত?",
+        "solution": "ধরি, দূরত্ব = [math]x[/math]\u003Cbr\u003E কি.মি.সময় = [math]\\frac{x}{45}[/math]\u003Cbr\u003E এবং [math]\\frac{x}{50}[/math]\u003Cbr\u003E ঘণ্টাপ্রশ্নমতে, [math]\\frac{x}{45} - \\frac{x}{50} = \\frac{12}{60} = \\frac{1}{5}[/math]\u003Cbr\u003ELCM = 450, ∴ [math]10x - 9x = \\frac{450}{5}[/math]\u003Cbr\u003Eবা, [math]x = 90[/math]\u003Cbr\u003E∴ দূরত্ব [math]90[/math]\u003Cbr\u003E কি.মি.",
+        "explanation": "সমাধান: ধরো দূরত্ব [math]d[/math]; সময়ের পার্থক্য থেকে [math]\\dfrac{d}{45}-\\dfrac{d}{50}=12\\ \\text{মিনিট}= \\tfrac{1}{5}\\ \\text{ঘন্টা}[/math]. সমাধান করলে [math]\\dfrac{d}{450}=\\tfrac{1}{5}\\Rightarrow d=90\\ \\text{কিমি}[/math], অতএব দূরত্ব [math]90\\ \\text{কিমি}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535047,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535065,
+      "value": {
+        "options": [],
+        "question": "একটি লঞ্চে যাত্রী সংখ্যা ৪৭। মাথাপিছু কেবিনের ভাড়া ডেকের ভাড়ার দ্বিগুণ। ডেকের ভাড়া মাথাপিছু ৩০ টাকা এবং মোট ভাড়া প্রাপ্তি ১৬৮০ টাকা হলে, কেবিনের যাত্রী সংখ্যা কত?",
+        "solution": "ধরি, কেবিনের যাত্রী সংখ্যা [math]x[/math]\u003Cbr\u003Eতাহলে, ডেকের যাত্রী সংখ্যা [math]= 47 - x[/math]\u003Cbr\u003Eকেবিনের মাথাপিছু ভাড়া [math]= 2 \\times 30 = 60[/math]\u003Cbr\u003E টাকামোট ভাড়া = কেবিন ভাড়া + ডেক ভাড়া∴ [math]60x + 30(47 - x) = 1680[/math]\u003Cbr\u003Eবা, [math]60x + 1410 - 30x = 1680[/math]\u003Cbr\u003Eবা, [math]30x = 1680 - 1410 = 270[/math]\u003Cbr\u003E∴ [math]x = \\frac{270}{30} = 9[/math]\u003Cbr\u003E∴ কেবিনের যাত্রী সংখ্যা = [math]9[/math]\u003Cbr\u003E জন",
+        "explanation": "ধরি কেবিনের যাত্রী সংখ্যা [math]x[/math] হলে ডেকের যাত্রী [math]47-x[/math] এবং মোট ভাড়া হবে [math]60x+30(47-x)=1680[/math]। এখান থেকে [math]30x=1680-30\\times47=270[/math] হলে [math]x=9[/math], তাই কেবিনে [math]9[/math] জন ছিলেন।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535065,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535079,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: একটি সংখ্যা অপর একটি সংখ্যার [math]\\frac{2}{5}[/math] গুণ। সংখ্যা দুইটির সমষ্টি [math]98[/math] হলে, সংখ্যা দুইটি নির্ণয় কর।",
+        "solution": "ধরি, একটি সংখ্যা [math]x[/math]\u003Cbr\u003Eঅপর সংখ্যাটি [math]= \\frac{2}{5}x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + \\frac{2}{5}x = 98[/math]\u003Cbr\u003Eবা, [math]\\frac{5x + 2x}{5} = 98[/math]\u003Cbr\u003Eবা, [math]\\frac{7x}{5} = 98[/math]\u003Cbr\u003Eবা, [math]7x = 490[/math]\u003Cbr\u003Eবা, [math]x = \\frac{490}{7} = 70[/math]\u003Cbr\u003E∴ অপর সংখ্যা [math]= \\frac{2}{5} \\times 70 = \\frac{140}{5} = 28[/math]\u003Cbr\u003E∴ নির্ণেয় সংখ্যাদ্বয় [math]28[/math]\u003Cbr\u003E এবং [math]70[/math]\u003Cbr\u003E",
+        "explanation": "একটি সংখ্যাকে [math]y[/math] ধরা হলে অন্যটি হচ্ছে [math]\\frac{2}{5}y[/math], এবং সমষ্টি অনুযায়ী [math]\\frac{2}{5}y+y=98 \\Rightarrow \\frac{7}{5}y=98 \\Rightarrow y=98\\times\\frac{5}{7}=70।\u003C/math\u003E তাই অন্য সংখ্যা হচ্ছে [math]\\frac{2}{5}\\times70=28\u003C/math]; সংখ্যাগুলো হল [math]28\\\u003C/math\u003E এবং [math]70\\.\u003C/math\u003E",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535079,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535094,
+      "value": {
+        "options": [],
+        "question": "একটি গাড়ি ঘণ্টায় ৬০ কি.মি. বেগে কিছু পথ এবং ঘণ্টায় ৪০ কি.মি. বেগে অবশিষ্ট পথ অতিক্রম করলো। গাড়িটি মোট ৫ ঘণ্টায় ২৪০ কি.মি. পথ অতিক্রম করলে, ঘণ্টায় ৬০ কি.মি. বেগে কতদূর গিয়েছে?",
+        "solution": "ধরি, ৬০ কি.মি. বেগে অতিক্রান্ত দূরত্ব [math]= x[/math]\u003Cbr\u003E কি.মি.তাহলে, বাকি পথ [math]= 240 - x[/math]\u003Cbr\u003E কি.মি.সময় = দূরত্ব ÷ গতি∴ [math]\\frac{x}{60} + \\frac{240 - x}{40} = 5[/math]\u003Cbr\u003ELCM = [math]120[/math]\u003Cbr\u003E নিয়ে গুণ করলে:[math]\\frac{2x}{120} + \\frac{3(240 - x)}{120} = 5[/math]\u003Cbr\u003Eবা, [math]\\frac{2x + 720 - 3x}{120} = 5[/math]\u003Cbr\u003Eবা, [math]\\frac{720 - x}{120} = 5[/math]\u003Cbr\u003Eবা, [math]720 - x = 600[/math]\u003Cbr\u003E∴ [math]x = 720 - 600 = 120[/math]\u003Cbr\u003E∴ ৬০ কি.মি. বেগে গাড়িটি [math]120[/math]\u003Cbr\u003E কি.মি. পথ অতিক্রম করেছে",
+        "explanation": "ধারণা: ঘণ্টায় [math]60[/math] কি.মি. বেগে যাওয়া দূরত্বকে [math]x[/math] ধরা হলে মোট সময়ের সমীকরণ হবে [math]\\frac{x}{60}+\\frac{240-x}{40}=5[/math] কারণ মোট দূরত্ব [math]240[/math] কি.মি. এবং সময় = দূরত্ব/গতি। সমাধান: [math]120\\big(\\frac{x}{60}+\\frac{240-x}{40}\\big)=120\\cdot5\\Rightarrow 2x+3(240-x)=600\\Rightarrow -x=-120\\Rightarrow x=120[/math]। তাই ঘণ্টায় [math]60[/math] কি.মি. বেগে গাড়িটি [math]120[/math] কি.মি. গেছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535094,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535114,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{x}{x+3} - \\frac{2}{x-1} = \\frac{4x + 1}{x^2 + 2x - 3}[/math]",
+        "solution": "ডানপাশের হরকে বিশ্লেষণ করি: [math]x^2 + 2x - 3 = (x+3)(x-1)[/math]\u003Cbr\u003Eবামপাশের ল.সা.গু: [math](x+3)(x-1)[/math]\u003Cbr\u003Eবা, [math]\\frac{x(x-1) - 2(x+3)}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 - x - 2x - 6}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 - 3x - 6}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]x^2 - 3x - 6 = 4x + 1[/math]\u003Cbr\u003Eবা, [math]x^2 - 7x - 7 = 0[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{7 \\pm \\sqrt{49 + 28}}{2} = \\frac{7 \\pm \\sqrt{77}}{2}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: ভগ্নাংশ দুটোকে সাধারণ হর প্রকাশ করি যেখানে [math]x^2+2x-3=(x+3)(x-1)[/math], তখন বের হয় যতটা: [math]\\frac{x(x-1)-2(x+3)}{(x+3)(x-1)}=\\frac{x^2-3x-6}{(x+3)(x-1)}[/math]. তাই সমীকরণ থেকে সংখ্যকগুলো সমান হলে [math]x^2-3x-6=4x+1[/math] হয়, যে থেকে [math]x^2-7x-7=0[/math] এবং [math]x=\\frac{7\\pm\\sqrt{77}}{2}[/math]. মনে রাখবেন [math]x\\neq1,\\, -3[/math] কারণ তারা মূল ভগ্নাংশগুলির হর শূন্য করে; প্রদত্ত দুইটি রুট এই মানগুলোর কোনোটিই নয়, তাই উভয়ই গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535114,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533498,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: একটি সংখ্যা অপর একটি সংখ্যার [math]\\frac{2}{5}[/math] গুণ। সংখ্যা দুইটির সমষ্টি [math]98[/math] হলে, সংখ্যা দুইটি নির্ণয় কর।",
+        "solution": "ধরি, একটি সংখ্যা [math]x[/math]\u003Cbr\u003Eঅপর সংখ্যাটি [math]= \\frac{2}{5}x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + \\frac{2}{5}x = 98[/math]\u003Cbr\u003Eবা, [math]\\frac{5x + 2x}{5} = 98[/math]\u003Cbr\u003Eবা, [math]\\frac{7x}{5} = 98[/math]\u003Cbr\u003Eবা, [math]7x = 490[/math]\u003Cbr\u003Eবা, [math]x = \\frac{490}{7} = 70[/math]\u003Cbr\u003E∴ অপর সংখ্যা [math]= \\frac{2}{5} \\times 70 = \\frac{140}{5} = 28[/math]\u003Cbr\u003E∴ নির্ণেয় সংখ্যাদ্বয় [math]28[/math]\u003Cbr\u003E এবং [math]70[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: একটি সংখ্যা ধরা যাক [math]x[/math] এবং অন্যটি [math]y[/math], যেখানে [math]x=\\frac{2}{5}y[/math] এবং [math]x+y=98[/math]. প্রতিস্থাপন করলে [math]\\frac{2}{5}y+y=\\frac{7}{5}y=98[/math] থেকে [math]y=98\\times\\frac{5}{7}=70[/math] এবং [math]x=\\frac{2}{5}\\times70=28[/math]. তাই সংখ্যাগুলো হল 28 এবং 70।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533498,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533538,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{1}{x-1} + \\frac{1}{x+2} = \\frac{1}{x+1} + \\frac{1}{x}[/math]",
+        "solution": "[math]\\frac{1}{x-1} + \\frac{1}{x+2} - \\frac{1}{x+1} - \\frac{1}{x}[/math]\u003Cbr\u003Eবা, সমস্ত ভগ্নাংশকে সাধারণ হরে আনতে LCM নিই: [math](x-1)(x)(x+1)(x+2)[/math]\u003Cbr\u003Eউপরের লবগুলোর সমন্বয় করে পাই, [math]x(x+1)(x+2) + (x-1)(x)(x+1) - (x-1)(x)(x+2) - (x-1)(x+1)(x+2)[/math]\u003Cbr\u003Eসবগুলো গুণফল হিসাব করে সরলীকরণ করলে পাই, [math]4x^3 + 6x^2 - 4x - 6 = 0[/math]\u003Cbr\u003Eএই ঘন সমীকরণকে বিভাজন করে পাই, [math]x = 1[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = 1[/math]\u003Cbr\u003E",
+        "explanation": "দুটি যোগফলকে জোড় করে লেখলে সহজ হয়: [math]\\left(\\frac{1}{x-1}-\\frac{1}{x}\\right)+\\left(\\frac{1}{x+2}-\\frac{1}{x+1}\\right)=0[/math], যা থেকে [math]\\frac{1}{x(x-1)}-\\frac{1}{(x+1)(x+2)}=0[/math]. তাই [math]\\frac{1}{x(x-1)}=\\frac{1}{(x+1)(x+2)}[/math] এবং ক্রস-মাল্টিপ্লাই করলে [math](x+1)(x+2)=x(x-1)\\Rightarrow4x+2=0[/math], ফলত [math]x=-\\tfrac{1}{2}[/math]. চর্তুদিকে বিভাজকের কারণে [math]x\\neq1,-2,-1,0[/math] এবং [math]x=-\\tfrac{1}{2}[/math] বৈধ উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533538,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533531,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math]\\frac{1}{x+1} + \\frac{1}{x+4} = \\frac{1}{x+2} + \\frac{1}{x+3}[/math]",
+        "solution": "[math]\\frac{1}{x+1} + \\frac{1}{x+4} - \\frac{1}{x+2} - \\frac{1}{x+3}[/math]\u003Cbr\u003Eবা, [math]\\frac{x+2 - x+1}{(x+1)(x+2)} + \\frac{x+4 - x+3}{(x+3)(x+4)}[/math]\u003Cbr\u003Eবা, [math]\\frac{1}{(x+1)(x+2)} + \\frac{1}{(x+3)(x+4)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 + 3x + 2 - x^2 + 7x + 12}{(x+1)(x+2)(x+3)(x+4)} = \\frac{1}{1}[/math]\u003Cbr\u003Eবা, [math]x^2 + 7x + 12 = x^2 + 3x + 2[/math]\u003Cbr\u003Eবা, [math]x^2 + 7x - x^2 - 3x = 2 - 12[/math]\u003Cbr\u003Eবা, [math]4x = -10[/math]\u003Cbr\u003Eবা, [math]x = \\frac{-10}{4} = \\frac{-5}{2}[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{-5}{2}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে সব পদ এক পাশে আনলে [math]\\frac{1}{x+1}-\\frac{1}{x+2}+\\frac{1}{x+4}-\\frac{1}{x+3}=0[/math] হয়। এরপর সরলীকরণে [math]\\frac{1}{(x+1)(x+2)}=\\frac{1}{(x+3)(x+4)}[/math] পাওয়া যায়, তাই গুণ করলে [math](x+1)(x+2)=(x+3)(x+4)\\Rightarrow x=-\\frac{5}{2}[/math]। উপরন্তু [math]x\\neq -1,-2,-3,-4[/math] হওয়া প্রয়োজন, তাই [math]x=-\\frac{5}{2}[/math] গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533531,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533526,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math]\\frac{a}{x-a} - \\frac{b}{x-b} = \\frac{a + b}{x - a - b}[/math]",
+        "solution": "[math]\\frac{a}{x-a} - \\frac{b}{x-b} = \\frac{a + b}{x - a - b}[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{1}{x-a} - \\frac{1}{x-a-b} \\right) - b \\left( \\frac{1}{x-b} - \\frac{1}{x-a-b} \\right)[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{(x-a-b)-(x-a)}{(x-a)(x-a-b)} \\right) - b \\left( \\frac{(x-a-b)-(x-b)}{(x-b)(x-a-b)} \\right)[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{-b}{(x-a)(x-a-b)} \\right) - b \\left( \\frac{-a}{(x-b)(x-a-b)} \\right)[/math]\u003Cbr\u003Eবা, [math]\\frac{-ab}{(x-a)(x-a-b)} + \\frac{ab}{(x-b)(x-a-b)}[/math]\u003Cbr\u003Eবা, [math]\\frac{ab[(x-b) - (x-a)]}{(x-a)(x-b)(x-a-b)}[/math]\u003Cbr\u003Eবা, [math]\\frac{ab(a - b)}{(x-a)(x-b)(x-a-b)}[/math]\u003Cbr\u003Eউভয়পক্ষকে সমান করে: [math]LHS = RHS[/math]\u003Cbr\u003E∴ সমতা প্রমাণিত।",
+        "explanation": "সমাধান: উভয় পাশকে [math](x-a)(x-b)(x-a-b)[/math] দ্বারা গুণ করলে একটি দ্বিঘাত সমীকরণ পাওয়া যায়: [math]x^2-(a+b)x+\\dfrac{ab}{2}=0[/math]. এটি সমাধান করলে [math]x=\\dfrac{a+b\\pm\\sqrt{a^2+b^2}}{2}[/math] পাওয়া যায়, যেখানে সূত্র প্রযোজ্য only যখন [math]x\\neq a,b,a+b[/math] (এবং বিশেষ ক্ষেত্রে যদি [math]b=0[/math] হয় সমীকরণটি সকল [math]x\\neq a[/math] জন্য পরিচিতি).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533526,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533521,
+      "value": {
+        "options": {
+          "গ": "সা.গু. ৬ এবং ল.সা.গু. ৭২। একটি সংখ্যা ২৪ হলে অপরটি কত?"
+        },
+        "question": "দুটি সংখ্যার",
+        "solution": "গ.সা.গু. × ল.সা.গু. = সংখ্যা ১ × সংখ্যা ২∴ [math]6 \\times 72 = 24 \\times x[/math]\u003Cbr\u003Eবা, [math]432 = 24x[/math]\u003Cbr\u003E∴ [math]x = \\frac{432}{24} = 18[/math]\u003Cbr\u003E∴ অপর সংখ্যা [math]18[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুই সংখ্যার গ.সা.গু. ও ল.সা.গু. গুণফল দুই সংখ্যার গুণফলের সমান হয়, অর্থাৎ [math]\\gcd(a,b)\\times\\mathrm{lcm}(a,b)=a\\times b[/math]. তাই অপর সংখ্যা [math]b=\\frac{6\\times72}{24}=\\frac{432}{24}=18[/math], ফলে \u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533521,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533515,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{3}{x+1} - \\frac{2}{x-2} = \\frac{5x+1}{x^2 - x - 2}[/math]",
+        "solution": "ডানপাশের হরকে বিশ্লেষণ করি: [math]x^2 - x - 2 = (x+1)(x-2)[/math]\u003Cbr\u003Eবামপাশের ল.সা.গু: [math](x+1)(x-2)[/math]\u003Cbr\u003Eবা, [math]\\frac{3(x-2) - 2(x+1)}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]\\frac{3x - 6 - 2x - 2}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x - 8}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]x - 8 = 5x + 1[/math]\u003Cbr\u003Eবা, [math]-4x = 9[/math]\u003Cbr\u003Eবা, [math]x = \\frac{-9}{4}[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{-9}{4}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: দুই পক্ষের সাধারণ হর (denominator) হলো [math](x+1)(x-2)[/math] কারণ [math]x^2-x-2=(x+1)(x-2)[/math]; বামপাশে যোগ করলে পাওয়া যায় [math]\\frac{3(x-2)-2(x+1)}{(x+1)(x-2)}=\\frac{x-8}{(x+1)(x-2)}[/math]. দুটি ভগ্নাংশের হর একই হওয়ায় নিউমেরেটর সমান করে গুণ করলে [math]x-8=5x+1[/math] থেকে [math]x=-\\frac{9}{4}[/math]. অবশেষে উল্লেখ রাখতে হবে যে [math]x\\neq-1,\\,2[/math], যা এই সমাধানে সমস্যা করছে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533515,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533510,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{x}{x+3} - \\frac{2}{x-1} = \\frac{4x + 1}{x^2 + 2x - 3}[/math]",
+        "solution": "ডানপাশের হরকে বিশ্লেষণ করি: [math]x^2 + 2x - 3 = (x+3)(x-1)[/math]\u003Cbr\u003Eবামপাশের ল.সা.গু: [math](x+3)(x-1)[/math]\u003Cbr\u003Eবা, [math]\\frac{x(x-1) - 2(x+3)}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 - x - 2x - 6}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 - 3x - 6}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]x^2 - 3x - 6 = 4x + 1[/math]\u003Cbr\u003Eবা, [math]x^2 - 7x - 7 = 0[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{7 \\pm \\sqrt{49 + 28}}{2} = \\frac{7 \\pm \\sqrt{77}}{2}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে ডেনোমিনেটরটি ফ্যাক্টর করে দেখি [math]x^2+2x-3=(x+3)(x-1)[/math], এবং বাম পাশের ভগ্নাংশগুলোকে সাধারণ হার এনে যোগ করলে পাওয়া যায় [math]\\frac{x^2-3x-6}{(x+3)(x-1)}[/math]. দুই পাশে একই অভিন্ন হার থাকায় (শর্তে [math]x\\neq -3,1[/math]) নিউমেরেটরগুলো সমান করে নিতে পারি, ফলে [math]x^2-3x-6=4x+1[/math] হয়ে [math]x^2-7x-7=0[/math]. এই সরলীকরণ থেকে [math]x=\\frac{7\\pm\\sqrt{77}}{2}[/math] (এগুলো [math]x\\neq -3,1[/math] হওয়ায় বৈধ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533510,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533504,
+      "value": {
+        "options": [],
+        "question": "একটি গাড়ি ঘণ্টায় ৬০ কি.মি. বেগে কিছু পথ এবং ঘণ্টায় ৪০ কি.মি. বেগে অবশিষ্ট পথ অতিক্রম করলো। গাড়িটি মোট ৫ ঘণ্টায় ২৪০ কি.মি. পথ অতিক্রম করলে, ঘণ্টায় ৬০ কি.মি. বেগে কতদূর গিয়েছে?",
+        "solution": "ধরি, ৬০ কি.মি. বেগে অতিক্রান্ত দূরত্ব [math]= x[/math]\u003Cbr\u003E কি.মি.তাহলে, বাকি পথ [math]= 240 - x[/math]\u003Cbr\u003E কি.মি.সময় = দূরত্ব ÷ গতি∴ [math]\\frac{x}{60} + \\frac{240 - x}{40} = 5[/math]\u003Cbr\u003ELCM = [math]120[/math]\u003Cbr\u003E নিয়ে গুণ করলে:[math]\\frac{2x}{120} + \\frac{3(240 - x)}{120} = 5[/math]\u003Cbr\u003Eবা, [math]\\frac{2x + 720 - 3x}{120} = 5[/math]\u003Cbr\u003Eবা, [math]\\frac{720 - x}{120} = 5[/math]\u003Cbr\u003Eবা, [math]720 - x = 600[/math]\u003Cbr\u003E∴ [math]x = 720 - 600 = 120[/math]\u003Cbr\u003E∴ ৬০ কি.মি. বেগে গাড়িটি [math]120[/math]\u003Cbr\u003E কি.মি. পথ অতিক্রম করেছে",
+        "explanation": "গাড়িটি ঘণ্টায় [math]60[/math] কি.মি. গিয়েছে এমন দূরত্ব ধরা যাক [math]x[/math]। সম সময়ের সমীকরণ হলো: [math]\\frac{x}{60}+\\frac{240-x}{40}=5 \\Rightarrow 2x+3(240-x)=600 \\Rightarrow x=120[/math]। তাই ঘণ্টায় [math]60[/math] কি.মি. বেগে গাড়িটি [math]120[/math] কি.মি. গেছে; এখানে সময় = দূরত্ব/গতি ধারণা ব্যবহার করা হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533504,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533491,
+      "value": {
+        "options": [],
+        "question": "একটি লঞ্চে যাত্রী সংখ্যা ৪৭। মাথাপিছু কেবিনের ভাড়া ডেকের ভাড়ার দ্বিগুণ। ডেকের ভাড়া মাথাপিছু ৩০ টাকা এবং মোট ভাড়া প্রাপ্তি ১৬৮০ টাকা হলে, কেবিনের যাত্রী সংখ্যা কত?",
+        "solution": "ধরি, কেবিনের যাত্রী সংখ্যা [math]x[/math]\u003Cbr\u003Eতাহলে, ডেকের যাত্রী সংখ্যা [math]= 47 - x[/math]\u003Cbr\u003Eকেবিনের মাথাপিছু ভাড়া [math]= 2 \\times 30 = 60[/math]\u003Cbr\u003E টাকামোট ভাড়া = কেবিন ভাড়া + ডেক ভাড়া∴ [math]60x + 30(47 - x) = 1680[/math]\u003Cbr\u003Eবা, [math]60x + 1410 - 30x = 1680[/math]\u003Cbr\u003Eবা, [math]30x = 1680 - 1410 = 270[/math]\u003Cbr\u003E∴ [math]x = \\frac{270}{30} = 9[/math]\u003Cbr\u003E∴ কেবিনের যাত্রী সংখ্যা = [math]9[/math]\u003Cbr\u003E জন",
+        "explanation": "মনে করি কেবিনের যাত্রী সংখ্যা [math]x[/math] হলে ডেকের пассажীরা [math]47-x[/math]। কেবিনের ভাড়া [math]2×30=60[/math] টাকা হওয়ায় [math]60x+30(47-x)=1680[/math] থেকে [math]30x=270[/math] ও [math]x=9[/math]। তাই কেবিনের যাত্রী সংখ্যা 9।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533491,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533483,
+      "value": {
+        "options": [],
+        "question": "একটি ট্রেন ৪৫ কি.মি./ঘণ্টা গতিতে গেলে নির্দিষ্ট সময়ে গন্তব্যে পৌঁছায়। যদি গতি ৫০ কি.মি./ঘণ্টা করা হয়, তবে ১২ মিনিট আগে পৌঁছে যায়। দূরত্ব কত?",
+        "solution": "ধরি, দূরত্ব = [math]x[/math]\u003Cbr\u003E কি.মি.সময় = [math]\\frac{x}{45}[/math]\u003Cbr\u003E এবং [math]\\frac{x}{50}[/math]\u003Cbr\u003E ঘণ্টাপ্রশ্নমতে, [math]\\frac{x}{45} - \\frac{x}{50} = \\frac{12}{60} = \\frac{1}{5}[/math]\u003Cbr\u003ELCM = 450, ∴ [math]10x - 9x = \\frac{450}{5}[/math]\u003Cbr\u003Eবা, [math]x = 90[/math]\u003Cbr\u003E∴ দূরত্ব [math]90[/math]\u003Cbr\u003E কি.মি.",
+        "explanation": "ব্যাখ্যা: দূরত্ব, গতি ও সময়ের সম্পর্ক [math]d=v\\times t[/math] বা [math]t=\\frac{d}{v}[/math]; অতঃপর সময়ের পার্থক্য ১২ মিনিট = [math]\\tfrac{1}{5}[/math] ঘন্টা। তাই [math]\\frac{d}{45}-\\frac{d}{50}=\\frac{1}{5}\u003C/math\u003E, যা সরল করলে [math]d\\left(\\frac{1}{45}-\\frac{1}{50}\\right)=\\frac{1}{5}\\Rightarrow d\\cdot\\frac{1}{450}=\\frac{1}{5}\\Rightarrow d=90\\text{ km}。\u003C/math\u003E",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533483,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533480,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার দ্বিগুণ অপর সংখ্যার তিনগুণের থেকে ৮ কম। সংখ্যা দুটি যোগফল ৪৬ হলে সংখ্যা দুটি নির্ণয় কর।",
+        "solution": "ধরি, প্রথম সংখ্যা [math]x[/math]\u003Cbr\u003E, দ্বিতীয় সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2x = 3y - 8[/math]\u003Cbr\u003E এবং [math]x + y = 46[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণ থেকে [math]x = 46 - y[/math]\u003Cbr\u003Eপ্রথম সমীকরণে বসিয়ে, [math]2(46 - y) = 3y - 8[/math]\u003Cbr\u003Eবা, [math]92 - 2y = 3y - 8[/math]\u003Cbr\u003Eবা, [math]92 + 8 = 3y + 2y = 5y[/math]\u003Cbr\u003E∴ [math]y = \\frac{100}{5} = 20[/math]\u003Cbr\u003Eতাহলে, [math]x = 46 - 20 = 26[/math]\u003Cbr\u003E∴ সংখ্যা দুটি [math]26[/math]\u003Cbr\u003E ও [math]20[/math]\u003Cbr\u003E",
+        "explanation": "সংখ্যাগুলোকে [math]x[/math] ও [math]y[/math] ধরা হলে শর্ত অনুযায়ী [math]2x=3y-8[/math] এবং [math]x+y=46[/math] হবে। প্রথম সমীকরণ থেকে [math]x=(3y-8)/2[/math] রেখে যোগফলে বসালে [math](3y-8)/2+y=46\\Rightarrow5y=100\\Rightarrow y=20[/math] এবং তাই [math]x=46-20=26[/math]; অতএব সংখ্যা দুটি হলো 26 ও 20।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533480,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533478,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার তিনগুণ ও অপর একটি সংখ্যার দ্বিগুণের পার্থক্য ৪। সংখ্যা দুটি যোগ করলে ২২ হয়। সংখ্যা দুটি কত?",
+        "solution": "ধরি, প্রথম সংখ্যা [math]x[/math]\u003Cbr\u003E, দ্বিতীয় সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]3x - 2y = 4[/math]\u003Cbr\u003E এবং [math]x + y = 22[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণ থেকে [math]y = 22 - x[/math]\u003Cbr\u003Eপ্রথম সমীকরণে বসিয়ে, [math]3x - 2(22 - x) = 4[/math]\u003Cbr\u003Eবা, [math]3x - 44 + 2x = 4[/math]\u003Cbr\u003Eবা, [math]5x = 48[/math]\u003Cbr\u003E∴ [math]x = \\frac{48}{5} = 9.6[/math]\u003Cbr\u003Eকিন্তু ভগ্নাংশ আসায়, সম্ভবত প্রশ্নটি সম্পূর্ণ সংখ্যা ভিত্তিক নয় বা ভিন্নভাবে দেয়া উচিত ছিল।",
+        "explanation": "ব্যাখ্যা: ধরুন সংখ্যাগুলো [math]x[/math] ও [math]y[/math]; [math]x+y=22[/math]। পার্থক্য অনুযায়ী বড় সংখ্যার দ্বিগুণ থেকে ছোট সংখ্যার তিনগুণ কাটা হলে নেওয়া যায় [math]2y-3x=4[/math]; এই দুটি সমীকরণ সমাধান করলে [math]x=8,\\,y=14[/math] পাওয়া যায় (যদি উল্টো চিহ্ন নেওয়া হয় [math]3x-2y=4[/math] ফল ভগ্নাংশীয় হয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533478,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533473,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: একটি প্রকৃত ভগ্নাংশের লব ও হরের অন্তর [math]1[/math]; লব থেকে [math]2[/math] বিয়োগ ও হরের সাথে [math]2[/math] যোগ করলে যে ভগ্নাংশ পাওয়া যাবে তা [math]\\frac{1}{6}[/math] এর সমান। ভগ্নাংশটি নির্ণয় কর।",
+        "solution": "ধরি, ভগ্নাংশটি [math]\\frac{x}{y}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x = y - 1[/math]\u003Cbr\u003Eআবার, [math]\\frac{x - 2}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003E [math]x[/math]\u003Cbr\u003E এর স্থলে [math]y - 1[/math]\u003Cbr\u003E বসালে পাই, [math]\\frac{(y - 1) - 2}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003Eবা, [math]\\frac{y - 3}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003Eক্রস-মাল্টিপ্লাই করে, [math]6(y - 3) = y + 2[/math]\u003Cbr\u003Eবা, [math]6y - 18 = y + 2[/math]\u003Cbr\u003Eবা, [math]6y - y = 2 + 18[/math]\u003Cbr\u003Eবা, [math]5y = 20[/math]\u003Cbr\u003Eবা, [math]y = 4[/math]\u003Cbr\u003Eতাহলে, [math]x = y - 1 = 3[/math]\u003Cbr\u003E∴ ভগ্নাংশটি [math]= \\frac{3}{4}[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক লব [math]x[/math] এবং হর [math]x+1[/math], তাহলে শর্ত অনুযায়ী [math]\\frac{x-2}{x+3}=\\frac{1}{6}[/math]. সমাধানে [math]6(x-2)=x+3\\Rightarrow x=3[/math], সুতরাং ভগ্নাংশটি [math]\\frac{3}{4}[/math] (যাচাই: [math]\\frac{3-2}{4+2}=\\frac{1}{6}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533473,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533470,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার থেকে ৮ বিয়োগ করলে প্রাপ্ত ফলাফলের দ্বিগুণ ৪৮। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2(x - 8) = 48[/math]\u003Cbr\u003Eবা, [math]x - 8 = 24[/math]\u003Cbr\u003E∴ [math]x = 24 + 8 = 32[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]32[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক সংখ্যাটি [math]x[/math]. সংখ্যার থেকে ৮ বিয়োগ করলে ফল [math]x-8[/math], তার দ্বিগুণ হলে [math]2(x-8)=48[/math]। এখানে থেকে [math]x-8=24[/math] হয় এবং তাই [math]x=32[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533470,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533467,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math](z + 1)(z - 2) = (z - 4)(z + 2)[/math]",
+        "solution": "সমাধান:[math](z + 1)(z - 2) = (z - 4)(z + 2)[/math]\u003Cbr\u003Eবা, [math]z^2 - 2z + z - 2 = z^2 + 2z - 4z - 8[/math]\u003Cbr\u003Eবা, [math]z^2 - z - 2 = z^2 - 2z - 8[/math]\u003Cbr\u003Eবা, [math]z^2 - z - z^2 + 2z = -8 + 2[/math]\u003Cbr\u003Eবা, [math]z = -6[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]z = -6[/math]\u003Cbr\u003E",
+        "explanation": "উভয় পক্ষ বিস্তৃত করলে [math](z+1)(z-2)=z^2-z-2[/math] এবং [math](z-4)(z+2)=z^2-2z-8[/math] হয়; এখান থেকে [math]z^2[/math] দুটো পাশে কেটে গেলে বাকি থাকে [math]-z-2=-2z-8[/math]. সমাধান করলে [math]z=-6[/math] পাওয়া যায়, যা মূল সমীকরণে প্রতিস্থাপন করলে দুই পাশই সমান হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533467,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533464,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n(z+1)(z−2)=(z−4)(z+2)",
+        "solution": "সমাধান: (z+1)(z−2)=(z−4)(z+2)\n\nবা, z2−2z+z−2=z2+2z−4z−8\n\nবা, z2−z−2=z2−2z−8\n\nবা, z2−z−z2+2z=−8+2\n\nবা, z=−6\n\n∴ নির্ণ",
+        "explanation": "সমাধান: উভয় দিকে বিস্তৃত করলে [math]z^2 - z - 2 = z^2 - 2z - 8[/math] হয়, এখানে [math]z^2[/math] কেটে গেলে [math]-z - 2 = -2z - 8[/math] পাওয়া যায়। দুটি পক্ষ সহজ করলে [math]z = -6[/math] পাওয়া যায়, তাই সমাধান [math]z=-6[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533464,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531685,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math](z + 1)(z - 2) = (z - 4)(z + 2)[/math]",
+        "solution": "সমাধান:[math](z + 1)(z - 2) = (z - 4)(z + 2)[/math]\u003Cbr\u003Eবা, [math]z^2 - 2z + z - 2 = z^2 + 2z - 4z - 8[/math]\u003Cbr\u003Eবা, [math]z^2 - z - 2 = z^2 - 2z - 8[/math]\u003Cbr\u003Eবা, [math]z^2 - z - z^2 + 2z = -8 + 2[/math]\u003Cbr\u003Eবা, [math]z = -6[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]z = -6[/math]\u003Cbr\u003E",
+        "explanation": "উভয় দিক বিস্তৃত করলে [math](z+1)(z-2)=z^2 - z - 2[/math] এবং [math](z-4)(z+2)=z^2 - 2z - 8[/math] পাওয়া যায়। দুই পক্ষ সমান করে সরলীকরণ করলে [math]z^2 - z - 2 = z^2 - 2z - 8 \\Rightarrow z + 6 = 0[/math], তাই [math]z = -6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531685,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531683,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n(z+1)(z−2)=(z−4)(z+2)",
+        "solution": "সমাধান: (z+1)(z−2)=(z−4)(z+2)\n\nবা, z2−2z+z−2=z2+2z−4z−8\n\nবা, z2−z−2=z2−2z−8\n\nবা, z2−z−z2+2z=−8+2\n\nবা, z=−6\n\n∴ নির্ণ",
+        "explanation": "দুটি পাশে গুণফল বৃদ্ধি করে লিখি: [math](z+1)(z-2)=z^2-z-2[/math] এবং [math](z-4)(z+2)=z^2-2z-8[/math]. উভয়পাশ থেকে [math]z^2[/math] বাদ দিলে [math]-z-2=-2z-8[/math] হয় এবং সমাধান করলে [math]z=-6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531683,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531686,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার থেকে ৮ বিয়োগ করলে প্রাপ্ত ফলাফলের দ্বিগুণ ৪৮। সংখ্যাটি কত?",
+        "solution": "ধরি, সংখ্যা [math]x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2(x - 8) = 48[/math]\u003Cbr\u003Eবা, [math]x - 8 = 24[/math]\u003Cbr\u003E∴ [math]x = 24 + 8 = 32[/math]\u003Cbr\u003E∴ সংখ্যাটি [math]32[/math]\u003Cbr\u003E",
+        "explanation": "ধরা যাক সংখ্যাটি [math]x[/math]. সংখ্যার থেকে ৮ বিয়োগ করলে প্রাপ্ত ফলাফলের দ্বিগুণ ৪৮ হওয়ায় [math]2(x-8)=48[/math]. সমাধান করলে [math]x-8=24[/math] থেকে [math]x=32[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531686,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531688,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: একটি প্রকৃত ভগ্নাংশের লব ও হরের অন্তর [math]1[/math]; লব থেকে [math]2[/math] বিয়োগ ও হরের সাথে [math]2[/math] যোগ করলে যে ভগ্নাংশ পাওয়া যাবে তা [math]\\frac{1}{6}[/math] এর সমান। ভগ্নাংশটি নির্ণয় কর।",
+        "solution": "ধরি, ভগ্নাংশটি [math]\\frac{x}{y}[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x = y - 1[/math]\u003Cbr\u003Eআবার, [math]\\frac{x - 2}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003E [math]x[/math]\u003Cbr\u003E এর স্থলে [math]y - 1[/math]\u003Cbr\u003E বসালে পাই, [math]\\frac{(y - 1) - 2}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003Eবা, [math]\\frac{y - 3}{y + 2} = \\frac{1}{6}[/math]\u003Cbr\u003Eক্রস-মাল্টিপ্লাই করে, [math]6(y - 3) = y + 2[/math]\u003Cbr\u003Eবা, [math]6y - 18 = y + 2[/math]\u003Cbr\u003Eবা, [math]6y - y = 2 + 18[/math]\u003Cbr\u003Eবা, [math]5y = 20[/math]\u003Cbr\u003Eবা, [math]y = 4[/math]\u003Cbr\u003Eতাহলে, [math]x = y - 1 = 3[/math]\u003Cbr\u003E∴ ভগ্নাংশটি [math]= \\frac{3}{4}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: লবকে [math]x[/math] ধরে হর হবে [math]x+1[/math]. লব থেকে [math]2[/math] বিয়োগ ও হরের সাথে [math]2[/math] যোগ করলে পাওয়া ভগ্নাংশ [math]\\frac{x-2}{x+3}=\\frac{1}{6}[/math] হয়; সমীকরণ থেকে [math]6(x-2)=x+3\\Rightarrow 5x=15\\Rightarrow x=3[/math]. অতএব ভগ্নাংশটি [math]\\frac{3}{4}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531688,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531691,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার তিনগুণ ও অপর একটি সংখ্যার দ্বিগুণের পার্থক্য ৪। সংখ্যা দুটি যোগ করলে ২২ হয়। সংখ্যা দুটি কত?",
+        "solution": "ধরি, প্রথম সংখ্যা [math]x[/math]\u003Cbr\u003E, দ্বিতীয় সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]3x - 2y = 4[/math]\u003Cbr\u003E এবং [math]x + y = 22[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণ থেকে [math]y = 22 - x[/math]\u003Cbr\u003Eপ্রথম সমীকরণে বসিয়ে, [math]3x - 2(22 - x) = 4[/math]\u003Cbr\u003Eবা, [math]3x - 44 + 2x = 4[/math]\u003Cbr\u003Eবা, [math]5x = 48[/math]\u003Cbr\u003E∴ [math]x = \\frac{48}{5} = 9.6[/math]\u003Cbr\u003Eকিন্তু ভগ্নাংশ আসায়, সম্ভবত প্রশ্নটি সম্পূর্ণ সংখ্যা ভিত্তিক নয় বা ভিন্নভাবে দেয়া উচিত ছিল।",
+        "explanation": "সংখ্যাগুলোকে [math]x[/math] ও [math]y[/math] ধরে শর্তগুলো থেকে পাই [math]3x-2y=4[/math] এবং [math]x+y=22[/math]. দ্বিতীয় সমীকরণ থেকে [math]y=22-x[/math] রেখে প্রথমে বসালে [math]3x-2(22-x)=4\\Rightarrow5x=48\\Rightarrow x=\\tfrac{48}{5}[/math], তাই [math]y=22-\\tfrac{48}{5}=\\tfrac{62}{5}[/math]. এই ফলে সংখ্যাগুলো হল [math]\\tfrac{48}{5}\\ (=9.6)[/math] এবং [math]\\tfrac{62}{5}\\ (=12.4)[/math], যা শর্ত পূরণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531691,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531693,
+      "value": {
+        "options": [],
+        "question": "একটি সংখ্যার দ্বিগুণ অপর সংখ্যার তিনগুণের থেকে ৮ কম। সংখ্যা দুটি যোগফল ৪৬ হলে সংখ্যা দুটি নির্ণয় কর।",
+        "solution": "ধরি, প্রথম সংখ্যা [math]x[/math]\u003Cbr\u003E, দ্বিতীয় সংখ্যা [math]y[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]2x = 3y - 8[/math]\u003Cbr\u003E এবং [math]x + y = 46[/math]\u003Cbr\u003Eদ্বিতীয় সমীকরণ থেকে [math]x = 46 - y[/math]\u003Cbr\u003Eপ্রথম সমীকরণে বসিয়ে, [math]2(46 - y) = 3y - 8[/math]\u003Cbr\u003Eবা, [math]92 - 2y = 3y - 8[/math]\u003Cbr\u003Eবা, [math]92 + 8 = 3y + 2y = 5y[/math]\u003Cbr\u003E∴ [math]y = \\frac{100}{5} = 20[/math]\u003Cbr\u003Eতাহলে, [math]x = 46 - 20 = 26[/math]\u003Cbr\u003E∴ সংখ্যা দুটি [math]26[/math]\u003Cbr\u003E ও [math]20[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: ধরা যাক সংখ্যাগুলো [math]x[/math] এবং [math]y[/math]। শর্ত অনুযায়ী [math]2x=3y-8[/math] এবং [math]x+y=46[/math]; প্রথমটি থেকে [math]x=(3y-8)/2[/math] পেয়ে তা দ্বিতীয়ে বসালে [math](3y-8)/2+y=46[/math], যা থেকে [math]5y=100[/math] এবং [math]y=20,\\,x=26[/math]। তাই সংখ্যাগুলো হলো 26 এবং 20।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531693,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531695,
+      "value": {
+        "options": [],
+        "question": "একটি ট্রেন ৪৫ কি.মি./ঘণ্টা গতিতে গেলে নির্দিষ্ট সময়ে গন্তব্যে পৌঁছায়। যদি গতি ৫০ কি.মি./ঘণ্টা করা হয়, তবে ১২ মিনিট আগে পৌঁছে যায়। দূরত্ব কত?",
+        "solution": "ধরি, দূরত্ব = [math]x[/math]\u003Cbr\u003E কি.মি.সময় = [math]\\frac{x}{45}[/math]\u003Cbr\u003E এবং [math]\\frac{x}{50}[/math]\u003Cbr\u003E ঘণ্টাপ্রশ্নমতে, [math]\\frac{x}{45} - \\frac{x}{50} = \\frac{12}{60} = \\frac{1}{5}[/math]\u003Cbr\u003ELCM = 450, ∴ [math]10x - 9x = \\frac{450}{5}[/math]\u003Cbr\u003Eবা, [math]x = 90[/math]\u003Cbr\u003E∴ দূরত্ব [math]90[/math]\u003Cbr\u003E কি.মি.",
+        "explanation": "ধরা যাক দূরত্ব [math]d[/math]; সময়গুলো হবে [math]d/45[/math] এবং [math]d/50[/math] ঘন্টা, এবং তাদের পার্থক্য 12 মিনিট = [math]1/5[/math] ঘন্টা। তাই [math]d/45 - d/50 = 1/5 \\Rightarrow d(1/45-1/50)=1/5 \\Rightarrow d/450=1/5 \\Rightarrow d=90\\ \\text{কিমি}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531695,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531696,
+      "value": {
+        "options": [],
+        "question": "একটি লঞ্চে যাত্রী সংখ্যা ৪৭। মাথাপিছু কেবিনের ভাড়া ডেকের ভাড়ার দ্বিগুণ। ডেকের ভাড়া মাথাপিছু ৩০ টাকা এবং মোট ভাড়া প্রাপ্তি ১৬৮০ টাকা হলে, কেবিনের যাত্রী সংখ্যা কত?",
+        "solution": "ধরি, কেবিনের যাত্রী সংখ্যা [math]x[/math]\u003Cbr\u003Eতাহলে, ডেকের যাত্রী সংখ্যা [math]= 47 - x[/math]\u003Cbr\u003Eকেবিনের মাথাপিছু ভাড়া [math]= 2 \\times 30 = 60[/math]\u003Cbr\u003E টাকামোট ভাড়া = কেবিন ভাড়া + ডেক ভাড়া∴ [math]60x + 30(47 - x) = 1680[/math]\u003Cbr\u003Eবা, [math]60x + 1410 - 30x = 1680[/math]\u003Cbr\u003Eবা, [math]30x = 1680 - 1410 = 270[/math]\u003Cbr\u003E∴ [math]x = \\frac{270}{30} = 9[/math]\u003Cbr\u003E∴ কেবিনের যাত্রী সংখ্যা = [math]9[/math]\u003Cbr\u003E জন",
+        "explanation": "কেবিনের ভাড়া মাথাপিছু ডেকের ভাড়ার দ্বিগুণ হওয়ায় কেবিনের ভাড়া [math]2\\times30=60[/math] টাকা। মোট যাত্রী [math]47[/math] ধরে কেবিনের যাত্রী সংখ্যা [math]x[/math] হলে রাজস্ব সমীকরণ হচ্ছে [math]60x+30(47-x)=1680[/math], যা সরল করলে [math]30x=270[/math] তাই [math]x=9[/math]; অতএব কেবিনের যাত্রী সংখ্যা ৯।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531696,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531698,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: একটি সংখ্যা অপর একটি সংখ্যার [math]\\frac{2}{5}[/math] গুণ। সংখ্যা দুইটির সমষ্টি [math]98[/math] হলে, সংখ্যা দুইটি নির্ণয় কর।",
+        "solution": "ধরি, একটি সংখ্যা [math]x[/math]\u003Cbr\u003Eঅপর সংখ্যাটি [math]= \\frac{2}{5}x[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]x + \\frac{2}{5}x = 98[/math]\u003Cbr\u003Eবা, [math]\\frac{5x + 2x}{5} = 98[/math]\u003Cbr\u003Eবা, [math]\\frac{7x}{5} = 98[/math]\u003Cbr\u003Eবা, [math]7x = 490[/math]\u003Cbr\u003Eবা, [math]x = \\frac{490}{7} = 70[/math]\u003Cbr\u003E∴ অপর সংখ্যা [math]= \\frac{2}{5} \\times 70 = \\frac{140}{5} = 28[/math]\u003Cbr\u003E∴ নির্ণেয় সংখ্যাদ্বয় [math]28[/math]\u003Cbr\u003E এবং [math]70[/math]\u003Cbr\u003E",
+        "explanation": "একটি সংখ্যা ধরা যাক [math]x[/math] আর অপরটি [math]y[/math], যেখানে [math]x=\\frac{2}{5}y[/math] এবং [math]x+y=98[/math]. তাই [math]\\frac{2}{5}y+y=\\frac{7}{5}y=98\\Rightarrow y=70[/math] এবং [math]x=\\frac{2}{5}\\times70=28[/math]; অতএব সংখ্যাগুলো 28 ও 70।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531698,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531700,
+      "value": {
+        "options": [],
+        "question": "একটি গাড়ি ঘণ্টায় ৬০ কি.মি. বেগে কিছু পথ এবং ঘণ্টায় ৪০ কি.মি. বেগে অবশিষ্ট পথ অতিক্রম করলো। গাড়িটি মোট ৫ ঘণ্টায় ২৪০ কি.মি. পথ অতিক্রম করলে, ঘণ্টায় ৬০ কি.মি. বেগে কতদূর গিয়েছে?",
+        "solution": "ধরি, ৬০ কি.মি. বেগে অতিক্রান্ত দূরত্ব [math]= x[/math]\u003Cbr\u003E কি.মি.তাহলে, বাকি পথ [math]= 240 - x[/math]\u003Cbr\u003E কি.মি.সময় = দূরত্ব ÷ গতি∴ [math]\\frac{x}{60} + \\frac{240 - x}{40} = 5[/math]\u003Cbr\u003ELCM = [math]120[/math]\u003Cbr\u003E নিয়ে গুণ করলে:[math]\\frac{2x}{120} + \\frac{3(240 - x)}{120} = 5[/math]\u003Cbr\u003Eবা, [math]\\frac{2x + 720 - 3x}{120} = 5[/math]\u003Cbr\u003Eবা, [math]\\frac{720 - x}{120} = 5[/math]\u003Cbr\u003Eবা, [math]720 - x = 600[/math]\u003Cbr\u003E∴ [math]x = 720 - 600 = 120[/math]\u003Cbr\u003E∴ ৬০ কি.মি. বেগে গাড়িটি [math]120[/math]\u003Cbr\u003E কি.মি. পথ অতিক্রম করেছে",
+        "explanation": "ব্যাখ্যা: সময় = দূরত্ব/বেগ সূত্র ব্যবহার করে ধরে নিন ঘণ্টায় [math]60\\ \\text{কি.মি.}[/math] বেগে গাড়িটি [math]x[/math] কিমি গেছে, তখন মোট সময় হবে [math]\\dfrac{x}{60}+\\dfrac{240-x}{40}=5[/math]. সমাধানে [math]2x+3(240-x)=600\\Rightarrow x=120[/math], তাই ঘণ্টায় [math]60\\ \\text{কি.মি.}[/math] বেগে গাড়িটি [math]120\\ \\text{কি.মি.}[/math] গেছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531700,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531703,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{x}{x+3} - \\frac{2}{x-1} = \\frac{4x + 1}{x^2 + 2x - 3}[/math]",
+        "solution": "ডানপাশের হরকে বিশ্লেষণ করি: [math]x^2 + 2x - 3 = (x+3)(x-1)[/math]\u003Cbr\u003Eবামপাশের ল.সা.গু: [math](x+3)(x-1)[/math]\u003Cbr\u003Eবা, [math]\\frac{x(x-1) - 2(x+3)}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 - x - 2x - 6}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 - 3x - 6}{(x+3)(x-1)} = \\frac{4x + 1}{(x+3)(x-1)}[/math]\u003Cbr\u003Eবা, [math]x^2 - 3x - 6 = 4x + 1[/math]\u003Cbr\u003Eবা, [math]x^2 - 7x - 7 = 0[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{7 \\pm \\sqrt{49 + 28}}{2} = \\frac{7 \\pm \\sqrt{77}}{2}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: ডেনোমিনেটরগুলোকে একত্র করে সাধারণ হর হবে [math](x+3)(x-1)[/math], তাই দুই পাশে এটায় গুণ করলে পাওয়া যায় [math]x(x-1)-2(x+3)=4x+1[/math]. সরলীকরণ করলে [math]x^2-3x-6=4x+1[/math] থেকে [math]x^2-7x-7=0[/math] এবং ফলে [math]x=\\frac{7\\pm\\sqrt{77}}{2}[/math]. ডোমেইন শর্ত [math]x\\neq-3,\\,1[/math]; উভয় সমাধান এসব নয়, তাই গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531703,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531704,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{3}{x+1} - \\frac{2}{x-2} = \\frac{5x+1}{x^2 - x - 2}[/math]",
+        "solution": "ডানপাশের হরকে বিশ্লেষণ করি: [math]x^2 - x - 2 = (x+1)(x-2)[/math]\u003Cbr\u003Eবামপাশের ল.সা.গু: [math](x+1)(x-2)[/math]\u003Cbr\u003Eবা, [math]\\frac{3(x-2) - 2(x+1)}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]\\frac{3x - 6 - 2x - 2}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x - 8}{(x+1)(x-2)} = \\frac{5x+1}{(x+1)(x-2)}[/math]\u003Cbr\u003Eবা, [math]x - 8 = 5x + 1[/math]\u003Cbr\u003Eবা, [math]-4x = 9[/math]\u003Cbr\u003Eবা, [math]x = \\frac{-9}{4}[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{-9}{4}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: নামহারকে যুক্ত করলে যেহেতু [math]x^2-x-2=(x+1)(x-2)[math], বাম পাশে সাধারণ নামহার নিয়ে পাই সংখ্যাগুণক [math]3(x-2)-2(x+1)=x-8[/math]. তাই সমীকরণ থেকে [math]x-8=5x+1[/math] হয়ে [math]x=-\\tfrac{9}{4}[/math] আসে। আপসোস মানগুলো [math]x\\neq -1,\\,2[/math] হওয়া প্রয়োজন, সুতরাং উত্তর বৈধ: [math]x=-\\tfrac{9}{4}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531704,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531705,
+      "value": {
+        "options": {
+          "গ": "সা.গু. ৬ এবং ল.সা.গু. ৭২। একটি সংখ্যা ২৪ হলে অপরটি কত?"
+        },
+        "question": "দুটি সংখ্যার",
+        "solution": "গ.সা.গু. × ল.সা.গু. = সংখ্যা ১ × সংখ্যা ২∴ [math]6 \\times 72 = 24 \\times x[/math]\u003Cbr\u003Eবা, [math]432 = 24x[/math]\u003Cbr\u003E∴ [math]x = \\frac{432}{24} = 18[/math]\u003Cbr\u003E∴ অপর সংখ্যা [math]18[/math]\u003Cbr\u003E",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E সঠিক, কারণ কোনো দুই সংখ্যার গুণফল তাদের গ.সা.গু. ও ল.সা.গু. এর গুণফলের সমান। তাই [math]a\\times b=6\\times72=432[/math] এবং অপরটি [math]432\\div24=18[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531705,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531707,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math]\\frac{a}{x-a} - \\frac{b}{x-b} = \\frac{a + b}{x - a - b}[/math]",
+        "solution": "[math]\\frac{a}{x-a} - \\frac{b}{x-b} = \\frac{a + b}{x - a - b}[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{1}{x-a} - \\frac{1}{x-a-b} \\right) - b \\left( \\frac{1}{x-b} - \\frac{1}{x-a-b} \\right)[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{(x-a-b)-(x-a)}{(x-a)(x-a-b)} \\right) - b \\left( \\frac{(x-a-b)-(x-b)}{(x-b)(x-a-b)} \\right)[/math]\u003Cbr\u003Eবা, [math]a \\left( \\frac{-b}{(x-a)(x-a-b)} \\right) - b \\left( \\frac{-a}{(x-b)(x-a-b)} \\right)[/math]\u003Cbr\u003Eবা, [math]\\frac{-ab}{(x-a)(x-a-b)} + \\frac{ab}{(x-b)(x-a-b)}[/math]\u003Cbr\u003Eবা, [math]\\frac{ab[(x-b) - (x-a)]}{(x-a)(x-b)(x-a-b)}[/math]\u003Cbr\u003Eবা, [math]\\frac{ab(a - b)}{(x-a)(x-b)(x-a-b)}[/math]\u003Cbr\u003Eউভয়পক্ষকে সমান করে: [math]LHS = RHS[/math]\u003Cbr\u003E∴ সমতা প্রমাণিত।",
+        "explanation": "উভয় ভগ্নাংশকে সাধারণ নামকে আনলে এবং সরলীকরণ করলে পাওয়া যায় [math]\\frac{(a-b)x}{(x-a)(x-b)}=\\frac{a+b}{x-a-b}[/math], যেখানে [math]x\\neq a,b,a+b[/math]. ক্রস‑গুণ করে ও সরলীকরণ করলে পাওয়া যায় [math]2b x^2-2b(a+b)x+ab(a+b)=0[/math], এবং [math]b\\neq0[/math] হলে এটি হ্রাস করে [math]2x^2-2(a+b)x+a(a+b)=0[/math]. কোয়াড্রাটিক সূত্র প্রয়োগে সমাধান হচ্ছে [math]x=\\frac{(a+b)\\pm\\sqrt{(a+b)(b-a)}}{2}[/math] (শর্ত: [math]x\\neq a,b,a+b[/math]); বিশেষভাবে [math]a=b\\neq0[/math] হলে কোনো বাস্তব সমাধান নেই, আর [math]a=b=0[/math] হলে সব [math]x\\neq0[/math] চলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531707,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531709,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর:\n\n[math]\\frac{1}{x+1} + \\frac{1}{x+4} = \\frac{1}{x+2} + \\frac{1}{x+3}[/math]",
+        "solution": "[math]\\frac{1}{x+1} + \\frac{1}{x+4} - \\frac{1}{x+2} - \\frac{1}{x+3}[/math]\u003Cbr\u003Eবা, [math]\\frac{x+2 - x+1}{(x+1)(x+2)} + \\frac{x+4 - x+3}{(x+3)(x+4)}[/math]\u003Cbr\u003Eবা, [math]\\frac{1}{(x+1)(x+2)} + \\frac{1}{(x+3)(x+4)}[/math]\u003Cbr\u003Eবা, [math]\\frac{x^2 + 3x + 2 - x^2 + 7x + 12}{(x+1)(x+2)(x+3)(x+4)} = \\frac{1}{1}[/math]\u003Cbr\u003Eবা, [math]x^2 + 7x + 12 = x^2 + 3x + 2[/math]\u003Cbr\u003Eবা, [math]x^2 + 7x - x^2 - 3x = 2 - 12[/math]\u003Cbr\u003Eবা, [math]4x = -10[/math]\u003Cbr\u003Eবা, [math]x = \\frac{-10}{4} = \\frac{-5}{2}[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = \\frac{-5}{2}[/math]\u003Cbr\u003E",
+        "explanation": "দুই পাশে সাধারণ করেলে পাওয়া যায় [math]\\frac{1}{(x+1)(x+2)}=\\frac{1}{(x+3)(x+4)}[/math], তাই ক্রস-গুণ করলে [math](x+1)(x+2)=(x+3)(x+4)[/math]. বর্গোন্নতি করলে [math]3x+2=7x+12[/math] থেকে [math]x=-\\tfrac{5}{2}[/math] পাওয়া যায়; এবং ক্ষেত্রে [math]x\\neq -1,-2,-3,-4[/math], তাই [math]x=-\\tfrac{5}{2}[/math] গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531709,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531711,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math]\\frac{1}{x-1} + \\frac{1}{x+2} = \\frac{1}{x+1} + \\frac{1}{x}[/math]",
+        "solution": "[math]\\frac{1}{x-1} + \\frac{1}{x+2} - \\frac{1}{x+1} - \\frac{1}{x}[/math]\u003Cbr\u003Eবা, সমস্ত ভগ্নাংশকে সাধারণ হরে আনতে LCM নিই: [math](x-1)(x)(x+1)(x+2)[/math]\u003Cbr\u003Eউপরের লবগুলোর সমন্বয় করে পাই, [math]x(x+1)(x+2) + (x-1)(x)(x+1) - (x-1)(x)(x+2) - (x-1)(x+1)(x+2)[/math]\u003Cbr\u003Eসবগুলো গুণফল হিসাব করে সরলীকরণ করলে পাই, [math]4x^3 + 6x^2 - 4x - 6 = 0[/math]\u003Cbr\u003Eএই ঘন সমীকরণকে বিভাজন করে পাই, [math]x = 1[/math]\u003Cbr\u003E∴ নির্ণেয় সমাধান, [math]x = 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুটি ভগ্নাংশ জোড়া করে আলাদা করলে [math]\\frac{1}{x-1}-\\frac{1}{x}=\\frac{1}{x(x-1)}[/math] এবং [math]\\frac{1}{x+2}-\\frac{1}{x+1}=-\\frac{1}{(x+2)(x+1)}[/math], তাই সমীকরণটি হয়ে যায় [math]\\frac{1}{x(x-1)}=\\frac{1}{(x+2)(x+1)}[/math]. ক্রস-মাল্টিপ্লাই করে [math](x+2)(x+1)=x(x-1)\\Rightarrow  x=-\\tfrac{1}{2}[/math]. পাশাপাশি ডোমেইন থেকে বাদ দিতে হবে [math]x\\ne1,-2,-1,0[/math], তাই সমাধান [math]x=-\\tfrac{1}{2}[/math] গ্রহণযোগ্য।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12933,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531711,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12933&grade=5&lesson=12934&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12933&grade=5&lesson=12934&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12933&grade=5&lesson=12934&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 48,
+  "total": 48
+}

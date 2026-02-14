@@ -1,0 +1,1884 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695600,
+      "value": {
+        "options": {
+          "ক": "কোন",
+          "খ": "ঐ",
+          "গ": "খোদ",
+          "ঘ": "অপর"
+        },
+        "question": "নিচের কোনটি অন্যাদিবাচক সর্বনাম?",
+        "solution": "অপর",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695600,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695600,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695599,
+      "value": {
+        "options": {
+          "ক": "সব",
+          "খ": "কেউ",
+          "গ": "স্বয়ং",
+          "ঘ": "পরস্পর"
+        },
+        "question": "কোনটি আত্মবাচক সর্বনাম?",
+        "solution": "স্বয়ং",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695599,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695599,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695599,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695598,
+      "value": {
+        "options": {
+          "ক": "আমরা",
+          "খ": "আমার",
+          "গ": "তাঁহা",
+          "ঘ": "তাহার"
+        },
+        "question": "কোনটি সর্বনামের বিভক্তি গ্রাহী রূপ?",
+        "solution": "তাঁহা",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695598,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695598,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695598,
+            "tag_id": 3626,
+            "year": "2016",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695587,
+      "value": {
+        "options": {
+          "ক": "নির্দেশক",
+          "খ": "সাপেক্ষ",
+          "গ": "প্রশ্নবাচক",
+          "ঘ": "অনির্দিষ্ট"
+        },
+        "question": "গতকাল একজন বিদেশ গেল। এ বাক্যে 'একজন' শব্দটি কোন সর্বনাম?",
+        "solution": "‘একজন’ শব্দটি কোনো নির্দিষ্ট ব্যক্তি বোঝায় না, বরং অনির্দিষ্টভাবে একজন মানুষ বোঝাতে ব্যবহৃত হয়েছে। এই ধরণের সর্বনামকে অনির্দিষ্ট সর্বনাম বলা হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695587,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695587,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695588,
+      "value": {
+        "options": {
+          "ক": "অনির্দিষ্ট",
+          "খ": "সাপেক্ষ",
+          "গ": "অন্যবাচক",
+          "ঘ": "নির্দেশক"
+        },
+        "question": "\"একজন এসে খবরটা দেয়\"-এখানে 'একজন' কোন প্রকারের সর্বনাম?",
+        "solution": "‘একজন’ কোনো নির্দিষ্ট ব্যক্তি নয়, কারো সম্পর্কে অস্পষ্টভাবে বলা হয়েছে — তাই এটি অনির্দিষ্ট সর্বনাম।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695588,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695588,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695588,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695589,
+      "value": {
+        "options": {
+          "ক": "একজন এসে খবরটা দেয়।",
+          "খ": "যেমন কর্ম তেমন ফল।",
+          "গ": "সে নিজে অঙ্কটা করছে।",
+          "ঘ": "কী দিয়ে ভাত খায়?"
+        },
+        "question": "নিচের কোন বাক্যটি আত্মবাচক সর্বনামের উদাহরণযুক্ত?",
+        "solution": "এখানে ‘নিজে’ শব্দটি কর্তার প্রতি কাজের জোর বোঝাচ্ছে — এটি আত্মবাচক সর্বনাম, যা কর্তা নিজে কাজ করছে বোঝায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695589,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695589,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695589,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695590,
+      "value": {
+        "options": {
+          "ক": "উনি",
+          "খ": "স্বয়ং",
+          "গ": "কেউ",
+          "ঘ": "সকলে"
+        },
+        "question": "নিচের কোনটি আত্মবাচক সর্বনাম?",
+        "solution": "‘স্বয়ং’ শব্দটি আত্মবাচক সর্বনাম — এটি ‘নিজে’ বোঝায়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695590,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695590,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695590,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695591,
+      "value": {
+        "options": {
+          "ক": "সাপেক্ষ",
+          "খ": "পারস্পরিক",
+          "গ": "নির্দেশক",
+          "ঘ": "আত্মবাচক"
+        },
+        "question": "যে-সে' কোন ধরনের সর্বনাম?",
+        "solution": "‘যে-সে’ এমন একটি সর্বনাম যা নির্দিষ্ট নয়, বরং নির্দিষ্টতার উপর নির্ভর করে। তাই এটি সাপেক্ষ সর্বনাম।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695591,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695591,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695591,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695592,
+      "value": {
+        "options": {
+          "ক": "কে",
+          "খ": "এরা",
+          "গ": "যারা",
+          "ঘ": "সকলে"
+        },
+        "question": "নিচের কোনটি নির্দেশক সর্বনাম?",
+        "solution": "যে সর্বনাম পদ সাধারণত বিশেষ্যকে নির্দিষ্ট করে দেয়, তাকে নির্দেশক সর্বনাম পদ বলে। যেমন : এ, এই, এরা, ইহারা, ইহা, এঁরা, ইহাদের, এঁদের, ও, ওরা, ওদের, ওঁদের, ঐ, উনি, উহা, উহাদের ইত্যাদি।",
+        "explanation": "",
+        "correct_answer": "B.এরা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695592,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695592,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695592,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695593,
+      "value": {
+        "options": {
+          "ক": "ভিক্ষুককে টাকা দাও ।",
+          "খ": "তুমি চেষ্টা না করায় ব্যর্থ হয়েছ।",
+          "গ": "যেহেতু দোষ করেছ, সেহেতু শাস্তি পাবে।",
+          "ঘ": "বিপদ ও দুঃখ একসঙ্গে আসে।"
+        },
+        "question": "সাপেক্ষ সর্বনাম ও সাপেক্ষ যোজক যুক্ত রয়েছে কোনটিতে?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "C.যেহেতু দোষ করেছ, সেহেতু শাস্তি পাবে।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695593,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695593,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695593,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695594,
+      "value": {
+        "options": {
+          "ক": "খুব ভালো খবর",
+          "খ": "আধা কেজি চাল",
+          "গ": "এই পুকুরের পানি ঘোলা",
+          "ঘ": "গাড়িটা বেশ জোরে চলছে"
+        },
+        "question": "বিধেয় বিশেষণ রয়েছে কোন বাক্যে?",
+        "solution": "বিধেয়-বিশেষণঃ বাক্যের বিধেয় অংশে অবস্থিত বিশেষণকে বলা হয় বিধেয়-বিশেষণ।",
+        "explanation": "",
+        "correct_answer": "C.এই পুকুরের পানি ঘোলা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695594,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695594,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695594,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695595,
+      "value": {
+        "options": {
+          "ক": "খুব ভালো খবর।",
+          "খ": "আধা কেজি চাল।",
+          "গ": "এই পুকুরের পানি ঘোলা",
+          "ঘ": "গাড়িটা বেশ জোরে চলছে"
+        },
+        "question": "বিধেয় বিশেষণ রয়েছে কোন বাক্যে?",
+        "solution": "বিধেয়-বিশেষণঃ বাক্যের বিধেয় অংশে অবস্থিত বিশেষণকে বলা হয় বিধেয়-বিশেষণ।",
+        "explanation": "",
+        "correct_answer": "C.এই পুকুরের পানি ঘোলা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695595,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695595,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695595,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695596,
+      "value": {
+        "options": {
+          "ক": "এরা",
+          "খ": "পরস্পর",
+          "গ": "যে-সে",
+          "ঘ": "নিজেরা নিজেরা"
+        },
+        "question": "সাপেক্ষ সর্বনামের উদাহরণ কোনটি?",
+        "solution": "যে সকল সর্বনাম দ্বারা একটি বাক্যের সাপেক্ষে অন্য বাক্যকে যুক্ত করা হয়, তাদেরকে সাপেক্ষ সর্বনাম বলা হয়। এই সর্বনাম মূলত বাক্যাংশকে যুক্ত করে ফলে এর বৈশিষ্ট্য দাঁড়ায় অনেকটা সংযোজক অব্যয়ের মতো। যেমনঃ এই সেই লোক, যে গতকাল এখানে এসেছিল।",
+        "explanation": "",
+        "correct_answer": "C.যে-সে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695596,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695596,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695596,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695597,
+      "value": {
+        "options": {
+          "ক": "সব",
+          "খ": "কেউ",
+          "গ": "স্বয়ং",
+          "ঘ": "পরস্পর"
+        },
+        "question": "কোনটি আত্মবাচক সর্বনাম?",
+        "solution": "যে সকল সর্বনামের কর্তা নিজেই কর্মের অধীনে চলে যায় তাকে আত্মবাচক সর্বনাম বুঝায়। ব্যক্তিবাচক সর্বনামের ক্ষেত্রে আমরা দেখি কর্তা কাজ করে বা করায়, কিন্তু নিজেকে সুদৃঢ়ভাবে কর্মের ভিতর বিলীন করে দেয় না। আত্মবাচক সর্বনাম সুদৃঢ়ভাবকে প্রকাশ করে।",
+        "explanation": "",
+        "correct_answer": "C.স্বয়ং"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:03.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695597,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695597,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695584,
+      "value": {
+        "options": {
+          "ক": "সাপেক্ষ",
+          "খ": "পারস্পরিক",
+          "গ": "নির্দেশক",
+          "ঘ": "অনির্দিষ্ট"
+        },
+        "question": "পরস্পর নির্ভরশীল দুটি সর্বনামকে কোন সর্বনাম বলে?",
+        "solution": "‘যে-সে’, ‘যখন-তখন’ ইত্যাদি সাপেক্ষ সর্বনাম যা একে অপরের ওপর নির্ভরশীল।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695584,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695584,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695584,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:02.000000Z",
+            "updated_at": "2025-10-09T06:57:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695585,
+      "value": {
+        "options": {
+          "ক": "আমি",
+          "খ": "তিনি",
+          "গ": "তুমি",
+          "ঘ": "সে"
+        },
+        "question": "শ্রোতা পক্ষের সর্বনাম নিচের কোনটি?",
+        "solution": "তুমি' হলো শ্রোতা পক্ষের সর্বনাম, যা দ্বিতীয় পুরুষ বোঝাতে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695585,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695585,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695585,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:02.000000Z",
+            "updated_at": "2025-10-09T06:57:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695583,
+      "value": {
+        "options": {
+          "ক": "উনি",
+          "খ": "এই",
+          "গ": "স্বয়ং",
+          "ঘ": "যে-সে"
+        },
+        "question": "কর্তা নিজেই কোনো কাজ করেছে, এ ভাবটি জোর দিয়ে বোঝানোর জন্য যে ধরনের সর্বনাম ব্যবহার করা হয় তা হলো-",
+        "solution": "‘স্বয়ং’ হলো এমন একটি সর্বনাম যা কর্তাকেই বিশেষভাবে নির্দেশ করে যে সে নিজে কাজটি করেছে।",
+        "explanation": "",
+        "correct_answer": "C. স্বয়ং"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695583,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695583,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695583,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:02.000000Z",
+            "updated_at": "2025-10-09T06:57:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695586,
+      "value": {
+        "options": {
+          "ক": "যত-তত",
+          "খ": "যারা-তারা",
+          "গ": "যখন-তখন",
+          "ঘ": "যেমন-তেমন"
+        },
+        "question": "নিচের কোন যুগল সাপেক্ষ সর্বনাম?",
+        "solution": "‘যারা-তারা’ একে অপরের ওপর নির্ভরশীল দুটি সর্বনাম, তাই সাপেক্ষ সর্বনাম।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:57:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695586,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695586,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695586,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T06:57:03.000000Z",
+            "updated_at": "2025-10-09T06:57:03.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718792,
+      "value": {
+        "options": {
+          "ক": "যে, তারা, তা",
+          "খ": "তিনি, তা, কারা",
+          "গ": "তাঁরা, তাঁদের, তিনি",
+          "ঘ": "তুই, তোরা, তারা"
+        },
+        "question": "সম্ভ্রমাত্মক সর্বনাম পদ কোনগুলো?",
+        "solution": "গ. তাঁরা, তাঁদের, তিনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 718792,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718789,
+      "value": {
+        "options": {
+          "ক": "সাধারণ&nbsp;",
+          "খ": "ঘনিষ্ঠ",
+          "গ": "মানী",
+          "ঘ": "নির্দেশক"
+        },
+        "question": "'আপনি' মর্যাদা অনুযায়ী যে সর্বনামের&nbsp;উদাহরণ-",
+        "solution": "গ. মানী"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718787,
+      "value": {
+        "options": {
+          "ক": "তুমি",
+          "খ": "সে",
+          "গ": "আমি",
+          "ঘ": "তোমরা"
+        },
+        "question": "অন্যপক্ষের উদাহরণ-",
+        "solution": "খ. সে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718767,
+      "value": {
+        "options": {
+          "ক": "তোরা",
+          "খ": "তাঁরা",
+          "গ": "আপনি",
+          "ঘ": "আপনারা"
+        },
+        "question": "নিচের কোনটি অন্য পক্ষের উদাহরণ?",
+        "solution": "খ. তাঁরা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718768,
+      "value": {
+        "options": {
+          "ক": "সাধারণ",
+          "খ": "মানী",
+          "গ": "ঘনিষ্ঠ",
+          "ঘ": "অসাধারণ"
+        },
+        "question": "তুমি, সে' মর্যাদা অনুযায়ী কোন সর্বনামের উদাহরণ?",
+        "solution": "ক. সাধারণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718771,
+      "value": {
+        "options": {
+          "ক": "গতোরা",
+          "খ": "আপনি",
+          "গ": "আমাকে",
+          "ঘ": "তুমি"
+        },
+        "question": "বক্তাপক্ষের সর্বনামের উদাহরণ-",
+        "solution": "গ. আমাকে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718773,
+      "value": {
+        "options": {
+          "ক": "তারা",
+          "খ": "আমরা",
+          "গ": "আমি",
+          "ঘ": "তোমরা"
+        },
+        "question": "শ্রোতাপক্ষের উদাহরণ কোনটি?",
+        "solution": "ঘ. তোমরা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718775,
+      "value": {
+        "options": {
+          "ক": "শ্রোতা পক্ষ",
+          "খ": "বক্তা পক্ষ",
+          "গ": "অন্য পক্ষ",
+          "ঘ": "উভয় পক্ষ"
+        },
+        "question": "'তুই', 'তোরা' ব্যক্তিবাচক কোন পক্ষের সর্বনাম?",
+        "solution": "ক. শ্রোতা পক্ষ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718777,
+      "value": {
+        "options": {
+          "ক": "আমি",
+          "খ": "আপনি",
+          "গ": "তিনি",
+          "ঘ": "সে"
+        },
+        "question": "কোনটি শ্রোতাপক্ষ?",
+        "solution": "খ. আপনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718780,
+      "value": {
+        "options": {
+          "ক": "তারা মাঠে খেলছিল।",
+          "খ": "আমরা স্কুলে এসেছি।",
+          "গ": "আমি বিষয়টি পড়েছিলাম।",
+          "ঘ": "তুমি কি পড়াটি শিখেছিলে?"
+        },
+        "question": "নিচের কোন বাক্যে অন্য পক্ষের সর্বনাম রয়েছে?",
+        "solution": "ক. তারা মাঠে খেলছিল।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 718780,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718783,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "শ্রোতা পক্ষের ও অন্য পক্ষের সর্বনামকে মর্যাদা অনুযায়ী কয়টি ভাগে ভাগ করা যায়?",
+        "solution": "খ. তিন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718784,
+      "value": {
+        "options": {
+          "ক": "বিভক্তি ও সমাস",
+          "খ": "বিভক্তি ও নির্দেশক",
+          "গ": "নির্দেশক ও কারক",
+          "ঘ": "কারক ও বচন"
+        },
+        "question": "বিশেষ্যের মতো সর্বনামের সঙ্গেও কী যুক্ত হয়?",
+        "solution": "খ. বিভক্তি ও নির্দেশক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718765,
+      "value": {
+        "options": {
+          "ক": "বক্তা পক্ষের সর্বনামখ",
+          "খ": "আত্মবাচক সর্বনাম",
+          "গ": "প্রশ্নবাচক সর্বনাম",
+          "ঘ": "পারস্পরিক সর্বনাম"
+        },
+        "question": "'আমি' কোন সর্বনামের উদাহরণ?",
+        "solution": "ক. বক্তা পক্ষের সর্বনামখ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718763,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "ব্যক্তিবাচক সর্বনাম কত ধরনের?",
+        "solution": "খ. তিন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718761,
+      "value": {
+        "options": {
+          "ক": "নাম বিশেষণ",
+          "খ": "সর্বনাম",
+          "গ": "ভাব বিশেষণ",
+          "ঘ": "ক্রিয়া বিশেষণ"
+        },
+        "question": "বিশেষ্যের পরিবর্তে যা ব্যবহৃত হয় তাকে&nbsp;বলে-",
+        "solution": "খ. সর্বনাম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13172&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13172&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13172&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 33,
+  "total": 33
+}

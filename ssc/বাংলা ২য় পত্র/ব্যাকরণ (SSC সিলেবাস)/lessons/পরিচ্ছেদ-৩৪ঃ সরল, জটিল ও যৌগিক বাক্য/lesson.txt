@@ -1,0 +1,1732 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695982,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "গঠনগত দিক থেকে বাক্য কত প্রকার?",
+        "solution": "গঠন অনুসারে বাক্য তিন প্রকার: সরল, জটিল, যৌগিক।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695982,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695982,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695982,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695995,
+      "value": {
+        "options": {
+          "ক": "ভাল ছেলেরা শিক্ষকের আদেশ পালন করে",
+          "খ": "যতই করিবে দান, ততই যাবে বেড়ে",
+          "গ": "সত্য কথা লিনি, তাই বিপদে পড়েছি",
+          "ঘ": "তার বয়স হয়েছে, কিন্তু বুদ্ধি হয়নি"
+        },
+        "question": "কোনটি জটিল বাক্যের উদাহরণ?",
+        "solution": "বাক্যটি ক্রিয়া-বিশেষণ স্থানীয় খণ্ডবাক্যের অন্তর্গত জটিলবাক্য।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695995,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695995,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695995,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695994,
+      "value": {
+        "options": {
+          "ক": "সত্য কথা বলিনি, তাই বিপদে পড়েছি।",
+          "খ": "মেঘ গর্জন করলে ময়ূর নৃত্য করে",
+          "গ": "বিপদ এবং দুঃখ এক সময়ে আসে।",
+          "ঘ": "‘যতই করিবে দান, তত যাবে বেড়ে।"
+        },
+        "question": "কোনটি সরল বাক্য?",
+        "solution": "যে বাক্যে একটি মাত্র কর্তা (উদ্দেশ্য) এবং একটি মাত্র সমাপিকা ক্রিয়া ( বিধেয়) থাকে, তাকে সরল\n\nবাক্য বলে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695994,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695994,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695994,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695994,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        },
+        {
+          "id": 3627,
+          "full_name": "AB",
+          "short_name": "AB",
+          "slug": "ab-1",
+          "pivot": {
+            "question_bank_id": 695994,
+            "tag_id": 3627,
+            "year": "2017",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695993,
+      "value": {
+        "options": {
+          "ক": "তার বয়স হয়েছে কিন্তু বুদ্ধি হয়নি।",
+          "খ": "যাদের বুদ্ধি নেই, তারাই একথা বিশ্বাস করবে।",
+          "গ": "সত্য কথা না বলে বিপদে পড়েছি।",
+          "ঘ": "যে ভিক্ষা চায়, তাকে দান কর।"
+        },
+        "question": "সরল বাক্যের উদাহরণ কোনটি?",
+        "solution": "সত্য কথা না বলে বিপদে পড়েছি।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695993,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695993,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695993,
+            "tag_id": 7,
+            "year": "2020",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695992,
+      "value": {
+        "options": {
+          "ক": "পাকা কথা চাই।",
+          "খ": "পাকা দরখাস্ত করে এসেছি।",
+          "গ": "এ হচ্ছে পাকা রাঁধুনির রান্না।",
+          "ঘ": "ইঁচড়ে পাকা ছেলেদের কথা অসহ্য।"
+        },
+        "question": "কোন বাক্যে 'পাকা' দক্ষ অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "এ হচ্ছে পাকা রাঁধুনির রান্না।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695992,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695992,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695992,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695991,
+      "value": {
+        "options": {
+          "ক": "জটিল বাক্য",
+          "খ": "আশ্রিত খণ্ড বাক্য",
+          "গ": "যৌগিক বাক্য",
+          "ঘ": "সরল বাক্য"
+        },
+        "question": "“ভালো ছেলেরা শিক্ষকের আদেশ পালন করে”-এটি কী ধরনের বাক্য?",
+        "solution": "সরল বাক্য",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695991,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695991,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695991,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695990,
+      "value": {
+        "options": {
+          "ক": "বিশেষণ",
+          "খ": "বিশেষণ",
+          "গ": "সর্বনাম",
+          "ঘ": "ক্রিয়া"
+        },
+        "question": "সরল বাক্যে অনেক সময়ে কোনটি অনুপস্থিত থাকে?",
+        "solution": "সরল বাক্যে অনেক সময়ে ক্রিয়াবিশেষণ অনুপস্থিত থাকে। ক্রিয়াবিশেষণ হলো এমন শব্দ যা ক্রিয়ার সময়, স্থান, রীতি, পরিমাণ, কারণ ইত্যাদি সম্পর্কে",
+        "explanation": "",
+        "correct_answer": "D.ক্রিয়া"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695990,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695990,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695989,
+      "value": {
+        "options": {
+          "ক": "মিশ্র",
+          "খ": "সরল",
+          "গ": "যৌগিক",
+          "ঘ": "জটিল"
+        },
+        "question": "'পাখিগুলো' নীল আকাশে উড়ছে।'- গঠন বৈশিষ্ট্য অনুযায়ী বাক্যটিহলো-",
+        "solution": "যে বাক্যে একটি কর্তা বা উদ্দেশ্য ও একটিই সমাপিকা ক্রিয়া বা বিধেয় থাকে, তাকে সরল বাক্য বলে।",
+        "explanation": "",
+        "correct_answer": "B.সরল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695989,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695989,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695989,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695987,
+      "value": {
+        "options": {
+          "ক": "সরল বাক্য",
+          "খ": "জটিল বাক্য",
+          "গ": "মিশ্র বাক্য",
+          "ঘ": "যৌগিক বাক্য"
+        },
+        "question": "'তুমি চেষ্টা না করায় ব্যর্থ হয়েছে'- এটি কোন বাক্যের উদাহরণ?",
+        "solution": "সরল বাক্য : যে বাক্যে একটি কর্তা বা উদ্দেশ্য ও একটিই সমাপিকা ক্রিয়া বা বিধেয় থাকে, তাকে সরল বাক্য বলে।",
+        "explanation": "",
+        "correct_answer": "A.সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695987,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695987,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695987,
+            "tag_id": 4,
+            "year": "2024",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695986,
+      "value": {
+        "options": {
+          "ক": "জটিল বাক্য",
+          "খ": "যৌগিক বাক্য",
+          "গ": "সরল বাক্য",
+          "ঘ": "অক্রিয় বাক্য"
+        },
+        "question": "\"বিপদ ও দুঃখ একসঙ্গে আসে\"-এটি কোন বাক্যের উদাহরণ?",
+        "solution": "বিপদ' ও 'দুঃখ' দুটি সমতুল্য পদ, এবং একটি মাত্র ক্রিয়া থাকায় এটি যৌগিক বাক্য।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695986,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695986,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695986,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695985,
+      "value": {
+        "options": {
+          "ক": "বিপদ ও দুঃখ একসাথে আসে।",
+          "খ": "লোকটি অশিক্ষিত কিন্তু অভদ্র নয়।",
+          "গ": "ভিক্ষুককে টাকা দাও।",
+          "ঘ": "যে মেয়েটি প্রথম হয়েছে, সে আমার বোন।"
+        },
+        "question": "নিচের কোনটি সরল বাক্যের উদাহরণ?",
+        "solution": "‘ভিক্ষুককে টাকা দাও’ — এটি একটি স্বাধীন, একক উপবাক্যে গঠিত সরল বাক্য, কারণ এর মধ্যে অধীন কোনো বাক্য নেই।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695985,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695985,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695985,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695984,
+      "value": {
+        "options": {
+          "ক": "লোকটি অশিক্ষিত হলেও অভদ্র নয়।",
+          "খ": "লোকটি অশিক্ষিত এবং অভদ্র নয়।",
+          "গ": "লোকটি অশিক্ষিত কিন্তু অভদ্র নয়।",
+          "ঘ": "যদিও লোকটি অশিক্ষিত তবুও অভদ্র নয়।"
+        },
+        "question": "নিচের কোনটি সরল বাক্যের উদাহরণ?",
+        "solution": "এখানে একটি মাত্র প্রধান উপবাক্য রয়েছে যা সরাসরি বক্তব্য প্রকাশ করছে — এটি সরল বাক্য।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695984,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695984,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695984,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695983,
+      "value": {
+        "options": {
+          "ক": "অধীন",
+          "খ": "সরল",
+          "গ": "জটিল",
+          "ঘ": "যৌগিক"
+        },
+        "question": "আমরা তিন ভাইবোন।'-এটি কোন ধরনের বাক্য?",
+        "solution": "একটিমাত্র স্বাধীন উপবাক্য নিয়ে গঠিত হওয়ায় এটি একটি সরল বাক্য।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695983,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695983,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695981,
+      "value": {
+        "options": {
+          "ক": "সরল বাক্য",
+          "খ": "জটিল বাক্য",
+          "গ": "যৌগিক বাক্য",
+          "ঘ": "সাপেক্ষ বাক্য"
+        },
+        "question": "যে-সে, যারা-তারা, যখন-তখন প্রভৃতি সাপেক্ষ সর্বনাম এবং যোজক দিয়ে যখন অধীন বাক্যগুলো যুক্ত থাকে, তখন তাকে কী বলে?",
+        "solution": "যখন একটি প্রধান বাক্যের সাথে একটি অধীন বাক্য থাকে, তখন তা জটিল বাক্য গঠন করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695981,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695981,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695981,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695988,
+      "value": {
+        "options": {
+          "ক": "যে ছেলেটি এখানে এসেছিল, সে আমার ভাই।",
+          "খ": "দোষ করেছ; অতএব শাস্তি পাবে।",
+          "গ": "বিপদ ও দুঃখ একসঙ্গে আসে।",
+          "ঘ": "ঘসে এখানে এসে সব কথা খুলে বলল।"
+        },
+        "question": "নিচের কোনটি সরল বাক্য?",
+        "solution": "যে বাক্যে একটি কর্তা বা উদ্দেশ্য ও একটিই সমাপিকা ক্রিয়া বা বিধেয় থাকে, তাকে সরল বাক্য বলে।",
+        "explanation": "",
+        "correct_answer": "D.ঘসে এখানে এসে সব কথা খুলে বলল।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:33:05.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695988,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695988,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695988,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-10-09T08:33:05.000000Z",
+            "updated_at": "2025-10-09T08:33:05.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718625,
+      "value": {
+        "options": {
+          "ক": "সরল বাক্য",
+          "খ": "জটিল বাক্য",
+          "গ": "যৌগিক বাক্য",
+          "ঘ": "খণ্ডবাক্য"
+        },
+        "question": "যে বাক্যে একটিমাত্র কর্তা এবং একটিমাত্র সমাপিকা ক্রিয়া থাকে তাকে বলে-",
+        "solution": "ক. সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718622,
+      "value": {
+        "options": {
+          "ক": "সরল",
+          "খ": "জটিল",
+          "গ": "যৌগিক",
+          "ঘ": "মিশ্র"
+        },
+        "question": "'আমি পড়াশোনা শেষ করব; তারপর। খেলতে যাব।'- গঠন-বৈশিষ্ট্য অনুযায়ী এটি কোন ধরনের বাক্য?",
+        "solution": "গ. যৌগিক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718620,
+      "value": {
+        "options": {
+          "ক": "সরল",
+          "খ": "যৌগিক",
+          "গ": "জটিল&nbsp;",
+          "ঘ": "খন্ড"
+        },
+        "question": "\"তুমি চেষ্টা না করায় ব্যর্থ হয়েছ\"- এটি&nbsp;কোন প্রকারের বাক্য?",
+        "solution": "ক. সরল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 718620,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718618,
+      "value": {
+        "options": {
+          "ক": "মিশ্র",
+          "খ": "সরল",
+          "গ": "জটিল",
+          "ঘ": "যৌগিক"
+        },
+        "question": "যে বাক্যে একটি সমাপিকা ক্রিয়া থাকে, তাকে কী বাক্য বলে?",
+        "solution": "খ. সরল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718617,
+      "value": {
+        "options": {
+          "ক": "সরল বাক্য",
+          "খ": "জটিল বাক্য&nbsp;",
+          "গ": "যৌগিক বাক্য",
+          "ঘ": "মিশ্রবাক্য"
+        },
+        "question": "\"তার বয়স হলেও বুদ্ধি হয়নি।\"- এটি কোন&nbsp;বাক্য?",
+        "solution": "ক. সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3888,
+          "full_name": "দি. বো.'২০২২",
+          "short_name": "দি. বো.'২০২২",
+          "slug": "di-bo2022",
+          "pivot": {
+            "question_bank_id": 718617,
+            "tag_id": 3888,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718615,
+      "value": {
+        "options": {
+          "ক": "জটিল বাক্য",
+          "খ": "আশ্রিত খণ্ডবাক্য",
+          "গ": "যৌগিক বাক্য",
+          "ঘ": "সরল বাক্য"
+        },
+        "question": "\"ভালো ছেলেরা শিক্ষকের আদেশ পালন&nbsp;করে\"- এটি কী ধরনের বাক্য?",
+        "solution": "ঘ. সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 718615,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718612,
+      "value": {
+        "options": {
+          "ক": "সত্য কথা বলিনি, তাই বিপদে পড়েছি।",
+          "খ": "মেঘ গর্জন করলে ময়ূর নৃত্য করে।",
+          "গ": "বিপদ এবং দুঃখ এক সময়ে আসে।",
+          "ঘ": "&#39;যতই করিবে দান, তত যাবে বেড়ে।&#39;"
+        },
+        "question": "কোনটি সরল বাক্য?",
+        "solution": "খ. মেঘ গর্জন করলে ময়ূর নৃত্য করে।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 718612,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718609,
+      "value": {
+        "options": {
+          "ক": "সরল বাক্য",
+          "খ": "যৌগিক বাক্য",
+          "গ": "জটিল বাক্য",
+          "ঘ": "মিশ্র বাক্য"
+        },
+        "question": "'মেঘ গর্জন করলে ময়ূর নৃত্য করে'- এটি কোন প্রকারের বাক্য?",
+        "solution": "ক. সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 718609,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718608,
+      "value": {
+        "options": {
+          "ক": "জটিল",
+          "খ": "সরল",
+          "গ": "যৌগিক",
+          "ঘ": "বিযুক্ত বাক্য"
+        },
+        "question": "\"জ্ঞানী লোক সকলের শ্রদ্ধা পান।”- এটা কোন&nbsp;বাক্য?",
+        "solution": "খ. সরল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718606,
+      "value": {
+        "options": {
+          "ক": "সে সুসংবাদ পেল এবং আনন্দিত হলো।",
+          "খ": "সুসংবাদ পেয়ে সে আনন্দিত হলো।",
+          "গ": "যেই সে সুসংবাদ পেল, সেই সে আনন্দিত হলো।",
+          "ঘ": "যদি সুসংবাদ পাও, তবে আনন্দিত হও।"
+        },
+        "question": "'যখন সে সুসংবাদ পেল, তখন সে আনন্দিত হলো'- বাক্যটির সরল বাক্যরূপ কোনটি?",
+        "solution": "খ. সুসংবাদ পেয়ে সে আনন্দিত হলো।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718603,
+      "value": {
+        "options": {
+          "ক": "সরল বাক্য&nbsp;",
+          "খ": "মিশ্র বাক্য",
+          "গ": "যৌগিক বাক্য&nbsp;",
+          "ঘ": "জটিল বাক্য"
+        },
+        "question": "সত্য কথা না বলে বিপদে পড়েছি- এটি কোন বাক্যের উদাহরণ?&nbsp;",
+        "solution": "ক. সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 718603,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718601,
+      "value": {
+        "options": {
+          "ক": "মিশ্র বাক্য",
+          "খ": "জটিল বাক্য",
+          "গ": "যৌগিক বাক্য&nbsp;",
+          "ঘ": "সরল বাক্য&nbsp;"
+        },
+        "question": "'তার দর্শন মাত্রই আমরা প্রস্থান করলাম।'- এটি কোন বাক্যের উদাহরণ?",
+        "solution": "ঘ. সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3815,
+          "full_name": "দি. বো.'২০২০",
+          "short_name": "দি. বো.'২০২০",
+          "slug": "di-bo2020",
+          "pivot": {
+            "question_bank_id": 718601,
+            "tag_id": 3815,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718600,
+      "value": {
+        "options": {
+          "ক": "সরল বাক্য",
+          "খ": "জটিল বাক্য",
+          "গ": "যৌগিক বাক্য",
+          "ঘ": "আশ্রিত খণ্ডবাক্য"
+        },
+        "question": "\"রতন নিঃশব্দে গৃহে প্রবেশ করিল\"- বাক্যটি গঠন অনুসারে-&nbsp;",
+        "solution": "ক. সরল বাক্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718599,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "১",
+          "ঘ": "8"
+        },
+        "question": "'আমি পড়াশোনা শেষ করব; তারপর&nbsp;খেলতে যাব।'- এই বাক্যে কতটি&nbsp;সমাপিকা ক্রিয়া আছে?",
+        "solution": "ক. ২"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13187&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13187&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13187&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 29,
+  "total": 29
+}

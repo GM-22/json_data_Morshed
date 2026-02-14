@@ -1,0 +1,617 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 774876,
+      "value": {
+        "options": {
+          "ক": "18",
+          "খ": "51",
+          "গ": "72",
+          "ঘ": "85"
+        },
+        "question": "দুইটি ধনাত্মক সংখ্যার বর্গের সমষ্টি 170 এবং সংখ্যাদ্বয়ের গুণফল 77 হলে, ঐ সংখ্যাদ্বয়ের বর্গের অন্তর কত?",
+        "solution": "মনে করি, ধনাত্মক সংখ্যাদ্বয় x ও y\u003Cbr /\u003E\n১ম শর্তমতে, $x^2+y^2=170...........(i)$&nbsp;\u003Cbr /\u003E\n২য় শর্তমতে, xy = 77 $...........(ii)$&nbsp;\u003Cbr /\u003E\n$\\therefore\\left(x^2-y^2\\right)=\\left(x^2+y^2\\right)^2-4 x^2 y^2\\\\=(170)^2-4(77)^2=5184$\u003Cbr /\u003E\n$\\therefore x^2-y^2=\\sqrt{5184}=72$.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 774876,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774877,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(±3\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(±2\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(± 1\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(0\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-9165-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-131518\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-131519\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-131520\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-131521\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-131522\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131523\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131524\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\" style=\"margin-right: -0.006em;\"\u003E\u003Cspan id=\"MJXc-Node-131525\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0.082em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-131526\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131527\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131528\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E5\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmsup\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsup\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmn\u003E5\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-9165\"\u003Ex^2+y^2=5\u003C/script\u003E এবং \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-9166-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-131529\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-131530\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-131531\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131532\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131533\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131534\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131535\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-9166\"\u003Ex y=-2\u003C/script\u003E হলে, \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-9167-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-131536\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-131537\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-131538\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131539\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131540\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131541\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131542\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131543\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-9167\"\u003E(x-y)=\u003C/script\u003E কত?",
+        "solution": "$(x-y)^2=x^2+y^2-2 x y\\\\=5-2 \\times(-2)=5+4=9$",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774878,
+      "value": {
+        "options": {
+          "ক": "1 এবং 600",
+          "খ": "2 এবং 150",
+          "গ": "-25 এবং 24",
+          "ঘ": "25 এবং 24"
+        },
+        "question": "দুইটি ধনাত্মক পূর্ণসংখ্যার বর্গের অন্তর 49 এবং গুণফল 600.\u003Cbr\u003E\nসংখ্যা দুইটি কী কী?",
+        "solution": "$25^2-24^2=625-576=49$ এবং $25 \\times 24=600$.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 774878,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774879,
+      "value": {
+        "options": {
+          "ক": "576",
+          "খ": "625",
+          "গ": "649",
+          "ঘ": "1201"
+        },
+        "question": "দুইটি ধনাত্মক পূর্ণসংখ্যার বর্গের অন্তর 49 এবং গুণফল 600.\u003Cbr\u003E\nসংখ্যা দুইটির বর্গের সমষ্টি কত?",
+        "solution": "$25^2+24^2=625+576=1201$.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3826,
+          "full_name": "ব. বো.'২০১৯",
+          "short_name": "ব. বো.'২০১৯",
+          "slug": "b-bo2019",
+          "pivot": {
+            "question_bank_id": 774879,
+            "tag_id": 3826,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774880,
+      "value": {
+        "options": {
+          "ক": "8 বর্গমিটার",
+          "খ": "10 বর্গমিটার",
+          "গ": "16 বর্গমিটার",
+          "ঘ": "24 বর্গমিটার"
+        },
+        "question": "একটি আয়তাকার বাগানের পরিসীমা 20 মিটার এবং দৈর্ঘ্য 8 মিটার বাগানের ক্ষেত্রফল কত?",
+        "solution": "পরিসীমা $=2 \\times$ (দৈর্ঘ্য + প্রস্থ) $=20$\u003Cbr /\u003E\nবা, $8+$ প্রস্থ $=10$\u003Cbr /\u003E\n$\\therefore$ প্রস্থ $=10-8=2$ মিটার\u003Cbr /\u003E\n$\\therefore$ ক্ষেত্রফল $=8 \\times 2=16$ বর্গমিটার।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 774880,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774881,
+      "value": {
+        "options": {
+          "ক": "9, 3",
+          "খ": "9, 6",
+          "গ": "6, 3",
+          "ঘ": "12, 6"
+        },
+        "question": "দুইটি ধনাত্মক সংখ্যার বর্গের সমষ্টি 90 এবং গুণফল, 27 হলে সংখ্যা দুইটি কি কি হবে?",
+        "solution": "$x^2+y^2=90, \\quad {x y}=27$\u003Cbr /\u003E\n$\\therefore \\quad\\left(x^2-y^2\\right)=\\sqrt{\\left(x^2+y^2\\right)^2-4 x^2 y^2}$\u003Cbr /\u003E\n$=\\sqrt{(90)^2-4 \\cdot(x y)^2}=\\sqrt{8100-4(27)^2}$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n&amp; \\therefore \\quad x^2-y^2=72 \\\\\u003Cbr /\u003E\n&amp; \\frac{x^2+y^2=90}{(+) 2 x^2=162} \\\\\u003Cbr /\u003E\n&amp; x^2=81 \\\\\u003Cbr /\u003E\n&amp; \\therefore x=9 \\\\\u003Cbr /\u003E\n&amp; \\therefore y=\\frac{27}{9}=3\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\\therefore$ সংখ্যাদ্বয় 9, 3.",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 774881,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774882,
+      "value": {
+        "options": {
+          "ক": "909",
+          "খ": "349",
+          "গ": "261",
+          "ঘ": "181"
+        },
+        "question": "দুটি ধনাত্মক পূর্ণ সংখ্যার বর্গের অন্তর 19 এবং গুণফল 90 হলে এদের বর্গের সমষ্টি কত?",
+        "solution": "ধরি, সংখ্যাদ্বয় x ও y\u003Cbr /\u003E\nপ্রশ্নমতে, $\\mathrm{x}^2-\\mathrm{y}^2=19$ এবং $\\mathrm{xy}=90$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n\\therefore\\left(x^2+y^2\\right)^2 &amp; =\\left(x^2-y^2\\right)^2+4 x^2 y^2 \\\\\u003Cbr /\u003E\n&amp; =(19)^2+4(x y)^2\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$=(19)^2+4(90)^2=361+32400=32761$\u003Cbr /\u003E\n$\\therefore \\mathrm{x}^2+\\mathrm{y}^2=\\sqrt{32761}=181$.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3970,
+          "full_name": "বগুড়া জিলা স্কুল",
+          "short_name": "বগুড়া জিলা স্কুল",
+          "slug": "bgura-jila-skul",
+          "pivot": {
+            "question_bank_id": 774882,
+            "tag_id": 3970,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774883,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "কোনো সংখ্যার গুণাত্মক বিপরীত সংখ্যার সাথে সংখ্যাটির দ্বিগুণ যোগ করলে 5 হয়। সংখ্যাটি x হলে সম্ভাব্য সমীকরণটি-\u003Cbr\u003E\ni. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-9194-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/mfrac&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-131968\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-131969\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-131970\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131971\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131972\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131973\" class=\"mjx-mfrac MJXc-space2\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.546em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.772em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-131974\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.772em; bottom: -0.524em;\"\u003E\u003Cspan id=\"MJXc-Node-131975\" class=\"mjx-mi\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.546em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.295em; vertical-align: -0.37em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131976\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131977\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E5\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmfrac\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003C/mfrac\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmn\u003E5\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-9194\"\u003E 2 x+\\frac{1}{x}=5\u003C/script\u003E\u003Cbr\u003E\nii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-9195-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-131978\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-131979\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-131980\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131981\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-131982\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-131983\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131984\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131985\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E5\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131986\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131987\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131988\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131989\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131990\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmsup\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E5\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-9195\"\u003E2 x^2-5 x+1=0\u003C/script\u003E\u003Cbr\u003E\niii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-9196-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-131991\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-131992\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-131993\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131994\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-131995\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-131996\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131997\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-131998\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmsup\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-9196\"\u003E2 x^2-1\u003C/script\u003E\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ধরি, সংখ্যাটি x\u003Cbr /\u003E\n$\\therefore$ গুণাত্মক বিপরীত সংখ্যাটি $\\frac{1}{x}$\u003Cbr /\u003E\nপ্রশ্নমতে, $2 x+\\frac{1}{x}=5$\u003Cbr /\u003E\nবা, $\\frac{2 x^2+1}{x}=5$ বা, $2 x^2+1=5 x$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore 2 x^2-5 x+1=0\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\\therefore$ (i) ও (ii) সঠিক কিন্তু (iii) সঠিক নয়।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774884,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(16:12\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(25:16\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(9:4\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(4:3\\)\u003C/span\u003E"
+        },
+        "question": "দুইটি বর্গক্ষেত্রের ক্ষেত্রফলের সমষ্টি 25 বর্গমিটার এবং এদের বাহু দ্বারা গঠিত আয়তক্ষেত্রের ক্ষেত্রফল 12 বর্গমিটার।\u003Cbr\u003E\nবর্গক্ষেত্র দুইটির পরিসীমার অনুপাত নিচের কোনটি?",
+        "solution": "ঘ. \u003Cspan class=\"math-tex\"\u003E\\(4:3\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 774884,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774885,
+      "value": {
+        "options": {
+          "ক": "3 মিটার",
+          "খ": "4 মিটার",
+          "গ": "5 মিটার",
+          "ঘ": "6 মিটার"
+        },
+        "question": "দুইটি বর্গক্ষেত্রের ক্ষেত্রফলের সমষ্টি 25 বর্গমিটার এবং এদের বাহু দ্বারা গঠিত আয়তক্ষেত্রের ক্ষেত্রফল 12 বর্গমিটার।\u003Cbr\u003E\nবৃহত্তম বর্গক্ষেত্রটির বাহুর দৈর্ঘ্য কত?",
+        "solution": "ধরি, বৃহত্তম বর্গের বাহু x এর ক্ষুদ্রতম বর্গের বাহু y\u003Cbr /\u003E\n$\\therefore \\mathrm{x}^2+\\mathrm{y}^2=25$ এবং $\\mathrm{xy}=12$\u003Cbr /\u003E\n$\\therefore \\mathrm{y}=\\frac{12}{\\mathrm{x}}$\u003Cbr /\u003E\nএখন, $(x+y)^2=x^2+y^2+2 x y$\u003Cbr /\u003E\nবা, $(x+y)^2=25+2 \\times 12$\u003Cbr /\u003E\nবা, $(x+y)^2=49$ বা, $x+y=7$ বা, $x+\\frac{12}{x}=7$\u003Cbr /\u003E\nবা, $x^2+12=7 x$ বা, $x^2-7 x+12=0$\u003Cbr /\u003E\nবা, $(x-4)(x-3)=0$\u003Cbr /\u003E\n$\\therefore \\mathrm{x}=4,3$\u003Cbr /\u003E\n$\\therefore$ বৃহত্তম বাহু 4 মিটার।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 774885,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774886,
+      "value": {
+        "options": {
+          "ক": "1, 42",
+          "খ": "2, 21",
+          "গ": "3, 14",
+          "ঘ": "7, 6"
+        },
+        "question": "দুইটি ধনাত্মক পূর্ণসংখ্যার বর্গের অন্তর 13 এবং গুণফল 42 হলে, সংখ্যা দুইটি কী কী হতে পারে?",
+        "solution": "7 ও 6 এর জন্য,\u003Cbr /\u003E\nবর্গের অন্তর $=7^2-6^2=49-36=13$\u003Cbr /\u003E\nগুণফল $=7 \\times 6=42$.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 774886,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-12-01T13:41:01.000000Z",
+            "updated_at": "2025-12-01T13:41:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774887,
+      "value": {
+        "options": {
+          "ক": "$x^3+1=6 x$",
+          "খ": "$x^2-6 x=-1$",
+          "গ": "$x+6=\\frac{1}{x}$",
+          "ঘ": "$x^2+\\frac{1}{x^2}=6$"
+        },
+        "question": "একটি সংখ্যা ও ঐ সংখ্যার গুণাত্মক বিপরীত সংখ্যার সমষ্টি 6 হলে, সম্ভাব্য সমীকরণটি হবে-",
+        "solution": "সংখ্যাটি $x$ হলে, $x+\\frac{1}{x}=6$\u003Cbr /\u003E\nবা, $\\frac{x^2+1}{x}=6 \\quad$ বা, $x^2+1=6 x \\quad \\therefore x^2-6 x=-1$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8023,
+      "created_at": "2025-12-01T13:41:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8023&grade=5&lesson=14559&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8023&grade=5&lesson=14559&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8023&grade=5&lesson=14559&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

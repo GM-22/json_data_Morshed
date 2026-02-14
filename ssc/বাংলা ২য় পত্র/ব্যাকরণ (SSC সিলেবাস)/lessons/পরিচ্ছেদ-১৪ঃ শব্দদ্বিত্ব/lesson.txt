@@ -1,0 +1,2063 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695514,
+      "value": {
+        "options": {
+          "ক": "ঝম ঝম",
+          "খ": "খক খক",
+          "গ": "টস টস",
+          "ঘ": "ঝিলমিল"
+        },
+        "question": "অনুকার দ্বিত্যু' কোনটি?",
+        "solution": "‘ঝিলমিল’ শব্দটি অনুকরণভিত্তিক শব্দ যার দুটি অংশ একইভাবে পুনরাবৃত্ত হয়েছে, যা অনুকার দ্বিত্ব।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695514,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695514,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695514,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695532,
+      "value": {
+        "options": {
+          "ক": "টাক, টুক, টুকু",
+          "খ": "গুলি, গুলা, গুলো",
+          "গ": "খানা, খানি, গাছা",
+          "ঘ": "কেতা, তা, পাটি"
+        },
+        "question": "বিশেষ অর্থে, নির্দিষ্টতা জ্ঞাপনে কয়েকটি শব্দ-",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "D. কেতা, তা, পাটি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695532,
+            "year_id": 8
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695532,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695532,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695532,
+            "tag_id": 46,
+            "year": "2015",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695532,
+            "tag_id": 47,
+            "year": "2015",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695531,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গ",
+          "খ": "অব্যয়",
+          "গ": "প্রত্যয়",
+          "ঘ": "উপসর্গ"
+        },
+        "question": "কোনটির নিজস্ব কোনো অর্থবাচকতা নেই?",
+        "solution": "উপসর্গগুলোর নিজস্ব কোনো অর্থবাচকতা নেই কিন্তু অন্য শব্দের আগে যুক্ত হলে এদের অর্থদ্যোতকতা বা নতুন শব্দ সৃজনের ক্ষমতা থাকে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695531,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695531,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695531,
+            "tag_id": 46,
+            "year": "2015",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695530,
+      "value": {
+        "options": {
+          "ক": "চুপচাপ",
+          "খ": "ঝি ঝি",
+          "গ": "ঘচাঘচ",
+          "ঘ": "ঘেউ ঘেউ"
+        },
+        "question": "কোনটি যুগ্মরীতিতে গঠিত দ্বিরুক্ত শব্দ?",
+        "solution": "চুপচাপ",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695530,
+            "year_id": 20
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695530,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695530,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695530,
+            "tag_id": 3585,
+            "year": "2016",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695530,
+            "tag_id": 46,
+            "year": "2015",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695529,
+      "value": {
+        "options": {
+          "ক": "সেইটেই আমার প্রিয় কলম",
+          "খ": "গোটা দেশই ছারখার হয়ে গেছে",
+          "গ": "সবটুকু ওষুধই খেয়ে ফেলো",
+          "ঘ": "ন্যাকামিটা এখন রাখ"
+        },
+        "question": "নিরর্থকভাবে পদাশ্রিত নির্দেশকের ব্যবহার হয়েছে কোন বাক্যটিতে?",
+        "solution": "ন্যাকামিটা এখন রাখ",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695529,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3627,
+          "full_name": "AB",
+          "short_name": "AB",
+          "slug": "ab-1",
+          "pivot": {
+            "question_bank_id": 695529,
+            "tag_id": 3627,
+            "year": "2017",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695528,
+      "value": {
+        "options": {
+          "ক": "সেইটেই আমার প্রিয় কলম",
+          "খ": "গোটা দেশই ছারখার হয়ে গেছে",
+          "গ": "সবটুকু ওষুধই খেয়ে ফেলো",
+          "ঘ": "ন্যাকামিটা এখন রাখ"
+        },
+        "question": "নিরর্থকভাবে পদাশ্রিত নির্দেশকের ব্যবহার হয়েছে কোন বাক্যটিতে?",
+        "solution": "ন্যাকামিটা এখন রাখ",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695528,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3627,
+          "full_name": "AB",
+          "short_name": "AB",
+          "slug": "ab-1",
+          "pivot": {
+            "question_bank_id": 695528,
+            "tag_id": 3627,
+            "year": "2017",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695527,
+      "value": {
+        "options": {
+          "ক": "অঙ্ক বা সংখ্যা বাচক",
+          "খ": "গণনা বাচক",
+          "গ": "পূরণ বাচক",
+          "ঘ": "তারিখ বাচক"
+        },
+        "question": "একবিংশ কোন জাতীয় শব্দ?",
+        "solution": "পূরণ বাচক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695527,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3627,
+          "full_name": "AB",
+          "short_name": "AB",
+          "slug": "ab-1",
+          "pivot": {
+            "question_bank_id": 695527,
+            "tag_id": 3627,
+            "year": "2017",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695526,
+      "value": {
+        "options": {
+          "ক": "ক্রিয়া",
+          "খ": "বিশেষ্য",
+          "গ": "বিশেষণ",
+          "ঘ": "ক্রিয়া বিশেষণ"
+        },
+        "question": "'নামিল নভে বাদল ছল ছল বেদনায়।'- বাক্যটিতে দ্বিরুক্ত শব্দ কোন পদ রূপে ব্যবহৃত হয়েছে?",
+        "solution": "বিশেষণ",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 9,
+          "year": "2018",
+          "pivot": {
+            "question_bank_id": 695526,
+            "year_id": 9
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3627,
+          "full_name": "AB",
+          "short_name": "AB",
+          "slug": "ab-1",
+          "pivot": {
+            "question_bank_id": 695526,
+            "tag_id": 3627,
+            "year": "2018",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695525,
+      "value": {
+        "options": {
+          "ক": "আঠার",
+          "খ": "উনিশ",
+          "গ": "বিশ",
+          "ঘ": "একুশ"
+        },
+        "question": "বাংলা উপসর্গ মোট কয়টি?",
+        "solution": "একুশ",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695525,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695525,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695525,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695524,
+      "value": {
+        "options": {
+          "ক": "চার ভাগের এক ভাগ",
+          "খ": "তিন ভাগের এক ভাগ",
+          "গ": "দুই ভাগের এক ভাগ",
+          "ঘ": "আট ভাগের এক ভাগ"
+        },
+        "question": "‘তেহাই' বলতে বোঝায়—",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "B. তিন ভাগের এক ভাগ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695524,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695524,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695524,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695522,
+      "value": {
+        "options": {
+          "ক": "থকথকে",
+          "খ": "মজায় মজায়",
+          "গ": "পটাপট",
+          "ঘ": "চুপচাপ"
+        },
+        "question": "নিচের কোন ধ্বন্যাত্মক দ্বিত্বের মাঝখানে স্বরধ্বনির আগমন ঘটেছে?",
+        "solution": "ধ্বন্যাত্মক দ্বিত্ব হলো দুটি স্পর্শধ্বনির যুক্তি।\nস্বরধ্বনি হলো মুখের কোনও অংশ বাধা না দিয়ে উচ্চারিত স্বর।",
+        "explanation": "",
+        "correct_answer": "C.পটাপট"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695522,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695522,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695522,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695523,
+      "value": {
+        "options": {
+          "ক": "ঝাল-টাল",
+          "খ": "কেক-টেক",
+          "গ": "ঝমঝম",
+          "ঘ": "নরম-সরম"
+        },
+        "question": "ধ্বন্যাত্মক দ্বিত্ব শব্দের উদাহরণ কোনটি?",
+        "solution": "কোনো কিছুর স্বাভাবিক বা কাল্পনিক অনুকৃতিবিশিষ্ট শব্দের রূপকে ধ্বন্যাত্মক শব্দ বলে। এ জাতীয় ধ্বন্যাত্মক শব্দের দুইবার প্রয়োগের নাম ধ্বন্যাত্মক দ্বিরুক্তি / দ্বিত্ব। ধ্বনাত্মক দ্বিরুক্তি দ্বারা বহুত্ব, আধিক্য ইত্যাদি বোঝায়। যেমন: একই (ধ্বন্যাত্মক) শব্দের অবিকৃত প্রয়োগ - ধক ধক, ঝন ঝন, পট পট ।",
+        "explanation": "",
+        "correct_answer": "C.ঝমঝম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695523,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695523,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695523,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695513,
+      "value": {
+        "options": {
+          "ক": "অনুকার দ্বিত্ব",
+          "খ": "পুনরাবৃত্ত দ্বিত্ব",
+          "গ": "পদদ্বিত্ব",
+          "ঘ": "ধ্বন্যাত্মক শব্দ"
+        },
+        "question": "কোনো প্রাকৃতিক ধ্বনির অনুকরণে যেসব শব্দ তৈরি হয়, সেগুলোকে কী বলে?",
+        "solution": "‘ধ্বন্যাত্মক শব্দ’ হলো যেসব শব্দ প্রকৃতির ধ্বনির অনুকরণে সৃষ্টি হয়, যেমন: ঝমঝম, টুং।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695513,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695513,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695513,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695515,
+      "value": {
+        "options": {
+          "ক": "ধ্বন্যাত্মক",
+          "খ": "পদাত্মক",
+          "গ": "পুনরাবৃত্ত",
+          "ঘ": "অনুকার"
+        },
+        "question": "হিসহিস' শব্দটি কোন শব্দদ্বিত্বের উদাহরণ?",
+        "solution": "প্রকৃতির শব্দ অনুকরণে গঠিত শব্দ ‘হিসহিস’, যা ধ্বন্যাত্মক শব্দ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695515,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695515,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695515,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695516,
+      "value": {
+        "options": {
+          "ক": "চকচক",
+          "খ": "পর পর",
+          "গ": "ধারধোর",
+          "ঘ": "ঘুম ঘুম"
+        },
+        "question": "ধ্বন্যাত্মক দ্বিত্বের উদাহরণ কোনটি?",
+        "solution": "চকচক' শব্দটি প্রাকৃতিক ধ্বনির অনুকরণে গঠিত একটি ধ্বন্যাত্মক শব্দ এবং দ্বিত্বপ্রাপ্ত।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695516,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695516,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695517,
+      "value": {
+        "options": {
+          "ক": "অনুকার দ্বিত্ব",
+          "খ": "ধ্বন্যাত্মক দ্বিত্ব",
+          "গ": "পদদ্বিত্ব",
+          "ঘ": "পুনরাবৃত্ত দ্বিত্ব"
+        },
+        "question": "ঘর-টর' শব্দটি কোন প্রকার শব্দদ্বিত্ব?",
+        "solution": "‘ঘর-টর’ শব্দে মূল শব্দ ‘ঘর’-এর অনুকরণে টর যুক্ত হয়েছে, যা অনুকার দ্বিত্বের লক্ষণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695517,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695517,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695518,
+      "value": {
+        "options": {
+          "ক": "কুটকুট",
+          "খ": "খকখক",
+          "গ": "ঝিকিমিকি",
+          "ঘ": "ঢং ঢং"
+        },
+        "question": "অনুকার দ্বিত্ব কোনটি?",
+        "solution": "ঝিকিমিকি' শব্দটি ধ্বনি বা দৃশ্যের অনুকরণে গঠিত দ্বিত্ব শব্দ, এটি অনুকার দ্বিত্বের উদাহরণ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695518,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695518,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695518,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695519,
+      "value": {
+        "options": {
+          "ক": "ঝমঝম",
+          "খ": "ঝিলমিল",
+          "গ": "শেষ-মেষ",
+          "ঘ": "চুপচাপ"
+        },
+        "question": "ধ্বনাত্মক দ্বিত্বের' উদাহরণ কোনটি?",
+        "solution": "‘ঝমঝম’ শব্দে একই ধ্বনি পুনরাবৃত্ত হয়েছে এবং এতে ধ্বনির তীব্রতা প্রকাশ পেয়েছে — এটিই ধ্বনাত্মক দ্বিত্ব।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695519,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695519,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695519,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695520,
+      "value": {
+        "options": {
+          "ক": "কুটুস কুটুস",
+          "খ": "কেক-টেক",
+          "গ": "ফুসুর ফুসুর",
+          "ঘ": "কথায় কথায়"
+        },
+        "question": "নিচের কোনটি পুনরাবৃত্ত দ্বিত্ব?",
+        "solution": "কথায় কথায়' শব্দটি পুনরাবৃত্ত দ্বিত্ব, যেখানে একটি শব্দ পুনরাবৃত্তি হয়ে নতুন অর্থ প্রদান করে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695520,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695520,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695520,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695521,
+      "value": {
+        "options": {
+          "ক": "থকথকে",
+          "খ": "টসটস",
+          "গ": "টসটস",
+          "ঘ": "পটাপট"
+        },
+        "question": "ধ্বন্যাত্মক দ্বিত্বের মাঝখানে স্বরধ্বনির আগমন ঘটেছে কোনটিতে?",
+        "solution": "পটাপট: এই শব্দে \"প\" এবং \"ট\" ধ্বনি দুটিই ব্যঞ্জনধ্বনি। তবে, \"ট\" ধ্বনির পর \"া\" স্বরধ্বনি আছে। এই স্বরধ্বনি \"ট\" এবং \"প\" ধ্বনির মাঝখানে অবস্থিত।\n\"পটাপট\" শব্দেই ধ্বন্যাত্মক দ্বিত্বের মাঝখানে স্বরধ্বনির আগমন ঘটেছে।",
+        "explanation": "",
+        "correct_answer": "D.পটাপট"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:54:12.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695521,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695521,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-10-09T06:54:12.000000Z",
+            "updated_at": "2025-10-09T06:54:12.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718868,
+      "value": {
+        "options": {
+          "ক": "গরম গরম",
+          "খ": "সুরে সুরে",
+          "গ": "ফটাফট",
+          "ঘ": "চুপচাপ"
+        },
+        "question": "কোনটি অনুকার দ্বিত্বের উদাহরণ?&nbsp;",
+        "solution": "ঘ. চুপচাপ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 718868,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718863,
+      "value": {
+        "options": {
+          "ক": "অভিন্ন",
+          "খ": "সংকুচিত",
+          "গ": "ভিন্নতর",
+          "ঘ": "সম্প্রসারিত"
+        },
+        "question": "দ্বিরুক্ত শব্দ কীরূপ অর্থ প্রকাশ করে?",
+        "solution": "ঘ. সম্প্রসারিত"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 718863,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718861,
+      "value": {
+        "options": {
+          "ক": "নিশপিশ",
+          "খ": "জেদাজেদি",
+          "গ": "জারিজুরি",
+          "ঘ": "চুপচাপ"
+        },
+        "question": "শব্দের অন্ত্যস্বরের পরিবর্তন করে দ্বিরুক্ত শব্দ গঠিত হয়েছে কোনটি?",
+        "solution": "খ. জেদাজেদি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718857,
+      "value": {
+        "options": {
+          "ক": "জন্ম-মৃত্যু",
+          "খ": "বনজঙ্গল",
+          "গ": "হাতাহাতি",
+          "ঘ": "ডালভাত"
+        },
+        "question": "ভিন্নার্থক শব্দযোগে যুগ্মরীতির দ্বিরুক্তি কোনটি?&nbsp;",
+        "solution": "ঘ. ডালভাত"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 718857,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718852,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্য",
+          "খ": "অনুকার",
+          "গ": "ক্রিয়া",
+          "ঘ": "সর্বনাম"
+        },
+        "question": "'বৃষ্টি পড়ে টাপুর-টুপুর'- বাক্যে 'টাপুর-টুপুর' কোন ধরনের দ্বিরুক্তি?",
+        "solution": "খ. অনুকার"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3809,
+          "full_name": "দি. বো.'২০১৫",
+          "short_name": "দি. বো.'২০১৫",
+          "slug": "di-bo2015",
+          "pivot": {
+            "question_bank_id": 718852,
+            "tag_id": 3809,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718849,
+      "value": {
+        "options": {
+          "ক": "ধ্বন্যাত্মক দ্বিত্ব",
+          "খ": "অনুকার দ্বিত্ব",
+          "গ": "পুনরাবৃত্ত দ্বিত্ব",
+          "ঘ": "অসম দ্বিত্ব"
+        },
+        "question": "পরপর ব্যবহৃত প্রায় একই চেহারার শব্দকে বলে-",
+        "solution": "খ. অনুকার দ্বিত্ব"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 718849,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718845,
+      "value": {
+        "options": {
+          "ক": "ঘচাঘচ",
+          "খ": "চুপচাপ",
+          "গ": "ঘেউ ঘেউ",
+          "ঘ": "ঝিঝি"
+        },
+        "question": "যুগ্মরীতিতে গঠিত দ্বিরুক্ত শব্দ কোনটি?",
+        "solution": "খ. চুপচাপ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 718845,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718844,
+      "value": {
+        "options": {
+          "ক": "মারামারি",
+          "খ": "ছট্&zwnj;ফট্",
+          "গ": "চুপচাপ",
+          "ঘ": "চাল-চলন"
+        },
+        "question": "দ্বিরুক্ত গঠনের সময় আদিম্বরের পরিবর্তন। হয়েছে কোনটিতে?",
+        "solution": "গ. চুপচাপ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718839,
+      "value": {
+        "options": {
+          "ক": "ঝিলমিল",
+          "খ": "টসটস",
+          "গ": "ঘুমঘুম",
+          "ঘ": "সুরে সুরে"
+        },
+        "question": "কোনটি অনুকার দ্বিত্বের উদাহরণ?",
+        "solution": "ক. ঝিলমিল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 718839,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718838,
+      "value": {
+        "options": {
+          "ক": "ঝিকিমিকি",
+          "খ": "মারামারি",
+          "গ": "ছটফট",
+          "ঘ": "চালচলন"
+        },
+        "question": "কোনটি ধ্বন্যাত্মক দ্বিরুক্তি?",
+        "solution": "ক. ঝিকিমিকি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718835,
+      "value": {
+        "options": {
+          "ক": "দুইবার উক্ত",
+          "খ": "দুইবার ব্যাপ্ত",
+          "গ": "অনুক্ত শব্দ",
+          "ঘ": "জোড়া শব্দ"
+        },
+        "question": "দ্বিরুক্ত অর্থ কী?",
+        "solution": "ক. দুইবার উক্ত"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718834,
+      "value": {
+        "options": {
+          "ক": "মারামারি/সরাসরি&nbsp;",
+          "খ": "মিটমাট",
+          "গ": "ডর-ভয়",
+          "ঘ": "জারিজুরি"
+        },
+        "question": "শব্দের অন্ত্যস্বরের পরিবর্তন করে দ্বিরুক্তি&nbsp;গঠিত হয়েছে কোন শব্দে?",
+        "solution": "ক. মারামারি/সরাসরি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718831,
+      "value": {
+        "options": {
+          "ক": "গরম গরম",
+          "খ": "ঝমঝম",
+          "গ": "মিটির মিটির",
+          "ঘ": "টুপটাপ"
+        },
+        "question": "কোনটি যুগ্মরীতির দ্বিরুক্ত?",
+        "solution": "ঘ. টুপটাপ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718828,
+      "value": {
+        "options": {
+          "ক": "ধারাবাহিকতা",
+          "খ": "ধ্বনির ব্যঞ্জনা",
+          "গ": "বিশেষণ",
+          "ঘ": "অনুভূতি"
+        },
+        "question": "'বৃষ্টি পড়ে টাপুর-টুপুর'- কী অর্থে দ্বিরুক্তি?",
+        "solution": "খ. ধ্বনির ব্যঞ্জনা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13167&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13167&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13167&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 34,
+  "total": 34
+}

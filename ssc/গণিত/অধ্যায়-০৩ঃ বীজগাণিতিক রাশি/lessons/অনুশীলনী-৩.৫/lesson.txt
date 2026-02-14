@@ -1,0 +1,1091 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 538458,
+      "value": {
+        "options": [],
+        "question": "একটি বইয়ের মূল্য ২৪০ টাকা। এই মূল্য বই তৈরির খরচের ৮০% হলে, বই তৈরির খরচ কত টাকা?",
+        "solution": "আমরা জানি, [math]P = br[/math]\u003Cbr\u003Eবা, [math]240 = b \\times \\dfrac{80}{100}[/math]\u003Cbr\u003Eবা, [math]b = \\dfrac{240 \\times 100}{80}[/math]\u003Cbr\u003Eবা, [math]b = 300[/math]\u003Cbr\u003E∴ বই তৈরির খরচ [math]300[/math]\u003Cbr\u003E টাকা।",
+        "explanation": "যদি বইয়ের মূল্য [math]240[/math] টাকা যা খরচের [math]80\\%[/math], তাহলে আসল খরচ পাওয়া যাবে মূল্যকে [math]0.8[/math] দিয়ে ভাগ করে: [math]240 ÷ 0.8 = 300[/math] টাকা। কারণ [math]80\\%[/math] মানে খরচের [math]0.8[/math] গুণ, তাই মূল্যকে ভাগ করলে আসল খরচ মিলবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538458,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538485,
+      "value": {
+        "options": [],
+        "question": "১০% হারে ৫০০ টাকার ৫ বছরের চক্রবৃদ্ধি মুনাফা কত?",
+        "solution": "আমরা জানি, চক্রবৃদ্ধি মুনাফা,[math]C - P = P(1 + r)^n - P[/math]\u003Cbr\u003E [math]= 500 \\left(1 + \\dfrac{10}{100}\\right)^5 - 500[/math]\u003Cbr\u003E [math]= 500 \\left(\\dfrac{110}{100}\\right)^5 - 500[/math]\u003Cbr\u003E [math]= 805.255 - 500 = 305.255[/math]\u003Cbr\u003E∴ নির্ধারিত চক্রবৃদ্ধি মুনাফা [math]305.255[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: চক্রবৃদ্ধি সুদের সূত্র [math]A = P(1 + r)^n[/math] যেখানে [math]P=500, r=0.10, n=5[/math]; তাই [math]A = 500(1.1)^5 = 500 \\times 1.61051 = 805.255[/math]. মুনাফা = মোট পরিমাণ − মূলধন = [math]805.255 - 500 = 305.255 \\approx 305.26\\text{ টাকা}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538485,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538483,
+      "value": {
+        "options": [],
+        "question": "১০% হারে সরল মুনাফায় ২০০০ টাকার ৬ মাসে মুনাফা কত?",
+        "solution": "আমরা জানি, [math]I = Prn[/math]\u003Cbr\u003E [math]= 2000 \\times \\dfrac{10}{100} \\times \\dfrac{1}{2}[/math]\u003Cbr\u003E [math]= 100[/math]\u003Cbr\u003E টাকা∴ নির্ধারিত মুনাফা [math]100[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: সরল মুনাফার সূত্র [math]I = P \\times r \\times t[/math]. এখানে [math]P = 2000[/math], [math]r = 0.10[/math], [math]t = \\tfrac{1}{2}[/math] (৬ মাস), ফলে [math]I = 2000 \\times 0.10 \\times \\tfrac{1}{2} = 100[/math] টাকা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538483,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538481,
+      "value": {
+        "options": [],
+        "question": "২২৫০ টাকা মূল্যের একটি দ্রব্য ৫% লাভে বিক্রি হলে, বিক্রয়মূল্য কত?",
+        "solution": "দেওয়া আছে, ক্রয়মূল্য, [math]C = ২২৫০[/math]\u003Cbr\u003E টাকালাভের হার, [math]r = ৫% = \\dfrac{৫}{১০০} = \\dfrac{১}{২০}[/math]\u003Cbr\u003E∴ বিক্রয়মূল্য, [math]S = C(1 + r) = ২২৫০ \\left(1 + \\dfrac{1}{20}\\right)[/math]\u003Cbr\u003E [math]= ২২৫০ + \\dfrac{২০ + ১}{২০} = ২২৫০ \\times \\dfrac{২১}{২০} = ২৩৬২.৫[/math]\u003Cbr\u003E টাকা∴ নির্ধারিত বিক্রয়মূল্য [math]২৩৬২.৫[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: ৫% লাভ মানে মূল্যের [math]5\\%[/math] বাড়তি মূল্য, তাই লাভ = [math]2250\\times0.05=112.5[/math] টাকা। বিক্রয়মূল্য = ক্রয়মূল্য + লাভ = [math]2250+112.5=2362.5[/math] টাকা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538481,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538479,
+      "value": {
+        "options": [],
+        "question": "৩% হারে মুনাফায় ১০০০০ টাকার ৩ বছরের জন্য নির্ধারিত করা হলে চক্রবৃদ্ধি মুনাফা কত টাকা?",
+        "solution": "চক্রবৃদ্ধি মুনাফা = [math]C - P = P(1 + r)^n - P[/math]\u003Cbr\u003E [math]= 10000 \\left(1 + \\dfrac{3}{100} \\right)^3 - 10000[/math]\u003Cbr\u003E [math]= 10000 \\left(\\dfrac{103}{100} \\right)^3 - 10000[/math]\u003Cbr\u003E [math]= 927.27[/math]\u003Cbr\u003E টাকা∴ নির্ধারিত চক্রবৃদ্ধি মুনাফা [math]927.27[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: চক্রবৃদ্ধি মুনাফার সূত্র [math]CI = P\\big[(1+r)^n - 1\\big][/math], যেখানে [math]P=10000, r=0.03, n=3[/math]; তাই [math]CI = 10000\\big[(1.03)^3 - 1\\big] = 10000(1.092727 - 1) = 10000\\times 0.092727 = 927.27[/math] টাকা। এটি কারণ প্রতি বছরে মুনাফা মূলধনের সঙ্গে যোগ হয়ে পরবর্তী বছরে সেই বৃদ্ধি উপরেই মুনাফা গুনে মোট মুনাফা বাড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538479,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538476,
+      "value": {
+        "options": [],
+        "question": "৩৬০০ টাকার ক্রয় করে কোন দ্রব্য কত টাকায় বিক্রয় করলে ৪০% লাভ হবে?",
+        "solution": "৪০% লাভে বিক্রয়মূল্য = [math](100 + 40) = 140[/math]\u003Cbr\u003E টাকা (ধরা হয় ১০০ টাকার ক্ষেত্রে)∴ যদি ক্রয়মূল্য [math]100[/math]\u003Cbr\u003E টাকা হয়, বিক্রয়মূল্য [math]140[/math]\u003Cbr\u003E টাকা∴ [math]3600[/math]\u003Cbr\u003E টাকায় বিক্রয়মূল্য হবে,[math]= \\dfrac{140 \\times 3600}{100} = 5040[/math]\u003Cbr\u003E টাকা∴ নির্ধারিত বিক্রয়মূল্য [math]5040[/math]\u003Cbr\u003E টাকা",
+        "explanation": "৪০% লাভ মানে বিক্রয়মূল্য = ক্রয়মূল্য × (1 + 0.40) = ক্রয়মূল্য × 1.4, তাই [math]3600 × 1.4 = 5040[/math]. সুতরাং দ্রব্যটি ৫০৪০ টাকায় বিক্রি করলে ৪০% লাভ হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538476,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538474,
+      "value": {
+        "options": [],
+        "question": "৫% হারে মুনাফায় ১৫০০ টাকার ৩ বছরের সরল মুনাফা কত?",
+        "solution": "আমরা জানি, সরল মুনাফা, [math]I = Prn[/math]\u003Cbr\u003E [math]= 1500 \\times \\dfrac{5}{100} \\times 3[/math]\u003Cbr\u003E [math]= 225[/math]\u003Cbr\u003E টাকা∴ নির্ধারিত সরল মুনাফা [math]225[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: সরল মুনাফার সূত্র [math]S.I = \\frac{P \\times R \\times T}{100}[/math] ব্যবহার করে, যেখানে [math]P=1500,\\; R=5,\\; T=3[/math]. তাই [math]S.I = \\frac{1500\\times5\\times3}{100} = 225[/math] টাকা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538474,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538470,
+      "value": {
+        "options": [],
+        "question": "৬৫০ টাকার ৬ বছরের মুনাফা ২৭৩ টাকা হলে শতকরা বার্ষিক মুনাফার হার কত?",
+        "solution": "আমরা জানি, [math]I = Pnr[/math]\u003Cbr\u003Eবা, [math]r = \\dfrac{I}{Pn} = \\dfrac{273}{650 \\times 6} \\times 100[/math]\u003Cbr\u003E [math]= \\dfrac{273 \\times 100}{3900} = 7%[/math]\u003Cbr\u003E∴ নির্ধারিত শতকরা হার [math]7%[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সরল সুদের সূত্র অনুযায়ী মোট মুনাফা [math]=P\\times r\\times t/100[/math], তাই [math]650\\times r\\times 6/100=273[/math] এবং ফলস্বরূপ [math]r=\\dfrac{273\\times100}{650\\times6}=7\\%[/math।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538470,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538467,
+      "value": {
+        "options": [],
+        "question": "৭% হারে ৬৫০ টাকার মুনাফা ২৭৩ টাকা হতে কত বছরের সরল মুনাফা হবে?",
+        "solution": "আমরা জানি, [math]I = Prn[/math]\u003Cbr\u003Eবা, [math]n = \\dfrac{I}{Pr}[/math]\u003Cbr\u003E [math]= \\dfrac{273}{650 \\times \\dfrac{7}{100}}[/math]\u003Cbr\u003E [math]= \\dfrac{27300}{4550} = 6[/math]\u003Cbr\u003E∴ নির্ধারিত সময় [math]6[/math]\u003Cbr\u003E বছর",
+        "explanation": "ব্যাখ্যা: সরল মুনাফার সূত্র [math]SI = P \\times r \\times t /100[/math] প্রয়োগ করলে [math]273 = 650 \\times 7 \\times t /100[/math] হয়, তাই [math]t = \\dfrac{27300}{650 \\times 7} = 6[/math] বছর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538467,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538466,
+      "value": {
+        "options": [],
+        "question": "এক যাত্রী মোটরের প্রতিঘণ্টায় দাঁড় থেকে ঘণ্টায় ২ কিমি. বেশি যেতে পারে। মোটরের ঘণ্টায় ৩ কিমি. হলে, মোটরের অনুপূরক ৩২ কিমি. যেতে তার কত সময় লাগবে?",
+        "solution": "মোটরের বেগ ঘণ্টায় [math]৩[/math]\u003Cbr\u003E কিমি.মোটরের প্রতিঘণ্টায় দাঁড় থেকে প্রতি ঘণ্টায় যায় [math]২[/math]\u003Cbr\u003E কিমি.দাঁড়ের বেগ ঘণ্টায় [math](৩ + ২)[/math]\u003Cbr\u003E কিমি. বা [math]৫[/math]\u003Cbr\u003E কিমি.মোটরের অনুপূর কার্যকর বেগ = [math](৫ + ৩)[/math]\u003Cbr\u003E কিমি./ঘণ্টা= [math]৮[/math]\u003Cbr\u003E কিমি./ঘণ্টামনে করি, মোটরের অনুপূরক [math]৩২[/math]\u003Cbr\u003E কিমি. যেতে [math]x[/math]\u003Cbr\u003E ঘণ্টা সময় লাগে।∴ [math]8x = 32[/math]\u003Cbr\u003Eবা, [math]x = \\dfrac{32}{8}[/math]\u003Cbr\u003Eবা, [math]x = 4[/math]\u003Cbr\u003E∴ সুতরাং তার যেতে [math]৪[/math]\u003Cbr\u003E ঘণ্টা সময় লাগে।",
+        "explanation": "সমাধান: পথের উপরিজ্ঞান ধরে সময় = দূরত্ব ÷ গতি, তাই [math]t=\\dfrac{32}{3}[/math] ঘণ্টা = [math]10\\frac{2}{3}[/math] ঘণ্টা। ব্যাখ্যা: [math]\\frac{2}{3}[/math] ঘণ্টা = [math]\\frac{2}{3}\\times60=40[/math] মিনিট, অতএব মোট সময় = 10 ঘণ্টা 40 মিনিট।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538466,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538461,
+      "value": {
+        "options": [],
+        "question": "একটি দ্রব্যের ক্রয়মূল্য [math]P[/math] টাকা হলে, [math]x%[/math] লাভে এর বিক্রয়মূল্য কত?",
+        "solution": "এখানে, দ্রব্যের ক্রয়মূল্য = [math]P[/math]\u003Cbr\u003E টাকা[math]x%[/math]\u003Cbr\u003E লাভে বিক্রয়মূল্য = [math]P[/math]\u003Cbr\u003E টাকার [math]x%[/math]\u003Cbr\u003E এর বৃদ্ধি[math]= P + P \\times \\dfrac{x}{100}[/math]\u003Cbr\u003E [math]= P \\left(1 + \\dfrac{x}{100}\\right)[/math]\u003Cbr\u003E [math]= P \\left(\\dfrac{100 + x}{100} \\right)[/math]\u003Cbr\u003E∴ নির্ধারিত বিক্রয়মূল্য [math]= P \\left(\\dfrac{100 + x}{100} \\right)[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: লাভের পরিমাণ হলো ক্রয়মূল্যের [math]x\\%[/math], অর্থাৎ [math]\\frac{x}{100}P[/math]; বিক্রয়মূল্য হবে ক্রয়মূল্য যোগ করা সেই লাভ, ফলে বিক্রয়মূল্য [math]P+\\frac{x}{100}P=P\\left(1+\\frac{x}{100}\\right)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538461,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538386,
+      "value": {
+        "options": [],
+        "question": "সরলবার্ষিক ১০% হারে ১৭০০ টাকার ৭ বছরের মুনাফা কত?",
+        "solution": "আমরা জানি, [math]I = Pnr[/math]\u003Cbr\u003E [math]= 1700 \\times 7 \\times \\dfrac{10}{100}[/math]\u003Cbr\u003E [math]= 1190[/math]\u003Cbr\u003E∴ নির্ধারিত মুনাফা [math]1190[/math]\u003Cbr\u003E টাকা।",
+        "explanation": "সোজাসরি সুদের সূত্র হল [math]SI = \\dfrac{P \\times r \\times t}{100}[/math]. এখানে [math]P=1700, \\; r=10\\%, \\; t=7[/math] হলে [math]SI = \\dfrac{1700 \\times 10 \\times 7}{100} = 170 \\times 7 = 1190[/math]. অতএব মুনাফা = 1190 টাকা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538386,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538454,
+      "value": {
+        "options": [],
+        "question": "একটি বাস ৫২৫ কিমি যায় ৭ ঘণ্টায়। প্রতি ঘণ্টায় বাসটির গতি কত?",
+        "solution": "আমরা জানি, [math]d = vt[/math]\u003Cbr\u003Eবা, [math]v = \\dfrac{d}{t} = \\dfrac{525}{7} = 75[/math]\u003Cbr\u003E কিমি./ঘণ্টাএখানে,মোট সময়, [math]t = ৭[/math]\u003Cbr\u003E ঘণ্টামোট দূরত্ব, [math]d = ৫২৫[/math]\u003Cbr\u003E কিমিপ্রতি ঘণ্টায় গতি তথা [math]v = ?[/math]\u003Cbr\u003E∴ প্রতি ঘণ্টায় বাসের গতি হবে [math]৭৫[/math]\u003Cbr\u003E কিমি",
+        "explanation": "গতি = দুরত্ব ÷ সময়, তাই [math]525 \\div 7 = 75\\ (\\text{কিমি/ঘণ্টা})[/math]. অর্থাৎ বাসটি প্রতি ঘণ্টায় গড়ে 75 কিমি যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538454,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538450,
+      "value": {
+        "options": [],
+        "question": "একটি মূল্যের ৪৫০ টাকায় বিক্রয় করলে ২০% লাভ হয়। ক্রয়মূল্য কত?",
+        "solution": "এখানে, বিক্রয়মূল্য [math]= ৪৫০[/math]\u003Cbr\u003E টাকাআমরা জানি,[math]\\text{ক্রয়মূল্য} = \\dfrac{100 \\times \\text{বিক্রয়মূল্য}}{100 + \\text{লাভ}}[/math]\u003Cbr\u003E [math]= \\dfrac{100 \\times 450}{100 + 20} = \\dfrac{100 \\times 450}{120}[/math]\u003Cbr\u003E [math]= 375[/math]\u003Cbr\u003E টাকা∴ নির্ধারিত ক্রয়মূল্য [math]375[/math]\u003Cbr\u003E টাকা",
+        "explanation": "বিক্রয়ে ২০% লাভ মানে বিক্রয়মূল্য হলো ক্রয়মূল্যের [math]1.20[/math] গুণ, তাই ক্রয়মূল্য পাওয়া যাবে বিক্রয়মূল্যকে [math]1.20[/math] দিয়ে ভাগ করে: [math]CP=\\dfrac{450}{1.20}=375[/math] টাকা।  \nকারণ [math]20\\%[/math] বাড়লে ক্রয়মূল্য থেকে বিক্রয়মূল্য হয় [math]CP\\times(1+0.20)=CP\\times1.20[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538450,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538447,
+      "value": {
+        "options": [],
+        "question": "চক্রবৃদ্ধি মুনাফার ক্ষেত্রে সবৃদ্ধি মূল ও চক্রবৃদ্ধি মুনাফার সূত্র লেখ।",
+        "solution": "চক্রবৃদ্ধি মুনাফার ক্ষেত্রে সবৃদ্ধি মূল, [math]C = P(1 + r)^n[/math]\u003Cbr\u003Eএবং চক্রবৃদ্ধি মুনাফা = [math]P(1 + r)^n - P[/math]\u003Cbr\u003E; যেখানে,[math]C[/math]\u003Cbr\u003E = চক্রবৃদ্ধি মুনাফায় সবৃদ্ধি মূল[math]P[/math]\u003Cbr\u003E = মূলধনের পরিমাপ[math]r[/math]\u003Cbr\u003E = একক সময়ে একক মূলধনের মুনাফা[math]n[/math]\u003Cbr\u003E = নির্দিষ্ট সংখ্যক একক সময়",
+        "explanation": "চক্রবৃদ্ধি মুনাফার সাধারণ সূত্র: বার্ষিক না হলে প্রতি বছরে [math]n[/math] বার সংযোজিত হলে পরিমাণ (ম্যাচিউরড এমাউন্ট)\n[math]A = P\\left(1+\\dfrac{r}{n}\\right)^{nt}[/math]\nবার্ষিক সংযোজন হলে এটি সরলীকৃতভাবে [math]A = P(1+r)^t[/math] এবং চক্রবৃদ্ধি মুনাফা = [math]CI = A - P[/math]। কারণ প্রতি কালের শেষে মুনাফা মূলধনে যোগ হয়ে নতুন মূলধনটিই পরবর্তী কালের উপর বৃদ্ধি পায়, তাই প্রতিটি কালের বৃদ্ধি গুণিতক (growth factor) হিসেবে বারবার প্রযোজ্য হয়ে শক্তি (power) আকারে আসে; এখানে [math]r[/math] শব্দে দশমিক মান ও [math]t[/math] সময়ে বছর বোঝানো হয়েছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538447,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538443,
+      "value": {
+        "options": [],
+        "question": "প্রতীক পরিচিতিসহ বাস্তব সমস্যা সমাধানে সময় ও কাজ বিষয়ক সূত্রটি লেখ।",
+        "solution": "সময় ও কাজ বিষয়ক সূত্রটি হলো: [math]W = qnx[/math]\u003Cbr\u003E; যেখানে,[math]q[/math]\u003Cbr\u003E = প্রত্যেকে একক সময়ে কাজের যে অংশ সম্পন্ন করে।[math]n[/math]\u003Cbr\u003E = কাজ সম্পাদনকারীর সংখ্যা[math]x[/math]\u003Cbr\u003E = কাজের মোট সময়[math]W[/math]\u003Cbr\u003E = [math]n[/math]\u003Cbr\u003E জনে [math]x[/math]\u003Cbr\u003E সময়ে কাজের যে অংশ সম্পন্ন করে",
+        "explanation": "ব্যাখ্যা: সময় ও কাজের মৌলিক সূত্র হলো [math]W=R\\times T[/math], যেখানে [math]W[/math] হলো মোট কাজ, [math]R[/math] হলো একক সময়ে করা কাজের হার এবং [math]T[/math] হলো সময়। যদি একজন কোনো কাজ [math]t[/math] দিনে করে, তার হার [math]\\tfrac{1}{t}[/math]; একই দক্ষতার [math]n[/math] জন একসাথে কাজ করলে সময় হবে [math]\\tfrac{t}{n}[/math]; সাধারণভাবে সম্মিলিত হার যোগ হয়: [math]R_{total}=R_1+R_2+\\cdots[/math] এবং [math]T=\\dfrac{W}{R_{total}}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538443,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538439,
+      "value": {
+        "options": [],
+        "question": "প্রতীক পরিচিতিসহ সরল মুনাফা নির্ণয়ের সূত্রটি লেখ।",
+        "solution": "সরল মুনাফা, [math]I = Pnr[/math]\u003Cbr\u003E, যেখানে,[math]I[/math]\u003Cbr\u003E = [math]n[/math]\u003Cbr\u003E একক সময় পরে মুনাফা[math]P[/math]\u003Cbr\u003E = মূলধনের পরিমাণ[math]n[/math]\u003Cbr\u003E = নির্দিষ্ট সংখ্যক একক সময়[math]r[/math]\u003Cbr\u003E = একক সময়ে একক মূলধনের মুনাফা",
+        "explanation": "সরল মুনাফা নির্ণয়ের সূত্র: [math]SI = \\dfrac{PRT}{100}[/math] যেখানে [math]P[/math] = মূলধন, [math]R[/math] = বার্ষিক সুদের হার (শতকরা), [math]T[/math] = সময় (বছরে)। কারণ সরল মুনাফা মূলধন, হার ও সময়ের সরল অনুপাত; হার শতকরা হওয়ায় [math]100[/math] দিয়ে ভাগ করা হয়, এবং মোট পরিমাণ হল [math]A = P + SI[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538439,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538431,
+      "value": {
+        "options": [],
+        "question": "বার্ষিক ১২% হারে মুনাফায় ১২০০ টাকার মুনাফা কত বছরে ১৭২৮ টাকা হবে?",
+        "solution": "আমরা জানি, [math]I = Pnr[/math]\u003Cbr\u003Eবা, [math]n = \\dfrac{I}{Pr}[/math]\u003Cbr\u003E [math]= \\dfrac{1728}{1200 \\times \\dfrac{12}{100}}[/math]\u003Cbr\u003E [math]= \\dfrac{1728}{144}[/math]\u003Cbr\u003E [math]= 12[/math]\u003Cbr\u003E∴ নির্ধারিত সময় [math]12[/math]\u003Cbr\u003E বছর।",
+        "explanation": "ব্যাখ্যা: এখানে সরল মুনাফা ধরা হয়েছে এবং সূত্র [math]A=P(1+rn)[/math] প্রযোজ্য। যেহেতু [math]P=1200,\\ A=1728,\\ r=0.12[/math], তাই [math]1+0.12n=\\dfrac{1728}{1200}=1.44[/math] থেকে [math]0.12n=0.44\\Rightarrow n=\\dfrac{0.44}{0.12}=\\dfrac{11}{3}=3\\frac{2}{3}[/math] বছর বা 3 বছর 8 মাস।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538431,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538424,
+      "value": {
+        "options": [],
+        "question": "বার্ষিক শতকরা ৬ টাকা হারে চক্রবৃদ্ধি মুনাফায় ৬০০০ টাকার ৩ বছরের সবৃদ্ধিমূল্য নির্ধারণ কর।",
+        "solution": "আমরা জানি, চক্রবৃদ্ধি মুনাফায় সবৃদ্ধিমূল্য,[math]C = P(1 + r)^n[/math]\u003Cbr\u003E [math]= 6000 \\left(1 + \\dfrac{6}{100}\\right)^3[/math]\u003Cbr\u003E [math]= 6000 \\left(\\dfrac{106}{100}\\right)^3[/math]\u003Cbr\u003E [math]= 6000 \\times \\dfrac{106}{100} \\times \\dfrac{106}{100} \\times \\dfrac{106}{100}[/math]\u003Cbr\u003E [math]= 7146.096[/math]\u003Cbr\u003E∴ নির্ধারিত সবৃদ্ধিমূল্য [math]7146.096[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: বার্ষিক চক্রবৃদ্ধি মুনাফার সূত্র [math]A=P\\left(1+\\frac{r}{100}\\right)^n[/math]. এখানে [math]P=6000,\\; r=6,\\; n=3[/math] হওয়ায় [math]A=6000(1.06)^3=6000\\times1.191016=7146.096\\approx7146.10[/math] টাকা, তাই ৩ বছরের সবৃদ্ধিমূল্য প্রায় [math]7146.10[/math] টাকা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538424,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538418,
+      "value": {
+        "options": [],
+        "question": "বাস্তব সমস্যা সমাধানে নল ও চৌবাচ্চা বিষয়ক সূত্রটি প্রতীক পরিচিতিসহ লেখ।",
+        "solution": "পানি প্রবেশের ক্ষেত্রে, [math]Q(t) = Q_0 + qt[/math]\u003Cbr\u003Eএবং পানি বের হওয়ার ক্ষেত্রে, [math]Q(t) = Q_0 - qt[/math]\u003Cbr\u003E; যেখানে,[math]Q_0[/math]\u003Cbr\u003E = নলের মুখ খুলে দেওয়ার সময় চৌবাচ্চায় জমা পানির পরিমাণ[math]q[/math]\u003Cbr\u003E = প্রতি একক সময়ে নল দিয়ে যে পানি প্রবেশ করে অথবা বের হয়[math]t[/math]\u003Cbr\u003E = অতিক্রান্ত সময়[math]Q(t)[/math]\u003Cbr\u003E = [math]t[/math]\u003Cbr\u003E সময়ে চৌবাচ্চায় পানির পরিমাণ",
+        "explanation": "নির্দিষ্ট প্রতীক ধরে ধরলে: যদি একটি নল ট্যাংকি ভরতে সময় [math]a[/math] ঘণ্টা নেয়, আরেকটি নল নেয় [math]b[/math] ঘণ্টা, এবং চৌবাচ্চা (খালি করে) নেয় [math]c[/math] ঘণ্টা, তবে একক-ঘণ্টায় কাজের হার (ট্যাংক প্রতি ঘণ্টা) হচ্ছে [math]\\dfrac{1}{a}+\\dfrac{1}{b}-\\dfrac{1}{c}[/math]; এখানে ধনাত্মক সদস্যগুলো ভরক নলের হার এবং ঋণাত্মক সদস্য চৌবাচ্চার খালি করার হার। ট্যাংকি ভরতে মোট প্রয়োজনীয় সময় হবে [math]\\dfrac{1}{\\dfrac{1}{a}+\\dfrac{1}{b}-\\dfrac{1}{c}}[/math], بشرطِ أن يكون নেট হার ধনাত্মক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538418,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538409,
+      "value": {
+        "options": [],
+        "question": "রাখেল ও রাহাত ১ দিনে একত্রে একটি কাজ শেষ করতে পারে। [math]d[/math] দিনে রাখেল [math]\\dfrac{1}{15}[/math] অংশ ও রাহাত [math]\\dfrac{1}{10}[/math] অংশ করে, [math]d[/math] এর মান কত?",
+        "solution": "প্রশ্নমতে, [math]\\dfrac{d}{15} + \\dfrac{d}{10} = 1[/math]\u003Cbr\u003Eবা, [math]d \\left(\\dfrac{1}{15} + \\dfrac{1}{10} \\right) = 1[/math]\u003Cbr\u003Eবা, [math]d \\left(\\dfrac{2 + 3}{30} \\right) = 1[/math]\u003Cbr\u003Eবা, [math]d \\times \\dfrac{1}{6} = 1[/math]\u003Cbr\u003E∴ [math]d = 6[/math]\u003Cbr\u003Eনির্ধারিত [math]d[/math]\u003Cbr\u003E এর মান [math]৬[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কাজের হার যোগ হয়, তাই রাখেলের দৈনিক হার [math]\\dfrac{1/15}{d}=\\dfrac{1}{15d}[/math] এবং রাহাতের দৈনিক হার [math]\\dfrac{1/10}{d}=\\dfrac{1}{10d}[/math]; এদের যোগফল একটি কাজের জন্য [math]1[/math] হওয়া উচিত। তাই [math]\\dfrac{1}{15d}+\\dfrac{1}{10d}=1\\Rightarrow \\dfrac{5}{30d}=1\\Rightarrow d=\\dfrac{1}{6}\u003C/math\u003E (অর্থাৎ [math]4[/math] ঘন্টা)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538409,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538399,
+      "value": {
+        "options": [],
+        "question": "শতকরা বার্ষিক ৪ টাকা হারে সরল মুনাফায় কত টাকা ১৫ বছরে সবৃদ্ধিমূল্য ১০৪০ টাকা হবে?",
+        "solution": "ধরি, মূলধন = [math]P[/math]\u003Cbr\u003E টাকা∴ সবৃদ্ধিমূল্য = [math]P + I[/math]\u003Cbr\u003E টাকাপ্রশ্নমতে, সবৃদ্ধিমূল্য = [math]1040[/math]\u003Cbr\u003E∴ [math]P(1 + nr) = 1040[/math]\u003Cbr\u003Eবা, [math]P \\left(1 + 15 \\times \\dfrac{4}{100} \\right) = 1040[/math]\u003Cbr\u003Eবা, [math]P \\left(1 + \\dfrac{3}{5} \\right) = 1040[/math]\u003Cbr\u003Eবা, [math]P = \\dfrac{1040}{\\dfrac{8}{5}} = 1040 \\times \\dfrac{5}{8} = 650[/math]\u003Cbr\u003E∴ নির্ধারিত মূলধন [math]650[/math]\u003Cbr\u003E টাকা",
+        "explanation": "ব্যাখ্যা: সরল মুনাফায় [math]A=P(1+rt)[/math], তাই [math]P=\\frac{A}{1+rt}=\\frac{1040}{1+0.04\\times15}=\\frac{1040}{1.6}=650[/math] টাকা। এটা সঠিক কারণ মুনাফা [math]650\\times0.04\\times15=390[/math] টাকা এবং [math]650+390=1040[/math] হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538399,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12929&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12929&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12929&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2200,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

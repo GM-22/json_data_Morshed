@@ -1,0 +1,2339 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 538444,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + y^2 = 4xy[/math] হলে, প্রমাণ কর যে, [math]\\dfrac{x^2}{y^2} + \\dfrac{y^2}{x^2} = 14[/math]",
+        "solution": "এখানে, [math]x^2 + y^2 = 4xy[/math]\u003Cbr\u003Eবামপক্ষ = [math]\\dfrac{x^2}{y^2} + \\dfrac{y^2}{x^2}[/math]\u003Cbr\u003E\\hspace{3em} = [math]\\left(\\dfrac{x}{y}\\right)^2 + \\left(\\dfrac{y}{x}\\right)^2[/math]\u003Cbr\u003E\\hspace{3em} = [math]\\left(\\dfrac{x}{y} + \\dfrac{y}{x}\\right)^2 - 2[/math]\u003Cbr\u003E\\hspace{3em} = [math]\\left(\\dfrac{x^2 + y^2}{xy}\\right)^2 - 2[/math]\u003Cbr\u003E\\hspace{3em} = [math]\\left(\\dfrac{4xy}{xy}\\right)^2 - 2[/math]\u003Cbr\u003E\\hspace{3em} = [math](4)^2 - 2 = 16 - 2 = 14[/math]\u003Cbr\u003E∴ [math]\\dfrac{x^2}{y^2} + \\dfrac{y^2}{x^2} = 14[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "প্রথমে [math]y\\neq0[/math] ধরে সমীকরণকে [math]y^2[/math] দিয়ে ভাগ করলে [math]\\left(\\dfrac{x}{y}\\right)^2-4\\left(\\dfrac{x}{y}\\right)+1=0[/math] হয়; এখানে [math]t=\\dfrac{x}{y}[/math] নিলে [math]t^2-4t+1=0[/math]. এ থেকে [math]t+\\dfrac{1}{t}=4[/math] পাওয়া যায়, তাই [math]t^2+\\dfrac{1}{t^2}=(t+\\dfrac{1}{t})^2-2=16-2=14[/math], অর্থাৎ [math]\\dfrac{x^2}{y^2}+\\dfrac{y^2}{x^2}=14[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538444,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538371,
+      "value": {
+        "options": [],
+        "question": "[math]x = \\sqrt{5} + \\sqrt{3}[/math] হলে, [math]\\dfrac{2}{x}[/math] এর মান নির্ণয় কর।",
+        "solution": "এখন, [math]x = \\sqrt{5} + \\sqrt{3}[/math]\u003Cbr\u003E∴ [math]\\dfrac{2}{x} = \\dfrac{2}{\\sqrt{5} + \\sqrt{3}}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{2}{\\sqrt{5} + \\sqrt{3}} \\cdot \\dfrac{\\sqrt{5} - \\sqrt{3}}{\\sqrt{5} - \\sqrt{3}}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{2(\\sqrt{5} - \\sqrt{3})}{(\\sqrt{5})^2 - (\\sqrt{3})^2}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{2(\\sqrt{5} - \\sqrt{3})}{5 - 3}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\sqrt{5} - \\sqrt{3}[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]\\sqrt{5} - \\sqrt{3}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]\\frac{2}{x}=\\frac{2}{\\sqrt5+\\sqrt3}=\\frac{2(\\sqrt5-\\sqrt3)}{(\\sqrt5)^2-(\\sqrt3)^2}=\\frac{2(\\sqrt5-\\sqrt3)}{5-3}=\\sqrt5-\\sqrt3[/math]. কনজুগেট [math]\\sqrt5-\\sqrt3[/math] দ্বারা গুণ করলে ভগ্নাংশের ভগ্নশেষ থেকে.IRRATIONAL অংশ মুছে গিয়ে সরল ফল পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538371,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538375,
+      "value": {
+        "options": [],
+        "question": "[math]a + b = 10[/math], [math]ab = 15[/math] হলে, [math]a - b[/math] কত?",
+        "solution": "দেওয়া আছে, [math]a + b = 10[/math]\u003Cbr\u003E, [math]ab = 15[/math]\u003Cbr\u003Eআমরা জানি, [math](a - b)^2 = (a + b)^2 - 4ab[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](10)^2 - 4 \\times 15[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]100 - 60 = 40[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E ∴ [math]a - b = \\sqrt{40} = 2\\sqrt{10}[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]2\\sqrt{10}[/math]\u003Cbr\u003E",
+        "explanation": "[math](a-b)^2=(a+b)^2-4ab[/math] ব্যবহার করে, [math](a-b)^2=10^2-4\\cdot15=100-60=40[/math]. তাই [math]a-b=\\pm\\sqrt{40}=\\pm2\\sqrt{10}[/math], চিহ্ন কোনটি হবে তা নির্ভর করে কোনটি বড়—[math]a[/math] না [math]b[/math]—এর উপর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538375,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538376,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math]ab = \\left(\\dfrac{a + b}{2}\\right)^2 - \\left(\\dfrac{a - b}{2}\\right)^2[/math]।",
+        "solution": "আমরা জানি, [math](a + b)^2 = a^2 + 2ab + b^2[/math]\u003Cbr\u003E .......... (i)\\hspace{4em} এবং [math](a - b)^2 = a^2 - 2ab + b^2[/math]\u003Cbr\u003E .......... (ii)(i) নং হতে (ii) নং বিয়োগ করে পাই,[math]\\hspace{2em}[/math]\u003Cbr\u003E [math](a + b)^2 - (a - b)^2 = a^2 + 2ab + b^2 - (a^2 - 2ab + b^2)[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math](a + b)^2 - (a - b)^2 = a^2 + 2ab + b^2 - a^2 + 2ab - b^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]4ab = (a + b)^2 - (a - b)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]ab = \\dfrac{(a + b)^2 - (a - b)^2}{4}[/math]\u003Cbr\u003E∴ [math]ab = \\left(\\dfrac{a + b}{2}\\right)^2 - \\left(\\dfrac{a - b}{2}\\right)^2[/math]\u003Cbr\u003E (দেখানো হলো)",
+        "explanation": "ব্যাখ্যা: বামপ্রকাশে [math]\\left(\\dfrac{a+b}{2}\\right)^2-\\left(\\dfrac{a-b}{2}\\right)^2=\\dfrac{(a+b)^2-(a-b)^2}{4}=\\dfrac{(a^2+2ab+b^2)-(a^2-2ab+b^2)}{4}=\\dfrac{4ab}{4}=ab[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538376,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538383,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math]2(a^2 + b^2) = (a + b)^2 + (a - b)^2[/math]।",
+        "solution": "আমরা জানি, [math](a + b)^2 = a^2 + 2ab + b^2[/math]\u003Cbr\u003E .......... (i)\\hspace{4em} এবং [math](a - b)^2 = a^2 - 2ab + b^2[/math]\u003Cbr\u003E .......... (ii)(i) ও (ii) নং যোগ করে পাই,[math]\\hspace{2em}[/math]\u003Cbr\u003E [math](a + b)^2 + (a - b)^2 = a^2 + 2ab + b^2 + a^2 - 2ab + b^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math](a + b)^2 + (a - b)^2 = 2a^2 + 2b^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math](a + b)^2 + (a - b)^2 = 2(a^2 + b^2)[/math]\u003Cbr\u003E∴ [math]2(a^2 + b^2) = (a + b)^2 + (a - b)^2[/math]\u003Cbr\u003E (দেখানো হলো)",
+        "explanation": "দেখুন ডানপার্শ্বকে প্রসারিত করলে [math](a+b)^2+(a-b)^2 = (a^2+2ab+b^2)+(a^2-2ab+b^2)[/math], এখানে [math]+2ab[/math] এবং [math]-2ab[/math] একে অপরকে বাতিল করে দিলে ফল পাওয়া যায় [math]=2a^2+2b^2=2(a^2+b^2)[/math], তাই সমীকরণটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538383,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538385,
+      "value": {
+        "options": [],
+        "question": "[math]a + b = \\sqrt{7}[/math] এবং [math]a - b = \\sqrt{3}[/math] হলে, [math]ab[/math] এর মান কত?",
+        "solution": "দেওয়া আছে, [math]a + b = \\sqrt{7}[/math]\u003Cbr\u003E এবং [math]a - b = \\sqrt{3}[/math]\u003Cbr\u003Eআমরা জানি, [math]ab = \\left(\\dfrac{a + b}{2}\\right)^2 - \\left(\\dfrac{a - b}{2}\\right)^2[/math]\u003Cbr\u003E∴ [math]ab = \\left(\\dfrac{\\sqrt{7}}{2}\\right)^2 - \\left(\\dfrac{\\sqrt{3}}{2}\\right)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{7}{4} - \\dfrac{3}{4} = \\dfrac{4}{4} = 1[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]1[/math]\u003Cbr\u003E",
+        "explanation": "যদি [math]a+b=\\sqrt{7}[/math] এবং [math]a-b=\\sqrt{3}[/math], তবে স্কয়ার করে পাওয়া যায় [math](a+b)^2=7[/math] এবং [math](a-b)^2=3[/math]. দুইটির পার্থক্য করলে [math](a+b)^2-(a-b)^2=4ab=7-3=4[/math], তাই [math]ab=1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538385,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538393,
+      "value": {
+        "options": [],
+        "question": "[math]a + \\dfrac{1}{a} = 0[/math] হলে, [math]\\sqrt{2\\left(\\sqrt{a} + \\dfrac{1}{\\sqrt{a}}\\right)}[/math] এর মান কত?",
+        "solution": "দেওয়া আছে, [math]a + \\dfrac{1}{a} = 0[/math]\u003Cbr\u003Eএখন, [math]\\left(\\sqrt{a} + \\dfrac{1}{\\sqrt{a}}\\right)^2 = (\\sqrt{a})^2 + \\left(\\dfrac{1}{\\sqrt{a}}\\right)^2 + 2\\sqrt{a} \\cdot \\dfrac{1}{\\sqrt{a}}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a + \\dfrac{1}{a} + 2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]0 + 2 = 2[/math]\u003Cbr\u003E∴ [math]\\sqrt{a} + \\dfrac{1}{\\sqrt{a}} = \\sqrt{2}[/math]\u003Cbr\u003E∴ প্রদত্ত রাশি = [math]\\sqrt{2} \\cdot \\sqrt{2} = 2[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]b=\\sqrt{a}[/math] নিলে [math]b^2+\\dfrac{1}{b^2}=0[/math], তাই [math](b+\\dfrac{1}{b})^2=b^2+\\dfrac{1}{b^2}+2=2[/math] থেকে [math]b+\\dfrac{1}{b}=\\pm\\sqrt{2}[/math]. বাস্তব ধনাত্মক শাখা নিলে [math]b+\\dfrac{1}{b}=\\sqrt{2}[/math] এবং প্রদত্ত مقدار [math]\\sqrt{2\\sqrt{2}}=2^{3/4}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538393,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538394,
+      "value": {
+        "options": [],
+        "question": "[math]p + q + r = 13[/math] এবং [math]p^2 + q^2 + r^2 = 69[/math] হলে, [math]pq + qr + rp[/math] কত?",
+        "solution": "আমরা জানি,[math]\\hspace{2em}[/math]\u003Cbr\u003E [math](p + q + r)^2 = p^2 + q^2 + r^2 + 2(pq + qr + rp)[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]13^2 = 69 + 2(pq + qr + rp)[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]169 = 69 + 2(pq + qr + rp)[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]100 = 2(pq + qr + rp)[/math]\u003Cbr\u003E∴ [math]pq + qr + rp = \\dfrac{100}{2} = 50[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আমরা জানি [math](p+q+r)^2 = p^2+q^2+r^2 + 2(pq+qr+rp)[/math]. এখানে [math]13^2=69+2S[/math] (যেখানে [math]S=pq+qr+rp[/math]), ফলে [math]169=69+2S\\Rightarrow 2S=100[/math] এবং তাই [math]S=50[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538394,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538401,
+      "value": {
+        "options": [],
+        "question": "[math]a + b + c + d[/math] এর বর্গ কত?",
+        "solution": "[math]a + b + c + d[/math]\u003Cbr\u003E এর বর্গ = [math](a + b + c + d)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]{(a + b) + (c + d)}^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](a + b)^2 + 2(a + b)(c + d) + (c + d)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a^2 + b^2 + 2ab + 2ac + 2ad + 2bc + 2bd + c^2 + d^2 + 2cd[/math]\u003Cbr\u003E∴ [math]a^2 + b^2 + c^2 + d^2 + 2ab + 2ac + 2ad + 2bc + 2bd + 2cd[/math]\u003Cbr\u003E",
+        "explanation": "[math](a+b+c+d)^2 = a^2 + b^2 + c^2 + d^2 + 2(ab+ac+ad+bc+bd+cd)[/math]\n\nকারণ [math](a+b+c+d)^2 = (a+b+c+d)(a+b+c+d)[/math] গুণ করলে প্রতিটি পদ তার নিজের সাথে বর্গ হিসেবে আসে এবং প্রতিটি ভিন্ন যুগল দুইবার আসে, তাই যুগলগুলোর যোগফল দ্বিগুণ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538401,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538405,
+      "value": {
+        "options": [],
+        "question": "[math]2x + \\dfrac{1}{x} = 3[/math] হলে, [math]4x^2 + \\dfrac{1}{x^2}[/math] এর মান কত?",
+        "solution": "দেওয়া আছে, [math]2x + \\dfrac{1}{x} = 3[/math]\u003Cbr\u003E∴ উভয় পাশের বর্গ করি:[math](2x + \\dfrac{1}{x})^2 = 9[/math]\u003Cbr\u003E∴ [math]4x^2 + \\dfrac{1}{x^2} + 4 = 9[/math]\u003Cbr\u003E∴ [math]4x^2 + \\dfrac{1}{x^2} = 9 - 4 = 5[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]5[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math](2x+\\frac{1}{x})^2=4x^2+\\frac{1}{x^2}+4[/math], তাই [math]4x^2+\\frac{1}{x^2}=(2x+\\frac{1}{x})^2-4=3^2-4=5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538405,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538410,
+      "value": {
+        "options": [],
+        "question": "[math]4x + 3y[/math] এর বর্গ কত?",
+        "solution": "[math]4x + 3y[/math]\u003Cbr\u003E এর বর্গ = [math](4x + 3y)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](4x)^2 + 2 \\cdot 4x \\cdot 3y + (3y)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]16x^2 + 24xy + 9y^2[/math]\u003Cbr\u003E∴ [math](2x + 3y)[/math]\u003Cbr\u003E এর বর্গ = [math]16x^2 + 24xy + 9y^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: যোগের বর্গের সূত্র [math](a+b)^2 = a^2 + 2ab + b^2[/math] প্রয়োগ করে [math]a=4x,\\; b=3y[/math] নিলে [math](4x+3y)^2 = (4x)^2 + 2(4x)(3y) + (3y)^2 = 16x^2 + 24xy + 9y^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538410,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538412,
+      "value": {
+        "options": [],
+        "question": "[math]2x - \\dfrac{1}{3x} = 2[/math] হলে, প্রমাণ কর যে, [math]3x - \\dfrac{1}{2x} = 3[/math]",
+        "solution": "দেওয়া আছে, [math]2x - \\dfrac{1}{3x} = 2[/math]\u003Cbr\u003Eউভয় পাশে [math]3x[/math]\u003Cbr\u003E দ্বারা গুণ করি:[math]\\hspace{2em}[/math]\u003Cbr\u003E [math]3x(2x - \\dfrac{1}{3x}) = 3x \\cdot 2x - 1 = 6x^2 - 1[/math]\u003Cbr\u003Eআবার, [math]2x \\cdot 3x = 6x^2[/math]\u003Cbr\u003Eএবার, উভয় পাশে [math]2[/math]\u003Cbr\u003E দিয়ে গুণ করে পাই:[math]\\hspace{2em}[/math]\u003Cbr\u003E [math]2x(3x - \\dfrac{1}{2x}) = 6x^2 - 1[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E ∴ [math]3x - \\dfrac{1}{2x} = 3[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "ব্যাখ্যা: দেওয়া সমীকরণ [math]2x-\\frac{1}{3x}=2[/math] কে [math]3x[/math] দ্বারা গুণ করলে পাওয়া যায় [math]6x^2-1=6x[/math]. এখন দুই পাশে [math]2x[/math] দিয়ে ভাগ করলে বামপাশ হয় [math]\\frac{6x^2-1}{2x}=3x-\\frac{1}{2x}[/math] এবং ডানপাশ হয় [math]\\frac{6x}{2x}=3[/math], ফলে [math]3x-\\frac{1}{2x}=3[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538412,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538417,
+      "value": {
+        "options": [],
+        "question": "[math]3c - 2d[/math] এর বর্গ নির্ণয় কর।",
+        "solution": "[math]3c - 2d[/math]\u003Cbr\u003E এর বর্গ = [math](3c - 2d)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](3c)^2 - 2 \\cdot 3c \\cdot 2d + (2d)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]9c^2 - 12cd + 4d^2[/math]\u003Cbr\u003E∴ [math]3c - 2d[/math]\u003Cbr\u003E এর বর্গ = [math]9c^2 - 12cd + 4d^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দ্বিপদীয় বর্গ সূত্র [math](a-b)^2 = a^2 - 2ab + b^2[/math] প্রয়োগ করে, যেখানে [math]a=3c,\\, b=2d[/math] নিলে ফল হয় [math](3c-2d)^2 = 9c^2 - 12cd + 4d^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538417,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538420,
+      "value": {
+        "options": [],
+        "question": "[math]\\left(2a + \\dfrac{2}{a}\\right)^2 = 12[/math] হলে, প্রমাণ কর যে, [math]a + \\dfrac{1}{a} = \\sqrt{3}[/math]",
+        "solution": "দেওয়া আছে, [math]\\left(2a + \\dfrac{2}{a}\\right)^2 = 12[/math]\u003Cbr\u003E∴ [math]2a + \\dfrac{2}{a} = \\sqrt{12} = 2\\sqrt{3}[/math]\u003Cbr\u003E∴ [math]2\\left(a + \\dfrac{1}{a}\\right) = 2\\sqrt{3}[/math]\u003Cbr\u003E∴ [math]a + \\dfrac{1}{a} = \\sqrt{3}[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "সমাধান: প্রদত্ত সমীকরণকে 4-এ ভাগ করলে পাই [math](a+\\frac{1}{a})^2=3[/math]. সেখান থেকে [math]a+\\frac{1}{a}=\\pm\\sqrt{3}[/math]. কিন্তু মূল সমীকরণে [math]2a+\\frac{2}{a}=\\pm 2\\sqrt{3}[/math] হওয়ায় এবং যদি বাম পাশ ধনাত্মক ধরা হয় (অর্থাৎ [math]2a+\\frac{2}{a}\u003E0[/math] বা সাধারণভাবে a ধনাত্মক হলে), তাহলে [math]a+\\frac{1}{a}=\\sqrt{3}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538420,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538423,
+      "value": {
+        "options": [],
+        "question": "[math]1110[/math] এর বর্গ কত?",
+        "solution": "[math]1110[/math]\u003Cbr\u003E এর বর্গ = [math](1110)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](1000 + 100 + 10)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](1000)^2 + (100)^2 + (10)^2 + 2 \\times 1000 \\times 100 + 2 \\times 100 \\times 10 + 2 \\times 10 \\times 1000[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]1000000 + 10000 + 100 + 200000 + 2000 + 20000[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]1232100[/math]\u003Cbr\u003E∴ [math]1110[/math]\u003Cbr\u003E এর বর্গ [math]1232100[/math]\u003Cbr\u003E।",
+        "explanation": "ব্যাখ্যা: [math]1110^2 = (111\\times10)^2 = 111^2\\times10^2 = 12321\\times100 = 1232100[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538423,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538428,
+      "value": {
+        "options": [],
+        "question": "যদি [math]\\dfrac{x}{y} = \\dfrac{2}{3}[/math] হয়, তবে দেখাও যে, [math]\\dfrac{6x + y}{3x + 2y} = \\dfrac{5}{4}[/math]",
+        "solution": "দেওয়া আছে, [math]\\dfrac{x}{y} = \\dfrac{2}{3}[/math]\u003Cbr\u003E∴ ধরি, [math]x = 2[/math]\u003Cbr\u003E, [math]y = 3[/math]\u003Cbr\u003Eবামপক্ষ = [math]\\dfrac{6x + y}{3x + 2y} = \\dfrac{6 \\cdot 2 + 3}{3 \\cdot 2 + 2 \\cdot 3} = \\dfrac{15}{12} = \\dfrac{5}{4}[/math]\u003Cbr\u003E∴ [math]\\dfrac{6x + y}{3x + 2y} = \\dfrac{5}{4}[/math]\u003Cbr\u003E (দেখানো হলো)",
+        "explanation": "ব্যাখ্যা: [math]\\dfrac{x}{y}=\\dfrac{2}{3}[/math] থেকে ধরি [math]x=2k,\\;y=3k[/math] যেখানে [math]k\\ne0[/math]. তখন [math]6x+y=6(2k)+3k=15k[/math] এবং [math]3x+2y=3(2k)+2(3k)=12k[/math], সুতরাং [math]\\dfrac{6x+y}{3x+2y}=\\dfrac{15k}{12k}=\\dfrac{5}{4}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538428,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538429,
+      "value": {
+        "options": [],
+        "question": "[math](x + y)^2[/math] এর সাথে কত যোগ করলে যোগফল [math](x - y)^2[/math] হবে?",
+        "solution": "[math](x + y)^2 = x^2 + 2xy + y^2[/math]\u003Cbr\u003E [math](x - y)^2 = x^2 - 2xy + y^2[/math]\u003Cbr\u003E∴ [math](x - y)^2[/math]\u003Cbr\u003E পেতে [math](x + y)^2[/math]\u003Cbr\u003E-এর সাথে [math](-4xy)[/math]\u003Cbr\u003E যোগ করতে হবে∴ [math](x + y)^2 + (-4xy) = (x - y)^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রসারণ করলে [math](x+y)^2=x^2+2xy+y^2[/math] এবং [math](x-y)^2=x^2-2xy+y^2[/math], তাই তাদের পার্থক্য হল [math](x-y)^2-(x+y)^2=-4xy[/math]. অতএব [math](x+y)^2[/math] এর সাথে যোগ করতে হবে [math]-4xy\u003C/math\u003E (অর্থাৎ বিয়োগ করতে হবে [math]4xy[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538429,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538438,
+      "value": {
+        "options": [],
+        "question": "[math]y + \\dfrac{1}{y} = 5[/math] হলে, প্রমাণ কর যে, [math]\\dfrac{y}{y^2 - 3y + 1} = \\dfrac{1}{2}[/math]",
+        "solution": "এখানে, [math]y + \\dfrac{1}{y} = 5[/math]\u003Cbr\u003E∴ [math]\\dfrac{y^2 + 1}{y} = 5[/math]\u003Cbr\u003E∴ [math]y^2 + 1 = 5y[/math]\u003Cbr\u003Eএখন,\\hspace{1em} বামপক্ষ = [math]\\dfrac{y}{y^2 - 3y + 1}[/math]\u003Cbr\u003E\\hspace{1em} = [math]\\dfrac{y}{y^2 + 1 - 3y}[/math]\u003Cbr\u003E\\hspace{1em} = [math]\\dfrac{y}{5y - 3y} = \\dfrac{y}{2y} = \\dfrac{1}{2}[/math]\u003Cbr\u003E∴ [math]\\dfrac{y}{y^2 - 3y + 1} = \\dfrac{1}{2}[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "ব্যাখ্যা: [math]y+\\frac{1}{y}=5[/math] হলে [math]y\\ne0[/math] এবং উভয় পাশে [math]y[/math] গুণ করলে পাই [math]y^2+1=5y[/math], অর্থাৎ [math]y^2-5y+1=0[/math]. তখন [math]y^2-3y+1=(y^2-5y+1)+2y=0+2y=2y[/math] হয়, ফলে [math]\\frac{y}{y^2-3y+1}=\\frac{y}{2y}=\\frac{1}{2}[/math] (যে শর্তে [math]y\\ne0[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538438,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538440,
+      "value": {
+        "options": [],
+        "question": "[math]-6x + 2y[/math] এর বর্গ কত?",
+        "solution": "[math]-6x + 2y[/math]\u003Cbr\u003E এর বর্গ = [math](-6x + 2y)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](-6x)^2 + 2 \\cdot (-6x) \\cdot 2y + (2y)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]36x^2 - 24xy + 4y^2[/math]\u003Cbr\u003E∴ [math]-6x + 2y[/math]\u003Cbr\u003E এর বর্গ = [math]36x^2 - 24xy + 4y^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বর্গ করার সূত্র [math](a+b)^2=a^2+2ab+b^2[/math] প্রয়োগ করুন। এখানে [math]a=-6x,\\, b=2y[/math] হলে [math](-6x+2y)^2=36x^2-24xy+4y^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538440,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538348,
+      "value": {
+        "options": [],
+        "question": "[math]x + \\dfrac{1}{x} = 2\\sqrt{2}[/math] (যেখানে [math]x \u003E 0[/math]) হলে, [math]x - \\dfrac{1}{x}[/math] এর মান কত?",
+        "solution": "দেওয়া আছে, [math]x + \\dfrac{1}{x} = 2\\sqrt{2}[/math]\u003Cbr\u003E, যেখানে [math]x \u003E 0[/math]\u003Cbr\u003Eএখন, [math]\\left(x - \\dfrac{1}{x}\\right)^2 = \\left(x + \\dfrac{1}{x}\\right)^2 - 4 \\cdot x \\cdot \\dfrac{1}{x}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](2\\sqrt{2})^2 - 4 = 8 - 4 = 4[/math]\u003Cbr\u003E∴ [math]x - \\dfrac{1}{x} = \\sqrt{4} = 2[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math](x-\\dfrac{1}{x})^2=(x+\\dfrac{1}{x})^2-4=(2\\sqrt{2})^2-4=8-4=4[/math], তাই [math]x-\\dfrac{1}{x}=\\pm2[/math]. এছাড়া [math]x=\\sqrt{2}\\pm1[/math] হলে [math]x=\\sqrt{2}+1\u003E1[/math]-এর জন্য [math]x-\\dfrac{1}{x}=2[/math] এবং [math]x=\\sqrt{2}-1\u003C1[/math]-এর জন্য [math]x-\\dfrac{1}{x}=-2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538348,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538366,
+      "value": {
+        "options": [],
+        "question": "যদি [math]a = 3 - 2\\sqrt{2}[/math] হয়, তবে [math]\\dfrac{1}{a}[/math] নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]a = 3 - 2\\sqrt{2}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E ∴ [math]\\dfrac{1}{a} = \\dfrac{1}{3 - 2\\sqrt{2}}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{1}{3 - 2\\sqrt{2}} \\cdot \\dfrac{3 + 2\\sqrt{2}}{3 + 2\\sqrt{2}}[/math]\u003Cbr\u003E (লব ও হরকে [math]3 + 2\\sqrt{2}[/math]\u003Cbr\u003E দ্বারা গুণ করি)[math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{3 + 2\\sqrt{2}}{(3)^2 - (2\\sqrt{2})^2}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{3 + 2\\sqrt{2}}{9 - 8}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]3 + 2\\sqrt{2}[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{a} = 3 + 2\\sqrt{2}[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]3 + 2\\sqrt{2}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]a=3-2\\sqrt{2}[/math]টি [math](\\sqrt{2}-1)^2[/math]-এর সমান কারণ [math](\\sqrt{2}-1)^2=2-2\\sqrt{2}+1=3-2\\sqrt{2}[/math]. তাই [math]\\dfrac{1}{a}=\\dfrac{1}{(\\sqrt{2}-1)^2}=\\bigg(\\dfrac{1}{\\sqrt{2}-1}\\bigg)^2=(\\sqrt{2}+1)^2=3+2\\sqrt{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538366,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538361,
+      "value": {
+        "options": [],
+        "question": "যদি [math]y - \\dfrac{2}{y} = 2a[/math] হয়, তবে [math]\\dfrac{6a}{y^2 - 2ay - 1}[/math] এর মান নির্ণয় কর।",
+        "solution": "এখন, [math]y - \\dfrac{2}{y} = 2a[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]\\dfrac{y^2 - 2}{y} = 2a[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]y^2 - 2 = 2ay[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E ∴ [math]y^2 - 2ay = 2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E ∴ [math]y^2 - 2ay - 1 = 1[/math]\u003Cbr\u003Eএখন, [math]\\dfrac{6a}{y^2 - 2ay - 1} = \\dfrac{6a}{1} = 6a[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]6a[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুই পাশে [math]y[/math] দিয়ে গুণ করলে পাওয়া যায় [math]y^2-2=2ay[/math], তাই [math]y^2-2ay=2[/math]. অতএব নামজটি [math]y^2-2ay-1=2-1=1[/math] হয় এবং প্রদেয় মান হলো [math]\\dfrac{6a}{1}=6a[/math] (এখানে [math]y\\neq0[/math] ধরা হয়েছে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538361,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538357,
+      "value": {
+        "options": [],
+        "question": "[math]p + 2 = \\sqrt{5}[/math] হলে, [math]p - \\dfrac{1}{p}[/math] এর মান নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]p + 2 = \\sqrt{5}[/math]\u003Cbr\u003E∴ [math]p = \\sqrt{5} - 2[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{p} = \\dfrac{1}{\\sqrt{5} - 2}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{1 \\times (\\sqrt{5} + 2)}{(\\sqrt{5} - 2)(\\sqrt{5} + 2)}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{\\sqrt{5} + 2}{5 - 4}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\sqrt{5} + 2[/math]\u003Cbr\u003E∴ [math]p - \\dfrac{1}{p} = \\sqrt{5} - 2 - (\\sqrt{5} + 2) = -4[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]-4[/math]\u003Cbr\u003E",
+        "explanation": "[math]p=\\sqrt{5}-2[/math] হলে, [math]p-\\dfrac{1}{p}=\\dfrac{p^2-1}{p}[/math]. এখানে [math]p^2=(\\sqrt{5}-2)^2=9-4\\sqrt{5}[/math], তাই [math]p^2-1=8-4\\sqrt{5}=4(2-\\sqrt{5})=-4(\\sqrt{5}-2)[/math] এবং ফলে [math]p-\\dfrac{1}{p}=\\dfrac{-4(\\sqrt{5}-2)}{\\sqrt{5}-2}=-4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538357,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538350,
+      "value": {
+        "options": [],
+        "question": "[math](x^2 + 1)^2 = 5x^2[/math] হলে, [math]x + \\dfrac{1}{x}[/math] = কত?",
+        "solution": "এখানে, [math](x^2 + 1)^2 = 5x^2[/math]\u003Cbr\u003E∴ [math]x^2 + 1 = \\sqrt{5x^2} = \\sqrt{5}x[/math]\u003Cbr\u003E∴ [math]x + \\dfrac{1}{x} = \\sqrt{5}[/math]\u003Cbr\u003E",
+        "explanation": "[x]সমীকরণটি প্রসারিত করলে [math]x^4-3x^2+1=0[/math] পাওয়া যায়, ফলে [math]x^4+1=3x^2[/math], তাই [math]x^2+\\dfrac{1}{x^2}=\\dfrac{x^4+1}{x^2}=3[/math]. অতএব [math]\\left(x+\\dfrac{1}{x}\\right)^2=3+2=5[/math], ফলে [math]x+\\dfrac{1}{x}=±\\sqrt{5}[/math] (যদি [math]x\u003E0[/math] নিলে ধনাত্মক মূল [math]\\sqrt{5}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538350,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538301,
+      "value": {
+        "options": [],
+        "question": "[math]x - 8 = -\\dfrac{8}{x}[/math] হলে, [math]\\dfrac{1}{x^2 - 8x + 9}[/math] এর মান কত?",
+        "solution": "এখানে, [math]x - 8 = -\\dfrac{8}{x}[/math]\u003Cbr\u003E∴ [math]x^2 - 8x = -8[/math]\u003Cbr\u003E∴ [math]x^2 - 8x + 9 = 1[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{x^2 - 8x + 9} = \\dfrac{1}{1} = 1[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]x-8=-\\dfrac{8}{x}[/math] কে দুই পাশে [math]x[/math] দ্বারা গুণ করলে পাওয়া যায় [math]x^2-8x=-8[/math], অর্থাৎ [math]x^2-8x+8=0[/math]. তাই [math]x^2-8x+9=(x^2-8x+8)+1=1[/math], ফলে [math]\\dfrac{1}{x^2-8x+9}=1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538301,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538252,
+      "value": {
+        "options": [],
+        "question": "বীজগণিতকে কিসের সর্বায়নকৃত রূপ বলা হয়?",
+        "solution": "বীজগণিতকে পাটিগণিতের সর্বায়নকৃত রূপ বলা হয়। কারণ পাটিগণিতে শুধু ধনাত্মক সংখ্যা ব্যবহৃত হয়, অন্যদিকে বীজগণিতে শূন্যসহ ধনাত্মক ও ঋণাত্মক সকল সংখ্যা ব্যবহার করা হয়।",
+        "explanation": "বীজগণিতকে সংখ্যাবিজ্ঞানের (অ্যারিথমেটিক) সাধারণীকৃত রূপ বলা হয়। কারণ বীজগণিতে অজানা মানগুলি চলক (প্রতীক) দিয়ে প্রকাশ করে গণনার নিয়ম ও সম্পর্কগুলোকে সাধারণ সূত্রে রূপান্তর করা হয়, ফলে নির্দিষ্ট সংখ্যার বদলে সার্বজনীন নিয়ম পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538252,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538258,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + \\sqrt{3}x + 1 = 0[/math] হলে, দেখাও যে, [math]x + \\dfrac{1}{x} = -\\sqrt{3}[/math]",
+        "solution": "এখানে, [math]x^2 + \\sqrt{3}x + 1 = 0[/math]\u003Cbr\u003E∴ [math]x^2 + 1 = -\\sqrt{3}x[/math]\u003Cbr\u003E∴ [math]\\dfrac{x^2 + 1}{x} = -\\sqrt{3}[/math]\u003Cbr\u003E∴ [math]x + \\dfrac{1}{x} = -\\sqrt{3}[/math]\u003Cbr\u003E(দেখানো হলো)",
+        "explanation": "x শূন্য হতে পারে না কারণ [math]x=0[/math] হলে সমীকরণ থেকে [math]1=0[/math] হয়, যা অসম্ভব। সমীকরণটি [math]x^2+\\sqrt{3}x+1=0[/math] কে [math]x[/math] দিয়ে ভাগ করলে পাওয়া যায় [math]x+\\dfrac{1}{x}+\\sqrt{3}=0[/math], তাই [math]x+\\dfrac{1}{x}=-\\sqrt{3}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538258,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538259,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + 14x + 48[/math] কে দুটি বর্গের বিয়োগফলরূপে প্রকাশ কর।",
+        "solution": "প্রদত্ত রাশি = [math]x^2 + 14x + 48[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]x^2 + 2 \\cdot x \\cdot 7 + 7^2 + 48 - 7^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](x + 7)^2 - 1^2 + 48[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](x + 7 + 1)(x + 7 - 1) = (x + 8)(x + 6)[/math]\u003Cbr\u003Eধরি, [math]x + 8 = a[/math]\u003Cbr\u003E এবং [math]x + 6 = b[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E [math](x + 8)(x + 6) = ab = \\left(\\dfrac{a + b}{2}\\right)^2 - \\left(\\dfrac{a - b}{2}\\right)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\left(\\dfrac{x + 8 + x + 6}{2}\\right)^2 - \\left(\\dfrac{x + 8 - x - 6}{2}\\right)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\left(\\dfrac{2x + 14}{2}\\right)^2 - \\left(\\dfrac{2}{2}\\right)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](x + 7)^2 - 1^2[/math]\u003Cbr\u003E∴ [math]x^2 + 14x + 48 = (x + 7)^2 - 1^2[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]x^2+14x+48=(x^2+14x+49)-1=(x+7)^2-1^2[/math]. এখানে [math]49[/math] যোগ ও বিয়োগ করে পূর্ণবর্গ তৈরি করা হয়েছে, তাই выражение দুটি বর্গের বিয়োগফল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538259,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538266,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 - 2\\sqrt{6}x - 5 = 0[/math] হলে, [math]x[/math] এর মান কত?",
+        "solution": "এখানে, [math]x^2 - 2\\sqrt{6}x - 5 = 0[/math]\u003Cbr\u003E∴ [math]x^2 = 2\\sqrt{6}x + 5[/math]\u003Cbr\u003E∴ [math]x^2 = 3 + 2\\cdot\\sqrt{3}\\cdot\\sqrt{2} + 2[/math]\u003Cbr\u003E∴ [math]x^2 = (\\sqrt{3} + \\sqrt{2})^2[/math]\u003Cbr\u003E∴ [math]x = \\sqrt{3} + \\sqrt{2}[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]\\sqrt{3} + \\sqrt{2}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দ্বিঘাত সূত্র প্রয়োগ করে [math]x=\\frac{2\\sqrt6\\pm\\sqrt{(2\\sqrt6)^2+4\\cdot1\\cdot5}}{2}[/math] এবং এখানে ভেদের মান হচ্ছে [math](2\\sqrt6)^2+20=24+20=44[/math], তাই [math]\\sqrt{44}=2\\sqrt{11}[/math]. ফলে [math]x=\\frac{2\\sqrt6\\pm2\\sqrt{11}}{2}=\\sqrt6\\pm\\sqrt{11}[/math], যে দুটি মানই সমীকরণের শুদ্ধ মূল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538266,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538269,
+      "value": {
+        "options": [],
+        "question": "[math]a + \\dfrac{1}{a} = \\sqrt{9}[/math] হলে, [math]a - \\dfrac{1}{a}[/math] কত? যেখানে, [math]a \u003E 0[/math]।",
+        "solution": "দেওয়া আছে, [math]a + \\dfrac{1}{a} = \\sqrt{9}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E [math]\\left(a - \\dfrac{1}{a}\\right)^2 = \\left(a + \\dfrac{1}{a}\\right)^2 - 4 \\cdot a \\cdot \\dfrac{1}{a}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E [math]= (\\sqrt{9})^2 - 4 = 9 - 4 = 5[/math]\u003Cbr\u003E∴ [math]a - \\dfrac{1}{a} = \\sqrt{5}[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]\\sqrt{5}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: বর্গ করুন এবং বিয়োগ করুন—[math](a-\\tfrac{1}{a})^2=(a+\\tfrac{1}{a})^2-4=[3]^2-4=9-4=5[/math], তাই [math]a-\\tfrac{1}{a}=±\\sqrt{5}[/math]. বাস্তবে [math]a=\\frac{3±\\sqrt{5}}{2}[/math] হওয়ায় যদি [math]a\u003E1[/math] হয় তখন [math]a-\\tfrac{1}{a}=\\sqrt{5}[/math], আর যদি [math]0\u003Ca\u003C1[/math] হয় তখন [math]a-\\tfrac{1}{a}=-\\sqrt{5}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538269,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538275,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 - \\sqrt{6}x + 1 = 0[/math] হলে, প্রমাণ কর যে, [math]x - \\dfrac{1}{x} = \\sqrt{2}[/math]",
+        "solution": "এখানে, [math]x^2 - \\sqrt{6}x + 1 = 0[/math]\u003Cbr\u003E∴ [math]x^2 + 1 = \\sqrt{6}x[/math]\u003Cbr\u003E∴ [math]\\dfrac{x^2 + 1}{x} = \\sqrt{6}[/math]\u003Cbr\u003E∴ [math]x + \\dfrac{1}{x} = \\sqrt{6}[/math]\u003Cbr\u003Eএখন, [math](x - \\dfrac{1}{x})^2 = (x + \\dfrac{1}{x})^2 - 4[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](\\sqrt{6})^2 - 4 = 6 - 4 = 2[/math]\u003Cbr\u003E∴ [math]x - \\dfrac{1}{x} = \\sqrt{2}[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "প্রথমে সমীকরণকে [math]x\\neq0[/math] ধরে [math]x[/math] দিয়ে ভাগ করলে পাওয়া যায় [math]x+\\dfrac{1}{x}=\\sqrt{6}[/math]. এটি বর্গ করলে [math]\\left(x+\\dfrac{1}{x}\\right)^2=6\\Rightarrow x^2+\\dfrac{1}{x^2}=4[/math]. সেখান থেকে [math]\\left(x-\\dfrac{1}{x}\\right)^2=x^2+\\dfrac{1}{x^2}-2=2[/math], তাই [math]x-\\dfrac{1}{x}=\\pm\\sqrt{2}[/math]. বিশেষভাবে বড় মূল [math]x=\\dfrac{\\sqrt6+\\sqrt2}{2}[/math] গ্রহণ করলে সরাসরি পাওয়া যায় [math]x-\\dfrac{1}{x}=\\sqrt{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538275,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538279,
+      "value": {
+        "options": [],
+        "question": "যদি [math]x+1=4\\sqrt{x}[/math] হয়, তবে [math]x+\\dfrac{1}{x}[/math] এর মান কত?",
+        "solution": "এখানে, [math]x+1=4\\sqrt{x}[/math]\u003Cbr\u003Eবা, [math]\\dfrac{x}{\\sqrt{x}}+\\dfrac{1}{\\sqrt{x}}=4[/math]\u003Cbr\u003Eবা, [math]\\sqrt{x}+\\dfrac{1}{\\sqrt{x}}=4[/math]\u003Cbr\u003Eবা, [math]\\left(\\sqrt{x}+\\dfrac{1}{\\sqrt{x}}\\right)^{2}=16[/math]\u003Cbr\u003Eবা, [math]x+\\dfrac{1}{x}+2=16[/math]\u003Cbr\u003E∴ [math]x+\\dfrac{1}{x}=14[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]14[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]t=\\sqrt{x}[/math] ধরে নিলে [math]t^2+1=4t[/math] হয়, ফলে [math]t^2-4t+1=0[/math] এবং [math]t\\neq0[/math] দিয়ে ভাগ করলে [math]t+\\dfrac{1}{t}=4[/math]. তাই [math]x+\\dfrac{1}{x}=t^2+\\dfrac{1}{t^2}=(t+\\dfrac{1}{t})^2-2=4^2-2=14[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538279,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538286,
+      "value": {
+        "options": [],
+        "question": "[math]x = \\sqrt{7} - \\sqrt{6}[/math] হলে, [math]\\dfrac{1}{x}[/math] এর মান নির্ণয় কর।",
+        "solution": "এখানে, [math]x = \\sqrt{7} - \\sqrt{6}[/math]\u003Cbr\u003E∴ [math]\\dfrac{1}{x} = \\dfrac{1}{\\sqrt{7} - \\sqrt{6}}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{1}{\\sqrt{7} - \\sqrt{6}} \\cdot \\dfrac{\\sqrt{7} + \\sqrt{6}}{\\sqrt{7} + \\sqrt{6}}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{\\sqrt{7} + \\sqrt{6}}{(\\sqrt{7})^2 - (\\sqrt{6})^2}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\dfrac{\\sqrt{7} + \\sqrt{6}}{7 - 6} = \\sqrt{7} + \\sqrt{6}[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]\\sqrt{7} + \\sqrt{6}[/math]\u003Cbr\u003E",
+        "explanation": "বিপরীত সহগ (conjugate) দ্বারা রেশনালাইজ করলে [math]\\frac{1}{\\sqrt{7}-\\sqrt{6}}=\\frac{\\sqrt{7}+\\sqrt{6}}{(\\sqrt{7}-\\sqrt{6})(\\sqrt{7}+\\sqrt{6})}=\\frac{\\sqrt{7}+\\sqrt{6}}{7-6}[/math]. তাই [math]\\frac{1}{x}=\\sqrt{7}+\\sqrt{6}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538286,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538288,
+      "value": {
+        "options": [],
+        "question": "[math]a^{2}-2a+1=0[/math] হলে, [math]\\sqrt{a^{2}+3a}[/math] এর মান কত?",
+        "solution": "এখানে, [math]a^{2}-2a+1=0[/math]\u003Cbr\u003Eবা, [math]a^{2}-2\\cdot a\\cdot1 + 1^{2}=0[/math]\u003Cbr\u003Eবা, [math](a-1)^{2}=0[/math]\u003Cbr\u003Eবা, [math]a-1=0[/math]\u003Cbr\u003Eবা, [math]a=1[/math]\u003Cbr\u003Eপ্রদত্ত রাশি [math]=\\sqrt{a^{2}+3a}[/math]\u003Cbr\u003E [math]=\\sqrt{1^{2}+3\\cdot1}[/math]\u003Cbr\u003E [math]=\\sqrt{1+3}[/math]\u003Cbr\u003E [math]=\\sqrt{4}=2[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]2[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]a^2-2a+1=(a-1)^2=0[/math] থেকে [math]a=1[/math]. তাই [math]\\sqrt{a^2+3a}=\\sqrt{1+3}=\\sqrt{4}=2[/math] (প্রধান মূল)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538288,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538293,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 30[/math] এবং [math]x - y = 20[/math] হলে, [math]\\sqrt{x}[/math] এর মান নির্ণয় কর।",
+        "solution": "এখানে, [math]x + y = 30[/math]\u003Cbr\u003E .............. (i)[math]\\hspace{2em}[/math]\u003Cbr\u003E এবং [math]x - y = 20[/math]\u003Cbr\u003E .............. (ii)(i) ও (ii) নং যোগ করলে পাই,[math]x + y + x - y = 30 + 20[/math]\u003Cbr\u003E∴ [math]2x = 50[/math]\u003Cbr\u003E∴ [math]x = \\dfrac{50}{2} = 25[/math]\u003Cbr\u003E∴ [math]\\sqrt{x} = \\sqrt{25}[/math]\u003Cbr\u003E∴ [math]\\sqrt{x} = 5[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]5[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমীকরণদুটিকে যোগ করলে y বাদ যায় এবং [math]2x=50\\Rightarrow x=25[/math]. তাই [math]\\sqrt{x}=\\sqrt{25}=5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538293,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538297,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math](a + b)^2 = a^2 + 2ab + b^2[/math]।",
+        "solution": "বামপক্ষ = [math](a + b)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](a + b)(a + b)[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a^2 + ab + ab + b^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a^2 + 2ab + b^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = ডানপক্ষ∴ [math](a + b)^2 = a^2 + 2ab + b^2[/math]\u003Cbr\u003E (দেখানো হলো)",
+        "explanation": "কারণ বর্গকে বিস্তৃত করলে ডিস্ট্রিবিউটিভ ধর্ম প্রয়োগ করলে আমরা পাই [math](a+b)^2=(a+b)(a+b)=a(a+b)+b(a+b)=a^2+ab+ab+b^2=a^2+2ab+b^2[/math], তাই সমীকরণটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538297,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538245,
+      "value": {
+        "options": [],
+        "question": "বীজগাণিতিক রাশি বলতে কি বুঝ?",
+        "solution": "সংখ্যা নির্দেশক প্রতীক এবং প্রক্রিয়া চিহ্নের অর্থবোধক বিন্যাসকে বীজগাণিতিক রাশি বলে। যেমন: [math]2x + 3y + 5c[/math] একটি বীজগাণিতিক রাশি। বীজগাণিতিক রাশিতে ব্যবহৃত সংখ্যাগুলো ধ্রুবক, এদের মান নির্দিষ্ট এবং অক্ষর প্রতীকগুলোকে বলা হয় চলক। চলকের মান নির্দিষ্ট নয়, এরা বিভিন্ন মান ধারণ করতে পারে।",
+        "explanation": "বীজগাণিতিক রাশি বলতে বোঝায় ধ্রুবক ও চলক(ভ্যারিয়েবল) নিয়ে গঠিত এবং যোগ‑বিয়োগ, গুণ‑ভাগ ও ঘাতসহ সাধারণ বীজগাণিতিক অপারেশন দ্বারা তৈরি কোনো অভিব্যক্তি, যেমন [math]3x^2-2x+5[/math]। এটি এমনভাবে সংজ্ঞায়িত যে এতে ট্রিগোনোমেট্রিক বা লঘু-উচ্চতর অ্যালজেব্রিক নন‑অপারেশন নেই, তাই এই সংজ্ঞাই সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538245,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538303,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে, [math](a + b + c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ca[/math]।",
+        "solution": "বামপক্ষ = [math](a + b + c)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]{(a + b) + c}^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](a + b)^2 + 2(a + b)c + c^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a^2 + 2ab + b^2 + 2ac + 2bc + c^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a^2 + b^2 + c^2 + 2ab + 2bc + 2ca[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = ডানপক্ষ∴ [math](a + b + c)^2 = a^2 + b^2 + c^2 + 2ab + 2bc + 2ca[/math]\u003Cbr\u003E (দেখানো হলো)",
+        "explanation": "[math](a+b+c)^2=(a+b+c)(a+b+c)=a(a+b+c)+b(a+b+c)+c(a+b+c)[/math] দ্বারা বিস্তৃত করলে আমরা পাই [math]=a^2+ab+ac+ba+b^2+bc+ca+cb+c^2[/math] এবং [math]ab+ba=2ab,\\,bc+cb=2bc,\\,ca+ac=2ca[/math] যোগ করে ফল হয় [math]=a^2+b^2+c^2+2ab+2bc+2ca[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538303,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538307,
+      "value": {
+        "options": [],
+        "question": "[math]x = \\sqrt{6}[/math] এবং [math]y = \\sqrt{3}[/math] হলে, [math](x - y)^2 + 2xy[/math] এর মান কত?",
+        "solution": "প্রদত্ত রাশি: [math](x - y)^2 + 2xy[/math]\u003Cbr\u003Eআমরা জানি, [math](x - y)^2 + 2xy = x^2 + y^2[/math]\u003Cbr\u003E∴ [math](\\sqrt{6})^2 + (\\sqrt{3})^2 = 6 + 3 = 9[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]9[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math](x-y)^2+2xy=x^2-2xy+y^2+2xy=x^2+y^2[/math]; তাই [math]x=\\sqrt{6},\\ y=\\sqrt{3}[/math] হলে [math]x^2+y^2=6+3=9[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538307,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538311,
+      "value": {
+        "options": [],
+        "question": "[math]x - \\dfrac{1}{x} = 7[/math] হলে, [math]\\dfrac{x}{x^2 - 6x - 1}[/math] এর মান বের কর।",
+        "solution": "এখানে, [math]x - \\dfrac{1}{x} = 7[/math]\u003Cbr\u003E∴ [math]\\dfrac{x^2 - 1}{x} = 7[/math]\u003Cbr\u003E∴ [math]x^2 - 1 = 7x[/math]\u003Cbr\u003E∴ [math]x^2 - 7x - 1 = 0[/math]\u003Cbr\u003Eএখন, [math]\\dfrac{x}{x^2 - 6x - 1} = \\dfrac{x}{x^2 - 7x + x - 1} = \\dfrac{x}{(x^2 - 7x + x - 1)} = \\dfrac{x}{x(x - 7) + (x - 1)}[/math]\u003Cbr\u003E∴ মান = [math]1[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]x-\\dfrac{1}{x}=7[/math] থেকে গুণ করলে [math]x^2-1=7x[/math], তাই [math]x^2=7x+1[/math]. ফলে [math]x^2-6x-1=(7x+1)-6x-1=x[/math] এবং তাই [math]\\dfrac{x}{x^2-6x-1}=\\dfrac{x}{x}=1[/math] (এখানে [math]x\\neq0[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538311,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538314,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math](5x + 5y + 3z)^2 + 2(-5x - 7y - 3z)(5x + 5y + 3z) + (-5x - 7y - 3z)^2[/math]",
+        "solution": "ধরি, [math]5x + 5y + 3z = a[/math]\u003Cbr\u003E এবং [math]-5x - 7y - 3z = b[/math]\u003Cbr\u003Eপ্রদত্ত রাশি = [math]a^2 + 2ab + b^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](a + b)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]\\left((5x + 5y + 3z) + (-5x - 7y - 3z)\\right)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](5x + 5y + 3z - 5x - 7y - 3z)^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](-2y)^2 = 4y^2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এখানে [math]A=5x+5y+3z[/math] এবং [math]B=-5x-7y-3z[/math] ধরে নিলে প্রকাশটি [math]A^2+2AB+B^2=(A+B)^2[/math] আকারে লেখা যায়। আর [math]A+B=(5x-5x)+(5y-7y)+(3z-3z)=-2y[/math] হওয়ায় ফলাফলটি [math](-2y)^2=4y^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538314,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538316,
+      "value": {
+        "options": [],
+        "question": "[math]p + q + r = 6[/math] এবং [math]p^2 + q^2 + r^2 = 14[/math] হলে, [math](pq + qr + rp)[/math] এর মান কত?",
+        "solution": "এখানে, [math]p + q + r = 6[/math]\u003Cbr\u003E এবং [math]p^2 + q^2 + r^2 = 14[/math]\u003Cbr\u003Eআমরা জানি, [math](p + q + r)^2 = p^2 + q^2 + r^2 + 2(pq + qr + rp)[/math]\u003Cbr\u003E∴ [math]6^2 = 14 + 2(pq + qr + rp)[/math]\u003Cbr\u003E∴ [math]36 = 14 + 2(pq + qr + rp)[/math]\u003Cbr\u003E∴ [math]36 - 14 = 2(pq + qr + rp)[/math]\u003Cbr\u003E∴ [math]22 = 2(pq + qr + rp)[/math]\u003Cbr\u003E∴ [math]pq + qr + rp = \\dfrac{22}{2} = 11[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]11[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আমরা জানি [math](p+q+r)^2 = p^2+q^2+r^2 + 2(pq+qr+rp)[/math]. এখানে [math](p+q+r)=6[/math] তাই [math]36=14+2(pq+qr+rp)[/math], ফলে [math](pq+qr+rp)=11[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538316,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538324,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 = 5 + 2\\sqrt{6}[/math] হলে, [math]x[/math] এর মান নির্ণয় কর। (যেখানে, [math]x \u003E 0[/math])",
+        "solution": "দেওয়া আছে, [math]x^2 = 5 + 2\\sqrt{6}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]x^2 = 3 + 2\\sqrt{6} + 2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]x^2 = (\\sqrt{3})^2 + 2 \\cdot \\sqrt{3} \\cdot \\sqrt{2} + (\\sqrt{2})^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E বা, [math]x^2 = (\\sqrt{3} + \\sqrt{2})^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E ∴ [math]x = \\sqrt{3} + \\sqrt{2}[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]\\sqrt{3} + \\sqrt{2}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কারণ [math](\\sqrt{2}+\\sqrt{3})^2=2+3+2\\sqrt{6}=5+2\\sqrt{6}[/math], তাই [math]x^2=5+2\\sqrt{6}[/math] হলে [math]x=\\pm(\\sqrt{2}+\\sqrt{3})[/math]. দেওয়া শর্ত অনুযায়ী [math]x\u003E0[/math], অতএব [math]x=\\sqrt{2}+\\sqrt{3}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538324,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538325,
+      "value": {
+        "options": [],
+        "question": "[math]a^2 = 13 + \\sqrt{168}[/math] হলে, প্রমাণ কর যে, [math]a = \\sqrt{7} + \\sqrt{6}[/math]",
+        "solution": "এখানে, [math]a^2 = 13 + \\sqrt{168}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]13 + \\sqrt{4 \\times 42} = 13 + 2\\sqrt{42}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]7 + 6 + 2\\sqrt{7 \\cdot 6}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](\\sqrt{7})^2 + 2\\sqrt{7 \\cdot 6} + (\\sqrt{6})^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](\\sqrt{7} + \\sqrt{6})^2[/math]\u003Cbr\u003E∴ [math]a = \\sqrt{7} + \\sqrt{6}[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "প্রথমে যাচাই করি: [math](\\sqrt{7}+\\sqrt{6})^2=7+6+2\\sqrt{42}=13+2\\sqrt{42}[/math], এবং [math]\\sqrt{168}=\\sqrt{4\\cdot42}=2\\sqrt{42}[/math], তাই [math]a^2=13+\\sqrt{168}=13+2\\sqrt{42}=(\\sqrt{7}+\\sqrt{6})^2[/math]. উভয় দিক ধনাত্মক হওয়ায় মূল ধনাত্মক, সুতরাং [math]a=\\sqrt{7}+\\sqrt{6}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538325,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538329,
+      "value": {
+        "options": [],
+        "question": "[math]x = 9 + 4\\sqrt{5}[/math] হলে, [math]\\sqrt{x}[/math] এর মান কত?",
+        "solution": "দেওয়া আছে, [math]x = 9 + 4\\sqrt{5}[/math]\u003Cbr\u003E∴ [math]x = (\\sqrt{5})^2 + 2 \\cdot \\sqrt{5} \\cdot 2 + (2)^2[/math]\u003Cbr\u003E∴ [math]x = (\\sqrt{5} + 2)^2[/math]\u003Cbr\u003E∴ [math]\\sqrt{x} = \\sqrt{(\\sqrt{5} + 2)^2}[/math]\u003Cbr\u003E∴ [math]\\sqrt{x} = \\sqrt{5} + 2[/math]\u003Cbr\u003Eনির্দেশিত মান : [math]2 + \\sqrt{5}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধরা যাক [math]\\sqrt{x}=\\sqrt{a}+\\sqrt{b}[/math], তাহলে বর্গ করলে [math]a+b+2\\sqrt{ab}=9+4\\sqrt{5}[/math] পাওয়া যায়; তাই [math]a+b=9[/math] এবং [math]2\\sqrt{ab}=4\\sqrt{5}[/math] থেকে [math]ab=20[/math]. এই সমীকরণ থেকে [math]a=4,\\, b=5[/math] পাওয়া যায়, অতএব [math]\\sqrt{x}=\\sqrt{4}+\\sqrt{5}=2+\\sqrt{5}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538329,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538333,
+      "value": {
+        "options": [],
+        "question": "[math]a = \\sqrt{5}[/math] এবং [math]b = \\sqrt{3}[/math] হলে, দেখাও যে, [math](a + b)^2 - 2ab = 8[/math]",
+        "solution": "এখানে, [math]a = \\sqrt{5}[/math]\u003Cbr\u003E এবং [math]b = \\sqrt{3}[/math]\u003Cbr\u003Eবামপক্ষ = [math](a + b)^2 - 2ab[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a^2 + 2ab + b^2 - 2ab[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]a^2 + b^2[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math](\\sqrt{5})^2 + (\\sqrt{3})^2 = 5 + 3 = 8[/math]\u003Cbr\u003E∴ [math](a + b)^2 - 2ab = 8[/math]\u003Cbr\u003E (দেখানো হলো)",
+        "explanation": "ব্যাখ্যা: যেহেতু [math](a+b)^2=a^2+2ab+b^2[/math], তাই [math](a+b)^2-2ab=a^2+b^2[/math]. এখানে [math]a=\\sqrt{5}\\Rightarrow a^2=5[/math] এবং [math]b=\\sqrt{3}\\Rightarrow b^2=3[/math], তাই [math]a^2+b^2=5+3=8[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538333,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538341,
+      "value": {
+        "options": [],
+        "question": "[math]x + \\dfrac{1}{x} = 4[/math] হলে, প্রমাণ কর যে, [math]\\left(x^2 - \\dfrac{1}{x^2}\\right) = 8\\sqrt{3}[/math]",
+        "solution": "দেওয়া আছে, [math]x + \\dfrac{1}{x} = 4[/math]\u003Cbr\u003Eআমরা জানি, [math]\\left(x - \\dfrac{1}{x}\\right)^2 = \\left(x + \\dfrac{1}{x}\\right)^2 - 4x \\cdot \\dfrac{1}{x}[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]4^2 - 4 = 16 - 4 = 12[/math]\u003Cbr\u003E∴ [math]x - \\dfrac{1}{x} = \\sqrt{12} = 2\\sqrt{3}[/math]\u003Cbr\u003Eএখন, [math]x^2 - \\dfrac{1}{x^2} = (x - \\dfrac{1}{x}) (x + \\dfrac{1}{x})[/math]\u003Cbr\u003E [math]\\hspace{2em}[/math]\u003Cbr\u003E = [math]2\\sqrt{3} \\cdot 4 = 8\\sqrt{3}[/math]\u003Cbr\u003E∴ [math]\\left(x^2 - \\dfrac{1}{x^2}\\right) = 8\\sqrt{3}[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "প্রথমে উভয় পাশে বর্গ করলে পাই [math]x^2+2+\\dfrac{1}{x^2}=16[/math], তাই [math]x^2+\\dfrac{1}{x^2}=14[/math]। ফলে [math]\\left(x^2-\\dfrac{1}{x^2}\\right)^2=(x^2+\\dfrac{1}{x^2})^2-4=14^2-4=192[/math], অর্থাৎ পরিমাপ [math]8\\sqrt{3}[/math]। এছাড়া [math]x^2-4x+1=0[/math] থেকে [math]x=2\\pm\\sqrt{3}[/math] এবং বড় মূলটি [math]2+\\sqrt{3}\u003E1[/math] হলে প্রকাশটি ধনাত্মক, তাই [math]x^2-\\dfrac{1}{x^2}=8\\sqrt{3}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538341,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538343,
+      "value": {
+        "options": [],
+        "question": "[math]a + \\dfrac{1}{a} = 2[/math] হলে, প্রমাণ কর যে, [math]a^3 + \\dfrac{1}{a^3} = 2[/math]",
+        "solution": "এখানে, [math]a + \\dfrac{1}{a} = 2[/math]\u003Cbr\u003E∴ [math]\\dfrac{a^2 + 1}{a} = 2[/math]\u003Cbr\u003E∴ [math]a^2 - 2a + 1 = 0[/math]\u003Cbr\u003E∴ [math](a - 1)^2 = 0[/math]\u003Cbr\u003E∴ [math]a = 1[/math]\u003Cbr\u003E∴ [math]a^3 + \\dfrac{1}{a^3} = 1^3 + \\dfrac{1}{1^3} = 1 + 1 = 2[/math]\u003Cbr\u003E∴ [math]a^3 + \\dfrac{1}{a^3} = 2[/math]\u003Cbr\u003E (প্রমাণিত)",
+        "explanation": "ব্যাখ্যা: [math](a+\\frac{1}{a})^3 = a^3 + \\frac{1}{a^3} + 3\\bigl(a+\\frac{1}{a}\\bigr)[/math]. যদি [math]a+\\frac{1}{a}=2[/math] হয়, তাহলে [math]a^3+\\frac{1}{a^3}=(a+\\frac{1}{a})^3-3\\bigl(a+\\frac{1}{a}\\bigr)=2^3-3\\cdot2=8-6=2[/math]. বিকল্পভাবে সমীকরণ থেকে [math]a=1[/math] পাওয়া যায় এবং তাতেও [math]1^3+\\frac{1}{1^3}=1+1=2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538343,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12925&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12925&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12925&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2200,
+  "prev_page_url": null,
+  "to": 48,
+  "total": 48
+}

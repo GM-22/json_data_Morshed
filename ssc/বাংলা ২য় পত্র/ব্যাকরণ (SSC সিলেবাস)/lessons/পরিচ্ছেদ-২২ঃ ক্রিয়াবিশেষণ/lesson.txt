@@ -1,0 +1,1459 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695660,
+      "value": {
+        "options": {
+          "ক": "গুণবাচক",
+          "খ": "অবস্থাবাচক",
+          "গ": "ভাববাচক",
+          "ঘ": "পরিমাণবাচক"
+        },
+        "question": "খুব ভালো খবর' বাক্যে 'খুব' কোন বিশেষণ?",
+        "solution": "খুব' শব্দটি অনুভব বা অনুভূতির মাত্রা বোঝায়, তাই এটি ভাববাচক ক্রিয়াবিশেষণ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695660,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695660,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695660,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695672,
+      "value": {
+        "options": {
+          "ক": "নাম বিশেষণ",
+          "খ": "ক্রিয়া বিশেষণ",
+          "গ": "বিশেষণের বিশেষণ",
+          "ঘ": "বাক্যের বিশেষণ"
+        },
+        "question": "‘ধীরে ধীরে বায়ু বয়'- বাক্যটিতে কোন বিশেষণ ব্যবহৃত হয়েছে?",
+        "solution": "ক্রিয়া বিশেষণ",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695672,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695672,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695672,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695671,
+      "value": {
+        "options": {
+          "ক": "স্বয়ং, খোদ, আপনি",
+          "খ": "সব, সকল, তাবৎ",
+          "গ": "যে, যিনি, যারা",
+          "ঘ": "এরা, ইহারা, ইনি"
+        },
+        "question": "কোনগুলো সাকুল্যবাচক সর্বনাম?",
+        "solution": "সব, সকল, তাবৎ",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695671,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695671,
+            "tag_id": 47,
+            "year": "2020",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695670,
+      "value": {
+        "options": {
+          "ক": "নির্দেশক ভাব",
+          "খ": "অনুজ্ঞা ভাব",
+          "গ": "সাপেক্ষ ভাব",
+          "ঘ": "আকাঙ্ক্ষা ভাব"
+        },
+        "question": "অন্যায় কাজ করো না-বাক্যের ক্রিয়াপদটি কোন ভাব প্রকাশ করেছে?",
+        "solution": "অনুজ্ঞা ভাব",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695670,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695670,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695670,
+            "tag_id": 3626,
+            "year": "2020",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695669,
+      "value": {
+        "options": {
+          "ক": "সংজ্ঞাবাচক",
+          "খ": "গুণবাচক",
+          "গ": "বস্তুবাচক",
+          "ঘ": "ব্যক্তিবাচক"
+        },
+        "question": "'বিশ্বনবি' কোন ধরনের বিশেষ্য?",
+        "solution": "'বিশ্বনবি একটি গ্রন্থের নাম। অন্যায় কাজ করো না-বাক্যের ক্রিয়াপদটি কোন ভাব",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695669,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695669,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695669,
+            "tag_id": 3626,
+            "year": "2020",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695668,
+      "value": {
+        "options": {
+          "ক": "সমাপিকা",
+          "খ": "অসমাপিকা",
+          "গ": "যৌগিক",
+          "ঘ": "মিশ্র"
+        },
+        "question": "সূর্য উঠলে আঁধার দূরীভূত হয়-বাক্যে 'উঠলে' কোন ক্রিয়া?",
+        "solution": "অসমাপিকা",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695668,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695668,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695668,
+            "tag_id": 3626,
+            "year": "2020",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695667,
+      "value": {
+        "options": {
+          "ক": "টিপটিপ বৃষ্টি পড়ছে।",
+          "খ": "যথাসময়ে সে হাজির হয়।",
+          "গ": "তিনি বেড়াতে যাননি।",
+          "ঘ": "মরি তো মরব।"
+        },
+        "question": "পদাণু ক্রিয়াবিশেষণ রয়েছে কোন বাক্যে?",
+        "solution": "পদাণু ক্রিয়াবিশেষণ: বাক্যের মধ্যে বিশেষ কোনো ভূমিকা পালন না করলে 'কি', 'যে', 'বা', 'না', 'তো' প্রভৃতি পদাণু বা শব্দাংশ ক্রিয়াবিশেষণ হিসেবে কাজ করে। এগুলোর অধিকাংশই সংযোজক পদ ও অনুসর্গ পদ।",
+        "explanation": "",
+        "correct_answer": "D.মরি তো মরব।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695667,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695667,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695667,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695665,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্য বর্গ",
+          "খ": "ক্রিয়া বিশেষণ বর্গ",
+          "গ": "বিশেষণ বর্গ",
+          "ঘ": "ক্রিয়াবর্গ"
+        },
+        "question": "সে খেয়ে আর ঘুমিয়ে কাটাচ্ছে'—এ বাক্যে 'খেয়ে আর ঘুমিয়ে' কোন প্রকারের বর্গ?",
+        "solution": "খেয়ে আর ঘুমিয়ে' দুটি ক্রিয়াবিশেষণ (ক্রিয়া সম্পাদনের উপায় বা প্রক্রিয়া) প্রকাশ করে, যা ক্রিয়াবিশেষণ বর্গের অংশ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695665,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695665,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695665,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695664,
+      "value": {
+        "options": {
+          "ক": "ক্রিয়াবর্গ",
+          "খ": "ক্রিয়াবিশেষণ বর্গ",
+          "গ": "বিশেষ্যবর্গ",
+          "ঘ": "বিশেষণবর্গ"
+        },
+        "question": "সে খেয়ে আর ঘুমিয়ে কাটাচ্ছে' বাক্যে 'খেয়ে আর ঘুমিয়ে' কোন বর্গ?",
+        "solution": "এখানে 'খেয়ে' এবং 'ঘুমিয়ে' দুটি কাজকে বোঝালেও ক্রিয়ার পরিপূরক রূপে এসেছে — এগুলো ক্রিয়াবিশেষণ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695664,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695664,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695664,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695663,
+      "value": {
+        "options": {
+          "ক": "নেতিবাচক",
+          "খ": "ধরনবাচক",
+          "গ": "কালবাচক",
+          "ঘ": "পদানু ক্রিয়া"
+        },
+        "question": "একটু ঘুরে আসুন না।' -বাক্যটিতে কোন ধরনের বিশেষণ ব্যবহৃত হয়েছে?",
+        "solution": "না' শব্দটি অনুরোধসূচক এবং ‘ঘুরে আসুন’ বাক্যের শেষে ব্যবহৃত হয়েছে। এটি পদানু বিশেষ্য, যা বাক্যের ক্রিয়াকে নিয়ন্ত্রণ করছে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695663,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695663,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695663,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695662,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "গঠন বিবেচনায় ক্রিয়া বিশেষণকে কয় ভাগে ভাগ করা যায়?",
+        "solution": "ক্রিয়া বিশেষণ গঠনভিত্তিকভাবে প্রধানত দুই ভাগে বিভক্ত: (১) পদানু ক্রিয়া-বিশেষণ, (২) বাক্যাংশ ভিত্তিক ক্রিয়া-বিশেষণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695662,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695662,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695662,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695661,
+      "value": {
+        "options": {
+          "ক": "মরি তো মরব।",
+          "খ": "সে এখন যাবে না।",
+          "গ": "যথাসময়ে সে হাজির হয়।",
+          "ঘ": "টিপটিপ বৃষ্টি পড়ছে।"
+        },
+        "question": "পদাণু ক্রিয়াবিশেষণ' রয়েছে কোন বাক্যে?",
+        "solution": "‘তো’ শব্দটি পদাণু ক্রিয়াবিশেষণ হিসেবে কাজ করছে যা কাজের পূর্বশর্ত বা সংযুক্তি বোঝায়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695661,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695661,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695661,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695659,
+      "value": {
+        "options": {
+          "ক": "ধরনবাচক",
+          "খ": "কালবাচক",
+          "গ": "স্থানবাচক",
+          "ঘ": "নেতিবাচক"
+        },
+        "question": "টিপ টিপ বৃষ্টি পড়ছে।' বাক্যটিতে কোন ধরনের ক্রিয়া বিশেষণ ব্যবহৃত হয়েছে?",
+        "solution": "এখানে 'টিপ টিপ' শব্দটি বৃষ্টির পড়ার ধরণ বোঝাচ্ছে, তাই এটি ধরনবাচক ক্রিয়াবিশেষণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695659,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695659,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695659,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695666,
+      "value": {
+        "options": {
+          "ক": "ধরনবাচক",
+          "খ": "পদাণু",
+          "গ": "বহুপদী",
+          "ঘ": "কালবাচক"
+        },
+        "question": "ভয়ে ভয়ে, চুপি চুপি- গঠন বিবেচনায় কোন ক্রিয়াবিশেষণ?",
+        "solution": "বহুপদী ক্রিয়াবিশেষণ: একের অধিক পদ বা শব্দ নিয়ে গঠিত ক্রিয়াবিশেষণকে বহুপদী ক্রিয়াবিশেষণ বলে। যেমন- ভয়ে ভয়ে, চুপি চুপি।",
+        "explanation": "",
+        "correct_answer": "C.বহুপদী"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:58:50.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695666,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695666,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695666,
+            "tag_id": 3,
+            "year": "2024",
+            "created_at": "2025-10-09T06:58:50.000000Z",
+            "updated_at": "2025-10-09T06:58:50.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718757,
+      "value": {
+        "options": {
+          "ক": "কালবাচক",
+          "খ": "ধরনবাচক",
+          "গ": "স্থানবাচক",
+          "ঘ": "নেতিবাচক"
+        },
+        "question": "টিপ টিপ বৃষ্টি পড়ছে। এই বাক্যে টিপ। টিপ কোন ক্রিয়াবিশেষণ?",
+        "solution": "খ. ধরনবাচক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 718757,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718754,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "গঠন বিবেচনায় ক্রিয়াবিশেষণকে কয় ভাগে&nbsp;ভাগ করা যায়?",
+        "solution": "ক. দুই"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 718754,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718752,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্য",
+          "খ": "অব্যয়",
+          "গ": "ক্রিয়াবিশেষণ",
+          "ঘ": "ক্রিয়া"
+        },
+        "question": "'ততক্ষণে' কোন শব্দ?",
+        "solution": "গ. ক্রিয়াবিশেষণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718750,
+      "value": {
+        "options": {
+          "ক": "ই, উ",
+          "খ": "উ, উ",
+          "গ": "অ, আ",
+          "ঘ": "না, তো"
+        },
+        "question": "নিচের কোনগুলো পদাণু ক্রিয়াবিশেষণ?",
+        "solution": "ঘ. না, তো"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718747,
+      "value": {
+        "options": {
+          "ক": "কি, যে, বা",
+          "খ": "ই, ঈ, নি",
+          "গ": "অ, ই, এ",
+          "ঘ": "আ, উ, ও"
+        },
+        "question": "বাক্যে পদাণু ক্রিয়াবিশেষণ হিসেবে ভূমিকা পালন করে--",
+        "solution": "ক. কি, যে, বা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718744,
+      "value": {
+        "options": {
+          "ক": "নাম বিশেষণ",
+          "খ": "ক্রিয়াবিশেষণ",
+          "গ": "বিশেষণের বিশেষণ",
+          "ঘ": "বাক্যের বিশেষণ"
+        },
+        "question": "'ধীরে ধীরে বায়ু বয়'- বাক্যটিতে যে বিশেষ্য বিশেষণ ব্যবহৃত হয়েছে তা-",
+        "solution": "খ. ক্রিয়াবিশেষণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3787,
+          "full_name": "দি. বো.'২০১৯",
+          "short_name": "দি. বো.'২০১৯",
+          "slug": "di-bo2019",
+          "pivot": {
+            "question_bank_id": 718744,
+            "tag_id": 3787,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718742,
+      "value": {
+        "options": {
+          "ক": "যথাসময়ে সে হাজির হয়",
+          "খ": "আমি কি যাব?",
+          "গ": "সে এখন যাবে না।",
+          "ঘ": "তাকে কোথাও খুঁজে পাওয়া যাচ্ছে না&nbsp;"
+        },
+        "question": "স্থানবাচক ক্রিয়াবিশেষণ কোনটি?",
+        "solution": "ঘ. তাকে কোথাও খুঁজে পাওয়া যাচ্ছে না"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718740,
+      "value": {
+        "options": {
+          "ক": "নেতিবাচক",
+          "খ": "কালবাচক",
+          "গ": "ধরনবাচক",
+          "ঘ": "স্থানবাচক"
+        },
+        "question": "মিছিলটি সামনে এগিয়ে যায়। এখানে 'সামনে' কোন ধরনের ক্রিয়াবিশেষণ?",
+        "solution": "ঘ. স্থানবাচক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 718740,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718739,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্যের বিশেষণ",
+          "খ": "অব্যয়ের বিশেষণ",
+          "গ": "বিশেষণের বিশেষণ",
+          "ঘ": "ক্রিয়ার বিশেষণ"
+        },
+        "question": "ছেলেটি দ্রুত দৌড়ায়। এই বাক্যে 'দ্রুত'&nbsp;কোন বিশেষণ?",
+        "solution": "ঘ. ক্রিয়ার বিশেষণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718737,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্য-",
+          "খ": "বিশেষণ",
+          "গ": "ক্রিয়াবিশেষণ",
+          "ঘ": "বিশেষ্যের বিশেষণ"
+        },
+        "question": "ক্রিয়াকে বিশেষিত করে যে শব্দ তাকে বলে-",
+        "solution": "গ. ক্রিয়াবিশেষণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13175&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13175&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13175&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 24,
+  "total": 24
+}

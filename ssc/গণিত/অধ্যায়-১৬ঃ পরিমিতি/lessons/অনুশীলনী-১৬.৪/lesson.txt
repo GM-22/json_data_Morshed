@@ -1,0 +1,1379 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 536952,
+      "value": {
+        "options": [],
+        "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ক্ষেত্রফল 706.86 বর্গ সেমি. এবং উচ্চতা 28 সেমি. হলে, বেলনের সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]h = 28[/math]\u003Cbr\u003E সেমি., ভূমির ক্ষেত্রফল = [math]706.86[/math]\u003Cbr\u003E বর্গ সেমি.⇒ [math]\\pi r^2 = 706.86[/math]\u003Cbr\u003E⇒ [math]r^2 = \\dfrac{706.86}{3.1416} = 225[/math]\u003Cbr\u003E ⇒ [math]r = \\sqrt{225} = 15[/math]\u003Cbr\u003E সেমি.সমগ্রতলের ক্ষেত্রফল = [math]2\\pi r (r + h)[/math]\u003Cbr\u003E [math]= 2 \\times 3.1416 \\times 15 \\times (15 + 28)[/math]\u003Cbr\u003E [math]= 2 \\times 3.1416 \\times 15 \\times 43 = 4052.66[/math]\u003Cbr\u003Eনির্ণেয় ক্ষেত্রফল = [math]4052.66[/math]\u003Cbr\u003E বর্গ সেমি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: বেসের ক্ষেত্রফল থেকে বিকল্পভাবে রেডিয়াস পাওয়া যায় কারণ [math]πr^2=706.86\\Rightarrow r^2=706.86/π=225\\Rightarrow r=15\\text{ cm}[/math]. বেলনের পাতলা পৃষ্ঠের ক্ষেত্রফল পাওয়া যাবে [math]2πrh=2π(15)(28)=840π\\approx2638.944\\text{ cm}^2[/math]. সমগ্রতলের ক্ষেত্রফল = দুইটি বেস + পাতলা পৃষ্ঠ = [math]2×706.86+2638.944=4052.664\\text{ cm}^2\\;(≈4052.66\\text{ cm}^2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536952,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536981,
+      "value": {
+        "options": [],
+        "question": "যদি ঘনকের পৃষ্ঠতলের কর্ণ [math]10\\sqrt{2}[/math] হয়, তবে ঘনকের কর্ণ নির্ণয় কর।",
+        "solution": "[math]\\sqrt{2}a = 10\\sqrt{2} \\Rightarrow a = 10[/math]\u003Cbr\u003Eকর্ণ = [math]\\sqrt{3}a = \\sqrt{3} \\times 10 = 17.321[/math]\u003Cbr\u003E একক (প্রায়)",
+        "explanation": "ব্যাখ্যা: ঘনকের পৃষ্ঠার কর্ণ এবং ধারার সম্পর্ক হলো [math]\\text{পৃষ্ঠার কর্ণ}=a\\sqrt{2}[/math]। দেওয়া আছে [math]a\\sqrt{2}=10\\sqrt{2}[/math] থেকে [math]a=10[/math], তাই ঘনকের পূর্ণ কর্ণ (কোণ থেকে বিপরীত কোণে) হবে [math]a\\sqrt{3}=10\\sqrt{3}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536981,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536976,
+      "value": {
+        "options": [],
+        "question": "ঘনকের একটি পৃষ্ঠতলের কর্ণের দৈর্ঘ্য [math]2\\sqrt{2}[/math] সেমি. হলে, তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]\\sqrt{2}a = 2\\sqrt{2}[/math]\u003Cbr\u003E⇒ [math]a = 2[/math]\u003Cbr\u003E⇒ সমগ্রতলের ক্ষেত্রফল [math]= 6a^2 = 6 \\times 2^2 = 6 \\times 4 = 24[/math]\u003Cbr\u003Eনির্ণেয় ক্ষেত্রফল = [math]24[/math]\u003Cbr\u003E বর্গ সেমি.",
+        "explanation": "ব্যাখ্যা: ঘনকের একটি পৃষ্ঠতলের কর্ণ পাশ [math]a[/math] হলে [math]a\\sqrt{2}[/math] হয়, তাই [math]a\\sqrt{2}=2\\sqrt{2} \\Rightarrow a=2[/math]. ঘনকের সমগ্রতলফল = [math]6a^2=6\\times 2^2=24[/math] বর্গ সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536976,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536972,
+      "value": {
+        "options": [],
+        "question": "ঘনকের একটি পৃষ্ঠতলের কর্ণের দৈর্ঘ্য [math]10\\sqrt{2}[/math] সেমি. হলে, ঘনকটির ধার নির্ণয় কর।",
+        "solution": "পৃষ্ঠতলের কর্ণ = [math]\\sqrt{2}a[/math]\u003Cbr\u003E⇒ [math]\\sqrt{2}a = 10\\sqrt{2}[/math]\u003Cbr\u003E⇒ [math]a = 10[/math]\u003Cbr\u003Eনির্ণেয় ঘনকের ধার = [math]10[/math]\u003Cbr\u003E সেমি.",
+        "explanation": "ঘনকের একটি পৃষ্ঠতলের কর্ণ যদি পাশের দৈর্ঘ্য [math]a[/math] হয় তাহলে পিথাগোরাস অনুযায়ী কর্ণ হবে [math]a\\sqrt{2}[/math]। এখানে [math]a\\sqrt{2}=10\\sqrt{2}[/math] হওয়ায় [math]a=10[/math] সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536972,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536969,
+      "value": {
+        "options": [],
+        "question": "কোনো বেলনের উচ্চতা, বেলনটির ভূমির ব্যাসার্ধের দ্বিগুণ। ভূমির ক্ষেত্রফল [math]452.3904[/math] বর্গ সেমি. হলে, উচ্চতা নির্ণয় কর।",
+        "solution": "ধরি, [math]r[/math]\u003Cbr\u003E সেমি, তাহলে [math]h = 2r[/math]\u003Cbr\u003E [math]\\pi r^2 = 452.3904[/math]\u003Cbr\u003E⇒ [math]r^2 = \\dfrac{452.3904}{3.1416} = 144[/math]\u003Cbr\u003E⇒ [math]r = \\sqrt{144} = 12[/math]\u003Cbr\u003E [math]h = 2r = 2 \\times 12 = 24[/math]\u003Cbr\u003E সেমি.নির্ণেয় উচ্চতা = [math]24[/math]\u003Cbr\u003E সেমি.",
+        "explanation": "ভূমির ক্ষেত্রফল সূত্র [math]A=πr^2[/math]; দেওয়া অনুযায়ী [math]452.3904=πr^2[/math] থেকে [math]r^2=144[/math] তাই [math]r=12\\ \\text{সেমি}[/math]. উচ্চতা বেস রেডিয়াসের দ্বিগুণ, সুতরাং [math]h=2r=24\\ \\text{সেমি}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536969,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536967,
+      "value": {
+        "options": [],
+        "question": "যদি ঘনকের পৃষ্ঠতলের কর্ণ [math]10\\sqrt{2}[/math] হয়, তবে ঘনকের কর্ণ নির্ণয় কর।",
+        "solution": "[math]\\sqrt{2}a = 10\\sqrt{2} \\Rightarrow a = 10[/math]\u003Cbr\u003Eকর্ণ = [math]\\sqrt{3}a = \\sqrt{3} \\times 10 = 17.321[/math]\u003Cbr\u003E একক (প্রায়)",
+        "explanation": "ব্যাখ্যা: ঘনের পৃষ্ঠতলের কর্ণ ও ঘনের কর্ণের সম্পর্ক হল [math]\\text{পৃষ্ঠতলের কর্ণ}=a\\sqrt{2}[/math] এবং [math]\\text{ঘনের কর্ণ}=a\\sqrt{3}[/math]. যদি [math]a\\sqrt{2}=10\\sqrt{2}[/math] হয়, তবে [math]a=10[/math] এবং ঘনের কর্ণ হবে [math]10\\sqrt{3}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536967,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536966,
+      "value": {
+        "options": [],
+        "question": "কোনো ঘনকের কর্ণের দৈর্ঘ্য [math]2\\sqrt{6}[/math] সেমি. হলে, এর আয়তন নির্ণয় কর।",
+        "solution": "কর্ণ [math]= \\sqrt{3}a[/math]\u003Cbr\u003E⇒ [math]\\sqrt{3}a = 2\\sqrt{6}[/math]\u003Cbr\u003E⇒ [math]a = \\dfrac{2\\sqrt{6}}{\\sqrt{3}} = 2\\sqrt{2}[/math]\u003Cbr\u003Eআয়তন [math]= a^3 = (2\\sqrt{2})^3 = 8 \\times 2\\sqrt{2} = 16\\sqrt{2}[/math]\u003Cbr\u003E ঘন সেমি.নির্ণেয় আয়তন = [math]16\\sqrt{2}[/math]\u003Cbr\u003E ঘন সেমি.",
+        "explanation": "ঘনকের কর্ণের সম্পর্ক [math]d=a\\sqrt{3}[/math]; এখানে [math]d=2\\sqrt{6}[/math] হওয়ায় বাহু [math]a=\\frac{2\\sqrt{6}}{\\sqrt{3}}=2\\sqrt{2}[/math] সেমি। তাই আয়তন [math]V=a^3=(2\\sqrt{2})^3=16\\sqrt{2}\\ \\text{সেমি}^3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536966,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536964,
+      "value": {
+        "options": [],
+        "question": "ঘনকের একটি পৃষ্ঠতলের কর্ণের দৈর্ঘ্য [math]2\\sqrt{2}[/math] সেমি. হলে, তার সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]\\sqrt{2}a = 2\\sqrt{2}[/math]\u003Cbr\u003E⇒ [math]a = 2[/math]\u003Cbr\u003E⇒ সমগ্রতলের ক্ষেত্রফল [math]= 6a^2 = 6 \\times 2^2 = 6 \\times 4 = 24[/math]\u003Cbr\u003Eনির্ণেয় ক্ষেত্রফল = [math]24[/math]\u003Cbr\u003E বর্গ সেমি.",
+        "explanation": "সমাধান: ঘনকের একটি পৃষ্ঠতলের কর্ণ = [math]a\\sqrt{2}[/math] (এখানে [math]a[/math] পার্শ্ব), তাই [math]a\\sqrt{2}=2\\sqrt{2} \\Rightarrow a=2[/math] সেমি। সমগ্রতলের ক্ষেত্রফল = [math]6a^2=6\\times 2^2=24\\ \\text{সেমি}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536964,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536963,
+      "value": {
+        "options": [],
+        "question": "কোনো ঘনকের একটি পৃষ্ঠতলের কর্ণের দৈর্ঘ্য [math]8\\sqrt{2}[/math] সেমি. হলে, আয়তন নির্ণয় কর।",
+        "solution": "পৃষ্ঠতলের কর্ণ [math]= \\sqrt{2}a[/math]\u003Cbr\u003E⇒ [math]\\sqrt{2}a = 8\\sqrt{2}[/math]\u003Cbr\u003E⇒ [math]a = 8[/math]\u003Cbr\u003Eআয়তন [math]= a^3 = 8^3 = 512[/math]\u003Cbr\u003E ঘন সেমি.নির্ণেয় আয়তন = [math]512[/math]\u003Cbr\u003E ঘন সেমি.",
+        "explanation": "ব্যাখ্যা: ঘনের একটি পৃষ্ঠতলের কর্ণ হলে [math]a\\sqrt{2}=8\\sqrt{2}[/math] থেকে পৃষ্ঠের পাশের দৈর্ঘ্য হবে [math]a=8[/math] সেমি। তাই আয়তন [math]V=a^3=8^3=512\\ \\text{cm}^3[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536963,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536961,
+      "value": {
+        "options": [],
+        "question": "ঘনকের একটি পৃষ্ঠতলের কর্ণের দৈর্ঘ্য [math]10\\sqrt{2}[/math] সেমি. হলে, ঘনকটির ধার নির্ণয় কর।",
+        "solution": "পৃষ্ঠতলের কর্ণ = [math]\\sqrt{2}a[/math]\u003Cbr\u003E⇒ [math]\\sqrt{2}a = 10\\sqrt{2}[/math]\u003Cbr\u003E⇒ [math]a = 10[/math]\u003Cbr\u003Eনির্ণেয় ঘনকের ধার = [math]10[/math]\u003Cbr\u003E সেমি.",
+        "explanation": "ব্যাখ্যা: ঘনকের কোনো পৃষ্ঠ একটি বর্গ, তাই বর্গের কর্ণ ও পার্শ্বের সম্পর্ক [math]\\text{কর্ণ}=a\\sqrt{2}[/math]. এখানে [math]10\\sqrt{2}=a\\sqrt{2}[/math] থেকে [math]a=10[/math] সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536961,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536959,
+      "value": {
+        "options": [],
+        "question": "একটি সিলিন্ডারের ভূমির ব্যাসার্ধ ৩ সেমি. এবং উচ্চতা ৭ সেমি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সেমি.?",
+        "solution": "[math]r = 3[/math]\u003Cbr\u003E সেমি., [math]h = 7[/math]\u003Cbr\u003E সেমি.বক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi rh = 2 \\times 3.1416 \\times 3 \\times 7 = 131.946[/math]\u003Cbr\u003Eনির্ণেয় ক্ষেত্রফল = [math]131.946[/math]\u003Cbr\u003E বর্গ সেমি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: একটি সিলিন্ডারের বক্রপৃষ্ঠের ক্ষেত্রফল হয় ভিত্তির পরিধি গুণ উচ্চতা, অর্থাৎ [math]2πrh[/math]. এখানে [math]r=3[/math] সেমি এবং [math]h=7[/math], ফলে বক্রপৃষ্ঠের ক্ষেত্রফল [math]2π×3×7=42π\\ \\text{বর্গসেমি}[/math] (প্রায় [math]131.95\\ \\text{বর্গসেমি}[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536959,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536956,
+      "value": {
+        "options": [],
+        "question": "কোনো বেলনের উচ্চতা, বেলনটির ভূমির ব্যাসার্ধের দ্বিগুণ। ভূমির ক্ষেত্রফল [math]452.3904[/math] বর্গ সেমি. হলে, উচ্চতা নির্ণয় কর।",
+        "solution": "ধরি, [math]r[/math]\u003Cbr\u003E সেমি, তাহলে [math]h = 2r[/math]\u003Cbr\u003E [math]\\pi r^2 = 452.3904[/math]\u003Cbr\u003E⇒ [math]r^2 = \\dfrac{452.3904}{3.1416} = 144[/math]\u003Cbr\u003E⇒ [math]r = \\sqrt{144} = 12[/math]\u003Cbr\u003E [math]h = 2r = 2 \\times 12 = 24[/math]\u003Cbr\u003E সেমি.নির্ণেয় উচ্চতা = [math]24[/math]\u003Cbr\u003E সেমি.",
+        "explanation": "ব্যাখ্যা: বেলনের ভূমির ক্ষেত্রফল [math]A=πr^{2}=452.3904[/math] হওয়ায় [math]r^{2}=452.3904/π=144[/math] এবং তাই [math]r=12\\ \\text{cm}[/math]. উচ্চতা হলো ব্যাসার্ধের দ্বিগুণ, তাই [math]h=2r=24\\ \\text{cm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536956,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536955,
+      "value": {
+        "options": [],
+        "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ ও উচ্চতা পরস্পর সমান। বেলনটির সমগ্রতলের ক্ষেত্রফল ও বক্রতলের ক্ষেত্রফলের অনুপাত কত?",
+        "solution": "ধরি, [math]r = a[/math]\u003Cbr\u003E, [math]h = a[/math]\u003Cbr\u003Eসমগ্রতলের ক্ষেত্রফল = [math]2\\pi r(r + h) = 2\\pi a(a + a) = 4\\pi a^2[/math]\u003Cbr\u003Eবক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi rh = 2\\pi a^2[/math]\u003Cbr\u003Eঅনুপাত = [math]4\\pi a^2 : 2\\pi a^2 = 2 : 1[/math]\u003Cbr\u003Eনির্ণেয় অনুপাত = [math]2 : 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমগ্রতল [math]A_{total}=2\\pi r(h+r)[/math] এবং বক্রতল [math]A_{curved}=2\\pi r h[/math]. যদি [math]h=r[/math] হয় তাহলে [math]A_{curved}=2\\pi r^2[/math] এবং [math]A_{total}=4\\pi r^2[/math], তাই অনুপাত [math]4\\pi r^2:2\\pi r^2=2:1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536955,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536953,
+      "value": {
+        "options": [],
+        "question": "কোনো ঘনকের কর্ণের দৈর্ঘ্য [math]2\\sqrt{6}[/math] সেমি. হলে, এর আয়তন নির্ণয় কর।",
+        "solution": "কর্ণ [math]= \\sqrt{3}a[/math]\u003Cbr\u003E⇒ [math]\\sqrt{3}a = 2\\sqrt{6}[/math]\u003Cbr\u003E⇒ [math]a = \\dfrac{2\\sqrt{6}}{\\sqrt{3}} = 2\\sqrt{2}[/math]\u003Cbr\u003Eআয়তন [math]= a^3 = (2\\sqrt{2})^3 = 8 \\times 2\\sqrt{2} = 16\\sqrt{2}[/math]\u003Cbr\u003E ঘন সেমি.নির্ণেয় আয়তন = [math]16\\sqrt{2}[/math]\u003Cbr\u003E ঘন সেমি.",
+        "explanation": "ব্যাখ্যা: ঘনকের কর্ণ ও বাহুর সম্পর্ক হলো [math]d=s\\sqrt{3}[/math], তাই [math]s=\\dfrac{d}{\\sqrt{3}}=\\dfrac{2\\sqrt{6}}{\\sqrt{3}}=2\\sqrt{2}\\ \\text{সেমি}[/math]. ঘনকের আয়তন হবে [math]V=s^3=(2\\sqrt{2})^3=16\\sqrt{2}\\ \\text{সেমি}^3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536953,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536922,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের বাহিরের ব্যাসার্ধ ১০ সেমি., ভিতরের ব্যাসার্ধ ৭ সেমি., এবং উচ্চতা ৩০ সেমি.। যদি ভিতরের পৃষ্ঠ রাঙানো না হয়, তবে রঙ প্রয়োগযোগ্য পৃষ্ঠতলের ক্ষেত্রফল কত?",
+        "solution": "বাহিরের তল [math]= \\pi R^2 = 3.1416 \\times 10^2 = 314.16[/math]\u003Cbr\u003Eবাহিরের পাশ [math]= 2\\pi R h = 2 \\times 3.1416 \\times 10 \\times 30 = 1884.96[/math]\u003Cbr\u003Eনিচের তল [math]= \\pi r^2 = 3.1416 \\times 7^2 = 153.9384[/math]\u003Cbr\u003Eমোট = [math]314.16 + 1884.96 + 153.94 = 2353.06[/math]\u003Cbr\u003E বর্গ সেমি. (প্রায়)",
+        "explanation": "বাহিরে রঙ লাগবে কেবল বাইরের বক্র পৃষ্ঠ এবং দু’টি মুখের আয়তন (ভিতরের পৃষ্ঠ রাঙানো হবে না)। বাইরের বক্র পৃষ্ঠফল [math]2πRh=2π×10×30=600π\\ \\text{cm}^2[/math] এবং দুই মুখের সম্মিলিত আয়তন [math]2π(R^2-r^2)=2π(100-49)=102π\\ \\text{cm}^2[/math], ফলে মোট রঙ প্রয়োগযোগ্য পৃষ্ঠতল [math]600π+102π=702π\\ \\text{cm}^2\\approx2205.4\\ \\text{cm}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536922,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536949,
+      "value": {
+        "options": [],
+        "question": "কোনো ঘনকের একটি পৃষ্ঠতলের কর্ণের দৈর্ঘ্য [math]8\\sqrt{2}[/math] সেমি. হলে, আয়তন নির্ণয় কর।",
+        "solution": "পৃষ্ঠতলের কর্ণ [math]= \\sqrt{2}a[/math]\u003Cbr\u003E⇒ [math]\\sqrt{2}a = 8\\sqrt{2}[/math]\u003Cbr\u003E⇒ [math]a = 8[/math]\u003Cbr\u003Eআয়তন [math]= a^3 = 8^3 = 512[/math]\u003Cbr\u003E ঘন সেমি.নির্ণেয় আয়তন = [math]512[/math]\u003Cbr\u003E ঘন সেমি.",
+        "explanation": "ঘনকের এক পৃষ্ঠতলের কর্ণ ও পাশের সম্পর্ক হচ্ছে [math]d=a\\sqrt{2}[/math], তাই [math]a=8[/math] সেমি। আয়তন [math]V=a^3=8^3=512\\ \\text{cm}^3[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536949,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536948,
+      "value": {
+        "options": [],
+        "question": "একটি সমবৃত্তভূমিক বেলনের উচ্চতা ২০ সেমি. এবং ভূমির ব্যাসার্ধ ১০ সেমি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল ও ভূমির ক্ষেত্রফলের পার্থক্য নির্ণয় কর।",
+        "solution": "[math]h = 20[/math]\u003Cbr\u003E সেমি., [math]r = 10[/math]\u003Cbr\u003E সেমি.বক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi rh = 2 \\times 3.1416 \\times 10 \\times 20 = 1256.64[/math]\u003Cbr\u003Eভূমির ক্ষেত্রফল = [math]\\pi r^2 = 3.1416 \\times 100 = 314.16[/math]\u003Cbr\u003Eপার্থক্য = [math]1256.64 - 314.16 = 942.48[/math]\u003Cbr\u003E বর্গ সেমি.নির্ণেয় পার্থক্য = [math]942.48[/math]\u003Cbr\u003E বর্গ সেমি.",
+        "explanation": "ব্যাখ্যা: প্রথমে slant height বের করি: [math]l=\\sqrt{r^2+h^2}=\\sqrt{10^2+20^2}=\\sqrt{500}=10\\sqrt5\\ \\text{সেমি}[/math]. বক্রপৃষ্ঠের ক্ষেত্রফল [math]=\\pi r l=\\pi\\times10\\times10\\sqrt5=100\\pi\\sqrt5\\ \\text{বর্গসেমি}[/math] এবং ভূমির ক্ষেত্রফল [math]=\\pi r^2=\\pi\\times10^2=100\\pi\\ \\text{বর্গসেমি}[/math]; অতএব পার্থক্য [math]=100\\pi(\\sqrt5-1)\\ \\text{বর্গসেমি}\\approx388.66\\ \\text{বর্গসেমি}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536948,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536946,
+      "value": {
+        "options": [],
+        "question": "একটি সিলিন্ডারের ভূমির ব্যাসার্ধ ৩ সেমি. এবং উচ্চতা ৭ সেমি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল কত বর্গ সেমি.?",
+        "solution": "[math]r = 3[/math]\u003Cbr\u003E সেমি., [math]h = 7[/math]\u003Cbr\u003E সেমি.বক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi rh = 2 \\times 3.1416 \\times 3 \\times 7 = 131.946[/math]\u003Cbr\u003Eনির্ণেয় ক্ষেত্রফল = [math]131.946[/math]\u003Cbr\u003E বর্গ সেমি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: সিলিন্ডারের বক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi r h[/math], কারণ বক্রপৃষ্ঠ হল বৃত্তের পরিধি এবং উচ্চতার গুণফল। এখানে [math]r=3\\ \\text{সেমি}[/math] এবং [math]h=7\\ \\text{সেমি}[/math], তাই ক্ষেত্রফল = [math]2\\pi\\times3\\times7=42\\pi\\ \\text{বর্গসেমি}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536946,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536945,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের সমগ্রপৃষ্ঠে লাল রঙ করা হলো। বেলনের ব্যাসার্ধ ৬ সেমি. এবং উচ্চতা ১৫ সেমি. হলে, মোট কত বর্গ সেমি. রঙ লাগবে?",
+        "solution": "[math]r = 6[/math]\u003Cbr\u003E, [math]h = 15[/math]\u003Cbr\u003Eক্ষেত্রফল [math]= 2\\pi r (r + h) = 2 \\times 3.1416 \\times 6 \\times (6+15) = 2 \\times 3.1416 \\times 6 \\times 21[/math]\u003Cbr\u003E [math]= 791.6816[/math]\u003Cbr\u003E বর্গ সেমি.",
+        "explanation": "বেলনের সমগ্রপৃষ্ঠ হল দুইটি বৃত্তের ক্ষেত্রফল ও একটি বক্র পৃষ্ঠের যোগ, তাই ফর্মুলা [math]S=2\\pi r(r+h)[/math]. এখানে [math]r=6[/math], [math]h=15[/math] প্রতিস্থাপন করলে [math]S=2\\pi\\cdot6(6+15)=252\\pi\\approx792\\ \\text{বর্গসেমি}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536945,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536943,
+      "value": {
+        "options": [],
+        "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ব্যাসার্ধ ও উচ্চতা পরস্পর সমান। বেলনটির সমগ্রতলের ক্ষেত্রফল ও বক্রতলের ক্ষেত্রফলের অনুপাত কত?",
+        "solution": "ধরি, [math]r = a[/math]\u003Cbr\u003E, [math]h = a[/math]\u003Cbr\u003Eসমগ্রতলের ক্ষেত্রফল = [math]2\\pi r(r + h) = 2\\pi a(a + a) = 4\\pi a^2[/math]\u003Cbr\u003Eবক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi rh = 2\\pi a^2[/math]\u003Cbr\u003Eঅনুপাত = [math]4\\pi a^2 : 2\\pi a^2 = 2 : 1[/math]\u003Cbr\u003Eনির্ণেয় অনুপাত = [math]2 : 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমবৃত্তভূমিক বেলনের মোট ক্ষেত্রফল [math]=2πr(r+h)[/math] এবং বক্রতলের ক্ষেত্রফল [math]=2πrh[/math]. যদি [math]r=h[/math] হয় তাহলে মোট = [math]2πr(2r)=4πr^2[/math] এবং বক্রতল = [math]2πr^2[/math], অনুপাত = [math]4πr^2:2πr^2=2:1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536943,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536942,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের মোট উচ্চতা ৩০ সেমি। বেলনটি অনুভূমিকভাবে কেটে ৩:২ অনুপাতে দুটি খন্ড করা হলো। যদি বেলনের ব্যাসার্ধ ৭ সেমি. হয়, তবে ছোট খন্ডের আয়তন কত?",
+        "solution": "মোট উচ্চতা [math]= 30[/math]\u003Cbr\u003E সেমি., ব্যাসার্ধ [math]r = 7[/math]\u003Cbr\u003E সেমি.অনুপাতে ছোট অংশের উচ্চতা = [math]\\dfrac{2}{5} \\times 30 = 12[/math]\u003Cbr\u003E সেমি.আয়তন [math]= \\pi r^2 h = 3.1416 \\times 7^2 \\times 12 = 3.1416 \\times 49 \\times 12 = 1847.7[/math]\u003Cbr\u003E ঘন সেমি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: একই ব্যাসার্ধের বেলনের আয়তন উচ্চতার অনুপাতে হয়, তাই কাটা অনুপাতে ছোট অংশের উচ্চতা [math]\\dfrac{2}{5}\\times30=12\\ \\text{cm}[/math]। ফলে তার আয়তন [math]V=\\pi r^2 h=\\pi\\times7^2\\times12=588\\pi\\ \\text{cm}^3[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536942,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536938,
+      "value": {
+        "options": [],
+        "question": "একটি সমবৃত্তভূমিক বেলনের ভূমির ক্ষেত্রফল 706.86 বর্গ সেমি. এবং উচ্চতা 28 সেমি. হলে, বেলনের সমগ্রতলের ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]h = 28[/math]\u003Cbr\u003E সেমি., ভূমির ক্ষেত্রফল = [math]706.86[/math]\u003Cbr\u003E বর্গ সেমি.⇒ [math]\\pi r^2 = 706.86[/math]\u003Cbr\u003E⇒ [math]r^2 = \\dfrac{706.86}{3.1416} = 225[/math]\u003Cbr\u003E ⇒ [math]r = \\sqrt{225} = 15[/math]\u003Cbr\u003E সেমি.সমগ্রতলের ক্ষেত্রফল = [math]2\\pi r (r + h)[/math]\u003Cbr\u003E [math]= 2 \\times 3.1416 \\times 15 \\times (15 + 28)[/math]\u003Cbr\u003E [math]= 2 \\times 3.1416 \\times 15 \\times 43 = 4052.66[/math]\u003Cbr\u003Eনির্ণেয় ক্ষেত্রফল = [math]4052.66[/math]\u003Cbr\u003E বর্গ সেমি. (প্রায়)",
+        "explanation": "ভূমি একটি বৃত্ত হওয়ায় [math]\\pi r^2=706.86[/math] থেকে [math]r^2=706.86/\\pi=225[/math] হলে [math]r=15\\ \\text{সেমি}[/math]. স্লান্ট উচ্চতা [math]l=\\sqrt{r^2+h^2}=\\sqrt{225+28^2}=\\sqrt{1009}\\approx31.764\\ \\text{সেমি}[/math] এবং সমগ্রতল = [math]\\pi r(r+l)=\\pi\\times15\\,(15+\\sqrt{1009})\\approx2203.73\\ \\text{বর্গ সেমি}[/math] — তাই উত্তরটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536938,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536937,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের ভূমির ব্যাসার্ধ ৪ সেমি. এবং উচ্চতা ১৬ সেমি. হলে, বেলনের আয়তন কত?",
+        "solution": "দেওয়া আছে, [math]r = 4[/math]\u003Cbr\u003E সেমি., [math]h = 16[/math]\u003Cbr\u003E সেমি.আয়তন [math]= \\pi r^2 h[/math]\u003Cbr\u003E [math]= 3.1416 \\times 4^2 \\times 16[/math]\u003Cbr\u003E [math]= 3.1416 \\times 64 \\times 16[/math]\u003Cbr\u003E [math]= 3216.9984[/math]\u003Cbr\u003E ঘন সেমি.নির্ণেয় আয়তন = [math]3216.9984[/math]\u003Cbr\u003E ঘন সেমি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: বেলনের আয়তনের সূত্র [math]V=\\tfrac{1}{3}\\pi r^{2}h[/math]. এখানে [math]r=4\\ \\text{cm}[/math] এবং [math]h=16\\ \\text{cm}[/math], তাই [math]V=\\tfrac{1}{3}\\pi\\times4^{2}\\times16=\\tfrac{256}{3}\\pi\\ \\text{cm}^{3}\\approx268.1\\ \\text{cm}^{3}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536937,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536936,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের বাহিরের ব্যাসার্ধ ১০ সেমি., ভিতরের ব্যাসার্ধ ৭ সেমি., এবং উচ্চতা ৩০ সেমি.। যদি ভিতরের পৃষ্ঠ রাঙানো না হয়, তবে রঙ প্রয়োগযোগ্য পৃষ্ঠতলের ক্ষেত্রফল কত?",
+        "solution": "বাহিরের তল [math]= \\pi R^2 = 3.1416 \\times 10^2 = 314.16[/math]\u003Cbr\u003Eবাহিরের পাশ [math]= 2\\pi R h = 2 \\times 3.1416 \\times 10 \\times 30 = 1884.96[/math]\u003Cbr\u003Eনিচের তল [math]= \\pi r^2 = 3.1416 \\times 7^2 = 153.9384[/math]\u003Cbr\u003Eমোট = [math]314.16 + 1884.96 + 153.94 = 2353.06[/math]\u003Cbr\u003E বর্গ সেমি. (প্রায়)",
+        "explanation": "বর্ণনা: ভিতরের বক্র পৃষ্ঠ রাঙানো না হওয়ায় রঙ পড়বে বাহ্যিক বক্র পৃষ্ঠ এবং দুইটি আন্নুলার (উপর ও নীচের) মুখেই। বাহ্যিক বক্র পৃষ্ঠফল [math]=2\\pi Rh=2\\pi(10)(30)=600\\pi[/math], দুইটি আন্নুলারের যোগফল [math]=2\\pi(R^2-r^2)=2\\pi(100-49)=102\\pi[/math]। অতএব মোট রঙ প্রয়োগযোগ্য পৃষ্ঠতল [math]=600\\pi+102\\pi=702\\pi\\ \\text{বর্গ সেমি}\\approx2205.4\\ \\text{বর্গ সেমি}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536936,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536935,
+      "value": {
+        "options": [],
+        "question": "একটি সমবৃত্তভূমিক বেলনের উচ্চতা ২০ সেমি. এবং ভূমির ব্যাসার্ধ ১০ সেমি. হলে, বক্রপৃষ্ঠের ক্ষেত্রফল ও ভূমির ক্ষেত্রফলের পার্থক্য নির্ণয় কর।",
+        "solution": "[math]h = 20[/math]\u003Cbr\u003E সেমি., [math]r = 10[/math]\u003Cbr\u003E সেমি.বক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi rh = 2 \\times 3.1416 \\times 10 \\times 20 = 1256.64[/math]\u003Cbr\u003Eভূমির ক্ষেত্রফল = [math]\\pi r^2 = 3.1416 \\times 100 = 314.16[/math]\u003Cbr\u003Eপার্থক্য = [math]1256.64 - 314.16 = 942.48[/math]\u003Cbr\u003E বর্গ সেমি.নির্ণেয় পার্থক্য = [math]942.48[/math]\u003Cbr\u003E বর্গ সেমি.",
+        "explanation": "বক্রপৃষ্ঠের ক্ষেত্রফল = [math]2\\pi r h[/math] এবং ভূমির ক্ষেত্রফল = [math]\\pi r^2[/math], সুতরাং পার্থক্য = [math]\\pi r(2h-r)[/math]. এখানে [math]r=10\\ \\text{cm}[/math], [math]h=20\\ \\text{cm}[/math], তাই পার্থক্য = [math]\\pi\\times10\\times(2\\times20-10)=300\\pi\\ \\text{cm}^2\\approx942.48\\ \\text{cm}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536935,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536933,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের সমগ্রপৃষ্ঠে লাল রঙ করা হলো। বেলনের ব্যাসার্ধ ৬ সেমি. এবং উচ্চতা ১৫ সেমি. হলে, মোট কত বর্গ সেমি. রঙ লাগবে?",
+        "solution": "[math]r = 6[/math]\u003Cbr\u003E, [math]h = 15[/math]\u003Cbr\u003Eক্ষেত্রফল [math]= 2\\pi r (r + h) = 2 \\times 3.1416 \\times 6 \\times (6+15) = 2 \\times 3.1416 \\times 6 \\times 21[/math]\u003Cbr\u003E [math]= 791.6816[/math]\u003Cbr\u003E বর্গ সেমি.",
+        "explanation": "বেলনের মোট পৃষ্ঠফল হলো বৃত্তভিত্তি ও হেলান পৃষ্ঠের যোগফল, এবং সূত্র [math]A=\\pi r(r+l)[/math]. এখানে [math]r=6,\\; h=15,\\; l=\\sqrt{6^2+15^2}=\\sqrt{261}[/math], তাই [math]A=\\pi\\cdot6(6+\\sqrt{261})\\approx417.6\\ \\text{বর্গসেমি}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536933,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536928,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের মোট উচ্চতা ৩০ সেমি। বেলনটি অনুভূমিকভাবে কেটে ৩:২ অনুপাতে দুটি খন্ড করা হলো। যদি বেলনের ব্যাসার্ধ ৭ সেমি. হয়, তবে ছোট খন্ডের আয়তন কত?",
+        "solution": "মোট উচ্চতা [math]= 30[/math]\u003Cbr\u003E সেমি., ব্যাসার্ধ [math]r = 7[/math]\u003Cbr\u003E সেমি.অনুপাতে ছোট অংশের উচ্চতা = [math]\\dfrac{2}{5} \\times 30 = 12[/math]\u003Cbr\u003E সেমি.আয়তন [math]= \\pi r^2 h = 3.1416 \\times 7^2 \\times 12 = 3.1416 \\times 49 \\times 12 = 1847.7[/math]\u003Cbr\u003E ঘন সেমি. (প্রায়)",
+        "explanation": "বেলনের অনুভূমিক কাটা হলে ভিত্তি ক্ষেত্রফল একই থাকে, তাই আয়তনগুলো তাদের উচ্চতার অনুপাতে হবে; মোট উচ্চতা ৩০ সেমি হওয়ায় ছোট অংশের উচ্চতা [math]\\tfrac{2}{5}\\times30=12\\ \\text{সেমি}[/math].  \nঅতএব ছোট অংশের আয়তন [math]V=\\pi r^2 h=\\pi\\times7^2\\times12=588\\pi\\ \\text{cm}^3\\ (\\approx1846\\ \\text{cm}^3).[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536928,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536924,
+      "value": {
+        "options": [],
+        "question": "একটি বেলনের ভূমির ব্যাসার্ধ ৪ সেমি. এবং উচ্চতা ১৬ সেমি. হলে, বেলনের আয়তন কত?",
+        "solution": "দেওয়া আছে, [math]r = 4[/math]\u003Cbr\u003E সেমি., [math]h = 16[/math]\u003Cbr\u003E সেমি.আয়তন [math]= \\pi r^2 h[/math]\u003Cbr\u003E [math]= 3.1416 \\times 4^2 \\times 16[/math]\u003Cbr\u003E [math]= 3.1416 \\times 64 \\times 16[/math]\u003Cbr\u003E [math]= 3216.9984[/math]\u003Cbr\u003E ঘন সেমি.নির্ণেয় আয়তন = [math]3216.9984[/math]\u003Cbr\u003E ঘন সেমি. (প্রায়)",
+        "explanation": "বেলনের আয়তনের সূত্র [math]V=\\tfrac{1}{3}\\pi r^2 h[/math]. এখানে [math]r=4\\ \\text{সেমি},\\ h=16\\ \\text{সেমি}[/math] হলে [math]V=\\tfrac{1}{3}\\pi(4)^2(16)=\\tfrac{256}{3}\\pi\\ \\text{সেমি}^3\\approx268.08\\ \\text{সেমি}^3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536924,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12962&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12962&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12962&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 28,
+  "total": 28
+}

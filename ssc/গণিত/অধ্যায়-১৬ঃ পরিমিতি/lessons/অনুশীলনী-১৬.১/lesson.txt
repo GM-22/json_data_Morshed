@@ -1,0 +1,1715 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 536876,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের পরিসীমা [math]16[/math] সে.মি. এবং ভূমি [math]6[/math] সে.মি. হলে, উচ্চতা নির্ণয় কর।",
+        "solution": "পরিসীমা = [math]16[/math]\u003Cbr\u003E সে.মি., ভূমি = [math]6[/math]\u003Cbr\u003E সে.মি.সমান বাহু = [math]\\frac{16 - 6}{2} = 5[/math]\u003Cbr\u003E সে.মি.উচ্চতা = [math]\\sqrt{a^2 - \\left(\\frac{b}{2}\\right)^2}[/math]\u003Cbr\u003E= [math]\\sqrt{5^2 - \\left(\\frac{6}{2}\\right)^2}[/math]\u003Cbr\u003E= [math]\\sqrt{25 - 9} = \\sqrt{16} = 4[/math]\u003Cbr\u003E সে.মি.নির্ণেয় উচ্চতা = [math]4[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: সমদ্বিবাহু ত্রিভুজের দুইটি সম বাহুর যোগফল [math]16-6=10[/math], তাই প্রতিটির দৈর্ঘ্য [math]10/2=5[/math] সেমি; উচ্চতা ভূমিকে দ্বিখণ্ড করে ফলে আধা ভূমি [math]3[/math] সেমি হয়, পিথাগোরাস থেকে [math]5^2=h^2+3^2\\Rightarrow h^2=16[/math] এবং [math]h=4[/math] সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536876,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536860,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]21[/math] সে.মি. ও [math]24[/math] সে.মি., এবং অন্তর্ভুক্ত কোণ [math]60^\\circ[/math] হলে, ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 21[/math]\u003Cbr\u003E সে.মি., [math]b = 24[/math]\u003Cbr\u003E সে.মি., [math]\\theta = 60^\\circ[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 21 \\times 24 \\times \\sin 60^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 21 \\times 24 \\times \\frac{\\sqrt{3}}{2}[/math]\u003Cbr\u003E= [math]126 \\sqrt{3}[/math]\u003Cbr\u003E বর্গ সে.মি.প্রায় = [math]126 \\times 1.732 = 218.23[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ [math]218.23[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের ক্ষেত্রফল সূত্র হল [math]A=\\tfrac{1}{2}ab\\sin C[/math] যেখানে [math]a[/math] এবং [math]b[/math] দুই বাহু এবং [math]C[/math] তাদের অন্তর্ভুক্ত কোণ। তাই [math]A=\\tfrac{1}{2}\\times21\\times24\\times\\sin60^\\circ=\\tfrac{1}{2}\\times21\\times24\\times\\tfrac{\\sqrt{3}}{2}=126\\sqrt{3}\\ \\text{সে.মি.}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536860,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536861,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]7[/math] মি. ও [math]9[/math] মি., এবং বাহুদ্বয়ের অন্তর্ভুক্ত কোণ [math]60^\\circ[/math] হলে, ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 7[/math]\u003Cbr\u003E মি., [math]b = 9[/math]\u003Cbr\u003E মি., [math]\\theta = 60^\\circ[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 7 \\times 9 \\times \\sin 60^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 63 \\times \\frac{\\sqrt{3}}{2}[/math]\u003Cbr\u003E= [math]\\frac{63\\sqrt{3}}{4}[/math]\u003Cbr\u003E বর্গ মি.প্রায় = [math]27.28[/math]\u003Cbr\u003E বর্গ মি.নির্ণেয় ক্ষেত্রফল ≈ [math]27.28[/math]\u003Cbr\u003E বর্গ মি.",
+        "explanation": "ত্রিভুজের ক্ষেত্রফল দুইটি বাহু ও তাদের অন্তর্ভুক্ত কোণের সূত্রে বলা আছে: [math]A=\\tfrac{1}{2}ab\\sin C[/math]. এখানে [math]a=7,\\; b=9,\\; C=60^\\circ[/math], তাই [math]A=\\tfrac{1}{2}\\times7\\times9\\times\\sin60^\\circ[/math] এবং [math]\\sin60^\\circ=\\tfrac{\\sqrt3}{2}[/math]. ফলে [math]A=\\tfrac{1}{2}\\times63\\times\\tfrac{\\sqrt3}{2}=\\tfrac{63\\sqrt3}{4}\\ \\text{মি.}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536861,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536863,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]9[/math] সে.মি. ও [math]15[/math] সে.মি., এবং অন্তর্ভুক্ত কোণ [math]120^\\circ[/math] হলে, ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 9[/math]\u003Cbr\u003E সে.মি., [math]b = 15[/math]\u003Cbr\u003E সে.মি., [math]\\theta = 120^\\circ[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 9 \\times 15 \\times \\sin 120^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 9 \\times 15 \\times \\frac{\\sqrt{3}}{2}[/math]\u003Cbr\u003E= [math]\\frac{135 \\sqrt{3}}{2}[/math]\u003Cbr\u003E বর্গ সে.মি.প্রায় = [math]116.72[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ [math]116.72[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ত্রিভুজের ক্ষেত্রফল সূত্র [math]A=\\tfrac{1}{2}ab\\sin C[/math] প্রযোজ্য; এখানে [math]a=9,\\;b=15,\\;C=120^\\circ[/math] এবং [math]\\sin120^\\circ=\\sin60^\\circ=\\tfrac{\\sqrt3}{2}[/math], সুতরাং [math]A=\\tfrac{1}{2}\\cdot9\\cdot15\\cdot\\tfrac{\\sqrt3}{2}=\\tfrac{135\\sqrt3}{4}\\ \\text{বর্গসেমি}\\approx58.59\\ \\text{বর্গসেমি}.[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536863,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536865,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজের অতিভুজ [math]5[/math] সে.মি. এবং ভূমি [math]3[/math] সে.মি. হলে, ত্রিভুজটির পরিসীমা নির্ণয় কর।",
+        "solution": "অতিভুজ = [math]5[/math]\u003Cbr\u003E সে.মি., ভূমি = [math]3[/math]\u003Cbr\u003E সে.মি.অপর বাহু = [math]\\sqrt{(5)^2 - (3)^2} = \\sqrt{25 - 9} = \\sqrt{16} = 4[/math]\u003Cbr\u003E সে.মি.ত্রিভুজটির পরিসীমা = [math]5 + 4 + 3 = 12[/math]\u003Cbr\u003E সে.মি.নির্ণেয় ত্রিভুজটির পরিসীমা [math]12[/math]\u003Cbr\u003E সে.মি.।",
+        "explanation": "ব্যাখ্যা: সমকোণী ত্রিভুজে পিথাগোরাস সূত্র অনুযায়ী [math]5^2=3^2+b^2[/math], ফলে [math]b=\\sqrt{25-9}=\\sqrt{16}=4[/math]. অতএব পরিসীমা [math]3+4+5=12[/math] সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536865,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536867,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজের ভূমি [math]25[/math] সে.মি. এবং উচ্চতা [math]30[/math] সে.মি. হলে, ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "ভূমি [math]a = 25[/math]\u003Cbr\u003E সে.মি., উচ্চতা [math]b = 30[/math]\u003Cbr\u003E সে.মি.ত্রিভুজের ক্ষেত্রফল = [math]\\frac{1}{2} \\times a \\times b[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 25 \\times 30[/math]\u003Cbr\u003E= [math]375[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ত্রিভুজের ক্ষেত্রফল = [math]375[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমকোণী ত্রিভুজে ভূমি ও উচ্চতা পরস্পর লম্ব হওয়ায় ক্ষেত্রফল সূত্র [math]A=\\tfrac{1}{2}\\times\\text{ভূমি}\\times\\text{উচ্চতা}[/math] প্রযোজ্য। তাই [math]A=\\tfrac{1}{2}\\times25\\times30=375\\ \\text{সেমি}^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536867,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536869,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজের ভূমি [math]5[/math] সে.মি. এবং উচ্চতা [math]14[/math] সে.মি. হলে, ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "ভূমি [math]a = 5[/math]\u003Cbr\u003E সে.মি., উচ্চতা [math]b = 14[/math]\u003Cbr\u003E সে.মি.ত্রিভুজের ক্ষেত্রফল = [math]\\frac{1}{2} \\times a \\times b[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 5 \\times 14[/math]\u003Cbr\u003E= [math]35[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ত্রিভুজের ক্ষেত্রফল = [math]35[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমকোণী ত্রিভুজের ক্ষেত্রফল [math]A=\\tfrac{1}{2}\\times\\text{ভূমি}\\times\\text{উচ্চতা}[/math]; এখানে [math]A=\\tfrac{1}{2}\\times5\\times14=35[/math] বর্গসেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536869,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536871,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজের সমকোণ ব্যতীত অপর কোণদ্বয় যথাক্রমে [math]4x^\\circ[/math] ও [math]2x^\\circ[/math] হলে, ক্ষুদ্রতর কোণের পরিমাণ নির্ণয় কর।",
+        "solution": "আমরা জানি, সমকোণী ত্রিভুজের অপর দুই কোণের সমষ্টি = [math]90^\\circ[/math]\u003Cbr\u003Eঅতএব, [math]4x^\\circ + 2x^\\circ = 90^\\circ[/math]\u003Cbr\u003Eবা, [math]6x = 90[/math]\u003Cbr\u003Eবা, [math]x = \\frac{90}{6} = 15[/math]\u003Cbr\u003Eতাহলে [math]4x = 4 \\times 15 = 60^\\circ[/math]\u003Cbr\u003E, এবং [math]2x = 2 \\times 15 = 30^\\circ[/math]\u003Cbr\u003Eক্ষুদ্রতর কোণের পরিমাণ = [math]30^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমকোণী ত্রিভুজে একটি কোণ [math]90^\\circ[/math], তাই বাকি দুই কোণের যোগফল [math]90^\\circ[/math]. এখানে [math]4x^\\circ+2x^\\circ=90^\\circ[/math] হলে [math]6x=90[/math], তাই [math]x=15[/math] এবং ক্ষুদ্রতর কোণটি [math]2x=30^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536871,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536873,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী সমদ্বিবাহু ত্রিভুজের অতিভুজের দৈর্ঘ্য [math]12[/math] সে.মি. হলে, ত্রিভুজটির ক্ষেত্রফল কত?",
+        "solution": "সমকোণী সমদ্বিবাহু ত্রিভুজে দুই বাহু সমান এবং একটি কোণ [math]90^\\circ[/math]\u003Cbr\u003Eএই দুই সমান বাহু হবে [math]x[/math]\u003Cbr\u003E সে.মি. এবং অতিভুজ হবে [math]12[/math]\u003Cbr\u003E সে.মি.আমরা জানি, অতিভুজ [math]= \\sqrt{x^2 + x^2} = \\sqrt{2x^2} = x\\sqrt{2}[/math]\u003Cbr\u003Eতাহলে, [math]x\\sqrt{2} = 12[/math]\u003Cbr\u003Eবা, [math]x = \\frac{12}{\\sqrt{2}} = \\frac{12\\sqrt{2}}{2} = 6\\sqrt{2}[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} \\times x \\times x = \\frac{1}{2} \\times (6\\sqrt{2}) \\times (6\\sqrt{2})[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 36 \\times 2 = 36[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ত্রিভুজটির ক্ষেত্রফল = [math]36[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "সমাধান: সমকোণী সমদ্বিবাহু ত্রিভুজে পাদদুটি সমান এবং অতিভুজ [math]\\sqrt{2}[/math] গুণ পাদ, তাই প্রতিটি পাদের দৈর্ঘ্য [math]12/\\sqrt{2}=6\\sqrt{2}[/math]. ক্ষেত্রফল = [math]\\tfrac{1}{2}(6\\sqrt{2})^2=\\tfrac{1}{2}\\cdot72=36[/math] সেমি².",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536873,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536859,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]19[/math] সে.মি. ও [math]20[/math] সে.মি. এবং এদের অন্তর্ভুক্ত কোণ [math]45^\\circ[/math] হলে, ত্রিভুজটির ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 19[/math]\u003Cbr\u003E সে.মি., [math]b = 20[/math]\u003Cbr\u003E সে.মি., [math]\\theta = 45^\\circ[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 19 \\times 20 \\times \\sin 45^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 19 \\times 20 \\times \\frac{\\sqrt{2}}{2}[/math]\u003Cbr\u003E= [math]\\frac{190 \\times \\sqrt{2}}{2} = 95 \\sqrt{2}[/math]\u003Cbr\u003E বর্গ সে.মি. (প্রায়)নির্ণেয় ক্ষেত্রফল ≈ [math]134.35[/math]\u003Cbr\u003E বর্গ সে.মি. (প্রায়)।",
+        "explanation": "ব্যাখ্যা: একটি ত্রিভুজের ক্ষেত্রফল সূত্র হলো [math]A=\\frac{1}{2}ab\\sin C[/math]। তাই এখানে [math]A=\\frac{1}{2}\\times19\\times20\\times\\sin45^\\circ=190\\times\\frac{\\sqrt{2}}{2}=95\\sqrt{2}\\ \\text{সেমি}^2\\approx134.35\\ \\text{সেমি}^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536859,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536879,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের পরিসীমা [math]36[/math] সে.মি. এবং ভূমি [math]12[/math] সে.মি. হলে, এর ক্ষেত্রফল কত?",
+        "solution": "পরিসীমা = [math]36[/math]\u003Cbr\u003E সে.মি., ভূমি [math]b = 12[/math]\u003Cbr\u003E সে.মি.সমান বাহু = [math]\\frac{36 - 12}{2} = 12[/math]\u003Cbr\u003E সে.মি.উচ্চতা = [math]\\sqrt{12^2 - \\left(\\frac{12}{2}\\right)^2} = \\sqrt{144 - 36} = \\sqrt{108}[/math]\u003Cbr\u003E= [math]\\sqrt{108} = 6\\sqrt{3}[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\frac{1}{2} \\times b \\times h = \\frac{1}{2} \\times 12 \\times 6\\sqrt{3} = 36\\sqrt{3}[/math]\u003Cbr\u003E বর্গ সে.মি.প্রায় = [math]62.35[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ [math]62.35[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: পরিসীমা [math]36[/math] থেকে ভূমি [math]12[/math] বাদ দিলে দুই সমদ্বিভাবক সাইডের সমষ্টি [math]24[/math], তাই প্রতিটি সমান পাশে হল [math]12[/math] সেমি এবং ত্রিভুজটি সমত্রিভুজ। উচ্চতা [math](\\sqrt{3}/2)\\times12=6\\sqrt{3}[/math] সেমি হলে ক্ষেত্রফল [math]\\tfrac{1}{2}\\times12\\times6\\sqrt{3}=36\\sqrt{3}[/math] বর্গসেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536879,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536881,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের ভূমি [math]10[/math] সে.মি. এবং সমান বাহু [math]13[/math] সে.মি. হলে, এর উচ্চতা কত?",
+        "solution": "সমান বাহু [math]a = 13[/math]\u003Cbr\u003E সে.মি., ভূমি [math]b = 10[/math]\u003Cbr\u003E সে.মি.উচ্চতা = [math]\\sqrt{a^2 - \\left(\\frac{b}{2}\\right)^2}[/math]\u003Cbr\u003E= [math]\\sqrt{13^2 - \\left(\\frac{10}{2}\\right)^2}[/math]\u003Cbr\u003E= [math]\\sqrt{169 - 25} = \\sqrt{144} = 12[/math]\u003Cbr\u003E সে.মি.নির্ণেয় উচ্চতা = [math]12[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: সমদ্বিবাহু ত্রিভুজে শিখর থেকে ভূমিতে নামানো উচ্চতা ভূমির মধ্যবিন্দুতে পড়ে, তাই অর্ধেক ভূমি হবে [math]10/2=5[/math] সে.মি. এবং দ্রাঘিমা হবে [math]13[/math] সে.মি.; পিথাগোরাস সূত্র ব্যবহার করে [math]h^2+5^2=13^2\\Rightarrow h=\\sqrt{13^2-5^2}=\\sqrt{169-25}=\\sqrt{144}=12[/math], তাই উচ্চতা [math]12[/math] সে.মি.।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536881,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536883,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর অন্তর্ভুক্ত কোণ [math]30^\\circ[/math] এবং ক্ষেত্রফল [math]25[/math] বর্গ সে.মি. হলে, সমান সমান বাহুর দৈর্ঘ্য কত?",
+        "solution": "[math]a = b = ?[/math]\u003Cbr\u003E, [math]\\theta = 30^\\circ[/math]\u003Cbr\u003E, ক্ষেত্রফল = [math]25[/math]\u003Cbr\u003E বর্গ সে.মি.ক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003Eবা, [math]25 = \\frac{1}{2} \\times a \\times a \\times \\sin 30^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times a^2 \\times \\frac{1}{2}[/math]\u003Cbr\u003E= [math]\\frac{1}{4} a^2[/math]\u003Cbr\u003Eতাহলে, [math]\\frac{1}{4} a^2 = 25[/math]\u003Cbr\u003Eবা, [math]a^2 = 100[/math]\u003Cbr\u003Eবা, [math]a = 10[/math]\u003Cbr\u003Eনির্ণেয় সমান বাহুর দৈর্ঘ্য = [math]10[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: সমান বাহুদের অন্তর্ভুক্ত কোণ হলে ক্ষেত্রফল সূত্র [math]A=\\tfrac{1}{2}ab\\sin C[/math] প্রয়োগ করা যায়; এখানে [math]a=b[/math] এবং [math]\\sin30^\\circ=\\tfrac{1}{2}[/math], তাই [math]A=\\tfrac{1}{2}a^2\\sin30^\\circ=\\tfrac{a^2}{4}[/math]. দেওয়া আছে [math]A=25[/math], তাই [math]\\tfrac{a^2}{4}=25\\Rightarrow a^2=100\\Rightarrow a=10[/math] সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536883,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536885,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর দৈর্ঘ্য [math]3[/math] সে.মি. এবং ভূমির দৈর্ঘ্য [math]4[/math] সে.মি. হলে, ত্রিভুজটির ক্ষেত্রফল কত?",
+        "solution": "সমান বাহু [math]a = 3[/math]\u003Cbr\u003E সে.মি., ভূমি [math]b = 4[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\frac{1}{4} \\sqrt{4a^2 - b^2} \\times b[/math]\u003Cbr\u003E= [math]\\frac{1}{4} \\times \\sqrt{4 \\times 3^2 - 4^2} \\times 4[/math]\u003Cbr\u003E= [math]\\frac{1}{4} \\times \\sqrt{36 - 16} \\times 4 = \\frac{1}{4} \\times \\sqrt{20} \\times 4[/math]\u003Cbr\u003E= [math]\\sqrt{20} = 2\\sqrt{5}[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = [math]2\\sqrt{5}[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "সমাধান: সমদ্বিবাহু ত্রিভুজে উচ্চতাটি ভিত্তিকে সমদ্বিখণ্ড করে, তাই একাংশের আধা = [math]2[/math] সে.মি. হলে উচ্চতা হবে [math]h=\\sqrt{3^2-2^2}=\\sqrt{5}[/math] সে.মি. এবং ক্ষেত্রফল হবে [math]A=\\tfrac{1}{2}\\times4\\times\\sqrt{5}=2\\sqrt{5}\\ \\text{সে.মি.}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536885,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536887,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর দৈর্ঘ্য [math]6[/math] সে.মি. এবং এদের অন্তর্ভুক্ত কোণ [math]30^\\circ[/math] হলে, ত্রিভুজটির ক্ষেত্রফল কত?",
+        "solution": "[math]a = b = 6[/math]\u003Cbr\u003E সে.মি., [math]\\theta = 30^\\circ[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 6 \\times 6 \\times \\sin 30^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 6 \\times 6 \\times \\frac{1}{2}[/math]\u003Cbr\u003E= [math]9[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ত্রিভুজের ক্ষেত্রফল = [math]9[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমান দুই বাহু এবং তাদের অন্তর্ভুক্ত কোণের ক্ষেত্রে ক্ষেত্রফল সূত্র [math]A=\\tfrac12ab\\sin C[/math] প্রযোজ্য, এখানে [math]a=b=6[/math] এবং [math]C=30^\\circ[/math]. তাই [math]A=\\tfrac12\\times6\\times6\\times\\sin30^\\circ=\\tfrac12\\times36\\times\\tfrac12=9[/math], অর্থাৎ ক্ষেত্রফল [math]9\\ \\text{সেমি}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536887,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536889,
+      "value": {
+        "options": [],
+        "question": "একটি সমবাহু ত্রিভুজের এক বাহুর দৈর্ঘ্য [math]2[/math] মিটার থেকে বেড়ে [math]4[/math] মিটার হলে, ক্ষেত্রফল কতটুকু বাড়বে?",
+        "solution": "পুরাতন বাহু: [math]a_1 = 2[/math]\u003Cbr\u003E মি., নতুন বাহু: [math]a_2 = 4[/math]\u003Cbr\u003E মি.ক্ষেত্রফল সূত্র: [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003Eপুরাতন ক্ষেত্রফল: [math]\\frac{\\sqrt{3}}{4} \\times 2^2 = \\frac{\\sqrt{3}}{4} \\times 4 = \\sqrt{3}[/math]\u003Cbr\u003E বর্গ মি.নতুন ক্ষেত্রফল: [math]\\frac{\\sqrt{3}}{4} \\times 4^2 = \\frac{\\sqrt{3}}{4} \\times 16 = 4\\sqrt{3}[/math]\u003Cbr\u003E বর্গ মি.বৃদ্ধি = [math]4\\sqrt{3} - \\sqrt{3} = 3\\sqrt{3}[/math]\u003Cbr\u003E বর্গ মি.প্রায় = [math]3 \\times 1.732 = 5.196[/math]\u003Cbr\u003E বর্গ মি.ক্ষেত্রফল বৃদ্ধি ≈ [math]5.196[/math]\u003Cbr\u003E বর্গ মি.",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজের ক্ষেত্রফল [math]A=\\frac{\\sqrt{3}}{4}a^2[/math]। পাশে [math]2[/math] থেকে [math]4[/math] মিটার হলে ক্ষেত্রফল [math]\\sqrt{3}[/math] থেকে [math]4\\sqrt{3}[/math] হয়, তাই বৃদ্ধি [math]4\\sqrt{3}-\\sqrt{3}=3\\sqrt{3}[/math] বর্গমিটার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536889,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536891,
+      "value": {
+        "options": [],
+        "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল [math]6\\sqrt{3}[/math] বর্গমিটার হলে, এর পরিসীমা কত?",
+        "solution": "ধরি, বাহুর দৈর্ঘ্য = [math]a[/math]\u003Cbr\u003E মিটারক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003E⇒ [math]\\frac{\\sqrt{3}}{4} a^2 = 6\\sqrt{3}[/math]\u003Cbr\u003E⇒ [math]a^2 = \\frac{6\\sqrt{3} \\times 4}{\\sqrt{3}} = 24[/math]\u003Cbr\u003E⇒ [math]a = \\sqrt{24} = 2\\sqrt{6}[/math]\u003Cbr\u003E মিটারপরিসীমা = [math]3a = 3 \\times 2\\sqrt{6} = 6\\sqrt{6}[/math]\u003Cbr\u003E মিটারনির্ণেয় পরিসীমা = [math]6\\sqrt{6}[/math]\u003Cbr\u003E মিটার ≈ [math]14.70[/math]\u003Cbr\u003E মিটার (প্রায়)",
+        "explanation": "সমাধান: সমবাহু ত্রিভুজের ক্ষেত্রফল [math]A=\\frac{\\sqrt{3}}{4}a^{2}[/math] হলে [math]\\frac{\\sqrt{3}}{4}a^{2}=6\\sqrt{3}\\Rightarrow a^{2}=24\\Rightarrow a=2\\sqrt{6}[/math]. তাই পরিসীমা = [math]3a=6\\sqrt{6}[/math] মিটার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536891,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536893,
+      "value": {
+        "options": [],
+        "question": "একটি সমবাহু ত্রিভুজের ক্ষেত্রফল [math]75\\sqrt{3}[/math] বর্গ সে.মি. হলে, প্রত্যেক বাহুর দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "ক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2 = 75\\sqrt{3}[/math]\u003Cbr\u003Eগুন করে পাই: [math]\\frac{a^2}{4} = 75[/math]\u003Cbr\u003Eবা, [math]a^2 = 300[/math]\u003Cbr\u003Eবা, [math]a = \\sqrt{300} = \\sqrt{100 \\times 3} = 10\\sqrt{3}[/math]\u003Cbr\u003Eনির্ণেয় প্রত্যেক বাহুর দৈর্ঘ্য = [math]10\\sqrt{3}[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "সমাধান: সমবাহু ত্রিভুজের ক্ষেত্রফল [math]A=\\frac{\\sqrt{3}}{4}a^2[/math] এবং [math]75\\sqrt{3}=\\frac{\\sqrt{3}}{4}a^2[/math] হলে √3 বাতিল করে [math]a^2=300[/math] পাওয়া যায়। সুতরাং প্রত্যেক বাহুর দৈর্ঘ্য [math]a=\\sqrt{300}=10\\sqrt{3}[/math] সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536893,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536850,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের তিনটি বাহু যথাক্রমে [math]10[/math], [math]12[/math] ও [math]x[/math] সে.মি.। ত্রিভুজটির অর্ধপরিসীমা [math]19[/math] সে.মি. হলে, [math]x[/math] এর মান নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]a = 10[/math]\u003Cbr\u003E, [math]b = 12[/math]\u003Cbr\u003E, [math]c = x[/math]\u003Cbr\u003E, এবং [math]s = 19[/math]\u003Cbr\u003Eঅর্ধপরিসীমা সূত্র অনুযায়ী:[math]\\frac{10 + 12 + x}{2} = 19[/math]\u003Cbr\u003Eবা, [math]\\frac{22 + x}{2} = 19[/math]\u003Cbr\u003Eবা, [math]22 + x = 38[/math]\u003Cbr\u003Eবা, [math]x = 38 - 22 = 16[/math]\u003Cbr\u003Eনির্ণেয় [math]x = 16[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "অর্ধপরিসীমা [math]s=19[/math] হলে বাহুগুলোর মোট যোগফল [math]2s=38[/math]. তাই [math]10+12+x=38\\Rightarrow x=16[/math]. ত্রিভুজ অসমতা পরীক্ষায় [math]10+12\u003E16,\\,10+16\u003E12,\\,12+16\u003E10[/math] হওয়ায় [math]x=16[/math] বৈধ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536850,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536839,
+      "value": {
+        "options": [],
+        "question": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য [math]25\\sqrt{3}[/math] সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 25\\sqrt{3}[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times (25\\sqrt{3})^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 625 \\times 3[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 1875[/math]\u003Cbr\u003E= [math]811.899[/math]\u003Cbr\u003E বর্গ সে.মি. (প্রায়)নির্ণেয় ক্ষেত্রফল ≈ [math]811.899[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজের ক্ষেত্রফল [math]A=\\frac{\\sqrt{3}}{4}a^2[/math]. এখানে [math]a=25\\sqrt{3}[/math], তাই [math]A=\\frac{\\sqrt{3}}{4}(25\\sqrt{3})^2=\\frac{1875\\sqrt{3}}{4}[/math] বর্গ সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536839,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536841,
+      "value": {
+        "options": [],
+        "question": "একটি সমবাহু ত্রিভুজের বাহুর দৈর্ঘ্য [math]6\\sqrt{3}[/math] সেমি হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 6\\sqrt{3}[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times (6\\sqrt{3})^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 36 \\times 3[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 108[/math]\u003Cbr\u003E= [math]27\\sqrt{3} \\approx 46.77[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ [math]46.77[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজের ক্ষেত্রফল সূত্র [math]A=\\frac{\\sqrt{3}}{4}a^2[/math]। এখানে [math]a=6\\sqrt{3}[/math] হলে [math]A=\\frac{\\sqrt{3}}{4}(6\\sqrt{3})^2=\\frac{\\sqrt{3}}{4}\\times108=27\\sqrt{3}[/math] বর্গ সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536841,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536843,
+      "value": {
+        "options": [],
+        "question": "[math]\\sqrt{3}[/math] সে.মি. বাহুবিশিষ্ট সমবাহু ত্রিভুজের ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "ধরি, বাহুর দৈর্ঘ্য [math]a = \\sqrt{3}[/math]\u003Cbr\u003E সে.মি.সমবাহু ত্রিভুজের ক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times (\\sqrt{3})^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 3[/math]\u003Cbr\u003E= [math]\\frac{3\\sqrt{3}}{4}[/math]\u003Cbr\u003E ≈ [math]1.3[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ [math]1.3[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজের ক্ষেত্রফল সূত্র [math]A=\\frac{\\sqrt{3}}{4}a^{2}[/math]. এখানে [math]a=\\sqrt{3}[/math] হলে [math]A=\\frac{\\sqrt{3}}{4}\\times(\\sqrt{3})^{2}=\\frac{\\sqrt{3}}{4}\\times3=\\frac{3\\sqrt{3}}{4}[/math] বর্গ সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536843,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536844,
+      "value": {
+        "options": [],
+        "question": "কোনো ত্রিভুজের তিনটি বাহু যথাক্রমে [math]6[/math] সে.মি., [math]4[/math] সে.মি. ও [math]10[/math] সে.মি. হলে, এর ক্ষেত্রফল কত?",
+        "solution": "[math]a = 6[/math]\u003Cbr\u003E, [math]b = 4[/math]\u003Cbr\u003E, [math]c = 10[/math]\u003Cbr\u003Eঅর্ধপরিসীমা, [math]s = \\frac{6+4+10}{2} = \\frac{20}{2} = 10[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\sqrt{s(s-a)(s-b)(s-c)}[/math]\u003Cbr\u003E= [math]\\sqrt{10(10-6)(10-4)(10-10)}[/math]\u003Cbr\u003E= [math]\\sqrt{10 \\times 4 \\times 6 \\times 0} = \\sqrt{0} = 0[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ত্রিভুজের ক্ষেত্রফল = [math]0[/math]\u003Cbr\u003E বর্গ সে.মি. (ত্রিভুজ গঠিত হয় না)",
+        "explanation": "ব্যাখ্যা: কোনো ত্রিভুজে দুই বাহুর যোগ তৃতীয় বাহু থেকে বড় হতে হয়, কিন্তু এখানে [math]6+4=10[/math] তাই বাহুগুলো এক সরলরেখায় পড়ে এবং ত্রিভজটি জটিল (degenerate) — এর ক্ষেত্রফল শূন্য। Heron সূত্রে [math]s=(6+4+10)/2=10[/math] হওয়ায় ক্ষেত্রফল [math]\\sqrt{s(s-6)(s-4)(s-10)}=\\sqrt{10\\cdot4\\cdot6\\cdot0}=0[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536844,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536846,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC[/math] তে [math]AB = BC = CA = 6[/math] সে.মি. হলে, মধ্যমা [math]AD[/math] কত সে.মি.?",
+        "solution": "যেহেতু [math]AB = BC = CA = 6[/math]\u003Cbr\u003E সে.মি., তাই [math]\\triangle ABC[/math]\u003Cbr\u003E একটি সমবাহু ত্রিভুজ।সমবাহু ত্রিভুজের যেকোনো এক বাহুর বিপরীত শীর্ষ থেকে অঙ্কিত মধ্যমা:[math]AD = \\frac{\\sqrt{3}}{2} \\times[/math]\u003Cbr\u003E বাহুর দৈর্ঘ্য⇒ [math]AD = \\frac{\\sqrt{3}}{2} \\times 6 = 3\\sqrt{3}[/math]\u003Cbr\u003E সে.মি.নির্ণেয় মধ্যমা [math]AD = 3\\sqrt{3}[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "সমবাহু ত্রিভুজে মধ্যমা একই সঙ্গে উচ্চাও হয়, তাই [math]AD[/math] হলো ত্রিভুজের উচ্চতা। অতএব [math]AD=\\sqrt{6^2-3^2}=\\sqrt{27}=3\\sqrt3[/math] সেমি (অথবা [math]AD=\\frac{\\sqrt3}{2}\\times6=3\\sqrt3[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536846,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536847,
+      "value": {
+        "options": [],
+        "question": "কোনো ত্রিভুজের দুইটি বাহু [math]a[/math] ও [math]b[/math] এবং এদের অন্তর্ভুক্ত কোণ [math]\\theta[/math] হলে, দেখাও যে, ত্রিভুজক্ষেত্রটির ক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]",
+        "solution": "ধরো, ত্রিভুজের দুইটি বাহু [math]a[/math]\u003Cbr\u003E ও [math]b[/math]\u003Cbr\u003E এবং এদের অন্তর্ভুক্ত কোণ [math]\\theta[/math]\u003Cbr\u003E।ত্রিভুজের ক্ষেত্রফলের সূত্র অনুযায়ী,ক্ষেত্রফল = [math]\\frac{1}{2} \\times \\text{প্রথম বাহু} \\times \\text{দ্বিতীয় বাহু} \\times \\text{তাদের অন্তর্ভুক্ত কোণের সাইন মান}[/math]\u003Cbr\u003Eঅতএব, ক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের ক্ষেত্রফল সাধারণত হলে = আধা × বেস × উচ্চতা; যদি বেস ধরা হয় [math]a[/math] এবং অপর বাহু [math]b[/math] তাদের অন্তর্ভুক্ত কোণ [math]\\theta[/math], তবে ওই বাহু থেকে বেসে নামা উচ্চতা হবে [math]b\\sin\\theta[/math]। তাই ক্ষেত্রফল [math]\\frac{1}{2}a(b\\sin\\theta)=\\frac{1}{2}ab\\sin\\theta[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536847,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536848,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের তিন বাহুর দৈর্ঘ্য যথাক্রমে [math]3[/math] সে.মি., [math]4[/math] সে.মি. ও [math]5[/math] সে.মি. হলে, এর ক্ষেত্রফল কত বর্গ সে.মি.?",
+        "solution": "[math]a = 3[/math]\u003Cbr\u003E, [math]b = 4[/math]\u003Cbr\u003E, [math]c = 5[/math]\u003Cbr\u003Eঅর্ধপরিসীমা, [math]s = \\frac{3+4+5}{2} = \\frac{12}{2} = 6[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\sqrt{s(s-a)(s-b)(s-c)}[/math]\u003Cbr\u003E= [math]\\sqrt{6(6-3)(6-4)(6-5)}[/math]\u003Cbr\u003E= [math]\\sqrt{6 \\times 3 \\times 2 \\times 1} = \\sqrt{36} = 6[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ত্রিভুজের ক্ষেত্রফল = [math]6[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ত্রিভুজটি সমকোণী কারণ [math]3^2+4^2=5^2[/math], তাই ক্ষেত্রফল = [math]\\frac{1}{2}\\times 3\\times 4=6[/math] বর্গ সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536848,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536849,
+      "value": {
+        "options": [],
+        "question": "কোনো ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]8[/math] সে.মি. ও [math]4[/math] সে.মি. এবং ক্ষেত্রফল [math]8[/math] বর্গ সে.মি. হলে, বাহুদ্বয়ের অন্তর্ভুক্ত কোণ নির্ণয় কর।",
+        "solution": "[math]a = 8[/math]\u003Cbr\u003E সে.মি., [math]b = 4[/math]\u003Cbr\u003E সে.মি., ক্ষেত্রফল = [math]8[/math]\u003Cbr\u003E বর্গ সে.মি.আমরা জানি, ক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003Eতাহলে, [math]8 = \\frac{1}{2} \\times 8 \\times 4 \\times \\sin \\theta[/math]\u003Cbr\u003Eবা, [math]8 = 16 \\sin \\theta[/math]\u003Cbr\u003Eবা, [math]\\sin \\theta = \\frac{8}{16} = \\frac{1}{2}[/math]\u003Cbr\u003Eঅতএব, [math]\\theta = 30^\\circ[/math]\u003Cbr\u003Eনির্ণেয় অন্তর্ভুক্ত কোণ = [math]30^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: কোনো ত্রিভুজে দুই বাহু [math]a,b[/math] এবং তাদের অন্তর্ভুক্ত কোণ [math]C[/math] হলে ক্ষেত্রফল [math]\\tfrac{1}{2}ab\\sin C[/math]. এখানে [math]a=8,\\; b=4[/math] ও ক্ষেত্রফল [math]8[/math], তাই [math]\\sin C=\\dfrac{2\\times8}{8\\times4}=\\dfrac{1}{2}[/math]. ফলে [math]C=30^\\circ[/math] অথবা [math]C=150^\\circ[/math], কারণ [math]\\sin\\theta=1/2[/math] হলে দুইটি কোণ সম্ভব।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536849,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536836,
+      "value": {
+        "options": [],
+        "question": "একটি সমবাহু ত্রিভুজের প্রত্যেক বাহুর দৈর্ঘ্য [math]10\\sqrt{2}[/math] সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 10\\sqrt{2}[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times (10\\sqrt{2})^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 100 \\times 2 = \\frac{\\sqrt{3}}{4} \\times 200[/math]\u003Cbr\u003E= [math]50\\sqrt{3} \\approx 86.60[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ [math]86.60[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজের ক্ষেত্রফল সূত্র [math]A=\\frac{\\sqrt{3}}{4}a^2[/math]; এখানে [math]a=10\\sqrt{2}[/math], তাই [math]a^2=(10\\sqrt{2})^2=200[/math]. ফলে [math]A=\\frac{\\sqrt{3}}{4}\\times200=50\\sqrt{3}[/math] বর্গ সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536836,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536852,
+      "value": {
+        "options": [],
+        "question": "কোনো সমদ্বিবাহু ত্রিভুজের পরিসীমা [math]23[/math] সে.মি. এবং সমান সমান বাহুর দৈর্ঘ্য [math]7[/math] সে.মি. হলে, ভূমির দৈর্ঘ্য কত?",
+        "solution": "পরিসীমা = [math]23[/math]\u003Cbr\u003E সে.মি., দুইটি সমান বাহু [math]= 7 + 7 = 14[/math]\u003Cbr\u003E সে.মি.ধরি, ভূমির দৈর্ঘ্য = [math]a[/math]\u003Cbr\u003E⇒ [math]14 + a = 23[/math]\u003Cbr\u003E⇒ [math]a = 23 - 14 = 9[/math]\u003Cbr\u003Eনির্ণেয় ভূমির দৈর্ঘ্য = [math]9[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "সমাধান: সমদ্বিবাহু ত্রিভুজে দুইটি সমান বাহু ও ভূমির যোগফলই পরিসীমা, সুতরাং [math]7+7+b=23[/math] এবং এখান থেকে [math]b=23-14=9[/math] সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536852,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536853,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]10[/math] সে.মি. ও [math]12[/math] সে.মি., এবং ত্রিভুজের ক্ষেত্রফল [math]60[/math] বর্গ সে.মি. হলে, এদের অন্তর্ভুক্ত কোণ নির্ণয় কর।",
+        "solution": "[math]a = 10[/math]\u003Cbr\u003E সে.মি., [math]b = 12[/math]\u003Cbr\u003E সে.মি., ক্ষেত্রফল = [math]60[/math]\u003Cbr\u003E বর্গ সে.মি.ক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E [math]60 = \\frac{1}{2} \\times 10 \\times 12 \\times \\sin \\theta[/math]\u003Cbr\u003E [math]60 = 60 \\sin \\theta[/math]\u003Cbr\u003E⇒ [math]\\sin \\theta = \\frac{60}{60} = 1[/math]\u003Cbr\u003E⇒ [math]\\theta = 90^\\circ[/math]\u003Cbr\u003Eনির্ণেয় অন্তর্ভুক্ত কোণ = [math]90^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: ত্রিভুজের ক্ষেত্রফল সূত্র [math]S=\\tfrac{1}{2}ab\\sin C[/math] অনুযায়ী [math]\\sin C=\\dfrac{2S}{ab}=\\dfrac{2\\times60}{10\\times12}=\\dfrac{120}{120}=1[/math], সুতরাং [math]C=90^\\circ[/math]। ফলে অন্তর্ভুক্ত কোণ একটি সবলকোণ (right angle)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536853,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536854,
+      "value": {
+        "options": [],
+        "question": "সমকোণী ত্রিভুজের অতিভুজ এবং সমকোণ সংলগ্ন এক বাহুর দৈর্ঘ্য যথাক্রমে [math]7[/math] সে.মি. এবং [math]4[/math] সে.মি. হলে, ত্রিভুজটির অপর বাহুর দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "অতিভুজ = [math]7[/math]\u003Cbr\u003E সে.মি., একটি বাহু = [math]4[/math]\u003Cbr\u003E সে.মি.অপর বাহু = [math]\\sqrt{(7)^2 - (4)^2} = \\sqrt{49 - 16} = \\sqrt{33}[/math]\u003Cbr\u003Eঅপর বাহু = [math]5.74[/math]\u003Cbr\u003E সে.মি. (প্রায়)নির্ণেয় ত্রিভুজটির অপর বাহুর দৈর্ঘ্য [math]5.74[/math]\u003Cbr\u003E সে.মি. (প্রায়)।",
+        "explanation": "পিথাগোরাস সূত্র অনুযায়ী [math]c^2=a^2+b^2[/math] যেখানে [math]c[/math] হলো অতিভুজ; তাই অপর বাহুর দৈর্ঘ্য [math]\\sqrt{7^2-4^2}=\\sqrt{49-16}=\\sqrt{33}[/math] সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536854,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536855,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]12[/math] মি. ও [math]10[/math] মি., এবং তাদের অন্তর্ভুক্ত কোণ [math]90^\\circ[/math] হলে, ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 12[/math]\u003Cbr\u003E মি., [math]b = 10[/math]\u003Cbr\u003E মি., [math]\\theta = 90^\\circ[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 12 \\times 10 \\times \\sin 90^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 12 \\times 10 \\times 1 = 60[/math]\u003Cbr\u003E বর্গ মি.নির্ণেয় ত্রিভুজের ক্ষেত্রফল = [math]60[/math]\u003Cbr\u003E বর্গ মি.",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের ক্ষেত্রফল সূত্র হলো [math]A=\\tfrac{1}{2}ab\\sin C[/math], এবং এখানে অন্তর্ভুক্ত কোণ [math]C=90^\\circ[/math] হলে [math]\\sin90^\\circ=1[/math]. তাই [math]A=\\tfrac{1}{2}\\times12\\times10\\times1=60\\ \\text{মি}^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536855,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536856,
+      "value": {
+        "options": [],
+        "question": "সমবাহু ত্রিভুজের ক্ষেত্রফল [math]\\frac{4\\sqrt{3}}{3}[/math] বর্গ সে.মি. হলে, এর পরিসীমা নির্ণয় কর।",
+        "solution": "ধরি, বাহুর দৈর্ঘ্য = [math]a[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003Eশর্তানুসারে, [math]\\frac{\\sqrt{3}}{4} a^2 = \\frac{4\\sqrt{3}}{3}[/math]\u003Cbr\u003E⇒ [math]a^2 = \\frac{4\\sqrt{3} \\times 4}{\\sqrt{3}} = \\frac{16}{1} = 16[/math]\u003Cbr\u003E⇒ [math]a = \\sqrt{16} = 4[/math]\u003Cbr\u003Eপরিসীমা = [math]3a = 3 \\times 4 = 12[/math]\u003Cbr\u003E সে.মি.নির্ণেয় পরিসীমা = [math]12[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজের ক্ষেত্রফল [math]\\frac{\\sqrt3}{4}a^2[/math], যেখানে [math]a[/math] হলো বাহু; অতএব [math]\\frac{\\sqrt3}{4}a^2=\\frac{4\\sqrt3}{3}[/math]. সমীকরণ থেকে [math]a^2=\\frac{16}{3}[/math] বা [math]a=\\frac{4}{\\sqrt3}=\\frac{4\\sqrt3}{3}[/math]. পরিসীমা হবে [math]3a=3\\cdot\\frac{4}{\\sqrt3}=\\frac{12}{\\sqrt3}=4\\sqrt3[/math] সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536856,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536857,
+      "value": {
+        "options": [],
+        "question": "একটি ত্রিভুজের দুইটি বাহুর দৈর্ঘ্য যথাক্রমে [math]18[/math] মি. ও [math]16[/math] মি. এবং এদের অন্তর্ভুক্ত কোণ [math]30^\\circ[/math] হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 18[/math]\u003Cbr\u003E মি., [math]b = 16[/math]\u003Cbr\u003E মি., [math]\\theta = 30^\\circ[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{1}{2} ab \\sin \\theta = \\frac{1}{2} \\times 18 \\times 16 \\times \\sin 30^\\circ[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 18 \\times 16 \\times \\frac{1}{2} = 72[/math]\u003Cbr\u003E বর্গমি.নির্ণেয় ত্রিভুজের ক্ষেত্রফল = [math]72[/math]\u003Cbr\u003E বর্গমি.",
+        "explanation": "ব্যাখ্যা: ত্রিভুজের ক্ষেত্রফল দুইটি বাহু ও তাদের অন্তর্ভুক্ত কোণের সাহায্যে নির্ণয় করার সূত্র হল [math]A=\\tfrac{1}{2}ab\\sin C[/math]. এখানে [math]A=\\frac{1}{2}\\times18\\times16\\times\\sin30^\\circ=\\frac{1}{2}\\times18\\times16\\times\\frac{1}{2}=72[/math] বর্গমিটার।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536857,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536858,
+      "value": {
+        "options": [],
+        "question": "সমবাহু ত্রিভুজের প্রত্যেক বাহুর দৈর্ঘ্য [math]2[/math] সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "[math]a = 2[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\frac{\\sqrt{3}}{4} a^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 2^2[/math]\u003Cbr\u003E= [math]\\frac{\\sqrt{3}}{4} \\times 4 = \\sqrt{3}[/math]\u003Cbr\u003E≈ [math]1.732[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ [math]1.732[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজের উচ্চতা [math]h=\\dfrac{a\\sqrt{3}}{2}[/math] হয়, তাই ক্ষেত্রফল [math]\\dfrac{1}{2}ah=\\dfrac{\\sqrt{3}}{4}a^2[/math]. এখানে [math]a=2[/math] হলে ক্ষেত্রফল = [math]\\dfrac{\\sqrt{3}}{4}\\times 4=\\sqrt{3}\\ \\text{সে.মি.}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536858,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12959&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12959&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12959&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 35,
+  "total": 35
+}

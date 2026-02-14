@@ -1,0 +1,2483 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 535209,
+      "value": {
+        "options": [],
+        "question": "একটি ইটের ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "ইটের আকৃতি আয়তাকৃতির।প্রতিসাম্য রেখা = ২টি (উল্লম্ব ও অনুভূমিক)প্রতিসমতার মাত্রা = ২ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{2} = 180^\\circ[/math]\u003Cbr\u003Eঅতএব, ইটের ঘূর্ণন কোণ = [math]180^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "এই প্রশ্নে নির্দিষ্ট সংখ্যা বা চিত্র না থাকায় সাধারণভাবে: ইটের ঘূর্ণন কোণ হল তার শুরু ও শেষ অবস্থার অভিমুখের মধ্যে কোণ; যদি শুরু ও শেষ অভিমুখের ভেক্টর হয় [math]\\mathbf{u}[/math] এবং [math]\\mathbf{v}[/math], তাহলে [math]\\theta=\\arccos\\left(\\frac{\\mathbf{u}\\cdot\\mathbf{v}}{|\\mathbf{u}||\\mathbf{v}|}\\right)[/math]। অন্যদিকে যদি রোটেশন ম্যাট্রিক্স [math]R[/math] দেওয়া থাকে, তাহলে [math]\\theta=\\arccos\\left(\\frac{\\operatorname{tr}(R)-1}{2}\\right)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535209,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535190,
+      "value": {
+        "options": [],
+        "question": "বর্গাকার রুবিক্স কিউবের প্রতিসাম্য রেখা, প্রতিসমতার মাত্রা এবং ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "রুবিক্স কিউব বর্গাকার হওয়ায়:প্রতিসাম্য রেখা = ৪টিপ্রতিসমতার মাত্রা = ৪ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{4} = 90^\\circ[/math]\u003Cbr\u003Eঅতএব, রুবিক্স কিউবের প্রতিসাম্য রেখা ৪টি, প্রতিসমতার মাত্রা ৪ এবং ঘূর্ণন কোণ [math]90^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "বর্গের প্রতিসাম্য রেখা চারটি — দুইটি মধ্যরেখা (উল্লম্ব ও অনুন্নত) এবং দুইটি কোণভাগকারী রেখা (দ্বি-ভূজার দাগ)।  \nপ্রতিসমতার মাত্রা (ঘূর্ণনজনিত) হল 4, অর্থাৎ বর্গটি 4-গুণ ঘূর্ণনসম্মত; যদি প্রতিফলনসহ সকল প্রতিসমতা ধরা হয় তাহলে মোট উপাদান সংখ্যা 8 (ডিহেড্রাল গ্রুপ [math]D_4[/math])।  \nঘূর্ণন কোণগুলো হল [math]0^\\circ,\\,90^\\circ,\\,180^\\circ,\\,270^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535190,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535176,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম প্রিজমের প্রতিসাম্য রেখা, প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "প্রিজমটি একটি সমবাহু ত্রিভুজের মতো আকৃতির।প্রতিসাম্য রেখা = ৩টিপ্রতিসমতার মাত্রা = ৩ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{3} = 120^\\circ[/math]\u003Cbr\u003Eঅতএব, সুষম প্রিজমের প্রতিসাম্য রেখা ৩টি, প্রতিসমতার মাত্রা ৩ এবং ঘূর্ণন কোণ [math]120^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিসাম্য রেখা: প্রিজমের প্রধান অক্ষ (উপর ও নিচের সমভাগের কেন্দ্রকে সংযুক্ত রেখা)। প্রতিসাম্যর মাত্রা (অর্ডার) = n কারণ ভিত্তি একটি নিয়মিত n-ভুজ; ঘূর্ণন কোণ = [math]360^\\circ/n[/math] — এই কোণে ঘোরালে ভিত্তি ও পুরো প্রিজম নিজেকে এনে দেবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535176,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535170,
+      "value": {
+        "options": [],
+        "question": "ইংরেজি বর্ণ Z, B ও O এর প্রতিসাম্য রেখার সংখ্যা, ঘূর্ণন কোণ এবং ঘূর্ণন প্রতিসমতার মাত্রা লেখ।",
+        "solution": "নিচে তথ্যগুলো সারণি আকারে উপস্থাপন করা হলো:বর্ণ: Zপ্রতিসাম্য রেখা: 0ঘূর্ণন কোণ: [math]180^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা: 2বর্ণ: Bপ্রতিসাম্য রেখা: 1ঘূর্ণন কোণ: [math]360^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা: 1বর্ণ: Oপ্রতিসাম্য রেখা: অসীমঘূর্ণন কোণ: অসীমঘূর্ণন প্রতিসমতার মাত্রা: অসীম",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E Z — প্রতিসাম্য রেখা: 0; ঘূর্ণন কোণ: [math]180^\\circ[/math]; ঘূর্ণন প্রতিসমতা মাত্রা: [math]2[/math]; কারণ Z কেবল [math]180^\\circ[/math] ঘুরালে নিজেই পাওয়া যায়, কোন আয়না রেখায় সমমিতি নেই।\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E B — প্রতিসাম্য রেখা: 0; ঘূর্ণন কোণ: [math]360^\\circ[/math] (শুধু ত্রিভূজিক ট্রিভিয়াল); ঘূর্ণন প্রতিসমতা মাত্রা: [math]1[/math]; কারণ B-তে কোন অদল-বদল বা আয়না প্রতিসমিতা নেই। \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E O — প্রতিসাম্য রেখা: অসীম; ঘূর্ণন কোণ: যেকোনো কোণ; ঘূর্ণন প্রতিসমতা মাত্রা: [math]\\infty[/math]; কারণ O (বৃত্ত) প্রতিটি ব্যাসের মাধ্যমে আয়না এবং যেকোনো কোণে ঘুরলে নিজেই থেকে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535170,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535153,
+      "value": {
+        "options": [],
+        "question": "বৃত্তকে আদর্শ প্রতিসম চিত্র বলা হয় এবং কেন?",
+        "solution": "বৃত্ত একটি আদর্শ প্রতিসম চিত্র। কারণ, বৃত্তকে এর কেন্দ্রের সাপেক্ষে যেকোনো কোণে এবং যেকোনো দিকে ঘোরালে অবস্থানের কোনো পরিবর্তন লক্ষ করা যায় না। বৃত্তের প্রতিসাম্য রেখা অসংখ্য কারণ কেন্দ্রগামী যেকোনো রেখা তা ভাগ করে। সুতরাং, বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা অসীম এবং এটি আদর্শ প্রতিসম চিত্র।",
+        "explanation": "বৃত্তকে আদর্শ প্রতিসম চিত্র বলা হয় কারণ এর প্রতিটি ব্যাসরেখা একটি প্রতিসম অক্ষ হিসেবে কাজ করে, অর্থাৎ অসীম সংখ্যক প্রতিসম অক্ষ আছে; তাছাড়া কেন্দ্র থেকে সব বিন্দু সমদূরত্বে থাকায় যে কোনো কোণে বৃত্তকে ঘুরালেও এটি অপরিবর্তিত থাকে (নিরবিচ্ছিন্ন ঘূর্ণন প্রতিসম)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535153,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535138,
+      "value": {
+        "options": [],
+        "question": "সুষম পঞ্চভুজের ঘূর্ণন প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ কত?",
+        "solution": "সুষম পঞ্চভুজে ৫টি বাহু থাকে এবং একে প্রতি [math]72^\\circ[/math]\u003Cbr\u003E করে ঘুরালে মূল চিত্রের সঙ্গে মিলে যায়।ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{5} = 72^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা = [math]5[/math]\u003Cbr\u003Eঅতএব, সুষম পঞ্চভুজের ঘূর্ণন কোণ [math]72^\\circ[/math]\u003Cbr\u003E এবং ঘূর্ণন প্রতিসমতার মাত্রা [math]5[/math]\u003Cbr\u003E",
+        "explanation": "উত্তর: ঘূর্ণন প্রতিসমতার মাত্রা [math]5[/math] এবং প্রতিটি মৌলিক ঘূর্ণন কোণ [math]\\tfrac{360^\\circ}{5}=72^\\circ[/math].  \nব্যাখ্যা: নিয়মিত পঞ্চভুজকে কেন্দ্র থেকে [math]72^\\circ[/math] বা তার গুণিতকগুলো ঘোরালে তিনি নিজেকে পুনরাবৃত্তি করে, তাই মোট পাঁচটি ভিন্ন ঘূর্ণন অবস্থাই সমান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535138,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535126,
+      "value": {
+        "options": [],
+        "question": "সুষম ষড়ভুজের ঘূর্ণন কোণ ও ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+        "solution": "সুষম ষড়ভুজে মোট ৬টি বাহু ও কোণ থাকে এবং প্রতিটি কোণে ঘুরিয়ে দিলে সেটি নিজের মতোই দেখা যায়।ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{6} = 60^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা = [math]6[/math]\u003Cbr\u003Eঅতএব, সুষম ষড়ভুজের ঘূর্ণন কোণ [math]60^\\circ[/math]\u003Cbr\u003E এবং ঘূর্ণন প্রতিসমতার মাত্রা [math]6[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: নিয়মিত ষড়ভুজে মোট 6টি সমতল পুনরাবৃত্তি থাকে, তাই ক্ষুদ্রতম ঘূর্ণন কোণটি [math]360^\\circ/6 = 60^\\circ[/math] এবং ঘূর্ণন প্রতিসমতার মাত্রা (order) হলো [math]6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:27.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535126,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:27.000000Z",
+            "updated_at": "2025-08-26T07:39:27.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535040,
+      "value": {
+        "options": [],
+        "question": "সুষম বহুভুজ কী?",
+        "solution": "বহুভুজ হলো কতকগুলো রেখাংশ দ্বারা আবদ্ধ একটি জ্যামিতিক চিত্র। যদি কোনো বহুভুজের সকল বাহুর দৈর্ঘ্য সমান হয় এবং সকল কোণ সমান হয়, তবে সেটিকে সুষম বহুভুজ বলা হয়। যেমন: সমবাহু ত্রিভুজ, বর্গ, পঞ্চভুজ ইত্যাদি।",
+        "explanation": "ব্যাখ্যা: সুষম বহুভুজ হলো এমন একটি বহুভুজ যার সব পাশ সমান দৈর্ঘ্যের এবং সব অভ্যন্তরীণ কোণ সমান মানের, তাই প্রতিটি শীর্ষে একই রকম কোণ ও পাশ থাকে। উদাহরণ: সমবাহু ত্রিভুজ ও বর্গ সুষম বহুভুজ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535040,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534963,
+      "value": {
+        "options": [],
+        "question": "প্রতিসাম্য রেখা কাকে বলে?",
+        "solution": "কোনো বস্তু বা জ্যামিতিক চিত্রকে যদি কোনো সরলরেখা বরাবর ভাঁজ করলে তার অংশ দুইটি একটি অপরটির সাথে সম্পূর্ণরূপে মিলে যায়, তবে ঐ রেখাকে বস্তুটি বা জ্যামিতিক চিত্রটির প্রতিসাম্য রেখা বলা হয়।",
+        "explanation": "ব্যাখ্যা: প্রতিসাম্য রেখা হলো এমন একটি রেখা যা দিয়ে কোনো চিত্রকে দুইটি আয়নামুখী সমমান অংশে ভাগ করা যায়। রেখার দিকে প্রতিফলন করলে প্রতিটি বিন্দু তার আয়না-ছবিতে চলে যায়, ফলে পুরো চিত্রটি রেখার দুপাশে মিলবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534963,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534984,
+      "value": {
+        "options": [],
+        "question": "আনুভূমিক রেখা বরাবর প্রতিসাম্য রেখা বিদ্যমান এমন ইংরেজি বর্ণগুলো লেখ।",
+        "solution": "যেসব ইংরেজি বর্ণের প্রতিসাম্য রেখা আনুভূমিক রেখা বরাবর বিদ্যমান, সেই বর্ণগুলো হলো: B, C, D, E, H, K, I, O, X",
+        "explanation": "উত্তর: B, C, D, E, H, I, O, X। কারণ: এই বর্ণগুলোকে অনুভূমিক মধ্যরেখা ধরে প্রতিফলিত করলে ওপরের অংশ নিচে চলে গেলেও আকৃতি অপরিবর্তিত থাকে, তাই এগুলো অনুভূমিক প্রতিসাম্য রাখে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534984,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535006,
+      "value": {
+        "options": [],
+        "question": "উল্লম্ব রেখা বরাবর প্রতিসাম্য রেখা বিদ্যমান এমন ইংরেজি বর্ণগুলো লেখ।",
+        "solution": "যেসব ইংরেজি বর্ণের প্রতিসাম্য রেখা উল্লম্ব রেখা বরাবর বিদ্যমান, সেই বর্ণগুলো হলো: A, H, I, M, T, U, V, W, X, Y",
+        "explanation": "উত্তর: A, H, I, M, O, T, U, V, W, X, Y। ব্যাখ্যা: এই অক্ষরগুলোর বাম ও ডান অংশ একে অপরের আয়না-প্রতিচ্ছবি হওয়ায় একটি উল্লম্ব রেখার প্রতি প্রতিসাম্য বজায় থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535006,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535026,
+      "value": {
+        "options": [],
+        "question": "H, I, O, X বর্ণগুলোর প্রতিসাম্য রেখা নির্ণয় কর।",
+        "solution": "H, I এবং X বর্ণগুলো অনুভূমিক ও উল্লম্ব উভয় রেখা বরাবর ভাঁজ করলে দুটি অংশ সম্পূর্ণ মিলে যায়, তাই এগুলোর প্রতিসাম্য রেখা ২টি করে। অন্যদিকে O বৃত্তাকার হওয়ায় যেকোনো ব্যাস বরাবর ভাঁজ করলে অংশ দুটি মিলে যায়, তাই O-এর প্রতিসাম্য রেখা অসংখ্য।\n\nH-এর প্রতিসাম্য রেখা = ২টি\n\nI-এর প্রতিসাম্য রেখা = ২টি\n\nX-এর প্রতিসাম্য রেখা = ২টি\n\nO-এর প্রতিসাম্য রেখা = অসংখ্য",
+        "explanation": "ব্যাখ্যা: H ও I-তে কেন্দ্র দিয়ে একটি উল্লম্ব এবং একটি অনুভূমিক প্রতিসাম্য রেখা আছে কারণ দু’পাশে আকার সমানভাবে প্রতিফলিত হয়। O যদি পরিপূর্ণ বৃত্ত ধরা হয় তবে কেন্দ্র দিয়ে যেকোনও রেখা দিয়েই প্রতিসাম্য হবে (অসীম সংখ্যা)। X‑এ চারটি প্রতিসাম্য রেখা আছে — উল্লম্ব, অনুভূমিক এবং দুইটি диагোনাল — কারণ এই সব রেখা দিয়ে প্রতিফলনে পুরো আকার অপরিবর্তিত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535026,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535054,
+      "value": {
+        "options": [],
+        "question": "ঘূর্ণন প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "যদি কোনো নির্দিষ্ট বিন্দুর চারপাশে একটি বস্তু বা চিত্রকে ঘোরানোর পর তার চেহারা বা গঠন ঠিক আগের মতোই থাকে, তবে সেটিকে ঘূর্ণন প্রতিসমতা সম্পন্ন বলা হয়। যেমন: সিলিং ফ্যান ঘুরিয়ে দিলে একাধিক বার মূল অবস্থার মতো দেখায় — অর্থাৎ তার ঘূর্ণন প্রতিসমতা আছে।",
+        "explanation": "ঘূর্ণন প্রতিসমতা মানে হলো কোনো आकৃতি কেন্দ্র ঘিরে কোনো নির্দিষ্ট কোণ ঘোরালে (৩৬০°এর চেয়ে ছোট কোনো কোণ) আকৃতি পূর্বাবস্থার সঙ্গে মিলে গেলে সেই আকৃতির ঘূর্ণন প্রতিসমতা আছে। অর্থাৎ যদি কোনো অঙ্কনকে [math]360^\\circ/n[/math] কোণে ঘোরালে আবার একই अवस्था পাওয়া যায়, তাহলে সেই আকৃতির প্রতিসমতা порядка [math]n[/math]—এটাই মূল ধারণা।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535054,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535074,
+      "value": {
+        "options": [],
+        "question": "ঘূর্ণন কোণ কাকে বলে? ব্যাখ্যা কর।",
+        "solution": "কোনো বস্তু বা জ্যামিতিক চিত্রকে ঘোরানোর সময় যে কোণ তৈরি হয় তাকে ঘূর্ণন কোণ বলে।একবার সম্পূর্ণ ঘূর্ণন করলে কোণের মান হয় [math]360^\\circ[/math]\u003Cbr\u003Eআর অর্ধেক ঘূর্ণনের জন্য কোণ হয় [math]180^\\circ[/math]\u003Cbr\u003Eযেমন: চার পাখাওয়ালা একটি ফ্যান [math]90^\\circ[/math]\u003Cbr\u003E, [math]180^\\circ[/math]\u003Cbr\u003E, [math]270^\\circ[/math]\u003Cbr\u003E, ও [math]360^\\circ[/math]\u003Cbr\u003E কোণে ঘুরে মূল অবস্থার মতো হয়।",
+        "explanation": "ঘূর্ণন কোণ হল কোনো বস্তু বা রশ্মিকে একটি স্থির বিন্দু (ঘূর্ণনকেন্দ্র) নিয়ে যেখানে থেকে যেখানে ঘোরানো হয়েছে সেই প্রাথমিক অবস্থার রশ্মি থেকে শেষ অবস্থার রশ্মি পর্যন্ত তৈরি হওয়া কোণ। এটি তাই ঘূর্ণনের পরিমাণ নির্ধারণ করে এবং সাধারণত ঘড়ির কাঁটার বিপরীতে ঘোরালে ধনাত্মক ও ঘড়ির কাঁটার দিকে ঘোরালে ঋণাত্মক হিসেবে গণ্য করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535074,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535084,
+      "value": {
+        "options": [],
+        "question": "বৃত্তের প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "বৃত্ত একটি আদর্শ প্রতিসম চিত্র। এর কেন্দ্রকে ঘূর্ণনের কেন্দ্র ধরে যেকোনো কোণে ঘোরালেও বৃত্তের আকৃতি ও অবস্থানে কোনো পরিবর্তন হয় না। তাই বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা অসীম। একইভাবে, কেন্দ্র থেকে যেকোনো রেখা বৃত্তকে সমানভাবে ভাগ করে, তাই এর প্রতিসাম্য রেখাও অসংখ্য।",
+        "explanation": "বৃত্তের প্রতিসমতা বলতে বোঝায় যে বৃত্তটি তার কেন্দ্রকে ধরে রেখে কিছু প্রতিফলন বা ঘূর্ণনের মাধ্যমে নিজেই মিলিয়ে যায়। কারণ বৃত্তের সব বিন্দু কেন্দ্র থেকে সমদূরী হওয়ায় যে কোনো রেখা কেন্দ্র দিয়ে গেলে সেটি প্রতিসমতার অক্ষ এবং যে কোনো কোণে কেন্দ্রকে ঘোরালে বৃত্তটি অপরিবর্তিত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535084,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535103,
+      "value": {
+        "options": [],
+        "question": "এক মাত্রার ঘূর্ণন প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "যদি কোনো চিত্র একবার পূর্ণ [math]360^\\circ[/math]\u003Cbr\u003E ঘূর্ণনের পর শুধুমাত্র একবার আদি অবস্থানে ফিরে আসে, তবে সেটিকে এক মাত্রার ঘূর্ণন প্রতিসমতা বলা হয়।ঘূর্ণন কোণ [math]= \\dfrac{360^\\circ}{\\text{ঘূর্ণন প্রতিসমতার মাত্রা}}[/math]\u003Cbr\u003Eএখানে মাত্রা [math]= 1[/math]\u003Cbr\u003E হলে, ঘূর্ণন কোণ [math]= 360^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "এক মাত্রার ঘূর্ণন প্রতিসমতা মানে এমন প্রতিসমতা যার ক্ষেত্রে বস্তুটি শুধুমাত্র পুরো এক চক্র ঘোরানোর পরে (অর্থাৎ [math]360^\\circ[/math]) নিজেই ফিরে আসে, কোনো অর্ধ বা অংশগত ঘূর্ণনে অনির্বচনীয় থাকে। সাধারণভাবে ঘূর্ণন প্রতিসমতার ভগ্নাংশ হচ্ছে [math]360^\\circ/n[/math], আর এখানে [math]n=1[/math] হলে তা কেবল [math]360^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535103,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535108,
+      "value": {
+        "options": [],
+        "question": "সমবাহু ত্রিভুজের ঘূর্ণন প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ কত?",
+        "solution": "একটি সমবাহু ত্রিভুজকে তিনবার সমানভাবে ঘোরালে প্রতি বার একই চেহারা দেখা যায়।সুতরাং, ঘূর্ণন প্রতিসমতার মাত্রা [math]= 3[/math]\u003Cbr\u003Eঘূর্ণন কোণ [math]= \\dfrac{360^\\circ}{3} = 120^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "সমবাহু ত্রিভুজের ঘূর্ণন প্রতিসমতার মাত্রা হলো [math]3[/math]—ঘূর্ণন কোণগুলি হল [math]0^\\circ,\\ 120^\\circ,\\ 240^\\circ[/math] (বা [math]0,\\ \\tfrac{2\\pi}{3},\\ \\tfrac{4\\pi}{3}[/math])। কারণ প্রতি [math]120^\\circ[/math] বা তার গুণে ঘোরালে শীর্ষবিন্দুগুলো চক্রাকারে বিনিময় হয়ে ত্রিভুজটি নিজেই মেলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535108,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533509,
+      "value": {
+        "options": [],
+        "question": "এক মাত্রার ঘূর্ণন প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "যদি কোনো চিত্র একবার পূর্ণ [math]360^\\circ[/math]\u003Cbr\u003E ঘূর্ণনের পর শুধুমাত্র একবার আদি অবস্থানে ফিরে আসে, তবে সেটিকে এক মাত্রার ঘূর্ণন প্রতিসমতা বলা হয়।ঘূর্ণন কোণ [math]= \\dfrac{360^\\circ}{\\text{ঘূর্ণন প্রতিসমতার মাত্রা}}[/math]\u003Cbr\u003Eএখানে মাত্রা [math]= 1[/math]\u003Cbr\u003E হলে, ঘূর্ণন কোণ [math]= 360^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "একমাত্রার ঘূর্ণন প্রতিসমতা মানে কোনো চিত্র বা বস্তু কেবলমাত্র পূর্ণ পরিভ্রমণেই নিজেই ফিরে আসে, অর্থাৎ মাত্র একবারই অন্তর্সাম্য থাকে। এর অর্থ কোনো ছোট ঘূর্ণন ছাড়া (যেমন [math]360^\\circ[/math] ছাড়া) চিত্রটি নিজেই হিসেবে মেলে না—এটি ঘূর্ণন প্রতিসমতার সর্বনিম্ন (ট্রিভিয়াল) রূপ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533509,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533552,
+      "value": {
+        "options": [],
+        "question": "একটি ইটের ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "ইটের আকৃতি আয়তাকৃতির।প্রতিসাম্য রেখা = ২টি (উল্লম্ব ও অনুভূমিক)প্রতিসমতার মাত্রা = ২ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{2} = 180^\\circ[/math]\u003Cbr\u003Eঅতএব, ইটের ঘূর্ণন কোণ = [math]180^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এই প্রশ্নের নির্দিষ্ট ঘূর্ণন কোণ জানার জন্য ইটের মাপ এবং কোন ধাপ/অক্ষের চারপাশে ঘোরানো হচ্ছে তা জানা প্রয়োজন; সেই তথ্য ছাড়া একটি সংখ্যাগত উত্তর দেওয়া যায় না। সাধারণ পদ্ধতি হলো ঘূর্ণনের সময় গঠিত সমকোণী ত্রিভুজ নির্ণয় করে ত্রিকোণমিতিক সম্পর্ক ব্যবহার করা, যেমন [math]\\theta=\\arctan\\!\\left(\\frac{\\text{বিপরীত পাশ}}{\\text{অধিকাংশ পাশ}}\\right)[/math] বা [math]\\theta=\\arccos\\!\\left(\\frac{\\text{অধিকাংশ পাশ}}{\\text{ত্রীভুজের হাইপোতে্ন্যুজ}}\\right)[/math] — কারণ সাইন, কসাইন ও ট্যান জ¦ড়ায় কোণকে ত্রিভুজের পাশগুলোর অনুপাতের মাধ্যমে প্রকাশ করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533552,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533546,
+      "value": {
+        "options": [],
+        "question": "বর্গাকার রুবিক্স কিউবের প্রতিসাম্য রেখা, প্রতিসমতার মাত্রা এবং ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "রুবিক্স কিউব বর্গাকার হওয়ায়:প্রতিসাম্য রেখা = ৪টিপ্রতিসমতার মাত্রা = ৪ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{4} = 90^\\circ[/math]\u003Cbr\u003Eঅতএব, রুবিক্স কিউবের প্রতিসাম্য রেখা ৪টি, প্রতিসমতার মাত্রা ৪ এবং ঘূর্ণন কোণ [math]90^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "বর্গাকার রুবিক্স কিউবের চারটি প্রতিসাম্য রেখা আছে — দুইটি মধ্যরেখা (উল্লম্ব ও অনুভূমিক) এবং দুইটি কর্ণরেখা। তাই ঘূর্ণনসমূহ হলো [math]0^\\circ,\\,90^\\circ,\\,180^\\circ,\\,270^\\circ[/math] (প্রতি [math]90^\\circ[/math] করে), এবং মোট প্রতিসমতার সংখ্যা [math]8[/math] (চারটি ঘূর্ণন + চারটি প্রতিবিম্ব), যা চতুর্ভুজের [math]D_4[/math] গ্রুপ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533546,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533540,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম প্রিজমের প্রতিসাম্য রেখা, প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "প্রিজমটি একটি সমবাহু ত্রিভুজের মতো আকৃতির।প্রতিসাম্য রেখা = ৩টিপ্রতিসমতার মাত্রা = ৩ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{3} = 120^\\circ[/math]\u003Cbr\u003Eঅতএব, সুষম প্রিজমের প্রতিসাম্য রেখা ৩টি, প্রতিসমতার মাত্রা ৩ এবং ঘূর্ণন কোণ [math]120^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E প্রতিসাম্য রেখা: সুষম প্রিজমের প্রতিসাম্য রেখা হলো দুই বেসের কেন্দ্রকে সংযুক্ত করে বেসসমতলের প্রতি লম্বভাবে থাকা রেখা, কারণ বেস নিজেই একটি নিয়মিত বহুভুজ এবং প্রিজম সেই বিন্যাস ধরে রাখে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E প্রতিসামতার মাত্রা: বেস যদি একটি [math]n[/math]-কোণী নিয়মিত বহুভুজ হয়, তবে প্রিজমের ঘূর্ণনীয় প্রতিসাম্যের মাত্রা হবে [math]n[/math], কারণ বেসের [math]n[/math]-গুণ ঘূর্ণন প্রতিসাম্য প্রিজমে প্রযোজ্য।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E ঘূর্ণন কোণ: প্রতিটি ধাপে প্রিজমকে নিজেই এনে দেয় এমন ঘূর্ণন কোণ হবে [math]\\dfrac{360^\\circ}{n}[/math] (অর্থাৎ [math]360^\\circ/n[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533540,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533534,
+      "value": {
+        "options": [],
+        "question": "ইংরেজি বর্ণ Z, B ও O এর প্রতিসাম্য রেখার সংখ্যা, ঘূর্ণন কোণ এবং ঘূর্ণন প্রতিসমতার মাত্রা লেখ।",
+        "solution": "নিচে তথ্যগুলো সারণি আকারে উপস্থাপন করা হলো:বর্ণ: Zপ্রতিসাম্য রেখা: 0ঘূর্ণন কোণ: [math]180^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা: 2বর্ণ: Bপ্রতিসাম্য রেখা: 1ঘূর্ণন কোণ: [math]360^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা: 1বর্ণ: Oপ্রতিসাম্য রেখা: অসীমঘূর্ণন কোণ: অসীমঘূর্ণন প্রতিসমতার মাত্রা: অসীম",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E Z — প্রতিসাম্য রেখা: 0; ঘূর্ণন কোণ: 180°; ঘূর্ণন প্রতিসমতার মাত্রা: 2। Z কেবল 180° ঘুরালে নিজেই মেলে, কোনো আয়নরেখা দিয়ে মিলায় না।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E B — প্রতিসাম্য রেখা: 0; ঘূর্ণন কোণ: 360° (কোনো ছোট কোণে নয়); ঘূর্ণন প্রতিসমতার মাত্রা: 1। B-এর আকারে সাধারণত কোনো আয়নরেখা নেই এবং কেবল পূর্ণচক্রে (360°) আবার নিজে পাওয়া যায়।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E O — প্রতিসাম্য রেখা: অসীম; ঘূর্ণন কোণ: যেকোনো কোণ; ঘূর্ণন প্রতিসমতার মাত্রা: অসীম। O (পর্ফেক্ট বৃত্ত) সব আয়নরেখা ও সব কোণে ঘুরলেও নিজেই মেলে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533534,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533528,
+      "value": {
+        "options": [],
+        "question": "বৃত্তকে আদর্শ প্রতিসম চিত্র বলা হয় এবং কেন?",
+        "solution": "বৃত্ত একটি আদর্শ প্রতিসম চিত্র। কারণ, বৃত্তকে এর কেন্দ্রের সাপেক্ষে যেকোনো কোণে এবং যেকোনো দিকে ঘোরালে অবস্থানের কোনো পরিবর্তন লক্ষ করা যায় না। বৃত্তের প্রতিসাম্য রেখা অসংখ্য কারণ কেন্দ্রগামী যেকোনো রেখা তা ভাগ করে। সুতরাং, বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা অসীম এবং এটি আদর্শ প্রতিসম চিত্র।",
+        "explanation": "বৃত্তকে আদর্শ প্রতিসম চিত্র বলা হয় কারণ এর প্রতিটি ব্যাসরেখা কেন্দ্র দিয়ে গত হলে সেটি বৃত্তকে দুই সমান আংশে ভাগ করে, অর্থাৎ প্রতিসম রেখা হিসেবে কাজ করে। ফলে বৃত্তে অসীম সংখ্যক প্রতিসম রেখা থাকে এবং কেন্দ্রের চারপাশে যে কোনো কোণে ঘোরালেও আকৃতিটি অপরিবর্তিত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533528,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533524,
+      "value": {
+        "options": [],
+        "question": "সুষম পঞ্চভুজের ঘূর্ণন প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ কত?",
+        "solution": "সুষম পঞ্চভুজে ৫টি বাহু থাকে এবং একে প্রতি [math]72^\\circ[/math]\u003Cbr\u003E করে ঘুরালে মূল চিত্রের সঙ্গে মিলে যায়।ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{5} = 72^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা = [math]5[/math]\u003Cbr\u003Eঅতএব, সুষম পঞ্চভুজের ঘূর্ণন কোণ [math]72^\\circ[/math]\u003Cbr\u003E এবং ঘূর্ণন প্রতিসমতার মাত্রা [math]5[/math]\u003Cbr\u003E",
+        "explanation": "উত্তর: সুষম পঞ্চভুজের ঘূর্ণন প্রতিসমতার মাত্রা 5 এবং ন্যূনতম ঘূর্ণন কোণ [math]360^\\circ/5=72^\\circ[/math]. কারণ শীর্ষগুলো সাইক্লিকভাবে বিন্যস্ত থাকায় [math]72^\\circ[/math] বা তার গুণিতকগুলো ([math]0^\\circ,72^\\circ,144^\\circ,216^\\circ,288^\\circ[/math]) ঘূর্ণনে পঞ্চভুজটি নিজেই থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533524,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533518,
+      "value": {
+        "options": [],
+        "question": "সুষম ষড়ভুজের ঘূর্ণন কোণ ও ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+        "solution": "সুষম ষড়ভুজে মোট ৬টি বাহু ও কোণ থাকে এবং প্রতিটি কোণে ঘুরিয়ে দিলে সেটি নিজের মতোই দেখা যায়।ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{6} = 60^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা = [math]6[/math]\u003Cbr\u003Eঅতএব, সুষম ষড়ভুজের ঘূর্ণন কোণ [math]60^\\circ[/math]\u003Cbr\u003E এবং ঘূর্ণন প্রতিসমতার মাত্রা [math]6[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একটি সুষম ষড়ভুজের কেন্দ্রের চারপাশে ভেরটেক্সগুলো এক ধাপে স্থানান্তর করতে প্রয়োজনীয় ক্ষুদ্র ঘূর্ণন কোণ হল [math]360^\\circ/6 = 60^\\circ[/math], তাই ঘূর্ণন প্রতিসমতার মাত্রা বা ক্রম সংখ্যা হলো [math]6[/math] কারণ এটি কেন্দ্রের চারপাশে [math]60^\\circ[/math] করে একে একে ছয়বার ঘোরালে আবার নিজের উপর পড়ে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533518,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533512,
+      "value": {
+        "options": [],
+        "question": "সমবাহু ত্রিভুজের ঘূর্ণন প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ কত?",
+        "solution": "একটি সমবাহু ত্রিভুজকে তিনবার সমানভাবে ঘোরালে প্রতি বার একই চেহারা দেখা যায়।সুতরাং, ঘূর্ণন প্রতিসমতার মাত্রা [math]= 3[/math]\u003Cbr\u003Eঘূর্ণন কোণ [math]= \\dfrac{360^\\circ}{3} = 120^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজে তিনটি শীর্ষ বিন্দু সমানভাবে বিন্যস্ত থাকায় ঘূর্ণন করলে তিনটি ভিন্ন অবস্থায়ও ত্রিভুজ নিজেই মেলে, তাই ঘূর্ণন প্রতিসমতার মাত্রা (order) [math]3[/math]। ঘূর্ণন কোণগুলো হল [math]0^\\circ,\\ 120^\\circ,\\ 240^\\circ[/math] (রেডিয়ান হিসেবে [math]0,\\ \\tfrac{2\\pi}{3},\\ \\tfrac{4\\pi}{3}[/math]) কারণ [math]120^\\circ[/math] করে ঘুরালে শীর্ষগুলো পরপর স্থানান্তরিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533512,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533505,
+      "value": {
+        "options": [],
+        "question": "বৃত্তের প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "বৃত্ত একটি আদর্শ প্রতিসম চিত্র। এর কেন্দ্রকে ঘূর্ণনের কেন্দ্র ধরে যেকোনো কোণে ঘোরালেও বৃত্তের আকৃতি ও অবস্থানে কোনো পরিবর্তন হয় না। তাই বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা অসীম। একইভাবে, কেন্দ্র থেকে যেকোনো রেখা বৃত্তকে সমানভাবে ভাগ করে, তাই এর প্রতিসাম্য রেখাও অসংখ্য।",
+        "explanation": "বৃত্তের প্রতিসমতা হল এমন বৈশিষ্ট্য যে বৃত্তকে কেন্দ্র দিয়ে গাধা কোনো রেখায় ভাঙলেও দুই ভাগ একে অপরের আয়না প্রতিচ্ছবি হয়; কারণ বৃত্তের যে কোনো বিন্দু কেন্দ্র থেকে সমদূর। ফলে বৃত্তে অসীম অনেক আয়না প্রতিসমতা এবং কেন্দ্রের চারপাশে যে কোনো কোণে ঘূর্ণনের প্রতিসমতাও থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533505,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533500,
+      "value": {
+        "options": [],
+        "question": "ঘূর্ণন কোণ কাকে বলে? ব্যাখ্যা কর।",
+        "solution": "কোনো বস্তু বা জ্যামিতিক চিত্রকে ঘোরানোর সময় যে কোণ তৈরি হয় তাকে ঘূর্ণন কোণ বলে।একবার সম্পূর্ণ ঘূর্ণন করলে কোণের মান হয় [math]360^\\circ[/math]\u003Cbr\u003Eআর অর্ধেক ঘূর্ণনের জন্য কোণ হয় [math]180^\\circ[/math]\u003Cbr\u003Eযেমন: চার পাখাওয়ালা একটি ফ্যান [math]90^\\circ[/math]\u003Cbr\u003E, [math]180^\\circ[/math]\u003Cbr\u003E, [math]270^\\circ[/math]\u003Cbr\u003E, ও [math]360^\\circ[/math]\u003Cbr\u003E কোণে ঘুরে মূল অবস্থার মতো হয়।",
+        "explanation": "ঘূর্ণন কোণ হলো কোনো বিন্দু বা বস্তুকে একটি স্থির কেন্দ্রের চারপাশে ঘোরানোর ফলে শুরু ও শেষ অবস্থার মধ্যকার কোণীয় স্থানচ্যুতি, অর্থাৎ অবস্থার পরিবর্তনের পরিমাপ। এটি ডিগ্রি বা রেডিয়ানে পরিমাপ করা হয় এবং সঠিক কারণ এটি বস্তুটির কোণগত পরিবর্তনকে নির্ধারণ করে; অর্ক দৈর্ঘ্য ও ব্যাসের অনুপাত দিয়ে সম্পর্কিত: [math]\\theta = s/r[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533500,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533493,
+      "value": {
+        "options": [],
+        "question": "ঘূর্ণন প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "যদি কোনো নির্দিষ্ট বিন্দুর চারপাশে একটি বস্তু বা চিত্রকে ঘোরানোর পর তার চেহারা বা গঠন ঠিক আগের মতোই থাকে, তবে সেটিকে ঘূর্ণন প্রতিসমতা সম্পন্ন বলা হয়। যেমন: সিলিং ফ্যান ঘুরিয়ে দিলে একাধিক বার মূল অবস্থার মতো দেখায় — অর্থাৎ তার ঘূর্ণন প্রতিসমতা আছে।",
+        "explanation": "ব্যাখ্যা: ঘূর্ণন প্রতিসমতা হলো এমন একটি বস্তুকে বলাই হয় যা নিজের কেন্দ্র ঘুরিয়ে কোনো কোণ দ্বারা (পূর্ণ [math]360^\\circ[/math] ছাড়া) ঘুরালে আবার মূল অবস্থার সাথে পুরোপুরি মিলে যায়; অর্থাৎ ঘূর্ণন করা অবস্থায় বস্তুর আকৃতি এবং বিন্যাস অপরিবর্তিত থাকে। এটি সঠিক কারণ ঘূর্ণন একটি কঠোর রূপান্তর যা বিন্দুগুলোকে এমনভাবে স্থানান্তর করে যে চিত্র নিজেই পুনরাবৃত্তি করে — উদাহরণস্বরূপ সমবাহু ত্রিভুজ [math]120^\\circ[/math] ঘুরালে নিজেই মিলে যায় (ঘূর্ণনের ক্রম [math]3[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533493,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533469,
+      "value": {
+        "options": [],
+        "question": "প্রতিসাম্য রেখা কাকে বলে?",
+        "solution": "কোনো বস্তু বা জ্যামিতিক চিত্রকে যদি কোনো সরলরেখা বরাবর ভাঁজ করলে তার অংশ দুইটি একটি অপরটির সাথে সম্পূর্ণরূপে মিলে যায়, তবে ঐ রেখাকে বস্তুটি বা জ্যামিতিক চিত্রটির প্রতিসাম্য রেখা বলা হয়।",
+        "explanation": "প্রতিসাম্য রেখা হলো এমন একটি রেখা যা কোনো আকারকে দুইটি আয়নাটুল্য সমান অংশে ভাগ করে; রেখার একপাশের প্রতিটি বিন্দুয়ের আয়নাপ্রতিফলন রেখার অন্যপাশে থাকে যাতে পুরো আকারটি রেখার উপর প্রতিফলিত হওয়ার পরে নিজে-ই মিলে যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533469,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533471,
+      "value": {
+        "options": [],
+        "question": "আনুভূমিক রেখা বরাবর প্রতিসাম্য রেখা বিদ্যমান এমন ইংরেজি বর্ণগুলো লেখ।",
+        "solution": "যেসব ইংরেজি বর্ণের প্রতিসাম্য রেখা আনুভূমিক রেখা বরাবর বিদ্যমান, সেই বর্ণগুলো হলো: B, C, D, E, H, K, I, O, X",
+        "explanation": "ব্যাখ্যা: সঠিক অক্ষরগুলো হল B, C, D, E, H, I, O, X — কারণ এই অক্ষরগুলোকে আনুভূমিক রেখা ধরে প্রতিফলিত করলে (উপর‑নীচ বদলে গেলে) আকার অপরিবর্তিত থাকে, অর্থাৎ উপরের এবং নিচের অংশ আয়নায় মিল থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533471,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533477,
+      "value": {
+        "options": [],
+        "question": "উল্লম্ব রেখা বরাবর প্রতিসাম্য রেখা বিদ্যমান এমন ইংরেজি বর্ণগুলো লেখ।",
+        "solution": "যেসব ইংরেজি বর্ণের প্রতিসাম্য রেখা উল্লম্ব রেখা বরাবর বিদ্যমান, সেই বর্ণগুলো হলো: A, H, I, M, T, U, V, W, X, Y",
+        "explanation": "উত্তর: বড় হাতের অক্ষরে A, H, I, M, O, T, U, V, W, X, Y।  \nব্যাখ্যা: এই বর্ণগুলোর বাম ও ডান ভাগগুলো উল্লম্ব কাটা রেখার উপর প্রতিচ্ছবি (mirror image) হিসেবে মেলে, তাই তাদের একটি উল্লম্ব প্রতিসাম্য রেখা আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533477,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533481,
+      "value": {
+        "options": [],
+        "question": "H, I, O, X বর্ণগুলোর প্রতিসাম্য রেখা নির্ণয় কর।",
+        "solution": "H, I এবং X বর্ণগুলো অনুভূমিক ও উল্লম্ব উভয় রেখা বরাবর ভাঁজ করলে দুটি অংশ সম্পূর্ণ মিলে যায়, তাই এগুলোর প্রতিসাম্য রেখা ২টি করে। অন্যদিকে O বৃত্তাকার হওয়ায় যেকোনো ব্যাস বরাবর ভাঁজ করলে অংশ দুটি মিলে যায়, তাই O-এর প্রতিসাম্য রেখা অসংখ্য।\n\nH-এর প্রতিসাম্য রেখা = ২টি\n\nI-এর প্রতিসাম্য রেখা = ২টি\n\nX-এর প্রতিসাম্য রেখা = ২টি\n\nO-এর প্রতিসাম্য রেখা = অসংখ্য",
+        "explanation": "ব্যাখ্যা: H-এর প্রতিসাম্য আছে দুইটি — এক উল্লম্ব কেন্দ্ররেখা ও এক আনুভূমিক কেন্দ্ররেখা, কারণ বাম-ডান ও উপরে-নীচে অংশগুলো একে অপরের প্রতিবিম্ব। I-ও উল্লম্ব ও আনুভূমিক দুই কেন্দ্ররেখার 대해 প্রতিসাম্যপূর্ণ যদি এটি সমান মাথা-পা সহ আঁকা হয়। O (পরিপাটি বৃত্ত)‑এর জন্য যেকোন ব্যাসরেখা কেন্দ্র দিয়ে প্রতিসাম্য রাখে, তাই অসীম সংখ্যক প্রতিসাম্য রেখা আছে। X‑এর প্রতিসাম্য দুটি কর্ণরেখা (টপ‑লেফট থেকে বটম‑রাইট এবং টপ‑রাইট থেকে বটম‑লেফট) দ্বারা ঘটে, তাই দুইটি প্রতিসাম্য রেখা আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533481,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533486,
+      "value": {
+        "options": [],
+        "question": "সুষম বহুভুজ কী?",
+        "solution": "বহুভুজ হলো কতকগুলো রেখাংশ দ্বারা আবদ্ধ একটি জ্যামিতিক চিত্র। যদি কোনো বহুভুজের সকল বাহুর দৈর্ঘ্য সমান হয় এবং সকল কোণ সমান হয়, তবে সেটিকে সুষম বহুভুজ বলা হয়। যেমন: সমবাহু ত্রিভুজ, বর্গ, পঞ্চভুজ ইত্যাদি।",
+        "explanation": "সুষম বহুভুজ হলো এমন একটি বহুভুজ যার সব বাহু সমান দৈর্ঘ্যের এবং সব অন্তর্দৃষ্ট কোণ সমান; অন্য কথায় এটি একটি নিয়মিত বহুভুজ। ফলে সব শীর্ষ বিন্দু কেন্দ্র থেকে সমদূরে থাকে এবং সেটি একটি বৃত্তে লেখাযেতে পারে, তাই এই সংজ্ঞা সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533486,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531674,
+      "value": {
+        "options": [],
+        "question": "আনুভূমিক রেখা বরাবর প্রতিসাম্য রেখা বিদ্যমান এমন ইংরেজি বর্ণগুলো লেখ।",
+        "solution": "যেসব ইংরেজি বর্ণের প্রতিসাম্য রেখা আনুভূমিক রেখা বরাবর বিদ্যমান, সেই বর্ণগুলো হলো: B, C, D, E, H, K, I, O, X",
+        "explanation": "উত্তর: B, C, D, E, H, I, O, X। এই সব বড় হরফ আনুভূমিক রেখায় প্রতিফলিত করলে আগের মতোই থাকে কারণ তাদের উপরের ও নীচের অংশ একে অপরের আয়নাসদৃশ হওয়ার ফলে প্রতিফলনে আকৃতি অপরিবর্তিত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531674,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531672,
+      "value": {
+        "options": [],
+        "question": "প্রতিসাম্য রেখা কাকে বলে?",
+        "solution": "কোনো বস্তু বা জ্যামিতিক চিত্রকে যদি কোনো সরলরেখা বরাবর ভাঁজ করলে তার অংশ দুইটি একটি অপরটির সাথে সম্পূর্ণরূপে মিলে যায়, তবে ঐ রেখাকে বস্তুটি বা জ্যামিতিক চিত্রটির প্রতিসাম্য রেখা বলা হয়।",
+        "explanation": "প্রতিসাম্য রেখা হলো এমন একটি রেখা যা একটি आकৃতি বা বস্তুকে দুইভাগে ভাগ করলে দুই অংশ পরস্পরের প্রতিবিম্ব হয়; রেখার প্রতি প্রতিফলনে কোনো বিন্দু তার অপর পাশে সমদূরে এবং একই অবস্থানে দেখা যায়, ফলে সমান দু’পাশ পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531672,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531676,
+      "value": {
+        "options": [],
+        "question": "উল্লম্ব রেখা বরাবর প্রতিসাম্য রেখা বিদ্যমান এমন ইংরেজি বর্ণগুলো লেখ।",
+        "solution": "যেসব ইংরেজি বর্ণের প্রতিসাম্য রেখা উল্লম্ব রেখা বরাবর বিদ্যমান, সেই বর্ণগুলো হলো: A, H, I, M, T, U, V, W, X, Y",
+        "explanation": "উল্লম্বভাবে প্রতিসাম্য রেখা আছে এমন বড় ইংরেজি বর্ণগুলো হল: A, H, I, M, O, T, U, V, W, X, Y। এই বর্ণগুলোর বাম এবং ডান অংশ উল্লম্ব দিক থেকে লিপিতে একে অপরের আয়না-ছবি হওয়ায় সেগুলোতে উল্লম্ব প্রতিসাম্য থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531676,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531678,
+      "value": {
+        "options": [],
+        "question": "H, I, O, X বর্ণগুলোর প্রতিসাম্য রেখা নির্ণয় কর।",
+        "solution": "H, I এবং X বর্ণগুলো অনুভূমিক ও উল্লম্ব উভয় রেখা বরাবর ভাঁজ করলে দুটি অংশ সম্পূর্ণ মিলে যায়, তাই এগুলোর প্রতিসাম্য রেখা ২টি করে। অন্যদিকে O বৃত্তাকার হওয়ায় যেকোনো ব্যাস বরাবর ভাঁজ করলে অংশ দুটি মিলে যায়, তাই O-এর প্রতিসাম্য রেখা অসংখ্য।\n\nH-এর প্রতিসাম্য রেখা = ২টি\n\nI-এর প্রতিসাম্য রেখা = ২টি\n\nX-এর প্রতিসাম্য রেখা = ২টি\n\nO-এর প্রতিসাম্য রেখা = অসংখ্য",
+        "explanation": "H: H-এ লম্ব ও আনুভূমিক — মাঝের লম্ব ও মাঝের আনুভূমিক রেখা দিয়ে আকারটি উভয় দিক থেকে প্রতিবিম্বিত হলে নিজেই আসে।  \nI: I-তেও লম্ব ও আনুভূমিক — উভয় দিকে ও উপরে–নিচে সমান হওয়ায় উভয় প্রবণ রেখা প্রতিসাম্য রাখে।  \nO: O-তে অসীম — সঠিক বৃত্ত হলে কেন্দ্র দিয়ে যেকোন রেখা দিয়ে প্রতিসাম্য পাওয়া যায়।  \nX: X-এ দুটি তির্যক রেখা — দুইটি তির্যক (ডায়াগোনাল) রেখা দিয়ে প্রতিসাম্য করে, কারণ প্রতিটি ভাঁজ অপরটিকে আয়নায় প্রতিফলিত করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531678,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531680,
+      "value": {
+        "options": [],
+        "question": "সুষম বহুভুজ কী?",
+        "solution": "বহুভুজ হলো কতকগুলো রেখাংশ দ্বারা আবদ্ধ একটি জ্যামিতিক চিত্র। যদি কোনো বহুভুজের সকল বাহুর দৈর্ঘ্য সমান হয় এবং সকল কোণ সমান হয়, তবে সেটিকে সুষম বহুভুজ বলা হয়। যেমন: সমবাহু ত্রিভুজ, বর্গ, পঞ্চভুজ ইত্যাদি।",
+        "explanation": "সুষম বহুভুজ হলো এমন একটি বহুভুজ যার সব বাহু সমদৈর্ঘ্য এবং সব অন্তর্বর্তী কোণ সমমান, অর্থাৎ এটি একসঙ্গে সমদৈর্ঘ্য ও সমকোণীয়। উদাহরণ হিসেবে সমবর্গ (square) ও সমতীর্যক ত্রিভুজ (equilateral triangle) সুষম বহুভুজ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531680,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531681,
+      "value": {
+        "options": [],
+        "question": "ঘূর্ণন প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "যদি কোনো নির্দিষ্ট বিন্দুর চারপাশে একটি বস্তু বা চিত্রকে ঘোরানোর পর তার চেহারা বা গঠন ঠিক আগের মতোই থাকে, তবে সেটিকে ঘূর্ণন প্রতিসমতা সম্পন্ন বলা হয়। যেমন: সিলিং ফ্যান ঘুরিয়ে দিলে একাধিক বার মূল অবস্থার মতো দেখায় — অর্থাৎ তার ঘূর্ণন প্রতিসমতা আছে।",
+        "explanation": "ব্যাখ্যা: ঘূর্ণন প্রতিসমতা বলতে বোঝায় কোনো আকৃতি বা চিত্রকে নির্দিষ্ট কোনো কেন্দ্রের চারপাশে নির্দিষ্ট কোনো কোণে ঘোরালে সেটি নিজেই পুনরায় মিলে যাওয়া — অর্থাৎ ঘোরানোর পর চিত্রটি আগের অবস্থার মতোই দেখা যায়। এটি বলে দেয় কোন কেন্দ্র ও কোন কোণে ঘোরালে আকৃতির রূপ অপরিবর্তিত থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531681,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531682,
+      "value": {
+        "options": [],
+        "question": "ঘূর্ণন কোণ কাকে বলে? ব্যাখ্যা কর।",
+        "solution": "কোনো বস্তু বা জ্যামিতিক চিত্রকে ঘোরানোর সময় যে কোণ তৈরি হয় তাকে ঘূর্ণন কোণ বলে।একবার সম্পূর্ণ ঘূর্ণন করলে কোণের মান হয় [math]360^\\circ[/math]\u003Cbr\u003Eআর অর্ধেক ঘূর্ণনের জন্য কোণ হয় [math]180^\\circ[/math]\u003Cbr\u003Eযেমন: চার পাখাওয়ালা একটি ফ্যান [math]90^\\circ[/math]\u003Cbr\u003E, [math]180^\\circ[/math]\u003Cbr\u003E, [math]270^\\circ[/math]\u003Cbr\u003E, ও [math]360^\\circ[/math]\u003Cbr\u003E কোণে ঘুরে মূল অবস্থার মতো হয়।",
+        "explanation": "ব্যাখ্যা: ঘূর্ণন কোণ হল কোনো সরল রেখা বা তীর যখন কোনো নির্দিষ্ট বিন্দুকে কেন্দ্র করে ঘোরানো হয় তখন তার প্রাথমিক অবস্থান এবং চূড়ান্ত অবস্থানের মধ্যকার কোণ। এটি ঘূর্ণনের পরিমাণ (ডিগ্রি বা রেডিয়ান) এবং দিক (ঘড়ির কাঁটার দিকে ঋণাত্মক, বিপরীতদিকে ধনাত্মক) নির্ধারণ করে, তাই এটি ঘূর্ণনের পরিমাপ হিসেবে সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531682,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531684,
+      "value": {
+        "options": [],
+        "question": "বৃত্তের প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "বৃত্ত একটি আদর্শ প্রতিসম চিত্র। এর কেন্দ্রকে ঘূর্ণনের কেন্দ্র ধরে যেকোনো কোণে ঘোরালেও বৃত্তের আকৃতি ও অবস্থানে কোনো পরিবর্তন হয় না। তাই বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা অসীম। একইভাবে, কেন্দ্র থেকে যেকোনো রেখা বৃত্তকে সমানভাবে ভাগ করে, তাই এর প্রতিসাম্য রেখাও অসংখ্য।",
+        "explanation": "বৃত্তের প্রতিসমতা বলতে বোঝায় যে বৃত্তটি কেন্দ্রকে কেন্দ্র করে নির্দিষ্ট কোনো ক্রিয়ায় (যেমন ব্যাসার্ধ বরাবর প্রতিফলন বা যেকোনো কোণ নিয়ে ঘূর্ণন) অপরিবর্তিত থাকে। ফলে প্রতিটি ব্যাসার্ধই একটি প্রতিসমতা অক্ষ এবং কেন্দ্রের চারপাশে যে কোনো কোণেই ঘুরালে বৃত্তটি ঠিক যেমন ছিল তেমনই থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531684,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531687,
+      "value": {
+        "options": [],
+        "question": "এক মাত্রার ঘূর্ণন প্রতিসমতা বলতে কী বোঝায়?",
+        "solution": "যদি কোনো চিত্র একবার পূর্ণ [math]360^\\circ[/math]\u003Cbr\u003E ঘূর্ণনের পর শুধুমাত্র একবার আদি অবস্থানে ফিরে আসে, তবে সেটিকে এক মাত্রার ঘূর্ণন প্রতিসমতা বলা হয়।ঘূর্ণন কোণ [math]= \\dfrac{360^\\circ}{\\text{ঘূর্ণন প্রতিসমতার মাত্রা}}[/math]\u003Cbr\u003Eএখানে মাত্রা [math]= 1[/math]\u003Cbr\u003E হলে, ঘূর্ণন কোণ [math]= 360^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এক মাত্রার ঘূর্ণন প্রতিসমতা বলতে এমন ঘূর্ণন প্রতিসমতাকেই বোঝায় যার ক্রম (order) 1, অর্থাৎ ফিগারটি কেবল [math]360^\\circ[/math] ঘোরালে নিজেকে দেয় এবং কোনো ছোট কোণে নিজেকে দেয় না। সাধারণভাবে n-মাত্রার ঘূর্ণন প্রতিসমতার হলে একক পুনরাবৃত্তি কোণটি [math]360^\\circ/n[/math], তাই n=1 হলে কোনো নন-ট্রিভিয়াল ঘূর্ণন নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531687,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531689,
+      "value": {
+        "options": [],
+        "question": "সমবাহু ত্রিভুজের ঘূর্ণন প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ কত?",
+        "solution": "একটি সমবাহু ত্রিভুজকে তিনবার সমানভাবে ঘোরালে প্রতি বার একই চেহারা দেখা যায়।সুতরাং, ঘূর্ণন প্রতিসমতার মাত্রা [math]= 3[/math]\u003Cbr\u003Eঘূর্ণন কোণ [math]= \\dfrac{360^\\circ}{3} = 120^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "সমবাহু ত্রিভুজে শিখর তিনটি হওয়ায় একটি শিখরকে পরবর্তী শিখরে পাঠানোর ঘূর্ণন দ্বারা ত্রিভুজটি নিজের অবস্থায় ফিরে আসে, তাই ঘূর্ণন প্রতিসমতার মাত্রা [math]3[/math]. প্রতিটি ঘূর্ণনের কোণ হবে [math]{360^\\circ \\over 3} = 120^\\circ[/math] (এবং এর গুণিতক হিসেবে [math]240^\\circ[/math], [math]360^\\circ[/math] ও পরিচয় দেয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531689,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531690,
+      "value": {
+        "options": [],
+        "question": "সুষম ষড়ভুজের ঘূর্ণন কোণ ও ঘূর্ণন প্রতিসমতার মাত্রা কত?",
+        "solution": "সুষম ষড়ভুজে মোট ৬টি বাহু ও কোণ থাকে এবং প্রতিটি কোণে ঘুরিয়ে দিলে সেটি নিজের মতোই দেখা যায়।ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{6} = 60^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা = [math]6[/math]\u003Cbr\u003Eঅতএব, সুষম ষড়ভুজের ঘূর্ণন কোণ [math]60^\\circ[/math]\u003Cbr\u003E এবং ঘূর্ণন প্রতিসমতার মাত্রা [math]6[/math]\u003Cbr\u003E",
+        "explanation": "সুষম ষড়ভুজের ঘূর্ণন প্রতিসমতার মাত্রা হলো [math]6[/math], কারণ তা নিজেকে প্রতি [math]60^\\circ[/math] ঘূর্ণনে পুনরাবৃত্তি করে; ছোটতর ধনাত্মক ঘূর্ণন কোণ হল [math]360^\\circ/6=[math]60^\\circ[/math]। অতএব বৈধ ঘূর্ণন কোণগুলো হল [math]60^\\circ,120^\\circ,180^\\circ,240^\\circ,300^\\circ[/math] এবং [math]360^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531690,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531692,
+      "value": {
+        "options": [],
+        "question": "সুষম পঞ্চভুজের ঘূর্ণন প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ কত?",
+        "solution": "সুষম পঞ্চভুজে ৫টি বাহু থাকে এবং একে প্রতি [math]72^\\circ[/math]\u003Cbr\u003E করে ঘুরালে মূল চিত্রের সঙ্গে মিলে যায়।ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{5} = 72^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা = [math]5[/math]\u003Cbr\u003Eঅতএব, সুষম পঞ্চভুজের ঘূর্ণন কোণ [math]72^\\circ[/math]\u003Cbr\u003E এবং ঘূর্ণন প্রতিসমতার মাত্রা [math]5[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সুষম পঞ্চভুজে শীর্ষবিন্দু আছে ৫টি, তাই ঘূর্ণন প্রতিসমতার মাত্রা [math]5[/math]। সর্বনিম্ন ঘূর্ণন কোণ [math]360^\\circ/5=[/math][math]72^\\circ[/math], ফলে ঘূর্ণন কোণগুলো হল [math]72^\\circ,\\,144^\\circ,\\,216^\\circ,\\,288^\\circ,\\,360^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531692,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531694,
+      "value": {
+        "options": [],
+        "question": "বৃত্তকে আদর্শ প্রতিসম চিত্র বলা হয় এবং কেন?",
+        "solution": "বৃত্ত একটি আদর্শ প্রতিসম চিত্র। কারণ, বৃত্তকে এর কেন্দ্রের সাপেক্ষে যেকোনো কোণে এবং যেকোনো দিকে ঘোরালে অবস্থানের কোনো পরিবর্তন লক্ষ করা যায় না। বৃত্তের প্রতিসাম্য রেখা অসংখ্য কারণ কেন্দ্রগামী যেকোনো রেখা তা ভাগ করে। সুতরাং, বৃত্তের ঘূর্ণন প্রতিসমতার মাত্রা অসীম এবং এটি আদর্শ প্রতিসম চিত্র।",
+        "explanation": "বৃত্তকে আদর্শ প্রতিসম চিত্র বলা হয় কারণ বৃত্তের সব বিন্দু কেন্দ্র থেকে সমদূর থাকায় এর সকল দিক সমানভাবে ছড়িয়ে আছে। তাই বৃত্তের অনন্তসংখ্যক প্রতিসম অক্ষ আছে এবং যেকোনো কোণে ঘোরালে ও তা নিজেই মেলে, এটিই পূর্ণ প্রতিসমতার কারণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531694,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531697,
+      "value": {
+        "options": [],
+        "question": "ইংরেজি বর্ণ Z, B ও O এর প্রতিসাম্য রেখার সংখ্যা, ঘূর্ণন কোণ এবং ঘূর্ণন প্রতিসমতার মাত্রা লেখ।",
+        "solution": "নিচে তথ্যগুলো সারণি আকারে উপস্থাপন করা হলো:বর্ণ: Zপ্রতিসাম্য রেখা: 0ঘূর্ণন কোণ: [math]180^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা: 2বর্ণ: Bপ্রতিসাম্য রেখা: 1ঘূর্ণন কোণ: [math]360^\\circ[/math]\u003Cbr\u003Eঘূর্ণন প্রতিসমতার মাত্রা: 1বর্ণ: Oপ্রতিসাম্য রেখা: অসীমঘূর্ণন কোণ: অসীমঘূর্ণন প্রতিসমতার মাত্রা: অসীম",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E Z: প্রতিসাম্য রেখার সংখ্যা [math]0[/math]; ঘূর্ণন কোণ [math]180^\\circ[/math]; ঘূর্ণন প্রতিসমতার মাত্রা [math]2[/math] — কারণ Z কে [math]180^\\circ[/math] ঘুরালে নিজেই পাওয়া যায়, কিন্তু কোনো আয়না রেখায় প্রতিফলিত হলে মিলবে না।\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E B: প্রতিসাম্য রেখার সংখ্যা [math]0[/math]; ঘূর্ণন কোণ [math]360^\\circ[/math] (অর্থাৎ কোনো ছোট ঘূর্ণন নেই); ঘূর্ণন প্রতিসমতার মাত্রা [math]1[/math] — কারণ B‑র কোনো আয়না রেখা নেই এবং শুধুমাত্র পূর্ণ [math]360^\\circ[/math] ঘুরলে আগে যেমন ছিল তেমন থাকে।\n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E O: প্রতিসাম্য রেখার সংখ্যা [math]\\infty[/math]; ঘূর্ণন কোণ যেকোনো [math]\\theta[/math]; ঘূর্ণন প্রতিসমতার মাত্রা [math]\\infty[/math] — কারণ O (বৃত্ত)‑এর প্রতিটি কেন্দ্রীয় রেখা আয়না হিসেবে কাজ করে এবং যেকোনো কোণে ঘুরালে নিজেকে দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531697,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531699,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম প্রিজমের প্রতিসাম্য রেখা, প্রতিসমতার মাত্রা ও ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "প্রিজমটি একটি সমবাহু ত্রিভুজের মতো আকৃতির।প্রতিসাম্য রেখা = ৩টিপ্রতিসমতার মাত্রা = ৩ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{3} = 120^\\circ[/math]\u003Cbr\u003Eঅতএব, সুষম প্রিজমের প্রতিসাম্য রেখা ৩টি, প্রতিসমতার মাত্রা ৩ এবং ঘূর্ণন কোণ [math]120^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "কেন্দ্রীয় অক্ষ (বেসদের কেন্দ্র দিয়ে যাওয়া লাইন) প্রিজমের প্রতিসাম্য রেখা এবং প্রিজমে [math]n[/math]-গোনার কারণে এটি কেন্দ্রিয়ভাবে [math]n[/math]-ফOLD প্রতিসাম্য রাখে, অর্থাৎ প্রতিসামতার মাত্রা (order) = [math]n[/math]. কারণ একটি [math]360^\\circ[/math] পূর্ণ ঘূর্ণনকে [math]n[/math] সমান অংশে ভাগ করলে প্রতিটি কপিতে প্রিজম নিজেই পাওয়া যায়, তাই ঘূর্ণন কোণ = [math]\\tfrac{360^\\circ}{n}[/math] (বা [math]\\tfrac{2\\pi}{n}[/math] রেডিয়ান)। পাশাপাশি বেসে নিয়মিত বহুভুজের প্রতিসাম্যের কারণে আছে [math]n[/math]টি উল্লম্ব প্রতিফলন সমতল (অক্ষ দিয়ে যায়) এবং একটি মধ্যবর্তী অনুভূমিক প্রতিফলন সমতল (রাইট প্রিজম হলে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531699,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531701,
+      "value": {
+        "options": [],
+        "question": "বর্গাকার রুবিক্স কিউবের প্রতিসাম্য রেখা, প্রতিসমতার মাত্রা এবং ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "রুবিক্স কিউব বর্গাকার হওয়ায়:প্রতিসাম্য রেখা = ৪টিপ্রতিসমতার মাত্রা = ৪ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{4} = 90^\\circ[/math]\u003Cbr\u003Eঅতএব, রুবিক্স কিউবের প্রতিসাম্য রেখা ৪টি, প্রতিসমতার মাত্রা ৪ এবং ঘূর্ণন কোণ [math]90^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "বর্গাকার রুবিক্স কিউবের প্রতিসাম্য রেখা চারটি — দুইটি কর্ণরেখা এবং দুইটি পাশের মধ্যদ্বারা কাটা রেখা। প্রতিসমতার মাত্রা (রোটেশন অর্ডার) হলো চার, কারণ বর্গকে [math]90^\\circ[/math] করে ঘোরালেই এটি নিজেকে দেয়। তাই ঘূর্ণন কোণগুলো হল [math]0^\\circ,\\;90^\\circ,\\;180^\\circ,\\;270^\\circ[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531701,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531702,
+      "value": {
+        "options": [],
+        "question": "একটি ইটের ঘূর্ণন কোণ নির্ণয় কর।",
+        "solution": "ইটের আকৃতি আয়তাকৃতির।প্রতিসাম্য রেখা = ২টি (উল্লম্ব ও অনুভূমিক)প্রতিসমতার মাত্রা = ২ঘূর্ণন কোণ = [math]\\dfrac{360^\\circ}{2} = 180^\\circ[/math]\u003Cbr\u003Eঅতএব, ইটের ঘূর্ণন কোণ = [math]180^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "প্রশ্নে ইটের প্রাথমিক ও চূড়ান্ত অবস্থার চিত্র বা অবস্থান নির্দেশ করা আছে কি না সেটা জানা প্রয়োজন; তা না থাকলে নির্দিষ্ট কোণ নির্ণয় করা যাবে না। সাধারণ পদ্ধতি: ইটের কোনও এক ধারের লম্ব ভেক্টর হিসেবে ধরে ইটের কেন্দ্রকে পিভট ধরে প্রাথমিক ও চূড়ান্ত ভেক্টরের মধ্যে গঠিত কোণটি মাপলে সেটিই ঘূর্ণন কোণ, এবং প্রয়োজন হলে ঘড়ির কাঁটার দিকে নাকি বিপরঘড়ি দিক তাও নির্দেশ করতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531702,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12953&grade=5&lesson=12956&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12953&grade=5&lesson=12956&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12953&grade=5&lesson=12956&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 51,
+  "total": 51
+}

@@ -1,0 +1,996 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695559,
+      "value": {
+        "options": {
+          "ক": "নামাজ",
+          "খ": "রোজা",
+          "গ": "দোজখ",
+          "ঘ": "জাকাত"
+        },
+        "question": "আরবি' ভাষার শব্দ কোনটি?",
+        "solution": "‘জাকাত’ শব্দটি আরবি ভাষা থেকে আগত ধর্মীয় পরিভাষা।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695559,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695559,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695559,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695560,
+      "value": {
+        "options": {
+          "ক": "নগদ",
+          "খ": "দোকান",
+          "গ": "বোতল",
+          "ঘ": "পাদরি"
+        },
+        "question": "নিচের কোনটি আরবি শব্দ?",
+        "solution": "‘নগদ’ শব্দটি আরবি থেকে আগত এবং এটি আর্থিক লেনদেনে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695560,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695560,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695560,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695561,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "উৎস বিবেচনায় বাংলা শব্দভাণ্ডার কয় শ্রেণিতে বিভক্ত?",
+        "solution": "বাংলা শব্দভাণ্ডার চার ভাগে বিভক্ত: তৎসম, তদ্ভব, দেশজ ও বিদেশি।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695561,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695561,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695562,
+      "value": {
+        "options": {
+          "ক": "পর্তুগিজ",
+          "খ": "ইংরেজি",
+          "গ": "ফারসি",
+          "ঘ": "ফরাসি"
+        },
+        "question": "রেস্তোরাঁ' কোন ভাষার শব্দ?",
+        "solution": "‘রেস্তোরাঁ’ শব্দটি ফরাসি ভাষা থেকে আগত। এটি ‘restaurant’ শব্দের বাংলা রূপ, যার অর্থ খাওয়ার জায়গা বা হোটেল। বাংলা ভাষায় বহু বিদেশি শব্দ গৃহীত হয়েছে, যার মধ্যে ফরাসি ভাষা থেকেও কিছু শব্দ রয়েছে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695562,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695562,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695563,
+      "value": {
+        "options": {
+          "ক": "গরমিল",
+          "খ": "বন্ধুত্ব",
+          "গ": "প্রশাসন",
+          "ঘ": "গোলাম"
+        },
+        "question": "কোনটি মৌলিক শব্দ?",
+        "solution": "যে -সব শব্দকে বিশ্লেষণ করলে আর কোন শব্দ পাওয়া যায় না, তাকে মৌলিক শব্দ বলে। অর্থাৎ, যে সব শব্দকে ভাঙলে আর কোন অর্থসঙ্গতিপূর্ণ শব্দ পাওয়া যায় না, তাকে মৌলিক শব্দ বলে।",
+        "explanation": "",
+        "correct_answer": "D.গোলাম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695563,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695563,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695564,
+      "value": {
+        "options": {
+          "ক": "কারখানা",
+          "খ": "আদালত",
+          "গ": "আদালত",
+          "ঘ": "আলমারি"
+        },
+        "question": "নিচের কোনটি পর্তুগিজ শব্দ?",
+        "solution": "বাংলা ভাষায় আগত পর্তুগিজ শব্দের সংখ্যা শতাধিক হতে পারে। যেমন - আয়া, আচার, আনারস, আতা, আলমারি, কপি, কামিজ, কামরা, কেদারা, কেরানি,গরাদ, গামলা, গুদাম, চাবি, জানালা, তামাক, তোয়ালে, নিলাম, পারদ, পাউরুটি, পিরিচ।\n\nযেসব শব্দ বিদেশি ভাষা থেকে বাংলা ভাষায় এসেছে তাদেরকে বিদেশাগত শব্দ বলে।",
+        "explanation": "",
+        "correct_answer": "D.আলমারি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695564,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695564,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695565,
+      "value": {
+        "options": {
+          "ক": "আরবি",
+          "খ": "বাংলা",
+          "গ": "ফরাসি",
+          "ঘ": "ওলন্দাজ"
+        },
+        "question": "'আদালত' কোন ভাষার শব্দ?",
+        "solution": "”আদালত” শব্দটি আরবি ভাষার শব্দ । আরবি ভাষা থেকে বাংলা ভাষায় বহু শব্দ এসেছে । কিছু আরবি শব্দ হলাে আল্লাহ , ওযু , হজ , যাকাত , হালাল , হারাম , দোয়াত , নগদ , বাকি , মহকুমা , মােক্তার , তারিখ , খবর , খাজনা , জনাব , দলিল , নবাব , মসজিদ ইত্যাদি ।",
+        "explanation": "",
+        "correct_answer": "A.আরবি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695565,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695565,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695558,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "উৎস বিবেচনায় বাংলা শব্দভান্ডারকে কয় শ্রেণিতে বিভক্ত করা যায়?",
+        "solution": "বাংলা শব্দভান্ডারকে দেশজ, তদ্ভব, তৎসম ও বিদেশি—এই চার শ্রেণিতে ভাগ করা যায়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:56:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695558,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695558,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695558,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T06:56:10.000000Z",
+            "updated_at": "2025-10-09T06:56:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718822,
+      "value": {
+        "options": {
+          "ক": "চন্দ্র/ধর্ম",
+          "খ": "গিন্নী",
+          "গ": "ডিঙ্গা",
+          "ঘ": "ঈমান"
+        },
+        "question": "নিচের কোনটি তৎসম শব্দ?",
+        "solution": "ক. চন্দ্র/ধর্ম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718819,
+      "value": {
+        "options": {
+          "ক": "সূর্য",
+          "খ": "কুড়ি",
+          "গ": "চা",
+          "ঘ": "ধর্ম"
+        },
+        "question": "দেশি শব্দের উদাহরণ-",
+        "solution": "খ. কুড়ি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718816,
+      "value": {
+        "options": {
+          "ক": "চা",
+          "খ": "চেয়ার",
+          "গ": "ধর্ম",
+          "ঘ": "কান"
+        },
+        "question": "তৎসম শব্দ হলো-",
+        "solution": "গ. ধর্ম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718813,
+      "value": {
+        "options": {
+          "ক": "পত্র, কেষ্ট, ডাব, সমুদ্র",
+          "খ": "টোপর, বসুন্ধরা, নক্ষত্র, অনল",
+          "গ": "আকাশ, বৃক্ষ, ধর্ম, মস্তক",
+          "ঘ": "সূর্য, চন্দ্র, সাপ, গিন্নী"
+        },
+        "question": "তৎসম শব্দ কোনগুলো?",
+        "solution": "গ. আকাশ, বৃক্ষ, ধর্ম, মস্তক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718810,
+      "value": {
+        "options": {
+          "ক": "তদ্ভব শব্দ",
+          "খ": "অর্ধ-তৎসম শব্দ",
+          "গ": "তৎসম শব্দ",
+          "ঘ": "বিদেশি শব্দ&nbsp;"
+        },
+        "question": "'মনুষ্য' কোন শব্দের উদাহরণ?",
+        "solution": "গ. তৎসম শব্দ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3786,
+          "full_name": "ব. বো.'২০২০",
+          "short_name": "ব. বো.'২০২০",
+          "slug": "b-bo2020",
+          "pivot": {
+            "question_bank_id": 718810,
+            "tag_id": 3786,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718807,
+      "value": {
+        "options": {
+          "ক": "তিনটি&nbsp;",
+          "খ": "চারটি",
+          "গ": "পাঁচটি",
+          "ঘ": "ছয়টি"
+        },
+        "question": "উৎস বা উৎপত্তি অনুসারে বাংলা ভাষার&nbsp;শব্দসমূহকে কয়টি ভাগে ভাগ করা যায়?",
+        "solution": "খ. চারটি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 718807,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718806,
+      "value": {
+        "options": {
+          "ক": "পত্র",
+          "খ": "দোয়াত",
+          "গ": "কলেজ",
+          "ঘ": "আইন"
+        },
+        "question": "বিদেশি শব্দ নয়-",
+        "solution": "ক. পত্র"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718803,
+      "value": {
+        "options": {
+          "ক": "কুড়ি",
+          "খ": "পেট&nbsp;",
+          "গ": "চুলা",
+          "ঘ": "চন্দ্র&nbsp;"
+        },
+        "question": "নিচের কোনটি কোল ভাষার শব্দ?",
+        "solution": "ক. কুড়ি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718800,
+      "value": {
+        "options": {
+          "ক": "তৎসম",
+          "খ": "তদ্ভব",
+          "গ": "দেশি",
+          "ঘ": "বিদেশি"
+        },
+        "question": "'চন্দ্র' কোন শব্দের উদাহরণ?",
+        "solution": "ক. তৎসম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718798,
+      "value": {
+        "options": {
+          "ক": "তৎসম শব্দ",
+          "খ": "তদ্ভব শব্দ",
+          "গ": "দেশি শব্দ",
+          "ঘ": "বিদেশি শব্দ"
+        },
+        "question": "যে শব্দগুলো বাংলা ভাষায় অবিকৃত রয়েছে সেগুলো-",
+        "solution": "ক. তৎসম শব্দ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718796,
+      "value": {
+        "options": {
+          "ক": "তিন",
+          "খ": "চার",
+          "গ": "পাঁচ",
+          "ঘ": "ছয়"
+        },
+        "question": "বাংলা শব্দভান্ডারকে বিভিন্ন বিবেচনায় কয়টি ভাগে ভাগ করা যায়?",
+        "solution": "ক. তিন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13170&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13170&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13170&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 19,
+  "total": 19
+}

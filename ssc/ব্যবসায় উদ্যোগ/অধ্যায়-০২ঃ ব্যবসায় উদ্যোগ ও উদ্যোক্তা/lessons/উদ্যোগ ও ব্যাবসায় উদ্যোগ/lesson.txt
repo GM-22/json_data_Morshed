@@ -1,0 +1,872 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 785161,
+      "value": {
+        "options": {
+          "ক": "শখ",
+          "খ": "শিল্প",
+          "গ": "ব্যবসায়",
+          "ঘ": "উদ্যোগ"
+        },
+        "question": "সাধারণ অর্থে যেকোনো কাজের কর্মপ্রচেষ্টাকে কী বলে?",
+        "solution": "ঘ. উদ্যোগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 785161,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785170,
+      "value": {
+        "options": [],
+        "question": "শীতার্তদের বস্ত্র প্রদান উদ্যোগের অন্তর্ভুক্ত'- যুক্তি দাও।",
+        "solution": "শীতার্তদের বস্ত্র প্রদান একটি জনকল্যাণমূলক কাজ। সমাজের অসহায় ও দরিদ্র শ্রেণির মানুষদের জন্য এ ধরনের কাজ করা হয়। আর যেকোনো কাজের প্রচেষ্টাকেই উদ্যোগ বলা হয়। তাই জনগণের কল্যাণে পরিচালিত এ ধরনের কাজকে উদ্যোগ বলা হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785169,
+      "value": {
+        "options": [],
+        "question": "ব্যবসায় উদ্যোক্তার ধারণা দাও।",
+        "solution": "যিনি ব্যবসায় স্থাপন ও পরিচালনা করেন, তাকে ব্যবসায় উদ্যোক্তা বলে। উদ্যোক্তা ঝুঁকি নিয়ে নিজের চেষ্টা, দৃঢ় মনোবল ও সাহসিকতার সাথে ব্যবসায় স্থাপন করেন। তিনি ব্যবসায়ের সব ঝুঁকি ও দায়দায়িত্ব বহন করেন। মুনাফা অর্জনের আশায় তিনি এ কাজগুলো করেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785168,
+      "value": {
+        "options": [],
+        "question": "'যেকোনো কাজের কর্মপ্রচেষ্টাই উদ্যোগ'- ব্যাখ্যা করো।",
+        "solution": "কোনো কিছু শুরু করার প্রাথমিক পদক্ষেপ হলো উদ্যোগ। উদ্যোগ যেকোনো বিষয়ে হতে পারে। যেমন: নাটক আয়োজন। উদ্যোগ নেওয়ার মাধ্যমে নতুন কিছু সৃষ্টি করার প্রচেষ্টা চালানো হয়। এজন্য বলা হয়, যেকোনো কাজের কর্মপ্রচেষ্টাই উদ্যোগ।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785167,
+      "value": {
+        "options": [],
+        "question": "উদ্যোক্তা কীভাবে দেশের প্রাপ্ত সব সম্পদের যথোপযুক্ত ব্যবহার নিশ্চিত করেন?",
+        "solution": "উদ্যোক্তা লাভের আশায় ঝুঁকি নিয়ে অর্থ ও শ্রম বিনিয়োগ করেন। এরা দেশের বিভিন্ন স্থানে ছড়িয়ে থাকা প্রাকৃতিক সম্পদের সঠিক ব্যবহার করেন। আর এ কাজ যথাযথভাবে করার জন্য কর্মী নিয়োগ করে তাদের দক্ষ করে তোলা হয়। ফলে দেশের বেকার জনগোষ্ঠী মানবসম্পদে পরিণত হয়। এভাবে উদ্যোক্তা দেশের সব সম্পদের উপযুক্ত ব্যবহার করে থাকেন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785166,
+      "value": {
+        "options": [],
+        "question": "ব্যবসায় উদ্যোগের সংজ্ঞা দাও।",
+        "solution": "ঝুঁকি নিয়ে কোনো ব্যবসায় প্রতিষ্ঠান স্থাপন ও পরিচালনা করাকে ব্যবসায় উদ্যোগ বলা হয়। এর মূল উদ্দেশ্য হলো মুনাফা অর্জন করা। এটি সাধারণত নতুন ব্যবসায় শুরুর সাথে সম্পর্কিত। তবে প্রতিষ্ঠানে নতুন পণ্য বা সেবা চালু করাও ব্যবসায় উদ্যোগের মধ্যে পড়ে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785165,
+      "value": {
+        "options": {
+          "ক": "ব্যবসায় উদ্যোগ",
+          "খ": "বাণিজ্য",
+          "গ": "ব্যবসায় নীতি",
+          "ঘ": "জনকল্যাণ"
+        },
+        "question": "লাভের আশায় ঝুঁকি নিয়ে অর্থ ও শ্রম বিনিয়োগ করাকে কী বলে?",
+        "solution": "ক. ব্যবসায় উদ্যোগ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3872,
+          "full_name": "ম. বো.'২০২২",
+          "short_name": "ম. বো.'২০২২",
+          "slug": "m-bo2022",
+          "pivot": {
+            "question_bank_id": 785165,
+            "tag_id": 3872,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785164,
+      "value": {
+        "options": {
+          "ক": "উদ্যোগ",
+          "খ": "ব্যবসায় উদ্যোগ",
+          "গ": "শিল্প&nbsp;",
+          "ঘ": "বাণিজ্য"
+        },
+        "question": "নাজিফা প্লাস্টিক বোতল দিয়ে চমৎকার শোপিচ তৈরি করে। তার কাজকে কী বলা যায়?",
+        "solution": "ক. উদ্যোগ",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 785164,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785163,
+      "value": {
+        "options": {
+          "ক": "উদ্যোগ",
+          "খ": "ব্যবসায় উদ্যোগ",
+          "গ": "ব্যবসায়",
+          "ঘ": "শখ"
+        },
+        "question": "রফিক ও তার বড় ভাই মিলে যুব উন্নয়ন অধিদপ্তর থেকে মৎস্য চাষের উপর প্রশিক্ষণ নিয়ে স্বাবলম্বী হওয়ার আশায় পারিবারিক পুকুরসহ এলাকার আরও একটি পুকুরে মৎস্য চাষ শুরু করেন। এ কাজে তার বন্ধুরা ঝুঁকির কথা বলে তাকে নিরুৎসাহিত করে। কিন্তু তাতে তিনি থেমে না গিয়ে বরং আরও উদ্যমী হয়েছেন।\u003Cbr\u003E\nরফিকের মৎস্য চাষ শুরু করার কাজকে কী বলা যায়?",
+        "solution": "খ. ব্যবসায় উদ্যোগ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785162,
+      "value": {
+        "options": {
+          "ক": "ব্যবসায় উদ্যোগ",
+          "খ": "ব্যবসায়",
+          "গ": "আত্মকর্মসংস্থান",
+          "ঘ": "উদ্যোগ"
+        },
+        "question": "কৃষি শিক্ষক রতন তাঁর শিক্ষার্থীদের নিয়ে বাগান করার সিদ্ধান্ত&nbsp;নিলেন। নির্দিষ্ট দিনে কাজটি শেষও করলেন। রতন স্যারের&nbsp;কাজটিকে কী বলা হয়?",
+        "solution": "ঘ. উদ্যোগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 785162,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785152,
+      "value": {
+        "options": {
+          "ক": "ইচ্ছা",
+          "খ": "ব্যবসায় উদ্যোগ",
+          "গ": "আগ্রহ",
+          "ঘ": "উদ্যোগ"
+        },
+        "question": "জনাব মিরাজ গবাদিপশু মোটাতাজাকরণের উপর স্থানীয় যুব&nbsp;প্রশিক্ষণ কেন্দ্র থেকে প্রশিক্ষণ গ্রহণ করেন। প্রশিক্ষণ শেষে নিজ বাড়িতে গবাদিপশু মোটাতাজা করার খামার শুরু করার সিদ্ধান্ত নেয়। কিন্তু তার বড় ভাই ঝুঁকির কথা বলে তাকে নিরুৎসাহিত করার চেষ্টা করে।\u003Cbr\u003E\nজনাব মিরাজের গবাদিপশুর খামার শুরু করার কাজকে কী বলা যায়?",
+        "solution": "খ. ব্যবসায় উদ্যোগ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 785152,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785160,
+      "value": {
+        "options": {
+          "ক": "ব্যবস্থাপক",
+          "খ": "ঋণগ্রহীতা",
+          "গ": "উদ্যোক্তা",
+          "ঘ": "বেসরকারি ব্যাংকার"
+        },
+        "question": "ব্যবসায় সংগঠন পরিচালনার প্রয়োজনীয় ঝুঁকি গ্রহণ করেন কে?",
+        "solution": "গ. উদ্যোক্তা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3868,
+          "full_name": "য. বো.'২০২১",
+          "short_name": "য. বো.'২০২১",
+          "slug": "z-bo2021",
+          "pivot": {
+            "question_bank_id": 785160,
+            "tag_id": 3868,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785159,
+      "value": {
+        "options": {
+          "ক": "আমেরিকার",
+          "খ": "জাপানের",
+          "গ": "ইংল্যান্ডের",
+          "ঘ": "ইতালির"
+        },
+        "question": "ফোর্ড কোন দেশের কোম্পানি?",
+        "solution": "ক. আমেরিকার",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 785159,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785158,
+      "value": {
+        "options": {
+          "ক": "বাংলাদেশ",
+          "খ": "জাপান",
+          "গ": "আমেরিকা",
+          "ঘ": "রাশিয়া"
+        },
+        "question": "\"ম্যাটসুসিটা\" কোন দেশের কোম্পানি?",
+        "solution": "খ. জাপান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 785158,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785157,
+      "value": {
+        "options": {
+          "ক": "চ্যালেঞ্জ গ্রহণ করার মানসিকতা",
+          "খ": "ধৈর্যশীলতা",
+          "গ": "সৃজনশীলতা",
+          "ঘ": "পেশাগত অভিজ্ঞতা"
+        },
+        "question": "জনাব মিরাজ গবাদিপশু মোটাতাজাকরণের উপর স্থানীয় যুব&nbsp;প্রশিক্ষণ কেন্দ্র থেকে প্রশিক্ষণ গ্রহণ করেন। প্রশিক্ষণ শেষে নিজ বাড়িতে গবাদিপশু মোটাতাজা করার খামার শুরু করার সিদ্ধান্ত নেয়। কিন্তু তার বড় ভাই ঝুঁকির কথা বলে তাকে নিরুৎসাহিত করার চেষ্টা করে।\u003Cbr\u003E\nবড় ভাইয়ের পরামর্শ না শুনে কাজ এগিয়ে যাওয়া জনাব মিরাজের মধ্যে উদ্যোক্তার কোন গুণটি প্রকাশ পেয়েছে?",
+        "solution": "ক. চ্যালেঞ্জ গ্রহণ করার মানসিকতা",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 785157,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785156,
+      "value": {
+        "options": {
+          "ক": "বাণিজ্যিকভিত্তিতে হাঁস-মুরগির চাষ",
+          "খ": "মুদি দোকান প্রতিষ্ঠার উদ্যোগ",
+          "গ": "শেয়ার ব্যবসায়ের উদ্যোগ",
+          "ঘ": "সাবান প্রস্তুত প্রতিষ্ঠান স্থাপনের উদ্যোগ"
+        },
+        "question": "কোনটি শিল্পোদ্যোগ?",
+        "solution": "ঘ. সাবান প্রস্তুত প্রতিষ্ঠান স্থাপনের উদ্যোগ",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785155,
+      "value": {
+        "options": {
+          "ক": "Entrepreneur",
+          "খ": "Business Entrepreneurship",
+          "গ": "Entrepreneurship",
+          "ঘ": "Entrepreneurship"
+        },
+        "question": "কোনো কাজের কর্মপ্রচেষ্টাকে কী বলে?",
+        "solution": "ঘ. Entrepreneurship",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3912,
+          "full_name": "কু. বো.'২০২২",
+          "short_name": "কু. বো.'২০২২",
+          "slug": "ku-bo2022",
+          "pivot": {
+            "question_bank_id": 785155,
+            "tag_id": 3912,
+            "year": null,
+            "created_at": "2025-12-03T03:55:22.000000Z",
+            "updated_at": "2025-12-03T03:55:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785154,
+      "value": {
+        "options": {
+          "ক": "চীন",
+          "খ": "জাপান",
+          "গ": "আমেরিকা",
+          "ঘ": "বাংলাদেশ"
+        },
+        "question": "পৃথিবী বিখ্যাত ইলেক্ট্রনিক পণ্য প্রস্তুতকারী প্রতিষ্ঠান 'ম্যাটসুসিটা' কোন দেশের সংগঠন?",
+        "solution": "খ. জাপান",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 785153,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "রফিক ও তার বড় ভাই মিলে যুব উন্নয়ন অধিদপ্তর থেকে মৎস্য চাষের উপর প্রশিক্ষণ নিয়ে স্বাবলম্বী হওয়ার আশায় পারিবারিক পুকুরসহ এলাকার আরও একটি পুকুরে মৎস্য চাষ শুরু করেন। এ কাজে তার বন্ধুরা ঝুঁকির কথা বলে তাকে নিরুৎসাহিত করে। কিন্তু তাতে তিনি থেমে না গিয়ে বরং আরও উদ্যমী হয়েছেন।\u003Cbr\u003E\nউদ্যোক্তার যে গুণাবলি রফিকের মধ্যে আছে-\u003Cbr\u003E\ni. আত্মবিশ্বাসী\u003Cbr\u003E\nii. ঝুঁকি গ্রহণের ক্ষমতা\u003Cbr\u003E\niii. চ্যালেঞ্জ গ্রহণ করার মানসিকতা\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8193,
+      "created_at": "2025-12-03T03:55:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8193&grade=5&lesson=15000&question_paper_id=47719&subject=27&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8193&grade=5&lesson=15000&question_paper_id=47719&subject=27&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8193&grade=5&lesson=15000&question_paper_id=47719&subject=27&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 19,
+  "total": 19
+}

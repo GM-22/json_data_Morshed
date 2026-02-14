@@ -1,0 +1,987 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695109,
+      "value": {
+        "options": {
+          "ক": "১৮৩০",
+          "খ": "১৮৩১",
+          "গ": "১৮৩২",
+          "ঘ": "১৮৩৩"
+        },
+        "question": "বাংলা ভাষায় লেখা প্রথম বাংলা ব্যাকরণ প্রকাশিত হয় কত খ্রিষ্টাব্দে?",
+        "solution": "রাজা রামমোহন রায়ের সময়কালে ১৮৩৩ সালে প্রথম বাংলা ব্যাকরণ গ্রন্থটি প্রকাশিত হয়েছিল।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695109,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695109,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695109,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695116,
+      "value": {
+        "options": {
+          "ক": "এ গ্রামের অব দি বেঙ্গল ল্যাঙ্গুয়েজ",
+          "খ": "বাংলা ভাষার ব্যাকরণ",
+          "গ": "গৌড়ীয় ব্যাকরণ",
+          "ঘ": "বাংলা ভাষার অভিধান"
+        },
+        "question": "বাংলা ভাষায় রচিত প্রথম বাংলা ব্যাকরণ কোনটি?",
+        "solution": "\"গৌড়ীয় ব্যাকরণ\" রচনা করেছিলেন রামমোহন রায়ও, তবে এটি ১৮৩৯ সালে প্রকাশিত হয়।\nগৌড়ীয় ব্যাকরণ\" বাংলা ভাষায় রচিত প্রথম ব্যাপক এবং আধুনিক ব্যাকরণ গ্রন্থগুলির মধ্যে একটি, এবং এটি বাংলা ভাষা শেখা ও শেখানোর জন্য একটি গুরুত্বপূর্ণ হাতিয়ার হিসেবে কাজ করে",
+        "explanation": "",
+        "correct_answer": "C.গৌড়ীয় ব্যাকরণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695116,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695116,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695116,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695115,
+      "value": {
+        "options": {
+          "ক": "১৮৩৩ সালে",
+          "খ": "১৯৩৩ সালে",
+          "গ": "১৯৫৩ সালে",
+          "ঘ": "১৯৫৬ সালে"
+        },
+        "question": "বাংলা ভাষায় রচিত প্রথম বাংলা ব্যাকরণ কত সালে প্রকাশিত হয়?",
+        "solution": "বাংলা ভাষায় রচিত প্রথম পূর্ণাঙ্গ ব্যাকরণ ১৮৩৩ সালে প্রকাশিত হয়।\nএটি রচনা করেছিলেন রাজা রামমোহন রায়।\nব্যাকরণটির নাম ছিল \"ইংরেজি ভাষায় বাংলা ব্যাকরণ\" (A Grammar of the Bengali Language in the English Language)।\nতবে, মনে রাখা গুরুত্বপূর্ণ যে রামমোহন রায়ের আগেও বাংলা ভাষার ব্যাকরণ নিয়ে কিছু কাজ হয়েছিল।\nউদাহরণস্বরূপ, \"বঙ্গভাষার ব্যাকরণ\" (১৭৯৯) নামে একটি ব্যাকরণ গ্রন্থ রচনা করেছিলেন উইলিয়ম কেরি।\n\"ভাষা-বোধ\" (১৮০১) নামে আরেকটি ব্যাকরণ গ্রন্থ রচনা করেছিলেন রাধাকান্ত দেব।\nতবে, এই গ্রন্থগুলো ছিল অপেক্ষাকৃত ছোট এবং সীমিত পরিসরের।\nরামমোহন রায়ের ব্যাকরণ গ্রন্থটি ছিল অনেক ব্যাপক এবং বিস্তারিত, এবং এটি বাংলা ব্যাকরণের প্রথম আধুনিক গ্রন্থ হিসেবে বিবেচিত হয়।",
+        "explanation": "বাংলা ভাষায় রচিত প্রথম বাংলা ব্যাকরণ হচ্ছে গৌড়ীয় ব্যাকরণ (১৮৩৯) । কিন্তু ইংরেজি ভাষার রচিত প্রথম বাংলা ব্যাকরণ a grammar of the bangle languageঊ in English (১৮৩৩)",
+        "correct_answer": "A.১৮৩৩ সালে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695115,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695115,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695114,
+      "value": {
+        "options": {
+          "ক": "অর্থতত্ত্বে",
+          "খ": "ধ্বনিতত্ত্বে",
+          "গ": "রূপতত্ত্বে",
+          "ঘ": "বাক্যতত্ত্বে"
+        },
+        "question": "বাগধারা নিয়ে আলোচনা করা হয়-",
+        "solution": "বাগধারা হলো এমন কিছু বাক্য বা প্রবাদ যা দীর্ঘকাল ধরে ব্যবহৃত হয়ে আসছে এবং একটি নির্দিষ্ট অর্থ বহন করে।",
+        "explanation": "",
+        "correct_answer": "A.অর্থতত্ত্বে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695114,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695114,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695114,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695113,
+      "value": {
+        "options": {
+          "ক": "বাগযন্ত্র",
+          "খ": "সর্বনাম",
+          "গ": "কারক বিশ্লেষণ",
+          "ঘ": "বিপরীত শব্দ"
+        },
+        "question": "নিচের কোনটি ধ্বনিতত্ত্বের আলোচ্য বিষয়?",
+        "solution": "মানুষের মুখের বিভিন্ন অঙ্গ যেমন ঠোঁট, জিহ্বা, তালু, দাঁত, স্বরযন্ত্র, কণ্ঠনালী ইত্যাদি মিলে গঠিত হয় বাগযন্ত্র।\nএই যন্ত্রগুলির সুনির্দিষ্ট নিয়ন্ত্রণ ও সমন্বয়ের মাধ্যমে আমরা বিভিন্ন ধ্বনি উৎপাদন করতে পারি।",
+        "explanation": "",
+        "correct_answer": "A.বাগযন্ত্র"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695113,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695113,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695113,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695112,
+      "value": {
+        "options": {
+          "ক": "ধ্বনি",
+          "খ": "প্রত্যয়",
+          "গ": "কারক",
+          "ঘ": "সমাস"
+        },
+        "question": "ধ্বনিতত্ত্বে আলোচ্য বিষয় কোনটি?",
+        "solution": "ধ্বনিতত্ত্বে আলোচ্য বিষয়গুলির মধ্যে রয়েছে:\nধ্বনির উৎপত্তি: ধ্বনি কীভাবে তৈরি হয়, বিভিন্ন ধরনের ধ্বনি এবং তাদের বৈশিষ্ট্য।\nধ্বনি ব্যবস্থা: কোন ভাষায় কোন ধ্বনিগুলি ব্যবহৃত হয় এবং সেগুলি কীভাবে একত্রিত হয়।\nধ্বনি পরিবর্তন: সময়ের সাথে সাথে ধ্বনি কীভাবে পরিবর্তিত হয়।\nধ্বনি বিশ্লেষণ: ধ্বনির বৈশিষ্ট্যগুলি পরিমাপ করা এবং বিশ্লেষণ করা।",
+        "explanation": "",
+        "correct_answer": "A.ধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695112,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695112,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695112,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695111,
+      "value": {
+        "options": {
+          "ক": "ধ্বনি",
+          "খ": "শব্দ",
+          "গ": "বর্ণ",
+          "ঘ": "বাক্য"
+        },
+        "question": "কোনটি ভাষার ক্ষুদ্রতম উপাদান?",
+        "solution": "শব্দতত্ত্ববিদদের মতে, ভাষার ক্ষুদ্রতম উপাদান হল ধ্বনি। কারণ ধ্বনি একত্রিত হয়ে বর্ণ তৈরি করে, এবং বর্ণ একত্রিত হয়ে শব্দ তৈরি করে।তাই, ধ্বনি ছাড়া কোন শব্দ তৈরি করা সম্ভব নয়।",
+        "explanation": "",
+        "correct_answer": "A.ধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695111,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695111,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695110,
+      "value": {
+        "options": {
+          "ক": "ঈশ্বরচন্দ্র বিদ্যাসাগর",
+          "খ": "রামমোহন রায়",
+          "গ": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+          "ঘ": "রামচন্দ্র বিদ্যাবাগীশ"
+        },
+        "question": "বাংলা ভাষায় প্রথম বাংলা ব্যাকরণ রচনা করেন কে?",
+        "solution": "তার ইংরেজিতে রচিত ব্যাকরণ গ্রন্থ \"Bengali Grammar in the English Language\" ১৮২৬ সালে কলকাতার ইউনিটারিয়েন প্রেস থেকে প্রকাশিত হয়\nএই গ্রন্থটি বাংলা ভাষার ব্যাকরণ নীতি ও রীতিনীতি ব্যাখ্যা করে এবং বাংলা ভাষা শেখা ও শেখানোর জন্য একটি গুরুত্বপূর্ণ হাতিয়ার হিসেবে কাজ করে।\nরামমোহন রায়ের ব্যাকরণ গ্রন্থটি ছিল অনেক ব্যাপক এবং বিস্তারিত, এবং এটি বাংলা ব্যাকরণের প্রথম আধুনিক গ্রন্থ হিসেবে বিবেচিত হয়।",
+        "explanation": "",
+        "correct_answer": "B.রামমোহন রায়"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695110,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695110,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695110,
+            "tag_id": 3,
+            "year": "2024",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695108,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্যের আলোচনা",
+          "খ": "ক্রিয়া বিশেষণ",
+          "গ": "শব্দ গঠন প্রক্রিয়া",
+          "ঘ": "ক্রিয়া বিশ্লেষণ"
+        },
+        "question": "রূপতত্ত্বে বিশেষ গুরুত্ব পায় কোনটি?",
+        "solution": "রূপতত্ত্বে মূলত শব্দের গঠন ও পরিবর্তনের পদ্ধতি নিয়ে আলোচনা করা হয়।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:49:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695108,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695108,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695108,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T06:49:20.000000Z",
+            "updated_at": "2025-10-09T06:49:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719005,
+      "value": {
+        "options": {
+          "ক": "বিশেষভাবে বিভাজন",
+          "খ": "বিশেষভাবে বিশ্লেষণ",
+          "গ": "বিশেষভাবে বিয়োজন",
+          "ঘ": "বিশেষভাবে সংযোজন"
+        },
+        "question": "'ব্যাকরণ' শব্দের ব্যুৎপত্তিগত অর্থ কী?",
+        "solution": "খ. বিশেষভাবে বিশ্লেষণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 719005,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719010,
+      "value": {
+        "options": {
+          "ক": "ভালো বক্তা তৈরি করা",
+          "খ": "ভালো অভিনেতা তৈরি করা",
+          "গ": "দ্রুত লেখা শেখানো",
+          "ঘ": "ভাষার অভ্যন্তরীণ শৃঙ্খলা আবিষ্কার করা"
+        },
+        "question": "ব্যাকরণের কাজ কী?",
+        "solution": "ঘ. ভাষার অভ্যন্তরীণ শৃঙ্খলা আবিষ্কার করা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719013,
+      "value": {
+        "options": {
+          "ক": "১৭৪৩",
+          "খ": "১৭৫৭",
+          "গ": "১৭৭৮",
+          "ঘ": "১৮০১"
+        },
+        "question": "উইলিয়াম কেরি কত সালে ইংরেজি ভাষায় বাংলা ব্যাকরণ রচনা করেন?",
+        "solution": "ঘ. ১৮০১"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719015,
+      "value": {
+        "options": {
+          "ক": "গৌড়ীয় ব্যাকরণ",
+          "খ": "মাগধীয় ব্যাকরণ",
+          "গ": "মাতৃভাষার ব্যাকরণ",
+          "ঘ": "ভাষা ও ব্যাকরণ"
+        },
+        "question": "রাজা রামমোহন রায়ের রচিত বাংলা&nbsp;ব্যাকরণের নাম-",
+        "solution": "ক. গৌড়ীয় ব্যাকরণ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719017,
+      "value": {
+        "options": {
+          "ক": "ঈশ্বরচন্দ্র বিদ্যাসাগার",
+          "খ": "রাজা রামমোহন রায়",
+          "গ": "বঙ্কিমচন্দ্র চট্টোপাধ্যায়",
+          "ঘ": "রামচন্দ্র বিদ্যাবাগীশ"
+        },
+        "question": "বাংলা ভাষায় প্রথম বাংলা ব্যাকরণ রচনা&nbsp;করেন কে?",
+        "solution": "খ. রাজা রামমোহন রায়"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 719017,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719021,
+      "value": {
+        "options": {
+          "ক": "১৭৪৩&nbsp;",
+          "খ": "১৭৭৮",
+          "গ": "১৮০১",
+          "ঘ": "১৮২৬"
+        },
+        "question": "রামমোহন রায় রচিত ইংরেজি ভাষায় বাংলা&nbsp;ব্যাকরণ কত সালে প্রকাশিত হয়?",
+        "solution": "ঘ. ১৮২৬"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719022,
+      "value": {
+        "options": {
+          "ক": "১৭৭৮ খ্রি.",
+          "খ": "১৭৭০ খ্রি.",
+          "গ": "১৭৫৭ খ্রি.",
+          "ঘ": "১৭৪৩ খ্রি."
+        },
+        "question": "ইংরেজি ভাষায় রচিত&nbsp;পূর্ণাঙ্গ বাংলা&nbsp;ব্যাকরণ প্রকাশিত হয়-",
+        "solution": "ক. ১৭৭৮ খ্রি."
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 719024,
+      "value": {
+        "options": {
+          "ক": "মানোএল দা আসসুম্পসাঁউ",
+          "খ": "নাথানিয়েল ব্রাসি হ্যালহেড",
+          "গ": "উইলিয়াম কেরি",
+          "ঘ": "ড. হুমায়ুন আজাদ"
+        },
+        "question": "'এ গ্রামার অব দি বেঙ্গল ল্যাঙ্গুয়েজ' বইটি রচনা করেন-",
+        "solution": "খ. নাথানিয়েল ব্রাসি হ্যালহেড"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13155&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13155&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13155&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

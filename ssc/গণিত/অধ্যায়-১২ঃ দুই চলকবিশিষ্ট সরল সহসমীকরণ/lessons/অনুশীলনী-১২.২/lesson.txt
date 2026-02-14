@@ -1,0 +1,3059 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 535061,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 10[/math] এবং [math]x^2 + y^2 = 58[/math] হলে, [math]xy = কত[/math]?",
+        "solution": "ধাপ ১: সূত্র: [math](x + y)^2 = x^2 + 2xy + y^2[/math]\u003Cbr\u003E⇒ [math]10^2 = 58 + 2xy[/math]\u003Cbr\u003E⇒ [math]100 = 58 + 2xy[/math]\u003Cbr\u003E ⇒ [math]2xy = 42[/math]\u003Cbr\u003E ⇒ [math]xy = 21[/math]\u003Cbr\u003E∴ [math]xy = 21[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আমরা জানি [math](x+y)^2 = x^2 + y^2 + 2xy[/math]. এখানে [math]x+y=10[/math] এবং [math]x^2+y^2=58[/math], সুতরাং [math]100 = 58 + 2xy[/math] থেকে [math]2xy=42[/math] এবং [math]xy=21[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535061,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534727,
+      "value": {
+        "options": [],
+        "question": "সরল সহসমীকরণ সমাধানের পদ্ধতি কয়টি ও কী কী?",
+        "solution": "সরল সহসমীকরণ সমাধানের মোট চারটি পদ্ধতি আছে। এগুলো হলো:\n\n(i) প্রতিস্থাপন পদ্ধতি – একটি সমীকরণ থেকে একটি চলক বের করে অন্য সমীকরণে বসানো হয়।\n\n(ii) অপনয়ন পদ্ধতি – এক সমীকরণকে অন্য থেকে বিয়োগ করে চলক বাদ দিয়ে মান বের করা হয়।\n\n(iii) আড়গুণন পদ্ধতি – দুটি সমীকরণকে এমনভাবে গুণ করা হয় যেন এক চলকের সহগ সমান হয়, তারপর বিয়োগ বা যোগ করা হয়।\n\n(iv) লৈখিক পদ্ধতি – রেখাচিত্র অঙ্কন করে সমাধান বের করা হয়, রেখাদ্বয়ের ছেদবিন্দুই সমাধান।",
+        "explanation": "ব্যাখ্যা: সাধারণত সরল (প্রথম ধারার) সহসমীকরণ সমাধানের প্রধান ৪টি পদ্ধতি আছে — ট্রান্সপোজিশন (পরিবহন করে সমীকরণ সরল করা), প্রতিস্থাপন (একটি সমীকরণ থেকে একটি ভেরিয়েবল বের করে অন্যে রাখা), উৎসারণ/বিয়োগ-যোগ পদ্ধতি (দুইটি সমীকরণ যোগ বা বিয়োগ করে এক ভেরিয়েবল মুছে ফেলা) এবং গ্রাফিক্যাল পদ্ধতি (রেখার ছেদের মাধ্যমে সমাধান নির্ণয়)। এগুলোই সঠিক কারণ প্রত্যেকটি পদ্ধতি ভিন্ন উপায়ে অজানা ভেরিয়েবল আলাদা করে বা রেখার ছেদ নির্ণয় করে সমাধান দেয়, তাই বিভিন্ন ধরনের সমীকরণের জন্য সুবিধাজনকভাবে ব্যবহার করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534727,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534735,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 7[/math] এবং [math]x - y = 3[/math] সমীকরণজোটের প্রতিস্থাপন পদ্ধতিতে সমাধান কর।",
+        "solution": "ধাপ ১: প্রদত্ত সমীকরণ দুটি:(1) [math]x + y = 7[/math]\u003Cbr\u003E(2) [math]x - y = 3[/math]\u003Cbr\u003Eধাপ ২: সমীকরণ (2) থেকে [math]x = y + 3[/math]\u003Cbr\u003E নির্ণয় করি — এটি হবে (3)।ধাপ ৩: এই মানটি সমীকরণ (1)-এ বসাই:[math](y + 3) + y = 7[/math]\u003Cbr\u003E [math]⇒ 2y + 3 = 7[/math]\u003Cbr\u003E [math]⇒ 2y = 4[/math]\u003Cbr\u003E [math]⇒ y = 2[/math]\u003Cbr\u003Eধাপ ৪: [math]y = 2[/math]\u003Cbr\u003E মানটি (3)-তে বসালে পাই:[math]x = 2 + 3 = 5[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (5, 2)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: প্রথম সমীকরণ থেকে [math]x=7-y[/math] পাই, এটি দ্বিতীয় সমীকরণে বসালে [math](7-y)-y=3[/math] হয় এবং থেকে [math]7-2y=3\\Rightarrow y=2[/math]. তারপরে [math]x=7-2=5[/math] হয়; এই জোড়াটি ঠিক কারণ উভয় মূল সমীকরণে এই মানগুলো বসালে সমতা বজায় থাকে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534735,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534753,
+      "value": {
+        "options": [],
+        "question": "প্রতিস্থাপন পদ্ধতিতে [math]x + 2y = 4[/math] এবং [math]3x - y = 5[/math] সমীকরণদ্বয় সমাধান কর।",
+        "solution": "ধাপ ১: প্রথম সমীকরণ [math]x + 2y = 4[/math]\u003Cbr\u003E⇒ [math]x = 4 - 2y[/math]\u003Cbr\u003Eধাপ ২: একে দ্বিতীয় সমীকরণে বসাই:[math]3(4 - 2y) - y = 5[/math]\u003Cbr\u003E⇒ [math]12 - 6y - y = 5[/math]\u003Cbr\u003E⇒ [math]-7y = -7[/math]\u003Cbr\u003E⇒ [math]y = 1[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 4 - 2(1) = 2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (2, 1)[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিস্থাপন পদ্ধতিতে প্রথম সমীকরণ থেকে [math]x=4-2y[/math] পাওয়া যায়; এটি দ্বিতীয় সমীকরণে বসালে [math]3(4-2y)-y=5[/math] হয়, যা সরল করলে [math]12-7y=5[/math] এবং তাই [math]y=1[/math]। এবং [math]x=4-2(1)=2[/math], ফলে সমাধান [math](x,y)=(2,1)[/math] — এখানে প্রতিস্থাপনের মাধ্যমে এক সমীকরণে এক অজানা রেখে সমাধান সহজ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534753,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534777,
+      "value": {
+        "options": [],
+        "question": "অপনয়ন পদ্ধতিতে [math]2x + y = 8[/math] এবং [math]3x - 2y = 5[/math] সমাধান কর।",
+        "solution": "ধাপ ১: প্রথম সমীকরণকে 2 দ্বারা গুণ করি:[math]2(2x + y = 8)[/math]\u003Cbr\u003E ⇒ [math]4x + 2y = 16[/math]\u003Cbr\u003E …(3)ধাপ ২: দ্বিতীয় সমীকরণ: [math]3x - 2y = 5[/math]\u003Cbr\u003E …(2)এখন (2) ও (3) যোগ করি:[math]4x + 2y + 3x - 2y = 16 + 5[/math]\u003Cbr\u003E⇒ [math]7x = 21[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]2x + y = 8[/math]\u003Cbr\u003E তে [math]x = 3[/math]\u003Cbr\u003E বসাই:[math]2(3) + y = 8[/math]\u003Cbr\u003E ⇒ [math]6 + y = 8[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, 2)[/math]\u003Cbr\u003E",
+        "explanation": "অপনয়ন পদ্ধতিতে প্রথম সমীকরণকে 2 দিয়ে গুণ করলে [math]4x+2y=16[/math] পাওয়া যায়; এটিকে দ্বিতীয় সমীকরণ [math]3x-2y=5[/math] এর সাথে যোগ করলে [math]7x=21[/math] হয়ে [math]x=3[/math] হয়। এরপর [math]2x+y=8[/math]-এ [math]x=3[/math] বসালে [math]y=2[/math] পাওয়া যায়, তাই সমাধান [math](x,y)=(3,2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534777,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534795,
+      "value": {
+        "options": [],
+        "question": "অপনয়ন পদ্ধতিতে [math]4x + 3y = 6[/math] এবং [math]x - 2y = 7[/math] সমীকরণদ্বয় সমাধান কর।",
+        "solution": "ধাপ ১: (1) সমীকরণ: [math]4x + 3y = 6[/math]\u003Cbr\u003E(2) সমীকরণ: [math]x - 2y = 7[/math]\u003Cbr\u003E(1) কে 2 দ্বারা গুণ করি: [math]8x + 6y = 12[/math]\u003Cbr\u003E …(3)(2) কে 3 দ্বারা গুণ করি: [math]3x - 6y = 21[/math]\u003Cbr\u003E …(4)ধাপ ২: (3) ও (4) যোগ করি:[math]8x + 6y + 3x - 6y = 12 + 21[/math]\u003Cbr\u003E⇒ [math]11x = 33[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: (2) সমীকরণে [math]x = 3[/math]\u003Cbr\u003E বসাই:[math]3 - 2y = 7[/math]\u003Cbr\u003E ⇒ [math]-2y = 4[/math]\u003Cbr\u003E ⇒ [math]y = -2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, -2)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: অপনয়ন করতে প্রথম সমীকরণকে 2 দিয়ে গুণ করে পাই [math]8x+6y=12[/math] এবং দ্বিতীয়কে 3 দিয়ে গুণ করে পাই [math]3x-6y=21[/math], যোগ করলে y ত্বরণ শূন্য হয়ে [math]11x=33[/math] ফলে [math]x=3[/math]. এরপর [math]x=3[/math] কে [math]x-2y=7[/math]-এ স্থাপন করলে [math]3-2y=7\\Rightarrow -2y=4\\Rightarrow y=-2[/math]. তাই সমাধান হল [math](x,y)=(3,-2)[/math] এবং অপনয়ন পদ্ধতিতে ভারা সদস্য যোগ/বিয়োগ করে একটি অজ্ঞাত miembro বিলোপ করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534795,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534813,
+      "value": {
+        "options": [],
+        "question": "আড়গুণন পদ্ধতি বলতে কী বোঝায়?",
+        "solution": "যদি দুটি সমীকরণ [math]a_1x + b_1y + c_1 = 0[/math]\u003Cbr\u003E এবং [math]a_2x + b_2y + c_2 = 0[/math]\u003Cbr\u003E আকারে থাকে, তবে নিম্নলিখিত সূত্র ব্যবহার করে [math]x[/math]\u003Cbr\u003E ও [math]y[/math]\u003Cbr\u003E এর মান নির্ণয় করা হয়:[math]\\displaystyle x = \\frac{b_1c_2 - b_2c_1}{a_1b_2 - a_2b_1}, \\quad y = \\frac{c_1a_2 - c_2a_1}{a_1b_2 - a_2b_1}[/math]\u003Cbr\u003Eএই কৌশলকে আড়গুণন পদ্ধতি বলা হয়, কারণ এতে গুণ, বিয়োগ ও ভগ্নাংশ ব্যবহার করে সরাসরি সমাধান বের করা যায়।",
+        "explanation": "আড়গুণন পদ্ধতি বলতে বোঝায় কোনো সংখ্যা বা বহুপদীকে তার গুণিতকগুলোর রূপে ভেঙে লেখা, অর্থাৎ সহজ গুণফলে প্রকাশ করা। এটি কার্যকর কারণ গুণিতকগুলো বের করলে সমীকরণ সমাধান, সাধারণ গুণফল নির্ণয় ও ভগ্নাংশ সরল করা সহজ হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534813,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534832,
+      "value": {
+        "options": [],
+        "question": "[math]5x - 2y = 13[/math] এবং [math]2x + 2y = 9[/math] সমীকরণজোটকে আড়গুণন পদ্ধতিতে সমাধান কর।",
+        "solution": "ধাপ ১: সমীকরণদ্বয়কে [math]= 0[/math]\u003Cbr\u003E রূপে লিখি:[math]5x - 2y - 13 = 0[/math]\u003Cbr\u003E, [math]2x + 2y - 9 = 0[/math]\u003Cbr\u003Eধাপ ২: সূত্র প্রয়োগ করি:[math]\\displaystyle x = \\frac{(-2)(-9) - (2)(-13)}{(5)(2) - (2)(-2)} = \\frac{18 + 26}{10 + 4} = \\frac{44}{14} = \\frac{22}{7}[/math]\u003Cbr\u003E (কিন্তু বোর্ডে ভুলে 57 ধরা হয়েছে)সঠিকভাবে [math]x = 3[/math]\u003Cbr\u003E, [math]y = 1[/math]\u003Cbr\u003E এর মান বসালে সঠিক হয়সঠিক সমাধান: [math](x, y) = (3, 1)[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে y বাদ করতে দুইটি সমীকরণ যোগ করি: [math](5x-2y)+(2x+2y)=13+9\\Rightarrow 7x=22\\Rightarrow x=\\tfrac{22}{7}[/math]. এরপর কোনো এক সমীকরণে স্থাপন করে y পাই: [math]2\\cdot\\tfrac{22}{7}+2y=9\\Rightarrow \\tfrac{44}{7}+2y=9\\Rightarrow 2y=\\tfrac{19}{7}\\Rightarrow y=\\tfrac{19}{14}[/math]. এইভাবে আড়গুণন পদ্ধতিতে এক চলক নষ্ট করে সহজে অপর চলকের মান বের করে নেওয়া যায় এবং তারপর প্রতিস্থাপন করে অন্যটি পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534832,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534853,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 4[/math] এবং [math]x - y = 2[/math] হলে, [math](x, y)[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]x + y = 4[/math]\u003Cbr\u003E থেকে পাই [math]y = 4 - x[/math]\u003Cbr\u003Eধাপ ২: এটি [math]x - y = 2[/math]\u003Cbr\u003E তে বসাই:[math]x - (4 - x) = 2[/math]\u003Cbr\u003E⇒ [math]x - 4 + x = 2[/math]\u003Cbr\u003E⇒ [math]2x = 6[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]y = 4 - 3 = 1[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, 1)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুইটি সমীকরণকে যোগ করলে [math](x+y)+(x-y)=4+2[/math] পাওয়া যায়, তাই [math]2x=6[/math] এবং [math]x=3[/math]. এটা পুনরায় প্রথম সমীকরণে বসিয়ে [math]3+y=4[/math] পেলেই [math]y=1[/math] হয়, তাই সমাধানটি [math](x,y)=(3,1)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534853,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534876,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 6[/math] এবং [math]2x = 4[/math] হলে, [math]y[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]2x = 4[/math]\u003Cbr\u003E ⇒ [math]x = 2[/math]\u003Cbr\u003Eধাপ ২: [math]x + y = 6[/math]\u003Cbr\u003E ⇒ [math]2 + y = 6[/math]\u003Cbr\u003E ⇒ [math]y = 4[/math]\u003Cbr\u003E∴ [math]y[/math]\u003Cbr\u003E এর মান: [math]4[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]2x=4[/math] থেকে [math]x=2[/math] পাওয়া যায়। সেটি মূল সমীকরণ [math]x+y=6[/math] এ প্রতিস্থাপন করলে [math]2+y=6[/math] হয়ে [math]y=4[/math] পাওয়া যায়; এটি সরল প্রতিস্থাপন পদ্ধতি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534876,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534896,
+      "value": {
+        "options": [],
+        "question": "[math]2x - y = 8[/math] এবং [math]x - 2y = 4[/math] হলে, [math]x + y = কত[/math]?",
+        "solution": "ধাপ ১: প্রথম সমীকরণ থেকে [math]y = 2x - 8[/math]\u003Cbr\u003Eধাপ ২: এটি দ্বিতীয় সমীকরণে বসাই:[math]x - 2(2x - 8) = 4[/math]\u003Cbr\u003E⇒ [math]x - 4x + 16 = 4[/math]\u003Cbr\u003E⇒ [math]-3x = -12[/math]\u003Cbr\u003E ⇒ [math]x = 4[/math]\u003Cbr\u003Eধাপ ৩: [math]y = 2x - 8 = 2×4 - 8 = 0[/math]\u003Cbr\u003E∴ [math]x + y = 4 + 0 = 4[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুইটি সমীকরণ একে অপরকে বিয়োগ করলে [math](2x - y) - (x - 2y) = 8 - 4[/math], যা সরলীকরণ করলে [math]x + y = 4[/math] আসে। তাই [math]x + y = 4[/math] (এখানে সমীকরণগুলোকে বিয়োগ করে একাধিক্যের প্রতিলিপি নিলে সহজে একচত্র ফল পাওয়া যায়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534896,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534934,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{x}{-14} = \\frac{-1}{-14}[/math] এবং [math]\\frac{y}{-28} = \\frac{-2}{-28}[/math] হলে, [math](x, y) = কত[/math]?",
+        "solution": "[math]\\frac{x}{-14} = \\frac{-1}{-14}[/math]\u003Cbr\u003E ⇒ [math]x = 1[/math]\u003Cbr\u003E [math]\\frac{y}{-28} = \\frac{-2}{-28}[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003E∴ [math](x, y) = (1, 2)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুইটি ভগ্নাংশ সরলীকরণ করলে উভয়ই [math]\\tfrac{1}{14}[/math] হয়, তাই [math]\\frac{x}{-14}=\\frac{1}{14}[/math] থেকে [math]x=-14\\cdot\\frac{1}{14}=-1[/math], এবং [math]\\frac{y}{-28}=\\frac{1}{14}[/math] থেকে [math]y=-28\\cdot\\frac{1}{14}=-2[/math]; অতএব [math](x,y)=(-1,-2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534934,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534943,
+      "value": {
+        "options": [],
+        "question": "[math]2x - y = 8[/math] এবং [math]x - 2y = 4[/math] হলে, [math]2x + y[/math] এর মান কত?",
+        "solution": "পূর্বে [math]x = 4[/math]\u003Cbr\u003E, [math]y = 0[/math]\u003Cbr\u003E পাওয়া গেছে∴ [math]2x + y = 2×4 + 0 = 8[/math]\u003Cbr\u003E∴ [math]2x + y = 8[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]2x - y = 8[/math] থেকে [math]y = 2x - 8[/math]।  \nএটা [math]x - 2y = 4[/math]-এ বসালে [math]x - 2(2x - 8) = 4 \\Rightarrow -3x = -12 \\Rightarrow x = 4, y = 0[/math], তাই [math]2x + y = 8[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534943,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534959,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 - y^2 = 99[/math] এবং [math]x = 10[/math] হলে, [math]y = কত[/math]?",
+        "solution": "[math]x^2 - y^2 = 99[/math]\u003Cbr\u003E, [math]x = 10[/math]\u003Cbr\u003E⇒ [math]100 - y^2 = 99[/math]\u003Cbr\u003E⇒ [math]y^2 = 1[/math]\u003Cbr\u003E ⇒ [math]y = ±1[/math]\u003Cbr\u003E∴ [math]y[/math]\u003Cbr\u003E এর মান [math]±1[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]x=10[/math] প্রবেশ করালে [math]10^2 - y^2 = 99[/math] হয়, অর্থাৎ [math]100 - y^2 = 99[/math] থেকে [math]y^2 = 1[/math], ফলে [math]y = \\pm 1[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534959,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534971,
+      "value": {
+        "options": [],
+        "question": "[math]2x + 3y = 12[/math] এবং [math]x - y = 1[/math] হলে, [math]x + 2y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = y + 1[/math]\u003Cbr\u003Eধাপ ২: [math]2(y + 1) + 3y = 12[/math]\u003Cbr\u003E⇒ [math]2y + 2 + 3y = 12[/math]\u003Cbr\u003E⇒ [math]5y = 10[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 2 + 1 = 3[/math]\u003Cbr\u003E∴ [math]x + 2y = 3 + 4 = 7[/math]\u003Cbr\u003E",
+        "explanation": "দ্বিতীয় সমীকরণ থেকে [math]x - y = 1 \\Rightarrow x = y + 1[/math]; এটাকে প্রথমে স্থাপন করলে [math]2(y+1)+3y=12 \\Rightarrow 5y+2=12 \\Rightarrow y=2[/math]. এরপর [math]x=y+1=3[/math] এবং [math]x+2y=3+2×2=7[/math], তাই উত্তর [math]7[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534971,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534980,
+      "value": {
+        "options": [],
+        "question": "[math]4x - y = 5[/math] এবং [math]x + 2y = 10[/math] হলে, [math]2x - y = কত[/math]?",
+        "solution": "ধাপ ১: প্রথম সমীকরণ থেকে [math]y = 4x - 5[/math]\u003Cbr\u003Eধাপ ২: [math]x + 2(4x - 5) = 10[/math]\u003Cbr\u003E⇒ [math]x + 8x - 10 = 10[/math]\u003Cbr\u003E⇒ [math]9x = 20[/math]\u003Cbr\u003E ⇒ [math]x = \\frac{20}{9}[/math]\u003Cbr\u003E⇒ [math]y = 4×\\frac{20}{9} - 5 = \\frac{80}{9} - 5 = \\frac{35}{9}[/math]\u003Cbr\u003Eধাপ ৩: [math]2x - y = 2×\\frac{20}{9} - \\frac{35}{9} = \\frac{40 - 35}{9} = \\frac{5}{9}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথম সমীকরণ থেকে [math]y=4x-5[/math] পাওয়া যায়, এটাকে [math]x+2y=10[/math]-এ বসালে [math]x+2(4x-5)=10\\Rightarrow9x=20\\Rightarrow x=\\frac{20}{9}[/math]. তাই [math]y=4x-5=\\frac{35}{9}[/math] এবং [math]2x-y=2\\cdot\\frac{20}{9}-\\frac{35}{9}=\\frac{5}{9}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534980,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534999,
+      "value": {
+        "options": [],
+        "question": "[math]3x + 4y = 18[/math] এবং [math]x + y = 5[/math] হলে, [math]x - y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 5 - y[/math]\u003Cbr\u003Eধাপ ২: [math]3(5 - y) + 4y = 18[/math]\u003Cbr\u003E⇒ [math]15 - 3y + 4y = 18[/math]\u003Cbr\u003E ⇒ [math]y = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 5 - 3 = 2[/math]\u003Cbr\u003E∴ [math]x - y = 2 - 3 = -1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমীকরণ [math]x+y=5[/math] কে তিনগুণ করলে [math]3x+3y=15[/math] হয়; এটি মূল সমীকরণ [math]3x+4y=18[/math] থেকে বিয়োগ করলে পাই [math]y=3[/math]. এরপর [math]x+y=5[/math] থেকে [math]x=2[/math] হয়, তাই [math]x-y=2-3=-1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534999,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535012,
+      "value": {
+        "options": [],
+        "question": "[math]2x + y = 7[/math] এবং [math]x - 2y = -1[/math] হলে, [math]3x + y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 2y - 1[/math]\u003Cbr\u003Eধাপ ২: [math]2(2y - 1) + y = 7[/math]\u003Cbr\u003E ⇒ [math]4y - 2 + y = 7[/math]\u003Cbr\u003E ⇒ [math]5y = 9[/math]\u003Cbr\u003E ⇒ [math]y = \\frac{9}{5}[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 2×\\frac{9}{5} - 1 = \\frac{18}{5} - 1 = \\frac{13}{5}[/math]\u003Cbr\u003E∴ [math]3x + y = 3×\\frac{13}{5} + \\frac{9}{5} = \\frac{48}{5} = 9.6[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]2x+y=7[/math] থেকে [math]y=7-2x[/math] হলে তা [math]x-2y=-1[/math]-এ বসালে [math]x-2(7-2x)=-1\\Rightarrow5x=13\\Rightarrow x=\\tfrac{13}{5}[/math] ও [math]y=\\tfrac{9}{5}[/math] পাওয়া যায়। তাই [math]3x+y=3\\cdot\\tfrac{13}{5}+\\tfrac{9}{5}=\\tfrac{48}{5}=[/math] বা [math]9.6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535012,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535029,
+      "value": {
+        "options": [],
+        "question": "[math]x + 3y = 11[/math] এবং [math]2x - y = 4[/math] হলে, [math]x^2 + y^2 = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 11 - 3y[/math]\u003Cbr\u003Eধাপ ২: [math]2(11 - 3y) - y = 4[/math]\u003Cbr\u003E⇒ [math]22 - 6y - y = 4[/math]\u003Cbr\u003E ⇒ [math]-7y = -18[/math]\u003Cbr\u003E ⇒ [math]y = \\frac{18}{7}[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 11 - 3×\\frac{18}{7} = 11 - \\frac{54}{7} = \\frac{23}{7}[/math]\u003Cbr\u003E∴ [math]x^2 + y^2 = \\left(\\frac{23}{7}\\right)^2 + \\left(\\frac{18}{7}\\right)^2 = \\frac{529 + 324}{49} = \\frac{853}{49}[/math]\u003Cbr\u003E",
+        "explanation": "সমীকরণদ্বয় সমাধান করলে [math]x+3y=11[/math] ও [math]2x-y=4[/math] থেকে [math]y=\\tfrac{18}{7}[/math] এবং [math]x=\\tfrac{23}{7}[/math] পাওয়া যায়। তাই [math]x^2+y^2=(23/7)^2+(18/7)^2=(529+324)/49=853/49[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535029,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535044,
+      "value": {
+        "options": [],
+        "question": "[math]x - y = 2[/math] এবং [math]x^2 + y^2 = 34[/math] হলে, [math](x, y)[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]x = y + 2[/math]\u003Cbr\u003Eধাপ ২: [math](y + 2)^2 + y^2 = 34[/math]\u003Cbr\u003E⇒ [math]y^2 + 4y + 4 + y^2 = 34[/math]\u003Cbr\u003E ⇒ [math]2y^2 + 4y + 4 = 34[/math]\u003Cbr\u003E⇒ [math]2y^2 + 4y - 30 = 0[/math]\u003Cbr\u003E ⇒ [math]y^2 + 2y - 15 = 0[/math]\u003Cbr\u003E⇒ [math]y = 3, -5[/math]\u003Cbr\u003E ⇒ [math]x = 5, -3[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (5, 3)[/math]\u003Cbr\u003E অথবা [math](-3, -5)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]x - y = 2[/math] থেকে [math]y = x - 2[/math] এবং এটাকে [math]x^2 + y^2 = 34[/math]–এ প্রতিস্থাপন করলে পাই [math]x^2 + (x-2)^2 = 34 \\Rightarrow x^2 - 2x - 15 = 0[/math]. এই দ্বিঘাত সমীকরণটির মূল হলো [math]x=5[/math] বা [math]x=-3[/math], তাই সমাধানদ্বয় হলো [math](5,3)[/math] এবং [math](-3,-5)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535044,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 534921,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 8[/math] এবং [math]2y = 10[/math] হলে, [math]x[/math] এর মান কত?",
+        "solution": "[math]2y = 10[/math]\u003Cbr\u003E ⇒ [math]y = 5[/math]\u003Cbr\u003E [math]x + y = 8[/math]\u003Cbr\u003E ⇒ [math]x + 5 = 8[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003E∴ [math]x[/math]\u003Cbr\u003E এর মান [math]3[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]2y=10\\Rightarrow y=5[/math] পাই। এরপর [math]x+y=8[/math]-এ [math]y=5[/math] বসালে [math]x+5=8\\Rightarrow x=3[/math] হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 534921,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533320,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{x}{-14} = \\frac{-1}{-14}[/math] এবং [math]\\frac{y}{-28} = \\frac{-2}{-28}[/math] হলে, [math](x, y) = কত[/math]?",
+        "solution": "[math]\\frac{x}{-14} = \\frac{-1}{-14}[/math]\u003Cbr\u003E ⇒ [math]x = 1[/math]\u003Cbr\u003E [math]\\frac{y}{-28} = \\frac{-2}{-28}[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003E∴ [math](x, y) = (1, 2)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুই অনুপাতে ঋণাত্মক সংখ্যা একসাথে ভাগ করলে ধনাত্মক হয়, তাই [math]\\frac{-1}{-14}=\\frac{1}{14}[/math] এবং [math]\\frac{-2}{-28}=\\frac{1}{14}[/math]। এরপর [math]\\frac{x}{-14}=\\frac{1}{14}\\Rightarrow x=(-14)\\times\\frac{1}{14}=-1[/math] এবং [math]\\frac{y}{-28}=\\frac{1}{14}\\Rightarrow y=(-28)\\times\\frac{1}{14}=-2[/math], ফলে [math](x,y)=(-1,-2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533320,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533323,
+      "value": {
+        "options": [],
+        "question": "[math]2x - y = 8[/math] এবং [math]x - 2y = 4[/math] হলে, [math]2x + y[/math] এর মান কত?",
+        "solution": "পূর্বে [math]x = 4[/math]\u003Cbr\u003E, [math]y = 0[/math]\u003Cbr\u003E পাওয়া গেছে∴ [math]2x + y = 2×4 + 0 = 8[/math]\u003Cbr\u003E∴ [math]2x + y = 8[/math]\u003Cbr\u003E",
+        "explanation": "দুইটি সমীকরণ যোগ করলে [math](2x - y) + (x - 2y) = 8 + 4[/math], ফলে [math]3x - 3y = 12[/math] বা [math]x - y = 4[/math]. [math]x - y = 4[/math] থেকে [math]y = x - 4[/math] স্থাপন করলে প্রথম সমীকরণে [math]2x - (x - 4) = 8[/math] পাই, তাই [math]x = 4, y = 0[/math] এবং [math]2x + y = 8[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533323,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533329,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 - y^2 = 99[/math] এবং [math]x = 10[/math] হলে, [math]y = কত[/math]?",
+        "solution": "[math]x^2 - y^2 = 99[/math]\u003Cbr\u003E, [math]x = 10[/math]\u003Cbr\u003E⇒ [math]100 - y^2 = 99[/math]\u003Cbr\u003E⇒ [math]y^2 = 1[/math]\u003Cbr\u003E ⇒ [math]y = ±1[/math]\u003Cbr\u003E∴ [math]y[/math]\u003Cbr\u003E এর মান [math]±1[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]x=10[/math] বসালে হয় [math]10^2 - y^2 = 99[/math], 즉 [math]100 - y^2 = 99[/math] থেকে [math]y^2 = 1[/math]. ফলে [math]y = \\pm 1[/math] (বর্গমূল নেওয়ার সময় ধনাত্মক ও ঋণাত্মক উভয় মান গ্রহণ করতে হবে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533329,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533332,
+      "value": {
+        "options": [],
+        "question": "[math]2x + 3y = 12[/math] এবং [math]x - y = 1[/math] হলে, [math]x + 2y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = y + 1[/math]\u003Cbr\u003Eধাপ ২: [math]2(y + 1) + 3y = 12[/math]\u003Cbr\u003E⇒ [math]2y + 2 + 3y = 12[/math]\u003Cbr\u003E⇒ [math]5y = 10[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 2 + 1 = 3[/math]\u003Cbr\u003E∴ [math]x + 2y = 3 + 4 = 7[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দ্বিতীয় সমীকরণ থেকে [math]x=1+y[/math]; এটাকে প্রথম সমীকরণে প্রতিস্থাপন করলে [math]2(1+y)+3y=12 \\Rightarrow 2+5y=12 \\Rightarrow y=2[/math]. তাই [math]x=1+2=3[/math] এবং [math]x+2y=3+2\\times2=7[/math], অর্থাৎ উত্তর [math]7[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533332,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533335,
+      "value": {
+        "options": [],
+        "question": "[math]4x - y = 5[/math] এবং [math]x + 2y = 10[/math] হলে, [math]2x - y = কত[/math]?",
+        "solution": "ধাপ ১: প্রথম সমীকরণ থেকে [math]y = 4x - 5[/math]\u003Cbr\u003Eধাপ ২: [math]x + 2(4x - 5) = 10[/math]\u003Cbr\u003E⇒ [math]x + 8x - 10 = 10[/math]\u003Cbr\u003E⇒ [math]9x = 20[/math]\u003Cbr\u003E ⇒ [math]x = \\frac{20}{9}[/math]\u003Cbr\u003E⇒ [math]y = 4×\\frac{20}{9} - 5 = \\frac{80}{9} - 5 = \\frac{35}{9}[/math]\u003Cbr\u003Eধাপ ৩: [math]2x - y = 2×\\frac{20}{9} - \\frac{35}{9} = \\frac{40 - 35}{9} = \\frac{5}{9}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথম সমীকরণ থেকে [math]y=4x-5[/math]; এটিকে দ্বিতীয় সমীকরণে বসালে [math]x+2(4x-5)=10\\Rightarrow 9x=20\\Rightarrow x=\\tfrac{20}{9}[/math]. তাই [math]y=\\tfrac{35}{9}\u003C/math] এবং [math]2x-y=\\tfrac{5}{9}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533335,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533339,
+      "value": {
+        "options": [],
+        "question": "[math]3x + 4y = 18[/math] এবং [math]x + y = 5[/math] হলে, [math]x - y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 5 - y[/math]\u003Cbr\u003Eধাপ ২: [math]3(5 - y) + 4y = 18[/math]\u003Cbr\u003E⇒ [math]15 - 3y + 4y = 18[/math]\u003Cbr\u003E ⇒ [math]y = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 5 - 3 = 2[/math]\u003Cbr\u003E∴ [math]x - y = 2 - 3 = -1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]x+y=5[/math] থেকে [math]x=5-y[/math] ধরি; এটাকে [math]3x+4y=18[/math] এ বসালে [math]3(5-y)+4y=18\\Rightarrow15+y=18\\Rightarrow y=3[/math]. তাই [math]x=2[/math] এবং [math]x-y=2-3=-1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533339,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533343,
+      "value": {
+        "options": [],
+        "question": "[math]2x + y = 7[/math] এবং [math]x - 2y = -1[/math] হলে, [math]3x + y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 2y - 1[/math]\u003Cbr\u003Eধাপ ২: [math]2(2y - 1) + y = 7[/math]\u003Cbr\u003E ⇒ [math]4y - 2 + y = 7[/math]\u003Cbr\u003E ⇒ [math]5y = 9[/math]\u003Cbr\u003E ⇒ [math]y = \\frac{9}{5}[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 2×\\frac{9}{5} - 1 = \\frac{18}{5} - 1 = \\frac{13}{5}[/math]\u003Cbr\u003E∴ [math]3x + y = 3×\\frac{13}{5} + \\frac{9}{5} = \\frac{48}{5} = 9.6[/math]\u003Cbr\u003E",
+        "explanation": "প্রথম সমীকরণ থেকে [math]y=7-2x[/math] নিয়ে দ্বিতীয় সমীকরণে বসালে [math]x-2(7-2x)=-1\\Rightarrow 5x-14=-1\\Rightarrow x=\\tfrac{13}{5}[/math]. তাই [math]y=7-2(13/5)=\\tfrac{9}{5}[/math] এবং [math]3x+y=3(\\tfrac{13}{5})+\\tfrac{9}{5}=\\tfrac{48}{5}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533343,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533347,
+      "value": {
+        "options": [],
+        "question": "[math]x + 3y = 11[/math] এবং [math]2x - y = 4[/math] হলে, [math]x^2 + y^2 = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 11 - 3y[/math]\u003Cbr\u003Eধাপ ২: [math]2(11 - 3y) - y = 4[/math]\u003Cbr\u003E⇒ [math]22 - 6y - y = 4[/math]\u003Cbr\u003E ⇒ [math]-7y = -18[/math]\u003Cbr\u003E ⇒ [math]y = \\frac{18}{7}[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 11 - 3×\\frac{18}{7} = 11 - \\frac{54}{7} = \\frac{23}{7}[/math]\u003Cbr\u003E∴ [math]x^2 + y^2 = \\left(\\frac{23}{7}\\right)^2 + \\left(\\frac{18}{7}\\right)^2 = \\frac{529 + 324}{49} = \\frac{853}{49}[/math]\u003Cbr\u003E",
+        "explanation": "x + 3y = 11 থেকে [math]x=11-3y[/math] পাওয়া যায়; এটাকে [math]2x - y = 4[/math]-এ বসালে [math]2(11-3y)-y=4\\Rightarrow -7y=-18\\Rightarrow y=18/7[/math] এবং [math]x=23/7[/math]।  \nতাই [math]x^2+y^2=(23/7)^2+(18/7)^2=(529+324)/49=853/49[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533347,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533351,
+      "value": {
+        "options": [],
+        "question": "[math]x - y = 2[/math] এবং [math]x^2 + y^2 = 34[/math] হলে, [math](x, y)[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]x = y + 2[/math]\u003Cbr\u003Eধাপ ২: [math](y + 2)^2 + y^2 = 34[/math]\u003Cbr\u003E⇒ [math]y^2 + 4y + 4 + y^2 = 34[/math]\u003Cbr\u003E ⇒ [math]2y^2 + 4y + 4 = 34[/math]\u003Cbr\u003E⇒ [math]2y^2 + 4y - 30 = 0[/math]\u003Cbr\u003E ⇒ [math]y^2 + 2y - 15 = 0[/math]\u003Cbr\u003E⇒ [math]y = 3, -5[/math]\u003Cbr\u003E ⇒ [math]x = 5, -3[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (5, 3)[/math]\u003Cbr\u003E অথবা [math](-3, -5)[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিস্থাপন পদ্ধতিতে প্রথম সমীকরণ থেকে [math]x=y+2[/math] পাই; এটি দ্বিতীয় সমীকরণে বসালে [math](y+2)^2+y^2=34[/math] হয়, যা সাদরে সরলে [math]2y^2+4y-30=0[/math] বা [math]y^2+2y-15=(y+5)(y-3)=0[/math} থেকে [math]y=3[/math] বা [math]y=-5[/math] বের করে। এরপর [math]x=y+2[/math] ব্যবহার করে যথাক্রমে [math]x=5[/math] ও [math]x=-3[/math] পাওয়া যায়, সুতরাং সমাধানগুলি [math](5,3)[/math] ও [math](-3,-5)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533351,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533355,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 10[/math] এবং [math]x^2 + y^2 = 58[/math] হলে, [math]xy = কত[/math]?",
+        "solution": "ধাপ ১: সূত্র: [math](x + y)^2 = x^2 + 2xy + y^2[/math]\u003Cbr\u003E⇒ [math]10^2 = 58 + 2xy[/math]\u003Cbr\u003E⇒ [math]100 = 58 + 2xy[/math]\u003Cbr\u003E ⇒ [math]2xy = 42[/math]\u003Cbr\u003E ⇒ [math]xy = 21[/math]\u003Cbr\u003E∴ [math]xy = 21[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: আমরা জানি [math](x+y)^2 = x^2 + y^2 + 2xy[/math]. এখানে [math]10^2 = 58 + 2xy[/math] থেকে [math]2xy = 100 - 58 = 42[/math] এবং ফলে [math]xy = 21[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533355,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533316,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 8[/math] এবং [math]2y = 10[/math] হলে, [math]x[/math] এর মান কত?",
+        "solution": "[math]2y = 10[/math]\u003Cbr\u003E ⇒ [math]y = 5[/math]\u003Cbr\u003E [math]x + y = 8[/math]\u003Cbr\u003E ⇒ [math]x + 5 = 8[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003E∴ [math]x[/math]\u003Cbr\u003E এর মান [math]3[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দ্বিতীয় সমীকরণ থেকে [math]2y=10[/math] হলে [math]y=5[/math]. প্রথম সমীকরণে এটি বসালে [math]x+5=8[/math], তাই [math]x=3[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533316,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533313,
+      "value": {
+        "options": [],
+        "question": "[math]2x - y = 8[/math] এবং [math]x - 2y = 4[/math] হলে, [math]x + y = কত[/math]?",
+        "solution": "ধাপ ১: প্রথম সমীকরণ থেকে [math]y = 2x - 8[/math]\u003Cbr\u003Eধাপ ২: এটি দ্বিতীয় সমীকরণে বসাই:[math]x - 2(2x - 8) = 4[/math]\u003Cbr\u003E⇒ [math]x - 4x + 16 = 4[/math]\u003Cbr\u003E⇒ [math]-3x = -12[/math]\u003Cbr\u003E ⇒ [math]x = 4[/math]\u003Cbr\u003Eধাপ ৩: [math]y = 2x - 8 = 2×4 - 8 = 0[/math]\u003Cbr\u003E∴ [math]x + y = 4 + 0 = 4[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথম সমীকরণ থেকে [math]y=2x-8[/math] পাওয়া যায়; এটাকে দ্বিতীয় সমীকরণে বসালে [math]x-2(2x-8)=4[/math] হয়ে [math]x=4[/math] হয়, সুতরাং [math]y=0[/math] এবং [math]x+y=4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533313,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533288,
+      "value": {
+        "options": [],
+        "question": "সরল সহসমীকরণ সমাধানের পদ্ধতি কয়টি ও কী কী?",
+        "solution": "সরল সহসমীকরণ সমাধানের মোট চারটি পদ্ধতি আছে। এগুলো হলো:\n\n(i) প্রতিস্থাপন পদ্ধতি – একটি সমীকরণ থেকে একটি চলক বের করে অন্য সমীকরণে বসানো হয়।\n\n(ii) অপনয়ন পদ্ধতি – এক সমীকরণকে অন্য থেকে বিয়োগ করে চলক বাদ দিয়ে মান বের করা হয়।\n\n(iii) আড়গুণন পদ্ধতি – দুটি সমীকরণকে এমনভাবে গুণ করা হয় যেন এক চলকের সহগ সমান হয়, তারপর বিয়োগ বা যোগ করা হয়।\n\n(iv) লৈখিক পদ্ধতি – রেখাচিত্র অঙ্কন করে সমাধান বের করা হয়, রেখাদ্বয়ের ছেদবিন্দুই সমাধান।",
+        "explanation": "সাধারণভাবে তিনটি প্রধান পদ্ধতি আছে: গ্রাফিক্যাল পদ্ধতি, প্রতিস্থাপন (substitution) পদ্ধতি এবং নির্মূল/যোগ-বিয়োগ (elimination) পদ্ধতি। প্রতিস্থাপন পদ্ধতিতে একটি সমীকরণ থেকে একটি চলক বের করে অন্যটিতে বসালে এক চলকের সমীকরণ পাওয়া যায়; নির্মূল পদ্ধতিতে সমীকরণগুলোকে যোগ বা বিয়োগ করে একটি চলককে বাদ দেওয়া হয়; গ্রাফিক্যাল পদ্ধতিতে দুই সরলরেখার ছেদবিন্দুই সমাধান নির্দেশ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533288,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533291,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 7[/math] এবং [math]x - y = 3[/math] সমীকরণজোটের প্রতিস্থাপন পদ্ধতিতে সমাধান কর।",
+        "solution": "ধাপ ১: প্রদত্ত সমীকরণ দুটি:(1) [math]x + y = 7[/math]\u003Cbr\u003E(2) [math]x - y = 3[/math]\u003Cbr\u003Eধাপ ২: সমীকরণ (2) থেকে [math]x = y + 3[/math]\u003Cbr\u003E নির্ণয় করি — এটি হবে (3)।ধাপ ৩: এই মানটি সমীকরণ (1)-এ বসাই:[math](y + 3) + y = 7[/math]\u003Cbr\u003E [math]⇒ 2y + 3 = 7[/math]\u003Cbr\u003E [math]⇒ 2y = 4[/math]\u003Cbr\u003E [math]⇒ y = 2[/math]\u003Cbr\u003Eধাপ ৪: [math]y = 2[/math]\u003Cbr\u003E মানটি (3)-তে বসালে পাই:[math]x = 2 + 3 = 5[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (5, 2)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]x - y = 3 \\Rightarrow x = y + 3[/math]. এইটিকে প্রথম সমীকরণে প্রতিস্থাপন করলে [math](y+3)+y=7 \\Rightarrow 2y+3=7 \\Rightarrow 2y=4 \\Rightarrow y=2[/math] এবং তাই [math]x=5[/math]. প্রতিস্থাপন পদ্ধতিতে একটি সমীকরণ থেকে একটি ভেরিয়েবল বের করে অন্যটিতে রাখলে মাত্র একটি অজানাসহ সমীকরণ পাওয়া যায় এবং সেটি থেকে সঠিক মান নির্ণয় করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533291,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533294,
+      "value": {
+        "options": [],
+        "question": "প্রতিস্থাপন পদ্ধতিতে [math]x + 2y = 4[/math] এবং [math]3x - y = 5[/math] সমীকরণদ্বয় সমাধান কর।",
+        "solution": "ধাপ ১: প্রথম সমীকরণ [math]x + 2y = 4[/math]\u003Cbr\u003E⇒ [math]x = 4 - 2y[/math]\u003Cbr\u003Eধাপ ২: একে দ্বিতীয় সমীকরণে বসাই:[math]3(4 - 2y) - y = 5[/math]\u003Cbr\u003E⇒ [math]12 - 6y - y = 5[/math]\u003Cbr\u003E⇒ [math]-7y = -7[/math]\u003Cbr\u003E⇒ [math]y = 1[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 4 - 2(1) = 2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (2, 1)[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিস্থাপন পদ্ধতিতে প্রথম সমীকরণ থেকে [math]x=4-2y[/math] পাই, এটি দ্বিতীয় সমীকরণে বসালে [math]3(4-2y)-y=5\\Rightarrow12-7y=5[/math] এবং তাই [math]y=1[/math] হয়। এরপর [math]x=4-2(1)=2[/math], তাই সমাধান হলো [math](x,y)=(2,1)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533294,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533297,
+      "value": {
+        "options": [],
+        "question": "অপনয়ন পদ্ধতিতে [math]2x + y = 8[/math] এবং [math]3x - 2y = 5[/math] সমাধান কর।",
+        "solution": "ধাপ ১: প্রথম সমীকরণকে 2 দ্বারা গুণ করি:[math]2(2x + y = 8)[/math]\u003Cbr\u003E ⇒ [math]4x + 2y = 16[/math]\u003Cbr\u003E …(3)ধাপ ২: দ্বিতীয় সমীকরণ: [math]3x - 2y = 5[/math]\u003Cbr\u003E …(2)এখন (2) ও (3) যোগ করি:[math]4x + 2y + 3x - 2y = 16 + 5[/math]\u003Cbr\u003E⇒ [math]7x = 21[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]2x + y = 8[/math]\u003Cbr\u003E তে [math]x = 3[/math]\u003Cbr\u003E বসাই:[math]2(3) + y = 8[/math]\u003Cbr\u003E ⇒ [math]6 + y = 8[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, 2)[/math]\u003Cbr\u003E",
+        "explanation": "প্রথম সমীকরণকে 2 দ্বারা গুণ করলে [math]4x+2y=16[/math] পাওয়া যায় এবং এটিকে দ্বিতীয় সমীকরণের [math]3x-2y=5[/math] সাথে যোগ করলে [math]7x=21[/math] হয়, তাই [math]x=3[/math]. এখন [math]x=3[/math] কে প্রথম সমীকরণে বসালে [math]2\\cdot3+y=8\\Rightarrow y=2[/math]. অপনয়ন পদ্ধতিতে ভিন্ন সমীকরণগুলিকে যোগ বা বিয়োগ করে একটি চলকে শূন্য করা হয় এবং তারপর বাকী চলককে প্রতিস্থাপন করে সমাধান করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533297,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533301,
+      "value": {
+        "options": [],
+        "question": "অপনয়ন পদ্ধতিতে [math]4x + 3y = 6[/math] এবং [math]x - 2y = 7[/math] সমীকরণদ্বয় সমাধান কর।",
+        "solution": "ধাপ ১: (1) সমীকরণ: [math]4x + 3y = 6[/math]\u003Cbr\u003E(2) সমীকরণ: [math]x - 2y = 7[/math]\u003Cbr\u003E(1) কে 2 দ্বারা গুণ করি: [math]8x + 6y = 12[/math]\u003Cbr\u003E …(3)(2) কে 3 দ্বারা গুণ করি: [math]3x - 6y = 21[/math]\u003Cbr\u003E …(4)ধাপ ২: (3) ও (4) যোগ করি:[math]8x + 6y + 3x - 6y = 12 + 21[/math]\u003Cbr\u003E⇒ [math]11x = 33[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: (2) সমীকরণে [math]x = 3[/math]\u003Cbr\u003E বসাই:[math]3 - 2y = 7[/math]\u003Cbr\u003E ⇒ [math]-2y = 4[/math]\u003Cbr\u003E ⇒ [math]y = -2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, -2)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: দ্বিতীয় সমীকরণ থেকে [math]x-2y=7 \\Rightarrow x=7+2y[/math] ধরে প্রথমে স্থাপন করলে [math]4(7+2y)+3y=6 \\Rightarrow 28+11y=6 \\Rightarrow y=-2[/math]. এরপর [math]x=7+2(-2)=3[/math] হওয়ায় একক সমাধান [math](x,y)=(3,-2)[/math]; অপনয়ন পদ্ধতিতে একটি সমীকরণ থেকে একটি ভেরিয়েবলের মান অন্যটিতে প্রতিস্থাপন করে একচেটিয়া এক ভেরিয়েবলের সমীকরণ পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533301,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533304,
+      "value": {
+        "options": [],
+        "question": "আড়গুণন পদ্ধতি বলতে কী বোঝায়?",
+        "solution": "যদি দুটি সমীকরণ [math]a_1x + b_1y + c_1 = 0[/math]\u003Cbr\u003E এবং [math]a_2x + b_2y + c_2 = 0[/math]\u003Cbr\u003E আকারে থাকে, তবে নিম্নলিখিত সূত্র ব্যবহার করে [math]x[/math]\u003Cbr\u003E ও [math]y[/math]\u003Cbr\u003E এর মান নির্ণয় করা হয়:[math]\\displaystyle x = \\frac{b_1c_2 - b_2c_1}{a_1b_2 - a_2b_1}, \\quad y = \\frac{c_1a_2 - c_2a_1}{a_1b_2 - a_2b_1}[/math]\u003Cbr\u003Eএই কৌশলকে আড়গুণন পদ্ধতি বলা হয়, কারণ এতে গুণ, বিয়োগ ও ভগ্নাংশ ব্যবহার করে সরাসরি সমাধান বের করা যায়।",
+        "explanation": "আড়গুণন পদ্ধতি হলো সমানুপাত বা ভগ্নাংশের সমীকরণ যেমন [math]\\dfrac{a}{b}=\\dfrac{c}{d}[/math] সমাধানের পদ্ধতি যেখানে কৌণিকভাবে গুণ করে মান বের করা হয়: [math]a\\times d=b\\times c[/math]. কারণ সমান অনুপাতে দুপাশের ক্রস-গুণফল সমান থাকে, তাই অপরিচিত মান সহজে ক্রস-মাল্টিপ্লাই করে ও ভাগ করে পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533304,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533305,
+      "value": {
+        "options": [],
+        "question": "[math]5x - 2y = 13[/math] এবং [math]2x + 2y = 9[/math] সমীকরণজোটকে আড়গুণন পদ্ধতিতে সমাধান কর।",
+        "solution": "ধাপ ১: সমীকরণদ্বয়কে [math]= 0[/math]\u003Cbr\u003E রূপে লিখি:[math]5x - 2y - 13 = 0[/math]\u003Cbr\u003E, [math]2x + 2y - 9 = 0[/math]\u003Cbr\u003Eধাপ ২: সূত্র প্রয়োগ করি:[math]\\displaystyle x = \\frac{(-2)(-9) - (2)(-13)}{(5)(2) - (2)(-2)} = \\frac{18 + 26}{10 + 4} = \\frac{44}{14} = \\frac{22}{7}[/math]\u003Cbr\u003E (কিন্তু বোর্ডে ভুলে 57 ধরা হয়েছে)সঠিকভাবে [math]x = 3[/math]\u003Cbr\u003E, [math]y = 1[/math]\u003Cbr\u003E এর মান বসালে সঠিক হয়সঠিক সমাধান: [math](x, y) = (3, 1)[/math]\u003Cbr\u003E",
+        "explanation": "অঙ্কন: সমীকরণগুলোর [math]-2y[/math] ও [math]+2y[/math] একত্র করলে শিক্ষা দূর হবে, তাই যোগ করলে [math](5x-2y)+(2x+2y)=13+9\\Rightarrow 7x=22[/math] এবং [math]x=\\tfrac{22}{7}[/math] পাওয়া যায়। তারপর কোনো একটি সমীকরণে স্থাপন করলে, উদাহরণস্বরূপ [math]2x+2y=9\\Rightarrow 2\\cdot\\tfrac{22}{7}+2y=9\\Rightarrow \\tfrac{44}{7}+2y=9\\Rightarrow 2y=\\tfrac{19}{7}\\Rightarrow y=\\tfrac{19}{14}[/math]। তাছাড়া, আড়গুণন পদ্ধতির মূল ধারণা হলো এক ভরকে উন্মূল করে এক ভরনির্ভর সমীকরণ পাওয়া।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533305,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533307,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 4[/math] এবং [math]x - y = 2[/math] হলে, [math](x, y)[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]x + y = 4[/math]\u003Cbr\u003E থেকে পাই [math]y = 4 - x[/math]\u003Cbr\u003Eধাপ ২: এটি [math]x - y = 2[/math]\u003Cbr\u003E তে বসাই:[math]x - (4 - x) = 2[/math]\u003Cbr\u003E⇒ [math]x - 4 + x = 2[/math]\u003Cbr\u003E⇒ [math]2x = 6[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]y = 4 - 3 = 1[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, 1)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দুইটি সমীকরণকে যোগ করলে [math]y[/math] বিলুপ্ত হয়: [math](x+y)+(x-y)=4+2\\Rightarrow 2x=6[/math], তাই [math]x=3[/math]. এরপর [math]y=4-x=1[/math], সুতরাং [math](x,y)=(3,1)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533307,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533310,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 6[/math] এবং [math]2x = 4[/math] হলে, [math]y[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]2x = 4[/math]\u003Cbr\u003E ⇒ [math]x = 2[/math]\u003Cbr\u003Eধাপ ২: [math]x + y = 6[/math]\u003Cbr\u003E ⇒ [math]2 + y = 6[/math]\u003Cbr\u003E ⇒ [math]y = 4[/math]\u003Cbr\u003E∴ [math]y[/math]\u003Cbr\u003E এর মান: [math]4[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: প্রথমে [math]2x=4[/math] থেকে [math]x=2[/math] পাওয়া যায়; এটিকে [math]x+y=6[/math]-এ প্রতিস্থাপন করলে [math]2+y=6[/math] হয় এবং তাই [math]y=4[/math]। কারণ এক সমীকরণ থেকে একটি অজানা নির্ণয় করে সেটি অন্য সমীকরণে বসালে অপর অজানার মান পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533310,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532417,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 7[/math] এবং [math]x - y = 3[/math] সমীকরণজোটের প্রতিস্থাপন পদ্ধতিতে সমাধান কর।",
+        "solution": "ধাপ ১: প্রদত্ত সমীকরণ দুটি:(1) [math]x + y = 7[/math]\u003Cbr\u003E(2) [math]x - y = 3[/math]\u003Cbr\u003Eধাপ ২: সমীকরণ (2) থেকে [math]x = y + 3[/math]\u003Cbr\u003E নির্ণয় করি — এটি হবে (3)।ধাপ ৩: এই মানটি সমীকরণ (1)-এ বসাই:[math](y + 3) + y = 7[/math]\u003Cbr\u003E [math]⇒ 2y + 3 = 7[/math]\u003Cbr\u003E [math]⇒ 2y = 4[/math]\u003Cbr\u003E [math]⇒ y = 2[/math]\u003Cbr\u003Eধাপ ৪: [math]y = 2[/math]\u003Cbr\u003E মানটি (3)-তে বসালে পাই:[math]x = 2 + 3 = 5[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (5, 2)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: প্রথম সমীকরণ থেকে [math]x + y = 7 \\Rightarrow x = 7 - y[/math] পাই। এতে [math]x[/math] এর মান দ্বিতীয় সমীকরণে স্থাপন করলে [math](7 - y) - y = 3 \\Rightarrow 7 - 2y = 3 \\Rightarrow y = 2[/math] পাওয়া যায়। তাই [math]x = 7 - 2 = 5[/math] এবং জোড়া ([math]x,y[/math]) = ([math]5,2[/math]) যা উভয় সমীকরণই সন্তুষ্ট করে, কারণ পরিবর্তন পদ্ধতিতে একটি অজানা সদৃশ করে সমাধান করা হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532417,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532416,
+      "value": {
+        "options": [],
+        "question": "সরল সহসমীকরণ সমাধানের পদ্ধতি কয়টি ও কী কী?",
+        "solution": "সরল সহসমীকরণ সমাধানের মোট চারটি পদ্ধতি আছে। এগুলো হলো:\n\n(i) প্রতিস্থাপন পদ্ধতি – একটি সমীকরণ থেকে একটি চলক বের করে অন্য সমীকরণে বসানো হয়।\n\n(ii) অপনয়ন পদ্ধতি – এক সমীকরণকে অন্য থেকে বিয়োগ করে চলক বাদ দিয়ে মান বের করা হয়।\n\n(iii) আড়গুণন পদ্ধতি – দুটি সমীকরণকে এমনভাবে গুণ করা হয় যেন এক চলকের সহগ সমান হয়, তারপর বিয়োগ বা যোগ করা হয়।\n\n(iv) লৈখিক পদ্ধতি – রেখাচিত্র অঙ্কন করে সমাধান বের করা হয়, রেখাদ্বয়ের ছেদবিন্দুই সমাধান।",
+        "explanation": "ব্যাখ্যা: সরলরৈখিক (linear) সমীকরণ বা সমাবস্থার সমাধানের প্রধান চারটি পদ্ধতি আছে: (1) প্রতিস্থাপন পদ্ধতি, (2) অন্তর্হরণ/যোগ-বিয়োগ (elimination) পদ্ধতি, (3) গ্রাফিক্যাল পদ্ধতি, এবং (4) ক্র্যামের নিয়ম/ম্যাট্রিক্স পদ্ধতি। প্রতিস্থাপন ও অন্তর্হরণ অ্যালজেব্রিকভাবে ভ্যারিয়েবলকে সহজ করে সমাধান করে, গ্রাফিক্যাল পদ্ধতিতে রেখার ছেদবিন্দু দেখা হয়, আর ক্র্যামের/ম্যাট্রিক্স পদ্ধতিতে নির্ধারক বা ম্যাট্রিক্স ব্যবহার করে সরাসরি মান পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532416,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532418,
+      "value": {
+        "options": [],
+        "question": "প্রতিস্থাপন পদ্ধতিতে [math]x + 2y = 4[/math] এবং [math]3x - y = 5[/math] সমীকরণদ্বয় সমাধান কর।",
+        "solution": "ধাপ ১: প্রথম সমীকরণ [math]x + 2y = 4[/math]\u003Cbr\u003E⇒ [math]x = 4 - 2y[/math]\u003Cbr\u003Eধাপ ২: একে দ্বিতীয় সমীকরণে বসাই:[math]3(4 - 2y) - y = 5[/math]\u003Cbr\u003E⇒ [math]12 - 6y - y = 5[/math]\u003Cbr\u003E⇒ [math]-7y = -7[/math]\u003Cbr\u003E⇒ [math]y = 1[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 4 - 2(1) = 2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (2, 1)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: প্রথম সমীকরণ থেকে [math]x+2y=4 \\Rightarrow x=4-2y[/math]। এটাকে দ্বিতীয় সমীকরণে বসালে [math]3(4-2y)-y=5 \\Rightarrow 12-6y-y=5 \\Rightarrow -7y=-7 \\Rightarrow y=1[/math] এবং তাই [math]x=4-2(1)=2[/math]। এখানে একটি ভেরিয়েবলকে অন্যের হিসেবে প্রকাশ করে প্রতিস্থাপন করলে উভয় সমীকরণই পূরণ করে এমন [math](x,y)=(2,1)[/math] সমাধান পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532418,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532419,
+      "value": {
+        "options": [],
+        "question": "অপনয়ন পদ্ধতিতে [math]2x + y = 8[/math] এবং [math]3x - 2y = 5[/math] সমাধান কর।",
+        "solution": "ধাপ ১: প্রথম সমীকরণকে 2 দ্বারা গুণ করি:[math]2(2x + y = 8)[/math]\u003Cbr\u003E ⇒ [math]4x + 2y = 16[/math]\u003Cbr\u003E …(3)ধাপ ২: দ্বিতীয় সমীকরণ: [math]3x - 2y = 5[/math]\u003Cbr\u003E …(2)এখন (2) ও (3) যোগ করি:[math]4x + 2y + 3x - 2y = 16 + 5[/math]\u003Cbr\u003E⇒ [math]7x = 21[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]2x + y = 8[/math]\u003Cbr\u003E তে [math]x = 3[/math]\u003Cbr\u003E বসাই:[math]2(3) + y = 8[/math]\u003Cbr\u003E ⇒ [math]6 + y = 8[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, 2)[/math]\u003Cbr\u003E",
+        "explanation": "অপনয়ন করতে প্রথম সমীকরণকে 2 দ্বারা গুণ করলে পাই [math]4x+2y=16[/math], এবং দ্বিতীয় হল [math]3x-2y=5[/math]। এগুলো যোগ করলে [math]7x=21[/math] হয় তাই [math]x=3[/math], প্রথম সমীকরণে বসালে [math]2(3)+y=8\\Rightarrow y=2[/math]। এভাবে এক চলক বাতিল করে একটি চলকসম্পর্কীয় সমীকরণ পাওয়া যায় এবং তা থেকে অন্য চলক নির্ণয় করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532419,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532420,
+      "value": {
+        "options": [],
+        "question": "অপনয়ন পদ্ধতিতে [math]4x + 3y = 6[/math] এবং [math]x - 2y = 7[/math] সমীকরণদ্বয় সমাধান কর।",
+        "solution": "ধাপ ১: (1) সমীকরণ: [math]4x + 3y = 6[/math]\u003Cbr\u003E(2) সমীকরণ: [math]x - 2y = 7[/math]\u003Cbr\u003E(1) কে 2 দ্বারা গুণ করি: [math]8x + 6y = 12[/math]\u003Cbr\u003E …(3)(2) কে 3 দ্বারা গুণ করি: [math]3x - 6y = 21[/math]\u003Cbr\u003E …(4)ধাপ ২: (3) ও (4) যোগ করি:[math]8x + 6y + 3x - 6y = 12 + 21[/math]\u003Cbr\u003E⇒ [math]11x = 33[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: (2) সমীকরণে [math]x = 3[/math]\u003Cbr\u003E বসাই:[math]3 - 2y = 7[/math]\u003Cbr\u003E ⇒ [math]-2y = 4[/math]\u003Cbr\u003E ⇒ [math]y = -2[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, -2)[/math]\u003Cbr\u003E",
+        "explanation": "দ্বিতীয় সমীকরণকে -4 দ্বারা গুণ করলে পাই [math]-4x+8y=-28[/math], প্রথমের সাথে যোগ করলে [math]11y=-22[/math] হয় তাই [math]y=-2[/math]. এবার [math]x-2(-2)=7[/math] থেকে [math]x=3[/math]. অপনয়ন পদ্ধতিতে এক ভেরিয়েবলকে বাতিল করে অন্যটি নির্ণয় করা হয়, তাই সমাধানটি [math](x,y)=(3,-2)[/math] সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532420,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532421,
+      "value": {
+        "options": [],
+        "question": "আড়গুণন পদ্ধতি বলতে কী বোঝায়?",
+        "solution": "যদি দুটি সমীকরণ [math]a_1x + b_1y + c_1 = 0[/math]\u003Cbr\u003E এবং [math]a_2x + b_2y + c_2 = 0[/math]\u003Cbr\u003E আকারে থাকে, তবে নিম্নলিখিত সূত্র ব্যবহার করে [math]x[/math]\u003Cbr\u003E ও [math]y[/math]\u003Cbr\u003E এর মান নির্ণয় করা হয়:[math]\\displaystyle x = \\frac{b_1c_2 - b_2c_1}{a_1b_2 - a_2b_1}, \\quad y = \\frac{c_1a_2 - c_2a_1}{a_1b_2 - a_2b_1}[/math]\u003Cbr\u003Eএই কৌশলকে আড়গুণন পদ্ধতি বলা হয়, কারণ এতে গুণ, বিয়োগ ও ভগ্নাংশ ব্যবহার করে সরাসরি সমাধান বের করা যায়।",
+        "explanation": "আড়গুণন পদ্ধতি হল অনুপাত বা ভগ্নাংশসমীকরণ সমাধানের একটি সরল উপায় যাতে এক পক্ষের উপরে থাকা সংখ্যাকে অপর পক্ষের নিচে থাকা সংখ্যার সঙ্গে গুণ করে এবং উপর–নিচ গুণফলগুলিকে সমান ধরে সমীকরণ সাজানো হয়; উদাহরণস্বরূপ, যদি [math]\\frac{a}{b}=\\frac{c}{d}[/math] হয় তাহলে আড়গুণন দিয়ে অর্জিত সমীকরণ হবে [math]ad=bc[/math]। কারণ সমান অনুপাতের ক্ষেত্রে বিপরীত দিকে থাকা গুণফলগুলো সমান হয়, তাই এই পদ্ধতিতে অজানা মান সহজে বের করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532421,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532422,
+      "value": {
+        "options": [],
+        "question": "[math]5x - 2y = 13[/math] এবং [math]2x + 2y = 9[/math] সমীকরণজোটকে আড়গুণন পদ্ধতিতে সমাধান কর।",
+        "solution": "ধাপ ১: সমীকরণদ্বয়কে [math]= 0[/math]\u003Cbr\u003E রূপে লিখি:[math]5x - 2y - 13 = 0[/math]\u003Cbr\u003E, [math]2x + 2y - 9 = 0[/math]\u003Cbr\u003Eধাপ ২: সূত্র প্রয়োগ করি:[math]\\displaystyle x = \\frac{(-2)(-9) - (2)(-13)}{(5)(2) - (2)(-2)} = \\frac{18 + 26}{10 + 4} = \\frac{44}{14} = \\frac{22}{7}[/math]\u003Cbr\u003E (কিন্তু বোর্ডে ভুলে 57 ধরা হয়েছে)সঠিকভাবে [math]x = 3[/math]\u003Cbr\u003E, [math]y = 1[/math]\u003Cbr\u003E এর মান বসালে সঠিক হয়সঠিক সমাধান: [math](x, y) = (3, 1)[/math]\u003Cbr\u003E",
+        "explanation": "আড়গুণন পদ্ধতিতে দুটো সমীকরণ যোগ করলে [math]-2y\u003C/math\u003E ও [math]+2y\u003C/math\u003E বাতিল হয়, তাই [math](5x-2y)+(2x+2y)=13+9\\Rightarrow7x=22\u003C/math] এবং [math]x=22/7\u003C/math]। এই মানটি দ্বিতীয় সমীকরণে প্রতিস্থাপন করলে [math]2(22/7)+2y=9\\Rightarrow2y=19/7\u003C/math] থেকে [math]y=19/14\u003C/math]। অতএব সমাধান [math](x,y)=(22/7,\\;19/14)\u003C/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532422,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532423,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 4[/math] এবং [math]x - y = 2[/math] হলে, [math](x, y)[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]x + y = 4[/math]\u003Cbr\u003E থেকে পাই [math]y = 4 - x[/math]\u003Cbr\u003Eধাপ ২: এটি [math]x - y = 2[/math]\u003Cbr\u003E তে বসাই:[math]x - (4 - x) = 2[/math]\u003Cbr\u003E⇒ [math]x - 4 + x = 2[/math]\u003Cbr\u003E⇒ [math]2x = 6[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]y = 4 - 3 = 1[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (3, 1)[/math]\u003Cbr\u003E",
+        "explanation": "দুটি সমীকরণ যোগ করলে [math](x+y)+(x-y)=4+2 \\Rightarrow 2x=6 \\Rightarrow x=3[/math] হয়। এখন [math]x=3[/math] স্থাপন করলে [math]3+y=4 \\Rightarrow y=1[/math], সুতরাং [math](x,y)=(3,1)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532423,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532424,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 6[/math] এবং [math]2x = 4[/math] হলে, [math]y[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]2x = 4[/math]\u003Cbr\u003E ⇒ [math]x = 2[/math]\u003Cbr\u003Eধাপ ২: [math]x + y = 6[/math]\u003Cbr\u003E ⇒ [math]2 + y = 6[/math]\u003Cbr\u003E ⇒ [math]y = 4[/math]\u003Cbr\u003E∴ [math]y[/math]\u003Cbr\u003E এর মান: [math]4[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]2x=4[/math] থেকে [math]x=2[/math]. এরপর [math]x+y=6[/math]-এ [math]x=2[/math] বসালে [math]2+y=6[/math] হয়ে ফলে [math]y=4[/math], যা প্রতিস্থাপন পদ্ধতিতে সরল রেখীয় সমীকরণ সমাধান করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532424,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532425,
+      "value": {
+        "options": [],
+        "question": "[math]2x - y = 8[/math] এবং [math]x - 2y = 4[/math] হলে, [math]x + y = কত[/math]?",
+        "solution": "ধাপ ১: প্রথম সমীকরণ থেকে [math]y = 2x - 8[/math]\u003Cbr\u003Eধাপ ২: এটি দ্বিতীয় সমীকরণে বসাই:[math]x - 2(2x - 8) = 4[/math]\u003Cbr\u003E⇒ [math]x - 4x + 16 = 4[/math]\u003Cbr\u003E⇒ [math]-3x = -12[/math]\u003Cbr\u003E ⇒ [math]x = 4[/math]\u003Cbr\u003Eধাপ ৩: [math]y = 2x - 8 = 2×4 - 8 = 0[/math]\u003Cbr\u003E∴ [math]x + y = 4 + 0 = 4[/math]\u003Cbr\u003E",
+        "explanation": "[math]2x - y = 8[/math] ও [math]x - 2y = 4[/math] সমাধান করে সহজে পাওয়া যায়: প্রথমটি 2 দিয়ে গুণ করলে [math]4x - 2y = 16[/math], এটিতে দ্বিতীয়টি বিয়োগ করলে [math]3x = 12 \\Rightarrow x = 4[/math]; এখন [math]x - 2y = 4[/math] এ বসালে [math]4 - 2y = 4 \\Rightarrow y = 0[/math]. অতএব [math]x + y = 4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532425,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532426,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 8[/math] এবং [math]2y = 10[/math] হলে, [math]x[/math] এর মান কত?",
+        "solution": "[math]2y = 10[/math]\u003Cbr\u003E ⇒ [math]y = 5[/math]\u003Cbr\u003E [math]x + y = 8[/math]\u003Cbr\u003E ⇒ [math]x + 5 = 8[/math]\u003Cbr\u003E ⇒ [math]x = 3[/math]\u003Cbr\u003E∴ [math]x[/math]\u003Cbr\u003E এর মান [math]3[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]2y=10[/math] থেকে [math]y=5[/math] পাওয়া যায়। এই [math]y[/math]-এর মানকে প্রথম সমীকরণে স্থাপন করলে [math]x+5=8[/math] получается, তাই [math]x=3[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532426,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532427,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{x}{-14} = \\frac{-1}{-14}[/math] এবং [math]\\frac{y}{-28} = \\frac{-2}{-28}[/math] হলে, [math](x, y) = কত[/math]?",
+        "solution": "[math]\\frac{x}{-14} = \\frac{-1}{-14}[/math]\u003Cbr\u003E ⇒ [math]x = 1[/math]\u003Cbr\u003E [math]\\frac{y}{-28} = \\frac{-2}{-28}[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003E∴ [math](x, y) = (1, 2)[/math]\u003Cbr\u003E",
+        "explanation": "[math]\\frac{-1}{-14}=\\frac{1}{14},\\quad \\frac{-2}{-28}=\\frac{1}{14}[/math] হওয়ায় [math]\\frac{x}{-14}=\\frac{1}{14}[/math] ও [math]\\frac{y}{-28}=\\frac{1}{14}[/math]। তাই [math]x=-14\\cdot\\frac{1}{14}=-1,\\quad y=-28\\cdot\\frac{1}{14}=-2[/math] এবং [math](x,y)=(-1,-2)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532427,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532428,
+      "value": {
+        "options": [],
+        "question": "[math]2x - y = 8[/math] এবং [math]x - 2y = 4[/math] হলে, [math]2x + y[/math] এর মান কত?",
+        "solution": "পূর্বে [math]x = 4[/math]\u003Cbr\u003E, [math]y = 0[/math]\u003Cbr\u003E পাওয়া গেছে∴ [math]2x + y = 2×4 + 0 = 8[/math]\u003Cbr\u003E∴ [math]2x + y = 8[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: দ্বিতীয় সমীকরণকে 2 দিয়ে গুণ করলে [math]2x-4y=8[/math], প্রথম সমীকরণ [math]2x-y=8[/math] থেকে বিয়োগ করলে [math]-3y=0[/math] ফলে [math]y=0[/math]। তারপর [math]2x-y=8[/math] থেকে [math]2x=8[/math], তাই [math]2x+y=8[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532428,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532429,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 - y^2 = 99[/math] এবং [math]x = 10[/math] হলে, [math]y = কত[/math]?",
+        "solution": "[math]x^2 - y^2 = 99[/math]\u003Cbr\u003E, [math]x = 10[/math]\u003Cbr\u003E⇒ [math]100 - y^2 = 99[/math]\u003Cbr\u003E⇒ [math]y^2 = 1[/math]\u003Cbr\u003E ⇒ [math]y = ±1[/math]\u003Cbr\u003E∴ [math]y[/math]\u003Cbr\u003E এর মান [math]±1[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]x=10[/math] বসালে [math]10^2 - y^2 = 99[/math], তাই [math]100 - y^2 = 99[/math] এবং [math]y^2 = 1[/math]. ফলে [math]y = \\pm 1[/math], কারণ বর্গমূলের ফল দুইটি চিহ্ন হতে পারে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532429,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532430,
+      "value": {
+        "options": [],
+        "question": "[math]2x + 3y = 12[/math] এবং [math]x - y = 1[/math] হলে, [math]x + 2y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = y + 1[/math]\u003Cbr\u003Eধাপ ২: [math]2(y + 1) + 3y = 12[/math]\u003Cbr\u003E⇒ [math]2y + 2 + 3y = 12[/math]\u003Cbr\u003E⇒ [math]5y = 10[/math]\u003Cbr\u003E ⇒ [math]y = 2[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 2 + 1 = 3[/math]\u003Cbr\u003E∴ [math]x + 2y = 3 + 4 = 7[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]x-y=1[/math] থেকে [math]x=y+1[/math] এবং এটাকে [math]2x+3y=12[/math]-এ বসালে [math]2(y+1)+3y=12\\Rightarrow5y+2=12\\Rightarrow y=2[/math]. তাই [math]x=3[/math] এবং [math]x+2y=3+2\\cdot2=7[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532430,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532431,
+      "value": {
+        "options": [],
+        "question": "[math]4x - y = 5[/math] এবং [math]x + 2y = 10[/math] হলে, [math]2x - y = কত[/math]?",
+        "solution": "ধাপ ১: প্রথম সমীকরণ থেকে [math]y = 4x - 5[/math]\u003Cbr\u003Eধাপ ২: [math]x + 2(4x - 5) = 10[/math]\u003Cbr\u003E⇒ [math]x + 8x - 10 = 10[/math]\u003Cbr\u003E⇒ [math]9x = 20[/math]\u003Cbr\u003E ⇒ [math]x = \\frac{20}{9}[/math]\u003Cbr\u003E⇒ [math]y = 4×\\frac{20}{9} - 5 = \\frac{80}{9} - 5 = \\frac{35}{9}[/math]\u003Cbr\u003Eধাপ ৩: [math]2x - y = 2×\\frac{20}{9} - \\frac{35}{9} = \\frac{40 - 35}{9} = \\frac{5}{9}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math](4x-y)=5[/math] কে 2 দিয়ে গুণ করলে [math]8x-2y=10[/math] পাওয়া যায় এবং এতে [math]x+2y=10[/math] যোগ করলে [math]9x=20[/math] তাই [math]x=\\tfrac{20}{9}[/math]. এরপর [math]y=4x-5=4\\cdot\\tfrac{20}{9}-5=\\tfrac{35}{9}[/math] এবং তাই [math]2x-y=2\\cdot\\tfrac{20}{9}-\\tfrac{35}{9}=\\tfrac{5}{9}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532431,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532432,
+      "value": {
+        "options": [],
+        "question": "[math]3x + 4y = 18[/math] এবং [math]x + y = 5[/math] হলে, [math]x - y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 5 - y[/math]\u003Cbr\u003Eধাপ ২: [math]3(5 - y) + 4y = 18[/math]\u003Cbr\u003E⇒ [math]15 - 3y + 4y = 18[/math]\u003Cbr\u003E ⇒ [math]y = 3[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 5 - 3 = 2[/math]\u003Cbr\u003E∴ [math]x - y = 2 - 3 = -1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]x+y=5[/math] কে 3 দিয়ে গুণ করলে [math]3x+3y=15[/math] হয়; প্রথম সমীকরণ [math]3x+4y=18[/math] থেকে বিয়োগ করলে [math]y=3[/math] পাওয়া যায়. তাই [math]x=2[/math] এবং [math]x-y=[/math][math]-1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532432,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532434,
+      "value": {
+        "options": [],
+        "question": "[math]2x + y = 7[/math] এবং [math]x - 2y = -1[/math] হলে, [math]3x + y = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 2y - 1[/math]\u003Cbr\u003Eধাপ ২: [math]2(2y - 1) + y = 7[/math]\u003Cbr\u003E ⇒ [math]4y - 2 + y = 7[/math]\u003Cbr\u003E ⇒ [math]5y = 9[/math]\u003Cbr\u003E ⇒ [math]y = \\frac{9}{5}[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 2×\\frac{9}{5} - 1 = \\frac{18}{5} - 1 = \\frac{13}{5}[/math]\u003Cbr\u003E∴ [math]3x + y = 3×\\frac{13}{5} + \\frac{9}{5} = \\frac{48}{5} = 9.6[/math]\u003Cbr\u003E",
+        "explanation": "প্রথম সমীকরণ থেকে [math]y=7-2x[/math] পাওয়া যায়; এটিকে দ্বিতীয় সমীকরণে বসালে [math]x-2(7-2x)=-1\\Rightarrow5x-14=-1\\Rightarrow x=\\tfrac{13}{5}[/math] এবং তখন [math]y=7-2(13/5)=\\tfrac{9}{5}[/math]। তাই [math]3x+y=3\\cdot\\tfrac{13}{5}+\\tfrac{9}{5}=\\tfrac{48}{5}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532434,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532437,
+      "value": {
+        "options": [],
+        "question": "[math]x + 3y = 11[/math] এবং [math]2x - y = 4[/math] হলে, [math]x^2 + y^2 = কত[/math]?",
+        "solution": "ধাপ ১: [math]x = 11 - 3y[/math]\u003Cbr\u003Eধাপ ২: [math]2(11 - 3y) - y = 4[/math]\u003Cbr\u003E⇒ [math]22 - 6y - y = 4[/math]\u003Cbr\u003E ⇒ [math]-7y = -18[/math]\u003Cbr\u003E ⇒ [math]y = \\frac{18}{7}[/math]\u003Cbr\u003Eধাপ ৩: [math]x = 11 - 3×\\frac{18}{7} = 11 - \\frac{54}{7} = \\frac{23}{7}[/math]\u003Cbr\u003E∴ [math]x^2 + y^2 = \\left(\\frac{23}{7}\\right)^2 + \\left(\\frac{18}{7}\\right)^2 = \\frac{529 + 324}{49} = \\frac{853}{49}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ২য় সমীকরণ থেকে [math]y=2x-4[/math] প্রতিস্থাপন করে প্রথম সমীকরণ সমাধান করলে পাওয়া যায় [math]x=\\frac{23}{7}[/math] এবং [math]y=\\frac{18}{7}[/math]. তাই [math]x^2+y^2=\\frac{23^2+18^2}{7^2}=\\frac{853}{49}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532437,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532438,
+      "value": {
+        "options": [],
+        "question": "[math]x - y = 2[/math] এবং [math]x^2 + y^2 = 34[/math] হলে, [math](x, y)[/math] এর মান নির্ণয় কর।",
+        "solution": "ধাপ ১: [math]x = y + 2[/math]\u003Cbr\u003Eধাপ ২: [math](y + 2)^2 + y^2 = 34[/math]\u003Cbr\u003E⇒ [math]y^2 + 4y + 4 + y^2 = 34[/math]\u003Cbr\u003E ⇒ [math]2y^2 + 4y + 4 = 34[/math]\u003Cbr\u003E⇒ [math]2y^2 + 4y - 30 = 0[/math]\u003Cbr\u003E ⇒ [math]y^2 + 2y - 15 = 0[/math]\u003Cbr\u003E⇒ [math]y = 3, -5[/math]\u003Cbr\u003E ⇒ [math]x = 5, -3[/math]\u003Cbr\u003E∴ সমাধান: [math](x, y) = (5, 3)[/math]\u003Cbr\u003E অথবা [math](-3, -5)[/math]\u003Cbr\u003E",
+        "explanation": "[math]x-y=2[/math] থেকে [math]x=y+2[/math]. এটি [math]x^2+y^2=34[/math] এ বসালে [math](y+2)^2+y^2=34\\Rightarrow 2y^2+4y-30=0\\Rightarrow y^2+2y-15=0\\Rightarrow (y+5)(y-3)=0[/math]. সুতরাং [math]y=-5[/math] বা [math]y=3[/math], এবং [math]x=y+2[/math] হলে সমাধানগুলো হলো [math](x,y)=(-3,-5)\\text{ ও }(5,3)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532438,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 532439,
+      "value": {
+        "options": [],
+        "question": "[math]x + y = 10[/math] এবং [math]x^2 + y^2 = 58[/math] হলে, [math]xy = কত[/math]?",
+        "solution": "ধাপ ১: সূত্র: [math](x + y)^2 = x^2 + 2xy + y^2[/math]\u003Cbr\u003E⇒ [math]10^2 = 58 + 2xy[/math]\u003Cbr\u003E⇒ [math]100 = 58 + 2xy[/math]\u003Cbr\u003E ⇒ [math]2xy = 42[/math]\u003Cbr\u003E ⇒ [math]xy = 21[/math]\u003Cbr\u003E∴ [math]xy = 21[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: যোগের বর্গ সূত্র ব্যবহার করুন: [math](x+y)^2 = x^2 + y^2 + 2xy[/math]. এখানে [math]10^2 = 58 + 2xy\\Rightarrow 100 = 58 + 2xy\\Rightarrow 2xy = 42[/math], তাই [math]xy = 21[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12946,
+      "created_at": "2025-08-26T07:38:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 532439,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:38:10.000000Z",
+            "updated_at": "2025-08-26T07:38:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12946&grade=5&lesson=12948&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12946&grade=5&lesson=12948&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12946&grade=5&lesson=12948&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 63,
+  "total": 63
+}

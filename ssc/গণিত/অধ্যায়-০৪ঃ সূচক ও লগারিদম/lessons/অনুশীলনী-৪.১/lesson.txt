@@ -1,0 +1,899 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 541069,
+      "value": {
+        "options": [],
+        "question": "[math]5^{x-1} = 125[/math] সমাধান কর",
+        "solution": "[math]125 = 5^3[/math]\u003Cbr\u003E⇒ [math]5^{x-1} = 5^3[/math]\u003Cbr\u003E⇒ [math]x - 1 = 3[/math]\u003Cbr\u003E⇒ [math]x = 4[/math]\u003Cbr\u003Eনির্ণয় সমাধান: [math]x = 4[/math]\u003Cbr\u003E",
+        "explanation": "125 = [math]5^3[/math] তাই সমীকরণটি লেখা যায় [math]5^{x-1} = 5^3[/math]। একই ভিত্তি হলে সূচক সমান হবে, তাই [math]x-1=3[/math] থেকে [math]x=4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541069,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541068,
+      "value": {
+        "options": [],
+        "question": "[math](2^{-1} + 5^{-1})^{-1}[/math]",
+        "solution": "[math]2^{-1} = \\frac{1}{2}[/math]\u003Cbr\u003E, [math]5^{-1} = \\frac{1}{5}[/math]\u003Cbr\u003Eযোগফল: [math]\\frac{1}{2} + \\frac{1}{5} = \\frac{5 + 2}{10} = \\frac{7}{10}[/math]\u003Cbr\u003Eতারপর ইনভার্স: [math]\\left(\\frac{7}{10}\\right)^{-1} = \\frac{10}{7}[/math]\u003Cbr\u003Eসঠিক উত্তর: [math]\\frac{10}{7}[/math]\u003Cbr\u003E",
+        "explanation": "Compute [math]2^{-1}=1/2[/math] and [math]5^{-1}=1/5[/math], so [math]2^{-1}+5^{-1}=1/2+1/5=(5+2)/10=7/10[/math]. Taking the reciprocal gives [math](7/10)^{-1}=10/7[/math], hence the value is [math]10/7[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541068,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541067,
+      "value": {
+        "options": [],
+        "question": "[math]2^{2x+1} = 128[/math] সমাধান কর",
+        "solution": "[math]2^{2x+1} = 128[/math]\u003Cbr\u003Eবা, [math]2^{2x+1} = 2^7[/math]\u003Cbr\u003E⇒ [math]2x + 1 = 7[/math]\u003Cbr\u003E⇒ [math]2x = 6[/math]\u003Cbr\u003E⇒ [math]x = \\frac{6}{2} = 3[/math]\u003Cbr\u003Eনির্ণয় সমাধান: [math]x = 3[/math]\u003Cbr\u003E",
+        "explanation": "[math]128=2^7[/math] তাই [math]2^{2x+1}=2^7[/math] হলে একই ভিত্তি থাকলে ঘাতসমান বলে [math]2x+1=7[/math]. এখান থেকে [math]x=3[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541067,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541066,
+      "value": {
+        "options": [],
+        "question": "[math](2a^{-1} + 3b^{-1})^{-1}[/math]",
+        "solution": "[math]2a^{-1} = \\frac{2}{a}[/math]\u003Cbr\u003E, [math]3b^{-1} = \\frac{3}{b}[/math]\u003Cbr\u003Eযোগফল: [math]\\frac{2}{a} + \\frac{3}{b} = \\frac{2b + 3a}{ab}[/math]\u003Cbr\u003Eতারপর ইনভার্স: [math]\\left(\\frac{2b + 3a}{ab}\\right)^{-1} = \\frac{ab}{2b + 3a}[/math]\u003Cbr\u003Eসঠিক উত্তর: [math]\\frac{ab}{2b + 3a}[/math]\u003Cbr\u003E",
+        "explanation": "a^{-1} এবং b^{-1} হলো [math]\\frac{1}{a}[/math] এবং [math]\\frac{1}{b}[/math], তাই [math]2a^{-1}+3b^{-1}=2\\cdot\\frac{1}{a}+3\\cdot\\frac{1}{b}=\\frac{2b+3a}{ab}[/math]. শেষভাবে উল্টে নিলে [math](2a^{-1}+3b^{-1})^{-1}=\\frac{ab}{2b+3a}[/math], যা সূত্রিকভাবে সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541066,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541065,
+      "value": {
+        "options": [],
+        "question": "[math]4^x = 8[/math] সমাধান কর",
+        "solution": "[math]4^x = 8[/math]\u003Cbr\u003Eবা, [math](2^2)^x = 2^3[/math]\u003Cbr\u003Eবা, [math]2^{2x} = 2^3[/math]\u003Cbr\u003E⇒ [math]2x = 3[/math]\u003Cbr\u003E⇒ [math]x = \\frac{3}{2}[/math]\u003Cbr\u003Eনির্ণয় সমাধান: [math]x = \\frac{3}{2}[/math]\u003Cbr\u003E",
+        "explanation": "৪কে [math]2^2[/math] এবং ৮কে [math]2^3[/math] হিসেবে লিখলে [math](2^2)^x=2^3[/math] হয়, তাই [math]2x=3[/math] এবং ফলাফল হল [math]x=\\frac{3}{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541065,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541061,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{\\sqrt[3]{7} \\cdot \\sqrt[3]{7}}{\\sqrt{7}}[/math] সরল কর",
+        "solution": "উপরের অংশে: [math]\\sqrt[3]{7} \\cdot \\sqrt[3]{7} = \\sqrt[3]{7^2} = \\sqrt[3]{49}[/math]\u003Cbr\u003Eসুতরাং, [math]\\frac{\\sqrt[3]{49}}{\\sqrt{7}} = \\frac{49^{1/3}}{7^{1/2}}[/math]\u003Cbr\u003Eএখন, সূচকের নিয়মে: [math]= 7^{\\frac{2}{3} - \\frac{1}{2}} = 7^{\\frac{4 - 3}{6}} = 7^{\\frac{1}{6}}[/math]\u003Cbr\u003Eসঠিক উত্তর: [math]7^{\\frac{1}{6}}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে মূলধনকে ঘাত হিসেবে লিখে নাও: [math]\\sqrt[3]{7}\\cdot\\sqrt[3]{7}=7^{2/3}[/math] এবং নিম্নভাগটি [math]\\sqrt{7}=7^{1/2}[/math]; একই বেসে ভাগ করার নিয়মে ঘাতগুলি বিয়োগ হবে। তাই [math]\\frac{7^{2/3}}{7^{1/2}}=7^{2/3-1/2}=7^{1/6}=\\sqrt[6]{7}[/math], যা সমাধান।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541061,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541064,
+      "value": {
+        "options": [],
+        "question": "[math]9^{x+1} = 27[/math] সমাধান কর",
+        "solution": "[math]9 = 3^2,\\ 27 = 3^3[/math]\u003Cbr\u003E⇒ [math](3^2)^{x+1} = 3^3[/math]\u003Cbr\u003E⇒ [math]3^{2x + 2} = 3^3[/math]\u003Cbr\u003E⇒ [math]2x + 2 = 3[/math]\u003Cbr\u003E⇒ [math]2x = 1[/math]\u003Cbr\u003E⇒ [math]x = \\frac{1}{2}[/math]\u003Cbr\u003Eনির্ণয় সমাধান: [math]x = \\frac{1}{2}[/math]\u003Cbr\u003E",
+        "explanation": "9 কে [math]3^2[/math] ও 27 কে [math]3^3[/math] হিসেবে লিখে পাই [math](3^2)^{x+1}=3^3 \\Rightarrow 3^{2(x+1)}=3^3[/math], তাই ঘাত সমান করলে [math]2(x+1)=3[/math]. থেকে [math]x+1=\\tfrac{3}{2}[/math] এবং শেষ পর্যন্ত [math]x=\\tfrac{1}{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541064,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541063,
+      "value": {
+        "options": [],
+        "question": "[math](\\frac{2x^{-1} + 3y^{-1}}{4z^{-1}})^{-1}[/math] সরল কর",
+        "solution": "উপরের অংশ: [math]\\frac{2}{x} + \\frac{3}{y} = \\frac{2y + 3x}{xy}[/math]\u003Cbr\u003Eনিচের অংশ: [math]4z^{-1} = \\frac{4}{z}[/math]\u003Cbr\u003Eপূর্ণ রাশি: [math]\\frac{\\frac{2y + 3x}{xy}}{\\frac{4}{z}} = \\frac{2y + 3x}{xy} \\times \\frac{z}{4} = \\frac{(2y + 3x)z}{4xy}[/math]\u003Cbr\u003Eশেষে ইনভার্স: [math]\\left( \\frac{(2y + 3x)z}{4xy} \\right)^{-1} = \\frac{4xy}{(2y + 3x)z}[/math]\u003Cbr\u003Eসঠিক উত্তর: [math]\\frac{4xy}{(2y + 3x)z}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে [math]x^{-1}=1/x,\\,y^{-1}=1/y,\\,z^{-1}=1/z[/math] হিসেবে লিখে, [math](\\frac{2x^{-1}+3y^{-1}}{4z^{-1}})^{-1}=(\\frac{2/x+3/y}{4/z})^{-1}[/math]. তারপর সংযুক্ত করলে [math]\\frac{2/x+3/y}{4/z}=\\frac{(2y+3x)z}{4xy}[/math] হয় এবং পুরোটির উল্টোটি নিলে ফল হয় [math]\\frac{4xy}{z(2y+3x)}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541063,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541062,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{2^{-1} + 4^{-1}}{3^{-1} + 6^{-1}}[/math] সরল কর",
+        "solution": "উপরের অংশ: [math]2^{-1} = \\frac{1}{2},\\ 4^{-1} = \\frac{1}{4} \\Rightarrow \\frac{1}{2} + \\frac{1}{4} = \\frac{2 + 1}{4} = \\frac{3}{4}[/math]\u003Cbr\u003Eনিচের অংশ: [math]3^{-1} = \\frac{1}{3},\\ 6^{-1} = \\frac{1}{6} \\Rightarrow \\frac{1}{3} + \\frac{1}{6} = \\frac{2 + 1}{6} = \\frac{3}{6} = \\frac{1}{2}[/math]\u003Cbr\u003Eপূর্ণ রাশি: [math]\\frac{\\frac{3}{4}}{\\frac{1}{2}} = \\frac{3}{4} \\times \\frac{2}{1} = \\frac{6}{4} = \\frac{3}{2}[/math]\u003Cbr\u003Eসঠিক উত্তর: [math]\\frac{3}{2}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে ঋণাত্মক ঘাতকে উল্টানুভাগে বদলান: [math]2^{-1}=1/2,\\;4^{-1}=1/4,\\;3^{-1}=1/3,\\;6^{-1}=1/6[/math]. তাই [math]\\frac{2^{-1}+4^{-1}}{3^{-1}+6^{-1}}=\\frac{1/2+1/4}{1/3+1/6}=\\frac{3/4}{1/2}=\\frac{3}{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541062,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541052,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math](\\sqrt{3})^{\\frac{x+1}{2}} = (\\sqrt[3]{3})^{\\frac{2x-1}{3}}[/math]",
+        "solution": "বামপক্ষ: [math](\\sqrt{3})^{\\frac{x+1}{2}} = \\left(3^{\\frac{1}{2}}\\right)^{\\frac{x+1}{2}} = 3^{\\frac{x+1}{4}}[/math]\u003Cbr\u003Eডানপক্ষ: [math](\\sqrt[3]{3})^{\\frac{2x-1}{3}} = \\left(3^{\\frac{1}{3}}\\right)^{\\frac{2x-1}{3}} = 3^{\\frac{2x-1}{9}}[/math]\u003Cbr\u003Eএখন, [math]3^{\\frac{x+1}{4}} = 3^{\\frac{2x-1}{9}}[/math]\u003Cbr\u003E⇒ [math]\\frac{x+1}{4} = \\frac{2x-1}{9}[/math]\u003Cbr\u003E⇒ 9(x + 1) = 4(2x – 1)⇒ 9x + 9 = 8x – 4⇒ 9x – 8x = –4 – 9⇒ x = –13নির্ণয় সমাধান: [math]x = -13[/math]\u003Cbr\u003E",
+        "explanation": "উভয় পাশেই ভিত্তি [math]3[/math] আছে কারণ [math]\\sqrt{3}=3^{1/2}[/math] এবং [math]\\sqrt[3]{3}=3^{1/3}[/math], ফলে সমীকরণ হয়ে যায় [math]3^{(x+1)/4}=3^{(2x-1)/9}[/math]. চিহ্নিত ভিত্তি [math]3\u003E0,\\,3\\ne1[/math] হওয়ায় সূচকগুলো সমান হবে, অর্থাৎ [math]\\frac{x+1}{4}=\\frac{2x-1}{9}[/math]; এটি সমাধান করলে [math]x=-13[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541052,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541060,
+      "value": {
+        "options": [],
+        "question": "[math](\\frac{3^{-1} + 5^{-1}}{7^{-1}})^{-1}[/math] সরল কর",
+        "solution": "উপরের যোগফল: [math]3^{-1} = \\frac{1}{3},\\ 5^{-1} = \\frac{1}{5} \\Rightarrow \\frac{1}{3} + \\frac{1}{5} = \\frac{5 + 3}{15} = \\frac{8}{15}[/math]\u003Cbr\u003Eনিচে: [math]7^{-1} = \\frac{1}{7}[/math]\u003Cbr\u003Eপূর্ণ রাশি: [math]\\frac{\\frac{8}{15}}{\\frac{1}{7}} = \\frac{8}{15} \\times 7 = \\frac{56}{15}[/math]\u003Cbr\u003Eশেষে ইনভার্স: [math]\\left(\\frac{56}{15}\\right)^{-1} = \\frac{15}{56}[/math]\u003Cbr\u003Eসঠিক উত্তর: [math]\\frac{15}{56}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]3^{-1}=1/3,\\,5^{-1}=1/5[/math] হওয়ায় [math]1/3+1/5=8/15[/math]. এরপর [math]7^{-1}=1/7[/math] তাই [math](8/15)/(1/7)=8/15\\times7=56/15[/math]. শেষে উল্টো করার ফলে [math](56/15)^{-1}=15/56[/math], অতএব মান [math]15/56[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541060,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541059,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{7^3 \\times 7^3}{3 \\times 3^4}[/math] সরল কর",
+        "solution": "প্রথমে উপরের গুণফলকে সূচকের নিয়মে প্রকাশ করি:[math]7^3 \\times 7^3 = 7^{3+3} = 7^6[/math]\u003Cbr\u003Eতলদেশে আছে [math]3 \\times 3^4 = 3^1 \\times 3^4 = 3^{1+4} = 3^5[/math]\u003Cbr\u003Eএখন রাশি দাঁড়ায়: [math]\\frac{7^6}{3^5}[/math]\u003Cbr\u003Eযেহেতু ভিন্ন ভিত্তির সংখ্যা, তাই আর সরল করা যাবে না।সর্বশেষ উত্তর: [math]\\frac{7^6}{3^5}[/math]\u003Cbr\u003E বা [math]\\frac{117649}{243}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: একই ভিত্তির ঘাত সংখ্যা গুণ করলে ঘাতগুলো যোগ হয়, তাই [math]7^3 \\times 7^3 = 7^{3+3} = 7^6[/math] এবং [math]3 \\times 3^4 = 3^{1+4} = 3^5[/math]; ফলত অঙ্কটি সরলীকৃত হয়ে [math]\\frac{7^6}{3^5}[/math] হয় (যা হচ্ছে [math]\\frac{117649}{243}[/math]).",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541059,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541058,
+      "value": {
+        "options": [],
+        "question": "প্রমাণ কর: [math]\\frac{2^{2p+1} \\cdot 3^{2p+q} \\cdot 5^{p+q} \\cdot 6^p}{3^{p-2} \\cdot 6^{2p+2} \\cdot 10^p \\cdot 15^q} = \\frac{1}{2}[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\frac{2^{2p+1} \\cdot 3^{2p+q} \\cdot 5^{p+q} \\cdot 6^p}{3^{p-2} \\cdot 6^{2p+2} \\cdot 10^p \\cdot 15^q}[/math]\u003Cbr\u003Eযৌগিক সংখ্যাগুলোর বিশ্লেষণ:[math]6 = 2 \\cdot 3,\\ 10 = 2 \\cdot 5,\\ 15 = 3 \\cdot 5[/math]\u003Cbr\u003E [math]\\Rightarrow[/math]\u003Cbr\u003E [math]6^p = 2^p \\cdot 3^p[/math]\u003Cbr\u003E [math]6^{2p+2} = 2^{2p+2} \\cdot 3^{2p+2}[/math]\u003Cbr\u003E [math]10^p = 2^p \\cdot 5^p[/math]\u003Cbr\u003E [math]15^q = 3^q \\cdot 5^q[/math]\u003Cbr\u003Eঅতএব,[math]LHS = \\frac{2^{2p+1} \\cdot 3^{2p+q} \\cdot 5^{p+q} \\cdot 2^p \\cdot 3^p}{3^{p-2} \\cdot 2^{2p+2} \\cdot 3^{2p+2} \\cdot 2^p \\cdot 5^p \\cdot 3^q \\cdot 5^q}[/math]\u003Cbr\u003E২ এর ঘাত:উপর: [math]2^{2p+1} \\cdot 2^p = 2^{3p+1}[/math]\u003Cbr\u003Eনিচ: [math]2^{2p+2} \\cdot 2^p = 2^{3p+2}[/math]\u003Cbr\u003E [math]\\Rightarrow 2^{-1}[/math]\u003Cbr\u003E৩ এর ঘাত:উপর: [math]3^{2p+q} \\cdot 3^p = 3^{3p+q}[/math]\u003Cbr\u003Eনিচ: [math]3^{p-2 + 2p+2 + q} = 3^{3p+q}[/math]\u003Cbr\u003E [math]\\Rightarrow 3^0 = 1[/math]\u003Cbr\u003E৫ এর ঘাত:উপর: [math]5^{p+q}[/math]\u003Cbr\u003Eনিচ: [math]5^p \\cdot 5^q = 5^{p+q}[/math]\u003Cbr\u003E [math]\\Rightarrow 5^0 = 1[/math]\u003Cbr\u003Eফলাফল:[math]LHS = 2^{-1} = \\frac{1}{2}[/math]\u003Cbr\u003Eঅতএব, প্রমাণিত:[math]\\frac{2^{2p+1} \\cdot 3^{2p+q} \\cdot 5^{p+q} \\cdot 6^p}{3^{p-2} \\cdot 6^{2p+2} \\cdot 10^p \\cdot 15^q} = \\frac{1}{2}[/math]\u003Cbr\u003E ✅",
+        "explanation": "6 = 2·3, 10 = 2·5, 15 = 3·5 ধরে গুণগুলোর মৌলিক গুণনীয়কগুলো যোগ করলে পাওয়া যায় [math]2^{2p+1}3^{2p+q}5^{p+q}6^{p}=2^{3p+1}3^{3p+q}5^{p+q}[/math] এবং [math]3^{p-2}6^{2p+2}10^{p}15^{q}=2^{3p+2}3^{3p+q}5^{p+q}[/math]. তাই ভগ্নাংশটি হয়ে যায় [math]\\frac{2^{3p+1}3^{3p+q}5^{p+q}}{2^{3p+2}3^{3p+q}5^{p+q}}=\\frac{2^{3p+1}}{2^{3p+2}}=2^{-1}=\\frac{1}{2}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541058,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541057,
+      "value": {
+        "options": [],
+        "question": "প্রমাণ কর: [math]\\frac{4^{2x+1} \\cdot 5^x \\cdot 10^x}{2^{2x+3} \\cdot 25^x} = 1[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\frac{4^{2x+1} \\cdot 5^x \\cdot 10^x}{2^{2x+3} \\cdot 25^x}[/math]\u003Cbr\u003Eযৌগিক রাশি ভাঙি:[math]4 = 2^2 \\Rightarrow 4^{2x+1} = (2^2)^{2x+1} = 2^{4x+2}[/math]\u003Cbr\u003E [math]10^x = 2^x \\cdot 5^x[/math]\u003Cbr\u003E, [math]25^x = 5^{2x}[/math]\u003Cbr\u003Eতাহলে,[math]LHS = \\frac{2^{4x+2} \\cdot 5^x \\cdot 2^x \\cdot 5^x}{2^{2x+3} \\cdot 5^{2x}}[/math]\u003Cbr\u003E২ এর ঘাত: [math]2^{4x+2} \\cdot 2^x = 2^{5x+2}[/math]\u003Cbr\u003E, নিচে [math]2^{2x+3}[/math]\u003Cbr\u003E [math]\\Rightarrow 2^{5x+2 - (2x+3)} = 2^{3x -1}[/math]\u003Cbr\u003E৫ এর ঘাত: [math]5^x \\cdot 5^x = 5^{2x}[/math]\u003Cbr\u003E, নিচে [math]5^{2x}[/math]\u003Cbr\u003E [math]\\Rightarrow 5^0 = 1[/math]\u003Cbr\u003Eফলাফল: [math]LHS = 2^{3x -1} \\cdot 1[/math]\u003Cbr\u003Eএখন প্রশ্নে সমতা আছে কেবল তখনই যদি [math]2^{3x -1} = 1[/math]\u003Cbr\u003E [math]\\Rightarrow 3x -1 = 0 \\Rightarrow x = \\frac{1}{3}[/math]\u003Cbr\u003Eঅতএব, প্রমাণিত যদি [math]x = \\frac{1}{3}[/math]\u003Cbr\u003E হয়।",
+        "explanation": "প্রথমে ঘাতবিধি ব্যবহার করে সরলীকরণ করলে [math]4^{2x+1}=(2^2)^{2x+1}=2^{4x+2},\\;10^x=2^x5^x,\\;25^x=5^{2x}[/math], ফলে নিউমারেটর [math]2^{4x+2}\\cdot2^x\\cdot5^{x}\\cdot5^{x}=2^{5x+2}5^{2x}[/math] এবং ডিনোমিনেটর [math]2^{2x+3}5^{2x}[/math] হয়, তাই ভগ্নাংশটি সমান হয় [math]2^{5x+2-(2x+3)}=2^{3x-1}[/math]. অতএব এটি [math]1[/math] হওয়ার জন্য [math]3x-1=0[/math], অর্থাৎ [math]x=\\frac{1}{3}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541057,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541056,
+      "value": {
+        "options": [],
+        "question": "প্রমাণ কর: [math]\\frac{9^m \\cdot 2^{m+2}}{3^{2m} \\cdot 4^m} = 1[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\frac{9^m \\cdot 2^{m+2}}{3^{2m} \\cdot 4^m}[/math]\u003Cbr\u003Eবিশ্লেষণ করি:[math]9 = 3^2 \\Rightarrow 9^m = (3^2)^m = 3^{2m}[/math]\u003Cbr\u003E [math]4 = 2^2 \\Rightarrow 4^m = (2^2)^m = 2^{2m}[/math]\u003Cbr\u003Eতাহলে,[math]LHS = \\frac{3^{2m} \\cdot 2^{m+2}}{3^{2m} \\cdot 2^{2m}}[/math]\u003Cbr\u003E৩ এর ঘাত বাতিল হয়:[math]3^{2m} \\div 3^{2m} = 1[/math]\u003Cbr\u003E২ এর ঘাত:[math]2^{m+2 - 2m} = 2^{-(m-2)}[/math]\u003Cbr\u003Eকিন্তু প্রশ্ন অনুযায়ী [math]LHS = 1[/math]\u003Cbr\u003Eতাহলে [math]2^{-(m-2)} = 1 \\Rightarrow m = 2[/math]\u003Cbr\u003Eঅতএব, প্রমাণিত যদি [math]m = 2[/math]\u003Cbr\u003E হয়।",
+        "explanation": "প্রমাণ: [math]9^m=(3^2)^m=3^{2m}[/math] হওয়ায় সংখ্যাটির মান হচ্ছে [math]\\frac{2^{m+2}}{4^m}[/math] এবং [math]4^m=(2^2)^m=2^{2m}[/math] তাই সমান্যুপাতটি হয় [math]2^{m+2-2m}=2^{2-m}[/math]; সুতরাং এটি [math]1[/math] হয় কেবল তখনই যখন [math]2-m=0[/math], অর্থাৎ [math]m=2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541056,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541055,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math](\\sqrt[3]{4})^{x+2} = (\\sqrt{2})^{2x+1}[/math]",
+        "solution": "বামপক্ষ: [math](\\sqrt[3]{4})^{x+2} = \\left(2^{\\frac{2}{3}}\\right)^{x+2} = 2^{\\frac{2(x+2)}{3}}[/math]\u003Cbr\u003Eডানপক্ষ: [math](\\sqrt{2})^{2x+1} = \\left(2^{\\frac{1}{2}}\\right)^{2x+1} = 2^{\\frac{2x+1}{2}}[/math]\u003Cbr\u003E⇒ [math]\\frac{2(x+2)}{3} = \\frac{2x+1}{2}[/math]\u003Cbr\u003E⇒ [math]4(x + 2) = 3(2x + 1)[/math]\u003Cbr\u003E⇒ [math]4x + 8 = 6x + 3[/math]\u003Cbr\u003E⇒ [math]-2x = -5[/math]\u003Cbr\u003E⇒ [math]x = \\frac{5}{2}[/math]\u003Cbr\u003Eনির্ণয় সমাধান: [math]x = \\frac{5}{2}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: দুই পক্ষকে ভিত্তি [math]2[/math]-তে প্রকাশ করলে [math]\\sqrt[3]{4}=2^{2/3}[/math] এবং [math]\\sqrt{2}=2^{1/2}[/math] থেকে [math](2/3)(x+2)=x+1/2[/math] পাওয়া যায়। সমীকরণটি সরিয়ে হলে [math](1/3)x=5/6[/math] হয়, তাই [math]x=5/2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541055,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541054,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math](\\sqrt[4]{5})^{2x-1} = (\\sqrt{5})^{x+1}[/math]",
+        "solution": "বামপক্ষ: [math](\\sqrt[4]{5})^{2x-1} = \\left(5^{\\frac{1}{4}}\\right)^{2x-1} = 5^{\\frac{2x - 1}{4}}[/math]\u003Cbr\u003Eডানপক্ষ: [math](\\sqrt{5})^{x+1} = \\left(5^{\\frac{1}{2}}\\right)^{x+1} = 5^{\\frac{x + 1}{2}}[/math]\u003Cbr\u003E⇒ [math]\\frac{2x - 1}{4} = \\frac{x + 1}{2}[/math]\u003Cbr\u003E⇒ [math]2(2x - 1) = 4(x + 1)[/math]\u003Cbr\u003E⇒ [math]4x - 2 = 4x + 4[/math]\u003Cbr\u003E⇒ [math]-2 = 4[/math]\u003Cbr\u003E (❌ অসম্ভব)নির্ণয় সমাধান: কোনো বাস্তব সমাধান নেই",
+        "explanation": "দুটি দিককে ঘাতের আকারে লেখলে পাই: [math](\\sqrt[4]{5})^{2x-1}=5^{(2x-1)/4}[/math] এবং [math](\\sqrt{5})^{x+1}=5^{(x+1)/2}[/math], তাই ঘাত সমান হওয়া প্রয়োজন: [math]\\frac{2x-1}{4}=\\frac{x+1}{2}[/math]. এটি সমাধান করলে [math]2x-1=2x+2[/math] হয় যা বিরোধ প্রদর্শন করে ([math]-1=2[/math]), তাই কোনো বাস্তব সমাধান নেই।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541054,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541053,
+      "value": {
+        "options": [],
+        "question": "সমাধান কর: [math](\\sqrt{2})^{x+3} = (\\sqrt[3]{2})^{2x}[/math]",
+        "solution": "বামপক্ষ: [math](\\sqrt{2})^{x+3} = \\left(2^{\\frac{1}{2}}\\right)^{x+3} = 2^{\\frac{x+3}{2}}[/math]\u003Cbr\u003Eডানপক্ষ: [math](\\sqrt[3]{2})^{2x} = \\left(2^{\\frac{1}{3}}\\right)^{2x} = 2^{\\frac{2x}{3}}[/math]\u003Cbr\u003E⇒ [math]\\frac{x+3}{2} = \\frac{2x}{3}[/math]\u003Cbr\u003E⇒ [math]3(x + 3) = 4x[/math]\u003Cbr\u003E⇒ [math]3x + 9 = 4x[/math]\u003Cbr\u003E⇒ [math]x = 9[/math]\u003Cbr\u003Eনির্ণয় সমাধান: [math]x = 9[/math]\u003Cbr\u003E",
+        "explanation": "দুটি পদকে 2-এর ঘাতের রূপে লিখলে [math](\\sqrt{2})^{x+3}=(2^{1/2})^{x+3}=2^{(x+3)/2}[/math] এবং [math](\\sqrt[3]{2})^{2x}=(2^{1/3})^{2x}=2^{2x/3}[/math] পাওয়া যায়, তাই ভিত্তি সমান হওয়ায় সূচকগুলো সমান হবে। তাই [math](x+3)/2=2x/3[/math] থেকে [math]3(x+3)=4x[/math] এবং সমাধান করলে [math]x=9[/math] হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:10.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541053,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:10.000000Z",
+            "updated_at": "2025-08-26T07:43:10.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12930&grade=5&lesson=12931&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12930&grade=5&lesson=12931&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12930&grade=5&lesson=12931&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

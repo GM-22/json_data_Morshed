@@ -1,0 +1,295 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775206,
+      "value": {
+        "options": {
+          "ক": "(2, 10)",
+          "খ": "(5, 0)",
+          "গ": "(0, 2)",
+          "ঘ": "(5, 10)"
+        },
+        "question": "2x + 5y = 10 রেখাটি দ্বারা x-অক্ষের ছেদ বিন্দু-",
+        "solution": "প্রদত্ত রেখা, $2 x+5 y=10$\u003Cbr /\u003E\n$x$ অক্ষের ওপর $y$ স্থানাঙ্ক 0\u003Cbr /\u003E\n$\\therefore 2 \\mathrm{x}+5 \\times 0=10$ বা, $2 \\mathrm{x}=10 \\therefore \\mathrm{x}=5$\u003Cbr /\u003E\n$\\therefore \\mathrm{x}$ অক্ষের ছেদ বিন্দু $(5,0)$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4312,
+          "full_name": "সেন্ট যোসেফ উচ্চ মাধ্যমিক বিদ্যালয়, ঢাকা",
+          "short_name": "সেন্ট যোসেফ উচ্চ মাধ্যমিক বিদ্যালয়, ঢাকা",
+          "slug": "sent-zosef-ucc-madhzmik-bidzaly-dhaka",
+          "pivot": {
+            "question_bank_id": 775206,
+            "tag_id": 4312,
+            "year": null,
+            "created_at": "2025-12-01T13:57:16.000000Z",
+            "updated_at": "2025-12-01T13:57:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775207,
+      "value": {
+        "options": {
+          "ক": "$\\mathbb{R}-\\{2\\}$",
+          "খ": "$\\mathbb{R}-\\left\\{-\\frac{1}{2}\\right\\}$",
+          "গ": "$\\mathbb{R}$",
+          "ঘ": "$\\mathbb{R}+\\{2\\}$"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3974-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;9&lt;/mn&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53308\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53309\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53310\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53311\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53312\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53313\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53314\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53315\" class=\"mjx-mfrac MJXc-space3\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 1.803em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 2.55em; top: -1.401em;\"\u003E\u003Cspan id=\"MJXc-Node-53316\" class=\"mjx-mrow\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-53317\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53318\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53319\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53320\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E9\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 2.55em; bottom: -0.682em;\"\u003E\u003Cspan id=\"MJXc-Node-53321\" class=\"mjx-mrow\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-53322\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53323\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53324\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 1.803em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.473em; vertical-align: -0.483em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmfrac\u003E\u003Cmrow\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E9\u003C/mn\u003E\u003C/mrow\u003E\u003Cmrow\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/mrow\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3974\"\u003Ef(x)=\\frac{4 x-9}{x-2}\u003C/script\u003E\u003Cbr\u003E\n\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3975-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;bold&quot;&gt;x&lt;/mi&gt;&lt;/mrow&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53325\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53326\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53327\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53328\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53329\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-53330\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53331\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-B\" style=\"padding-top: 0.113em; padding-bottom: 0.39em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53332\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"bold\"\u003Ex\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3975\"\u003Ef(\\mathbf{x})\u003C/script\u003E&nbsp;এর ডোমেন কত?",
+        "solution": "ক. $\\mathbb{R}-\\{2\\}$",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 775207,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-12-01T13:57:16.000000Z",
+            "updated_at": "2025-12-01T13:57:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775208,
+      "value": {
+        "options": {
+          "ক": "$\\frac{2}{5}$",
+          "খ": "$\\frac{5}{2}$",
+          "গ": "$\\frac{2}{6}$",
+          "ঘ": "$\\frac{7}{2}$"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3980-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;9&lt;/mn&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mrow&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53369\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53370\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53371\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53372\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53373\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53374\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53375\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53376\" class=\"mjx-mfrac MJXc-space3\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 1.803em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 2.55em; top: -1.401em;\"\u003E\u003Cspan id=\"MJXc-Node-53377\" class=\"mjx-mrow\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-53378\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53379\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53380\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53381\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E9\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 2.55em; bottom: -0.682em;\"\u003E\u003Cspan id=\"MJXc-Node-53382\" class=\"mjx-mrow\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-53383\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53384\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53385\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 1.803em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.473em; vertical-align: -0.483em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmfrac\u003E\u003Cmrow\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E9\u003C/mn\u003E\u003C/mrow\u003E\u003Cmrow\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/mrow\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3980\"\u003Ef(x)=\\frac{4 x-9}{x-2}\u003C/script\u003E\u003Cbr\u003E\n\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3981-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53386\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53387\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53388\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3981\"\u003Ex\u003C/script\u003E এর কোন মানের \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3982-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53389\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53390\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53391\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53392\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53393\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53394\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53395\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53396\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3982\"\u003Ef(x)=2\u003C/script\u003E জন্য?",
+        "solution": "$f(x)=\\frac{4 x-y}{x-2}$ বা, $\\frac{4 x-9}{x-2}=2$ বা, $4 x-9=2 x-4$\u003Cbr /\u003E\nবা, $2 x=5$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\mathrm{x}=\\frac{5}{2} \\text {. }\u003Cbr /\u003E\n$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3953,
+          "full_name": "রংপুর জিলা স্কুল",
+          "short_name": "রংপুর জিলা স্কুল",
+          "slug": "rngpur-jila-skul",
+          "pivot": {
+            "question_bank_id": 775208,
+            "tag_id": 3953,
+            "year": null,
+            "created_at": "2025-12-01T13:57:16.000000Z",
+            "updated_at": "2025-12-01T13:57:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775209,
+      "value": {
+        "options": {
+          "ক": "সরলরেখা",
+          "খ": "পরাবৃত্ত",
+          "গ": "উপবৃত্ত",
+          "ঘ": "বৃত্ত"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3992-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mrow&gt;&lt;mo&gt;{&lt;/mo&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;:&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;}&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53476\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53477\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53478\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em; padding-right: 0.032em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53479\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53480\" class=\"mjx-mrow MJXc-space3\"\u003E\u003Cspan id=\"MJXc-Node-53481\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-size1-R\" style=\"padding-top: 0.611em; padding-bottom: 0.611em;\"\u003E{\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53482\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53483\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53484\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53485\" class=\"mjx-mi MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53486\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53487\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.169em; padding-bottom: 0.335em;\"\u003E:\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53488\" class=\"mjx-mi MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53489\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53490\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-53491\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-53492\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53493\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-size1-R\" style=\"padding-top: 0.611em; padding-bottom: 0.611em;\"\u003E}\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003ES\u003C/mi\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmrow\u003E\u003Cmo\u003E{\u003C/mo\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E:\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmsup\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E}\u003C/mo\u003E\u003C/mrow\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3992\"\u003ES=\\left\\{(x, y): y=x^2\\right\\}\u003C/script\u003E&nbsp;অন্বয়টির লেখচিত্র কেমন হবে?",
+        "solution": "$y=x^2$ বা, $y=1, x^2$ বা, $y=a x^2$\u003Cbr /\u003E\nআকারের সেট পরাবৃত্তের সমীকরণ।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3970,
+          "full_name": "বগুড়া জিলা স্কুল",
+          "short_name": "বগুড়া জিলা স্কুল",
+          "slug": "bgura-jila-skul",
+          "pivot": {
+            "question_bank_id": 775209,
+            "tag_id": 3970,
+            "year": null,
+            "created_at": "2025-12-01T13:57:16.000000Z",
+            "updated_at": "2025-12-01T13:57:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775210,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3996-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mrow&gt;&lt;mo&gt;{&lt;/mo&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;:&lt;/mo&gt;&lt;msup&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mover&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x02D9;&lt;/mo&gt;&lt;/mover&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;25&lt;/mn&gt;&lt;mo&gt;}&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53518\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53519\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53520\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em; padding-right: 0.032em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53521\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53522\" class=\"mjx-mrow MJXc-space3\"\u003E\u003Cspan id=\"MJXc-Node-53523\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-size1-R\" style=\"padding-top: 0.611em; padding-bottom: 0.611em;\"\u003E{\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53524\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53525\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53526\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53527\" class=\"mjx-mi MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53528\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53529\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.169em; padding-bottom: 0.335em;\"\u003E:\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53530\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-53531\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-53532\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53533\" class=\"mjx-munderover\"\u003E\u003Cspan class=\"mjx-stack\"\u003E\u003Cspan class=\"mjx-over\" style=\"height: 0.17em; padding-bottom: 0.06em; padding-left: 0.064em;\"\u003E\u003Cspan id=\"MJXc-Node-53535\" class=\"mjx-mo\" style=\"vertical-align: top;\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E˙\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-op\"\u003E\u003Cspan id=\"MJXc-Node-53534\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.6em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-53536\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53537\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53538\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\" style=\"margin-right: -0.006em;\"\u003E\u003Cspan id=\"MJXc-Node-53539\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0.082em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-53540\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53541\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53542\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E25\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53543\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-size1-R\" style=\"padding-top: 0.611em; padding-bottom: 0.611em;\"\u003E}\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003ES\u003C/mi\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmrow\u003E\u003Cmo\u003E{\u003C/mo\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E:\u003C/mo\u003E\u003Cmsup\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmover\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E˙\u003C/mo\u003E\u003C/mover\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsup\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmn\u003E25\u003C/mn\u003E\u003Cmo\u003E}\u003C/mo\u003E\u003C/mrow\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3996\"\u003ES=\\left\\{(x, y): \\dot{x}^2+y^2=25\\right\\}\u003C/script\u003E হলে-\u003Cbr\u003E\ni.&nbsp; \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3997-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53544\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53545\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53546\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em; padding-right: 0.032em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003ES\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3997\"\u003ES\u003C/script\u003E এর লেখচিত্রটি একটি বৃত্ত\u003Cbr\u003E\nii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3998-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mo&gt;&amp;#x2264;&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;#x2264;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53547\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53548\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53549\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53550\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E5\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53551\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.501em;\"\u003E≤\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53552\" class=\"mjx-mi MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53553\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.501em;\"\u003E≤\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53554\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E5\u003C/mn\u003E\u003Cmo\u003E≤\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E≤\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3998\"\u003E-5 \\leq y \\leq 0\u003C/script\u003E, শর্তে, \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-3999-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53555\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53556\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53557\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em; padding-right: 0.032em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003ES\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-3999\"\u003ES\u003C/script\u003E একটি ফাংশন\u003Cbr\u003E\niii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-4000-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;&amp;#x2264;&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;#x2264;&lt;/mo&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53558\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53559\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53560\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53561\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.501em;\"\u003E≤\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53562\" class=\"mjx-mi MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53563\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.501em;\"\u003E≤\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-53564\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E5\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003Cmo\u003E≤\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E≤\u003C/mo\u003E\u003Cmn\u003E5\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-4000\"\u003E0 \\leq y \\leq 5\u003C/script\u003E শর্তে \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-4001-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-53565\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-53566\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-53567\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em; padding-right: 0.032em;\"\u003ES\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003ES\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-4001\"\u003ES\u003C/script\u003E একটি ফাংশন\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1733676887663_1764597436_1PPNq0r6.webp\" /\u003E$S=\\left\\{(x, y): x^2+y^2=25\\right\\}$\u003Cbr /\u003E\n\u003Cspan class=\"math-tex\"\u003E\\(S\\)\u003C/span\u003E&nbsp;এর বর্ণনাকারী সমীকরণ, $x^2+y^2=25$\u003Cbr /\u003E\nবা, $(x-0)^2+(y-0)^2=5^2$ ইহা একটি বৃত্তের সমীকরণ যার কেন্দ্র \u003Cspan class=\"math-tex\"\u003E\\((0, 0)\\)\u003C/span\u003E এবং ব্যাসার্ধ \u003Cspan class=\"math-tex\"\u003E\\(= 5\\)\u003C/span\u003E ।\u003Cbr /\u003E\n(i) \u003Cspan class=\"math-tex\"\u003E\\(S\\)\u003C/span\u003E এর লেখচিত্র একটি বৃত্ত (সঠিক)\u003Cbr /\u003E\n(ii) $-5 \\leq \\mathrm{y} \\leq 0$ শর্তে, $y$ অক্ষের সমন্তরাল রেখায় লেখচিত্রের একাধিক বিন্দু নেই।\u003Cbr /\u003E\n$\\therefore \\mathrm{S}$ একটি ফাংশন। (সঠিক)\u003Cbr /\u003E\n(iii) \u003Cspan class=\"math-tex\"\u003E\\(0 ≤ y ≤ 5\\)\u003C/span\u003E শর্তে, \u003Cspan class=\"math-tex\"\u003E\\(y\\)\u003C/span\u003E অক্ষের সমান্তরাল রেখায় লেখচিত্রের একাধিক বিন্দু নেই।\u003Cbr /\u003E\n\u003Cspan class=\"math-tex\"\u003E\\(\\therefore\\)\u003C/span\u003E&nbsp;\u003Cspan class=\"math-tex\"\u003E\\(S\\)\u003C/span\u003E&nbsp;একটি ফাংশন। (সঠিক)\u003Cbr /\u003E\n\u003Cspan class=\"math-tex\"\u003E\\(\\therefore\\)\u003C/span\u003E&nbsp;(i), (ii) ও (iii) সঠিক।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 775210,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-01T13:57:16.000000Z",
+            "updated_at": "2025-12-01T13:57:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14532&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14532&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14532&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

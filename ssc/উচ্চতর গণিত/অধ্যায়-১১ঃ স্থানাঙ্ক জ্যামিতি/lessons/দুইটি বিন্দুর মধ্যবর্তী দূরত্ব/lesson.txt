@@ -1,0 +1,847 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 774199,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(-\\frac{1}{5}\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\frac{1}{5}\\)\u003C/span\u003E",
+          "গ": "3",
+          "ঘ": "5"
+        },
+        "question": "মূলবিন্দু থেকে (-5, 5) ও. (5, P) বিন্দুদ্বয় সমদূরবর্তী হলে P এর মান কত?",
+        "solution": "$O(0,0)$ থেকে A $(-5,5)$ বিন্দুর দূরত্ব :\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\mathrm{OA}=\\sqrt{(-5-0)^2+(5-0)^2}=\\sqrt{50}=5 \\sqrt{2}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nএবং $O(0,0)$ থেকে $B(5, P)$ বিন্দুর দূরত্ব :\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\mathrm{OB}=\\sqrt{(5-0)^2+(\\mathrm{P}-0)^2}=\\sqrt{25+\\mathrm{P}^2}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nপ্রশ্নমতে, OA = OB\u003Cbr /\u003E\nবা, $5 \\sqrt{2}=\\sqrt{25+\\mathrm{P}^2}$\u003Cbr /\u003E\nবা, $50=25+\\mathrm{P}^2$\u003Cbr /\u003E\nবা, $P^2=25=5^2$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\mathrm{P}=5 \\text {. }\u003Cbr /\u003E\n$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3803,
+          "full_name": "চ. বো.'২০২০",
+          "short_name": "চ. বো.'২০২০",
+          "slug": "c-bo2020",
+          "pivot": {
+            "question_bank_id": 774199,
+            "tag_id": 3803,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774207,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(2\\sqrt5\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(5\\sqrt2\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\sqrt3\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\sqrt3\\)\u003C/span\u003E"
+        },
+        "question": "মূলবিন্দু হতে A(- 5, 5) এবং B(5, k) বিন্দুর দূরত্ব সমান।\u003Cbr\u003E\nমূলবিন্দু হতে A এর দূরত্ব কত একক?",
+        "solution": "মূলবিন্দু $(0,0)$ থেকে $\\mathrm{A}(-5,5)$ বিন্দুর দৃরত্ব $=\\sqrt{(-5-0)^2+(5-0)^2}=\\sqrt{25+25}=\\sqrt{50}\\\\=\\sqrt{25 \\times 2}=5 \\sqrt{2}.$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774206,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "ii ও iii",
+          "গ": "i ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "দূরত্ব নির্ণয়ের ক্ষেত্রে-\u003Cbr\u003E\ni. মূলবিন্দু হতে (-3, -3) বিন্দুর দূরত্ব 9 একক\u003Cbr\u003E\nii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-20673-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-298213\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-298214\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298215\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-20673\"\u003Ey\u003C/script\u003E অক্ষ হতে কোনো বিন্দুর দূরত্ব ভুজের সমান\u003Cbr\u003E\niii. দুইটি বিন্দুর স্থানাঙ্ক \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-20674-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-298216\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-298217\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298218\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298219\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298220\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-298221\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298222\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298223\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298224\" class=\"mjx-msubsup MJXc-space1\"\u003E\u003Cspan class=\"mjx-base\" style=\"margin-right: -0.006em;\"\u003E\u003Cspan id=\"MJXc-Node-298225\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298226\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298227\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmrow\u003E\u003Cmo\u003E(\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E)\u003C/mo\u003E\u003C/mrow\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-20674\"\u003E\\left(x_1, y_1\\right)\u003C/script\u003E এবং \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-20675-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-298228\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-298229\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298230\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298231\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298232\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-298233\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298234\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298235\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298236\" class=\"mjx-msubsup MJXc-space1\"\u003E\u003Cspan class=\"mjx-base\" style=\"margin-right: -0.006em;\"\u003E\u003Cspan id=\"MJXc-Node-298237\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298238\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298239\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmrow\u003E\u003Cmo\u003E(\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E)\u003C/mo\u003E\u003C/mrow\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-20675\"\u003E\\left(x_2, y_2\\right)\u003C/script\u003E হলে বিন্দু দুইটির \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-20676-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;msqrt&gt;&lt;msup&gt;&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/msub&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/msqrt&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-298240\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-298241\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298242\" class=\"mjx-msqrt\"\u003E\u003Cspan class=\"mjx-box\" style=\"padding-top: 0.045em;\"\u003E\u003Cspan class=\"mjx-surd\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-size2-R\" style=\"padding-top: 0.943em; padding-bottom: 0.943em;\"\u003E√\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-box\" style=\"padding-top: 0.255em; border-top: 1.4px solid;\"\u003E\u003Cspan id=\"MJXc-Node-298243\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298244\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-298245\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298246\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298247\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-298248\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298249\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298250\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298251\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-298252\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298253\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298254\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.71em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298255\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298256\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298257\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-298258\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-298259\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298260\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\" style=\"margin-right: -0.006em;\"\u003E\u003Cspan id=\"MJXc-Node-298261\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298262\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298263\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298264\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\" style=\"margin-right: -0.006em;\"\u003E\u003Cspan id=\"MJXc-Node-298265\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sub\" style=\"font-size: 70.7%; vertical-align: -0.212em; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298266\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-298267\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.71em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-298268\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmsqrt\u003E\u003Cmsup\u003E\u003Cmrow\u003E\u003Cmo\u003E(\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E)\u003C/mo\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmsup\u003E\u003Cmrow\u003E\u003Cmo\u003E(\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmsub\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003C/msub\u003E\u003Cmo\u003E)\u003C/mo\u003E\u003C/mrow\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/msup\u003E\u003C/msqrt\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-20676\"\u003E\\sqrt{\\left(x_2-x_1\\right)^2+\\left(y_2-y_1\\right)^2}\u003C/script\u003E\u003Cbr\u003E\nউপরের তথ্যানুযায়ী নিচের কোনটি সঠিক?",
+        "solution": "(i) মূলবিন্দু হতে $(-3,-3)$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n\\text { বিন্দুর দূরত্ব } &amp; =\\sqrt{(0+3)^2+(0+3)^2} \\\\\u003Cbr /\u003E\n&amp; =\\sqrt{9+9} \\\\\u003Cbr /\u003E\n&amp; =\\sqrt{18} \\\\\u003Cbr /\u003E\n&amp; =3 \\sqrt{2}\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$\u003Cbr /\u003E\n(ii) y অক্ষ হতে কোনো বিন্দুর দূরত্ব ঐ বিন্দুর ভুজের সমান।\u003Cbr /\u003E\n(iii) $\\left(x_1, y_1\\right)$ এবং $\\left(x_2, y_2\\right)$ বিন্দু দুইটির মধ্যবর্তী দূরত্ব\u003Cbr /\u003E\n$\u003Cbr /\u003E\n=\\sqrt{\\left(x_2-x_1\\right)^2+\\left(y_2-y_1\\right)^2}\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\\therefore$ তথ্যানুযায়ী (ii) ও (iii) সঠিক।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774205,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt2\\)\u003C/span\u003E",
+          "খ": "3",
+          "গ": "9",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(3\\sqrt2\\)\u003C/span\u003E"
+        },
+        "question": "A(K, 4) থেকে মূলবিন্দুর দূরত্ব 5 একক হলে, K এর মান কত?",
+        "solution": "&nbsp;A $(\\mathrm{k}, 4)$ ও $\\mathrm{O}(0,0)$ বিন্দুর দূরত্ব\u003Cbr /\u003E\n$\u003Cbr /\u003E\n=\\sqrt{(k-0)^2+(4-0)^2}=\\sqrt{k^2+16}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nপ্রশ্নমতে, $\\sqrt{k^2+16}=5$\u003Cbr /\u003E\nবা, $\\mathrm{k}^2+16=25$ [বর্গ করে]\u003Cbr /\u003E\nবা, $\\mathrm{k}^2=25-16=9 \\therefore \\mathrm{k}=\\sqrt{9}=3$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4039,
+          "full_name": "রাজশাহী ক্যাডেট কলেজ",
+          "short_name": "রাজশাহী ক্যাডেট কলেজ",
+          "slug": "rajsahee-kzadet-klej",
+          "pivot": {
+            "question_bank_id": 774205,
+            "tag_id": 4039,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774204,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "5",
+          "গ": "- 1",
+          "ঘ": "- 5.2"
+        },
+        "question": "মূলবিন্দু হতে A(- 5, 5) এবং B(5, k) বিন্দুর দূরত্ব সমান।\u003Cbr\u003E\nk এর মান কত?",
+        "solution": "প্রশ্নমতে, $\\mathrm{OA}=\\mathrm{OB}$\u003Cbr /\u003E\nএখানে, $\\mathrm{OA}=5 \\sqrt{2}$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n&amp; \\therefore \\quad \\mathrm{OB}=5 \\sqrt{2} \\\\\u003Cbr /\u003E\n&amp; \\mathrm{OB}=\\sqrt{(5-0)^2+(\\mathrm{k}-0)^2}\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nবা, $5 \\sqrt{2}=\\sqrt{25+\\mathrm{k}^2}$ বা, $25+\\mathrm{k}^2=50$\u003Cbr /\u003E\nবা, $\\mathrm{k}^2=25 \\therefore \\mathrm{k}=5$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774203,
+      "value": {
+        "options": {
+          "ক": "- 7 একক",
+          "খ": "- 5 একক",
+          "গ": "5 একক",
+          "ঘ": "7 একক"
+        },
+        "question": "মূলবিন্দু থেকে (0, -7) বিন্দুর দূরত্ব কত?",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1736483073574_1764595943_dtPAsuxz.webp\" /\u003Eমূলবিন্দু $(0,0)$ থেকে $(0,-7)$ বিন্দুর দূরত্ব\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n&amp; =\\sqrt{(0-0)^2+(0+7)^2} \\\\\u003Cbr /\u003E\n&amp; =\\sqrt{0+7^2}=7 \\text { একক }\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774202,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "7",
+          "গ": "9",
+          "ঘ": "16"
+        },
+        "question": "(7, -9) বিন্দু হতে x অক্ষের দূরত্ব কত?",
+        "solution": "(7, - 9) বিন্দু হতে x অক্ষের দূরত্ব = বিন্দুটির কোটি |y| = |- 9| = 9 একক।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3843,
+          "full_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "short_name": "ঢাকা রেসিডেনসিয়াল মডেল কলেজ",
+          "slug": "dhaka-residensiyal-mdel-klej",
+          "pivot": {
+            "question_bank_id": 774202,
+            "tag_id": 3843,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774201,
+      "value": {
+        "options": {
+          "ক": "2",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(2\\sqrt2\\)\u003C/span\u003E",
+          "গ": "4",
+          "ঘ": "8"
+        },
+        "question": "মূলবিন্দু থেকে P(- 2, 2) বিন্দুর দূরত্ব কত?",
+        "solution": "মৃল বিন্দু থেকে P(-2, 2)\u003Cbr /\u003E\nবিন্দুর দূরত্ব $=\\sqrt{(0+2)^2+(0-2)^2}=\\sqrt{4+4}=2 \\sqrt{2}$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 774201,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774200,
+      "value": {
+        "options": {
+          "ক": "- 6",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt20\\)\u003C/span\u003E",
+          "গ": "6",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt52\\)\u003C/span\u003E"
+        },
+        "question": "A(3, - 6) বিন্দু থেকে x অক্ষের দূরত্ব এবং B(a, - 4) বিন্দু থেকে মূল বিন্দুর দূরত্ব সমান হলে, a এর মান কত?",
+        "solution": "A(3, -6) বিন্দু হতে x অক্ষের দূরত্ব = - 6\u003Cbr /\u003E\n$B(a,-4)$ বিন্দু হতে $(0,0)$ বিন্দুর দৃরত্ব $=\\sqrt{(0-a)^2+(0+4)^2}$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n=\\sqrt{a^2+16}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nশর্তমতে, $\\sqrt{a^2+16}=-6$\u003Cbr /\u003E\nবা, $a^2+16=36$\u003Cbr /\u003E\nবা, $\\mathrm{a}^2=36-16=20$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\mathrm{a}=\\sqrt{20} .\u003Cbr /\u003E\n$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3842,
+          "full_name": "রা. বো.'২০১৯",
+          "short_name": "রা. বো.'২০১৯",
+          "slug": "ra-bo2019",
+          "pivot": {
+            "question_bank_id": 774200,
+            "tag_id": 3842,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774191,
+      "value": {
+        "options": {
+          "ক": "$ \\sqrt{2}$",
+          "খ": "$2 \\sqrt{2}$",
+          "গ": "$2 \\sqrt{5}$",
+          "ঘ": "$ \\sqrt{26}$"
+        },
+        "question": "(0, -1) এবং (2, - 3) বিন্দু দুইটির মধ্যবর্তী দূরত্ব কত?",
+        "solution": "$(0,-1)$ এবং $(2,-2)$ বিন্দু দুইটির মধ্যবর্তী দূরত্ব\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n&nbsp;=\\sqrt{\\left(x_1-x_2\\right)^2+\\left(y_1-y_2\\right)^2} \\\\\u003Cbr /\u003E\n&nbsp;=\\sqrt{(0-2)^2+(-1+3)^2}\\\\=\\sqrt{4+4}=\\sqrt{8}=2 \\sqrt{2} .\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3887,
+          "full_name": "ব. বো.'২০২৩",
+          "short_name": "ব. বো.'২০২৩",
+          "slug": "b-bo2023",
+          "pivot": {
+            "question_bank_id": 774191,
+            "tag_id": 3887,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774198,
+      "value": {
+        "options": {
+          "ক": "4",
+          "খ": "5",
+          "গ": "6",
+          "ঘ": "10"
+        },
+        "question": "(-3, 2) ও (3, 2) বিন্দুর মধ্যে দূরত্ব কত?",
+        "solution": "$(-3,2)$ ও $(3,2)$ বিন্দুদ্বয়ের দূরত্ব $=\\sqrt{\\left(x_2-x_1\\right)^2+\\left(y_2-y_1\\right)^2}\\\\=\\sqrt{(3+3)^2+(2-2)^2}$একক $=\\sqrt{6^2+0}$ একক $=\\sqrt{36}$ একক = 6 একক।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3872,
+          "full_name": "ম. বো.'২০২২",
+          "short_name": "ম. বো.'২০২২",
+          "slug": "m-bo2022",
+          "pivot": {
+            "question_bank_id": 774198,
+            "tag_id": 3872,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774197,
+      "value": {
+        "options": {
+          "ক": "(2, 0)",
+          "খ": "(3, 1)",
+          "গ": "(5, 3)",
+          "ঘ": "(4, 2)"
+        },
+        "question": "A(1, -1), B(9, 7) ও C(1, 7) বিন্দুগুলো থেকে সমদূরবর্তী বিন্দুর স্থানাঙ্ক কত?",
+        "solution": "A $(1,-1)$ এবং $(5,3)$ বিন্দুর দূরত্ব\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n\\operatorname{} &amp; =\\sqrt{(5-1)^2+(3+1)^2} \\\\\u003Cbr /\u003E\n&amp; =\\sqrt{16+16}=\\sqrt{32}=4 \\sqrt{2}\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nB(9, 7) এবং (5, 3) বিন্দুর দূরত্ব\u003Cbr /\u003E\n$\\begin{aligned} &amp; =\\sqrt{(9-5)^2+(7-3)^2} \\\\ &amp; =\\sqrt{16+16}=\\sqrt{32}=4 \\sqrt{2}\\end{aligned}$\u003Cbr /\u003E\nC(1,7) এবং (5, 3) বিন্দুর দূরত্ব\u003Cbr /\u003E\n$\\begin{aligned} &amp; =\\sqrt{(5-1)^2+(3-7)^2} \\\\ &amp; =\\sqrt{16+16}=\\sqrt{32}=4 \\sqrt{2}.\\end{aligned}$",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774196,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt41\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt32\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt29\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\sqrt25\\)\u003C/span\u003E"
+        },
+        "question": "যদি P(1, - 1) এবং Q(3, 4) হয়, তবে PQ = কত একক?",
+        "solution": "$\\begin{aligned} P Q &amp; =\\sqrt{(3-1)^2+(4+1)^2} \\\\ &amp; =\\sqrt{2^2+5^2}=\\sqrt{4+25}=\\sqrt{29}\\end{aligned}$",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3878,
+          "full_name": "ব. বো.'২০২১",
+          "short_name": "ব. বো.'২০২১",
+          "slug": "b-bo2021",
+          "pivot": {
+            "question_bank_id": 774196,
+            "tag_id": 3878,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774195,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "4",
+          "গ": "5",
+          "ঘ": "6"
+        },
+        "question": "A(p, 4) থেকে মূলবিন্দুর দূরত্ব 5 একক হলে, p এর মান কত হবে?",
+        "solution": "$A(p, 4)$ থেকে মূলবিন্দু $(0,0)$ এর দূরত্ব\u003Cbr /\u003E\n$\u003Cbr /\u003E\n=\\sqrt{(\\mathrm{p}-0)^2+(4-0)^2}=\\sqrt{\\mathrm{p}^2+16}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nশর্তমতে, $\\sqrt{\\mathrm{p}^2+16}=5$\u003Cbr /\u003E\nবা, $\\mathrm{p}^2+16=25$ [বর্গ করে]\u003Cbr /\u003E\nবা, $p^2=25-16=9$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\mathrm{p}=\\sqrt{9}=3 .\u003Cbr /\u003E\n$",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3804,
+          "full_name": "সি. বো.'২০২১",
+          "short_name": "সি. বো.'২০২১",
+          "slug": "si-bo2021",
+          "pivot": {
+            "question_bank_id": 774195,
+            "tag_id": 3804,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774194,
+      "value": {
+        "options": {
+          "খ": "$ 2\\sqrt{2}$",
+          "গ": "$ 4\\sqrt{2}$",
+          "ঘ": "4"
+        },
+        "question": "অক্ষদ্বয় দ্বারা (- 2, 0) ও (0, 2) বিন্দুগামী রেখার খণ্ডিত অংশের দৈর্ঘ্য কত?",
+        "solution": "অক্ষদ্বয় দ্বারা $(-2,0)$ ও $(0,2)$ বিন্দুগামী রেখার\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n\\text { খণ্ডিত অংশের দৈর্ঘ্য } &amp; =\\sqrt{(-2-0)^2+(0-2)^2} \\\\\u003Cbr /\u003E\n&amp; =\\sqrt{4+4}=\\sqrt{8}=\\sqrt{4.2}=2 \\sqrt{2}&nbsp;\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3868,
+          "full_name": "য. বো.'২০২১",
+          "short_name": "য. বো.'২০২১",
+          "slug": "z-bo2021",
+          "pivot": {
+            "question_bank_id": 774194,
+            "tag_id": 3868,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774193,
+      "value": {
+        "options": {
+          "খ": "$\\pm{}{7}$",
+          "গ": "$\\pm \\frac{1}{7}$",
+          "ঘ": "$ \\frac{1}{7}$"
+        },
+        "question": "মূলবিন্দু থেকে (-7, 7) এবং (R, 7) বিন্দুদ্বয় সমদূরবর্তী হলে R এর মান কত?",
+        "solution": "শর্তমতে,\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\sqrt{(-7-0)^2+(7-0)^2}=\\sqrt{(\\mathrm{R}-0)^2+(7-0)^2}\u003Cbr /\u003E\n$\u003Cbr /\u003E\nবা, $\\sqrt{49+49}=\\sqrt{\\mathrm{R}^2+7^2}$ বা, $98=\\mathrm{R}^2+49$\u003Cbr /\u003E\nবা, $R^2=98-49=49=( \\pm 7)^2$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\quad \\mathrm{R}= \\pm 7 \\text {. }\u003Cbr /\u003E\n$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3839,
+          "full_name": "ঢা. বো.'২০২১",
+          "short_name": "ঢা. বো.'২০২১",
+          "slug": "dha-bo2021",
+          "pivot": {
+            "question_bank_id": 774193,
+            "tag_id": 3839,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774192,
+      "value": {
+        "options": {
+          "ক": "$ \\sqrt{17}$&nbsp;একক",
+          "খ": "$ \\sqrt{58}$&nbsp;একক",
+          "গ": "$ \\sqrt{135}$&nbsp;একক",
+          "ঘ": "$ \\sqrt{153}$&nbsp;একক"
+        },
+        "question": "P(- 5,6) এবং Q(7, 3) হলে ?",
+        "solution": "$\\begin{aligned} &amp; \\text {এখানে, P(-5,6) এবং } \\mathrm{Q}(7,3) \\\\ &amp; \\begin{aligned} \\therefore \\mathrm{PQ} \\text { এর দৈর্ঘ্য } &amp; =\\sqrt{(7+5)^2+(3-6)^2} \\text { একক } \\\\ &amp; =\\sqrt{(12)^2+(-3)^2} \\text { একক } \\\\ &amp; =\\sqrt{144+9} \\text { একক }=\\sqrt{153} \\text { একক। }\\end{aligned}\\end{aligned}$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8029,
+      "created_at": "2025-12-01T13:32:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 774192,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-12-01T13:32:23.000000Z",
+            "updated_at": "2025-12-01T13:32:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8029&grade=5&lesson=14581&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8029&grade=5&lesson=14581&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8029&grade=5&lesson=14581&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

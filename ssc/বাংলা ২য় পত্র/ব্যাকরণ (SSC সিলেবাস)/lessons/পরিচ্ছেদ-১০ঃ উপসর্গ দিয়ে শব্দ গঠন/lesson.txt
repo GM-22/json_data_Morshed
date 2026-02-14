@@ -1,0 +1,4005 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695302,
+      "value": {
+        "options": {
+          "ক": "সংস্কৃত",
+          "খ": "ফারসি",
+          "গ": "বাংলা",
+          "ঘ": "হিন্দি"
+        },
+        "question": "‘অনুজ’ শব্দের ‘অনু’ উপসর্গটি কোন ভাষার?",
+        "solution": "সংস্কৃত",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695302,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695302,
+            "tag_id": 47,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695293,
+      "value": {
+        "options": {
+          "ক": "নিম্",
+          "খ": "প্রতি",
+          "গ": "খাস",
+          "ঘ": "ইতি"
+        },
+        "question": "ফারসি উপসর্গ কোনটি?",
+        "solution": "ফারসি উপসর্গ - কম-, কার-, দর-, না-, নিম-, ফি-, ব-, বে-, বর-, বদ-।",
+        "explanation": "",
+        "correct_answer": "A.নিম্"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695293,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695293,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695293,
+            "tag_id": 3626,
+            "year": "2022",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695294,
+      "value": {
+        "options": {
+          "ক": "বাংলা উপসর্গ",
+          "খ": "তৎসম উপসর্গ",
+          "গ": "ফারসি উপসর্গ",
+          "ঘ": "আরবি উপসর্গ"
+        },
+        "question": "‘অঘারাম বাস করে অজপাড়া গাঁয়ে’- ‘অঘা' ও ‘অজ’ কোন ধরনের উপসর্গ?",
+        "solution": "বাংলা উপসর্গ মোট একুশটি: অ, অঘা, অজ, অনা, আ, আড়, আন, আব, ইতি, ঊন (ঊনা), কদ, কু, নি, পাতি, বি, ভর, রাম, স, সা, সু, হা।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695294,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695294,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695294,
+            "tag_id": 3626,
+            "year": "2015",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695295,
+      "value": {
+        "options": {
+          "ক": "সর্বনামের",
+          "খ": "বিশেষণের",
+          "গ": "অব্যয়ের",
+          "ঘ": "ক্রিয়ার"
+        },
+        "question": "“ঝির ঝির করে বাতাস বইছে”-বাক্যে ‘ঝির ঝির’ কোন ধরনের দ্বিরুক্তি?",
+        "solution": "অব্যয়ের",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695295,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695295,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695295,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695296,
+      "value": {
+        "options": {
+          "ক": "সংস্কৃত",
+          "খ": "আরবি",
+          "গ": "ফারসি",
+          "ঘ": "বাংলা"
+        },
+        "question": "‘প্রতি’ কোন ভাষার উপসর্গ?",
+        "solution": "সংস্কৃত",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695296,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695296,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695296,
+            "tag_id": 4,
+            "year": "2015",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695297,
+      "value": {
+        "options": {
+          "ক": "ঝিকিমিকি",
+          "খ": "ঝমঝম",
+          "গ": "ঘেউঘেউ",
+          "ঘ": "হি হি"
+        },
+        "question": "বস্তুর ধ্বনির অনুকার কোনটি?",
+        "solution": "ঝমঝম = বৃষ্টি পড়ার শব্দ।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695297,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695297,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695297,
+            "tag_id": 7,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695298,
+      "value": {
+        "options": {
+          "ক": "বাংলা",
+          "খ": "আরবি",
+          "গ": "সংস্কৃত",
+          "ঘ": "অর্ধ-তৎসম"
+        },
+        "question": "‘লা' কোন ভাষার উপসর্গ?",
+        "solution": "আরবি",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695298,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695298,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695298,
+            "tag_id": 4,
+            "year": "2015",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695299,
+      "value": {
+        "options": {
+          "ক": "আরবি",
+          "খ": "ইংরেজি",
+          "গ": "হিন্দি",
+          "ঘ": "ফারসি"
+        },
+        "question": "নিমরাজি শব্দে 'নিম'কোন উপসর্গ?",
+        "solution": "ফারসি উপসর্গ: কার্, দর্, না, নিম্, ফি, বদ্, বে, বর্, ব্, কম্‌",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695299,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695299,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695299,
+            "tag_id": 7,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695300,
+      "value": {
+        "options": {
+          "ক": "সফল",
+          "খ": "জেলে",
+          "গ": "মহাত্মা",
+          "ঘ": "সুশ্রী"
+        },
+        "question": "প্রত্যয় সাধিত শব্দ কোনটি?",
+        "solution": "জেলে",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695300,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695300,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695300,
+            "tag_id": 4,
+            "year": "2015",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695301,
+      "value": {
+        "options": {
+          "ক": "বাংলা উপসর্গ",
+          "খ": "ফারসি উপসর্গ",
+          "গ": "তৎসম উপসর্গ",
+          "ঘ": "আরবি উপসর্গ"
+        },
+        "question": "প্র, পরা, অপ, সম, নি, কোন উপসর্গের উদাহরণ?",
+        "solution": "তৎসম উপসর্গ",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:32.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695301,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695301,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695301,
+            "tag_id": 7,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695281,
+      "value": {
+        "options": {
+          "ক": "রাম",
+          "খ": "অতি",
+          "গ": "কার্",
+          "ঘ": "গর্"
+        },
+        "question": "বাংলা উপসর্গ কোনটি?",
+        "solution": "বাংলা উপসর্গ মোট ২১টি। এগুলো হলো-\n\nঅ, অঘা, অজ, অনা, আ, আড়, আন, আব, ইতি, ঊন, কদ, কু, নি, পাতি, বি, ভর, রাম, স, সা, সু, হা।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695281,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695281,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695281,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695258,
+      "value": {
+        "options": {
+          "ক": "সতর্কতা",
+          "খ": "ভাবের প্রগাঢ়তা",
+          "গ": "কালের বিস্তার",
+          "ঘ": "আধিক্য"
+        },
+        "question": "ছেলেটিকে চোখে চোখে রেখো-এ বাক্যে 'চোখে চোখে' দ্বিরুক শব্দ কী অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "সতর্কতা",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695258,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695258,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695258,
+            "tag_id": 5,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695282,
+      "value": {
+        "options": {
+          "ক": "হাভাত",
+          "খ": "কদবেল",
+          "গ": "নিমরাজি",
+          "ঘ": "নিমরাজি"
+        },
+        "question": "' গৌণ' অর্থ প্রকাশ করছে কোন উপসর্গ যুক্ত শব্দটি?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "B.কদবেল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695282,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695282,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695282,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695283,
+      "value": {
+        "options": {
+          "ক": "আরবি",
+          "খ": "বাংলা",
+          "গ": "তৎসম",
+          "ঘ": "ফারসি"
+        },
+        "question": "“নিমরাজি” শব্দটিতে ব্যবহৃত 'নিম' কোন উপসর্গ?",
+        "solution": "কার্, দর্, না, নিম্, ফি, বদ্, বে, বর্, ব্,\n\nকম্ ইত্যাদি ফারসি উপসর্গ।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695283,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695283,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695283,
+            "tag_id": 46,
+            "year": "2016",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695284,
+      "value": {
+        "options": {
+          "ক": "অ, অঘা, অজ, অনা",
+          "খ": "আ, সু, বি, নি",
+          "গ": "আ, উপ, অপ, অপি",
+          "ঘ": "অনা, ইতি, কু, সম"
+        },
+        "question": "কোন চারটি উপসর্গ বাংলা ও তৎসম উভয় শব্দে পাওয়া যায়?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "B.আ, সু, বি, নি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695284,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695284,
+            "tag_id": 3585,
+            "year": "2022",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695285,
+      "value": {
+        "options": {
+          "ক": "সুগম",
+          "খ": "সুসাধ্য",
+          "গ": "সুচরিত্র",
+          "ঘ": "সুনিপুণ"
+        },
+        "question": "‘আতিশয্য' অর্থে 'সু' উপসর্গের ব্যবহার হয়েছে কোনটিতে?",
+        "solution": "সুনিপুণ",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695285,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695285,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695285,
+            "tag_id": 3626,
+            "year": "2016",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695286,
+      "value": {
+        "options": {
+          "ক": "আরবি",
+          "খ": "ফরাসি",
+          "গ": "বাংলা",
+          "ঘ": "তৎসম"
+        },
+        "question": "'অজ' কোন উপসর্গ?",
+        "solution": "'অজ' বাংলা উপসর্গ। বাংলা উপসর্গ মোট ২১টি। যথা: অ, অনা, অজ , অঘা, আ, আড়, আন, আর, ইতি, উন, কদ, কু, নি, পাতি, বি, ভর, রাম, স, সা, সু, হা।",
+        "explanation": "",
+        "correct_answer": "C.বাংলা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695286,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695286,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695286,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695287,
+      "value": {
+        "options": {
+          "ক": "সুনজর",
+          "খ": "সুকঠিন",
+          "গ": "সুচতুর",
+          "ঘ": "সুনিপুণ"
+        },
+        "question": "খাঁটি বাংলা উপসর্গ কোন শব্দে ব্যবহৃত হয়েছে?",
+        "solution": "সুনজর",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695287,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695287,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695287,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695288,
+      "value": {
+        "options": {
+          "ক": "আধিপত্য",
+          "খ": "সম্যক",
+          "গ": "বিরোধ",
+          "ঘ": "অতিক্রম"
+        },
+        "question": "'প্রতি' উপসর্গটি কোন অর্থে ব্যবহৃত হয়?",
+        "solution": "প্রতি সংস্কৃত উপসর্গ। উপসর্গ টি নানা অর্থে ব্যবহৃত হয়। যেমন - সদৃশ, বিরোধ, পৌনঃপুন, অনুরূপ কাজ। প্রতিধ্বনি ও প্রতিমূর্তি শব্দে প্রতি উপসর্গ টি সদৃশ অর্থে ব্যবহৃত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "C.বিরোধ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695288,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695288,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695288,
+            "tag_id": 3,
+            "year": "2022",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695289,
+      "value": {
+        "options": {
+          "ক": "সম্প্রসারণ",
+          "খ": "বিপরীতার্থক",
+          "গ": "বিয়োজন",
+          "ঘ": "সংকোচন"
+        },
+        "question": "'নজর' শব্দের সাথে 'সু' উপসর্গ যুক্ত হলে শব্দের অর্থের কী ধরনের পরিবর্তন ঘটবে?",
+        "solution": "সংকোচন হল অভ্যন্তরীণ অক্ষর এবং শব্দ বাদ দিয়ে তৈরি করা একটি শব্দ , শব্দাংশ বা শব্দ গোষ্ঠীর কথ্য এবং লিখিত রূপের সংক্ষিপ্ত সংস্করণ।",
+        "explanation": "",
+        "correct_answer": "D.সংকোচন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695289,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695289,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695289,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695290,
+      "value": {
+        "options": {
+          "ক": "সুকণ্ঠ",
+          "খ": "সুনীল",
+          "গ": "সুখবর",
+          "ঘ": "সুপ্রিয়"
+        },
+        "question": "নিচের কোনটি বাংলা উপসর্গ যুক্ত শব্দ?",
+        "solution": "সুখবর",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695290,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695290,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695290,
+            "tag_id": 7,
+            "year": "2016",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695291,
+      "value": {
+        "options": {
+          "ক": "হর",
+          "খ": "ফুল্",
+          "গ": "ফি",
+          "ঘ": "লা"
+        },
+        "question": "আরবি উপসর্গ কোনটি?",
+        "solution": "আরবি উপসর্গ - আম-, খাস-, খয়ের-, গর্-, বাজে-, লা-।",
+        "explanation": "",
+        "correct_answer": "D.লা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695291,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695291,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695291,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695292,
+      "value": {
+        "options": {
+          "ক": "যতিচিহ্ন সংস্থাপন",
+          "খ": "বর্ণ সংস্থাপন",
+          "গ": "নতুন অর্থবোধক শব্দ গঠন",
+          "ঘ": "ভাবের পার্থক্য নিরূপণ"
+        },
+        "question": "উপসর্গের কাজ কী?",
+        "solution": "নতুন অর্থবোধক শব্দ গঠন",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695292,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695292,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695292,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-10-09T06:52:32.000000Z",
+            "updated_at": "2025-10-09T06:52:32.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695279,
+      "value": {
+        "options": {
+          "ক": "নিন্দিত",
+          "খ": "পূর্ণতা",
+          "গ": "নিকৃষ্ট",
+          "ঘ": "উৎকৃষ্ট"
+        },
+        "question": "'কদাকার' শব্দের 'কদ্' উপনর্গ কোন অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "নিন্দিত",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695279,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695279,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695279,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695279,
+            "tag_id": 47,
+            "year": "2016",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695257,
+      "value": {
+        "options": {
+          "ক": "স্থানান্তর",
+          "খ": "বিপরীত",
+          "গ": "নিকৃষ্ট",
+          "ঘ": "বিকৃত"
+        },
+        "question": "‘অপনোদন' শব্দে ‘অপ’ উপসর্গ ব্যবহার করা হয়েছে কোন অর্থে?",
+        "solution": "স্থানান্তর",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695257,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695257,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695257,
+            "tag_id": 5,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695259,
+      "value": {
+        "options": {
+          "ক": "অভিজ্ঞ",
+          "খ": "অভিমান",
+          "গ": "অভিমত",
+          "ঘ": "অভিজাত"
+        },
+        "question": "নিচের কোন শব্দে 'অভি' উপসর্গটি 'উত্তম' অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "অভিজাত' শব্দে 'অভি' উপসর্গ উত্তম বা শ্রেষ্ঠ অর্থে ব্যবহৃত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695259,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695259,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695259,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695260,
+      "value": {
+        "options": {
+          "ক": "সোয়া",
+          "খ": "পৌনে",
+          "গ": "তেহাই",
+          "ঘ": "পোয়া"
+        },
+        "question": "এক এককের চারভাগের তিনভাগ (৩/৪) কে পরবর্তী সংখ্যার কি বলা হয়?",
+        "solution": "পৌনে",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695260,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695260,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695260,
+            "tag_id": 5,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695261,
+      "value": {
+        "options": {
+          "ক": "প্রায়",
+          "খ": "অভাব",
+          "গ": "অর্ধেক",
+          "ঘ": "সামান্য"
+        },
+        "question": "নিমরাজি' শব্দের 'নিম' উপসর্গটি কী অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "‘নিম’ উপসর্গটি ‘অর্ধেক’ বা ‘আংশিক’ অর্থ বোঝাতে ব্যবহৃত হয়, যেমন ‘নিমরাজি’।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695261,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695261,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695261,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695262,
+      "value": {
+        "options": {
+          "ক": "সুনির্দিষ্ট",
+          "খ": "নির্দিষ্ট",
+          "গ": "অনির্দিষ্ট",
+          "ঘ": "নিরর্থক"
+        },
+        "question": "নির্দেশক সর্বনামের পর টা, টি যুক্ত হলে তা কী হয়ে যায়?",
+        "solution": "সুনির্দিষ্ট",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695262,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695262,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695262,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695262,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695262,
+            "tag_id": 5,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695262,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695263,
+      "value": {
+        "options": {
+          "ক": "অল্প",
+          "খ": "প্রায়",
+          "গ": "অর্ধেক",
+          "ঘ": "সম্পূর্ণ"
+        },
+        "question": "নিমরাজি' শব্দের 'নিম' উপসর্গটি কোন অর্থদ্যোতক?",
+        "solution": "নিম' উপসর্গ ‘অর্ধেক’ বা ‘আংশিক’ অর্থ প্রকাশ করে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695263,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695263,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695263,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695264,
+      "value": {
+        "options": {
+          "ক": "স-",
+          "খ": "সম্-",
+          "গ": "অধি-",
+          "ঘ": "অভি-"
+        },
+        "question": "সম্পূর্ণ' অর্থে কোন উপসর্গটি ব্যবহৃত হয়?",
+        "solution": "স-' উপসর্গ সম্পূর্ণতা বোঝায়, যেমন: ‘সম্পূর্ণ’, ‘সর্বগ্রাসী’।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695264,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695264,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695265,
+      "value": {
+        "options": {
+          "ক": "অনুকম্পা",
+          "খ": "অনুশীলন",
+          "গ": "অনুকার",
+          "ঘ": "অনুশোচনা"
+        },
+        "question": "‘সঙ্গে' অর্থে ‘অনু' উপসর্গটি ব্যবহৃত হয়েছে কোন শব্দে?",
+        "solution": "অনুকম্পা",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695265,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695265,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695265,
+            "tag_id": 4,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695266,
+      "value": {
+        "options": {
+          "ক": "প্রতিদিন",
+          "খ": "প্রতিহিংসা",
+          "গ": "প্রতিযোগিতা",
+          "ঘ": "প্রতিবিম্ব"
+        },
+        "question": "নিচের কোন শব্দে পালটা অর্থে 'প্রতি' উপসর্গটি ব্যবহৃত হয়েছে?",
+        "solution": "প্রতিহিংসা' অর্থ পালটা হিংসা বা প্রতিশোধ — এখানে ‘প্রতি’ উপসর্গ পালটা অর্থে ব্যবহৃত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695266,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695266,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695267,
+      "value": {
+        "options": {
+          "ক": "হেড",
+          "খ": "কার",
+          "গ": "হর",
+          "ঘ": "হের"
+        },
+        "question": "উর্দু-হিন্দি উপসর্গ নিচের কোনটি?",
+        "solution": "উর্দু – হিন্দি উপসর্গ:- ‘হর' প্রত্যেক অর্থে – - হররোজ, হরমাহিনা।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695267,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695267,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695267,
+            "tag_id": 3,
+            "year": "2020",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695268,
+      "value": {
+        "options": {
+          "ক": "উত্তম",
+          "খ": "সম্যক",
+          "গ": "অধিক",
+          "ঘ": "ঈষৎ"
+        },
+        "question": "অভিজাত' উপসর্গযোগে গঠিত শব্দে 'অভি' উপসর্গটিতে কী অর্থ প্রকাশ পেয়েছে?",
+        "solution": "‘অভি’ উপসর্গ এখানে শ্রেষ্ঠতা বা উৎকর্ষ বোঝাতে ব্যবহৃত হয়েছে — অর্থাৎ 'উত্তম'।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695268,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695268,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695268,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695270,
+      "value": {
+        "options": {
+          "ক": "মন্দ",
+          "খ": "বিকৃত",
+          "গ": "বাজে",
+          "ঘ": "নিন্দনীয়"
+        },
+        "question": "অপসংস্কৃতি' শব্দের 'অপ' উপসর্গটি কী অর্থ প্রকাশ করে?",
+        "solution": "অপ' উপসর্গ সাধারণত বিকৃত বা নিকৃষ্ট অর্থে ব্যবহৃত হয়। ‘অপসংস্কৃতি’ মানে বিকৃত সংস্কৃতি।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695270,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695270,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695270,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695269,
+      "value": {
+        "options": {
+          "ক": "আরবি",
+          "খ": "ফারসি",
+          "গ": "হিন্দি",
+          "ঘ": "ইংরেজি"
+        },
+        "question": "‘খাসমহলে' শব্দের 'খাস' কোন ধরনের উপসর্গ?",
+        "solution": "আরবি উপসর্গ: আম্‌, খাস, লা, গর্ ।\n\nপরপদে রাজি, গ্রাম, বৃন্দ, গণ, যূথী ইত্যাদি সমষ্টিবাচক",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695269,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695269,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695269,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695269,
+            "tag_id": 3626,
+            "year": "2019",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        },
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695269,
+            "tag_id": 3585,
+            "year": "2019",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695280,
+      "value": {
+        "options": {
+          "ক": "প্রায়",
+          "খ": "তুল্য",
+          "গ": "অর্ধেক",
+          "ঘ": "অল্প"
+        },
+        "question": "' নিমথুন' শব্দের 'নিম' উপসর্গ কী অর্থে ব্যবহৃত হয়?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "A.প্রায়"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695280,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695280,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695280,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695278,
+      "value": {
+        "options": {
+          "ক": "প্রগতি",
+          "খ": "পরাজয়",
+          "গ": "আরক্ত",
+          "ঘ": "হাভাত"
+        },
+        "question": "'অভাব' অর্থ প্রকাশ করেছে কোন উপসর্গযুক্ত শব্দটি?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "D.হাভাত"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695278,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695278,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695278,
+            "tag_id": 4,
+            "year": "2024",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695277,
+      "value": {
+        "options": {
+          "ক": "বাংলা",
+          "খ": "তৎসম",
+          "গ": "ফারসি",
+          "ঘ": "হিন্দি"
+        },
+        "question": "‘আমি অবেলাতে দিলাম পাড়ি অথৈ সাগরে' এখানে ‘অবেলা’শব্দের ‘অ' কোন উপসর্গ?",
+        "solution": "বাংলা, উপসর্গ মোট একুশটি। যেমন: অ, অঘা, অজ, অনা, আ, আড়, আন, আব, ইতি, ঊন, কদ্, কু, নি, পাতি, বি, ভর, রাম, স, সা, সু, হা ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695277,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695277,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695277,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695276,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গ",
+          "খ": "উপসর্গ",
+          "গ": "বিভক্তি",
+          "ঘ": "প্রত্যয়"
+        },
+        "question": "অর্থ নেই, কিন্তু অর্থের দ্যোতনা তৈরি করে-",
+        "solution": "উপসর্গ এমন কতগুলো বর্ণ বা বর্ণ সমষ্টি যাদের নিজস্ব কোন অর্থ নেই কিন্তু অন্য শব্দের পূর্বে বসে নতুন শব্দ তৈরি করে এবং অর্থের পরিবর্তন ঘটায়। তাই বলা হয় উপসর্গের অর্থ বাচকতা নেই কিন্তু অর্থ দ্যোতনা তৈরি করে।",
+        "explanation": "",
+        "correct_answer": "B.উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695276,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695276,
+            "tag_id": 47,
+            "year": "2024",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695275,
+      "value": {
+        "options": {
+          "ক": "কয়েকটি",
+          "খ": "অর্ধশত",
+          "গ": "অর্ধশতাধিক",
+          "ঘ": "শতাধিক"
+        },
+        "question": "বাংলা ভাষায় কতগুলো উপসর্গ রয়েছে?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "C.অর্ধশতাধিক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695275,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695275,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695275,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695274,
+      "value": {
+        "options": {
+          "ক": "আধিক্য",
+          "খ": "সতর্কতা",
+          "গ": "কালের বিস্তার",
+          "ঘ": "ভাবের প্রগাঢ়তা"
+        },
+        "question": "লোকটা হাড়ে হাড়ে শয়তান বাক্যটির ‘হাড়ে হাড়ে’ দিরুক্তিটি কোন বিশিষ্টার্থক বাগ্ধারায় ব্যবহৃত হয়েছে?",
+        "solution": "আধিক্য",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695274,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695274,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695274,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695274,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695274,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695274,
+            "tag_id": 7,
+            "year": "2015",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695273,
+      "value": {
+        "options": {
+          "ক": "প্রত্যয়",
+          "খ": "সমাস",
+          "গ": "সন্ধি",
+          "ঘ": "উপসর্গ"
+        },
+        "question": "যেসব অর্থহীন শব্দাংশ অন্য শব্দের শুরুতে বসে নতুন শব্দ গঠন করে, সেগুলোকে কী বলে?",
+        "solution": "' উপসর্গ' কথাটির মূল অর্থ 'উপসৃষ্ট'। \"যেসব অর্থহীন অব্যয় পদ নামবাচক বা কৃদান্ত শব্দের পূর্বে যুক্ত হয়ে নতুন শব্দ গঠন করে এবং অর্থের পরির্বতন সাধন করে, এগুলোকে উপসর্গ বলে।\"",
+        "explanation": "",
+        "correct_answer": "D.উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695273,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695273,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695273,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695272,
+      "value": {
+        "options": {
+          "ক": "অলুক তৎপুরুষ",
+          "খ": "ষষ্ঠী তৎপুরুষ",
+          "গ": "অলুক বহুব্রীহি",
+          "ঘ": "মধ্যপদলোপী বহুব্রীহি"
+        },
+        "question": "পরপদে রাজি, গ্রাম, বৃন্দ, গণ, যূথী ইত্যাদি সমষ্টিবাচক শব্দ থাকলে কোন সমাস হয়?",
+        "solution": "ষষ্ঠী তৎপুরুষ",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695272,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695272,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695272,
+            "tag_id": 3626,
+            "year": "2019",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695271,
+      "value": {
+        "options": {
+          "ক": "অপকর্ম",
+          "খ": "অনাসৃষ্টি",
+          "গ": "অকাজ",
+          "ঘ": "অপসংস্কৃতি"
+        },
+        "question": "বিকৃত অর্থ প্রকাশ করছে কোন উপসর্গ যুক্ত শব্দটি?",
+        "solution": "‘অপসংস্কৃতি’ শব্দটি বিকৃত বা নিকৃষ্ট সংস্কৃতির অর্থ প্রকাশ করে, যেখানে ‘অপ’ উপসর্গ ব্যবহৃত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695271,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695271,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695271,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T06:52:31.000000Z",
+            "updated_at": "2025-10-09T06:52:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718925,
+      "value": {
+        "options": {
+          "ক": "অনুকম্পা",
+          "খ": "অনুশীলন",
+          "গ": "অনুকার",
+          "ঘ": "অনুশোচনা"
+        },
+        "question": "'সঙ্গে' অর্থে 'অনু' উপসর্গটি ব্যবহৃত। হয়েছে কোন শব্দে?",
+        "solution": "ক. অনুকম্পা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718921,
+      "value": {
+        "options": {
+          "ক": "বর্ণ সংস্করণ",
+          "খ": "যতি সংস্থাপন",
+          "গ": "নতুন অর্থবোধক শব্দ গঠন",
+          "ঘ": "ভাবের পার্থক্য নিরূপণ"
+        },
+        "question": "উপসর্গের কাজ কী?",
+        "solution": "গ. নতুন অর্থবোধক শব্দ গঠন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 718921,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718917,
+      "value": {
+        "options": {
+          "ক": "শতাধিক",
+          "খ": "অর্ধশতাধিক",
+          "গ": "সহস্রাধিক&nbsp;",
+          "ঘ": "অর্ধসহস্রাধিক"
+        },
+        "question": "বাংলা ভাষায় উপসর্গের সংখ্যা কতটি?",
+        "solution": "খ. অর্ধশতাধিক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 718917,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718914,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গ",
+          "খ": "উপসর্গ",
+          "গ": "বিভক্তি",
+          "ঘ": "প্রত্যয়"
+        },
+        "question": "অর্থ নেই, কিন্তু অর্থের দ্যোতনা তৈরি করে-&nbsp;",
+        "solution": "খ. উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 718914,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718910,
+      "value": {
+        "options": {
+          "ক": "প্রত্যয়",
+          "খ": "সমাস",
+          "গ": "সন্ধি",
+          "ঘ": "উপসর্গ"
+        },
+        "question": "যেসব অর্থহীন শব্দাংশ অন্য শব্দের শুরুতে বসে নতুন শব্দ গঠন করে, সেগুলোকে কী বলে?&nbsp;",
+        "solution": "ঘ. উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 718910,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718909,
+      "value": {
+        "options": {
+          "ক": "উৎকৃষ্ট",
+          "খ": "আকৃষ্ট",
+          "গ": "নিকৃষ্ট/মন্দ",
+          "ঘ": "বিশিষ্ট"
+        },
+        "question": "'অপকর্ম' শব্দে 'অপ' উপসর্গটি কী অর্থ প্রকাশ করে?",
+        "solution": "গ. নিকৃষ্ট/মন্দ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718906,
+      "value": {
+        "options": {
+          "ক": "সংস্কৃত",
+          "খ": "ফারসি",
+          "গ": "বাংলা",
+          "ঘ": "হিন্দি"
+        },
+        "question": "'অনুজ' শব্দের 'অনু' উপসর্গটি কোন ভাষার?",
+        "solution": "ক. সংস্কৃত"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 718906,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718903,
+      "value": {
+        "options": {
+          "ক": "অল্প",
+          "খ": "অনুচিত",
+          "গ": "বৃহৎ",
+          "ঘ": "মধ্যে"
+        },
+        "question": "'অ' উপসর্গযোগে গঠিত 'অকাজ' শব্দটি কী&nbsp;দ্যোতনা প্রকাশ করে?",
+        "solution": "খ. অনুচিত"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718900,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গ",
+          "খ": "কর্মপ্রবচনীয়",
+          "গ": "উপসর্গ",
+          "ঘ": "প্রত্যয়"
+        },
+        "question": "শব্দের আদিতে বসে শব্দের অর্থের পরিবর্তন সাধন করে-",
+        "solution": "গ. উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718899,
+      "value": {
+        "options": {
+          "ক": "দুই প্রকার",
+          "খ": "তিন প্রকার",
+          "গ": "চার প্রকার",
+          "ঘ": "পাঁচ প্রকার"
+        },
+        "question": "উপসর্গ কত প্রকার?",
+        "solution": "খ. তিন প্রকার"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718895,
+      "value": {
+        "options": {
+          "ক": "শব্দবিভক্তি",
+          "খ": "ক্রিয়াবিভক্তি",
+          "গ": "উপসর্গ",
+          "ঘ": "অনুসর্গ"
+        },
+        "question": "কোনটির অর্থবাচকতা নেই কিন্তু অর্থদ্যোতকতা&nbsp;আছে?",
+        "solution": "গ. উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3891,
+          "full_name": "রা. বো.'২০১৭",
+          "short_name": "রা. বো.'২০১৭",
+          "slug": "ra-bo2017",
+          "pivot": {
+            "question_bank_id": 718895,
+            "tag_id": 3891,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718894,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গের",
+          "খ": "বিভক্তির",
+          "গ": "উপসর্গের",
+          "ঘ": "পদাশ্রিত অব্যয়ের"
+        },
+        "question": "\"নিজস্ব কোনো অর্থবাচকতা না থাকলেও,নতুন শব্দ সৃজনের ক্ষমতা আছে\"-কোনটির?",
+        "solution": "গ. উপসর্গের"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718890,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গ",
+          "খ": "উপসর্গ",
+          "গ": "প্রত্যয়&nbsp;",
+          "ঘ": "বিভক্তি&nbsp;"
+        },
+        "question": "শব্দের আগে বসে কোনটি?",
+        "solution": "খ. উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3806,
+          "full_name": "সি. বো.'২০১৭",
+          "short_name": "সি. বো.'২০১৭",
+          "slug": "si-bo2017",
+          "pivot": {
+            "question_bank_id": 718890,
+            "tag_id": 3806,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718887,
+      "value": {
+        "options": {
+          "ক": "সন্ধি",
+          "খ": "বিভক্তি",
+          "গ": "প্রত্যয়",
+          "ঘ": "উপসর্গ"
+        },
+        "question": "যে বর্ণ বা বর্ণসমষ্টি ধাতু বা শব্দের পূর্বে। যুক্ত হয়ে নতুন শব্দ গঠন করে তাকে বলে-",
+        "solution": "ঘ. উপসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13163&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13163&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13163&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 60,
+  "total": 60
+}

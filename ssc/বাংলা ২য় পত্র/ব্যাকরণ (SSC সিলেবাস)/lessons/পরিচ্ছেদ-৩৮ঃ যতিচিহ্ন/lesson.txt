@@ -1,0 +1,1325 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 696079,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "সেমিকোলন",
+          "গ": "হাইফেন",
+          "ঘ": "কোলন"
+        },
+        "question": "একই ধরনের বর্গকে পাশাপাশি সাজাতে কোন যতিচিহ্ন বসে?",
+        "solution": "সেমিকোলন একই প্রকার ধারণার একাধিক পদ বা অংশকে পৃথক রাখতে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696079,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696079,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 696079,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696080,
+      "value": {
+        "options": {
+          "ক": "ড্যাশ",
+          "খ": "কোলন",
+          "গ": "হাইফেন",
+          "ঘ": "সেমিকোলন"
+        },
+        "question": "বাক্যের মধ্যকার একাধিক পদকে সংযুক্ত করতে কী ব্যবহৃত হয়?",
+        "solution": "একাধিক পদকে যুক্ত করতে হাইফেন ব্যবহার করা হয়, যেমন: শিক্ষক-ছাত্র সম্পর্ক।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696080,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696080,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 696080,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696081,
+      "value": {
+        "options": {
+          "ক": "উদ্ধারচিহ্ন",
+          "খ": "বন্ধনীচিহ্ন",
+          "গ": "সেমিকোলন",
+          "ঘ": "হাইফেন"
+        },
+        "question": "প্রত্যক্ষ উক্তি লেখার সময়ে ব্যবহৃত যতিচিহ্ন কোনটি?",
+        "solution": "প্রত্যক্ষ উক্তি বোঝাতে ‘উদ্ধরণ চিহ্ন’ ব্যবহার করা হয়, যেমন: “আমি যাচ্ছি।”",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696081,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 696081,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696082,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "দাঁড়ি",
+          "গ": "সেমিকোলন",
+          "ঘ": "কোলন"
+        },
+        "question": "শব্দ, বর্গ ও অধীন বাক্যকে আলাদা করতে ব্যবহৃত হয় –",
+        "solution": "ব্যাকরণে এবং রচনায় একাধিক শব্দ, বর্গ বা বাক্যাংশ আলাদা করে বোঝাতে কমা ব্যবহৃত হয়। যেমন: ‘আমি বই, খাতা, কলম এনেছি।’ এখানে প্রত্যেকটি উপাদান কমা দ্বারা আলাদা করা হয়েছে।",
+        "explanation": "",
+        "correct_answer": "A. কমা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696082,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 696082,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696083,
+      "value": {
+        "options": {
+          "ক": "হাইফেন",
+          "খ": "বন্ধনী",
+          "গ": "ত্রিবিন্দু",
+          "ঘ": "কোলন"
+        },
+        "question": "অতিরিক্ত তথ্য উপস্থাপন ও কাল-নির্দেশের ক্ষেত্রে কোন বিরাম চিহ্ন ব্যবহার করা হয়?",
+        "solution": "বন্ধনীচিহ্ন সাধারণত বাক্যে অতিরিক্ত ব্যাখ্যা, উৎস বা সময় নির্দেশ করতে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696083,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696083,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 696083,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696084,
+      "value": {
+        "options": {
+          "ক": "কোলন",
+          "খ": "উদ্ধৃতিচিহ্ন",
+          "গ": "বন্ধনী",
+          "ঘ": "বিকল্প চিহ্ন"
+        },
+        "question": "অতিরিক্ত তথ্য উপস্থাপন ও কাল নির্দেশের ক্ষেত্রে কোন যতিচিহ্নের ব্যবহার হয়?",
+        "solution": "বন্ধনীর মাধ্যমে লেখায় অতিরিক্ত ব্যাখ্যা, উৎস বা সময়কাল নির্দেশ করা হয়। এটি মূল বাক্যের বাইরে থাকা তথ্য উপস্থাপন করে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696084,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696084,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 696084,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696085,
+      "value": {
+        "options": {
+          "ক": "ড্যাশ",
+          "খ": "কোলন",
+          "গ": "হাইফেন",
+          "ঘ": "সেমিকোলন"
+        },
+        "question": "উদাহরণ উপস্থাপনের কাজে কোন যতিচিহ্নির ব্যবহার হয়?",
+        "solution": "কোলন (:) চিহ্ন সাধারণত উদাহরণ, ব্যাখ্যা বা পরবর্তী তালিকা বোঝাতে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696085,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696085,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 696085,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696086,
+      "value": {
+        "options": {
+          "ক": "কোলন",
+          "খ": "সেমিকোলন",
+          "গ": "ড্যাশ",
+          "ঘ": "কমা"
+        },
+        "question": "সাধারণত দুটি বাক্যকে এক বাক্যে পরিণত করার কাজে কোন যতিচিহ্ন বসে?",
+        "solution": "দুটি পৃথক অথচ সম্পর্কযুক্ত বাক্যকে একত্রিত করতে ড্যাশ ব্যবহৃত হয়। এটি চিন্তার এক ধরণের বিরতি প্রকাশ করে এবং বাক্যের বিস্তৃতির জন্য উপযোগী।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696086,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696086,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 696086,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696087,
+      "value": {
+        "options": {
+          "ক": "দাঁড়ি",
+          "খ": "কমা",
+          "গ": "সেমিকোলন",
+          "ঘ": "কোলন"
+        },
+        "question": "শব্দ, বর্গ ও অধীন বাক্যকে আলাদা করতে ব্যবহৃত হয়-",
+        "solution": "কমা বা পাদচ্ছেদ (,)\nবাক্য পাঠকালে সুস্পষ্টতা বা অর্থ-বিভাগ দেখানোর জন্য যেখানে স্বল্প বিরতির প্রয়োজন, সেখানে কমা ব্যবহৃত হয়। যেমন— সুখ চাও, সুখ পাবে পরিশ্রমে। পরস্পর সম্পর্কযুক্ত একাধিক বিশেষ্য বা বিশেষণ পদ একসঙ্গে বসলে শেষ পদটি ছাড়া সবগুলোর পরই কমা বসবে।",
+        "explanation": "",
+        "correct_answer": "B.কমা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 696087,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 696087,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696088,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "কোলন",
+          "গ": "ড্যাশ",
+          "ঘ": "হাইফেন"
+        },
+        "question": "বাক্যের মধ্যকার একাধিক পদকে সংযুক্ত করতে কোন যতিচিহ্নের ব্যবহার হয়?",
+        "solution": "হাইফেন চিহ্ন দিয়ে পাশাপাশি দুই বা ততোধিক শব্দকে জোড়া লাগানো হয়। যেমন : উত্তর-পশ্চিম কোণে ঝড়ের কালো মেঘ দেখা যাচ্ছে। ২. সমাসবদ্ধ পদের সব সমস্যমান পদের অর্থ প্রাধান্য পেলে, তাদের মধ্যে হাইফেন বসে।",
+        "explanation": "",
+        "correct_answer": "D.হাইফেন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 696088,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 696088,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 696088,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696088,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696088,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 696088,
+            "tag_id": 3,
+            "year": "2024",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        },
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 696088,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 696088,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 696078,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "সেমিকোলন",
+          "গ": "হাইফেন",
+          "ঘ": "কোলন"
+        },
+        "question": "কোনটি সামান্য বিরতি নির্দেশ করে?",
+        "solution": "লেখার সময় সামান্য বিরতির জন্য কমা ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:35:13.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 696078,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 696078,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 696078,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T08:35:13.000000Z",
+            "updated_at": "2025-10-09T08:35:13.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718572,
+      "value": {
+        "options": {
+          "ক": "১ বলতে যে সময় প্রয়োজন",
+          "খ": "১ সেকেন্ড",
+          "গ": "থামার প্রয়োজন নেই",
+          "ঘ": "১ বলার দ্বিগুণ সময়"
+        },
+        "question": "হাইফেনে (-) কতটুকু সময় থামতে হয়?",
+        "solution": "গ. থামার প্রয়োজন নেই"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718569,
+      "value": {
+        "options": {
+          "ক": "বাক্য সংকোচনের জন্য.",
+          "খ": "বাক্যের অর্থ স্পষ্টকরণের জন্য",
+          "গ": "বাক্যের সৌন্দর্যের জন্য",
+          "ঘ": "বাক্যকে অলঙ্কৃত করার জন্য"
+        },
+        "question": "বিরামচিহ্ন ব্যবহৃত হয়-&nbsp;",
+        "solution": "খ. বাক্যের অর্থ স্পষ্টকরণের জন্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718567,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "হাইফেন/ইলেক",
+          "গ": "উদ্ধরণ চিহ্ন",
+          "ঘ": "কোলন"
+        },
+        "question": "বাক্যে কোন যতিচিহ্নের প্রয়োগে থামার প্রয়োজন নেই?",
+        "solution": "খ. হাইফেন/ইলেক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 718567,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718566,
+      "value": {
+        "options": {
+          "ক": "৯টি",
+          "খ": "১০টি",
+          "গ": "১১টি",
+          "ঘ": "১৩টি"
+        },
+        "question": "বাংলা ভাষায় প্রচলিত যতিচিহ্নের সংখ্যা মোট-",
+        "solution": "ঘ. ১৩টি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718564,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "সেমিকোলন",
+          "গ": "কোলন",
+          "ঘ": "হাইফেন"
+        },
+        "question": "শব্দ, বর্গ ও অধীন বাক্যকে আলাদা করতে। কোন বিরামচিহ্ন বসে",
+        "solution": "ক. কমা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3801,
+          "full_name": "কু. বো.'২০২৪",
+          "short_name": "কু. বো.'২০২৪",
+          "slug": "ku-bo2024",
+          "pivot": {
+            "question_bank_id": 718564,
+            "tag_id": 3801,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718562,
+      "value": {
+        "options": {
+          "ক": "দাঁড়ি",
+          "খ": "হাইফেন",
+          "গ": "ছেদ/যতি/বিরাম",
+          "ঘ": "উদাহরণ চিহ্ন"
+        },
+        "question": "লেখার সময় বাক্যের মধ্যে বিরতি দেখানোর জন্য যেসব চিহ্নের ব্যবহার করা হয়, সেগুলোকে বলে-",
+        "solution": "গ. ছেদ/যতি/বিরাম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718560,
+      "value": {
+        "options": {
+          "ক": "ড্যাশ",
+          "খ": "হাইফেন",
+          "গ": "কোলন",
+          "ঘ": "সেমিকোলন"
+        },
+        "question": "বাক্যের মধ্যকার একাধিক পদকে সংযুক্ত&nbsp;করতে কোন যতিচিহ্ন ব্যবহৃত হয়?",
+        "solution": "খ. হাইফেন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 718560,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718558,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "দাঁড়ি",
+          "গ": "সেমিকোলন",
+          "ঘ": "হাইফেন&nbsp;"
+        },
+        "question": "বাক্যের মধ্যকার একাধিক শব্দকে সংযুক্ত&nbsp;করতে কোন যতিচিহ্ন ব্যবহৃত হয়?",
+        "solution": "ঘ. হাইফেন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 718558,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718557,
+      "value": {
+        "options": {
+          "ক": "কোলন",
+          "খ": "ড্যাস",
+          "গ": "কোলন ড্যাস",
+          "ঘ": "হাইফেন"
+        },
+        "question": "সমার্থক ও বিপরীতার্থক শব্দের মধ্যে যে চিহ্ন বসে-",
+        "solution": "ঘ. হাইফেন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718555,
+      "value": {
+        "options": {
+          "ক": "কমা",
+          "খ": "কমা",
+          "গ": "সেমিকোলন",
+          "ঘ": "দাঁড়ি বা পূর্ণচ্ছেদ"
+        },
+        "question": "বাক্যের পরিসমাপ্তি বোঝাতে ব্যবহৃত হয়-",
+        "solution": "ঘ. দাঁড়ি বা পূর্ণচ্ছেদ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718552,
+      "value": {
+        "options": {
+          "ক": "সেমিকোলন",
+          "খ": "হাইফেন",
+          "গ": "ড্যাস",
+          "ঘ": "কমা"
+        },
+        "question": "বাক্য পাঠকালে সুস্পষ্টতা বা&nbsp;&nbsp;অর্থ-বিভাগ&nbsp;দেখানোর জন্য যেখানে স্বল্প বিরতির&nbsp;প্রয়োজন&nbsp;সেখানে কোন বিরামচিহ্ন ব্যবহৃত হয়?",
+        "solution": "ঘ. কমা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 718552,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13191&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13191&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13191&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

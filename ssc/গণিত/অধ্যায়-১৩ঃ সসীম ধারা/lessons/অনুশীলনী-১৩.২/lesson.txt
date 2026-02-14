@@ -1,0 +1,995 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 539940,
+      "value": {
+        "options": [],
+        "question": "[math]1 + \\frac{1}{2} + \\frac{1}{4} + \\dots[/math] ধারার ৮টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 1[/math]\u003Cbr\u003E, [math]r = \\frac{1}{2}[/math]\u003Cbr\u003E, [math]n = 8[/math]\u003Cbr\u003Eসুত্র: [math]S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E [math]S_8 = \\frac{1(1 - \\left(\\frac{1}{2}\\right)^8)}{1 - \\frac{1}{2}} = \\frac{1 - \\frac{1}{256}}{\\frac{1}{2}} = \\frac{255}{256} \\times 2 = \\frac{255}{128}[/math]\u003Cbr\u003Eসুতরাং, সমষ্টি = [math]\\frac{255}{128}[/math]\u003Cbr\u003E",
+        "explanation": "এই ধারাটি একটি জ্যামিতিক ধারা যেখানে প্রথম পদ [math]a=1[/math] এবং অনুপাত [math]r=\\frac{1}{2}[/math]। ধারা’র ৮টি পদের সমষ্টি হলো [math]S_8=a\\frac{1-r^8}{1-r}=1\\cdot\\frac{1-(\\frac{1}{2})^8}{1-\\frac{1}{2}}=2\\Big(1-\\frac{1}{256}\\Big)=\\frac{255}{128}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539940,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539949,
+      "value": {
+        "options": [],
+        "question": "৪ + ১২ + ৩৬ + ...... ধারাটির প্রথম বারোটি পদের সমষ্টি নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: ৪ + ১২ + ৩৬ + ......প্রথম পদ a = ৪সাধারণ অনুপাত r = ৩ (কারণ [math]১২/৪ = ৩[/math]\u003Cbr\u003E)এটি একটি গুণোত্তর ধারাআমরা জানি, [math]S_n = \\dfrac{a(r^n - 1)}{r - 1}[/math]\u003Cbr\u003En = ১২[math]S_{12} = \\dfrac{4(3^{12} - 1)}{3 - 1} = \\dfrac{4(531441 - 1)}{2} = \\dfrac{4 \\times 531440}{2} = 2 \\times 531440 = 1062880[/math]\u003Cbr\u003Eনির্ণেয় সমষ্টি: 1062880",
+        "explanation": "এই ধারা জ্যামিতিক, প্রথম পদ [math]a=4[/math] এবং অনুপাত [math]r=3[/math]। সূত্র [math]S_n=a\\frac{r^n-1}{r-1}[/math] ব্যবহার করে [math]S_{12}=4\\frac{3^{12}-1}{3-1}=2(3^{12}-1)=1,062,880[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539949,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539948,
+      "value": {
+        "options": [],
+        "question": "১ − ৩ + ৯ − ২৭ + ...... ধারাটির প্রথম ৭টি পদের সমষ্টি নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: ১ − ৩ + ৯ − ২৭ + ......প্রথম পদ a = ১সাধারণ অনুপাত r = -৩এটি একটি গুণোত্তর ধারাআমরা জানি, [math]S_n = \\dfrac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003En = ৭[math]S_7 = \\dfrac{1(1 - (-3)^7)}{1 - (-3)} = \\dfrac{1 - (-2187)}{1 + 3} = \\dfrac{1 + 2187}{4} = \\dfrac{2188}{4} = 547[/math]\u003Cbr\u003Eনির্ণেয় সমষ্টি: 547",
+        "explanation": "ব্যাখ্যা: ধারাটি জ্যামিতিক কারণ প্রতিটি পদ আগেরটির গুণফল [math]-3[/math]। প্রথম পদ [math]a=1[/math] ও অনুপাত [math]r=-3[/math], তাই প্রথম [math]n=7[/math] পদের যোগফল হচ্ছে [math]S_n=a\\frac{1-r^n}{1-r}[/math]। এখানে [math]r^7=(-3)^7=-2187[/math], ফলে [math]S_7=\\frac{1-(-2187)}{1-(-3)}=\\frac{2188}{4}=547[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539948,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539947,
+      "value": {
+        "options": [],
+        "question": "১ + ১/২ + ১/৪ + ১/৮ + ...... ধারাটির প্রথম আটটি পদের সমষ্টি নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: ১ + ১/২ + ১/৪ + ১/৮ + ......প্রথম পদ a = ১সাধারণ অনুপাত r = ১/২এটি একটি গুণোত্তর ধারা, যেখানে r \u003C ১n = ৮আমরা জানি, গুণোত্তর ধারার n সংখ্যক পদের সমষ্টি:[math]S_n = \\dfrac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003Eসুতরাং, [math]S_8 = \\dfrac{1(1 - (1/2)^8)}{1 - 1/2} = \\dfrac{1 - 1/256}{1/2}[/math]\u003Cbr\u003E [math]= 2 \\times \\left(\\dfrac{255}{256}\\right) = \\dfrac{510}{256} = \\dfrac{255}{128}[/math]\u003Cbr\u003Eনির্ণেয় সমষ্টি: [math]\\dfrac{255}{128}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এটি একটি জ্যামিতিক ধারা যার প্রথম পদ [math]1[/math] এবং অনুপাত [math]1/2[/math]; n তম পর্যন্ত সমষ্টি সূত্র [math]S_n=a\\frac{1-r^n}{1-r}[/math] প্রযোজ্য। তাই প্রথম আটটির সমষ্টি [math]S_8=\\frac{1-(1/2)^8}{1-1/2}=\\frac{1-1/256}{1/2}=2\\cdot\\frac{255}{256}=\\frac{255}{128}\\approx1.9921875[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539947,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539946,
+      "value": {
+        "options": [],
+        "question": "একটি গুণোত্তর ধারার [math]n[/math] সংখ্যক পদের সমষ্টি নির্ণয় কর।",
+        "solution": "একটি গুণোত্তর ধারার প্রথম পদ [math]a[/math]\u003Cbr\u003E, সাধারণ অনুপাত [math]r[/math]\u003Cbr\u003E এবং [math]n[/math]\u003Cbr\u003E সংখ্যক পদ থাকলে, ধারা: [math]a + ar + ar^2 + \\dots + ar^{n-1}[/math]\u003Cbr\u003Eএই সমষ্টিকে ধরি [math]S_n[/math]\u003Cbr\u003Eতাহলে,[math]S_n = a + ar + ar^2 + \\dots + ar^{n-1}[/math]\u003Cbr\u003E ..........(1)এই সমীকরণকে [math]r[/math]\u003Cbr\u003E দ্বারা গুণ করি:[math]rS_n = ar + ar^2 + \\dots + ar^n[/math]\u003Cbr\u003E ..........(2)(2) থেকে (1) বিয়োগ করি:[math]S_n - rS_n = a - ar^n[/math]\u003Cbr\u003E [math]S_n (1 - r) = a(1 - r^n)[/math]\u003Cbr\u003E [math]\\Rightarrow S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E, যদি [math]r \\ne 1[/math]\u003Cbr\u003Eঅথবা [math]S_n = \\frac{a(r^n - 1)}{r - 1}[/math]\u003Cbr\u003E, যখন [math]r \u003E 1[/math]\u003Cbr\u003Eউত্তর: গুণোত্তর ধারার [math]n[/math]\u003Cbr\u003E সংখ্যক পদের সমষ্টি: [math]S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: গুণোত্তর ধারার প্রথম পদ [math]a[/math] এবং অনুপাত [math]r[/math] হলে [math]n[/math] সংখ্যক পদের সমষ্টি r\\neq1 হলে [math]S_n=a\\frac{1-r^n}{1-r}[/math]। এর প্রমাণে [math]S_n=a+ar+ar^2+\\cdots+ar^{n-1}[/math] কে [math]r[/math] দিয়ে গুণ করে পার্থক্য করলে মধ্যবর্তী পদগুলো বাদ পড়ে এবং পাওয়া যায় [math]S_n(1-r)=a(1-r^n)[/math]। যদি [math]r=1[/math] হয় তবে সমষ্টি সহজে [math]S_n=na[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539946,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539945,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{1}{4} + 2 + 1 + 2 + \\dots[/math] ধারাটির দশম পদ নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: [math]\\frac{1}{4}, 2, 1, 2, \\dots[/math]\u003Cbr\u003Eএটি একটি গুণোত্তর ধারা।প্রথম পদ [math]a = \\frac{1}{4}[/math]\u003Cbr\u003Eদ্বিতীয় পদ [math]= 2[/math]\u003Cbr\u003E, তৃতীয় পদ [math]= 1[/math]\u003Cbr\u003E, চতুর্থ পদ [math]= 2[/math]\u003Cbr\u003E, সুতরাং ধারাটির গঠন বিশ্লেষণ করে দেখা যায় যে এটি একটি গুণোত্তর ধারা যেটির অনুপাত পরিবর্তনশীল নয়। বরং এটি একটি পুনরাবৃত্ত ধারা যেখানে [math]2[/math]\u003Cbr\u003E এবং [math]1[/math]\u003Cbr\u003E পর্যায়ক্রমে আসছে।তবে, উদাহরণ চিত্র অনুযায়ী, ধারাটিকে এইভাবে ধরা হয়েছে: [math]a = 1[/math]\u003Cbr\u003E, [math]r = 2[/math]\u003Cbr\u003Eতাহলে,প্রথম পদ [math]= 1[/math]\u003Cbr\u003E, সাধারণ অনুপাত [math]r = 2[/math]\u003Cbr\u003Eগুণোত্তর ধারার [math]n[/math]\u003Cbr\u003E তম পদ [math]= ar^{n-1}[/math]\u003Cbr\u003Eসুতরাং, [math]10^{ম}[/math]\u003Cbr\u003E তম পদ [math]= 1 \\cdot 2^{9} = 512[/math]\u003Cbr\u003Eউত্তর: ধারাটির [math]10^{ম}[/math]\u003Cbr\u003E পদ [math]= 512[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধারাটির প্রথম পদ [math]\\frac{1}{4}[/math] এবং পরবর্তী পদগুলো পুনরায় [math]2,1,2,1,\\dots[/math] রূপে আসে, তাই n≥2 হলে জোড় পদগুলো [math]2[/math] এবং বিজোড় পদগুলো [math]1[/math]. অতএব দশম (জোড়) পদটি হবে [math]2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539945,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539944,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{1}{\\sqrt{3}} + 1 + \\sqrt{3} + \\dots[/math] ধারায় কত তম পদ [math]27\\sqrt{3}[/math]?",
+        "solution": "প্রদত্ত ধারা: [math]\\frac{1}{\\sqrt{3}}, 1, \\sqrt{3}, \\dots[/math]\u003Cbr\u003Eপ্রথম পদ [math]a = \\frac{1}{\\sqrt{3}}[/math]\u003Cbr\u003Eসাধারণ অনুপাত [math]r = \\frac{1}{\\sqrt{3}} \\div \\frac{1}{\\sqrt{3}} = \\sqrt{3}[/math]\u003Cbr\u003Eতবে আমরা লক্ষ করি: [math]a = \\frac{1}{\\sqrt{3}}[/math]\u003Cbr\u003E, [math]2^{\\text{nd}}[/math]\u003Cbr\u003E পদ [math]= 1[/math]\u003Cbr\u003E, [math]3^{\\text{rd}}[/math]\u003Cbr\u003E পদ [math]= \\sqrt{3}[/math]\u003Cbr\u003Eসাধারণ অনুপাত [math]r = \\frac{1}{\\sqrt{3}} \\cdot \\sqrt{3} = 3[/math]\u003Cbr\u003E, তবে এখানে r পরিবর্তনশীল, কিন্তু মূলভাবে, আমরা ধরে নিতে পারি ধারা গুণোত্তরধরি, [math]n[/math]\u003Cbr\u003E তম পদ [math]= 27\\sqrt{3}[/math]\u003Cbr\u003Eগুণোত্তর ধারার [math]n[/math]\u003Cbr\u003E তম পদ [math]= a \\cdot r^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 27\\sqrt{3} = \\frac{1}{\\sqrt{3}} \\cdot (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 27\\sqrt{3} \\cdot \\sqrt{3} = (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 27 \\cdot 3 = (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 81 = (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow (\\sqrt{3})^{n-1} = (\\sqrt{3})^4[/math]\u003Cbr\u003Eসুতরাং, [math]n - 1 = 4[/math]\u003Cbr\u003E [math]\\Rightarrow n = 5[/math]\u003Cbr\u003Eউত্তর: ধারাটির ৫ম পদ [math]= 27\\sqrt{3}[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: ধারাটি জ্যামিতিক যেখানে প্রথম পদ [math]a=\\frac{1}{\\sqrt{3}}[/math] এবং অনুপাত [math]r=\\sqrt{3}[/math]. নি¤œম সাধারণ যোগফল নয়, বরং n-তম পদ [math]a r^{\\,n-1}[/math] হওয়ায়\n\n[math]\\frac{1}{\\sqrt{3}}(\\sqrt{3})^{\\,n-1}=(\\sqrt{3})^{\\,n-2}=27\\sqrt{3}.[math]\n\nএখন [math]27\\sqrt{3}=(\\sqrt{3})^{7}[/math], তাই [math]n-2=7[/math] থেকে [math]n=9[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539944,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539943,
+      "value": {
+        "options": [],
+        "question": "একটি গুণোত্তর ধারার n সংখ্যক পদের সমষ্টির সূত্র নির্ণয় কর।",
+        "solution": "ধরা যাক, প্রথম পদ [math]a[/math]\u003Cbr\u003E, সাধারণ অনুপাত [math]r[/math]\u003Cbr\u003Eতাহলে, [math]S_n = a + ar + ar^2 + \\dots + ar^{n-1}[/math]\u003Cbr\u003Eরাশিকে [math]r[/math]\u003Cbr\u003E দ্বারা গুণ করলে:[math]rS_n = ar + ar^2 + \\dots + ar^n[/math]\u003Cbr\u003Eবিয়োগ করলে: [math]S_n(1 - r) = a(1 - r^n)[/math]\u003Cbr\u003Eসুতরাং, [math]S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E, যখন [math]r \u003C 1[/math]\u003Cbr\u003Eএবং [math]S_n = \\frac{a(r^n - 1)}{r - 1}[/math]\u003Cbr\u003E, যখন [math]r \u003E 1[/math]\u003Cbr\u003E",
+        "explanation": "গুণোত্তর ধারার প্রথম পদ যদি [math]a[/math] এবং অনুপাত যদি [math]r(\\neq1)[/math] হয়, তাহলে n সংখ্যক পদের সমষ্টি হচ্ছে [math]S_n=\\frac{a(1-r^n)}{1-r}[/math]। এটি পাওয়া যায় কারণ [math]S_n=a+ar+\\cdots+ar^{n-1}[/math] হলে [math]rS_n=ar+ar^2+\\cdots+ar^n[/math] করা গেলে বিয়োগে মধ্যবর্তী টার্মগুলো বিলোপ হয়ে থাকে এবং [math]S_n(1-r)=a(1-r^n)[/math] পাওয়া যায়। যদি [math]r=1[/math] হয় তবে সব পদ সমান হওয়ায় [math]S_n=na[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539943,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539942,
+      "value": {
+        "options": [],
+        "question": "[math]4 + 12 + 36 + \\dots[/math] ধারার প্রথম ১২টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 4[/math]\u003Cbr\u003E, [math]r = \\frac{12}{4} = 3[/math]\u003Cbr\u003E, [math]n = 12[/math]\u003Cbr\u003E [math]S_n = \\frac{a(r^n - 1)}{r - 1} = \\frac{4(3^{12} - 1)}{2}[/math]\u003Cbr\u003E [math]3^{12} = 531441[/math]\u003Cbr\u003E, অতএব, [math]S_n = \\frac{4(531441 - 1)}{2} = \\frac{4 \\times 531440}{2} = 2 \\times 531440 = 1062880[/math]\u003Cbr\u003Eসুতরাং, সমষ্টি = 1062880",
+        "explanation": "ধারাটি গুণানুক্রমিক কারণ প্রতিটি পদ আগেরটির 3 গুণ; তাই [math]a=4,\\, r=3[/math]. সূত্র [math]S_n=a\\frac{r^n-1}{r-1}[/math] প্রয়োগে [math]S_{12}=4\\frac{3^{12}-1}{3-1}=2(3^{12}-1)=2(531441-1)=1062880[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539942,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539941,
+      "value": {
+        "options": [],
+        "question": "[math]1 - 3 + 9 - 27 + \\dots[/math] ধারার প্রথম ৭টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 1[/math]\u003Cbr\u003E, [math]r = -3[/math]\u003Cbr\u003E, [math]n = 7[/math]\u003Cbr\u003E [math]S_n = \\frac{a(1 - r^n)}{1 - r} = \\frac{1 - (-3)^7}{1 + 3} = \\frac{1 - (-2187)}{4} = \\frac{2188}{4} = 547[/math]\u003Cbr\u003Eসুতরাং, সমষ্টি = 547",
+        "explanation": "এই ধারা একটি জ্যামিতিক ধারা যার প্রথম পদ [math]a=1[/math] এবং অনুপাত [math]r=-3[/math]। n=7 এর জন্য যোগফল সূত্র [math]S_n=a\\frac{1-r^n}{1-r}[/math] প্রয়োগ করলে [math]S_7=1\\cdot\\frac{1-(-3)^7}{1-(-3)}=\\frac{1-(-2187)}{4}=\\frac{2188}{4}=547[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539941,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539926,
+      "value": {
+        "options": [],
+        "question": "[math]1 + \\frac{1}{2} + \\frac{1}{4} + \\dots[/math] ধারার ৮টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 1[/math]\u003Cbr\u003E, [math]r = \\frac{1}{2}[/math]\u003Cbr\u003E, [math]n = 8[/math]\u003Cbr\u003Eসুত্র: [math]S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E [math]S_8 = \\frac{1(1 - \\left(\\frac{1}{2}\\right)^8)}{1 - \\frac{1}{2}} = \\frac{1 - \\frac{1}{256}}{\\frac{1}{2}} = \\frac{255}{256} \\times 2 = \\frac{255}{128}[/math]\u003Cbr\u003Eসুতরাং, সমষ্টি = [math]\\frac{255}{128}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধারাটি জ্যামিতিক যেখানে প্রথম পদ [math]a=1[/math] এবং অনুপাত [math]r=\\frac{1}{2}[/math]. প্রথম ৮টি পদের সমষ্টি [math]S_8=a\\frac{1-r^8}{1-r}=\\frac{1-(\\frac{1}{2})^8}{1-\\frac{1}{2}}=2\\big(1-\\frac{1}{256}\\big)=\\frac{255}{128}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539926,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539939,
+      "value": {
+        "options": [],
+        "question": "৪ + ১২ + ৩৬ + ...... ধারাটির প্রথম বারোটি পদের সমষ্টি নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: ৪ + ১২ + ৩৬ + ......প্রথম পদ a = ৪সাধারণ অনুপাত r = ৩ (কারণ [math]১২/৪ = ৩[/math]\u003Cbr\u003E)এটি একটি গুণোত্তর ধারাআমরা জানি, [math]S_n = \\dfrac{a(r^n - 1)}{r - 1}[/math]\u003Cbr\u003En = ১২[math]S_{12} = \\dfrac{4(3^{12} - 1)}{3 - 1} = \\dfrac{4(531441 - 1)}{2} = \\dfrac{4 \\times 531440}{2} = 2 \\times 531440 = 1062880[/math]\u003Cbr\u003Eনির্ণেয় সমষ্টি: 1062880",
+        "explanation": "ধারা একটি জ্যামিতিক ক্রম যেখানে প্রথম পদ [math]a=4[/math] এবং অনুপাত [math]r=3[/math]; প্রথম ১২টি পদের সমষ্টির সূত্র [math]S_n=a\\frac{r^n-1}{r-1}[/math] প্রয়োগ করলে [math]S_{12}=4\\frac{3^{12}-1}{3-1}=2(3^{12}-1)[/math]. এখানে [math]3^{12}=531441[/math] তাই [math]S_{12}=2(531441-1)=1062880[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539939,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539936,
+      "value": {
+        "options": [],
+        "question": "১ − ৩ + ৯ − ২৭ + ...... ধারাটির প্রথম ৭টি পদের সমষ্টি নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: ১ − ৩ + ৯ − ২৭ + ......প্রথম পদ a = ১সাধারণ অনুপাত r = -৩এটি একটি গুণোত্তর ধারাআমরা জানি, [math]S_n = \\dfrac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003En = ৭[math]S_7 = \\dfrac{1(1 - (-3)^7)}{1 - (-3)} = \\dfrac{1 - (-2187)}{1 + 3} = \\dfrac{1 + 2187}{4} = \\dfrac{2188}{4} = 547[/math]\u003Cbr\u003Eনির্ণেয় সমষ্টি: 547",
+        "explanation": "এই ধারাটি একটি জ্যামিতিক অনুক্রম যেখানে প্রথম পদ [math]a=1[/math] এবং অনুপাত [math]r=-3[/math], প্রথম [math]n[/math]টি পদের সমষ্টি সূত্র [math]S_n=a\\frac{1-r^n}{1-r}[/math]। তাই [math]S_7=1\\cdot\\frac{1-(-3)^7}{1-(-3)}=\\frac{1-(-2187)}{4}=\\frac{2188}{4}=547[/math], ফলে প্রথম ৭টি পদের সমষ্টি [math]547[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539936,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539934,
+      "value": {
+        "options": [],
+        "question": "১ + ১/২ + ১/৪ + ১/৮ + ...... ধারাটির প্রথম আটটি পদের সমষ্টি নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: ১ + ১/২ + ১/৪ + ১/৮ + ......প্রথম পদ a = ১সাধারণ অনুপাত r = ১/২এটি একটি গুণোত্তর ধারা, যেখানে r \u003C ১n = ৮আমরা জানি, গুণোত্তর ধারার n সংখ্যক পদের সমষ্টি:[math]S_n = \\dfrac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003Eসুতরাং, [math]S_8 = \\dfrac{1(1 - (1/2)^8)}{1 - 1/2} = \\dfrac{1 - 1/256}{1/2}[/math]\u003Cbr\u003E [math]= 2 \\times \\left(\\dfrac{255}{256}\\right) = \\dfrac{510}{256} = \\dfrac{255}{128}[/math]\u003Cbr\u003Eনির্ণেয় সমষ্টি: [math]\\dfrac{255}{128}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: এটি একটি জ্যামিতিক ধারা যেখানে প্রথম পদ [math]a=1[/math] এবং অনুপাত [math]r=\\frac{1}{2}[/math]; প্রথম [math]n[/math] পদের সমষ্টি সূত্র [math]S_n=a\\frac{1-r^n}{1-r}[/math] প্রযোজ্য। তাই [math]S_8=1\\cdot\\frac{1-(1/2)^8}{1-1/2}=2\\big(1-\\frac{1}{256}\\big)=\\frac{255}{128}=1.9921875[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539934,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539933,
+      "value": {
+        "options": [],
+        "question": "একটি গুণোত্তর ধারার [math]n[/math] সংখ্যক পদের সমষ্টি নির্ণয় কর।",
+        "solution": "একটি গুণোত্তর ধারার প্রথম পদ [math]a[/math]\u003Cbr\u003E, সাধারণ অনুপাত [math]r[/math]\u003Cbr\u003E এবং [math]n[/math]\u003Cbr\u003E সংখ্যক পদ থাকলে, ধারা: [math]a + ar + ar^2 + \\dots + ar^{n-1}[/math]\u003Cbr\u003Eএই সমষ্টিকে ধরি [math]S_n[/math]\u003Cbr\u003Eতাহলে,[math]S_n = a + ar + ar^2 + \\dots + ar^{n-1}[/math]\u003Cbr\u003E ..........(1)এই সমীকরণকে [math]r[/math]\u003Cbr\u003E দ্বারা গুণ করি:[math]rS_n = ar + ar^2 + \\dots + ar^n[/math]\u003Cbr\u003E ..........(2)(2) থেকে (1) বিয়োগ করি:[math]S_n - rS_n = a - ar^n[/math]\u003Cbr\u003E [math]S_n (1 - r) = a(1 - r^n)[/math]\u003Cbr\u003E [math]\\Rightarrow S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E, যদি [math]r \\ne 1[/math]\u003Cbr\u003Eঅথবা [math]S_n = \\frac{a(r^n - 1)}{r - 1}[/math]\u003Cbr\u003E, যখন [math]r \u003E 1[/math]\u003Cbr\u003Eউত্তর: গুণোত্তর ধারার [math]n[/math]\u003Cbr\u003E সংখ্যক পদের সমষ্টি: [math]S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E",
+        "explanation": "একটি গুণোত্তর ধারার প্রথম [math]n[/math] পদকে লেখলে [math]S_n = a + ar + ar^2 + \\dots + ar^{n-1}[/math]. যদি [math]r \\neq 1[/math] হলে [math]rS_n = ar + ar^2 + \\dots + ar^n[/math] অনুমান করে বিয়োগ করলে [math](1-r)S_n = a(1-r^n)[/math] পাওয়া যায়, তাই [math]S_n = \\frac{a(1-r^n)}{1-r}[/math]; আর যদি [math]r=1[/math] হয় তাহলে সহজেই [math]S_n = na[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539933,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539932,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{1}{4} + 2 + 1 + 2 + \\dots[/math] ধারাটির দশম পদ নির্ণয় কর।",
+        "solution": "প্রদত্ত ধারা: [math]\\frac{1}{4}, 2, 1, 2, \\dots[/math]\u003Cbr\u003Eএটি একটি গুণোত্তর ধারা।প্রথম পদ [math]a = \\frac{1}{4}[/math]\u003Cbr\u003Eদ্বিতীয় পদ [math]= 2[/math]\u003Cbr\u003E, তৃতীয় পদ [math]= 1[/math]\u003Cbr\u003E, চতুর্থ পদ [math]= 2[/math]\u003Cbr\u003E, সুতরাং ধারাটির গঠন বিশ্লেষণ করে দেখা যায় যে এটি একটি গুণোত্তর ধারা যেটির অনুপাত পরিবর্তনশীল নয়। বরং এটি একটি পুনরাবৃত্ত ধারা যেখানে [math]2[/math]\u003Cbr\u003E এবং [math]1[/math]\u003Cbr\u003E পর্যায়ক্রমে আসছে।তবে, উদাহরণ চিত্র অনুযায়ী, ধারাটিকে এইভাবে ধরা হয়েছে: [math]a = 1[/math]\u003Cbr\u003E, [math]r = 2[/math]\u003Cbr\u003Eতাহলে,প্রথম পদ [math]= 1[/math]\u003Cbr\u003E, সাধারণ অনুপাত [math]r = 2[/math]\u003Cbr\u003Eগুণোত্তর ধারার [math]n[/math]\u003Cbr\u003E তম পদ [math]= ar^{n-1}[/math]\u003Cbr\u003Eসুতরাং, [math]10^{ম}[/math]\u003Cbr\u003E তম পদ [math]= 1 \\cdot 2^{9} = 512[/math]\u003Cbr\u003Eউত্তর: ধারাটির [math]10^{ম}[/math]\u003Cbr\u003E পদ [math]= 512[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: ধারার প্রথম কয়েকটি পদ হচ্ছে [math]\\frac{1}{4},\\;2,\\;1,\\;2,\\;1,\\dots[/math], অর্থাৎ প্রথম পদ ছাড়া পর থেকে [math]2,1[/math] ধারা পুনরাবৃত্তি হচ্ছে; তাই জোড় স্থানগুলোর মান [math]2[/math]। দশম পদটি জোড় হওয়ায় [math]a_{10}=2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539932,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539931,
+      "value": {
+        "options": [],
+        "question": "[math]\\frac{1}{\\sqrt{3}} + 1 + \\sqrt{3} + \\dots[/math] ধারায় কত তম পদ [math]27\\sqrt{3}[/math]?",
+        "solution": "প্রদত্ত ধারা: [math]\\frac{1}{\\sqrt{3}}, 1, \\sqrt{3}, \\dots[/math]\u003Cbr\u003Eপ্রথম পদ [math]a = \\frac{1}{\\sqrt{3}}[/math]\u003Cbr\u003Eসাধারণ অনুপাত [math]r = \\frac{1}{\\sqrt{3}} \\div \\frac{1}{\\sqrt{3}} = \\sqrt{3}[/math]\u003Cbr\u003Eতবে আমরা লক্ষ করি: [math]a = \\frac{1}{\\sqrt{3}}[/math]\u003Cbr\u003E, [math]2^{\\text{nd}}[/math]\u003Cbr\u003E পদ [math]= 1[/math]\u003Cbr\u003E, [math]3^{\\text{rd}}[/math]\u003Cbr\u003E পদ [math]= \\sqrt{3}[/math]\u003Cbr\u003Eসাধারণ অনুপাত [math]r = \\frac{1}{\\sqrt{3}} \\cdot \\sqrt{3} = 3[/math]\u003Cbr\u003E, তবে এখানে r পরিবর্তনশীল, কিন্তু মূলভাবে, আমরা ধরে নিতে পারি ধারা গুণোত্তরধরি, [math]n[/math]\u003Cbr\u003E তম পদ [math]= 27\\sqrt{3}[/math]\u003Cbr\u003Eগুণোত্তর ধারার [math]n[/math]\u003Cbr\u003E তম পদ [math]= a \\cdot r^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 27\\sqrt{3} = \\frac{1}{\\sqrt{3}} \\cdot (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 27\\sqrt{3} \\cdot \\sqrt{3} = (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 27 \\cdot 3 = (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow 81 = (\\sqrt{3})^{n-1}[/math]\u003Cbr\u003E [math]\\Rightarrow (\\sqrt{3})^{n-1} = (\\sqrt{3})^4[/math]\u003Cbr\u003Eসুতরাং, [math]n - 1 = 4[/math]\u003Cbr\u003E [math]\\Rightarrow n = 5[/math]\u003Cbr\u003Eউত্তর: ধারাটির ৫ম পদ [math]= 27\\sqrt{3}[/math]\u003Cbr\u003E",
+        "explanation": "এই ধারা একটি জ্যামিতিক ক্রম, কারণ অনুপাত [math]\\displaystyle \\frac{1}{1/\\sqrt{3}}=\\sqrt{3}[/math]. সাধারণ nতম পদ হলো [math]a_n=\\frac{1}{\\sqrt{3}}(\\sqrt{3})^{\\,n-1}=(\\sqrt{3})^{\\,n-2}[/math]. সমীকরণ করলে [math](\\sqrt{3})^{\\,n-2}=27\\sqrt{3}[/math] এবং [math]27\\sqrt{3}=3^3\\cdot3^{1/2}=3^{7/2}=(\\sqrt{3})^7[/math], তাই [math]n-2=7[/math] এবং [math]n=9[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539931,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539930,
+      "value": {
+        "options": [],
+        "question": "একটি গুণোত্তর ধারার n সংখ্যক পদের সমষ্টির সূত্র নির্ণয় কর।",
+        "solution": "ধরা যাক, প্রথম পদ [math]a[/math]\u003Cbr\u003E, সাধারণ অনুপাত [math]r[/math]\u003Cbr\u003Eতাহলে, [math]S_n = a + ar + ar^2 + \\dots + ar^{n-1}[/math]\u003Cbr\u003Eরাশিকে [math]r[/math]\u003Cbr\u003E দ্বারা গুণ করলে:[math]rS_n = ar + ar^2 + \\dots + ar^n[/math]\u003Cbr\u003Eবিয়োগ করলে: [math]S_n(1 - r) = a(1 - r^n)[/math]\u003Cbr\u003Eসুতরাং, [math]S_n = \\frac{a(1 - r^n)}{1 - r}[/math]\u003Cbr\u003E, যখন [math]r \u003C 1[/math]\u003Cbr\u003Eএবং [math]S_n = \\frac{a(r^n - 1)}{r - 1}[/math]\u003Cbr\u003E, যখন [math]r \u003E 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: n সংখ্যক গুণোত্তর ধারার প্রথম পদ ধরা যাক [math]a[/math] এবং অনুপাত [math]r[/math]; যদি [math]r \\ne 1[/math] তবে সমষ্টি হবে [math]S_n=a\\frac{1-r^n}{1-r}[/math], আর যদি [math]r=1[/math] হলে [math]S_n=na[/math]. প্রমাণ: [math]S_n=a+ar+ar^2+\\dots+ar^{n-1}[/math] ধরে এটিকে [math]r[/math] দ্বারা গুণ করলে এবং মূল সমীকরণ থেকে বাদ দিলে মধ্যবর্তী সকল টার্ম ঘাটে গিয়ে [math](1-r)S_n=a(1-r^n)[/math] পাওয়া যায় এবং উক্ত সমীকরণ থেকে উপরের সূত্রটি মিলিত হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539930,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539929,
+      "value": {
+        "options": [],
+        "question": "[math]4 + 12 + 36 + \\dots[/math] ধারার প্রথম ১২টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 4[/math]\u003Cbr\u003E, [math]r = \\frac{12}{4} = 3[/math]\u003Cbr\u003E, [math]n = 12[/math]\u003Cbr\u003E [math]S_n = \\frac{a(r^n - 1)}{r - 1} = \\frac{4(3^{12} - 1)}{2}[/math]\u003Cbr\u003E [math]3^{12} = 531441[/math]\u003Cbr\u003E, অতএব, [math]S_n = \\frac{4(531441 - 1)}{2} = \\frac{4 \\times 531440}{2} = 2 \\times 531440 = 1062880[/math]\u003Cbr\u003Eসুতরাং, সমষ্টি = 1062880",
+        "explanation": "ব্যাখ্যা: এটি একটি জ্যামিতিক ধারা যেখানে প্রথম পদ [math]a=4[/math] এবং অনুপাত [math]r=3[/math]। প্রথম ১২ পদের যোগফল সূত্রে দিয়ে পাবো [math]S_{12}=a\\frac{r^{12}-1}{r-1}=4\\frac{3^{12}-1}{2}=1062880[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539929,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539928,
+      "value": {
+        "options": [],
+        "question": "[math]1 - 3 + 9 - 27 + \\dots[/math] ধারার প্রথম ৭টি পদের সমষ্টি কত?",
+        "solution": "[math]a = 1[/math]\u003Cbr\u003E, [math]r = -3[/math]\u003Cbr\u003E, [math]n = 7[/math]\u003Cbr\u003E [math]S_n = \\frac{a(1 - r^n)}{1 - r} = \\frac{1 - (-3)^7}{1 + 3} = \\frac{1 - (-2187)}{4} = \\frac{2188}{4} = 547[/math]\u003Cbr\u003Eসুতরাং, সমষ্টি = 547",
+        "explanation": "ব্যাখ্যা: এই ধারাটি জ্যামিতিক কারণ প্রথম পদ [math]a=1[/math] এবং অনুপাত [math]r=-3[/math]. প্রথম ৭টি পদের যোগফল [math]S_7=a\\frac{1-r^7}{1-r}=\\frac{1-(-3)^7}{1-(-3)}=\\frac{1+2187}{4}=547[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12950,
+      "created_at": "2025-08-26T07:41:40.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539928,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:40.000000Z",
+            "updated_at": "2025-08-26T07:41:40.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12950&grade=5&lesson=12952&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12950&grade=5&lesson=12952&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12950&grade=5&lesson=12952&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 20,
+  "total": 20
+}

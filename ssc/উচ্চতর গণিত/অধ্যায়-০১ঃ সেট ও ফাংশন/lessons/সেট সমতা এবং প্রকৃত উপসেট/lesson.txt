@@ -1,0 +1,243 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775256,
+      "value": {
+        "options": {
+          "ক": "3",
+          "খ": "7",
+          "গ": "8",
+          "ঘ": "9"
+        },
+        "question": "A সেটটির উপাদান সংখ্যা 3 হলে, তার প্রকৃত উপসেট সংখ্যা কত?",
+        "solution": "A সেটের উপাদান সংখ্যা, n = 3\u003Cbr /\u003E\nআমরা জানি, কোনো সেটের উপাদান সংখ্যা n হলে, এর প্রকৃত উপসেট সংং্যা $2^{\\mathrm{n}}-1$\u003Cbr /\u003E\n$\\therefore \\mathrm{A}$ সেটের প্রকৃত উপসেট সংখ্যা $=2^3-1=8-1=7$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:59:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3830,
+          "full_name": "ঢা. বো.'২০১৫",
+          "short_name": "ঢা. বো.'২০১৫",
+          "slug": "dha-bo2015",
+          "pivot": {
+            "question_bank_id": 775256,
+            "tag_id": 3830,
+            "year": null,
+            "created_at": "2025-12-01T13:59:46.000000Z",
+            "updated_at": "2025-12-01T13:59:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775257,
+      "value": {
+        "options": {
+          "ক": "1",
+          "খ": "2",
+          "গ": "3",
+          "ঘ": "4"
+        },
+        "question": "G = {2,3} হলে, G এর প্রকৃত উপসেট সংখ্যা কত?",
+        "solution": "G এর উপাদান সংখ্যা, n = 2\u003Cbr /\u003E\nG এর প্রকৃত উপসেট সংখ্যা $=2^n-1=2^2-1=4-1=3$.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:59:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3831,
+          "full_name": "বরিশাল জিলা স্কুল",
+          "short_name": "বরিশাল জিলা স্কুল",
+          "slug": "brisal-jila-skul",
+          "pivot": {
+            "question_bank_id": 775257,
+            "tag_id": 3831,
+            "year": null,
+            "created_at": "2025-12-01T13:59:46.000000Z",
+            "updated_at": "2025-12-01T13:59:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775258,
+      "value": {
+        "options": {
+          "ক": "$2^4$",
+          "খ": "$2^4-1$",
+          "গ": "$2^4-2$",
+          "ঘ": "$2^{4-1}$"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-2312-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;{&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;8&lt;/mn&gt;&lt;mo fence=&quot;false&quot; stretchy=&quot;false&quot;&gt;}&lt;/mo&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-32905\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-32906\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-32907\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32908\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32909\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E{\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32910\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32911\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32912\" class=\"mjx-mn MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32913\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32914\" class=\"mjx-mn MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32915\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32916\" class=\"mjx-mn MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E8\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-32917\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E}\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmo fence=\"false\" stretchy=\"false\"\u003E{\u003C/mo\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmn\u003E8\u003C/mn\u003E\u003Cmo fence=\"false\" stretchy=\"false\"\u003E}\u003C/mo\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-2312\"\u003EA=\\{1,2,4,8\\}\u003C/script\u003E&nbsp;এর শক্তিসেটের প্রকৃত উপাদান সংখ্যা কত?",
+        "solution": "$A=\\{1,2,4,8\\}$\u003Cbr /\u003E\nএখানে, A সেটের উপাদান সংখ্যা $\\mathrm{n}=4$\u003Cbr /\u003E\n$\\therefore \\mathrm{P}(\\mathrm{A})$ এর প্রকৃত উপাদান সংখ্যা $=2^{\\mathrm{n}}-1=2^4-1$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:59:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3970,
+          "full_name": "বগুড়া জিলা স্কুল",
+          "short_name": "বগুড়া জিলা স্কুল",
+          "slug": "bgura-jila-skul",
+          "pivot": {
+            "question_bank_id": 775258,
+            "tag_id": 3970,
+            "year": null,
+            "created_at": "2025-12-01T13:59:46.000000Z",
+            "updated_at": "2025-12-01T13:59:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775259,
+      "value": {
+        "options": {
+          "ক": "$A \\backslash B$ এবং $B \\backslash A$",
+          "খ": "$A \\notin B$ এবং $B \\notin A$",
+          "গ": "$A \\subseteq B$ এবং $B \\subseteq A$",
+          "ঘ": "$A \\nsubseteq B$ এবং $B \\nsubseteq A$"
+        },
+        "question": "নিচের কোনটির জন্য A ও B সেটদ্বয় সমান হবে?",
+        "solution": "গ. $A \\subseteq B$ এবং $B \\subseteq A$",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:59:46.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 775259,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T13:59:46.000000Z",
+            "updated_at": "2025-12-01T13:59:46.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14541&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14541&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14541&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

@@ -1,0 +1,2923 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695700,
+      "value": {
+        "options": {
+          "ক": "বিভক্তি",
+          "খ": "অনন্বয়ী অব্যয়",
+          "গ": "কর্মপ্রবচনীয়",
+          "ঘ": "অনুগামী সমুচ্চয়ী অব্যয়"
+        },
+        "question": "‘অনুসর্গের’–অপর নাম কী?",
+        "solution": "কর্মপ্রবচনীয়",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695700,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695700,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695700,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695700,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695700,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695700,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695700,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695700,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695697,
+      "value": {
+        "options": {
+          "ক": "ব্যাপ্তি অর্থে",
+          "খ": "ঐকদেশিক অর্থে",
+          "গ": "নিকট অর্থে",
+          "ঘ": "মধ্যে অর্থে"
+        },
+        "question": "‘সীমার মাঝে অসীম তুমি’-বাক্যে ‘মাঝে’ অনুসর্গটি কোন অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "মধ্যে অর্থে",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695697,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695697,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695697,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695697,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695697,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695697,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "tag_id": 46,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "tag_id": 5,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "tag_id": 4,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695697,
+            "tag_id": 3585,
+            "year": "2019",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695697,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 3627,
+          "full_name": "AB",
+          "short_name": "AB",
+          "slug": "ab-1",
+          "pivot": {
+            "question_bank_id": 695697,
+            "tag_id": 3627,
+            "year": "2017",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695698,
+      "value": {
+        "options": {
+          "ক": "সর্বত্র",
+          "খ": "মধ্যে",
+          "গ": "একদেশিক",
+          "ঘ": "ব্যাপ্তি"
+        },
+        "question": "এ দেশের মাঝে একদিন সব ছিল। এখানে ‘মাঝে” অনুসর্গটি কী অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "একদেশিক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695698,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695698,
+            "tag_id": 3585,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695699,
+      "value": {
+        "options": {
+          "ক": "মধ্যে",
+          "খ": "ক্ষণকাল",
+          "গ": "একদেশিক",
+          "ঘ": "ব্যাপ্তি"
+        },
+        "question": "‘নিমেষ মাঝেই সব শেষ'-এখানে 'মাঝে' অনুসর্গটি কী অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "ক্ষণকাল",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:01.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695699,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695699,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695699,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695699,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695699,
+            "tag_id": 3,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695699,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695696,
+      "value": {
+        "options": {
+          "ক": "ব্যাপার",
+          "খ": "প্রার্থনা",
+          "গ": "প্রসঙ্গ",
+          "ঘ": "নিমিত্ত"
+        },
+        "question": "‘কী হেতু এসেছ তুমি কহ বিস্তারিয়া।’- ‘হেতু’ অনুসর্গটি কী অর্থ প্রকাশ করেছে?",
+        "solution": "নিমিত্ত",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695696,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695696,
+            "tag_id": 47,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:01.000000Z",
+            "updated_at": "2025-10-09T07:00:01.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695695,
+      "value": {
+        "options": {
+          "ক": "শব্দের পূর্বে",
+          "খ": "বাক্যের শেষে",
+          "গ": "শব্দের মধ্যে",
+          "ঘ": "শব্দের পরে"
+        },
+        "question": "অনুসর্গ সাধারণত কোথায় বসে?",
+        "solution": "অনুসর্গগুলো কখনো প্রাতিপদিকের পরে ব্যবহৃত হয়, আবার, কখনো বা ‘কে’ এবং ‘র’ বিভক্তিযুক্ত শব্দের পরে বসে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695695,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695695,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695695,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695695,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695695,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695695,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695694,
+      "value": {
+        "options": {
+          "ক": "নৈকট্য",
+          "খ": "বিরতি",
+          "গ": "অল্প বিরতি",
+          "ঘ": "দীর্ঘ বিরতি"
+        },
+        "question": "“শরতের পর আসে বসন্ত”-এখানে ‘পর' অনুসর্গটি কী অর্থ প্রকাশ করছে?",
+        "solution": "দীর্ঘ বিরতি",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695694,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695694,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695694,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695694,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695694,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695694,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695694,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695694,
+            "tag_id": 47,
+            "year": "2016",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695693,
+      "value": {
+        "options": {
+          "ক": "জিনিসের দাম বেড়েছে কারণ চাহিদা বেশি।",
+          "খ": "যদি রোদ ওঠে, তবে রওনা দেবো।",
+          "গ": "বসার সময় নেই তাই যেতে হচ্ছে।",
+          "ঘ": "কার কাছে গেলে জানা যাবে?"
+        },
+        "question": "নিচের কোন বাক্যে সাধারণ অনুসর্গের প্রয়োগ রয়েছে?",
+        "solution": "সাধারণ অনুসর্গ: এধরনের অনুসর্গ পদ ক্রিয়াপদ ব্যতীত অন্য পদগুলো থেকে উৎপন্ন হয়। যেমন: উপরে, কাছে, জন্য, দ্বারা, বনাম।",
+        "explanation": "",
+        "correct_answer": "D.কার কাছে গেলে জানা যাবে?"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695693,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695693,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695692,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "অনুসর্গকে কত ভাগে ভাগ করা যায়?",
+        "solution": "অনুসর্গ দুই প্রকার—বিশেষ্য অনুসর্গ ও ক্রিয়া অনুসর্গ।",
+        "explanation": "",
+        "correct_answer": "A.দুই"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695692,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695692,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695692,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695692,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695692,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695692,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695691,
+      "value": {
+        "options": {
+          "ক": "কাছে",
+          "খ": "আপন",
+          "গ": "বলে",
+          "ঘ": "জোরে"
+        },
+        "question": "কোনটি ক্রিয়াজাত অনুসর্গের উদাহরণ?",
+        "solution": "বলে' শব্দটি ‘বলা’ ক্রিয়া থেকে উৎপন্ন, তাই এটি ক্রিয়াজাত অনুসর্গের উদাহরণ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695691,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695691,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695691,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695690,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "অনুসর্গকে কত ভাগে ভাগ করা যায়?",
+        "solution": "বাংলা ব্যাকরণে অনুসর্গ প্রধানত দুই ভাগে ভাগ করা হয় — (১) ক্রিয়াজাত অনুসর্গ এবং (২) অক্রিয়াজাত অনুসর্গ। এগুলোর ভিন্নতা নির্ধারণ করা হয় ক্রিয়া বা বিশেষ্য/সর্বনামের সঙ্গে সম্পর্ক অনুসারে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695690,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695690,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695689,
+      "value": {
+        "options": {
+          "ক": "প্রত্যয়",
+          "খ": "নির্দেশক",
+          "গ": "অনুসর্গ",
+          "ঘ": "বিভক্তি"
+        },
+        "question": "যেসব শব্দ কোনো শব্দের পরে বসে শব্দটিকে বাক্যের সঙ্গে সম্পর্কিত করে, সেসব শব্দকে কী বলে?",
+        "solution": "অনুসর্গ' হলো স্বাধীনভাবে ব্যবহৃত অব্যয় পদ, যা বিশেষ্য বা সর্বনামের পরে বসে বাক্যে সম্পর্ক স্থাপন করে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695689,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695689,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695688,
+      "value": {
+        "options": {
+          "ক": "সই, বাজ, পর্যন্ত",
+          "খ": "আন, আনি, বদলে",
+          "গ": "অবধি, আগে, ব্যতীত",
+          "ঘ": "আম, খাস, নাগাদ"
+        },
+        "question": "অনুসর্গের গুচ্ছ কোনটি?",
+        "solution": "‘অবধি, আগে, ব্যতীত’ — এগুলো অনুসর্গ এবং অনুসর্গের সঠিক গুচ্ছ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695688,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695688,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695688,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695687,
+      "value": {
+        "options": {
+          "ক": "এমন কাজ তোমার দ্বারা হবে না।",
+          "খ": "মন দিয়ে লেখাপড়া করা দরকার।",
+          "গ": "মাথার উপরে নীল আকাশ।",
+          "ঘ": "আজ বাংলাদেশ বনাম ভারতের খেলা।"
+        },
+        "question": "ক্রিয়াজাত' অনুসর্গের প্রয়োগ ঘটেছে কোন বাক্যে?",
+        "solution": "‘মন দিয়ে’ বাক্যে ‘-দিয়ে’ ক্রিয়াজাত অনুসর্গ ব্যবহৃত হয়েছে যা করণ বোঝায়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:00.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695687,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695687,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695687,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:00.000000Z",
+            "updated_at": "2025-10-09T07:00:00.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695677,
+      "value": {
+        "options": {
+          "ক": "কাছে",
+          "খ": "আপন",
+          "গ": "বলে",
+          "ঘ": "জোরে"
+        },
+        "question": "কোনটি ক্রিয়াজাত অনুসর্গের উদাহরণ?",
+        "solution": "বলে' শব্দটি ‘বলা’ ক্রিয়া থেকে উৎপন্ন, তাই এটি ক্রিয়াজাত অনুসর্গের উদাহরণ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695677,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695677,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695677,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695686,
+      "value": {
+        "options": {
+          "ক": "বিভক্তি",
+          "খ": "অনন্বয়ী অব্যয়",
+          "গ": "কর্মপ্রবচনীয়",
+          "ঘ": "অনুগামী সমুচ্চয়ী অব্যয়"
+        },
+        "question": "‘অনুসর্গের’–অপর নাম কী?",
+        "solution": "কর্মপ্রবচনীয়",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695686,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695686,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695686,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695686,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695686,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695686,
+            "tag_id": 46,
+            "year": "2019",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695686,
+            "tag_id": 47,
+            "year": "2019",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695686,
+            "tag_id": 1,
+            "year": "2016",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695685,
+      "value": {
+        "options": {
+          "ক": "মধ্যে",
+          "খ": "ক্ষণকাল",
+          "গ": "একদেশিক",
+          "ঘ": "ব্যাপ্তি"
+        },
+        "question": "‘নিমেষ মাঝেই সব শেষ'-এখানে 'মাঝে' অনুসর্গটি কী অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "ক্ষণকাল",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695685,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695685,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695685,
+            "question_bank_institution_id": 236
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695685,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695685,
+            "tag_id": 3,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695685,
+            "tag_id": 1,
+            "year": "2019",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695684,
+      "value": {
+        "options": {
+          "ক": "সর্বত্র",
+          "খ": "মধ্যে",
+          "গ": "একদেশিক",
+          "ঘ": "ব্যাপ্তি"
+        },
+        "question": "এ দেশের মাঝে একদিন সব ছিল। এখানে ‘মাঝে” অনুসর্গটি কী অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "একদেশিক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695684,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695684,
+            "tag_id": 3585,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695683,
+      "value": {
+        "options": {
+          "ক": "ব্যাপ্তি অর্থে",
+          "খ": "ঐকদেশিক অর্থে",
+          "গ": "নিকট অর্থে",
+          "ঘ": "মধ্যে অর্থে"
+        },
+        "question": "‘সীমার মাঝে অসীম তুমি’-বাক্যে ‘মাঝে’ অনুসর্গটি কোন অর্থে ব্যবহৃত হয়েছে?",
+        "solution": "মধ্যে অর্থে",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695683,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695683,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695683,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695683,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695683,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695683,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "tag_id": 46,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "tag_id": 5,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "tag_id": 4,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695683,
+            "tag_id": 3585,
+            "year": "2019",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695683,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 3627,
+          "full_name": "AB",
+          "short_name": "AB",
+          "slug": "ab-1",
+          "pivot": {
+            "question_bank_id": 695683,
+            "tag_id": 3627,
+            "year": "2017",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695682,
+      "value": {
+        "options": {
+          "ক": "ব্যাপার",
+          "খ": "প্রার্থনা",
+          "গ": "প্রসঙ্গ",
+          "ঘ": "নিমিত্ত"
+        },
+        "question": "‘কী হেতু এসেছ তুমি কহ বিস্তারিয়া।’- ‘হেতু’ অনুসর্গটি কী অর্থ প্রকাশ করেছে?",
+        "solution": "নিমিত্ত",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695682,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695682,
+            "tag_id": 47,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695681,
+      "value": {
+        "options": {
+          "ক": "শব্দের পূর্বে",
+          "খ": "বাক্যের শেষে",
+          "গ": "শব্দের মধ্যে",
+          "ঘ": "শব্দের পরে"
+        },
+        "question": "অনুসর্গ সাধারণত কোথায় বসে?",
+        "solution": "অনুসর্গগুলো কখনো প্রাতিপদিকের পরে ব্যবহৃত হয়, আবার, কখনো বা ‘কে’ এবং ‘র’ বিভক্তিযুক্ত শব্দের পরে বসে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695681,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695681,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695681,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695681,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695681,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695681,
+            "tag_id": 4,
+            "year": "2016",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695680,
+      "value": {
+        "options": {
+          "ক": "নৈকট্য",
+          "খ": "বিরতি",
+          "গ": "অল্প বিরতি",
+          "ঘ": "দীর্ঘ বিরতি"
+        },
+        "question": "“শরতের পর আসে বসন্ত”-এখানে ‘পর' অনুসর্গটি কী অর্থ প্রকাশ করছে?",
+        "solution": "দীর্ঘ বিরতি",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695680,
+            "year_id": 1
+          }
+        },
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695680,
+            "year_id": 7
+          }
+        },
+        {
+          "id": 20,
+          "year": "2016",
+          "pivot": {
+            "question_bank_id": 695680,
+            "year_id": 20
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695680,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695680,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695680,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695680,
+            "tag_id": 5,
+            "year": "2019",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695680,
+            "tag_id": 47,
+            "year": "2016",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695679,
+      "value": {
+        "options": {
+          "ক": "জিনিসের দাম বেড়েছে কারণ চাহিদা বেশি।",
+          "খ": "যদি রোদ ওঠে, তবে রওনা দেবো।",
+          "গ": "বসার সময় নেই তাই যেতে হচ্ছে।",
+          "ঘ": "কার কাছে গেলে জানা যাবে?"
+        },
+        "question": "নিচের কোন বাক্যে সাধারণ অনুসর্গের প্রয়োগ রয়েছে?",
+        "solution": "সাধারণ অনুসর্গ: এধরনের অনুসর্গ পদ ক্রিয়াপদ ব্যতীত অন্য পদগুলো থেকে উৎপন্ন হয়। যেমন: উপরে, কাছে, জন্য, দ্বারা, বনাম।",
+        "explanation": "",
+        "correct_answer": "D.কার কাছে গেলে জানা যাবে?"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695679,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695679,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695678,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "অনুসর্গকে কত ভাগে ভাগ করা যায়?",
+        "solution": "অনুসর্গ দুই প্রকার—বিশেষ্য অনুসর্গ ও ক্রিয়া অনুসর্গ।",
+        "explanation": "",
+        "correct_answer": "A.দুই"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695678,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695678,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695678,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695678,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695678,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        },
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695678,
+            "tag_id": 7,
+            "year": "2023",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695674,
+      "value": {
+        "options": {
+          "ক": "সই, বাজ, পর্যন্ত",
+          "খ": "আন, আনি, বদলে",
+          "গ": "অবধি, আগে, ব্যতীত",
+          "ঘ": "আম, খাস, নাগাদ"
+        },
+        "question": "অনুসর্গের গুচ্ছ কোনটি?",
+        "solution": "‘অবধি, আগে, ব্যতীত’ — এগুলো অনুসর্গ এবং অনুসর্গের সঠিক গুচ্ছ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695674,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695674,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695674,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T06:59:22.000000Z",
+            "updated_at": "2025-10-09T06:59:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695676,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "অনুসর্গকে কত ভাগে ভাগ করা যায়?",
+        "solution": "বাংলা ব্যাকরণে অনুসর্গ প্রধানত দুই ভাগে ভাগ করা হয় — (১) ক্রিয়াজাত অনুসর্গ এবং (২) অক্রিয়াজাত অনুসর্গ। এগুলোর ভিন্নতা নির্ধারণ করা হয় ক্রিয়া বা বিশেষ্য/সর্বনামের সঙ্গে সম্পর্ক অনুসারে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695676,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695676,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T06:59:23.000000Z",
+            "updated_at": "2025-10-09T06:59:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695675,
+      "value": {
+        "options": {
+          "ক": "প্রত্যয়",
+          "খ": "নির্দেশক",
+          "গ": "অনুসর্গ",
+          "ঘ": "বিভক্তি"
+        },
+        "question": "যেসব শব্দ কোনো শব্দের পরে বসে শব্দটিকে বাক্যের সঙ্গে সম্পর্কিত করে, সেসব শব্দকে কী বলে?",
+        "solution": "অনুসর্গ' হলো স্বাধীনভাবে ব্যবহৃত অব্যয় পদ, যা বিশেষ্য বা সর্বনামের পরে বসে বাক্যে সম্পর্ক স্থাপন করে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695675,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695675,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T06:59:22.000000Z",
+            "updated_at": "2025-10-09T06:59:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695673,
+      "value": {
+        "options": {
+          "ক": "এমন কাজ তোমার দ্বারা হবে না।",
+          "খ": "মন দিয়ে লেখাপড়া করা দরকার।",
+          "গ": "মাথার উপরে নীল আকাশ।",
+          "ঘ": "আজ বাংলাদেশ বনাম ভারতের খেলা।"
+        },
+        "question": "ক্রিয়াজাত' অনুসর্গের প্রয়োগ ঘটেছে কোন বাক্যে?",
+        "solution": "‘মন দিয়ে’ বাক্যে ‘-দিয়ে’ ক্রিয়াজাত অনুসর্গ ব্যবহৃত হয়েছে যা করণ বোঝায়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:59:22.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695673,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695673,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695673,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:59:22.000000Z",
+            "updated_at": "2025-10-09T06:59:22.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718723,
+      "value": {
+        "options": {
+          "ক": "সন্ধ্যা&nbsp;",
+          "খ": "অবধি",
+          "গ": "বসে",
+          "ঘ": "থাকব"
+        },
+        "question": "'সন্ধ্যা অবধি বসে&nbsp;থাকব।'- এ বাক্যে&nbsp;অনুসর্গ কোনটি?",
+        "solution": "খ. অবধি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718725,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গ",
+          "খ": "উপসর্গ",
+          "গ": "প্রত্যয়",
+          "ঘ": "বচন"
+        },
+        "question": "প্রতি, বিনা, মাঝে ইত্যাদি কিসের উদাহরণ?",
+        "solution": "ক. অনুসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718726,
+      "value": {
+        "options": {
+          "ক": "অবধি, হেতু",
+          "খ": "সই, বাজ",
+          "গ": "আন, আনি",
+          "ঘ": "আম, খাস"
+        },
+        "question": "অনুসর্গ কোনগুলো?",
+        "solution": "ক. অবধি, হেতু"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3873,
+          "full_name": "ঢা. বো.'২০২২",
+          "short_name": "ঢা. বো.'২০২২",
+          "slug": "dha-bo2022",
+          "pivot": {
+            "question_bank_id": 718726,
+            "tag_id": 3873,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718728,
+      "value": {
+        "options": {
+          "ক": "উপসর্গ",
+          "খ": "অনুসর্গ",
+          "গ": "বিভক্তি",
+          "ঘ": "ক্রিয়াবিভক্তি"
+        },
+        "question": "'আমার দ্বারা এ কাজ হবে না সাধন।' এ বাক্যে 'দ্বারা' কী?&nbsp;",
+        "solution": "খ. অনুসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718729,
+      "value": {
+        "options": {
+          "ক": "ধরে&nbsp;",
+          "খ": "দুই&nbsp;",
+          "গ": "চলছে",
+          "ঘ": "মাস"
+        },
+        "question": "'মাস দুই ধরে নির্মাণ কাজ চলছে।'- এ বাক্যে অনুসর্গ হচ্ছে-&nbsp;",
+        "solution": "ক. ধরে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718730,
+      "value": {
+        "options": {
+          "ক": "শব্দের পূর্বে",
+          "খ": "শব্দের মধ্যে",
+          "গ": "শব্দের পরে",
+          "ঘ": "বাক্যের শেষেশেষণ"
+        },
+        "question": "অনুসর্গ সাধারণত কোথায় বসে?",
+        "solution": "গ. শব্দের পরে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 718730,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718732,
+      "value": {
+        "options": {
+          "ক": "প্রহর",
+          "খ": "সহজে",
+          "গ": "অপেক্ষা",
+          "ঘ": "কাটে না"
+        },
+        "question": "'অপেক্ষার প্রহর কাটে না সহজে।'- এই বাক্যে অনুসর্গ হচ্ছে-",
+        "solution": "গ. অপেক্ষা"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718735,
+      "value": {
+        "options": {
+          "ক": "প্রকৃতি",
+          "খ": "প্রত্যয়",
+          "গ": "অনুসর্গ&nbsp;",
+          "ঘ": "উপসর্গ"
+        },
+        "question": "'দিয়ে, পর্যন্ত' ইত্যাদি কিসের উদাহরণ?",
+        "solution": "গ. অনুসর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13176&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13176&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13176&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 36,
+  "total": 36
+}

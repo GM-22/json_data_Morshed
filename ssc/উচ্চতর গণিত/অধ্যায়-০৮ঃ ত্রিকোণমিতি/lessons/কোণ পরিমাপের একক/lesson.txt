@@ -1,0 +1,437 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 774462,
+      "value": {
+        "options": {
+          "ক": "0.6173\u003Csup\u003Ec\u003C/sup\u003E",
+          "খ": "0.6273\u003Csup\u003Ec\u003C/sup\u003E",
+          "গ": "0.5173\u003Csup\u003Ec\u003C/sup\u003E",
+          "ঘ": "0.5273\u003Csup\u003Ec\u003C/sup\u003E"
+        },
+        "question": "30°12′36″ কে রেডিয়ানে প্রকাশ করলে নিচের কোনটি সঠিক?",
+        "solution": "$\\begin{aligned} &amp;&nbsp; \\text { } 30^{\\circ} 12^{\\prime} 36^{\\prime \\prime}=30^{\\circ}\\left(12 \\frac{36}{60}\\right)^{\\prime} \\\\ = &amp; 30^{\\circ}\\left(12 \\frac{3}{5}\\right)^{\\prime} \\\\ = &amp; 30^{\\circ}\\left(\\frac{63}{5}\\right)^{\\prime}=\\left(30 \\frac{63}{5 \\times 60}\\right)^{\\circ} \\\\ = &amp; \\left(30 \\frac{21}{100}\\right)^{\\circ}=\\left(\\frac{3021}{100}\\right)^{\\circ} \\\\ = &amp; \\left(\\frac{3021}{100} \\times \\frac{\\pi}{180}\\right)^c\\left[\\because 1^{\\circ}=\\left(\\frac{\\pi}{180}\\right)^c\\right] \\\\ = &amp; 0.5273^{\\mathrm{c}} .\\end{aligned}$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3854,
+          "full_name": "চ. বো.'২০২২",
+          "short_name": "চ. বো.'২০২২",
+          "slug": "c-bo2022",
+          "pivot": {
+            "question_bank_id": 774462,
+            "tag_id": 3854,
+            "year": null,
+            "created_at": "2025-12-01T13:35:44.000000Z",
+            "updated_at": "2025-12-01T13:35:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774463,
+      "value": {
+        "options": {
+          "ক": "$\\angle \\mathrm{AOB} \\propto \\mathrm{AB}$",
+          "খ": "$\\angle \\mathrm{AOB} \\propto \\frac{1}{\\mathrm{AB}}$",
+          "গ": "$\\angle \\mathrm{AOB} \\propto \\mathrm{AB}^2$",
+          "ঘ": "$\\angle \\mathrm{AOB} \\propto \\frac{1}{\\mathrm{AB}^2}$"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1735299238723_1764596144_MuTsDEFT.webp\"\u003Eচিত্রে, O কেন্দ্র হলে নিচের কোনটি সঠিক?",
+        "solution": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1735299238723_1764596144_H867b16M.webp\" /\u003EO&nbsp;কেন্দ্রবিশিষ্ট বৃত্তে &ang;AOB একটি কেন্দ্রস্থ কোণ এবং AB বৃত্তের একটি চাপ। তাহলে &ang;AOB, AB চাপের সমানুপাতিক।\u003Cbr /\u003E\n$\\therefore$ কেন্দ্রস্থ $\\angle AOB \\propto$ চাপ $A B[\\because$ বৃত্তের কোনো চাপের উপর দণ্ডায়মান কেন্দ্রস্থ কোণ ঐ বৃত্তচাপের সমানুপাতিক]\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\angle \\mathrm{AOB} \\propto \\mathrm{AB} .\u003Cbr /\u003E\n$",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 774463,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T13:35:44.000000Z",
+            "updated_at": "2025-12-01T13:35:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774464,
+      "value": {
+        "options": {
+          "ক": "$\\frac{\\pi}{4}$",
+          "খ": "$\\frac{\\pi}{2}$",
+          "গ": "$\\frac{2}{\\pi}$",
+          "ঘ": "$\\frac{3\\pi}{4}$"
+        },
+        "question": "1 রেডিয়ান = কত সমকোণ?",
+        "solution": "$\\frac{\\pi}{2}$ রেডিয়ান = 1 সমকোণ\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n\\therefore 1 \\text { রেডিয়ান } &amp; =1 \\times \\frac{2}{\\pi} \\\\\u003Cbr /\u003E\n&amp; =\\frac{2}{\\pi} \\text { সমকোণ। }\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3860,
+          "full_name": "কু. বো.'২০২১",
+          "short_name": "কু. বো.'২০২১",
+          "slug": "ku-bo2021",
+          "pivot": {
+            "question_bank_id": 774464,
+            "tag_id": 3860,
+            "year": null,
+            "created_at": "2025-12-01T13:35:44.000000Z",
+            "updated_at": "2025-12-01T13:35:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774465,
+      "value": {
+        "options": {
+          "ক": "$\\frac{5 \\pi}{9}$",
+          "খ": "$\\frac{7 \\pi}{9}$",
+          "গ": "$\\frac{11 \\pi}{9}$",
+          "ঘ": "$\\frac{13 \\pi}{9}$"
+        },
+        "question": "\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1735299730814_1764596144_dXOI5jTp.webp\"\u003Eচিত্রে ∠C এর বৃত্তীয় মান নিচের কোনটি?",
+        "solution": "&nbsp;ABCD চতুর্ভুজে $\\angle \\mathrm{A}+\\angle \\mathrm{B}+\\angle \\mathrm{C}+\\angle \\mathrm{D}=360^{\\circ}$\u003Cbr /\u003E\n[ $\\because$ যেকোনো চতুর্ভুজের চার কোণের সমষ্টি দুই সরলকোণ বা $\\left.360^{\\circ}\\right]$\u003Cbr /\u003E\nবা, $75^{\\circ}+25^{\\circ}+\\angle \\mathrm{C}+40^{\\circ}=360^{\\circ}$\u003Cbr /\u003E\nবা, $\\angle \\mathrm{C}+140^{\\circ}=360^{\\circ}$\u003Cbr /\u003E\nবা, $\\angle C=360^{\\circ}-140^{\\circ}=220^{\\circ}$\u003Cbr /\u003E\nবা, $\\angle \\mathrm{C}=220^{\\circ} \\times \\frac{\\pi}{180}$ রেডিয়ান\u003Cbr /\u003E\n$\\therefore \\angle C=\\frac{11 \\pi}{9}$ রেডিয়ান।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 774465,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T13:35:44.000000Z",
+            "updated_at": "2025-12-01T13:35:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774466,
+      "value": {
+        "options": {
+          "ক": "$\\frac{2\\pi}{9}$ রেডিয়ান",
+          "খ": "$\\frac{5\\pi}{18}$ রেডিয়ান",
+          "গ": "$\\frac{13\\pi}{18}$ রেডিয়ান",
+          "ঘ": "$\\frac{7\\pi}{9}$&nbsp;রেডিয়ান"
+        },
+        "question": "50° কোণের পূরক কোণকে বৃত্তীয় পদ্ধতিতে প্রকাশ করলে নিচের কোনটি হবে?",
+        "solution": "$50^{\\circ}$ কোণের পূরক কোণ $=90^{\\circ}-50^{\\circ}$\u003Cbr /\u003E\n$=40^{\\circ}=40 \\times \\frac{\\pi}{180}$ রেডিয়ান $=\\frac{2 \\pi}{9}$ রেডিয়ান",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3867,
+          "full_name": "দি. বো.'২০২১",
+          "short_name": "দি. বো.'২০২১",
+          "slug": "di-bo2021",
+          "pivot": {
+            "question_bank_id": 774466,
+            "tag_id": 3867,
+            "year": null,
+            "created_at": "2025-12-01T13:35:44.000000Z",
+            "updated_at": "2025-12-01T13:35:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774467,
+      "value": {
+        "options": {
+          "ক": "65.5&deg;",
+          "খ": "65.6&deg;",
+          "গ": "65.7&deg;",
+          "ঘ": "65.8&deg;"
+        },
+        "question": "65.42' এর সঠিক মান কোনটি?",
+        "solution": "$65.42^{\\prime}=\\left(65+\\frac{42}{60}\\right)^{\\circ}=65.7^{\\circ}$",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 774467,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T13:35:44.000000Z",
+            "updated_at": "2025-12-01T13:35:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774468,
+      "value": {
+        "options": {
+          "ক": "$\\frac{P}{180}=\\frac{Q}{\\pi}$",
+          "খ": "$\\frac{\\pi}{180}=\\frac{P}{Q}$",
+          "গ": "$\\frac{Q}{180}=\\frac{P}{\\pi}$",
+          "ঘ": "$\\mathrm{PQ}=\\frac{\\pi}{180}$"
+        },
+        "question": "একটি কোণকে ষাটমূলক ও বৃত্তীয় পদ্ধতিতে যথাক্রমে P\u003Csup\u003Eo\u003C/sup\u003E এবং Q\u003Csup\u003Ec\u003C/sup\u003E দ্বারা প্রকাশ করা হলে, নিচের কোন সম্পর্কটি সঠিক?",
+        "solution": "$1^{\\circ}=\\frac{\\pi^{\\mathrm{c}}}{180}$\u003Cbr /\u003E\n$\\therefore \\mathrm{P}^{\\mathrm{o}}=\\frac{\\mathrm{P} \\pi^{\\mathrm{c}}}{180}$\u003Cbr /\u003E\nশর্তমতে, $\\frac{P \\pi}{180}=Q$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\frac{P}{180}=\\frac{Q}{\\pi}\u003Cbr /\u003E\n$",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 774468,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T13:35:44.000000Z",
+            "updated_at": "2025-12-01T13:35:44.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774469,
+      "value": {
+        "options": {
+          "ক": "18&deg;",
+          "খ": "60&deg;",
+          "গ": "45&deg;",
+          "ঘ": "90&deg;"
+        },
+        "question": "একটি ত্রিভুজের বাহুগুলোর অনুপাত 6 : 8 : 10 হলে ত্রিভুজটির বৃহত্তর কোণ কত ডিগ্রি?",
+        "solution": "ত্রিভুজের বাহু তিনটি যথাক্রমে 6x, 8x ও 10x\u003Cbr /\u003E\nএখন, $(6 \\mathrm{x})^2+(8 \\mathrm{x})^2=(10 \\mathrm{x})^2$\u003Cbr /\u003E\nবা,&nbsp;$36 x^2+64 x^2=100 x^2$ বা, $100 x^2=100 x^2$\u003Cbr /\u003E\nযা একটি সমকোণী ত্রিভুজ যার বৃহত্তম কোণ 90&deg;.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8026,
+      "created_at": "2025-12-01T13:35:44.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8026&grade=5&lesson=14568&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8026&grade=5&lesson=14568&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8026&grade=5&lesson=14568&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 8,
+  "total": 8
+}

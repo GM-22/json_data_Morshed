@@ -1,0 +1,1859 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 536913,
+      "value": {
+        "options": [],
+        "question": "কোনো আয়তক্ষেত্রের দৈর্ঘ্য [math]8[/math] সে.মি. ও কর্ণ [math]10[/math] সে.মি. হলে, ক্ষেত্রফল কত?",
+        "solution": "[math]a = 8[/math]\u003Cbr\u003E সে.মি., [math]d = 10[/math]\u003Cbr\u003E সে.মি.ধরি, প্রস্থ [math]= b[/math]\u003Cbr\u003Eতাহলে [math]10^2 = 8^2 + b^2[/math]\u003Cbr\u003E⇒ [math]100 = 64 + b^2[/math]\u003Cbr\u003E⇒ [math]b^2 = 36[/math]\u003Cbr\u003E ⇒ [math]b = 6[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]a \\times b = 8 \\times 6 = 48[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = [math]48[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: আয়তক্ষেত্রের কর্ণ, দৈর্ঘ্য ও প্রস্থের মধ্যে পিথাগোরাস সূত্র প্রযোজ্য, তাই [math]8^2+w^2=10^2[/math] থেকে [math]w^2=36[/math] এবং [math]w=6[/math] সে.মি.। ক্ষেত্রফল = [math]8\\times6=48\\ \\text{সে.মি.}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536913,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536900,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম পঞ্চভুজের প্রতি বাহুর দৈর্ঘ্য ৬ সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে: [math]a = 6[/math]\u003Cbr\u003E সে.মি., [math]n = 5[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{n a^2}{4} \\cot \\left(\\frac{180^\\circ}{n}\\right)[/math]\u003Cbr\u003E [math]= \\frac{5 \\times 6^2}{4} \\cot 36^\\circ = 45 \\times 1.376 = 61.92[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ৬১.৯২ বর্গ সে.মি.",
+        "explanation": "সুষম পঞ্চভুজকে ৫টি সমান ত্রিভুজে ভাগ করলে ক্ষেত্রফল সূত্র পাওয়া যায়: [math]A=\\frac{1}{4}\\sqrt{5(5+2\\sqrt5)}\\,a^2[/math].  \nযদি [math]a=6\\ \\text{cm}[/math], তাহলে [math]A=\\frac{1}{4}\\sqrt{5(5+2\\sqrt5)}\\times36=9\\sqrt{25+10\\sqrt5}\\ \\text{cm}^2\\approx61.97\\ \\text{cm}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536900,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536901,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম পঞ্চভুজের প্রতি বাহুর দৈর্ঘ্য ৮ সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে:বাহুর দৈর্ঘ্য [math]a = 8[/math]\u003Cbr\u003E সে.মি.বাহুর সংখ্যা [math]n = 5[/math]\u003Cbr\u003Eআমরা জানি:সুষম বহুভুজের ক্ষেত্রফল = [math]\\frac{n a^2}{4} \\cot\\left(\\frac{180^\\circ}{n}\\right)[/math]\u003Cbr\u003E⇒ [math]\\frac{5 \\times 8^2}{4} \\cot\\left(\\frac{180^\\circ}{5}\\right)[/math]\u003Cbr\u003E= [math]\\frac{5 \\times 64}{4} \\cot(36^\\circ)[/math]\u003Cbr\u003E= [math]80 \\times \\cot(36^\\circ)[/math]\u003Cbr\u003E(ক্যালকুলেটরের সাহায্যে)[math]\\cot(36^\\circ) \\approx 1.376[/math]\u003Cbr\u003E⇒ [math]80 \\times 1.376 = 110.08[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ১১০.০৮ বর্গ সে.মি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: একটি সুষম পঞ্চভুজকে কেন্দ্রে এনে ৫টি সমদ্বিভুজী ত্রিভুজে ভাগ করলে ক্ষেত্রফল সূত্র পাওয়া যায় [math]A=\\frac{1}{4}\\sqrt{5(5+2\\sqrt{5})}\\,a^2[/math] কারণ এটি ৫টি সমকোণী ত্রিভুজের ক্ষেত্রফল যোগফল। এখানে [math]a=8[/math] বসালে [math]A=16\\sqrt{25+10\\sqrt{5}}\\ \\text{cm}^2\\approx110.11\\ \\text{cm}^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536901,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536902,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি ১০৮০° হলে, বহুভুজটির বাহুর সংখ্যা নির্ণয় কর।",
+        "solution": "[math](n - 2) \\times 180^\\circ = 1080^\\circ[/math]\u003Cbr\u003E [math]n - 2 = \\frac{1080}{180} = 6[/math]\u003Cbr\u003E [math]n = 6 + 2 = 8[/math]\u003Cbr\u003Eনির্ণেয় বাহুর সংখ্যা = ৮",
+        "explanation": "বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি [math](n-2)\\times180^\\circ[/math] হয়, তাই [math](n-2)\\times180=1080[/math]. সমাধান করলে [math]n-2=6\\Rightarrow n=8[/math], অর্থাৎ বহুভুজটির ৮টি বাহু আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536902,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536904,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি 1440° হলে, বহুভুজটির বাহুর সংখ্যা নির্ণয় কর।",
+        "solution": "আমরা জানি, অন্তঃস্থ কোণের সমষ্টি [math]= (n - 2) \\times 180[/math]\u003Cbr\u003E [math]1440 = (n - 2) \\times 180[/math]\u003Cbr\u003E [math]n - 2 = \\dfrac{1440}{180} = 8[/math]\u003Cbr\u003E [math]n = 8 + 2 = 10[/math]\u003Cbr\u003Eনির্ণেয় বাহুর সংখ্যা = 10",
+        "explanation": "সিদ্ধান্ত: বহুভুজের অন্তঃস্থ কোণের সমষ্টি সাধারণ সূত্র [math](n-2)\\times 180^\\circ[/math] দ্বারা দেওয়া হয়, তাই [math](n-2)\\times 180^\\circ = 1440^\\circ[/math]. সমাধান করলে [math]n-2 = 1440/180 = 8\\Rightarrow n = 10[/math]. অতএব বহুভুজটির বাহুর সংখ্যা 10।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536904,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536906,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম বহুভুজের প্রতি বাহুর দৈর্ঘ্য 7 সে.মি. এবং বাহুর সংখ্যা 8 হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]a = 7[/math]\u003Cbr\u003E, [math]n = 8[/math]\u003Cbr\u003Eক্ষেত্রফল [math]= \\dfrac{8 \\times 7^2}{4} \\cot\\left(\\dfrac{180^\\circ}{8}\\right)[/math]\u003Cbr\u003E [math]= \\dfrac{8 \\times 49}{4} \\cot(22.5^\\circ)[/math]\u003Cbr\u003E [math]= 98 \\times \\cot(22.5^\\circ)[/math]\u003Cbr\u003Eযেহেতু [math]\\cot(22.5^\\circ) \\approx 2.414[/math]\u003Cbr\u003E,[math]= 98 \\times 2.414 \\approx 236.57[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ 236.57 বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: একটি সুষম n-বাহুর বহুভুজের ক্ষেত্রফল [math]A=\\dfrac{n a^2}{4\\tan(\\pi/n)}[/math] সূত্র থেকে পাওয়া যায়; এখানে n=8 এবং a=7 বসালে [math]A=\\dfrac{8\\cdot7^2}{4\\tan(\\pi/8)}=\\dfrac{98}{\\tan(22.5^\\circ)}[/math]. এটা সহজভাবে সরল করলে [math]A=98(\\sqrt{2}+1)\\ \\text{সে.মি.}^2\\approx236.18\\ \\text{সে.মি.}^2[/math], তাই এটিই সঠিক উত্তর।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536906,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536908,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের অন্তঃস্থ কোণগুলোর সমষ্টি কত?",
+        "solution": "[math]n = 6[/math]\u003Cbr\u003Eঅন্তঃ কোণের সমষ্টি = [math](n - 2) \\times 180^\\circ = 4 \\times 180^\\circ = 720^\\circ[/math]\u003Cbr\u003Eনির্ণেয় কোণের সমষ্টি = ৭২০°",
+        "explanation": "ব্যাখ্যা: যে কোনও n-কোণা বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি [math](n-2)\\times180^\\circ[/math] হয়; ছয়ভুজের ক্ষেত্রে এটা [math](6-2)\\times180^\\circ=4\\times180^\\circ=720^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536908,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536909,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের ক্ষেত্রফল [math]18\\sqrt{3}[/math] বর্গ একক হলে, প্রতি বাহুর দৈর্ঘ্য কত একক?",
+        "solution": "দেওয়া আছে: ক্ষেত্রফল [math]= 18\\sqrt{3}[/math]\u003Cbr\u003E, [math]n = 6[/math]\u003Cbr\u003Eফর্মুলা: [math]\\frac{6 a^2}{4} \\cot 30^\\circ = 18\\sqrt{3}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{3a^2}{2} \\times \\sqrt{3} = 18\\sqrt{3}[/math]\u003Cbr\u003E⇒ [math]a^2 = 12 \\Rightarrow a = 2\\sqrt{3}[/math]\u003Cbr\u003Eনির্ণেয় বাহুর দৈর্ঘ্য = [math]2\\sqrt{3}[/math]\u003Cbr\u003E একক",
+        "explanation": "সুষম ষড়ভুজের ক্ষেত্রফল সূত্র [math]A=\\frac{3\\sqrt{3}}{2}a^2[/math] হলে [math]\\frac{3\\sqrt{3}}{2}a^2=18\\sqrt{3}[/math]।  \n[math]\\sqrt{3}[/math] কেটে যায় ও সমীকরণ থেকে [math]a^2=12[/math], তাই [math]a=2\\sqrt{3}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536909,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536910,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের ক্ষেত্রফল 93.53 বর্গ সে.মি. হলে, প্রতি বাহুর দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "ধরি, প্রতি বাহুর দৈর্ঘ্য [math]= a[/math]\u003Cbr\u003E এবং বাহুর সংখ্যা [math]n = 6[/math]\u003Cbr\u003Eআমরা জানি, ক্ষেত্রফল [math]= \\dfrac{n a^2}{4} \\cot\\left(\\dfrac{180^\\circ}{n}\\right)[/math]\u003Cbr\u003E [math]\\Rightarrow \\dfrac{6a^2}{4} \\cot(30^\\circ) = 93.53[/math]\u003Cbr\u003E [math]\\Rightarrow 1.5a^2 \\times \\sqrt{3} = 93.53[/math]\u003Cbr\u003E [math]\\Rightarrow a^2 = \\dfrac{93.53}{1.5 \\sqrt{3}} \\approx 35.99[/math]\u003Cbr\u003E [math]\\Rightarrow a = \\sqrt{35.99} \\approx 5.99[/math]\u003Cbr\u003Eনির্ণেয় বাহুর দৈর্ঘ্য ≈ 5.99 সে.মি.",
+        "explanation": "সমাধান: একটি সুষম ষড়ভুজের ক্ষেত্রফল সূত্র [math]A=\\frac{3\\sqrt{3}}{2}a^2[/math] হলে [math]a=\\sqrt{\\frac{2A}{3\\sqrt{3}}}[/math]. এখানে [math]a=\\sqrt{\\frac{2\\times93.53}{3\\sqrt{3}}}=\\sqrt{36}=6\\text{ সে.মি.}[/math], তাই প্রতি বাহু 6 সে.মি.।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536910,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536911,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের বাহুর দৈর্ঘ্য ৫ সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে: [math]a = 5[/math]\u003Cbr\u003E সে.মি., [math]n = 6[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{6 \\times 5^2}{4} \\cot 30^\\circ = 37.5 \\times \\sqrt{3} = 64.95[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ৬৪.৯৫ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: একটি সুষম ষড়ভুজকে ৬টি সমত্রিভুজে ভাগ করলে প্রতিটি ত্রিভুজের ক্ষেত্রফল [math]\\frac{\\sqrt{3}}{4}a^2[/math] হওয়ায় মোট ক্ষেত্রফল হয় [math]6\\times\\frac{\\sqrt{3}}{4}a^2=\\frac{3\\sqrt{3}}{2}a^2[/math]. এখানে [math]a=5\\ \\text{সে.মি.}[/math] হলে [math]A=\\frac{3\\sqrt{3}}{2}\\times25=\\frac{75\\sqrt{3}}{2}[/math] সে.মি.^2.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536911,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536899,
+      "value": {
+        "options": [],
+        "question": "রম্বসের দুইটি কর্ণের দৈর্ঘ্য যথাক্রমে ২০ সে.মি. এবং ২৪ সে.মি. হলে, রম্বসটির ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে:[math]d_1 = 20[/math]\u003Cbr\u003E সে.মি., [math]d_2 = 24[/math]\u003Cbr\u003E সে.মি.আমরা জানি, ক্ষেত্রফল = [math]\\frac{1}{2} \\times d_1 \\times d_2[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 20 \\times 24[/math]\u003Cbr\u003E= [math]240[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় রম্বসের ক্ষেত্রফল = ২৪০ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: রম্বসের ক্ষেত্রফল দুইটি কর্ণের গুণফলের অর্ধেক হওয়ায় [math]A=\\frac{d_1 d_2}{2}[/math]. তাই [math]A=\\frac{20\\times24}{2}=240\\ \\text{cm}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536899,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536916,
+      "value": {
+        "options": [],
+        "question": "কোনো ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয়ের দৈর্ঘ্যের গড় ১১ সে.মি. এবং ক্ষেত্রফল ১২১ বর্গ সে.মি. হলে, মধ্যবর্তী লম্ব দূরত্ব নির্ণয় কর।",
+        "solution": "দেওয়া আছে:গড় দৈর্ঘ্য = [math]11[/math]\u003Cbr\u003E সে.মি., ⇒ যোগফল = [math]2 \\times 11 = 22[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]121[/math]\u003Cbr\u003E বর্গ সে.মি.আমরা জানি:[math]A = \\frac{1}{2} \\times (a + b) \\times h[/math]\u003Cbr\u003E [math]121 = \\frac{1}{2} \\times 22 \\times h[/math]\u003Cbr\u003E [math]121 = 11h[/math]\u003Cbr\u003E [math]h = \\frac{121}{11} = 11[/math]\u003Cbr\u003Eনির্ণেয় দূরত্ব = ১১ সে.মি.",
+        "explanation": "ট্রাপিজিয়ামের ক্ষেত্রফল সূত্র হল [math]A=\\frac{b_1+b_2}{2}\\times h[/math], এখানে গড় (মধ্যমান) [math]\\frac{b_1+b_2}{2}=11[/math], তাই [math]121=11\\times h\\Rightarrow h=\\dfrac{121}{11}=11\\ \\text{সে.মি.}[/math]; অর্থাৎ মধ্যবর্তী লম্ব ১১ সে.মি.।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536916,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536918,
+      "value": {
+        "options": [],
+        "question": "কোনো ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয়ের দৈর্ঘ্যের গড় ৫০ সে.মি. এবং মধ্যবর্তী দূরত্ব ২০ সে.মি. হলে, ট্রাপিজিয়ামের ক্ষেত্রফল কত?",
+        "solution": "দেওয়া আছে:গড় দৈর্ঘ্য = ৫০ সে.মি., ⇒ যোগফল = [math]2 \\times 50 = 100[/math]\u003Cbr\u003Eদূরত্ব = [math]20[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\frac{1}{2} \\times 100 \\times 20 = 1000[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ১০০০ বর্গ সে.মি.",
+        "explanation": "ট্রাপিজিয়ামের ক্ষেত্রফল সমান্তরাল বাহুদ্বয়ের গড় দৈর্ঘ্যকে উচ্চতায় গুণ করলে পাওয়া যায়, অর্থাৎ [math]A=\\frac{a+b}{2}\\times h[/math]. এখানে গড় [math]\\frac{a+b}{2}=50\\ \\text{সে.মি.}[/math] এবং উচ্চতা [math]h=20\\ \\text{সে.মি.}[/math], তাই [math]A=50\\times20=1000\\ \\text{বর্গ সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536918,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536920,
+      "value": {
+        "options": [],
+        "question": "কোনো বর্গের পরিসীমা ১২ সে.মি. হলে, এর কর্ণের দৈর্ঘ্য কত?",
+        "solution": "[math]4a = 12 \\Rightarrow a = 3[/math]\u003Cbr\u003E⇒ কর্ণ [math]= \\sqrt{2}a = \\sqrt{2} \\times 3 = 3\\sqrt{2}[/math]\u003Cbr\u003E সে.মি.নির্ণেয় কর্ণ = 3√2 সে.মি.",
+        "explanation": "ব্যাখ্যা: বর্গের পরিসীমা [math]P=4s[/math] হওয়ায় [math]4s=12\\Rightarrow s=3[/math] সেমি; কর্ণের মান পিথাগোরাস বা সূত্র [math]d=s\\sqrt{2}[/math] প্রয়োগে [math]d=3\\sqrt{2}[/math] সেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536920,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536921,
+      "value": {
+        "options": [],
+        "question": "কোনো সামান্তরিকের ভূমি ১৮ সে.মি. এবং ক্ষেত্রফল ২১৬ বর্গ সে.মি. হলে, সামান্তরিকটির উচ্চতা কত?",
+        "solution": "দেওয়া আছে:ভূমি = ১৮ সে.মি., ক্ষেত্রফল = ২১৬ বর্গ সে.মি.আমরা জানি,ক্ষেত্রফল = ভূমি × উচ্চতা⇒ [math]216 = 18 \\times h[/math]\u003Cbr\u003E⇒ [math]h = \\frac{216}{18} = 12[/math]\u003Cbr\u003Eনির্ণেয় উচ্চতা = ১২ সে.মি.",
+        "explanation": "সমাধান: সামান্তরিকের ক্ষেত্রফল সূত্র হলো [math]A = b \\times h[/math], যেখানে [math]b[/math] ভূমি ও [math]h[/math] উচ্চতা। প্রদত্ত মান বসালে [math]216 = 18 \\times h[/math] হয়, তাই [math]h = 216/18 = 12\\ \\text{সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536921,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536923,
+      "value": {
+        "options": [],
+        "question": "কোনো সামান্তরিকের ২৪ সে.মি. দৈর্ঘ্যবিশিষ্ট কর্ণের উপর বিপরীত কৌণিক বিন্দু হতে অঙ্কিত লম্ব ৭ সে.মি. হলে, সামান্তরিকটির ক্ষেত্রফল কত?",
+        "solution": "দেওয়া আছে:কর্ণ [math]d = 24[/math]\u003Cbr\u003E সে.মি., লম্ব [math]h = 7[/math]\u003Cbr\u003E সে.মি.আমরা জানি,ক্ষেত্রফল [math]= d \\times h[/math]\u003Cbr\u003E⇒ [math]= 24 \\times 7 = 168[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ১৬৮ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: কর্ণ দুটো সমকক্ষ ত্রিভুজ করে ভাগ করে, এবং কর্ণের উপর থেকে বিপরীত কোণ থেকে অঙ্কিত লম্বটি ওই ত্রিভুজগুলোর উচ্চতাই। এক ত্রিভুজের ক্ষেত্রফল হবে [math]\\tfrac{1}{2}\\times24\\times7=84[/math], তাই সামান্তরিকের মোট ক্ষেত্রফল হবে [math]2\\times84=168\\ \\text{সে.মি.}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536923,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536927,
+      "value": {
+        "options": [],
+        "question": "একটি সামান্তরিকের একটি কর্ণের দৈর্ঘ্য ১৬ সে.মি. এবং ক্ষেত্রফল ৮০ বর্গ সে.মি. হলে, ঐ কর্ণের বিপরীত কৌণিক বিন্দু হতে কর্ণের উপর অঙ্কিত লম্বের দৈর্ঘ্য কত?",
+        "solution": "দেওয়া আছে:কর্ণ [math]d = 16[/math]\u003Cbr\u003E সে.মি., ক্ষেত্রফল [math]= 80[/math]\u003Cbr\u003E বর্গ সে.মি.আমরা জানি,ক্ষেত্রফল [math]= d \\times h[/math]\u003Cbr\u003E⇒ [math]80 = 16 \\times h[/math]\u003Cbr\u003E⇒ [math]h = \\frac{80}{16} = 5[/math]\u003Cbr\u003Eনির্ণেয় লম্বের দৈর্ঘ্য = ৫ সে.মি.",
+        "explanation": "ডায়াগনালকে ভিত্তি ধরে, বিপরীত কোণ থেকে আঁকা লম্বটি সেই ভিত্তির উপর উচ্চতা, এবং সামান্তরিকের ক্ষেত্রফল = ভিত্তি × উচ্চতা। তাই [math]80 = 16\\times h[/math], ফলে [math]h = 5\\ \\text{সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536927,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536930,
+      "value": {
+        "options": [],
+        "question": "সামান্তরিকের পরিসীমা ২৮ সে.মি. এবং সন্নিহিত বাহুদ্বয়ের অনুপাত ৪:৩ হলে, বৃহত্তম ও ক্ষুদ্রতম বাহুর দৈর্ঘ্যের অন্তর কত?",
+        "solution": "ধরি, সন্নিহিত বাহুদ্বয় = [math]4x[/math]\u003Cbr\u003E ও [math]3x[/math]\u003Cbr\u003Eতাহলে, পরিসীমা [math]= 2(4x + 3x) = 14x[/math]\u003Cbr\u003Eশর্তমতে, [math]14x = 28[/math]\u003Cbr\u003E⇒ [math]x = \\frac{28}{14} = 2[/math]\u003Cbr\u003Eবৃহত্তম বাহু = [math]4 \\times 2 = 8[/math]\u003Cbr\u003Eক্ষুদ্রতম বাহু = [math]3 \\times 2 = 6[/math]\u003Cbr\u003E⇒ বাহুর দৈর্ঘ্যের অন্তর = [math]8 - 6 = 2[/math]\u003Cbr\u003Eনির্ণেয় অন্তর = ২ সে.মি.",
+        "explanation": "বাহুগুলোকে ধরে নিন [math]4k[/math] ও [math]3k[/math], আর পরিসীমা থেকে [math]2(4k+3k)=28[/math] হলে [math]14k=28\\Rightarrow k=2[/math] হয়; ফলে বাহুগুলো হল [math]8\\ \\text{সে.মি.}[/math] ও [math]6\\ \\text{সে.মি.}[/math], তাদের অন্তর [math]8-6=2\\ \\text{সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536930,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536934,
+      "value": {
+        "options": [],
+        "question": "রম্বসের দুইটি কর্ণের দৈর্ঘ্য যথাক্রমে ২০ সে.মি. এবং ২৪ সে.মি. হলে, রম্বসটির ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে:[math]d_1 = 20[/math]\u003Cbr\u003E সে.মি., [math]d_2 = 24[/math]\u003Cbr\u003E সে.মি.আমরা জানি, ক্ষেত্রফল = [math]\\frac{1}{2} \\times d_1 \\times d_2[/math]\u003Cbr\u003E= [math]\\frac{1}{2} \\times 20 \\times 24[/math]\u003Cbr\u003E= [math]240[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় রম্বসের ক্ষেত্রফল = ২৪০ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: রম্বসের ক্ষেত্রফল দুইটি কর্ণের গুণফলের অর্ধেক, কারণ কর্ণদ্বয় একে অপরকে লম্বভাবে বিভক্ত করে এবং মোট ক্ষেত্রটি সেই গুণফলের অর্ধাংশ হয়। তাই [math]A=\\tfrac{1}{2}\\times20\\times24=240\\ \\text{সে.মি.}^2[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536934,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536884,
+      "value": {
+        "options": [],
+        "question": "কোনো আয়তক্ষেত্রের দৈর্ঘ্য [math]8[/math] সে.মি. ও কর্ণ [math]10[/math] সে.মি. হলে, ক্ষেত্রফল কত?",
+        "solution": "[math]a = 8[/math]\u003Cbr\u003E সে.মি., [math]d = 10[/math]\u003Cbr\u003E সে.মি.ধরি, প্রস্থ [math]= b[/math]\u003Cbr\u003Eতাহলে [math]10^2 = 8^2 + b^2[/math]\u003Cbr\u003E⇒ [math]100 = 64 + b^2[/math]\u003Cbr\u003E⇒ [math]b^2 = 36[/math]\u003Cbr\u003E ⇒ [math]b = 6[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]a \\times b = 8 \\times 6 = 48[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = [math]48[/math]\u003Cbr\u003E বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: আয়তক্ষেত্রের কর্ণের জন্য পিথাগোরাস সূত্র প্রযোজ্য, তাই [math]10^2=8^2+b^2[/math] থেকে [math]b^2=36[/math] ও [math]b=6[/math] সে.মি.। তারপর ক্ষেত্রফল [math]A=8\\times6=48[/math] বর্গসেমি।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536884,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536864,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম পঞ্চভুজের প্রতি বাহুর দৈর্ঘ্য ৬ সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে: [math]a = 6[/math]\u003Cbr\u003E সে.মি., [math]n = 5[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{n a^2}{4} \\cot \\left(\\frac{180^\\circ}{n}\\right)[/math]\u003Cbr\u003E [math]= \\frac{5 \\times 6^2}{4} \\cot 36^\\circ = 45 \\times 1.376 = 61.92[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ৬১.৯২ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: একটি সুষম পঞ্চভুজের ক্ষেত্রফল সূত্র [math]A=\\tfrac{1}{4}\\sqrt{5(5+2\\sqrt{5})}\\;s^2[/math], যেখানে [math]s[/math] হলো বাহুর দৈর্ঘ্য। এখানে [math]s=6[/math] দিলে [math]A=9\\sqrt{25+10\\sqrt{5}}\\ \\text{cm}^2\\approx61.94\\ \\text{cm}^2[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536864,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536866,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম পঞ্চভুজের প্রতি বাহুর দৈর্ঘ্য ৮ সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে:বাহুর দৈর্ঘ্য [math]a = 8[/math]\u003Cbr\u003E সে.মি.বাহুর সংখ্যা [math]n = 5[/math]\u003Cbr\u003Eআমরা জানি:সুষম বহুভুজের ক্ষেত্রফল = [math]\\frac{n a^2}{4} \\cot\\left(\\frac{180^\\circ}{n}\\right)[/math]\u003Cbr\u003E⇒ [math]\\frac{5 \\times 8^2}{4} \\cot\\left(\\frac{180^\\circ}{5}\\right)[/math]\u003Cbr\u003E= [math]\\frac{5 \\times 64}{4} \\cot(36^\\circ)[/math]\u003Cbr\u003E= [math]80 \\times \\cot(36^\\circ)[/math]\u003Cbr\u003E(ক্যালকুলেটরের সাহায্যে)[math]\\cot(36^\\circ) \\approx 1.376[/math]\u003Cbr\u003E⇒ [math]80 \\times 1.376 = 110.08[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ১১০.০৮ বর্গ সে.মি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: সুষম পঞ্চভুজের ক্ষেত্রফল সূত্র [math]A=\\tfrac{1}{4}\\sqrt{5(5+2\\sqrt5)}\\,a^2[/math] (পঞ্চভুজকে ৫টি সমদ্বিবাহু ত্রিভুজে ভাগ করে পাওয়া যায়)। এখানে [math]a=8\\ \\text{সে.মি.}[/math], তাই [math]A=\\tfrac{1}{4}\\sqrt{5(5+2\\sqrt5)}\\times64=16\\sqrt{5(5+2\\sqrt5)}\\approx110.11\\ \\text{বর্গ-সে.মি.}[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536866,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536868,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি ১০৮০° হলে, বহুভুজটির বাহুর সংখ্যা নির্ণয় কর।",
+        "solution": "[math](n - 2) \\times 180^\\circ = 1080^\\circ[/math]\u003Cbr\u003E [math]n - 2 = \\frac{1080}{180} = 6[/math]\u003Cbr\u003E [math]n = 6 + 2 = 8[/math]\u003Cbr\u003Eনির্ণেয় বাহুর সংখ্যা = ৮",
+        "explanation": "সমাধান: বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি [math](n-2)\\times180^\\circ[/math] হয়। তাই [math](n-2)\\times180^\\circ=1080^\\circ\\Rightarrow n-2=6\\Rightarrow n=8[/math], অর্থাৎ বহুভুজটির ৮টি বাহু আছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536868,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536870,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি 1440° হলে, বহুভুজটির বাহুর সংখ্যা নির্ণয় কর।",
+        "solution": "আমরা জানি, অন্তঃস্থ কোণের সমষ্টি [math]= (n - 2) \\times 180[/math]\u003Cbr\u003E [math]1440 = (n - 2) \\times 180[/math]\u003Cbr\u003E [math]n - 2 = \\dfrac{1440}{180} = 8[/math]\u003Cbr\u003E [math]n = 8 + 2 = 10[/math]\u003Cbr\u003Eনির্ণেয় বাহুর সংখ্যা = 10",
+        "explanation": "সমাধান: একটি [math]n[/math]-বহুভুজের অন্তঃস্থ কোণগুলোর সমষ্টি সূত্র হলো [math](n-2)\\times180^\\circ[/math], যা দেওয়া আছে [math]1440^\\circ[/math], তাই [math](n-2)\\times180=1440[/math]. ফলে [math]n-2=8[/math] এবং [math]n=10[/math] — অতএব বহুভুজটির বাহুর সংখ্যা 10।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536870,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536872,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম বহুভুজের প্রতি বাহুর দৈর্ঘ্য 7 সে.মি. এবং বাহুর সংখ্যা 8 হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে, [math]a = 7[/math]\u003Cbr\u003E, [math]n = 8[/math]\u003Cbr\u003Eক্ষেত্রফল [math]= \\dfrac{8 \\times 7^2}{4} \\cot\\left(\\dfrac{180^\\circ}{8}\\right)[/math]\u003Cbr\u003E [math]= \\dfrac{8 \\times 49}{4} \\cot(22.5^\\circ)[/math]\u003Cbr\u003E [math]= 98 \\times \\cot(22.5^\\circ)[/math]\u003Cbr\u003Eযেহেতু [math]\\cot(22.5^\\circ) \\approx 2.414[/math]\u003Cbr\u003E,[math]= 98 \\times 2.414 \\approx 236.57[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল ≈ 236.57 বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: একটি সুষম n-বাহু বহুভুজের ক্ষেত্রফল [math]A=\\tfrac{1}{4}n a^2\\cot(\\pi/n)[/math] হয়, সুতরাং n=8, a=7 হলে [math]A=\\tfrac{1}{4}\\cdot8\\cdot7^2\\cot(\\pi/8)=98\\cot(\\pi/8)[/math]. এখানে [math]\\cot(\\pi/8)=1+\\sqrt{2}[/math] হওয়ায় [math]A=98(1+\\sqrt{2})\\approx236.19\\ \\text{সেমি}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536872,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536875,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের অন্তঃস্থ কোণগুলোর সমষ্টি কত?",
+        "solution": "[math]n = 6[/math]\u003Cbr\u003Eঅন্তঃ কোণের সমষ্টি = [math](n - 2) \\times 180^\\circ = 4 \\times 180^\\circ = 720^\\circ[/math]\u003Cbr\u003Eনির্ণেয় কোণের সমষ্টি = ৭২০°",
+        "explanation": "ব্যাখ্যা: কোনো n-বর্গীয় বহুভুজের অন্তঃস্থ কোণের যোগফল সূত্র হলো [math](n-2)\\times 180^\\circ[/math]. সুষম ষড়ভুজে [math]n=6[/math] হলে [math](6-2)\\times 180^\\circ=720^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536875,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536877,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের ক্ষেত্রফল [math]18\\sqrt{3}[/math] বর্গ একক হলে, প্রতি বাহুর দৈর্ঘ্য কত একক?",
+        "solution": "দেওয়া আছে: ক্ষেত্রফল [math]= 18\\sqrt{3}[/math]\u003Cbr\u003E, [math]n = 6[/math]\u003Cbr\u003Eফর্মুলা: [math]\\frac{6 a^2}{4} \\cot 30^\\circ = 18\\sqrt{3}[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{3a^2}{2} \\times \\sqrt{3} = 18\\sqrt{3}[/math]\u003Cbr\u003E⇒ [math]a^2 = 12 \\Rightarrow a = 2\\sqrt{3}[/math]\u003Cbr\u003Eনির্ণেয় বাহুর দৈর্ঘ্য = [math]2\\sqrt{3}[/math]\u003Cbr\u003E একক",
+        "explanation": "ব্যাখ্যা: সুষম ষড়ভুজের ক্ষেত্রফল দেওয়া সূত্র হল [math]A=\\frac{3\\sqrt{3}}{2}a^2[/math] যেখানে [math]a[/math] হলো প্রতি বাহুর দৈর্ঘ্য; তাই [math]\\frac{3\\sqrt{3}}{2}a^2=18\\sqrt{3}\\Rightarrow \\frac{3}{2}a^2=18\\Rightarrow a^2=12\\Rightarrow a=2\\sqrt{3}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536877,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536880,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের ক্ষেত্রফল 93.53 বর্গ সে.মি. হলে, প্রতি বাহুর দৈর্ঘ্য নির্ণয় কর।",
+        "solution": "ধরি, প্রতি বাহুর দৈর্ঘ্য [math]= a[/math]\u003Cbr\u003E এবং বাহুর সংখ্যা [math]n = 6[/math]\u003Cbr\u003Eআমরা জানি, ক্ষেত্রফল [math]= \\dfrac{n a^2}{4} \\cot\\left(\\dfrac{180^\\circ}{n}\\right)[/math]\u003Cbr\u003E [math]\\Rightarrow \\dfrac{6a^2}{4} \\cot(30^\\circ) = 93.53[/math]\u003Cbr\u003E [math]\\Rightarrow 1.5a^2 \\times \\sqrt{3} = 93.53[/math]\u003Cbr\u003E [math]\\Rightarrow a^2 = \\dfrac{93.53}{1.5 \\sqrt{3}} \\approx 35.99[/math]\u003Cbr\u003E [math]\\Rightarrow a = \\sqrt{35.99} \\approx 5.99[/math]\u003Cbr\u003Eনির্ণেয় বাহুর দৈর্ঘ্য ≈ 5.99 সে.মি.",
+        "explanation": "সুষম ষড়ভুজ ৬টি সমবাহু ত্রিভুজ নিয়ে গঠিত, তাই এর ক্ষেত্রফল [math]A=\\tfrac{3\\sqrt{3}}{2}a^2[/math]. এখানে [math]93.53=\\tfrac{3\\sqrt{3}}{2}a^2[/math] থেকে [math]a^2=36[/math] ফলে [math]a=6\\ \\text{সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536880,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536882,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম ষড়ভুজের বাহুর দৈর্ঘ্য ৫ সে.মি. হলে, এর ক্ষেত্রফল নির্ণয় কর।",
+        "solution": "দেওয়া আছে: [math]a = 5[/math]\u003Cbr\u003E সে.মি., [math]n = 6[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]\\frac{6 \\times 5^2}{4} \\cot 30^\\circ = 37.5 \\times \\sqrt{3} = 64.95[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ৬৪.৯৫ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: একটি সুষম ষড়ভুজকে ছয়টি সমবাহু ত্রিভুজে ভাগ করলে প্রতিটি ত্রিভুজের ক্ষেত্রফল [math]\\frac{\\sqrt{3}}{4}a^2[/math] হয়, অতএব সমগ্র ক্ষেত্রফল [math]6\\times\\frac{\\sqrt{3}}{4}a^2=\\frac{3\\sqrt{3}}{2}a^2[/math]. এখানে [math]a=5[/math] হলে ক্ষেত্রফল [math]\\frac{3\\sqrt{3}}{2}\\times25=\\frac{75\\sqrt{3}}{2}\\ \\text{সেমি}^2\\approx64.95\\ \\text{সেমি}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536882,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536862,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম পঞ্চভুজের ক্ষেত্রফল ৩০ বর্গ সে.মি. হলে, এর প্রতি বাহুর দৈর্ঘ্য কত?",
+        "solution": "দেওয়া আছে: ক্ষেত্রফল = ৩০, [math]n = 5[/math]\u003Cbr\u003E [math]\\frac{5 a^2}{4} \\cot 36^\\circ = 30[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{5a^2}{4} \\times 1.376 = 30[/math]\u003Cbr\u003E [math]\\Rightarrow a^2 = \\frac{30 \\times 4}{5 \\times 1.376} = 17.4419[/math]\u003Cbr\u003E [math]a = \\sqrt{17.4419} \\approx 4.18[/math]\u003Cbr\u003Eনির্ণেয় বাহুর দৈর্ঘ্য = ৪.১৮ সে.মি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: সুষম পঞ্চভুজের ক্ষেত্রফল [math]A=\\dfrac{1}{4}\\sqrt{5(5+2\\sqrt{5})}\\,s^2[/math] হয়, তাই [math]s^2=\\dfrac{4A}{\\sqrt{5(5+2\\sqrt{5})}}[/math]. [math]A=30[/math] বসালে [math]s^2=\\dfrac{120}{\\sqrt{25+10\\sqrt{5}}}[/math] এবং তাই [math]s\\approx4.18\\text{ সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536862,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536886,
+      "value": {
+        "options": [],
+        "question": "কোনো ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয়ের দৈর্ঘ্যের গড় ১১ সে.মি. এবং ক্ষেত্রফল ১২১ বর্গ সে.মি. হলে, মধ্যবর্তী লম্ব দূরত্ব নির্ণয় কর।",
+        "solution": "দেওয়া আছে:গড় দৈর্ঘ্য = [math]11[/math]\u003Cbr\u003E সে.মি., ⇒ যোগফল = [math]2 \\times 11 = 22[/math]\u003Cbr\u003Eক্ষেত্রফল = [math]121[/math]\u003Cbr\u003E বর্গ সে.মি.আমরা জানি:[math]A = \\frac{1}{2} \\times (a + b) \\times h[/math]\u003Cbr\u003E [math]121 = \\frac{1}{2} \\times 22 \\times h[/math]\u003Cbr\u003E [math]121 = 11h[/math]\u003Cbr\u003E [math]h = \\frac{121}{11} = 11[/math]\u003Cbr\u003Eনির্ণেয় দূরত্ব = ১১ সে.মি.",
+        "explanation": "ব্যাখ্যা: একটি ট্রাপিজিয়ামের ক্ষেত্রফল = গড় সমান্তরাল বাহু × মধ্যবর্তী লম্ব, অর্থাৎ [math]A=\\frac{(a+b)}{2}\\times h[/math]. এখানে গড় = [math]11[/math] হলে [math]a+b=22[/math] এবং [math]121=\\frac{22}{2}\\,h=11h[/math], ফলে [math]h=11\\ \\text{সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536886,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536888,
+      "value": {
+        "options": [],
+        "question": "কোনো ট্রাপিজিয়ামের সমান্তরাল বাহুদ্বয়ের দৈর্ঘ্যের গড় ৫০ সে.মি. এবং মধ্যবর্তী দূরত্ব ২০ সে.মি. হলে, ট্রাপিজিয়ামের ক্ষেত্রফল কত?",
+        "solution": "দেওয়া আছে:গড় দৈর্ঘ্য = ৫০ সে.মি., ⇒ যোগফল = [math]2 \\times 50 = 100[/math]\u003Cbr\u003Eদূরত্ব = [math]20[/math]\u003Cbr\u003E সে.মি.ক্ষেত্রফল = [math]\\frac{1}{2} \\times 100 \\times 20 = 1000[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ১০০০ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: ট্রাপিজিয়ানের ক্ষেত্রফল সমান্তরল বাহুদ্বয়ের গড় (মধ্যরেখা) ও তাদের মধ্যবর্তী দূরত্ব (উচ্চতা) এর গুণফল। তাই [math]A = (\\text{গড় বাহু})\\times(\\text{উচ্চতা})[/math], এবং [math]A = 50 \\times 20 = 1000\\ \\text{সে.মি.}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536888,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536890,
+      "value": {
+        "options": [],
+        "question": "কোনো বর্গের পরিসীমা ১২ সে.মি. হলে, এর কর্ণের দৈর্ঘ্য কত?",
+        "solution": "[math]4a = 12 \\Rightarrow a = 3[/math]\u003Cbr\u003E⇒ কর্ণ [math]= \\sqrt{2}a = \\sqrt{2} \\times 3 = 3\\sqrt{2}[/math]\u003Cbr\u003E সে.মি.নির্ণেয় কর্ণ = 3√2 সে.মি.",
+        "explanation": "ব্যাখ্যা: একটি বর্গের পরিসীমা = 4 × পাশ, তাই [math]s = 12/4 = 3\\text{ cm}[/math]. কর্ণটা পাশ দুটির সমকোণী ত্রিভুজে পাইথাগোরাস অনুযায়ী [math]d = s\\sqrt{2} = 3\\sqrt{2}\\text{ cm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536890,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536892,
+      "value": {
+        "options": [],
+        "question": "কোনো সামান্তরিকের ভূমি ১৮ সে.মি. এবং ক্ষেত্রফল ২১৬ বর্গ সে.মি. হলে, সামান্তরিকটির উচ্চতা কত?",
+        "solution": "দেওয়া আছে:ভূমি = ১৮ সে.মি., ক্ষেত্রফল = ২১৬ বর্গ সে.মি.আমরা জানি,ক্ষেত্রফল = ভূমি × উচ্চতা⇒ [math]216 = 18 \\times h[/math]\u003Cbr\u003E⇒ [math]h = \\frac{216}{18} = 12[/math]\u003Cbr\u003Eনির্ণেয় উচ্চতা = ১২ সে.মি.",
+        "explanation": "ব্যাখ্যা: সামান্তরিকের ক্ষেত্রফল = ভিত্তি × উচ্চতা, তাই উচ্চতা = ক্ষেত্রফল ÷ ভিত্তি. [math]h = 216 ÷ 18 = 12\\ \\text{সে.মি.}[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536892,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536894,
+      "value": {
+        "options": [],
+        "question": "কোনো সামান্তরিকের ২৪ সে.মি. দৈর্ঘ্যবিশিষ্ট কর্ণের উপর বিপরীত কৌণিক বিন্দু হতে অঙ্কিত লম্ব ৭ সে.মি. হলে, সামান্তরিকটির ক্ষেত্রফল কত?",
+        "solution": "দেওয়া আছে:কর্ণ [math]d = 24[/math]\u003Cbr\u003E সে.মি., লম্ব [math]h = 7[/math]\u003Cbr\u003E সে.মি.আমরা জানি,ক্ষেত্রফল [math]= d \\times h[/math]\u003Cbr\u003E⇒ [math]= 24 \\times 7 = 168[/math]\u003Cbr\u003E বর্গ সে.মি.নির্ণেয় ক্ষেত্রফল = ১৬৮ বর্গ সে.মি.",
+        "explanation": "ব্যাখ্যা: সামান্তরিকের একটি কর্ণকে ভিত্তি ধরে শীর্ষ থেকে অঙ্কিত লম্ব হলে দুটি ত্রিভুজ গঠিত হয়, প্রতিটির ক্ষেত্রফল [math]\\tfrac{1}{2}\\times d\\times h[/math] হওয়ায় মোট ক্ষেত্রফল হয় [math]d\\times h[/math]. এখানে [math]d=24\\ \\text{cm}[/math] এবং [math]h=7\\ \\text{cm}[/math], তাই ক্ষেত্রফল = [math]24\\times7=168\\ \\text{cm}^2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536894,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536895,
+      "value": {
+        "options": [],
+        "question": "একটি সামান্তরিকের একটি কর্ণের দৈর্ঘ্য ১৬ সে.মি. এবং ক্ষেত্রফল ৮০ বর্গ সে.মি. হলে, ঐ কর্ণের বিপরীত কৌণিক বিন্দু হতে কর্ণের উপর অঙ্কিত লম্বের দৈর্ঘ্য কত?",
+        "solution": "দেওয়া আছে:কর্ণ [math]d = 16[/math]\u003Cbr\u003E সে.মি., ক্ষেত্রফল [math]= 80[/math]\u003Cbr\u003E বর্গ সে.মি.আমরা জানি,ক্ষেত্রফল [math]= d \\times h[/math]\u003Cbr\u003E⇒ [math]80 = 16 \\times h[/math]\u003Cbr\u003E⇒ [math]h = \\frac{80}{16} = 5[/math]\u003Cbr\u003Eনির্ণেয় লম্বের দৈর্ঘ্য = ৫ সে.মি.",
+        "explanation": "ব্যাখ্যা: কর্ণটি সামান্তরিককে সমান দুইটি ত্রিভুজে ভাগ করে, সুতরাং প্রতিটি ত্রিভুজের ক্ষেত্রফল [math]80/2=40[/math]. এক ত্রিভুজের ক্ষেত্রফল সূত্র অনুযায়ী [math]\\tfrac{1}{2}\\times16\\times h=40\\Rightarrow h=5\\text{ সে.মি.}[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536895,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536897,
+      "value": {
+        "options": [],
+        "question": "একটি সুষম পঞ্চভুজের ক্ষেত্রফল ৩০ বর্গ সে.মি. হলে, এর প্রতি বাহুর দৈর্ঘ্য কত?",
+        "solution": "দেওয়া আছে: ক্ষেত্রফল = ৩০, [math]n = 5[/math]\u003Cbr\u003E [math]\\frac{5 a^2}{4} \\cot 36^\\circ = 30[/math]\u003Cbr\u003E [math]\\Rightarrow \\frac{5a^2}{4} \\times 1.376 = 30[/math]\u003Cbr\u003E [math]\\Rightarrow a^2 = \\frac{30 \\times 4}{5 \\times 1.376} = 17.4419[/math]\u003Cbr\u003E [math]a = \\sqrt{17.4419} \\approx 4.18[/math]\u003Cbr\u003Eনির্ণেয় বাহুর দৈর্ঘ্য = ৪.১৮ সে.মি. (প্রায়)",
+        "explanation": "ব্যাখ্যা: সুষম পঞ্চভুজের ক্ষেত্রফল সূত্র [math]A=\\tfrac{1}{4}\\sqrt{5(5+2\\sqrt5)}\\,a^2[/math], তাই [math]a=\\sqrt{\\dfrac{4A}{\\sqrt{5(5+2\\sqrt5)}}}[/math]. এখানে [math]A=30[/math] বসালে [math]a=\\sqrt{\\dfrac{120}{\\sqrt{5(5+2\\sqrt5)}}}\\approx4.18\\ \\text{সে.মি.}[/math], এই কারণেই প্রতি বাহুর দৈর্ঘ্য প্রায় [math]4.18[/math] সে.মি.।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536897,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536898,
+      "value": {
+        "options": [],
+        "question": "সামান্তরিকের পরিসীমা ২৮ সে.মি. এবং সন্নিহিত বাহুদ্বয়ের অনুপাত ৪:৩ হলে, বৃহত্তম ও ক্ষুদ্রতম বাহুর দৈর্ঘ্যের অন্তর কত?",
+        "solution": "ধরি, সন্নিহিত বাহুদ্বয় = [math]4x[/math]\u003Cbr\u003E ও [math]3x[/math]\u003Cbr\u003Eতাহলে, পরিসীমা [math]= 2(4x + 3x) = 14x[/math]\u003Cbr\u003Eশর্তমতে, [math]14x = 28[/math]\u003Cbr\u003E⇒ [math]x = \\frac{28}{14} = 2[/math]\u003Cbr\u003Eবৃহত্তম বাহু = [math]4 \\times 2 = 8[/math]\u003Cbr\u003Eক্ষুদ্রতম বাহু = [math]3 \\times 2 = 6[/math]\u003Cbr\u003E⇒ বাহুর দৈর্ঘ্যের অন্তর = [math]8 - 6 = 2[/math]\u003Cbr\u003Eনির্ণেয় অন্তর = ২ সে.মি.",
+        "explanation": "ধরি সন্নিহিত বাহুগুলো হলো [math]4k[/math] ও [math]3k[/math] কারণ অনুপাত [math]4:3[/math]. পরিসীমা হল দুই হাজার সমষ্টি, তাই [math]2(4k+3k)=28 \\Rightarrow 14k=28 \\Rightarrow k=2[/math] এবং বাহুদ্বয়ের দৈর্ঘ্য হল [math]8\\,cm[/math] ও [math]6\\,cm[/math]. তাদের অন্তর হল [math]8-6=2\\,cm[/math], কারণ পরিসীমা থেকে অনুপাত অনুযায়ী k বের করলে সরাসরি বাহুগুলো নির্ণয় হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536898,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12960&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12960&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12960&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 38,
+  "total": 38
+}

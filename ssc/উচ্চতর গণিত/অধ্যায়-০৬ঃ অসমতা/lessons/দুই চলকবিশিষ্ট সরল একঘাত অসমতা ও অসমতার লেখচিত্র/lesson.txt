@@ -1,0 +1,707 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 774811,
+      "value": {
+        "options": {
+          "ক": "$S=\\{x \\in R: x \\leq-6\\}$",
+          "খ": "$S=\\{x \\in R: x \\geq-6\\}$",
+          "গ": "$S=\\{x \\in R: x \\leq 6\\}$",
+          "ঘ": "$S=\\{x \\in R: x \\geq 6\\}$"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10688-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2264;&lt;/mo&gt;&lt;mfrac&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/mfrac&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-146792\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-146793\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-146794\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146795\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.501em;\"\u003E≤\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146796\" class=\"mjx-mfrac MJXc-space3\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.546em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.772em; top: -1.095em;\"\u003E\u003Cspan id=\"MJXc-Node-146797\" class=\"mjx-mi\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.772em; bottom: -0.621em;\"\u003E\u003Cspan id=\"MJXc-Node-146798\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.546em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.213em; vertical-align: -0.439em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146799\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146800\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E≤\u003C/mo\u003E\u003Cmfrac\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003C/mfrac\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10688\"\u003Ex \\leq \\frac{x}{3}+4\u003C/script\u003E&nbsp;অসমতাটির সমাধান সেট কোনটি?",
+        "solution": "$x \\leq \\frac{x}{3}+4$\u003Cbr /\u003E\nবা, $3 x \\leq x+12$\u003Cbr /\u003E\nবা, $3 x-x \\leq 12$\u003Cbr /\u003E\nবা, $2 x \\leq 12$\u003Cbr /\u003E\n$\\therefore \\quad x \\leq 6$.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 774811,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774812,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\((3,-2)\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\((-3,8)\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\((-3,-5)\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\((-2,4)\\)\u003C/span\u003E"
+        },
+        "question": "নিচের কোন বিন্দুটি \u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10698-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;gt;&lt;/mo&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-146893\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-146894\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-146895\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146896\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146897\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146898\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146899\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146900\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&gt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-146901\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E5\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E&gt;\u003C/mo\u003E\u003Cmn\u003E5\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10698\"\u003E3x + 2y \u003E 5\u003C/script\u003E\u003C/span\u003E অসমতার জন্য সত্য?",
+        "solution": "প্রদত্ত অসমতা, $3 x+2 y&gt;5$\u003Cbr /\u003E\n$(-3,8)$ বিন্দুতে $3 \\mathrm{x}+2 \\mathrm{y}=3(-3)+2 \\times 8=-9+16=7&gt;5$, যা সত্য\u003Cbr /\u003E\n$\\therefore(-3,8)$ বিন্দুতে $3 x+2 y&gt;5$ অসমতাটি সিদ্ধ হয়।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3819,
+          "full_name": "দি. বো.'২০২৪",
+          "short_name": "দি. বো.'২০২৪",
+          "slug": "di-bo2024",
+          "pivot": {
+            "question_bank_id": 774812,
+            "tag_id": 3819,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774813,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(f(p) = 0\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(f(p)&gt;0\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(f(p) &lt;0\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(\\)\u003C/span\u003E$f(\\mathrm{p}) \\neq 0$"
+        },
+        "question": "p বিন্দুটি লেখের বহিঃস্থ বিন্দু হলে কোনটি সঠিক?",
+        "solution": "ঘ. \u003Cspan class=\"math-tex\"\u003E\\(\\)\u003C/span\u003E$f(\\mathrm{p}) \\neq 0$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774814,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\((-3,3)\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\((2,5)\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\((0,1)\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\((2,-1)\\)\u003C/span\u003E"
+        },
+        "question": "নিচের কোন বিন্দুটি&nbsp;\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10723-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;&amp;gt;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147153\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147154\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147155\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147156\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147157\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147158\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147159\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147160\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147161\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147162\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&gt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147163\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmo\u003E&gt;\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10723\"\u003E2 x+3 y-3\u003E0\u003C/script\u003E&nbsp;অসমতার অন্তর্গত?",
+        "solution": "দেওয়া আছে, $2 x+3 y-3&gt;0$\u003Cbr /\u003E\n$(-3,3)$ হলে, $2(-3)+3.3-3=-6+9-3=0$\u003Cbr /\u003E\n$(2,5)$ হলে, $2.2+3.5-3=4+15-3=16&gt;0$\u003Cbr /\u003E\n$(0,1)$ হলে, $0+3.1-3=0$\u003Cbr /\u003E\n$(2,-1)$ হলে, $2.2+3(-1)-3=4-3-3=-2&lt;0$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3785,
+          "full_name": "ঢা. বো.'২০১৯",
+          "short_name": "ঢা. বো.'২০১৯",
+          "slug": "dha-bo2019",
+          "pivot": {
+            "question_bank_id": 774814,
+            "tag_id": 3785,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774815,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(5x ≤ 2x+15\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(5x&lt;2x+15\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(5x&gt;2x+15\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(5x ≥ 2x + 15\\)\u003C/span\u003E"
+        },
+        "question": "কোনো ধনাত্মক পূর্ণসংখ্যার 5 গুণ সংখ্যাটির দ্বিগুণ এবং 15 এর সমষ্টি অপেক্ষা ছোট। এক্ষেত্রে অসমতা হবে নিচের কোনটি?",
+        "solution": "খ. \u003Cspan class=\"math-tex\"\u003E\\(5x&lt;2x+15\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3903,
+          "full_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "short_name": "আইডিয়াল স্কুল এন্ড কলেজ, মতিঝিল, ঢাকা",
+          "slug": "aidiyal-skul-end-klej-mtijhil-dhaka",
+          "pivot": {
+            "question_bank_id": 774815,
+            "tag_id": 3903,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774816,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\((4,0)\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\((4,3)\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\((4,-3)\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\((0,-6)\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10741-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;12&lt;/mn&gt;&lt;mo&gt;&amp;lt;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147339\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147340\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147341\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147342\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147343\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147344\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147345\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147346\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147347\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E12\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147348\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&lt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147349\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E12\u003C/mn\u003E\u003Cmo\u003E&lt;\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10741\"\u003E3x-2y-12\u003C0\u003C/script\u003E\u003C/span\u003E অসমতাটির সমাধান কোনটি?",
+        "solution": "খ. \u003Cspan class=\"math-tex\"\u003E\\((4,3)\\)\u003C/span\u003E",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3812,
+          "full_name": "য. বো.'২০১৬",
+          "short_name": "য. বো.'২০১৬",
+          "slug": "z-bo2016",
+          "pivot": {
+            "question_bank_id": 774816,
+            "tag_id": 3812,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774817,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(x+y-3&gt;0\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(x+y-3=0\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(x+y-3≤0\\)\u003C/span\u003E",
+          "ঘ": "$x+y-3 \\geq 0$"
+        },
+        "question": "লেখচিত্রের ক্ষেত্রে নিচের কোনটি সঠিক?\u003Cbr\u003E\n\u003Cimg alt=\"\" src=\"https://app.nexes.ai/storage/question-bank-images/2025/12/eproshnobank-1734066799863_1764596381_BqoY4B69.webp\"\u003E",
+        "solution": "গ. \u003Cspan class=\"math-tex\"\u003E\\(x+y-3≤0\\)\u003C/span\u003E",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774818,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10750-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;mo&gt;&amp;#x2264;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147416\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147417\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147418\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147419\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147420\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147421\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147422\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147423\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147424\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E7\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147425\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.501em;\"\u003E≤\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147426\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E7\u003C/mn\u003E\u003Cmo\u003E≤\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10750\"\u003E2x+3y-7≤0\u003C/script\u003E\u003C/span\u003E অসমতার সমাধানের লেখচিত্র-\u003Cbr\u003E\ni. যে দিকে মূল বিন্দু রেখার সে পাশের সকল বিন্দু\u003Cbr\u003E\nii. \u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10751-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147427\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147428\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147429\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147430\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147431\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147432\" class=\"mjx-mn MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147433\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10751\"\u003E(3, 3)\u003C/script\u003E\u003C/span\u003E যে দিকে আছে রেখার সে পাশের সকল বিন্দু\u003Cbr\u003E\niii. সরল রেখাটি \u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10752-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mo&gt;,&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147434\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147435\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147436\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147437\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147438\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147439\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: -0.163em; padding-bottom: 0.556em;\"\u003E,\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147440\" class=\"mjx-mn MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147441\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmo\u003E,\u003C/mo\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10752\"\u003E(-1, 3) \u003C/script\u003E\u003C/span\u003E&nbsp;বিন্দুগামী\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3847,
+          "full_name": "ব. বো.'২০১৬",
+          "short_name": "ব. বো.'২০১৬",
+          "slug": "b-bo2016",
+          "pivot": {
+            "question_bank_id": 774818,
+            "tag_id": 3847,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774819,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(x≥4\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(x&gt;4\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(x≤-4\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(x&lt;-4\\)\u003C/span\u003E"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10753-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;5&lt;/mn&gt;&lt;mo&gt;&amp;#x2265;&lt;/mo&gt;&lt;mn&gt;7&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147442\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147443\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147444\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147445\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147446\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147447\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E5\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147448\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.501em;\"\u003E≥\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147449\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E7\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E5\u003C/mn\u003E\u003Cmo\u003E≥\u003C/mo\u003E\u003Cmn\u003E7\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10753\"\u003E3 x-5 \\geq 7\u003C/script\u003E\u003Cbr\u003E\nঅসমতাটির সমাধান নিচের কোনটি?",
+        "solution": "$3 x-5 \\geq 7$\u003Cbr /\u003E\nবা, $3 x \\geq 7+5$\u003Cbr /\u003E\nবা, $3 x \\geq 12$\u003Cbr /\u003E\n$\\therefore x \\geq 4$.",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3822,
+          "full_name": "ব. বো.'২০১৫",
+          "short_name": "ব. বো.'২০১৫",
+          "slug": "b-bo2015",
+          "pivot": {
+            "question_bank_id": 774819,
+            "tag_id": 3822,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774820,
+      "value": {
+        "options": {
+          "ক": "$-\\frac{1}{x}&gt;\\frac{1}{y}$",
+          "খ": "$\\frac{1}{x}&lt;\\frac{1}{y}$",
+          "গ": "$\\frac{1}{x}&gt;\\frac{1}{y}$",
+          "ঘ": "$\\frac{1}{\\mathrm{x}^2}&lt;\\frac{1}{\\mathrm{y}^2}$"
+        },
+        "question": "যদি \u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10762-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147500\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147501\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147502\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10762\"\u003Ex\u003C/script\u003E\u003C/span\u003E ও \u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10763-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147503\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147504\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147505\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10763\"\u003Ey\u003C/script\u003E\u003C/span\u003E প্রকৃত ভগ্নাংশ এবং \u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10764-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;&amp;lt;&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;lt;&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147506\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147507\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147508\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147509\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&lt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147510\" class=\"mjx-mi MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147511\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&lt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147512\" class=\"mjx-mi MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003Cmo\u003E&lt;\u003C/mo\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E&lt;\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10764\"\u003E0\u003Cx\u003Cy\u003C/script\u003E\u003C/span\u003E হয়, তবে কোন সম্পর্কটি সঠিক?",
+        "solution": "এখানে, $0&lt;x&lt;y$\u003Cbr /\u003E\nঅর্থাৎ, $x$ ও $y$ উভয়ই ধনাত্মক এবং $x&lt;y$\u003Cbr /\u003E\nবা, $\\frac{1}{x}&gt;\\frac{1}{y}$ [বিপরীত করে]\u003Cbr /\u003E\n$\\therefore \\frac{1}{x}&gt;\\frac{1}{y}$.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 774820,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774821,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\(0&lt;x&lt;1000\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\(0&lt;x≤1000\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\(0≤x&lt;1000\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\(0 ≤ x ≤1000\\)\u003C/span\u003E"
+        },
+        "question": "কোন পরীক্ষার মোট নম্বর 1000. একজন পরীক্ষার্থীর প্রাপ্ত নম্বর x হলে, প্রাপ্ত নম্বরের অসমতা কোনটি?",
+        "solution": "ঘ. \u003Cspan class=\"math-tex\"\u003E\\(0 ≤ x ≤1000\\)\u003C/span\u003E",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774822,
+      "value": {
+        "options": {
+          "ক": "\u003Cspan class=\"math-tex\"\u003E\\((2,0)\\)\u003C/span\u003E",
+          "খ": "\u003Cspan class=\"math-tex\"\u003E\\((3,0)\\)\u003C/span\u003E",
+          "গ": "\u003Cspan class=\"math-tex\"\u003E\\((5, 1)\\)\u003C/span\u003E",
+          "ঘ": "\u003Cspan class=\"math-tex\"\u003E\\((1,-2)\\)\u003C/span\u003E"
+        },
+        "question": "কোনটির জন্য \u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10779-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2013;&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;lt;&lt;/mo&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147623\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147624\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147625\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147626\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147627\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"margin-top: 0.003em; padding-bottom: 0.335em;\"\u003E–\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147628\" class=\"mjx-mn MJXc-space1\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147629\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147630\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&lt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147631\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E6\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E–\u003C/mo\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E&lt;\u003C/mo\u003E\u003Cmn\u003E6\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10779\"\u003E2x – 3y \u003C 6\u003C/script\u003E\u003C/span\u003E সঠিক?",
+        "solution": "প্রদত্ত অসমতা, $2 \\mathrm{x}-3 \\mathrm{y}&lt;6$\u003Cbr /\u003E\n$(2,0)$ বিন্দুতে, $2 x-3 y=2 \\times 2-3 \\times 0=4&lt;6$ যা সত্য\u003Cbr /\u003E\n$\\therefore(2,0)$ বিন্দুতে $2 x-3 y&lt;6$ অসমতাটি সিদ্ধ হয়।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 774822,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774823,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10789-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147717\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147718\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147719\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em; padding-right: 0.109em;\"\u003EP\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003EP\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10789\"\u003EP\u003C/script\u003E বিন্দুতে \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10790-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;b&lt;/mi&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147720\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147721\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147722\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ea\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147723\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147724\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147725\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em;\"\u003Eb\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147726\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147727\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147728\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ec\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147729\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147730\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ea\u003C/mi\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmi\u003Eb\u003C/mi\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmi\u003Ec\u003C/mi\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10790\"\u003Ea x+b y+c=0\u003C/script\u003E রাশিটির মানকে \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10791-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147731\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147732\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147733\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147734\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147735\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em; padding-right: 0.109em;\"\u003EP\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147736\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003EP\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10791\"\u003Ef(P)\u003C/script\u003E দ্বারা নির্দেশ করা হলে এবং \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10792-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147737\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147738\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147739\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em; padding-right: 0.109em;\"\u003EP\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003EP\u003C/mi\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10792\"\u003EP\u003C/script\u003E বিন্দু&nbsp; _____।\u003Cbr\u003E\ni. লেখস্থিত হলে \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10793-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;P&lt;/mi&gt;&lt;/mrow&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147740\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147741\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147742\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147743\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147744\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-147745\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147746\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EP\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147747\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147748\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147749\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EP\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10793\"\u003Ef(\\mathrm{P})=0\u003C/script\u003E\u003Cbr\u003E\nii. লেখচিত্রের বহিঃস্থ হলে \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10794-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;P&lt;/mi&gt;&lt;/mrow&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;&amp;gt;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147750\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147751\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147752\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147753\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147754\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-147755\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147756\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EP\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147757\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147758\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&gt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147759\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EP\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E&gt;\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10794\"\u003Ef(\\mathrm{P})\u003E0\u003C/script\u003E\u003Cbr\u003E\niii. লেখচিত্রের বহিঃস্থ হলে \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10795-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;f&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;P&lt;/mi&gt;&lt;/mrow&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;&amp;lt;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147760\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147761\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147762\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.501em; padding-right: 0.06em;\"\u003Ef\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147763\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147764\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-147765\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147766\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003EP\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147767\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147768\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&lt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147769\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ef\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"normal\"\u003EP\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E&lt;\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10795\"\u003Ef(\\mathrm{P})\u003C0\u003C/script\u003E\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "ঘ. i, ii ও iii",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 774824,
+      "value": {
+        "options": {
+          "ক": "$\\left\\{x: x \\in R\\right.$ এবং $\\left.x&gt;\\frac{15}{2}\\right\\}$",
+          "খ": "$\\left\\{x: x \\in R\\right.$ এবং $\\left.x&gt;\\frac{-15}{2}\\right\\}$",
+          "গ": "$\\left\\{x: x \\in R\\right.$ এনং $\\left.x&gt;\\frac{9}{2}\\right\\}$",
+          "ঘ": "$\\left\\{x: x \\in R\\right.$ এবং $\\left.x&gt;-\\frac{9}{2}\\right\\}$"
+        },
+        "question": "\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10796-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;mo&gt;&amp;lt;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147770\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147771\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147772\" class=\"mjx-mn\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147773\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147774\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147775\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147776\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147777\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E6\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147778\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&lt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147779\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E6\u003C/mn\u003E\u003Cmo\u003E&lt;\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10796\"\u003E2 x+y-6\u003C0\u003C/script\u003E ও \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10797-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;mo&gt;&amp;gt;&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147780\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147781\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147782\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.279em;\"\u003Ex\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147783\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147784\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147785\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147786\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E+\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147787\" class=\"mjx-mn MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E6\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147788\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E&gt;\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147789\" class=\"mjx-mn MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E0\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ex\u003C/mi\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E+\u003C/mo\u003E\u003Cmn\u003E6\u003C/mn\u003E\u003Cmo\u003E&gt;\u003C/mo\u003E\u003Cmn\u003E0\u003C/mn\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10797\"\u003Ex-2 y+6\u003E0\u003C/script\u003E&nbsp;দুইটি অসমতা।\u003Cbr\u003E\n\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-10798-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mn&gt;4&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-147790\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-147791\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-147792\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.224em; padding-bottom: 0.501em; padding-right: 0.006em;\"\u003Ey\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147793\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-147794\" class=\"mjx-mfrac MJXc-space3\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.329em;\"\u003E\u003Cspan id=\"MJXc-Node-147795\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.611em;\"\u003E\u003Cspan id=\"MJXc-Node-147796\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E4\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.372em; vertical-align: -0.432em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003Ey\u003C/mi\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmfrac\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003Cmn\u003E4\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-10798\"\u003Ey=\\frac{3}{4}\u003C/script\u003E&nbsp;হলে, ২য় অসমতার সমাধান সেট কোনটি?",
+        "solution": "ঘ. $\\left\\{x: x \\in R\\right.$ এবং $\\left.x&gt;-\\frac{9}{2}\\right\\}$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8024,
+      "created_at": "2025-12-01T13:39:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3817,
+          "full_name": "চ. বো.'২০১৯",
+          "short_name": "চ. বো.'২০১৯",
+          "slug": "c-bo2019",
+          "pivot": {
+            "question_bank_id": 774824,
+            "tag_id": 3817,
+            "year": null,
+            "created_at": "2025-12-01T13:39:41.000000Z",
+            "updated_at": "2025-12-01T13:39:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8024&grade=5&lesson=14564&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8024&grade=5&lesson=14564&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8024&grade=5&lesson=14564&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 14,
+  "total": 14
+}

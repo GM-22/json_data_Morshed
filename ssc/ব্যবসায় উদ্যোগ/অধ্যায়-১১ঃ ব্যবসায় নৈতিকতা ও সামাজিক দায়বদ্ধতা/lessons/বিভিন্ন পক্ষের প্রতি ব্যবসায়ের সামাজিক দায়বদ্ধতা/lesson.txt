@@ -1,0 +1,782 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 786034,
+      "value": {
+        "options": {
+          "ক": "সামাজিক",
+          "খ": "অর্থনৈতিক",
+          "গ": "রাজনৈতিক",
+          "ঘ": "পারিবারিক"
+        },
+        "question": "\u003Cp\u003Eব্যবসায় কোন ধরনের প্রতিষ্ঠান?\u003C/p\u003E",
+        "solution": "ক. সামাজিক",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786042,
+      "value": {
+        "options": [],
+        "question": "জনাব সাবু বাজারে সবসময় মানসম্মত পণ্য সরবরাহ করেন। তিনি ব্যবসায়ের কোন পক্ষের প্রতি দায়িত্ব পালন করছেন?",
+        "solution": "জনাব সাবু ক্রেতা ও ভোক্তাদের প্রতি সামাজিক দায়বদ্ধতা পালন করছেন। মানসম্মত পণ্য সরবরাহ করা হলে ক্রেতা ও ভোক্তা সবচেয়ে বেশি উপকৃত হয়। তাদের রোগ ব্যাধিতে আক্রান্ত হওয়ার আশঙ্কা কমে যায়। আবার গুণগত পণ্য পেলে ক্রেতাদের স্বার্থ রক্ষা হয়। তাই মানসম্মত পণ্য সরবরাহের মাধ্যমে ক্রেতা ও ভোক্তাদের প্রতি সামাজিক দায়িত্ব পালন হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786041,
+      "value": {
+        "options": [],
+        "question": "হাবিব একজন ব্যবসায়ী এবং সে সবসময় পণ্যের বাজার স্থিতিশীল রাখার চেষ্টা করে। হাবিব কোন পক্ষের প্রতি দায়বদ্ধতা পালন করে?",
+        "solution": "হাবিব পণ্যের বাজার স্থিতিশীল রাখার মাধ্যমে ভোক্তাদের প্রতি দায়বদ্ধতা পালন করে। ক্রেতা ও ভোক্তাদের আস্থা ও সহযোগিতার ওপর ব্যবসায়ের সফলতা নির্ভর করে। প্রত্যেক ব্যবসায়ীর উচিত ক্রেতা ও ভোক্তাদের ক্রয়ক্ষমতা বিবেচনা করে পণ্যের বাজার স্থিতিশীল রাখা। এতে ক্রেতাদের প্রাত্যহিক জীবনযাত্রায় নেতিবাচক প্রভাব পড়ে না। এই কাজটি ব্যবসায়ীদের সামাজিক দায়বদ্ধতা হিসেবে বিবেচিত হয়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786040,
+      "value": {
+        "options": [],
+        "question": "ব্যবসায়ীরা কীভাবে শ্রমিক-কর্মচারীদের জন্য কাজের উপযুক্ত পরিবেশ তৈরি করতে পারে?",
+        "solution": "শ্রমিক-কর্মচারীদের প্রতি দায়বদ্ধতা পালনের মাধ্যমে ব্যবসায়ীরা কাজের উপযুক্ত পরিবেশ তৈরি করতে পারে। এজন্য শ্রমিক-কর্মচারীদের ন্যায্য মজুরি ও বোনাস প্রদান করতে হবে। তাদের চাকরির নিরাপত্তা দিতে হবে। এছাড়া প্রশিক্ষণ ও পদোন্নতির ব্যবস্থা রাখতে হবে। এ ধরনের সুযোগ-সুবিধা দেওয়ার মাধ্যমে শ্রমিক-কর্মচারীদের জন্য কাজের উপযুক্ত পরিবেশ তৈরি করা যায়।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786039,
+      "value": {
+        "options": [],
+        "question": "শ্রমিক-কর্মচারীদের প্রতি ব্যবসায়কে কেন সামাজিক দায়বদ্ধতা পালন করতে হয়?",
+        "solution": "শ্রমিক-কর্মচারীদের অব্যাহত প্রচেষ্টার ফলে ব্যবসায়ে মুনাফা অর্জিত হয়। এজন্য তাদের কাজের প্রতি আগ্রহী করতে ব্যবসায়কে কিছু দায়িত্ব পালন করতে হয়। যেমন: উপযুক্ত কাজের পরিবেশ তৈরি, উপযুক্ত পারিশ্রমিক ও আর্থিক সুবিধা প্রদান, প্রশিক্ষণ ও পদোন্নতি প্রভৃতি। এ দায়িত্বই তাদের প্রতি ব্যবসায়ের সামাজিক দায়িত্ব। যথাযথ দায়িত্ব পালন করা হলে শ্রমিক কর্মচারীরা প্রতিষ্ঠানের লক্ষ্য অর্জনে সর্বোচ্চ প্রচেষ্টা চালাবে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786038,
+      "value": {
+        "options": [],
+        "question": "পণ্যের মজুতদারি না করার মাধ্যমে সমাজের দায়িত্ব পালন হয়- যুক্তি দাও।",
+        "solution": "সমাজ থেকে বিভিন্ন সুযোগ-সুবিধা নিয়েই ব্যবসায়ের উন্নতি ও প্রবৃদ্ধি হয়। তাই পণ্যের অযথা মজুতদারি না করে সমাজে সঠিকভাবে পণ্য বণ্টন করা উচিত। এতে চাহিদা ও জোগানের মধ্যে সামঞ্জস্য থাকে। ফলে ক্রেতা-ভোক্তাদের ভোগান্তি হয় না। তাই পণ্যের মজুতদারি না করা ব্যবসায়ের সমাজের প্রতি দায়বদ্ধতা।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786037,
+      "value": {
+        "options": [],
+        "question": "সরকার কীভাবে ব্যবসায় থেকে সহযোগিতা পেতে পারে?",
+        "solution": "কর ও রাজস্ব দিয়ে ব্যবসায় সরকারকে সহযোগিতা করতে পারে। ব্যবসায়ের প্রধান পৃষ্ঠপোষক হলো সরকার। ব্যবসায় কাজ সঠিকভাবে পরিচালনা করার জন্য সরকার বিভিন্নভাবে ব্যবসায়ীদেরকে সহযোগিতা করে। তাই ব্যবসায়ীকে সরকারের কাছে নির্ধারিত হারে নিয়মিত কর দিতে হয়। এর মাধ্যমে ব্যবসায় সরকারের প্রতি দায়িত্ব পালন করে।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786036,
+      "value": {
+        "options": [],
+        "question": "রাষ্ট্রের প্রতি একজন ব্যবসায়ীকে দায়-দায়িত্ব পালন করতে হয় কেন?",
+        "solution": "রাষ্ট্রের অনুকূল নিয়মনীতির কারণে ব্যবসায় সফলভাবে পরিচালিত হতে পারে। এজন্য ব্যবসায়ীকে রাষ্ট্রের প্রতি দায়-দায়িত্ব পালন করতে হয়। যেমন: সরকারকে নিয়মিত কর ও রাজস্ব দেওয়া, সরকারের নিয়মনীতি পালন করা, কর্মসংস্থানের সুযোগ সৃষ্টি করা প্রভৃতি। এগুলো সরকারের প্রতি ব্যবসায়ীর সামাজিক দায়বদ্ধতা পালন।",
+        "correct_answer": null
+      },
+      "question_type_id": 1,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786035,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্র",
+          "খ": "সমাজ",
+          "গ": "প্রযুক্তি",
+          "ঘ": "সরকার"
+        },
+        "question": "\u003Cp\u003Eব্যবসায়ের কার্যক্রম পরিচালিত হয় কোনটিকে ঘিরে?\u003C/p\u003E",
+        "solution": "খ. সমাজ",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786025,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "\u003Cp\u003Eজনাব মজনু চাল বিক্রেতা। তিনি সব সময় ভেজালমুক্ত চাল বিক্রি করেন। এতে ক্রেতাদের স্বাস্থ্যহানির যেমন সমস্যা থাকে না তেমনি ক্রেতারাও তাকে বিশ্বাস করে।\u003Cbr\u003E\nজনাব মজনু ব্যবসায় পরিচালনায় যাদের স্বার্থ রক্ষা করবেন-\u003Cbr\u003E\ni. জনগণ\u003Cbr\u003E\nii. ব্যবসায়\u003Cbr\u003E\niii. বিদেশিদের\u003Cbr\u003E\nনিচের কোনটি সঠিক?\u003C/p\u003E",
+        "solution": "ক. i ও ii",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786033,
+      "value": {
+        "options": {
+          "ক": "পণ্যসংক্রান্ত তথ্য সরবরাহ করা",
+          "খ": "প্রশিক্ষণ ও পদোন্নতির ব্যবস্থা করা",
+          "গ": "কর্মসংস্থানের সুযোগ সৃষ্টি করা",
+          "ঘ": "নিয়মনীতি যথাযথভাবে পালন করা"
+        },
+        "question": "\u003Cp\u003Eশ্রমিক-কর্মচারীর প্রতি একজন ব্যবসায়ীর দায়িত্ব কোনটি?\u003C/p\u003E",
+        "solution": "খ. প্রশিক্ষণ ও পদোন্নতির ব্যবস্থা করা",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 786033,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-12-03T05:38:45.000000Z",
+            "updated_at": "2025-12-03T05:38:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786032,
+      "value": {
+        "options": {
+          "ক": "উদ্যোক্তা",
+          "খ": "ব্যবসায়ী",
+          "গ": "উৎপাদনকারী",
+          "ঘ": "ভোক্তা"
+        },
+        "question": "\u003Cp\u003Eপ্রকৃতপক্ষে সমাজের একজন সৃজনশীল এবং সচেতন নাগরিক কে?\u003C/p\u003E",
+        "solution": "খ. ব্যবসায়ী",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3853,
+          "full_name": "সি. বো.'২০২৩",
+          "short_name": "সি. বো.'২০২৩",
+          "slug": "si-bo2023",
+          "pivot": {
+            "question_bank_id": 786032,
+            "tag_id": 3853,
+            "year": null,
+            "created_at": "2025-12-03T05:38:45.000000Z",
+            "updated_at": "2025-12-03T05:38:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786031,
+      "value": {
+        "options": {
+          "ক": "চাকরির নিরাপত্তা বিধান করা",
+          "খ": "মানসম্মত পণ্য সরবরাহ করা",
+          "গ": "পণ্যের মজুতদারি না করা",
+          "ঘ": "পণ্যের বাজার স্থিতিশীল রাখা"
+        },
+        "question": "\u003Cp\u003Eনিচের কোনটি সমাজের প্রতি ব্যবসায়ের দায়বদ্ধতা?\u003C/p\u003E",
+        "solution": "গ. পণ্যের মজুতদারি না করা",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786030,
+      "value": {
+        "options": {
+          "ক": "রাষ্ট্রের প্রতি",
+          "খ": "সমাজের প্রতি",
+          "গ": "ক্রেতা ও ভোক্তার প্রতি",
+          "ঘ": "শ্রমিক-কর্মচারীদের প্রতি"
+        },
+        "question": "\u003Cp\u003Eমানসম্মত পণ্য উৎপাদন ও কর্মসংস্থানের সুযোগ সৃষ্টি করা ব্যবসায়ের কোন পক্ষের প্রতি দায়বদ্ধতা?\u003C/p\u003E",
+        "solution": "গ. ক্রেতা ও ভোক্তার প্রতি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3854,
+          "full_name": "চ. বো.'২০২২",
+          "short_name": "চ. বো.'২০২২",
+          "slug": "c-bo2022",
+          "pivot": {
+            "question_bank_id": 786030,
+            "tag_id": 3854,
+            "year": null,
+            "created_at": "2025-12-03T05:38:45.000000Z",
+            "updated_at": "2025-12-03T05:38:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786029,
+      "value": {
+        "options": {
+          "ক": "সমাজের",
+          "খ": "রাষ্ট্রের",
+          "গ": "ক্রেতা ও ভোক্তার&nbsp;",
+          "ঘ": "শ্রমিক-কর্মচারীদের"
+        },
+        "question": "\u003Cp\u003Eপণ্যের বাজার স্থিতিশীল রাখা কাদের প্রতি দায়বদ্ধতা নির্দেশ করে?\u003C/p\u003E",
+        "solution": "গ. ক্রেতা ও ভোক্তার&nbsp;",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 786029,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-03T05:38:45.000000Z",
+            "updated_at": "2025-12-03T05:38:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786028,
+      "value": {
+        "options": {
+          "ক": "সমাজ",
+          "খ": "রাষ্ট্রীয়",
+          "গ": "শ্রমিক",
+          "ঘ": "ভোক্তা"
+        },
+        "question": "\u003Cp\u003Eজনাব মজনু চাল বিক্রেতা। তিনি সব সময় ভেজালমুক্ত চাল বিক্রি করেন। এতে ক্রেতাদের স্বাস্থ্যহানির যেমন সমস্যা থাকে না তেমনি ক্রেতারাও তাকে বিশ্বাস করে।\u003Cbr\u003E\nজনাব মজনু ক্রেতার স্বাস্থ্যের দিক বিবেচনা করে কোন পক্ষের প্রতি দায়িত্ব পালন করেন?\u003C/p\u003E",
+        "solution": "ঘ. ভোক্তা",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 786028,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-12-03T05:38:45.000000Z",
+            "updated_at": "2025-12-03T05:38:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786027,
+      "value": {
+        "options": {
+          "ক": "২টি",
+          "খ": "৩টি",
+          "গ": "৪টি",
+          "ঘ": "৫টি"
+        },
+        "question": "\u003Cp\u003Eব্যবসায়ের সামাজিক দায়িত্ব রয়েছে কয়টি পক্ষের প্রতি?\u003C/p\u003E",
+        "solution": "গ. ৪টি",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3889,
+          "full_name": "য. বো.'২০২২",
+          "short_name": "য. বো.'২০২২",
+          "slug": "z-bo2022",
+          "pivot": {
+            "question_bank_id": 786027,
+            "tag_id": 3889,
+            "year": null,
+            "created_at": "2025-12-03T05:38:45.000000Z",
+            "updated_at": "2025-12-03T05:38:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 786026,
+      "value": {
+        "options": {
+          "ক": "নিয়মিত কর ও রাজস্ব প্রদান",
+          "খ": "পণ্যসামগ্রী প্রাপ্তি সহজতর করা",
+          "গ": "জাতীয় দুর্যোগে জনগণের পাশে দাঁড়ানো",
+          "ঘ": "উপযুক্ত কাজের পরিবেশ সৃষ্টি করা"
+        },
+        "question": "\u003Cp\u003Eসমাজের প্রতি ব্যবসায়ের দায়বদ্ধতা কোনটি?\u003C/p\u003E",
+        "solution": "গ. জাতীয় দুর্যোগে জনগণের পাশে দাঁড়ানো",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 27,
+      "book_grade_id": 5,
+      "content_chunk_id": 8202,
+      "created_at": "2025-12-03T05:38:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 27,
+        "title": "ব্যবসায় উদ্যোগ",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 786026,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-03T05:38:45.000000Z",
+            "updated_at": "2025-12-03T05:38:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8202&grade=5&lesson=15067&question_paper_id=47719&subject=27&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8202&grade=5&lesson=15067&question_paper_id=47719&subject=27&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8202&grade=5&lesson=15067&question_paper_id=47719&subject=27&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 18,
+  "total": 18
+}

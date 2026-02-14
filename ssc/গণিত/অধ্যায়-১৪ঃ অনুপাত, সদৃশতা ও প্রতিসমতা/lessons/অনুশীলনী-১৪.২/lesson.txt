@@ -1,0 +1,1043 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 535100,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle PQR \\sim \\triangle XYZ[/math] এর অনুরূপ বাহুগুলো সমানুপাতিক, [math]\\angle Q = 60^\\circ[/math], [math]\\angle R = 40^\\circ[/math] হলে, [math]\\angle X[/math] এর মান কত?",
+        "solution": "ত্রিভুজে তিন কোণের যোগফল [math]180^\\circ[/math]\u003Cbr\u003E,⇒ [math]\\angle P = 180^\\circ - (60^\\circ + 40^\\circ) = 80^\\circ[/math]\u003Cbr\u003Eসদৃশ ত্রিভুজে অনুরূপ কোণ সমান হয়, তাই [math]\\angle X = \\angle P = 80^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "দুটি ত্রিভুজ অনুরূপ হলে তাদের অনুরূপ কোণগুলো সমান হয় এবং এখানে P↔X, Q↔Y, R↔Z। তাই প্রথমে [math]\\angle P=180^\\circ- \\angle Q- \\angle R=180^\\circ-60^\\circ-40^\\circ=80^\\circ[/math], এবং [math]\\angle X=\\angle P=80^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535100,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535083,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC \\sim \\triangle DEF[/math], যেখানে [math]AB = 5[/math] সে.মি., [math]AC = 6[/math] সে.মি., [math]DF = 12[/math] সে.মি. হলে [math]DE[/math] এর মান কত?",
+        "solution": "সদৃশ ত্রিভুজে, [math]\\dfrac{AB}{DE} = \\dfrac{AC}{DF}[/math]\u003Cbr\u003E⇒ [math]\\dfrac{5}{DE} = \\dfrac{6}{12}[/math]\u003Cbr\u003E⇒ [math]6DE = 5 \\times 12[/math]\u003Cbr\u003E⇒ [math]DE = \\dfrac{60}{6} = 10[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: সমবক্র ত্রিভুজ হলে অনুরূপ বাহুগুলোর অনুপাত সমান; [math]\\triangle ABC\\sim\\triangle DEF[/math] থেকে [math]AB\\leftrightarrow DE[/math] এবং [math]AC\\leftrightarrow DF[/math]. অনুপাত হলো [math]k=\\dfrac{DF}{AC}=\\dfrac{12}{6}=2[/math], অতএব [math]DE=k\\cdot AB=2\\cdot5=10\\text{ সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535083,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535076,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC \\sim \\triangle DEF[/math] এবং [math]AB : DE = 2 : 3[/math] হলে, [math]\\triangle ABC : \\triangle DEF =[/math] কত?",
+        "solution": "সদৃশ ত্রিভুজের ক্ষেত্রফলের অনুপাত = অনুরূপ বাহুর বর্গের অনুপাত,⇒ [math]\\triangle ABC : \\triangle DEF = AB^2 : DE^2 = 2^2 : 3^2 = 4 : 9[/math]",
+        "explanation": "সমতল ত্রিভুজসমূহ যদি সমানুপাতিক হয়, তাদের ক্ষেত্রফল অনুপাত হয় পার্শ্ব অনুপাতের বর্গ। এখানে [math]AB:DE=2:3[/math] তাই [math](2/3)^2=4/9[/math], অর্থাৎ [math]\\triangle ABC:\\triangle DEF=4:9[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535076,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535064,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle XYZ[/math] এ [math]\\angle Y = 90^\\circ[/math] এবং [math]YT \\perp XZ[/math] হলে প্রমাণ কর যে, [math]\\triangle XYZ[/math] এবং [math]\\triangle XYT[/math] সদৃশ।",
+        "solution": "[math]\\angle XYZ = \\angle XYT = 90^\\circ[/math]\u003Cbr\u003E (প্রত্যেকে সমকোণ),[math]\\angle ZXY = \\angle TYX[/math]\u003Cbr\u003E (সাধারণ কোণ),অতএব, [math]\\triangle XYZ \\sim \\triangle XYT[/math]\u003Cbr\u003E (সমকোণ ও অনুরূপ কোণ থাকায়)।",
+        "explanation": "ব্যাখ্যা: [math]\\angle Y=90^\\circ[/math] হওয়ায় [math]\\triangle XYZ[/math]-এ Y তে সমকোণ আছে। যেহেতু [math]YT\\perp XZ[/math] এবং T বিন্দুটি XZ-এ, তাই [math]YT\\perp XT[/math] এবং [math]\\triangle XYT[/math]-এ [math]\\angle T=90^\\circ[/math]। উভয় ত্রিভুজে [math]\\angle X[/math] সাধারণ এবং একটি কোণই সমান (সমকোণ), তাই AA নীতিতে [math]\\triangle XYZ\\sim\\triangle XYT[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535064,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535050,
+      "value": {
+        "options": [],
+        "question": "দুইটি বহুভুজ সদৃশ হওয়ার দুটি শর্ত লেখ।",
+        "solution": "(i) অনুরূপ কোণগুলো সমান হবে।\n\n(ii) অনুরূপ বাহুগুলোর অনুপাত সমান হবে।",
+        "explanation": "দুইটি বহুভুজ সদৃশ হতে হলে (i) সমকক্ষ কোণসমূহ সমান থাকতে হবে এবং (ii) সমকক্ষ বাহুগুলোর অনুপাত সমান থাকতে হবে, অর্থাৎ [math]\\frac{AB}{A'B'}=\\frac{BC}{B'C'}=\\cdots[/math]. কারণ সমকক্ষ কোণসমূহ সমান হলে আকৃতি একই থাকে এবং বাহুগুলোর অনুপাত স্থির থাকলে শুধু আকারের স্কেল পরিবর্তিত হয়, ফলে দুইটি বহুভুজ একই আকৃতির কিন্তু ভিন্ন মাপে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535050,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535034,
+      "value": {
+        "options": [],
+        "question": "সদৃশ বহুভুজ কাকে বলে?",
+        "solution": "সমান সংখ্যক বাহুবিশিষ্ট দুইটি বহুভুজের একটি শীর্ষ বিন্দুগুলোকে যদি ধারাবাহিকভাবে অপরটির শীর্ষবিন্দুর সাথে এমনভাবে মিলানো যায় যে তাদের অনুরূপ কোণগুলো সমান হয় এবং অনুরূপ বাহুগুলোর অনুপাত সমান হয়, তবে তারা সদৃশ বহুভুজ।",
+        "explanation": "সদৃশ বহুভুজ হলো এমন দুইটি বহুভুজ যার সংশ্লিষ্ট কোণগুলো সমান এবং সংশ্লিষ্ট বাহুগুলোর অনুপাত সবগুলোতে সমান থাকে। অর্থাৎ একটিকে কোনো স্থির অনুপাতে বাড়ানো/ছাঁটা এবং ঘুরিয়ে বা প্রতিচ্ছায় করলে অন্যটি পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535034,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 535017,
+      "value": {
+        "options": [],
+        "question": "সদৃশকোণী বহুভুজ বলতে কী বোঝায়?",
+        "solution": "সমান সংখ্যক বাহুবিশিষ্ট দুইটি বহুভুজের একটি কোণগুলো যদি ধারাবাহিকভাবে অপরটির কোণগুলোর সমান হয় তবে বহুভুজ দুইটিকে সদৃশকোণী বলা হয়। যেমন, আয়ত ও বর্গ উভয়ই সমকোণ বিশিষ্ট হওয়ায় সদৃশকোণী।",
+        "explanation": "সদৃশকোণী বহুভুজ বলতে এমন বহুভুজগুলো বোঝায় যেগুলোর প্রত্যেকটি অনুকূলিত দিকে এবং অনুকূলিত কোণ একে অপরের সমান; অর্থাৎ প্রতিটি অনুকূলিত বাহু-দৈর্ঘ্য ও অনুকূলিত অভিসৃত কোণ সমান। তাই যদি দুই বহুভুজ সদৃশ হয়, সেগুলোকে কেবল সরানো, ঘুরানো বা প্রতিবিম্বিত করে এক অপরের উপরে পুরোপুরি মিলানো যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 535017,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:26.000000Z",
+            "updated_at": "2025-08-26T07:39:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533501,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle XYZ[/math] এ [math]\\angle Y = 90^\\circ[/math] এবং [math]YT \\perp XZ[/math] হলে প্রমাণ কর যে, [math]\\triangle XYZ[/math] এবং [math]\\triangle XYT[/math] সদৃশ।",
+        "solution": "[math]\\angle XYZ = \\angle XYT = 90^\\circ[/math]\u003Cbr\u003E (প্রত্যেকে সমকোণ),[math]\\angle ZXY = \\angle TYX[/math]\u003Cbr\u003E (সাধারণ কোণ),অতএব, [math]\\triangle XYZ \\sim \\triangle XYT[/math]\u003Cbr\u003E (সমকোণ ও অনুরূপ কোণ থাকায়)।",
+        "explanation": "ব্যাখ্যা: কারণ [math]\\angle Y=90^\\circ[/math] এবং [math]YT\\perp XZ[/math] হলে [math]T[/math] বিন্দুতে [math]\\angle YTX=90^\\circ[/math]. এছাড়া দুই ত্রিভুজে [math]\\angle X\u003C/math\u003E সাধারণ, তাই দুটি ত্রিভুজে দুইটি কোণ সমান — তাই [math]\\triangle XYZ[/math] এবং [math]\\triangle XYT[/math] সদৃশ (AA কৌশলে)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533501,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533519,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle PQR \\sim \\triangle XYZ[/math] এর অনুরূপ বাহুগুলো সমানুপাতিক, [math]\\angle Q = 60^\\circ[/math], [math]\\angle R = 40^\\circ[/math] হলে, [math]\\angle X[/math] এর মান কত?",
+        "solution": "ত্রিভুজে তিন কোণের যোগফল [math]180^\\circ[/math]\u003Cbr\u003E,⇒ [math]\\angle P = 180^\\circ - (60^\\circ + 40^\\circ) = 80^\\circ[/math]\u003Cbr\u003Eসদৃশ ত্রিভুজে অনুরূপ কোণ সমান হয়, তাই [math]\\angle X = \\angle P = 80^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: অনুরূপ ত্রিভুজে ক্রমানুসারে সমান কোণ থাকে, সুতরাং [math]P↔X,\\ Q↔Y,\\ R↔Z[/math]. তাই [math]\\angle P=180^\\circ-60^\\circ-40^\\circ=80^\\circ[/math] এবং [math]\\angle X=80^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533519,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533514,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC \\sim \\triangle DEF[/math], যেখানে [math]AB = 5[/math] সে.মি., [math]AC = 6[/math] সে.মি., [math]DF = 12[/math] সে.মি. হলে [math]DE[/math] এর মান কত?",
+        "solution": "সদৃশ ত্রিভুজে, [math]\\dfrac{AB}{DE} = \\dfrac{AC}{DF}[/math]\u003Cbr\u003E⇒ [math]\\dfrac{5}{DE} = \\dfrac{6}{12}[/math]\u003Cbr\u003E⇒ [math]6DE = 5 \\times 12[/math]\u003Cbr\u003E⇒ [math]DE = \\dfrac{60}{6} = 10[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: সমরূপ ত্রিভুজে অনুরূপ ভাজক অনুযায়ী সংশ্লিষ্ট বাহুগুলোর অনুপাত সমান, তাই [math]\\dfrac{DE}{AB}=\\dfrac{DF}{AC}[/math]. ফলে [math]DE=AB\\cdot\\dfrac{DF}{AC}=5\\cdot\\dfrac{12}{6}=10[/math] সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533514,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533508,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC \\sim \\triangle DEF[/math] এবং [math]AB : DE = 2 : 3[/math] হলে, [math]\\triangle ABC : \\triangle DEF =[/math] কত?",
+        "solution": "সদৃশ ত্রিভুজের ক্ষেত্রফলের অনুপাত = অনুরূপ বাহুর বর্গের অনুপাত,⇒ [math]\\triangle ABC : \\triangle DEF = AB^2 : DE^2 = 2^2 : 3^2 = 4 : 9[/math]",
+        "explanation": "ব্যাখ্যা: সমরূপ ত্রিভুজে প্রতিসংগত বাহুর অনুপাতই রূপমাত্রা, এখানে [math]AB:DE=2:3[/math] হলে রূপমাত্রা [math]2:3[/math]. ক্ষেত্রফল অনুপাত রূপমাত্রার বর্গ হওয়ায় [math]\\triangle ABC : \\triangle DEF = (2:3)^2 = 4:9[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533508,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533497,
+      "value": {
+        "options": [],
+        "question": "দুইটি বহুভুজ সদৃশ হওয়ার দুটি শর্ত লেখ।",
+        "solution": "(i) অনুরূপ কোণগুলো সমান হবে।\n\n(ii) অনুরূপ বাহুগুলোর অনুপাত সমান হবে।",
+        "explanation": "দুইটি বহুভুজ সদৃশ হলে তাদের সমস্ত সংশ্লিষ্ট কোণ সমান এবং সমস্ত সংশ্লিষ্ট বাহুগুলোর দৈর্ঘ্যের অনুপাত সমান হতে হবে। সমান কোণগুলো আকৃতির আকার বজায় রাখে এবং সমান অনুপাতগুলো একটিকে অন্যটির মাত্রার পরিবর্তিত (স্কেল করা) রূপ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533497,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533492,
+      "value": {
+        "options": [],
+        "question": "সদৃশ বহুভুজ কাকে বলে?",
+        "solution": "সমান সংখ্যক বাহুবিশিষ্ট দুইটি বহুভুজের একটি শীর্ষ বিন্দুগুলোকে যদি ধারাবাহিকভাবে অপরটির শীর্ষবিন্দুর সাথে এমনভাবে মিলানো যায় যে তাদের অনুরূপ কোণগুলো সমান হয় এবং অনুরূপ বাহুগুলোর অনুপাত সমান হয়, তবে তারা সদৃশ বহুভুজ।",
+        "explanation": "সদৃশ বহুভুজ হলো এমন দুই বা ততোধিক বহুভুজ যেগুলোর আকার ও আয়তন একই; তাদের সংশ্লিষ্ট বাহুগুলোর দৈর্ঘ্য এবং সংশ্লিষ্ট কোণগুলোর মাপ সমান। অর্থাৎ এক বহুভুজকে অনুবাদ, ঘূর্ণন বা প্রতিবিম্বের মাধ্যমে পুরোপুরি আরেকটির উপর ফেলা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533492,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:24.000000Z",
+            "updated_at": "2025-08-26T07:39:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 533484,
+      "value": {
+        "options": [],
+        "question": "সদৃশকোণী বহুভুজ বলতে কী বোঝায়?",
+        "solution": "সমান সংখ্যক বাহুবিশিষ্ট দুইটি বহুভুজের একটি কোণগুলো যদি ধারাবাহিকভাবে অপরটির কোণগুলোর সমান হয় তবে বহুভুজ দুইটিকে সদৃশকোণী বলা হয়। যেমন, আয়ত ও বর্গ উভয়ই সমকোণ বিশিষ্ট হওয়ায় সদৃশকোণী।",
+        "explanation": "সদৃশকোণী বহুভুজ হলো এমন দুই বা ততোধিক বহুভুজ যেগুলোর প্রতিটি যথাযোগ্য ধারার দৈর্ঘ্য এবং যথাযোগ্য কোণ একে অপরের সমান হয়; অর্থাৎ সেগুলোকে অনুবাদ, ঘূর্ণন বা প্রতিবিম্ব করে একটির উপর আরেকটিকে পুরোপুরি রাখা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:39:23.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 533484,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:23.000000Z",
+            "updated_at": "2025-08-26T07:39:23.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531668,
+      "value": {
+        "options": [],
+        "question": "সদৃশকোণী বহুভুজ বলতে কী বোঝায়?",
+        "solution": "সমান সংখ্যক বাহুবিশিষ্ট দুইটি বহুভুজের একটি কোণগুলো যদি ধারাবাহিকভাবে অপরটির কোণগুলোর সমান হয় তবে বহুভুজ দুইটিকে সদৃশকোণী বলা হয়। যেমন, আয়ত ও বর্গ উভয়ই সমকোণ বিশিষ্ট হওয়ায় সদৃশকোণী।",
+        "explanation": "সদৃশকোণী বহুভুজ বলতে এমন দুই বা ততোধিক বহুভুজকে বোঝায় যাদের সব সঙ্গতিপূর্ণ পার্শ্বের দৈর্ঘ্য এবং সঙ্গতিপূর্ণ কোণের মাপ একরকম; অর্থাৎ একটি বহুভুজকে কেবল সরানো, ঘোরানো বা প্রতিফলিত করে অন্যটির ওপর পুরোপুরি মেলাতে পারলে সেগুলো সদৃশ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531668,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531679,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle PQR \\sim \\triangle XYZ[/math] এর অনুরূপ বাহুগুলো সমানুপাতিক, [math]\\angle Q = 60^\\circ[/math], [math]\\angle R = 40^\\circ[/math] হলে, [math]\\angle X[/math] এর মান কত?",
+        "solution": "ত্রিভুজে তিন কোণের যোগফল [math]180^\\circ[/math]\u003Cbr\u003E,⇒ [math]\\angle P = 180^\\circ - (60^\\circ + 40^\\circ) = 80^\\circ[/math]\u003Cbr\u003Eসদৃশ ত্রিভুজে অনুরূপ কোণ সমান হয়, তাই [math]\\angle X = \\angle P = 80^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: তিনকোণটির কোণগুলোর যোগফল [math]180^\\circ[/math], তাই [math]\\angle P = 180^\\circ - 60^\\circ - 40^\\circ = 80^\\circ[/math]. অনুরূপ ত্রিভুজে ক্রমানুসারে বিন্দু মিললে P অনুরূপ হয় X-র সাথে, তাই [math]\\angle X = \\angle P = 80^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531679,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531677,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC \\sim \\triangle DEF[/math], যেখানে [math]AB = 5[/math] সে.মি., [math]AC = 6[/math] সে.মি., [math]DF = 12[/math] সে.মি. হলে [math]DE[/math] এর মান কত?",
+        "solution": "সদৃশ ত্রিভুজে, [math]\\dfrac{AB}{DE} = \\dfrac{AC}{DF}[/math]\u003Cbr\u003E⇒ [math]\\dfrac{5}{DE} = \\dfrac{6}{12}[/math]\u003Cbr\u003E⇒ [math]6DE = 5 \\times 12[/math]\u003Cbr\u003E⇒ [math]DE = \\dfrac{60}{6} = 10[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "দুটি ত্রিকোণ সামঞ্জস্য হলে তাদের সামঞ্জস্য অনুপাত সমান; এখানে অনুপাত [math]DF/AC = 12/6 = 2[/math]. তাই [math]DE = 2\\times AB = 2\\times 5 = 10[/math] সে. মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531677,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531675,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle ABC \\sim \\triangle DEF[/math] এবং [math]AB : DE = 2 : 3[/math] হলে, [math]\\triangle ABC : \\triangle DEF =[/math] কত?",
+        "solution": "সদৃশ ত্রিভুজের ক্ষেত্রফলের অনুপাত = অনুরূপ বাহুর বর্গের অনুপাত,⇒ [math]\\triangle ABC : \\triangle DEF = AB^2 : DE^2 = 2^2 : 3^2 = 4 : 9[/math]",
+        "explanation": "যেহেতু সামঞ্জস্য ত্রিভুজগুলোর ক্ষেত্রে ক্ষেত্রফলের অনুপাত সংশ্লিষ্ট বাহুগুলোর অনুপাতের বর্গের সমান। তাই [math]\\triangle ABC : \\triangle DEF = \\left(\\frac{AB}{DE}\\right)^2 = \\left(\\frac{2}{3}\\right)^2 = \\frac{4}{9}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531675,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531673,
+      "value": {
+        "options": [],
+        "question": "[math]\\triangle XYZ[/math] এ [math]\\angle Y = 90^\\circ[/math] এবং [math]YT \\perp XZ[/math] হলে প্রমাণ কর যে, [math]\\triangle XYZ[/math] এবং [math]\\triangle XYT[/math] সদৃশ।",
+        "solution": "[math]\\angle XYZ = \\angle XYT = 90^\\circ[/math]\u003Cbr\u003E (প্রত্যেকে সমকোণ),[math]\\angle ZXY = \\angle TYX[/math]\u003Cbr\u003E (সাধারণ কোণ),অতএব, [math]\\triangle XYZ \\sim \\triangle XYT[/math]\u003Cbr\u003E (সমকোণ ও অনুরূপ কোণ থাকায়)।",
+        "explanation": "ব্যাখ্যা: T বিন্দুটি ধরে নেওয়া যায় যে তা [math]XZ[/math] রেখায় স্থিত, তাই [math]YT\\perp XZ[/math] এর ফলে [math]\\angle Y=90^\\circ[/math] এবং একইভাবে [math]\\angle YTX=90^\\circ[/math] (দুই ত্রিভুজই সমকোণিক)। এছাড়া [math]Z[/math] এবং [math]T[/math] একই রেখায় থাকায় [math]\\angle ZXY=\\angle TXY[/math], অতএব দুই ত্রিভুজে দুটি কোণ সমান হওয়ায় (AA) [math]\\triangle XYZ[/math] এবং [math]\\triangle XYT[/math] সদৃশ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531673,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531671,
+      "value": {
+        "options": [],
+        "question": "দুইটি বহুভুজ সদৃশ হওয়ার দুটি শর্ত লেখ।",
+        "solution": "(i) অনুরূপ কোণগুলো সমান হবে।\n\n(ii) অনুরূপ বাহুগুলোর অনুপাত সমান হবে।",
+        "explanation": "ব্যাখ্যা: দুইটি বহুভুজ সদৃশ হলে (১) তাদের সমকক্ষ কোণগুলো সমান হবে এবং (২) সমকক্ষ বাহুগুলোর দৈর্ঘ্যসমূহ একই অনুপাতে থাকবে; অর্থাৎ [math]\\frac{AB}{A'B'}=\\frac{BC}{B'C'}=\\cdots=k[/math]. কারণ কোণগুলোর সমতা আকৃতি একেগুলোকে বজায় রাখে আর বাহুগুলোর অনুপাত নির্দেশ করে একটি বহুভুজকে স্কেল করে (ঘুরিয়ে বা সরিয়ে) অন্যটির সাথে মেলানো যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531671,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 531670,
+      "value": {
+        "options": [],
+        "question": "সদৃশ বহুভুজ কাকে বলে?",
+        "solution": "সমান সংখ্যক বাহুবিশিষ্ট দুইটি বহুভুজের একটি শীর্ষ বিন্দুগুলোকে যদি ধারাবাহিকভাবে অপরটির শীর্ষবিন্দুর সাথে এমনভাবে মিলানো যায় যে তাদের অনুরূপ কোণগুলো সমান হয় এবং অনুরূপ বাহুগুলোর অনুপাত সমান হয়, তবে তারা সদৃশ বহুভুজ।",
+        "explanation": "সদৃশ বহুভুজ হলো সেই দুইটি বহুভুজ যার প্রতিটি সঙ্গতিপূর্ণ বাহুর দৈর্ঘ্য এবং সঙ্গতিপূর্ণ কোণের মাপ একই হয়। অর্থাৎ একটিকে স্থানান্তর, ঘূর্ণন বা প্রতিবিম্ব করে ঠিকঠাক আরেকটির উপর খাপ খাইয়ে আনা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12953,
+      "created_at": "2025-08-26T07:37:28.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 531670,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:37:28.000000Z",
+            "updated_at": "2025-08-26T07:37:28.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12953&grade=5&lesson=12955&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12953&grade=5&lesson=12955&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12953&grade=5&lesson=12955&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 21,
+  "total": 21
+}

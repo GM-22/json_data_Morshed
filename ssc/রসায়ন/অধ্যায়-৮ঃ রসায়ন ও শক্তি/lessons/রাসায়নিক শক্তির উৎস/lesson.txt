@@ -1,0 +1,125 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 762699,
+      "value": {
+        "options": {
+          "ক": "4.18",
+          "খ": "4.15",
+          "গ": "0.20",
+          "ঘ": "0.24"
+        },
+        "question": "1 জুল = কত ক্যালরি?",
+        "solution": "$1~ \\mathrm{cal}=4.18 \\mathrm{~J}$\u003Cbr /\u003E\nবা, $1 \\mathrm{~J}=\\frac{1}{4.18} \\mathrm{cal}=0.24 \\mathrm{cal}$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 29,
+      "book_grade_id": 5,
+      "content_chunk_id": 8084,
+      "created_at": "2025-11-30T14:20:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 29,
+        "title": "রসায়ন",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 762700,
+      "value": {
+        "options": {
+          "ক": "জুল",
+          "খ": "কিলোজুল",
+          "গ": "ক্যালরি",
+          "ঘ": "কিলোক্যালরি"
+        },
+        "question": "বর্তমানে শক্তির আন্তর্জাতিক একক কোনটি?",
+        "solution": "বর্তমানে সকল ধরনের শক্তির একক হিসেবে জুল (Jolue) কে আন্তর্জাতিকভাবে গ্রহণ করা হয়েছে। কোনো বস্তুর উপর 1 নিউটন বল প্রয়োগ করলে যদি বলের দিকে 1 মিটার সরণ ঘটে তবে তার জন্য প্রয়োজনীয় কাজকে 1 জুল বলে।",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 29,
+      "book_grade_id": 5,
+      "content_chunk_id": 8084,
+      "created_at": "2025-11-30T14:20:33.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 29,
+        "title": "রসায়ন",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4534,
+          "full_name": "বরিশাল ক্যাডেট কলেজ,বরিশাল জিলা স্কুল",
+          "short_name": "বরিশাল ক্যাডেট কলেজ,বরিশাল জিলা স্কুল",
+          "slug": "brisal-kzadet-klejbrisal-jila-skul",
+          "pivot": {
+            "question_bank_id": 762700,
+            "tag_id": 4534,
+            "year": null,
+            "created_at": "2025-11-30T14:20:33.000000Z",
+            "updated_at": "2025-11-30T14:20:33.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8084&grade=5&lesson=13954&question_paper_id=47719&subject=29&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8084&grade=5&lesson=13954&question_paper_id=47719&subject=29&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8084&grade=5&lesson=13954&question_paper_id=47719&subject=29&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 2,
+  "total": 2
+}

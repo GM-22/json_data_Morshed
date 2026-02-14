@@ -1,0 +1,909 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695972,
+      "value": {
+        "options": {
+          "ক": "বাচ্যার্থ",
+          "খ": "লক্ষ্যার্থ",
+          "গ": "গৌণার্থ",
+          "ঘ": "অর্থপ্রসার"
+        },
+        "question": "অভিধানে অর্থ গ্রহণের বেলায় শব্দের কোনটিকে প্রাধান্য দেওয়া হয়?",
+        "solution": "বাচ্যার্থ' শব্দটির প্রাধান্য দেওয়া হয়, কারণ এটি শব্দের মূল বা সরাসরি অর্থ প্রকাশ করে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:32:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695972,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695972,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695972,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T08:32:31.000000Z",
+            "updated_at": "2025-10-09T08:32:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695973,
+      "value": {
+        "options": {
+          "ক": "বর্গ",
+          "খ": "উদ্দেশ্য",
+          "গ": "বিধেয়",
+          "ঘ": "বাক্যাংশ"
+        },
+        "question": "বাক্যের মধ্যে একাধিক শব্দ দিয়ে গঠিত বাক্যাংশকে কী বলে?",
+        "solution": "বাক্যের বর্গ বা সংক্ষেপে বর্গ বলতে বাক্যের মধ্যে একাধিক শব্দ দিয়ে গঠিত বাক্যাংশকে বোঝায়। বৰ্গকে বাক্যের একক বলা হয়।",
+        "explanation": "",
+        "correct_answer": "A.বর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:32:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695973,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695973,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695973,
+            "tag_id": 3,
+            "year": "2024",
+            "created_at": "2025-10-09T08:32:31.000000Z",
+            "updated_at": "2025-10-09T08:32:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695974,
+      "value": {
+        "options": {
+          "ক": "ক্রিয়াবর্গ",
+          "খ": "বিশেষ্যবর্গ",
+          "গ": "বিশেষণবর্গ",
+          "ঘ": "ক্রিয়াবিশেষণবর্গ"
+        },
+        "question": "যোজক দ্বারা দুইটি বিশেষ্য যুক্ত হয়ে কোন বর্গ তৈরি করে?",
+        "solution": "ক্রিয়াবিশেষণবর্গ বলতে সেইসব পদ বা শব্দকে বোঝায়, যা ক্রিয়াপদকে বিশেষিত করে। সাধারণত এই ধরনের পদ ক্রিয়া বা কাজের স্থান, সময়, অবস্থা নির্দেশ করে।",
+        "explanation": "",
+        "correct_answer": "B.বিশেষ্যবর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:32:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695974,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695974,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695974,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T08:32:31.000000Z",
+            "updated_at": "2025-10-09T08:32:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695975,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্যবর্গ",
+          "খ": "বিশেষণবর্গ",
+          "গ": "ক্রিয়াবর্গ",
+          "ঘ": "ক্রিয়াবিশেষণবর্গ"
+        },
+        "question": "' সে লিখছে আর হাসছে।'- বাক্যে 'লিখছে আর হাসছে' কোন বর্গ?",
+        "solution": "ক্রিয়াবিশেষণ বলতে সেইসব পদ বা শব্দকে বোঝায়, যা ক্রিয়াপদকে বিশেষিত করে। সাধারণত এই ধরনের পদ ক্রিয়া বা কাজের স্থান, সময়, অবস্থা নির্দেশ করে।",
+        "explanation": "",
+        "correct_answer": "C.ক্রিয়াবর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:32:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695975,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695975,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695975,
+            "tag_id": 46,
+            "year": "2024",
+            "created_at": "2025-10-09T08:32:31.000000Z",
+            "updated_at": "2025-10-09T08:32:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695971,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্য বর্গ",
+          "খ": "বিশেষণ বর্গ",
+          "গ": "ক্রিয়া-বিশেষণ বর্গ",
+          "ঘ": "ক্রিয়া বর্গ"
+        },
+        "question": "\"সকাল আটটার সময়ে সে রওনা হলো\"-বাক্যে 'সকাল আটটার সময়' - কোন শ্রেণির বর্গ?",
+        "solution": "এখানে 'সকাল আটটার সময়ে' অংশটি রওনা হওয়া ক্রিয়ার সময় নির্দেশ করছে। এটি ক্রিয়া সম্পর্কে অতিরিক্ত তথ্য দিচ্ছে বলে এটি একটি ক্রিয়া-বিশেষণ বর্গ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:32:31.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695971,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695971,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695971,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T08:32:31.000000Z",
+            "updated_at": "2025-10-09T08:32:31.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718639,
+      "value": {
+        "options": {
+          "ক": "পোকায় খাওয়া কাঠ দিয়ে আসবাব&nbsp;বানানো ঠিক নয়।",
+          "খ": "রহিম ও করিম বৃষ্টিতে ভিজছে।",
+          "গ": "সকাল আটটার সময়ে সে রওনা হলো।",
+          "ঘ": "আমার ভাই পড়তে বসেছে।"
+        },
+        "question": "বিশেষণবর্গ আছে নিচের যে বাক্যে-",
+        "solution": "ক. পোকায় খাওয়া কাঠ দিয়ে আসবাববানানো ঠিক নয়।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718637,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্য-বর্গ",
+          "খ": "ক্রিয়াবর্গ",
+          "গ": "বিশেষণবর্গ",
+          "ঘ": "ক্রিয়াবিশেষণ-বর্গ"
+        },
+        "question": "'আমটা দেখতে ভারি সুন্দর।'- বাক্যটির 'ভারি সুন্দর' কোন বর্গ?",
+        "solution": "গ. বিশেষণবর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718636,
+      "value": {
+        "options": {
+          "ক": "বিশেষণবর্গ",
+          "খ": "বিশেষ্যবর্গ",
+          "গ": "ক্রিয়াবর্গ",
+          "ঘ": "ক্রিয়াবিশেষণ-বর্গ"
+        },
+        "question": "বিশেষণজাতীয় শব্দের গুচ্ছকে বলা হয়-",
+        "solution": "ক. বিশেষণবর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718634,
+      "value": {
+        "options": {
+          "ক": "ক্রিয়াবর্গ",
+          "খ": "বিশেষ্যবর্গ",
+          "গ": "বিশেষণবর্গ",
+          "ঘ": "ক্রিয়াবিশেষণ-বর্গ"
+        },
+        "question": "যোজক দ্বারা দুটি বিশেষ্য যুক্ত হয়ে কোন&nbsp;বর্গ তৈরি করে?",
+        "solution": "খ. বিশেষ্যবর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 718634,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718632,
+      "value": {
+        "options": {
+          "ক": "বিশেষ্যবর্গ",
+          "খ": "বিশেষণবর্গ",
+          "গ": "ক্রিয়াবিশেষণ-বর্গ",
+          "ঘ": "ক্রিয়াবর্গ"
+        },
+        "question": "এক বা একাধিক বিশেষণ বা সম্বন্ধ কারক বিশেষ্যের আগে যুক্ত হয়ে গঠন করে-",
+        "solution": "ক. বিশেষ্যবর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718630,
+      "value": {
+        "options": {
+          "ক": "যোজক",
+          "খ": "বর্গ",
+          "গ": "পদ",
+          "ঘ": "গুচ্ছ"
+        },
+        "question": "বাক্যের মধ্যে একাধিক শব্দ দিয়ে গঠিত বাক্যাংশকে কী বলে?",
+        "solution": "খ. বর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 718630,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718628,
+      "value": {
+        "options": {
+          "ক": "উদ্দেশ্যের প্রসারণ",
+          "খ": "বাক্যাংশ",
+          "গ": "বিধেয় কর্ম",
+          "ঘ": "বর্গ"
+        },
+        "question": "বাক্যের মধ্যকার একাধিক শব্দ দিয়ে গঠিত বাক্যাংশকে কী বলে?",
+        "solution": "ঘ. বর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 718628,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718626,
+      "value": {
+        "options": {
+          "ক": "আমার ভাই পড়তে বসেছে।",
+          "খ": "রহিম ও করিম বৃষ্টিতে ভিঝছে&nbsp;।",
+          "গ": "আমটা দেখতে ভারি সুন্দর।",
+          "ঘ": "সকাল আটটার সময়ে সে রওয়না হলো।"
+        },
+        "question": "কোন বাক্যটিতে ক্রিয়াবিশেষণ-বর্গের&nbsp;উদাহরণ রয়েছে?",
+        "solution": "ঘ. সকাল আটটার সময়ে সে রওয়না হলো।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 718626,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718624,
+      "value": {
+        "options": {
+          "ক": "আমটা দেখতে ভারি সুন্দর।",
+          "খ": "ভদ্রলোক সত্যিকারের নির্লোভ।",
+          "গ": "রহিম ও করিম বৃষ্টিতে ভিজছে।",
+          "ঘ": "অসুস্থ ছেলেটি আজ স্কুলে আসেনি।"
+        },
+        "question": "যোজক দ্বারা বিশেষ্যবর্গ তৈরি হয়েছে; এর। উদাহরণ-",
+        "solution": "গ. রহিম ও করিম বৃষ্টিতে ভিজছে।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718623,
+      "value": {
+        "options": {
+          "ক": "দুই",
+          "খ": "তিন",
+          "গ": "চার",
+          "ঘ": "পাঁচ"
+        },
+        "question": "বর্গ সাধারণত কত ধরনের হয়ে থাকে?",
+        "solution": "গ. চার"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718621,
+      "value": {
+        "options": {
+          "ক": "শব্দের একক",
+          "খ": "বাক্যের একক",
+          "গ": "ধ্বনির একক",
+          "ঘ": "পদের একক"
+        },
+        "question": "বর্গকে কী বলা যায়?",
+        "solution": "খ. বাক্যের একক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718619,
+      "value": {
+        "options": {
+          "ক": "আমার ভাই পড়তে বসেছে।",
+          "খ": "আমটা দেখতে ভারি সুন্দর।",
+          "গ": "সকাল আটটার সময়ে সে রওয়ানা হলো।",
+          "ঘ": "আমি সকাল থেকে বসে আছি।"
+        },
+        "question": "নিচের কোন বাক্যে বিশেষণবর্গ রয়েছে?",
+        "solution": "খ. আমটা দেখতে ভারি সুন্দর।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 718619,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13185&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13185&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13185&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

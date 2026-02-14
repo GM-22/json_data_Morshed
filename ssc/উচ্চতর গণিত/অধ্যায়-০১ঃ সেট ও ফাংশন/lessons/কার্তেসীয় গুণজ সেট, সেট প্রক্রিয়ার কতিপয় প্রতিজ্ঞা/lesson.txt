@@ -1,0 +1,281 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775221,
+      "value": {
+        "options": {
+          "ক": "5",
+          "খ": "8",
+          "গ": "9",
+          "ঘ": "16"
+        },
+        "question": "A = {a, b, c) হলে, A × A নির্ণয় করলে কয়টি ক্রমজোড় পাওয়া যাবে?",
+        "solution": "A = {a, b, c) সেটের উপাদান সংখ্যা 3টি।\u003Cbr /\u003E\n\u003Cspan class=\"math-tex\"\u003E\\(\\therefore\\)\u003C/span\u003E&nbsp;A &times; A নির্ণয়ে ক্রমজোড় সংখ্যা হবে = 3 &times; 3= 9 টি।",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3936,
+          "full_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "short_name": "ক্যান্টনমেন্ট পাবলিক স্কুল ও কলেজ, রংপুর",
+          "slug": "kzantnment-pablik-skul-oo-klej-rngpur",
+          "pivot": {
+            "question_bank_id": 775221,
+            "tag_id": 3936,
+            "year": null,
+            "created_at": "2025-12-01T13:57:56.000000Z",
+            "updated_at": "2025-12-01T13:57:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775222,
+      "value": {
+        "options": {
+          "ক": "$(x, y): x \\notin A$ এবং $y \\in B$",
+          "খ": "$\\{(x, y): x \\notin A$ এবং $y \\in B\\}$",
+          "গ": "$\\{(x, y): x \\in A$ এবং $y \\in B\\}$",
+          "ঘ": "$\\{(x, y): x \\notin A$ এবং $y \\notin B\\}$"
+        },
+        "question": "সেট গঠন পদ্ধতিতে A × B = কী?",
+        "solution": "সেট গঠন পদ্ধতিতে $A \\times B=\\{(x, y): x \\in A$ এবং $y \\in B\\}$.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775223,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "সার্বিক সেট U এর উপসেট A, B এবং C হলে-\u003Cbr\u003E\ni. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-2758-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo&gt;&amp;#x222A;&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;msup&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;&amp;#x2229;&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-38319\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-38320\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38321\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38322\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38323\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∪\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38324\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em;\"\u003EB\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38325\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-38326\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-38327\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-38328\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38329\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38330\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38331\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-38332\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-38333\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-38334\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38335\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38336\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∩\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38337\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-38338\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em;\"\u003EB\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-38339\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-38340\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38341\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmo\u003E∪\u003C/mo\u003E\u003Cmi\u003EB\u003C/mi\u003E\u003Cmsup\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmsup\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003Cmo\u003E∩\u003C/mo\u003E\u003Cmsup\u003E\u003Cmi\u003EB\u003C/mi\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-2758\"\u003E(A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime}\u003C/script\u003E\u003Cbr\u003E\nii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-2759-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo&gt;&amp;#x2229;&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;msup&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;mo&gt;&amp;#x2229;&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi class=&quot;MJX-variant&quot; mathvariant=&quot;normal&quot;&gt;&amp;#x2032;&lt;/mi&gt;&lt;/mrow&gt;&lt;/msup&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-38342\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-38343\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38344\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38345\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38346\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∩\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38347\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em;\"\u003EB\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38348\" class=\"mjx-msubsup\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-38349\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-38350\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-38351\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38352\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38353\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.058em; padding-bottom: 0.335em;\"\u003E=\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38354\" class=\"mjx-msubsup MJXc-space3\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-38355\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-38356\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-38357\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38358\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38359\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∩\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38360\" class=\"mjx-msubsup MJXc-space2\"\u003E\u003Cspan class=\"mjx-base\"\u003E\u003Cspan id=\"MJXc-Node-38361\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em;\"\u003EB\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-sup\" style=\"font-size: 70.7%; vertical-align: 0.513em; padding-left: 0px; padding-right: 0.071em;\"\u003E\u003Cspan id=\"MJXc-Node-38362\" class=\"mjx-texatom\" style=\"\"\u003E\u003Cspan id=\"MJXc-Node-38363\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38364\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.335em;\"\u003E′\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmo\u003E∩\u003C/mo\u003E\u003Cmi\u003EB\u003C/mi\u003E\u003Cmsup\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003Cmo\u003E=\u003C/mo\u003E\u003Cmsup\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003Cmo\u003E∩\u003C/mo\u003E\u003Cmsup\u003E\u003Cmi\u003EB\u003C/mi\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi class=\"MJX-variant\" mathvariant=\"normal\"\u003E′\u003C/mi\u003E\u003C/mrow\u003E\u003C/msup\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-2759\"\u003E(A \\cap B)^{\\prime}=A^{\\prime} \\cap B^{\\prime}\u003C/script\u003E\u003Cbr\u003E\niii. \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-2760-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo&gt;&amp;#x222A;&lt;/mo&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mo&gt;&amp;#x2229;&lt;/mo&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;&amp;#x2212;&lt;/mo&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo&gt;&amp;#x222A;&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;mo&gt;&amp;#x2229;&lt;/mo&gt;&lt;mo stretchy=&quot;false&quot;&gt;(&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo&gt;&amp;#x222A;&lt;/mo&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mo stretchy=&quot;false&quot;&gt;)&lt;/mo&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-38365\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-38366\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38367\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38368\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∪\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38369\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38370\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em;\"\u003EB\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38371\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∩\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38372\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em; padding-right: 0.045em;\"\u003EC\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38373\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38374\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.445em;\"\u003E−\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38375\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38376\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38377\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∪\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38378\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.445em; padding-bottom: 0.279em;\"\u003EB\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38379\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38380\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∩\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38381\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E(\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38382\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38383\" class=\"mjx-mo MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.335em; padding-bottom: 0.39em;\"\u003E∪\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38384\" class=\"mjx-mi MJXc-space2\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-math-I\" style=\"padding-top: 0.501em; padding-bottom: 0.279em; padding-right: 0.045em;\"\u003EC\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38385\" class=\"mjx-mo\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.445em; padding-bottom: 0.611em;\"\u003E)\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmo\u003E∪\u003C/mo\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003EB\u003C/mi\u003E\u003Cmo\u003E∩\u003C/mo\u003E\u003Cmi\u003EC\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E−\u003C/mo\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmo\u003E∪\u003C/mo\u003E\u003Cmi\u003EB\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003Cmo\u003E∩\u003C/mo\u003E\u003Cmo stretchy=\"false\"\u003E(\u003C/mo\u003E\u003Cmi\u003EA\u003C/mi\u003E\u003Cmo\u003E∪\u003C/mo\u003E\u003Cmi\u003EC\u003C/mi\u003E\u003Cmo stretchy=\"false\"\u003E)\u003C/mo\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-2760\"\u003EA \\cup(B \\cap C)-(A \\cup B) \\cap(A \\cup C)\u003C/script\u003E\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "সার্বিক সেট U এর উপসেট A, B এবং C হলে,\u003Cbr /\u003E\n(i) $(A \\cup B)^{\\prime}=A^{\\prime} \\cap B^{\\prime}$ (সঠিক)\u003Cbr /\u003E\n(ii) $(A \\cap B)^{\\prime}=A^{\\prime} \\cap B^{\\prime}$ (সঠিক নয়)\u003Cbr /\u003E\n(iii) $A \\cup(B \\cap C)=(A \\cup B) \\cap(A \\cup C)$ (সঠিক)\u003Cbr /\u003E\n$\\therefore$ (i) ও (iii) সঠিক।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3821,
+          "full_name": "চ. বো.'২০২৪",
+          "short_name": "চ. বো.'২০২৪",
+          "slug": "c-bo2024",
+          "pivot": {
+            "question_bank_id": 775223,
+            "tag_id": 3821,
+            "year": null,
+            "created_at": "2025-12-01T13:57:56.000000Z",
+            "updated_at": "2025-12-01T13:57:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775224,
+      "value": {
+        "options": {
+          "ক": "$A^{\\prime}$",
+          "খ": "$A^{}$",
+          "গ": "$\\varnothing$",
+          "ঘ": "$\\{0\\}$"
+        },
+        "question": "সার্বিক সেট U এর যে কোনো উপসেট A এর জন্য A\\(A\\A) এর মান কোনটি?",
+        "solution": "খ. $A^{}$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 775224,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-12-01T13:57:56.000000Z",
+            "updated_at": "2025-12-01T13:57:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775225,
+      "value": {
+        "options": {
+          "ক": "$A \\cup B=A$",
+          "খ": "$A \\cap B=A$",
+          "গ": "$A \\cap B=B$",
+          "ঘ": "$A^{\\prime} \\subset B^{\\prime}$"
+        },
+        "question": "যদি \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-2769-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;bold&quot;&gt;A&lt;/mi&gt;&lt;/mrow&gt;&lt;mo&gt;&amp;#x2282;&lt;/mo&gt;&lt;mrow class=&quot;MJX-TeXAtom-ORD&quot;&gt;&lt;mi mathvariant=&quot;bold&quot;&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-38477\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-38478\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38479\" class=\"mjx-texatom\"\u003E\u003Cspan id=\"MJXc-Node-38480\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38481\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-B\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003EA\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38482\" class=\"mjx-mo MJXc-space3\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.279em; padding-bottom: 0.39em;\"\u003E⊂\u003C/span\u003E\u003C/span\u003E\u003Cspan id=\"MJXc-Node-38483\" class=\"mjx-texatom MJXc-space3\"\u003E\u003Cspan id=\"MJXc-Node-38484\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-38485\" class=\"mjx-mi\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-B\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003EB\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"bold\"\u003EA\u003C/mi\u003E\u003C/mrow\u003E\u003Cmo\u003E⊂\u003C/mo\u003E\u003Cmrow class=\"MJX-TeXAtom-ORD\"\u003E\u003Cmi mathvariant=\"bold\"\u003EB\u003C/mi\u003E\u003C/mrow\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-2769\"\u003E\\mathbf{A} \\subset\\mathbf{B}\u003C/script\u003E হয়, তবে নিচের কোনটি সঠিক?",
+        "solution": "যেহেতু, $A \\subset B$, সেটের প্রতিজ্ঞা অনুসারে $A \\cap B=A$.",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:57:56.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3832,
+          "full_name": "ঢা. বো.'২০১৭",
+          "short_name": "ঢা. বো.'২০১৭",
+          "slug": "dha-bo2017",
+          "pivot": {
+            "question_bank_id": 775225,
+            "tag_id": 3832,
+            "year": null,
+            "created_at": "2025-12-01T13:57:56.000000Z",
+            "updated_at": "2025-12-01T13:57:56.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14535&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14535&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14535&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 5,
+  "total": 5
+}

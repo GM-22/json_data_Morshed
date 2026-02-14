@@ -1,0 +1,760 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695256,
+      "value": {
+        "options": {
+          "ক": "নির্দেশক",
+          "খ": "বলক",
+          "গ": "বিভক্তি",
+          "ঘ": "বচন"
+        },
+        "question": "যেসব শব্দাংশ পদের সঙ্গে যুক্ত হলে বক্তব্যে জোরালো হয়, তাকে কী বলে?",
+        "solution": "যেসব শব্দাংশ পদের সঙ্গে যুক্ত হলে বক্তব্য জোরালো হয়, সেগুলোকে বলক বলে।",
+        "explanation": "",
+        "correct_answer": "B.বলক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:52:04.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695256,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695256,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695256,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-10-09T06:52:04.000000Z",
+            "updated_at": "2025-10-09T06:52:04.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718908,
+      "value": {
+        "options": {
+          "ক": "ধ্বনিমূল",
+          "খ": "প্রকৃতি",
+          "গ": "শব্দগুচ্ছ",
+          "ঘ": "বিভক্তি"
+        },
+        "question": "শব্দমূলের অন্য নাম কী?",
+        "solution": "খ. প্রকৃতি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3849,
+          "full_name": "ঢা. বো.'২০২৪",
+          "short_name": "ঢা. বো.'২০২৪",
+          "slug": "dha-bo2024",
+          "pivot": {
+            "question_bank_id": 718908,
+            "tag_id": 3849,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718912,
+      "value": {
+        "options": {
+          "ক": "৫",
+          "খ": "৪",
+          "গ": "৩",
+          "ঘ": "২"
+        },
+        "question": "প্রকৃতি কত প্রকার?",
+        "solution": "ঘ. ২"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718913,
+      "value": {
+        "options": {
+          "ক": "ক্রিয়াপ্রকৃতি",
+          "খ": "উপসর্গ",
+          "গ": "সমাস&nbsp;",
+          "ঘ": "প্রাতিপদিক"
+        },
+        "question": "বিভক্তিহীন নামশব্দকে কী বলে?",
+        "solution": "ঘ. প্রাতিপদিক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3889,
+          "full_name": "য. বো.'২০২২",
+          "short_name": "য. বো.'২০২২",
+          "slug": "z-bo2022",
+          "pivot": {
+            "question_bank_id": 718913,
+            "tag_id": 3889,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718916,
+      "value": {
+        "options": {
+          "ক": "পদ",
+          "খ": "সলগ্নক পদ",
+          "গ": "বিভক্তি",
+          "ঘ": "অলগ্নক পদ"
+        },
+        "question": "বাক্যের মধ্যে যেসব শব্দে লগ্নক থাকে সেগুলো হলো-",
+        "solution": "খ. সলগ্নক পদ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718919,
+      "value": {
+        "options": {
+          "ক": "২",
+          "খ": "৩",
+          "গ": "৪",
+          "ঘ": "৫"
+        },
+        "question": "গঠনগতভাবে পদ কত প্রকার?",
+        "solution": "ক. ২"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718920,
+      "value": {
+        "options": {
+          "ক": "নির্দেশক",
+          "খ": "বল্ক",
+          "গ": "বিভক্তি",
+          "ঘ": "বচন"
+        },
+        "question": "যে শব্দাংশ পদের সঙ্গে যুক্ত হলে বক্তব্য জোরালো হয় তাকে কী বলে?&nbsp;",
+        "solution": "খ. বল্ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 718920,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718923,
+      "value": {
+        "options": {
+          "ক": "নির্দেশক&nbsp;",
+          "খ": "বিভক্তি",
+          "গ": "বচন",
+          "ঘ": "বলক"
+        },
+        "question": "'এখনও' পদের 'ও' হলো-",
+        "solution": "ঘ. বলক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 718923,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718926,
+      "value": {
+        "options": {
+          "ক": "গায়ক",
+          "খ": "গোলাপি",
+          "গ": "গোলাপ",
+          "ঘ": "হরিণ"
+        },
+        "question": "মৌলিক শব্দ কোনটি?",
+        "solution": "গ. গোলাপ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 718926,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718929,
+      "value": {
+        "options": {
+          "ক": "৫",
+          "খ": "৪",
+          "গ": "৩",
+          "ঘ": "২"
+        },
+        "question": "গঠনগত দিক থেকে শব্দ কত শ্রেণির?",
+        "solution": "ঘ. ২"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718931,
+      "value": {
+        "options": {
+          "ক": "প্রত্যয়",
+          "খ": "উপসর্গ",
+          "গ": "নির্দেশক",
+          "ঘ": "অনুসর্গ&nbsp;"
+        },
+        "question": "পদের অংশ কোনটি?",
+        "solution": "গ. নির্দেশক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3791,
+          "full_name": "ম. বো.'২০২৪",
+          "short_name": "ম. বো.'২০২৪",
+          "slug": "m-bo2024",
+          "pivot": {
+            "question_bank_id": 718931,
+            "tag_id": 3791,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718935,
+      "value": {
+        "options": {
+          "ক": "পদ",
+          "খ": "বাক্য",
+          "গ": "শব্দ",
+          "ঘ": "ধ্বনি"
+        },
+        "question": "অর্থবিশিষ্ট ধ্বনি বা ধ্বনিসমষ্টিকে&nbsp;কী&nbsp;বলে?",
+        "solution": "গ. শব্দ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718938,
+      "value": {
+        "options": {
+          "ক": "সম্পদ",
+          "খ": "জমি",
+          "গ": "শব্দভান্ডার",
+          "ঘ": "টাকা"
+        },
+        "question": "প্রতিটি জনগোষ্ঠীর নিজস্ব কী থাকে?",
+        "solution": "গ. শব্দভান্ডার"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718941,
+      "value": {
+        "options": {
+          "ক": "পদ&nbsp;",
+          "খ": "বাক্য&nbsp;",
+          "গ": "সমাস",
+          "ঘ": "সন্ধি"
+        },
+        "question": "বিভক্তিযুক্ত শব্দ মাত্রকেই বলা হয়-",
+        "solution": "ক. পদ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3872,
+          "full_name": "ম. বো.'২০২২",
+          "short_name": "ম. বো.'২০২২",
+          "slug": "m-bo2022",
+          "pivot": {
+            "question_bank_id": 718941,
+            "tag_id": 3872,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718945,
+      "value": {
+        "options": {
+          "ক": "৫",
+          "খ": "৪",
+          "গ": "৩",
+          "ঘ": "২"
+        },
+        "question": "শব্দনির্মাণের প্রক্রিয়া বিবেচনায় যাবতীয় শব্দকে কয় শ্রেণিতে ভাগ করা যায়?",
+        "solution": "ঘ. ২"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718947,
+      "value": {
+        "options": {
+          "ক": "যৌগিক শব্দ",
+          "খ": "মৌলিক শব্দ",
+          "গ": "সাধিত শব্দ",
+          "ঘ": "রূঢ় শব্দ"
+        },
+        "question": "কোন শব্দকে বিশ্লেষণ করা যায় না?",
+        "solution": "খ. মৌলিক শব্দ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13162&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13162&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13162&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

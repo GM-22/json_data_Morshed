@@ -1,0 +1,1859 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 541102,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_5\\left(\\sqrt[3]{5} \\cdot \\sqrt{5}\\right)[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_5(5^{\\frac{1}{3}} \\cdot 5^{\\frac{1}{2}}) = \\log_5(5^{\\frac{1}{3} + \\frac{1}{2}}) = \\log_5(5^{\\frac{5}{6}})[/math]\u003Cbr\u003E [math]= \\frac{5}{6} \\log_5 5 = \\frac{5}{6} \\times 1 = \\frac{5}{6}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: মূলগুলিকে ঘাতের রূপে লিখলে [math]\\sqrt[3]{5}=5^{1/3}[/math] এবং [math]\\sqrt{5}=5^{1/2}[/math], তাই গুণফল হচ্ছে [math]5^{1/3+1/2}=5^{5/6}[/math]. তাই [math]\\log_5\\!\\big(\\sqrt[3]{5}\\cdot\\sqrt{5}\\big)=\\log_5(5^{5/6})=5/6[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541102,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541093,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]3 \\log_{10} 2 + 2 \\log_{10} 5[/math]",
+        "solution": "[math]= \\log_{10} 2^3 + \\log_{10} 5^2[/math]\u003Cbr\u003E [math]= \\log_{10} 8 + \\log_{10} 25[/math]\u003Cbr\u003E [math]= \\log_{10} (8 \\cdot 25)[/math]\u003Cbr\u003E [math]= \\log_{10} 200[/math]\u003Cbr\u003E",
+        "explanation": "ঘাত ও যোগের সূত্র ব্যবহার করে, [math]3\\log_{10}2=\\log_{10}2^3=\\log_{10}8[/math] এবং [math]2\\log_{10}5=\\log_{10}5^2=\\log_{10}25[/math], তাই [math]\\log_{10}8+\\log_{10}25=\\log_{10}(8\\cdot25)=\\log_{10}200[/math]. এটি আরও সহজ করে লেখা যায়: [math]\\log_{10}200=\\log_{10}(2\\cdot100)=\\log_{10}2+2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541093,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541094,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\frac{50}{\\log_{10} 147} = \\log_{10} 2 + 2\\log_{10} 5 - \\log_{10} 3 - 2\\log_{10} 7[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\frac{50}{\\log_{10} 147} = \\log_{10} 147^{50}[/math]\u003Cbr\u003E (বেস পরিবর্তনের সূত্র)এখন, [math]147 = 3 \\times 7^2[/math]\u003Cbr\u003E [math]50 = 2 \\cdot 5^2[/math]\u003Cbr\u003E⇒ [math]\\frac{50}{\\log_{10} 147} = \\log_{10} \\left(\\frac{2 \\cdot 5^2}{3 \\cdot 7^2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(\\frac{2 \\cdot 5^2}{3 \\cdot 7^2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 2 + \\log_{10} 5^2 - \\log_{10} 3 - \\log_{10} 7^2[/math]\u003Cbr\u003E [math]= \\log_{10} 2 + 2 \\log_{10} 5 - \\log_{10} 3 - 2 \\log_{10} 7[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত: [math]\\frac{50}{\\log_{10} 147} = \\log_{10} 2 + 2 \\log_{10} 5 - \\log_{10} 3 - 2 \\log_{10} 7[/math]\u003Cbr\u003E",
+        "explanation": "এটি সঠিক নয় — সঠিক সম্পর্কটি হলো [math]\\log_{10}\\frac{50}{147}=\\log_{10}2+2\\log_{10}5-\\log_{10}3-2\\log_{10}7[/math]. কারণ লগের যোগ-বিয়োগ নিয়ম অনুযায়ী RHS = [math]\\log_{10}\\!\\left(\\dfrac{2\\cdot5^2}{3\\cdot7^2}\\right)=\\log_{10}\\dfrac{50}{147}[/math]. সংখ্যাসূচকভাবে যাচাই করলে [math]50/\\log_{10}147\\approx23.07[/math] এবং [math]\\log_{10}(50/147)\\approx-0.4685[/math], সুতরাং প্রদত্ত মূল সমীকরণটি ভুল।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541094,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541095,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_7\\left(\\frac{7^3}{\\sqrt[4]{7}}\\right)[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_7\\left(7^{3} \\cdot 7^{-\\frac{1}{4}}\\right) = \\log_7(7^{3 - \\frac{1}{4}}) = \\log_7(7^{\\frac{11}{4}})[/math]\u003Cbr\u003E [math]= \\frac{11}{4} \\log_7 7 = \\frac{11}{4} \\times 1 = \\frac{11}{4}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]\\sqrt[4]{7}=7^{1/4}[/math] হওয়ায় ভগ্নাংশটি [math]\\dfrac{7^3}{\\sqrt[4]{7}}=7^{3-1/4}=7^{11/4}[/math] হয়। তাই [math]\\log_7(7^{11/4})=11/4[/math], কারণ [math]\\log_b(b^x)=x[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541095,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541096,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_5\\left(\\sqrt[3]{5} \\cdot \\sqrt{5}\\right)[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_5(5^{\\frac{1}{3}} \\cdot 5^{\\frac{1}{2}}) = \\log_5(5^{\\frac{1}{3} + \\frac{1}{2}}) = \\log_5(5^{\\frac{5}{6}})[/math]\u003Cbr\u003E [math]= \\frac{5}{6} \\log_5 5 = \\frac{5}{6} \\times 1 = \\frac{5}{6}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]\\sqrt[3]{5}=5^{1/3}[/math] এবং [math]\\sqrt{5}=5^{1/2}[/math] হিসেবে লিখে গুণ করলে ভিতরেরটি হচ্ছে [math]5^{1/3+1/2}=5^{5/6}[/math]। তাই [math]\\log_5(\\sqrt[3]{5}\\cdot\\sqrt{5})=\\log_5(5^{5/6})=5/6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541096,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541097,
+      "value": {
+        "options": [],
+        "question": "সরল কর:\n\n[math]7\\log_{10} \\frac{10}{9} - 2\\log_{10} \\frac{25}{24} + 3\\log_{10} \\frac{81}{80}[/math]",
+        "solution": "প্রথম ধাপ:[math]= 7\\log_{10} \\left(\\frac{10}{9}\\right) - 2\\log_{10} \\left(\\frac{25}{24}\\right) + 3\\log_{10} \\left(\\frac{81}{80}\\right)[/math]\u003Cbr\u003Eভগ্নাংশগুলোকে মৌলিক গুণনীয়কে বিশ্লেষণ করি:[math]10 = 2 \\cdot 5[/math]\u003Cbr\u003E, [math]9 = 3^2[/math]\u003Cbr\u003E, [math]25 = 5^2[/math]\u003Cbr\u003E, [math]24 = 2^3 \\cdot 3[/math]\u003Cbr\u003E, [math]81 = 3^4[/math]\u003Cbr\u003E, [math]80 = 2^4 \\cdot 5[/math]\u003Cbr\u003Eসুতরাং:[math]= 7\\log_{10} \\left(\\frac{2 \\cdot 5}{3^2}\\right) - 2\\log_{10} \\left(\\frac{5^2}{2^3 \\cdot 3}\\right) + 3\\log_{10} \\left(\\frac{3^4}{2^4 \\cdot 5}\\right)[/math]\u003Cbr\u003Eসূত্র প্রয়োগ করে:[math]= \\log_{10} \\left(\\frac{(2 \\cdot 5)^7}{3^{14}}\\right) - \\log_{10} \\left(\\frac{5^4}{2^6 \\cdot 3^2}\\right) + \\log_{10} \\left(\\frac{3^{12}}{2^{12} \\cdot 5^3}\\right)[/math]\u003Cbr\u003Eএকত্রে লিখি:[math]= \\log_{10} \\left(\\frac{2^7 \\cdot 5^7}{3^{14}} \\cdot \\frac{2^6 \\cdot 3^2}{5^4} \\cdot \\frac{3^{12}}{2^{12} \\cdot 5^3} \\right)[/math]\u003Cbr\u003Eসব ঘাত একত্র করি:উপর: [math]2^{7+6} \\cdot 5^{7-4-3} \\cdot 3^{2+12} = 2^{13} \\cdot 5^0 \\cdot 3^{14}[/math]\u003Cbr\u003Eনিচ: [math]3^{14} \\cdot 2^{12}[/math]\u003Cbr\u003Eসুতরাং:[math]= \\log_{10} \\left(\\frac{2^{13} \\cdot 3^{14}}{2^{12} \\cdot 3^{14}}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(2^{13-12} \\cdot 3^{14-14}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} (2^1 \\cdot 1) = \\log_{10} 2[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: লগের গুণন-কাঠমান্ধ্য ব্যবহার করে একত্র করলে [math]7\\log_{10}\\frac{10}{9}-2\\log_{10}\\frac{25}{24}+3\\log_{10}\\frac{81}{80}=\\log_{10}\\!\\left(\\frac{10^7\\cdot24^2\\cdot81^3}{9^7\\cdot25^2\\cdot80^3}\\right)[/math]. প্রতিটি সংখ্যাকে মৌল প্রভাবে লিখলে দানাঙ্ক ও হারানাঙ্কে সব ধনাত্মক ঘাত মুছে যায় এবং বাকি থাকে [math]2[/math], ফলে ফলাফল [math]\\log_{10}2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541097,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541098,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_3(3^2 \\cdot \\sqrt[5]{3})[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_3(3^2 \\cdot 3^{\\frac{1}{5}}) = \\log_3(3^{2 + \\frac{1}{5}}) = \\log_3(3^{\\frac{11}{5}})[/math]\u003Cbr\u003E [math]= \\frac{11}{5} \\log_3 3 = \\frac{11}{5} \\times 1 = \\frac{11}{5}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: যেহেতু [math]\\sqrt[5]{3}=3^{1/5}[/math], তাই ভিতরের অভিব্যক্তিটি হচ্ছে [math]3^2\\cdot3^{1/5}=3^{2+1/5}=3^{11/5}[/math]. ফলে [math]\\log_3(3^2\\cdot\\sqrt[5]{3})=\\log_3(3^{11/5})=11/5[/math], কারণ একই বেসের লগ হলে মানটি হয় ঘাত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541098,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541099,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]3 \\log_{10} 2 + 2 \\log_{10} 5[/math]",
+        "solution": "[math]= \\log_{10} 2^3 + \\log_{10} 5^2[/math]\u003Cbr\u003E [math]= \\log_{10} 8 + \\log_{10} 25[/math]\u003Cbr\u003E [math]= \\log_{10} (8 \\cdot 25)[/math]\u003Cbr\u003E [math]= \\log_{10} 200[/math]\u003Cbr\u003E",
+        "explanation": "3. Use লগের সূত্র: [math]3\\log_{10}2+2\\log_{10}5=\\log_{10}(2^3)+\\log_{10}(5^2)=\\log_{10}(8\\cdot25)=\\log_{10}200[/math].  \nএবং [math]\\log_{10}200=\\log_{10}(2\\cdot100)=\\log_{10}2+2[/math], তাই ফল হলো [math]2+\\log_{10}2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541099,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541100,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_7\\left(\\frac{7^3}{\\sqrt[4]{7}}\\right)[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_7\\left(7^{3} \\cdot 7^{-\\frac{1}{4}}\\right) = \\log_7(7^{3 - \\frac{1}{4}}) = \\log_7(7^{\\frac{11}{4}})[/math]\u003Cbr\u003E [math]= \\frac{11}{4} \\log_7 7 = \\frac{11}{4} \\times 1 = \\frac{11}{4}[/math]\u003Cbr\u003E",
+        "explanation": "[math]\\sqrt[4]{7}=7^{1/4}[/math] তাই [math]\\frac{7^3}{\\sqrt[4]{7}}=7^{3-1/4}=7^{11/4}[/math]. লগ-এর সূত্র অনুযায়ী [math]\\log_7(7^{11/4})=11/4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541100,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541101,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_2(\\sqrt{2} \\cdot \\sqrt[3]{2})[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_2(2^{\\frac{1}{2}} \\cdot 2^{\\frac{1}{3}}) = \\log_2(2^{\\frac{1}{2} + \\frac{1}{3}}) = \\log_2(2^{\\frac{5}{6}})[/math]\u003Cbr\u003E [math]= \\frac{5}{6} \\log_2 2 = \\frac{5}{6} \\times 1 = \\frac{5}{6}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে [math]\\sqrt{2}=2^{1/2}[/math] এবং [math]\\sqrt[3]{2}=2^{1/3}[/math] হিসেবে লিখে নেওয়া যায়, ফলে গুণ করলে পাই [math]2^{1/2+1/3}=2^{5/6}[/math]. তাই [math]\\log_2(\\sqrt{2}\\cdot\\sqrt[3]{2})=\\log_2(2^{5/6})=5/6[/math], কারণ [math]\\log_2(2^x)=x[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541101,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541092,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\log_{10} 18 + \\log_{10} 5 = \\log_{10} 90[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\log_{10} 18 + \\log_{10} 5[/math]\u003Cbr\u003E [math]= \\log_{10} (18 \\cdot 5)[/math]\u003Cbr\u003E [math]= \\log_{10} 90[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত।",
+        "explanation": "ব্যাখ্যা: লগের গুণনীয়তার সূত্র অনুযায়ী [math]\\log_{10}a+\\log_{10}b=\\log_{10}(ab)[/math]। তাই [math]\\log_{10}18+\\log_{10}5=\\log_{10}(18\\times5)=\\log_{10}90[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541092,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541103,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_{10}\\left(\\frac{\\sqrt{10}}{\\sqrt[4]{10}}\\right)[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_{10}(10^{\\frac{1}{2}} \\cdot 10^{-\\frac{1}{4}}) = \\log_{10}(10^{\\frac{1}{2} - \\frac{1}{4}}) = \\log_{10}(10^{\\frac{1}{4}})[/math]\u003Cbr\u003E [math]= \\frac{1}{4} \\log_{10} 10 = \\frac{1}{4} \\times 1 = \\frac{1}{4}[/math]\u003Cbr\u003E",
+        "explanation": "অনুপাতটি সূচকে লিখে সহজ করা যায়: [math]\\sqrt{10}=10^{1/2},\\ \\sqrt[4]{10}=10^{1/4}[/math] তাই অনুপাতটি হলো [math]10^{1/2-1/4}=10^{1/4}[/math]. এরপর [math]\\log_{10}10^{1/4}=1/4[/math] (অর্থাৎ [math]0.25[/math])।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541103,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541104,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]\\log_{10} 2 + \\log_{10} 5[/math]",
+        "solution": "[math]\\log_{10} 2 + \\log_{10} 5 = \\log_{10} (2 \\cdot 5)[/math]\u003Cbr\u003E [math]= \\log_{10} 10 = 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: লগারিথমের নিয়ম অনুযায়ী [math]\\log_{10}a+\\log_{10}b=\\log_{10}(ab)[/math]; তাই [math]\\log_{10}2+\\log_{10}5=\\log_{10}(2\\cdot5)=\\log_{10}10[/math] এবং [math]\\log_{10}10=1[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541104,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541105,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_3(3^2 \\cdot \\sqrt[5]{3})[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_3(3^2 \\cdot 3^{\\frac{1}{5}}) = \\log_3(3^{2 + \\frac{1}{5}}) = \\log_3(3^{\\frac{11}{5}})[/math]\u003Cbr\u003E [math]= \\frac{11}{5} \\log_3 3 = \\frac{11}{5} \\times 1 = \\frac{11}{5}[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে লক্ষ্য করুন যে [math]\\sqrt[5]{3}=3^{1/5}[/math], তাই গুণটি হল [math]3^2\\cdot3^{1/5}=3^{2+1/5}=3^{11/5}[/math]. এরপর [math]\\log_3(3^{11/5})=11/5[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541105,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541106,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]\\log_{10} 100 - \\log_{10} 10[/math]",
+        "solution": "[math]\\log_{10} 100 - \\log_{10} 10 = \\log_{10} \\left(\\frac{100}{10}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 10 = 1[/math]\u003Cbr\u003E",
+        "explanation": "বিপরীত লগারের সূত্র অনুযায়ী [math]\\log_{10}a-\\log_{10}b=\\log_{10}\\frac{a}{b}[/math], তাই [math]\\log_{10}100-\\log_{10}10=\\log_{10}\\frac{100}{10}=\\log_{10}10[/math] এবং [math]\\log_{10}10=1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541106,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541107,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_2(\\sqrt{2} \\cdot \\sqrt[3]{2})[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_2(2^{\\frac{1}{2}} \\cdot 2^{\\frac{1}{3}}) = \\log_2(2^{\\frac{1}{2} + \\frac{1}{3}}) = \\log_2(2^{\\frac{5}{6}})[/math]\u003Cbr\u003E [math]= \\frac{5}{6} \\log_2 2 = \\frac{5}{6} \\times 1 = \\frac{5}{6}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে [math]\\sqrt{2}=2^{1/2}[/math] এবং [math]\\sqrt[3]{2}=2^{1/3}[/math] জানা আছে, তাই গুণ করলে [math]2^{1/2}\\cdot2^{1/3}=2^{1/2+1/3}=2^{5/6}[/math] হয়। ফলে [math]\\log_2(2^{5/6})=5/6[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541107,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541108,
+      "value": {
+        "options": [],
+        "question": "[math]\\log_{10}\\left(\\frac{\\sqrt{10}}{\\sqrt[4]{10}}\\right)[/math] এর মান নির্ণয় কর",
+        "solution": "[math]\\log_{10}(10^{\\frac{1}{2}} \\cdot 10^{-\\frac{1}{4}}) = \\log_{10}(10^{\\frac{1}{2} - \\frac{1}{4}}) = \\log_{10}(10^{\\frac{1}{4}})[/math]\u003Cbr\u003E [math]= \\frac{1}{4} \\log_{10} 10 = \\frac{1}{4} \\times 1 = \\frac{1}{4}[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে ভগ্নাংশ হিসেবে লেখলে [math]\\frac{\\sqrt{10}}{\\sqrt[4]{10}}=\\frac{10^{1/2}}{10^{1/4}}=10^{1/4}[/math] হয়; এরপর লগের সূত্র প্রয়োগ করে [math]\\log_{10}(10^{1/4})=1/4[/math], সুতরাং মান [math]\\frac{1}{4}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541108,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541109,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]\\log_{10} 2 + \\log_{10} 5[/math]",
+        "solution": "[math]\\log_{10} 2 + \\log_{10} 5 = \\log_{10} (2 \\cdot 5)[/math]\u003Cbr\u003E [math]= \\log_{10} 10 = 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: লগের নির্দেশিকা অনুযায়ী [math]\\log_{10}a+\\log_{10}b=\\log_{10}(ab)[/math], অতএব [math]\\log_{10}2+\\log_{10}5=\\log_{10}(2\\cdot5)=\\log_{10}10[/math]. এবং [math]\\log_{10}10=1[/math], তাই ফলাফল [math]1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541109,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541110,
+      "value": {
+        "options": [],
+        "question": "সরল কর: [math]\\log_{10} 100 - \\log_{10} 10[/math]",
+        "solution": "[math]\\log_{10} 100 - \\log_{10} 10 = \\log_{10} \\left(\\frac{100}{10}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 10 = 1[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: লগের সূত্র অনুযায়ী [math]\\log_{10}A-\\log_{10}B=\\log_{10}\\frac{A}{B}[/math]. তাই [math]\\log_{10}100-\\log_{10}10=\\log_{10}\\frac{100}{10}=\\log_{10}10=1[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541110,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541083,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x \\frac{1}{16} = -2[/math]",
+        "solution": "সমাধান:[math]\\log_x \\frac{1}{16} = -2[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{16} = x^{-2}[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{16} = \\frac{1}{x^2}[/math]\u003Cbr\u003E⇒ [math]x^2 = 16[/math]\u003Cbr\u003E⇒ [math]x = \\sqrt{16} = 4[/math]\u003Cbr\u003Eসুতরাং, [math]x[/math]\u003Cbr\u003E এর মান = 4",
+        "explanation": "ব্যাখ্যা: লগারিদমের সংজ্ঞা অনুযায়ী [math]\\log_x\\frac{1}{16}=-2\\iff x^{-2}=\\frac{1}{16}[/math]. এখানে থেকে [math]x^{2}=16\\Rightarrow x=\\pm4[/math], কিন্তু লগারিদমের ভিত্তি ধনাত্মক এবং [math]1[/math] থেকে ভিন্ন হতে হবে, তাই [math]x=4[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541083,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541071,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x 64 = \\frac{3}{2}[/math]",
+        "solution": "সমাধান:[math]\\log_x 64 = \\frac{3}{2}[/math]\u003Cbr\u003E⇒ [math]x^{\\frac{3}{2}} = 64[/math]\u003Cbr\u003E⇒ [math]x^{\\frac{3}{2}} = 2^6[/math]\u003Cbr\u003E⇒ [math](\\sqrt{x})^3 = 64[/math]\u003Cbr\u003E⇒ [math]\\sqrt{x} = 4[/math]\u003Cbr\u003E⇒ [math]x = 16[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: লগারিদমের সংজ্ঞা থেকে [math]\\log_x 64=\\tfrac{3}{2}[/math] মানে [math]x^{3/2}=64[/math]. তাই [math]x=64^{2/3}=(64^{1/3})^2=4^2=16[/math] এবং এটি শর্ত [math]x\u003E0,\\;x\\neq1[/math] পূরণ করে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541071,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541075,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x \\frac{1}{25} = -2[/math]",
+        "solution": "সমাধান:[math]\\log_x \\frac{1}{25} = -2[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{25} = x^{-2}[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{25} = \\frac{1}{x^2}[/math]\u003Cbr\u003E⇒ [math]x^2 = 25[/math]\u003Cbr\u003E⇒ [math]x = 5[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: লগ সংজ্ঞা অনুযায়ী [math]\\log_x \\frac{1}{25}=-2[/math] মানে [math]\\frac{1}{25}=x^{-2}[/math]. এটিকে সমাধান করলে [math]x^2=25[/math] থেকে [math]x=\\pm5[/math], কিন্তু লগের ভিত্তি ধনাত্মক এবং 1 নয়, তাই [math]x=5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541075,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541076,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x \\frac{1}{16} = -2[/math]",
+        "solution": "সমাধান:[math]\\log_x \\frac{1}{16} = -2[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{16} = x^{-2}[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{16} = \\frac{1}{x^2}[/math]\u003Cbr\u003E⇒ [math]x^2 = 16[/math]\u003Cbr\u003E⇒ [math]x = \\sqrt{16} = 4[/math]\u003Cbr\u003Eসুতরাং, [math]x[/math]\u003Cbr\u003E এর মান = 4",
+        "explanation": "লগারিথমের সংজ্ঞা অনুযায়ী [math]\\log_x \\frac{1}{16}=-2[/math] হলে [math]x^{-2}=\\frac{1}{16}[/math]. এটি থেকে [math]x^2=16[/math] ফলে [math]x=±4[/math], কিন্তু লগারিথমের ভিত্তি ধনাত্মক ও [math]1[/math] থেকে ভিন্ন হতে হবে; তাই [math]x=4[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541076,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541077,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x 81 = 4[/math]",
+        "solution": "সমাধান:[math]\\log_x 81 = 4[/math]\u003Cbr\u003E⇒ [math]x^4 = 81[/math]\u003Cbr\u003E⇒ [math]x^4 = 3^4[/math]\u003Cbr\u003E⇒ [math]x = 3[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: লগারিদমিক সমীকরণকে ঘাতীয় রূপে লিখলে [math]x^4=81[/math] পাওয়া যায়। কারণ [math]81=3^4[/math], তাই [math]x^4=3^4\\Rightarrow x=3[/math] (লগের বেস ধনাত্মক ও 1 নয়, তাই [math]x=3[/math] গ্রহণযৌক্তিক)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541077,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541078,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]2\\log_{10} 3 + \\log_{10} 5 = \\log_{10} 135[/math]",
+        "solution": "বামপক্ষ (LHS):[math]2\\log_{10} 3 + \\log_{10} 5[/math]\u003Cbr\u003E [math]= \\log_{10} 3^2 + \\log_{10} 5[/math]\u003Cbr\u003E [math]= \\log_{10}(9 \\cdot 5) = \\log_{10} 45[/math]\u003Cbr\u003E(এখানে মনে হয় প্রশ্নে ভুল রয়েছে, [math]135[/math]\u003Cbr\u003E নয় [math]45[/math]\u003Cbr\u003E হবে)অতএব, সঠিকভাবে: [math]2\\log_{10} 3 + \\log_{10} 5 = \\log_{10} 45[/math]\u003Cbr\u003E",
+        "explanation": "[math]2\\log_{10}3+\\log_{10}5=\\log_{10}3^2+\\log_{10}5=\\log_{10}(9\\cdot5)=\\log_{10}45[/math], তাই উক্ত সমীকরণটি সঠিক নয়। সঠিক সমীকরণ হলো [math]3\\log_{10}3+\\log_{10}5=\\log_{10}27+\\log_{10}5=\\log_{10}(27\\cdot5)=\\log_{10}135[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541078,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541079,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x 64 = \\frac{3}{2}[/math]",
+        "solution": "সমাধান:[math]\\log_x 64 = \\frac{3}{2}[/math]\u003Cbr\u003E⇒ [math]x^{\\frac{3}{2}} = 64[/math]\u003Cbr\u003E⇒ [math]x^{\\frac{3}{2}} = 2^6[/math]\u003Cbr\u003E⇒ [math](\\sqrt{x})^3 = 64[/math]\u003Cbr\u003E⇒ [math]\\sqrt{x} = 4[/math]\u003Cbr\u003E⇒ [math]x = 16[/math]\u003Cbr\u003E",
+        "explanation": "লগарифমের সংজ্ঞা থেকে [math]\\log_x 64=\\tfrac{3}{2}[/math] মানে [math]x^{3/2}=64[/math]. তাই [math]x=64^{2/3}=(64^{1/3})^2=4^2=16[/math], এবং ভিত্তি শর্ত [math]x\u003E0,\\;x\\neq1[/math] পূরণ হচ্ছে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541079,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541080,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]5 \\log_{10} 5 - \\log_{10} 25 = \\log_{10} 125[/math]",
+        "solution": "বামপক্ষ (LHS):[math]= 5 \\log_{10} 5 - \\log_{10} 25[/math]\u003Cbr\u003E [math]= \\log_{10} 5^5 - \\log_{10} 5^2[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(\\frac{5^5}{5^2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 5^{5-2} = \\log_{10} 5^3[/math]\u003Cbr\u003E [math]= \\log_{10} 125[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত: [math]5 \\log_{10} 5 - \\log_{10} 25 = \\log_{10} 125[/math]\u003Cbr\u003E",
+        "explanation": "কারণ [math]5\\log_{10}5=\\log_{10}5^5[/math] এবং [math]\\log_{10}25=\\log_{10}5^2[/math], তাই [math]5\\log_{10}5-\\log_{10}25=\\log_{10}\\frac{5^5}{5^2}=\\log_{10}5^3=\\log_{10}125[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541080,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541081,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x \\frac{1}{25} = -2[/math]",
+        "solution": "সমাধান:[math]\\log_x \\frac{1}{25} = -2[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{25} = x^{-2}[/math]\u003Cbr\u003E⇒ [math]\\frac{1}{25} = \\frac{1}{x^2}[/math]\u003Cbr\u003E⇒ [math]x^2 = 25[/math]\u003Cbr\u003E⇒ [math]x = 5[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: লগারিদমের সংজ্ঞা অনুযায়ী [math]\\log_x \\frac{1}{25}=-2[/math] মানে [math]x^{-2}=\\frac{1}{25}[/math]. ফলে [math]x^2=25\\Rightarrow x=\\pm5[/math], কিন্তু লগারিদমের ভিত্তি ধনাত্মক ও [math]1[/math]-এর সমান নয়, তাই সমাধান হল [math]x=5[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541081,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541082,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\log_{10} 50 - \\log_{10} 2 = \\log_{10} 25[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\log_{10} 50 - \\log_{10} 2[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(\\frac{50}{2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 25[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত।",
+        "explanation": "ব্যাখ্যা: লগরিদমের সূত্র অনুযায়ী [math]\\log_b x - \\log_b y = \\log_b\\left(\\dfrac{x}{y}\\right)[math]। তাই [math]\\log_{10}50 - \\log_{10}2 = \\log_{10}\\left(\\dfrac{50}{2}\\right) = \\log_{10}25[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541082,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541070,
+      "value": {
+        "options": [],
+        "question": "[math]x[/math] এর মান নির্ণয় কর: [math]\\log_x 81 = 4[/math]",
+        "solution": "সমাধান:[math]\\log_x 81 = 4[/math]\u003Cbr\u003E⇒ [math]x^4 = 81[/math]\u003Cbr\u003E⇒ [math]x^4 = 3^4[/math]\u003Cbr\u003E⇒ [math]x = 3[/math]\u003Cbr\u003E",
+        "explanation": "[math]\\log_x 81 = 4[/math] থেকে সমতুল্য হিসেবে পাওয়া যায় [math]x^4 = 81[/math]. কিন্তু [math]81 = 3^4\u003C/math] তাই [math]x = 3[/math] (লগারের ভিত্তি ধনাত্মক ও 1 নয় হওয়া উচিত)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541070,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541084,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\log_{10} 4 + \\log_{10} 125 = \\log_{10} 500[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\log_{10} 4 + \\log_{10} 125[/math]\u003Cbr\u003E [math]= \\log_{10}(4 \\times 125)[/math]\u003Cbr\u003E [math]= \\log_{10} 500[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত।",
+        "explanation": "ব্যাখ্যা: একই বেসের লগারিদমের যোগের নিয়ম অনুযায়ী [math]\\log_b x+\\log_b y=\\log_b(xy)[/math]. তাই [math]\\log_{10}4+\\log_{10}125=\\log_{10}(4\\times125)=\\log_{10}500[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541084,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541085,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]2\\log_{10} 3 + \\log_{10} 5 = \\log_{10} 135[/math]",
+        "solution": "বামপক্ষ (LHS):[math]2\\log_{10} 3 + \\log_{10} 5[/math]\u003Cbr\u003E [math]= \\log_{10} 3^2 + \\log_{10} 5[/math]\u003Cbr\u003E [math]= \\log_{10}(9 \\cdot 5) = \\log_{10} 45[/math]\u003Cbr\u003E(এখানে মনে হয় প্রশ্নে ভুল রয়েছে, [math]135[/math]\u003Cbr\u003E নয় [math]45[/math]\u003Cbr\u003E হবে)অতএব, সঠিকভাবে: [math]2\\log_{10} 3 + \\log_{10} 5 = \\log_{10} 45[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: লগের নিয়মগুলো ব্যবহার করলে [math]a\\log b=\\log b^a[/math] এবং [math]\\log x+\\log y=\\log(xy)[/math]। তাই [math]2\\log_{10}3+\\log_{10}5=\\log_{10}3^2+\\log_{10}5=\\log_{10}(9\\cdot5)=\\log_{10}45[/math], সুতরাং প্রদত্ত সমীকরণটি ভুল—সঠিক ফল [math]\\log_{10}45[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541085,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541086,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]5 \\log_{10} 5 - \\log_{10} 25 = \\log_{10} 125[/math]",
+        "solution": "বামপক্ষ (LHS):[math]= 5 \\log_{10} 5 - \\log_{10} 25[/math]\u003Cbr\u003E [math]= \\log_{10} 5^5 - \\log_{10} 5^2[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(\\frac{5^5}{5^2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 5^{5-2} = \\log_{10} 5^3[/math]\u003Cbr\u003E [math]= \\log_{10} 125[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত: [math]5 \\log_{10} 5 - \\log_{10} 25 = \\log_{10} 125[/math]\u003Cbr\u003E",
+        "explanation": "কারণ গুণগুলোকে লগের ঘাত হিসেবে লিখলে [math]5\\log_{10}5=\\log_{10}5^5[/math] এবং [math]\\log_{10}25=\\log_{10}5^2[/math]; তাই পার্থক্যটি যোগগত সূত্র দিয়ে লেখা যায়: [math]\\log_{10}5^5-\\log_{10}5^2=\\log_{10}5^{5-2}=\\log_{10}5^3=\\log_{10}125[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541086,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541087,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\log_{10} 18 + \\log_{10} 5 = \\log_{10} 90[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\log_{10} 18 + \\log_{10} 5[/math]\u003Cbr\u003E [math]= \\log_{10} (18 \\cdot 5)[/math]\u003Cbr\u003E [math]= \\log_{10} 90[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত।",
+        "explanation": "বিষয়ান্তর সূত্র অনুযায়ী একই ভিত্তির লগারিদমের যোগ গুনফলের লগারিদমের সমান, তাই [math]\\log_{10}18+\\log_{10}5=\\log_{10}(18\\times5)=\\log_{10}90[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541087,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541088,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\frac{50}{\\log_{10} 147} = \\log_{10} 2 + 2\\log_{10} 5 - \\log_{10} 3 - 2\\log_{10} 7[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\frac{50}{\\log_{10} 147} = \\log_{10} 147^{50}[/math]\u003Cbr\u003E (বেস পরিবর্তনের সূত্র)এখন, [math]147 = 3 \\times 7^2[/math]\u003Cbr\u003E [math]50 = 2 \\cdot 5^2[/math]\u003Cbr\u003E⇒ [math]\\frac{50}{\\log_{10} 147} = \\log_{10} \\left(\\frac{2 \\cdot 5^2}{3 \\cdot 7^2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(\\frac{2 \\cdot 5^2}{3 \\cdot 7^2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 2 + \\log_{10} 5^2 - \\log_{10} 3 - \\log_{10} 7^2[/math]\u003Cbr\u003E [math]= \\log_{10} 2 + 2 \\log_{10} 5 - \\log_{10} 3 - 2 \\log_{10} 7[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত: [math]\\frac{50}{\\log_{10} 147} = \\log_{10} 2 + 2 \\log_{10} 5 - \\log_{10} 3 - 2 \\log_{10} 7[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রদত্ত সমীকরণে বাঁ পাশে [math]\\frac{50}{\\log_{10}147}[/math] থাকা সত্ত্বেও ডান পাশে সরলীকরণ করলে আমরা পাই [math]\\log_{10}\\frac{50}{147}[/math], তাই সঠিক সমীকরণটি হল [math]\\log_{10}\\frac{50}{147}=\\log_{10}2+2\\log_{10}5-\\log_{10}3-2\\log_{10}7[/math]. কারণ ডানপাশে যোগ-বিয়োগ করে [math]\\log_{10}(2\\cdot5^2)-\\log_{10}(3\\cdot7^2)=\\log_{10}50-\\log_{10}147=\\log_{10}\\frac{50}{147}[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541088,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541089,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\log_{10} 50 - \\log_{10} 2 = \\log_{10} 25[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\log_{10} 50 - \\log_{10} 2[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(\\frac{50}{2}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} 25[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত।",
+        "explanation": "ব্যাখ্যা: লগারিদমের সূত্র অনুযায়ী [math]\\log_{10}a-\\log_{10}b=\\log_{10}\\!\\left(\\dfrac{a}{b}\\right)[/math]. তাই [math]\\log_{10}50-\\log_{10}2=\\log_{10}\\!\\left(\\dfrac{50}{2}\\right)=\\log_{10}25[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541089,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541090,
+      "value": {
+        "options": [],
+        "question": "সরল কর:\n\n[math]7\\log_{10} \\frac{10}{9} - 2\\log_{10} \\frac{25}{24} + 3\\log_{10} \\frac{81}{80}[/math]",
+        "solution": "প্রথম ধাপ:[math]= 7\\log_{10} \\left(\\frac{10}{9}\\right) - 2\\log_{10} \\left(\\frac{25}{24}\\right) + 3\\log_{10} \\left(\\frac{81}{80}\\right)[/math]\u003Cbr\u003Eভগ্নাংশগুলোকে মৌলিক গুণনীয়কে বিশ্লেষণ করি:[math]10 = 2 \\cdot 5[/math]\u003Cbr\u003E, [math]9 = 3^2[/math]\u003Cbr\u003E, [math]25 = 5^2[/math]\u003Cbr\u003E, [math]24 = 2^3 \\cdot 3[/math]\u003Cbr\u003E, [math]81 = 3^4[/math]\u003Cbr\u003E, [math]80 = 2^4 \\cdot 5[/math]\u003Cbr\u003Eসুতরাং:[math]= 7\\log_{10} \\left(\\frac{2 \\cdot 5}{3^2}\\right) - 2\\log_{10} \\left(\\frac{5^2}{2^3 \\cdot 3}\\right) + 3\\log_{10} \\left(\\frac{3^4}{2^4 \\cdot 5}\\right)[/math]\u003Cbr\u003Eসূত্র প্রয়োগ করে:[math]= \\log_{10} \\left(\\frac{(2 \\cdot 5)^7}{3^{14}}\\right) - \\log_{10} \\left(\\frac{5^4}{2^6 \\cdot 3^2}\\right) + \\log_{10} \\left(\\frac{3^{12}}{2^{12} \\cdot 5^3}\\right)[/math]\u003Cbr\u003Eএকত্রে লিখি:[math]= \\log_{10} \\left(\\frac{2^7 \\cdot 5^7}{3^{14}} \\cdot \\frac{2^6 \\cdot 3^2}{5^4} \\cdot \\frac{3^{12}}{2^{12} \\cdot 5^3} \\right)[/math]\u003Cbr\u003Eসব ঘাত একত্র করি:উপর: [math]2^{7+6} \\cdot 5^{7-4-3} \\cdot 3^{2+12} = 2^{13} \\cdot 5^0 \\cdot 3^{14}[/math]\u003Cbr\u003Eনিচ: [math]3^{14} \\cdot 2^{12}[/math]\u003Cbr\u003Eসুতরাং:[math]= \\log_{10} \\left(\\frac{2^{13} \\cdot 3^{14}}{2^{12} \\cdot 3^{14}}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} \\left(2^{13-12} \\cdot 3^{14-14}\\right)[/math]\u003Cbr\u003E [math]= \\log_{10} (2^1 \\cdot 1) = \\log_{10} 2[/math]\u003Cbr\u003E",
+        "explanation": "প্রতিটি লগকে ঘাত হিসেবে লিখে যোগ করলে এটি হয় [math]\\log_{10}\\!\\left(\\frac{10^7}{9^7}\\cdot\\frac{24^2}{25^2}\\cdot\\frac{81^3}{80^3}\\right)[/math]. প্রাইম-বিন্যাস (2,3,5) করে বাতিল করলে সব ঘাত নষ্ট হয়ে কেবল [math]2[/math] থাকে, তাই ফল হচ্ছে [math]\\log_{10}2[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541090,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 541091,
+      "value": {
+        "options": [],
+        "question": "দেখাও যে: [math]\\log_{10} 4 + \\log_{10} 125 = \\log_{10} 500[/math]",
+        "solution": "বামপক্ষ (LHS):[math]\\log_{10} 4 + \\log_{10} 125[/math]\u003Cbr\u003E [math]= \\log_{10}(4 \\times 125)[/math]\u003Cbr\u003E [math]= \\log_{10} 500[/math]\u003Cbr\u003E⇒ ডানপক্ষের সমানসুতরাং, প্রমাণিত।",
+        "explanation": "ব্যাখ্যা: লগের যোগরীতি অনুযায়ী [math]\\log_{10}4+\\log_{10}125=\\log_{10}(4\\times125)[/math]. কিন্তু [math]4\\times125=500[/math], তাই [math]\\log_{10}4+\\log_{10}125=\\log_{10}500[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12930,
+      "created_at": "2025-08-26T07:43:11.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 541091,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:43:11.000000Z",
+            "updated_at": "2025-08-26T07:43:11.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12930&grade=5&lesson=12932&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12930&grade=5&lesson=12932&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12930&grade=5&lesson=12932&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 38,
+  "total": 38
+}

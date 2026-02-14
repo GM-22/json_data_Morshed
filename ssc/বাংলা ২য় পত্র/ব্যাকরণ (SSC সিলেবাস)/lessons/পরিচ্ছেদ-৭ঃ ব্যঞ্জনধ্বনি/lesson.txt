@@ -1,0 +1,3021 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695230,
+      "value": {
+        "options": {
+          "ক": "দন্তমূলীয়, তালব্য, কণ্ঠনালীয়",
+          "খ": "দন্তমূলীয়, কণ্ঠনালীয়, পার্শ্বিক",
+          "গ": "তালব্য, কণ্ঠনালীয়, নাসিক্য",
+          "ঘ": "কণ্ঠনালীয়, দন্তমূলীয়, মূর্ধন্য"
+        },
+        "question": "উচ্চারণ স্থান অনুসারে উষ্ম ব্যঞ্জন ধ্বনিগুলোকে কী কী ভাগে ভাগ করা যায়?",
+        "solution": "উচ্চারণ স্থান অনুসারে উষ্ম ব্যঞ্জন ধ্বনিগুলোকে তিন ভাগে ভাগ করা যায়:\n\n১) দন্তমূলীয় উষ্ম ব্যঞ্জন ধ্বনি:\n\nএই ধ্বনিগুলো উচ্চারণ করার সময়, জিহ্বার ডগা দাঁতের মূলের সাথে স্পর্শ করে।\nবাংলা ভাষায় একটি দন্তমূলীয় উষ্ম ব্যঞ্জন ধ্বনি আছে: ষ (যেমন: \"ষড়যন্ত্র\")\n\n২) তালব্য উষ্ম ব্যঞ্জন ধ্বনি:\n\nএই ধ্বনিগুলো উচ্চারণ করার সময়, জিহ্বার মাঝের অংশ তালুর সাথে স্পর্শ করে।\nবাংলা ভাষায় দুটি তালব্য উষ্ম ব্যঞ্জন ধ্বনি আছে:\n\nশ (যেমন: \"শিক্ষা\")\nহ (যেমন: \"হাসি\")\n\n৩) কণ্ঠনালীয় উষ্ম ব্যঞ্জন ধ্বনি:\n\nএই ধ্বনিগুলো উচ্চারণ করার সময়, স্বরযন্ত্র কাঁপে।\nবাংলা ভাষায় একটি কণ্ঠনালীয় উষ্ম ব্যঞ্জন ধ্বনি আছে: স (যেমন: \"সুন্দর\")",
+        "explanation": "",
+        "correct_answer": "A.দন্তমূলীয়, তালব্য, কণ্ঠনালীয়"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695230,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695230,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695222,
+      "value": {
+        "options": {
+          "ক": "চ, ছ, জ, শ",
+          "খ": "ন, র, ল, স",
+          "গ": "ত, থ, দ, ধ",
+          "ঘ": "ট, ঠ, ড, ঢ"
+        },
+        "question": "মূর্ধন্য ব্যঞ্জনধ্বনির উদাহরণ কোনগুলো?",
+        "solution": "ট, ঠ, ড, ঢ' এই ব্যঞ্জনগুলো মূর্ধন্য ব্যঞ্জনধ্বনি, যেগুলি উচ্চারণে জিভের পেছনের অংশ ব্যবহার হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695222,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695222,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695222,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695223,
+      "value": {
+        "options": {
+          "ক": "চ, ছ, জ, ঝ",
+          "খ": "ক, খ, গ, ঘ",
+          "গ": "ট, ঠ, ড, ঢ",
+          "ঘ": "ত, থ, দ, ধ"
+        },
+        "question": "কোন ব্যঞ্জনধ্বনির বর্ণসমূহের উচ্চারণ স্থানং জিহ্ব মূল?",
+        "solution": "কণ্ঠ্য বা জিহ্বামূলীয় বর্ণ: ক, খ, গ, ঘ, ঙ",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695223,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695223,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695223,
+            "tag_id": 1,
+            "year": "2020",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695224,
+      "value": {
+        "options": {
+          "ক": "ল",
+          "খ": "ঞ",
+          "গ": "শ",
+          "ঘ": "ঢ়"
+        },
+        "question": "কোনটি পার্শ্বিক ব্যঞ্জনধ্বনি?",
+        "solution": "যে ব্যঞ্জনধ্বনি উচ্চারণের সময়ে জিভের ডগা দন্তমূল স্পর্শ করে এবং ফুসফুস থেকে আসা বাতাস জিভের দুই পাশ দিয়ে বেরিয়ে যায়, তাকে পার্শ্বিক ব্যঞ্জন বলে। 'ল' পার্শ্বিক ব্যঞ্জন ধ্বনির উদাহরণ।",
+        "explanation": "",
+        "correct_answer": "A.ল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695224,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695224,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695224,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695224,
+            "question_bank_institution_id": 234
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695224,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695224,
+            "tag_id": 4,
+            "year": "2024",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695224,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        },
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695224,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695225,
+      "value": {
+        "options": {
+          "ক": "শতেক",
+          "খ": "কুড়িক",
+          "গ": "তিনেক",
+          "ঘ": "রূপালি"
+        },
+        "question": "কোনটি বাংলা ব্যঞ্জনসন্ধির উদাহরণ?",
+        "solution": "তিনেক",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 7,
+          "year": "2019",
+          "pivot": {
+            "question_bank_id": 695225,
+            "year_id": 7
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695225,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695225,
+            "tag_id": 4,
+            "year": "2019",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695226,
+      "value": {
+        "options": {
+          "ক": "খ",
+          "খ": "ঠ",
+          "গ": "থ",
+          "ঘ": "ফ"
+        },
+        "question": "অঘোষ মহাপ্রাণ ওষ্ঠ্য ব্যঞ্জনবর্ণ কোনটি?",
+        "solution": "ফ",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695226,
+            "year_id": 8
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695226,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695226,
+            "tag_id": 5,
+            "year": "2015",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695227,
+      "value": {
+        "options": {
+          "ক": "তার",
+          "খ": "লাল",
+          "গ": "বাড়ি",
+          "ঘ": "শসা"
+        },
+        "question": "নিচের কোন শব্দে কম্পিত ব্যঞ্জনধ্বনি রয়েছে?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "A.তার"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695227,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695227,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695227,
+            "tag_id": 7,
+            "year": "2024",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695228,
+      "value": {
+        "options": {
+          "ক": "ন, র, ল",
+          "খ": "জ, ঝ, ড়",
+          "গ": "গ, ঘ, হ",
+          "ঘ": "স, শ, ছ"
+        },
+        "question": "কোন বর্ণগুচ্ছটি অঘোষ ব্যঞ্জন?",
+        "solution": "যে ধ্বনি উচ্চারণের সময় স্বরতন্ত্রী অনুরণিত হয় না, তাকে বলা হয় অঘোষ ধ্বনি।",
+        "explanation": "",
+        "correct_answer": "D.স, শ, ছ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695228,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695228,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695229,
+      "value": {
+        "options": {
+          "ক": "কাকা",
+          "খ": "থালা",
+          "গ": "ঝড়",
+          "ঘ": "ধান"
+        },
+        "question": "তালব্য ব্যঞ্জনধ্বনির উদাহরণ আছে কোন শব্দে?",
+        "solution": "তালব্য ব্যঞ্জনধ্বনি উচ্চারণের সময় জিহ্বার মাঝের অংশ তালু স্পর্শ করে বা তার কাছে নিকটবর্তী হয়।",
+        "explanation": "",
+        "correct_answer": "C.ঝড়"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695229,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695229,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695229,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695206,
+      "value": {
+        "options": {
+          "ক": "অঘোষ অল্পপ্রাণ ধ্বনি",
+          "খ": "অঘোষ মহাপ্রাণ ধ্বনি",
+          "গ": "দন্ত্য ধ্বনি",
+          "ঘ": "উষ্মধ্বনি"
+        },
+        "question": "যে ব্যঞ্জনের উচ্চারণে বাতাস মুখবিবরে কোথাও বাধা না পেয়ে কেবল ঘর্ষণপ্রাপ্ত হয় এবং শিশধ্বনির সৃষ্টি করে তাকে কী বলে?",
+        "solution": "যে ব্যঞ্জনের উচ্চারণে বাতাস মুখবিবরে কোথাও বাধা না পেয়ে কেবল ঘর্ষণপ্রাপ্ত হয় এবং শিশধ্বনির সৃষ্টি করে তাকে উষ্ম ব্যঞ্জন বলে।\nউষ্ম ব্যঞ্জনগুলো উচ্চারণ করার সময় মুখবিবরের কোনো অংশে বাতাসের পূর্ণ বাধা সৃষ্টি হয় না। বরং, বাতাস মুখবিবরের বিভিন্ন অংশে স্পর্শ করে ঘর্ষণ সৃষ্টি করে। এই ঘর্ষণের ফলে শিশধ্বনি তৈরি হয়।",
+        "explanation": "",
+        "correct_answer": "D.উষ্মধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695206,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695206,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695206,
+            "tag_id": 7,
+            "year": "2022",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695231,
+      "value": {
+        "options": {
+          "ক": "স",
+          "খ": "প",
+          "গ": "হ",
+          "ঘ": "ড়"
+        },
+        "question": "নিচের কোনটি কণ্ঠনালীয় ব্যঞ্জনের উদাহরণ?",
+        "solution": "কণ্ঠনালীয় ব্যঞ্জন উচ্চারণের সময়ে ধ্বনিদ্বার থেকে বায়ু কণ্ঠনালি হয়ে সরাসরি বের হয়ে আসে। 'হ' কণ্ঠনালীয় ব্যঞ্জনধ্বনির উদাহরণ।",
+        "explanation": "",
+        "correct_answer": "C.হ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695231,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695231,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695231,
+            "tag_id": 46,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695232,
+      "value": {
+        "options": {
+          "ক": "র-ধ্বনি",
+          "খ": "ট-ধ্বনি",
+          "গ": "ঝ-ধ্বনি",
+          "ঘ": "খ-ধ্বনি"
+        },
+        "question": "দন্ত্যমূলীয় ব্যঞ্জন ধ্বনির উদাহরণ কোনটি?",
+        "solution": "জিহ্বার ডগাটি দাঁতের পিছনের শক্ত অংশ বা দন্তমূলে স্পর্শ করে বা তার কাছে নিকটবর্তী হয়ে যেসব ধ্বনি উচ্চারিত হয়, সেগুলোকে দন্তমূলীয় ব্যঞ্জনধ্বনি বলা হয়। বাংলা ভাষার \"ন\", \"র\", \"ল\", ও \"স\" বর্ণগুলোর উচ্চারণ দন্তমূলীয় বলা হয়। কিছু-কিছু অঞ্চলে বাংলা \"ট\", \"ঠ\", \"ড\", ও \"ঢ\" বর্ণগুলোর উচ্চারণস্থানও দন্তমূলীয়।",
+        "explanation": "",
+        "correct_answer": "A.র-ধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695232,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695232,
+            "tag_id": 47,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695233,
+      "value": {
+        "options": {
+          "ক": "শ, ক",
+          "খ": "দ, ধ",
+          "গ": "ঢ, জ",
+          "ঘ": "ভ, ম"
+        },
+        "question": "কোনগুলো অঘোষ ব্যঞ্জন?",
+        "solution": "যে বর্ণগুলো উচ্চারণ করতে ফুসফুস থেকে অপেক্ষাকৃত কম বাতাস প্রবাহিত হয় এবং উচ্চারণ নাদিত হয় তাদের অঘোষ বর্ণ বলে।",
+        "explanation": "",
+        "correct_answer": "A.শ, ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695233,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695233,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695233,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695234,
+      "value": {
+        "options": {
+          "ক": "ভ",
+          "খ": "ধ",
+          "গ": "থ",
+          "ঘ": "ঙ"
+        },
+        "question": "অঘোষ ব্যঞ্জনধ্বনি কোনটি?",
+        "solution": "অঘোষ ব্যঞ্জনধ্বনি হলো সেইসব ব্যঞ্জনধ্বনি যাদের উচ্চারণ করার সময় স্বরযন্ত্রের কাঁপনী হয় না। বরং, বাতাসের প্রবাহ দ্রুত ও বাধা ছাড়াই বেরিয়ে আসে।",
+        "explanation": "",
+        "correct_answer": "C.থ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695234,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695234,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695234,
+            "tag_id": 4,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695235,
+      "value": {
+        "options": {
+          "ক": "হ",
+          "খ": "ধ",
+          "গ": "ঠ",
+          "ঘ": "দ"
+        },
+        "question": "অল্পপ্রাণ ব্যঞ্জন নিচের কোনটি?",
+        "solution": "যে ধ্বনি উচ্চারণের সময় বাতাসের চাপের স্বল্পতা থাকে, তাকে বলা হয় অল্পপ্রাণ ধ্বনি বলে। যেমন: ( ক, গ, চ, জ, ত, দ, প, ব)।",
+        "explanation": "",
+        "correct_answer": "D.দ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695235,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695235,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695235,
+            "tag_id": 5,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695236,
+      "value": {
+        "options": {
+          "ক": "র",
+          "খ": "ঠ",
+          "গ": "দ",
+          "ঘ": "ভ"
+        },
+        "question": "কোনটি ঘোষ মহাপ্রাণ বর্ণ?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "D.ভ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695236,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695236,
+            "tag_id": 3585,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695237,
+      "value": {
+        "options": {
+          "ক": "ধ, ভ",
+          "খ": "খ, ছ",
+          "গ": "ট,ঠ",
+          "ঘ": "ত, খ"
+        },
+        "question": "ঘোষ মহাপ্রাণ ব্যঞ্জন ধ্বনি কোনটি?",
+        "solution": "ধ্বনি উচ্চারণের সময় নিঃশ্বাস জোরে সংযোজিত হয় তাকে ঘোষ মহাপ্রাণ ধ্বনি বলে।",
+        "explanation": "",
+        "correct_answer": "A.ধ, ভ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695237,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695237,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695237,
+            "tag_id": 3,
+            "year": "2023",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695220,
+      "value": {
+        "options": {
+          "ক": "ব, ম",
+          "খ": "়, ঢ়",
+          "গ": "প, ত",
+          "ঘ": "স, হ"
+        },
+        "question": "কোনগুলো তাড়িত ব্যঞ্জন?",
+        "solution": "‘ড়’ ও ‘ঢ়’ ব্যঞ্জনধ্বনি উচ্চারণে কম্পনযুক্ত এবং এগুলো তাড়িত বা কম্পিত ব্যঞ্জনধ্বনি হিসেবে চিহ্নিত।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695220,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695220,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695220,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695205,
+      "value": {
+        "options": {
+          "ক": "ল",
+          "খ": "র",
+          "গ": "ঢ়",
+          "ঘ": "হ"
+        },
+        "question": "পার্শ্বিক' ব্যঞ্জনধ্বনির উদাহরণ কোনটি?",
+        "solution": "ল' একটি পার্শ্বিক ব্যঞ্জনধ্বনি, কারণ উচ্চারণে জিভের পাশে বাতাস বের হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695205,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695205,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695205,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695207,
+      "value": {
+        "options": {
+          "ক": "গ, ঘ, দ, ধ",
+          "খ": "চ, ছ, ব, ভ",
+          "গ": "ত, থ, ট, ঠ",
+          "ঘ": "ত, দ, ট, ড"
+        },
+        "question": "ঘোষ ব্যঞ্জন ধ্বনির গুচ্ছ কোনটি?",
+        "solution": "গ, ঘ, দ, ধ — এগুলো হলো ঘোষ ধ্বনি, কারণ উচ্চারণে কণ্ঠনালিতে কম্পন হয়।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695207,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695207,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695207,
+            "tag_id": 7,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695208,
+      "value": {
+        "options": {
+          "ক": "মহাপ্রাণ ধ্বনি",
+          "খ": "অঘোষ ধ্বনি",
+          "গ": "অল্পপ্রাণ ধ্বনি",
+          "ঘ": "শ্বাস ধ্বনি"
+        },
+        "question": "কোন ধ্বনি উচ্চারণের সময় বাতাসের চাপের আধিক্য থাকে?",
+        "solution": "যে ধ্বনি উচ্চারণের সময় নিঃশ্বাস জোরে সংযোজিত হয় বা ফুসফুস থেকে বের হওয়া বাতাসের জোর বেশি থাকে, তাকে মহাপ্রাণ ধ্বনি বলে।",
+        "explanation": "",
+        "correct_answer": "A.মহাপ্রাণ ধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695208,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695208,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695208,
+            "tag_id": 3626,
+            "year": "2022",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695209,
+      "value": {
+        "options": {
+          "ক": "ব",
+          "খ": "গ",
+          "গ": "চ",
+          "ঘ": "ত"
+        },
+        "question": "ওষ্ঠ স্পৃষ্ট ব্যঞ্জন ধ্বনি কোনটি?",
+        "solution": "‘ব’ উচ্চারণে দুই ঠোঁট (ওষ্ঠ) মিলিত হয়, তাই এটি ওষ্ঠস্পৃষ্ট ব্যঞ্জন ধ্বনি।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695209,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695209,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695210,
+      "value": {
+        "options": {
+          "ক": "অগ্রতালু",
+          "খ": "জিহ্বামূল",
+          "গ": "অগ্রদন্তমূল",
+          "ঘ": "পশ্চাৎ দন্তমূল"
+        },
+        "question": "ক ধ্বনির উচ্চারণ স্থান কোনটি?",
+        "solution": "যেসব ব্যাঞ্জনধ্বনি উচ্চারণের সময়ে জিভের পিছনের অংশ উঁচু হয়ে আলজিভের কাছাকাছি নরম তালুর কাছে বায়ুপথে বাধা সৃষ্টি করে, সেগুলোকে কণ্ঠ্য ব্যঞ্জন বা জিহ্বামূল ধ্বনি বলে। যেমন- ক, খ, গ, ঘ, ঙ। কণ্ঠ্য ব্যঞ্জনের মুখ্য বাক্সতঙ্গ হলো- জিভের পেছনের অংশ।",
+        "explanation": "",
+        "correct_answer": "B.জিহ্বামূল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695210,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695210,
+            "year_id": 10
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695210,
+            "question_bank_institution_id": 233
+          }
+        },
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695210,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695210,
+            "tag_id": 46,
+            "year": "2022",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        },
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695210,
+            "tag_id": 46,
+            "year": "2017",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695211,
+      "value": {
+        "options": {
+          "ক": "ওষ্ঠ্য ধ্বনি",
+          "খ": "দন্ত্য ব্যঞ্জন ধ্বনি",
+          "গ": "তালব্য ব্যঞ্জন ধ্বনি",
+          "ঘ": "কণ্ঠ্য ধ্বনি"
+        },
+        "question": "কোমল তালু ও জিভমূলের স্পর্শে কোন ধ্বনি উচ্চারিত হয়?",
+        "solution": "জিভমূল ও কোমল তালুর সংযোগে যে ধ্বনি উচ্চারিত হয় তাকে কণ্ঠ্য ব্যঞ্জন ধ্বনি বলা হয়। যেমন: ‘ক’, ‘খ’।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695211,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695211,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695212,
+      "value": {
+        "options": {
+          "ক": "র",
+          "খ": "ড়",
+          "গ": "শ",
+          "ঘ": "ণ"
+        },
+        "question": "কোনটি তাড়িত ব্যঞ্জনের উদাহরণ?",
+        "solution": "ড়' ব্যঞ্জনটি উচ্চারণে কম্পন সৃষ্টি করে এবং দ্রুত উচ্চারিত হয়, এজন্য একে তাড়িত ব্যঞ্জন বলা হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695212,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695212,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695214,
+      "value": {
+        "options": {
+          "ক": "মূর্ধন্য ধ্বনি",
+          "খ": "তালব্য ধ্বনি",
+          "গ": "দন্ত্য ধ্বনি",
+          "ঘ": "কণ্ঠ্য ধ্বনি"
+        },
+        "question": "যেসব ধ্বনি উচ্চারণের সময় জিভের ডগা মূর্ধার সঙ্গে লেগে বায়ুপথে বাধা সৃষ্টি করে সেগুলোকে বলে –",
+        "solution": "জিভের ডগা মূর্ধার সঙ্গে লেগে উচ্চারিত ধ্বনিকে মূর্ধন্য ধ্বনি বলে, যেমন: ট, ঠ, ড, ঢ, ণ।",
+        "explanation": "",
+        "correct_answer": "A. মূর্ধন্য ধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695214,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695214,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695214,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695215,
+      "value": {
+        "options": {
+          "ক": "ট",
+          "খ": "ঠ",
+          "গ": "ণ",
+          "ঘ": "ন"
+        },
+        "question": "ট-বর্গীয় ধ্বনি নয় কোনটি?",
+        "solution": "'ট' বর্গীয় বর্ণগুলো হলো- ট, ঠ, ড, ঢ, ণ।",
+        "explanation": "",
+        "correct_answer": "D.ন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695215,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695215,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695215,
+            "tag_id": 4,
+            "year": "2022",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695216,
+      "value": {
+        "options": {
+          "ক": "স, শ, হ",
+          "খ": "য, র, ল",
+          "গ": "ড়, ঢ়, য",
+          "ঘ": "ং, ঃ, ঁ"
+        },
+        "question": "নিচের কোনটি 'উষ্ম' ধ্বনির উদাহরণ?",
+        "solution": "উচ্চারণকালে শ্বাসপ্রবাহে যে ধ্বনিগুলো উষ্ণতা অনুভব করায়, সেগুলো উষ্ম ধ্বনি, যেমন: স, শ, হ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695216,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695216,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695216,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695217,
+      "value": {
+        "options": {
+          "ক": "স্পর্শ বর্ণ",
+          "খ": "উম্ম বর্ণ/শিশধ্বনি",
+          "গ": "দন্ত্য বর্ণ",
+          "ঘ": "ওষ্ঠ্য বর্ণ"
+        },
+        "question": "শ, ষ, স, ব- এ চারটি বর্ণকে কী বলে?",
+        "solution": "যেসব ব্যঞ্জনধ্বনি উচ্চারণের সময়ে দুটি বাক্সত্যঙ্গ কাছাকাছি এসে নিঃসৃত বায়ুতে ঘর্ষণ সৃষ্টি করে, সেগুলোকে উষ্ম ব্যঞ্জন বলে। যেমন- স, শ, য, হ উম্ম ধ্বনির উদাহরণ। এগুলোকে শিশধ্বনিও বলা হয়ে থাকে।",
+        "explanation": "",
+        "correct_answer": "B.উম্ম বর্ণ/শিশধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695217,
+            "year_id": 3
+          }
+        },
+        {
+          "id": 10,
+          "year": "2017",
+          "pivot": {
+            "question_bank_id": 695217,
+            "year_id": 10
+          }
+        },
+        {
+          "id": 8,
+          "year": "2015",
+          "pivot": {
+            "question_bank_id": 695217,
+            "year_id": 8
+          }
+        },
+        {
+          "id": 41,
+          "year": "2011",
+          "pivot": {
+            "question_bank_id": 695217,
+            "year_id": 41
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695217,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695217,
+            "question_bank_institution_id": 232
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695217,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695217,
+            "tag_id": 5,
+            "year": "2022",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        },
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695217,
+            "tag_id": 3585,
+            "year": "2017",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695217,
+            "tag_id": 1,
+            "year": "2015",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695217,
+            "tag_id": 5,
+            "year": "2011",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695218,
+      "value": {
+        "options": {
+          "ক": "হ",
+          "খ": "ঞ",
+          "গ": "এ",
+          "ঘ": "ও"
+        },
+        "question": "কোন বর্ণের নিজস্ব কোনো ধ্বনি নেই?",
+        "solution": "‘ঞ’ বর্ণ উচ্চারণে এককভাবে ব্যবহৃত হয় না। এটি মূলত অন্য বর্ণের সঙ্গে যুক্ত হয়ে ধ্বনি প্রকাশ করে, তাই এর নিজস্ব ধ্বনি নেই।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695218,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695218,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695218,
+            "tag_id": 3626,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695219,
+      "value": {
+        "options": {
+          "ক": "গ, ঘ",
+          "খ": "ক, খ",
+          "গ": "প, ফ",
+          "ঘ": "ট, ঠ"
+        },
+        "question": "ঘোষ ব্যঞ্জন' ধ্বনি কোনগুলো?",
+        "solution": "ঘোষ ব্যঞ্জন হলো যেসব ব্যঞ্জন উচ্চারণে কণ্ঠস্বর ব্যবহৃত হয় — গ, ঘ, দ, ধ ইত্যাদি। গ ও ঘ ঘোষ ব্যঞ্জন।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695219,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695219,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695219,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695221,
+      "value": {
+        "options": {
+          "ক": "গ",
+          "খ": "ঘ",
+          "গ": "চ",
+          "ঘ": "ব"
+        },
+        "question": "অঘোষ অল্পপ্রাণ ধ্বনি কোনটি?",
+        "solution": "যেসব ধ্বনি উচ্চারণের সময়ে ধ্বনিদ্বারের কম্পন অপেক্ষাকৃত কম, সেসব ধ্বনিকে বলা হয় অঘোষধ্বনি। অন্যদিকে, যেসব ধ্বনি উচ্চারণের সময়ে ফুসফুস থেকে নির্গত বায়ুপ্রবাহের মাত্রা অপেক্ষাকৃত কম, সেগুলোকে বলা হয় অল্পপ্রাণ ধ্বনি। অঘোষ অল্পপ্রাণ ধ্বনিগুলো হলো- ক, চ, ট, ত, প, স, শ।",
+        "explanation": "",
+        "correct_answer": "C.চ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695221,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695221,
+            "tag_id": 3585,
+            "year": "2022",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695213,
+      "value": {
+        "options": {
+          "ক": "ক খ গ ঘ ঙ",
+          "খ": "চ ছ জ ঝ ঞ",
+          "গ": "প ফ ব ভ ম",
+          "ঘ": "ট ঠ ড ঢ ণ"
+        },
+        "question": "ওষ্ঠ্য ধ্বনি কোনগুলো?",
+        "solution": "বাংলা ভাষার \"প\", \"ফ\", \"ব\", \"ভ\", ও \"ম\" বর্ণগুলোর উচ্চারণ ওষ্ঠ্য বলা হয়। যেসব ব্যঞ্জনধ্বনির উচ্চারণে উভয় ঠোঁট স্পর্শ করা হয় সেগুলোকে বিশুদ্ধ ওষ্ঠ্য বলা হয়। যেসব ব্যঞ্জনধ্বনির উচ্চারণে নিচের ঠোঁট ওপরের দাঁত স্পর্শ করে সেগুলোকে দন্তৌষ্ঠ্য বলা হয়।",
+        "explanation": "",
+        "correct_answer": "C.প ফ ব ভ ম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T06:51:20.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 3,
+          "year": "2022",
+          "pivot": {
+            "question_bank_id": 695213,
+            "year_id": 3
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695213,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695213,
+            "tag_id": 1,
+            "year": "2022",
+            "created_at": "2025-10-09T06:51:20.000000Z",
+            "updated_at": "2025-10-09T06:51:20.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718960,
+      "value": {
+        "options": {
+          "ক": "র-ধ্বনি",
+          "খ": "ট-ধ্বনি",
+          "গ": "ঝ-ধ্বনি",
+          "ঘ": "খ-ধ্বনি"
+        },
+        "question": "দন্ত্যমূলীয় ব্যঞ্জনধ্বনির উদাহরণ কোনটি?&nbsp;",
+        "solution": "ক. র-ধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 718960,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718955,
+      "value": {
+        "options": {
+          "ক": "অগ্রতালু",
+          "খ": "জিহ্বামূল",
+          "গ": "অগ্রদন্তমূল",
+          "ঘ": "পশ্চাৎ দন্তমূল"
+        },
+        "question": "'ক' ধ্বনির উচ্চারণস্থান কোনটি?",
+        "solution": "খ. জিহ্বামূল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 718955,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718952,
+      "value": {
+        "options": {
+          "ক": "চ&#39; স্বরধ্বনি",
+          "খ": "&#39;ট&#39; স্বরধ্বনি",
+          "গ": "অ&#39; স্বরধ্বনি",
+          "ঘ": "&#39;গ&#39; স্বরধ্বনি"
+        },
+        "question": "উচ্চারণের সুবিধায় বাংলা ব্যঞ্জনবর্ণে কোন দ্যোতিত ধ্বনিটি যোগ করে উচ্চারণ করা হয়?",
+        "solution": "গ. অ&#39; স্বরধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 718952,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718950,
+      "value": {
+        "options": {
+          "ক": "কণ্ঠ্যধ্বনি",
+          "খ": "তালব্যধ্বনি",
+          "গ": "মূর্ধন্যধ্বনি",
+          "ঘ": "ওষ্ঠ্যধ্বনি"
+        },
+        "question": "'প' বর্গীয় ধ্বনিগুলোর উচ্চারণ স্থান&nbsp;অনুযায়ী নাম-",
+        "solution": "ঘ. ওষ্ঠ্যধ্বনি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718949,
+      "value": {
+        "options": {
+          "ক": "৬",
+          "খ": "৫",
+          "গ": "৪",
+          "ঘ": "৩"
+        },
+        "question": "উচ্চারণস্থান ও প্রকৃতি এবং ধ্বনির কম্পনপ্রবাহ ও বায়ুপ্রবাহ অনুযায়ী। ব্যঞ্জনধ্বনি কত প্রকার?&nbsp;",
+        "solution": "গ. ৪"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718946,
+      "value": {
+        "options": {
+          "ক": "ন, ল, স",
+          "খ": "শ, ষ, ঝ",
+          "গ": "য, র, ঢ়",
+          "ঘ": "ম, ব, প"
+        },
+        "question": "কোন বর্ণগুলোর উচ্চারণস্থান অগ্র দন্ত্যমূল?",
+        "solution": "ক. ন, ল, স"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3797,
+          "full_name": "চ. বো.'২০১৫",
+          "short_name": "চ. বো.'২০১৫",
+          "slug": "c-bo2015",
+          "pivot": {
+            "question_bank_id": 718946,
+            "tag_id": 3797,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718942,
+      "value": {
+        "options": {
+          "ক": "চ ছ জ ঝ ঞ",
+          "খ": "ট ঠ ড ঢ ণ",
+          "গ": "তথদধন",
+          "ঘ": "পফবভম"
+        },
+        "question": "কোনগুলো ওষ্ঠ্যধ্বনি?",
+        "solution": "ঘ. পফবভম"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3873,
+          "full_name": "ঢা. বো.'২০২২",
+          "short_name": "ঢা. বো.'২০২২",
+          "slug": "dha-bo2022",
+          "pivot": {
+            "question_bank_id": 718942,
+            "tag_id": 3873,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718939,
+      "value": {
+        "options": {
+          "ক": "স্পর্শধ্বনি",
+          "খ": "স্পর্শ ব্যঞ্জন",
+          "গ": "দ্বি-ওষ্ঠ্য",
+          "ঘ": "কণ্ঠ ব্যঞ্জন"
+        },
+        "question": "ওষ্ঠ্য ব্যঞ্জনধ্বনি আর কী নামে পরিচিত?",
+        "solution": "গ. দ্বি-ওষ্ঠ্য"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718936,
+      "value": {
+        "options": {
+          "ক": "নিচের ঠোঁট",
+          "খ": "শক্ত তালু",
+          "গ": "নরম তালু",
+          "ঘ": "দন্তমূল"
+        },
+        "question": "মুখ্য বাপ্রত্যঙ্গ হলো-",
+        "solution": "ক. নিচের ঠোঁট"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718934,
+      "value": {
+        "options": {
+          "ক": "৪",
+          "খ": "৫&nbsp;",
+          "গ": "৬",
+          "ঘ": "৭"
+        },
+        "question": "উচ্চারণস্থান অনুযায়ী ব্যঞ্জনধ্বনিকে কয়টি ভাগে ভাগ করা যায়?",
+        "solution": "ঘ. ৭"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718932,
+      "value": {
+        "options": {
+          "ক": "ট বর্গ",
+          "খ": "ত বর্গ",
+          "গ": "চ বর্গ",
+          "ঘ": "ক বর্গ"
+        },
+        "question": "কোন বর্গের বর্ণগুলো দন্তমূলীয়?",
+        "solution": "খ. ত বর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718928,
+      "value": {
+        "options": {
+          "ক": "ন",
+          "খ": "দ",
+          "গ": "ব",
+          "ঘ": "জ"
+        },
+        "question": "দন্তমূলীয় প্রতিবেষ্টিত ধ্বনি কোনটি?",
+        "solution": "ক. ন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:37.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 718928,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-11-11T12:36:37.000000Z",
+            "updated_at": "2025-11-11T12:36:37.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13160&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13160&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13160&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 45,
+  "total": 45
+}

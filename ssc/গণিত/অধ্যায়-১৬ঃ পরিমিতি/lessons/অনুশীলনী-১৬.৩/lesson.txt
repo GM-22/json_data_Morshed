@@ -1,0 +1,323 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 536903,
+      "value": {
+        "options": [],
+        "question": "একটি বৃত্তের ব্যাসার্ধ তার পরিধির [math]\\frac{1}{6.2832}[/math] অংশ। বৃত্তটির পরিধি কত?",
+        "solution": "ব্যাসার্ধ = [math]r[/math]\u003Cbr\u003E, পরিধি = [math]2\\pi r[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]r = \\frac{1}{6.2832} \\times 2\\pi r[/math]\u003Cbr\u003E⇒ [math]r = r[/math]\u003Cbr\u003E (যথার্থ), এটি একটি সাধারণ সম্পর্কএখন ধরি, [math]r = 5[/math]\u003Cbr\u003E সে.মি.⇒ পরিধি = [math]2 \\times 3.1416 \\times 5 = 31.416[/math]\u003Cbr\u003Eনির্ণেয় পরিধি ≈ [math]31.416[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: যদি ব্যাসার্ধ পরিধির [math]\\frac{1}{6.2832}[/math] অংশ হয় তাহলে [math]r=\\frac{1}{6.2832}C[/math] এবং তা থেকে [math]C=6.2832\\,r[/math]। কারণ [math]6.2832\\approx2\\pi[/math], ফলে এটি পরিচিত সূত্র [math]C=2\\pi r[/math] (অর্থাৎ পরিধি ব্যাসার্ধের প্রায় [math]6.2832[/math] গুণ)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536903,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536905,
+      "value": {
+        "options": [],
+        "question": "কোনো বৃত্তে একটি বৃত্তচাপ দ্বারা কেন্দ্রে 60° কোণ উৎপন্ন হয়। বৃত্তচাপের দৈর্ঘ্য 4.7124 সেমি. হলে, বৃত্তের ব্যাসার্ধ কত?",
+        "solution": "এখানে, বৃত্তচাপের দৈর্ঘ্য [math]s = 4.7124[/math]\u003Cbr\u003E সেমি. এবং কোণ [math]\\theta = 60^\\circ[/math]\u003Cbr\u003Eআমরা জানি, [math]s = \\dfrac{\\pi r \\theta}{180^\\circ}[/math]\u003Cbr\u003E⇒ [math]r = \\dfrac{s \\times 180^\\circ}{\\pi \\times \\theta}[/math]\u003Cbr\u003E⇒ [math]r = \\dfrac{4.7124 \\times 180}{3.1416 \\times 60} = \\dfrac{848.232}{188.496} \\approx 4.5[/math]\u003Cbr\u003Eনির্ণেয় ব্যাসার্ধ = [math]4.5[/math]\u003Cbr\u003E সেমি.",
+        "explanation": "বৃত্তচাপের দৈর্ঘ্য ও কেন্দ্রকোণের সম্পর্ক হলো [math]s=rθ[/math], এবং [math]60^\\circ=\\pi/3[/math] রেডিয়ান। অতএব [math]r=\\dfrac{s}{θ}=\\dfrac{4.7124}{\\pi/3}=4.7124\\times\\dfrac{3}{\\pi}\\approx4.5\\ \\text{সেমি}[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536905,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536907,
+      "value": {
+        "options": [],
+        "question": "বৃত্তের পরিধি বলতে কী বুঝ ?",
+        "solution": "বৃত্তের দৈর্ঘ্যকে তার পরিধি বলা হয়। কোনো বৃত্তের ব্যাসার্ধ [math]r[/math]\u003Cbr\u003E হলে, এর পরিধি [math]c = 2\\pi r[/math]\u003Cbr\u003E, যেখানে [math]\\pi = 3.14159265\\ldots[/math]\u003Cbr\u003E একটি অমূলদ সংখ্যা। এর আসন্ন মান হিসেবে [math]3.1416[/math]\u003Cbr\u003E ব্যবহার করা যায়। কোনো বৃত্তের ব্যাসার্ধ জানা থাকলে [math]\\pi[/math]\u003Cbr\u003E এর আসন্ন মান ব্যবহার করে বৃত্তের পরিধির আসন্ন মান নির্ণয় করা যায়।",
+        "explanation": "বৃত্তের পরিধি হলো বৃত্তের বৃত্তাকার কিনারার চারপাশে মাপা মোট দূরত্ব, অর্থাৎ বৃত্তকে একবার ঘিরে নেওয়ার সময় যাত্রার দৈর্ঘ্য। এর মান গণনা করা হয় সূত্রে [math]C=2\\pi r[/math] বা [math]C=\\pi d[/math], যেখানে [math]r[/math] ব্যাসার্ধ, [math]d[/math] ব্যাস এবং [math]\\pi[/math] হল পরিধি ও ব্যাসের অনুপাত।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536907,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536912,
+      "value": {
+        "options": [],
+        "question": "একটি বৃত্তের ব্যাসার্ধ তার পরিধির [math]\\frac{1}{6.2832}[/math] অংশ। বৃত্তটির পরিধি কত?",
+        "solution": "ব্যাসার্ধ = [math]r[/math]\u003Cbr\u003E, পরিধি = [math]2\\pi r[/math]\u003Cbr\u003Eপ্রশ্নমতে, [math]r = \\frac{1}{6.2832} \\times 2\\pi r[/math]\u003Cbr\u003E⇒ [math]r = r[/math]\u003Cbr\u003E (যথার্থ), এটি একটি সাধারণ সম্পর্কএখন ধরি, [math]r = 5[/math]\u003Cbr\u003E সে.মি.⇒ পরিধি = [math]2 \\times 3.1416 \\times 5 = 31.416[/math]\u003Cbr\u003Eনির্ণেয় পরিধি ≈ [math]31.416[/math]\u003Cbr\u003E সে.মি.",
+        "explanation": "ব্যাখ্যা: বৃত্তের পরিধি ও ব্যাসার্ধের সম্পর্ক হল [math]C=2\\pi r[/math], এবং [math]2\\pi\\approx6.2832[/math]; তাই পরিধি [math]C=6.2832r[/math], যা দিয়ে [math]r=C/6.2832[/math] শর্তটি সন্তুষ্ট হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536912,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536914,
+      "value": {
+        "options": [],
+        "question": "কোনো বৃত্তে একটি বৃত্তচাপ দ্বারা কেন্দ্রে 60° কোণ উৎপন্ন হয়। বৃত্তচাপের দৈর্ঘ্য 4.7124 সেমি. হলে, বৃত্তের ব্যাসার্ধ কত?",
+        "solution": "এখানে, বৃত্তচাপের দৈর্ঘ্য [math]s = 4.7124[/math]\u003Cbr\u003E সেমি. এবং কোণ [math]\\theta = 60^\\circ[/math]\u003Cbr\u003Eআমরা জানি, [math]s = \\dfrac{\\pi r \\theta}{180^\\circ}[/math]\u003Cbr\u003E⇒ [math]r = \\dfrac{s \\times 180^\\circ}{\\pi \\times \\theta}[/math]\u003Cbr\u003E⇒ [math]r = \\dfrac{4.7124 \\times 180}{3.1416 \\times 60} = \\dfrac{848.232}{188.496} \\approx 4.5[/math]\u003Cbr\u003Eনির্ণেয় ব্যাসার্ধ = [math]4.5[/math]\u003Cbr\u003E সেমি.",
+        "explanation": "ব্যাখ্যা: বৃত্তচাপের সূত্র [math]s=r\\theta[/math] যেখানে [math]\\theta[/math] রেডিয়ানে। এখানে [math]\\theta=60^\\circ=\\pi/3[/math], তাই [math]r=\\dfrac{s}{\\theta}=\\dfrac{4.7124}{\\pi/3}=\\dfrac{14.1372}{\\pi}\\approx4.5\\text{ cm}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536914,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 536917,
+      "value": {
+        "options": [],
+        "question": "বৃত্তের পরিধি বলতে কী বুঝ ?",
+        "solution": "বৃত্তের দৈর্ঘ্যকে তার পরিধি বলা হয়। কোনো বৃত্তের ব্যাসার্ধ [math]r[/math]\u003Cbr\u003E হলে, এর পরিধি [math]c = 2\\pi r[/math]\u003Cbr\u003E, যেখানে [math]\\pi = 3.14159265\\ldots[/math]\u003Cbr\u003E একটি অমূলদ সংখ্যা। এর আসন্ন মান হিসেবে [math]3.1416[/math]\u003Cbr\u003E ব্যবহার করা যায়। কোনো বৃত্তের ব্যাসার্ধ জানা থাকলে [math]\\pi[/math]\u003Cbr\u003E এর আসন্ন মান ব্যবহার করে বৃত্তের পরিধির আসন্ন মান নির্ণয় করা যায়।",
+        "explanation": "বৃত্তের পরিধি হলো বৃত্তের বাইরের ধার ধরে পরিমাপ করা মোট দৈর্ঘ্য—অর্থাৎ বৃত্তকে একবার ঘিরে থাকা রেখার দৈর্ঘ্য। এর মান হলো সূত্র [math]C=2\\pi r[/math] বা [math]C=\\pi d[/math], কারণ বৃত্তের পরিধি ও ব্যাসের অনুপাত সব বৃত্তের জন্য ধ্রুবক এবং সেটাই [math]\\pi[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12958,
+      "created_at": "2025-08-26T07:39:55.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 536917,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:39:55.000000Z",
+            "updated_at": "2025-08-26T07:39:55.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12961&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12961&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12958&grade=5&lesson=12961&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 6,
+  "total": 6
+}

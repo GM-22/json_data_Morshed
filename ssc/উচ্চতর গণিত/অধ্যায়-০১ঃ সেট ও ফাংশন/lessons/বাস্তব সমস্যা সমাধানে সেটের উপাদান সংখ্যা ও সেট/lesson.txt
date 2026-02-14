@@ -1,0 +1,228 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 775226,
+      "value": {
+        "options": {
+          "ক": "25",
+          "খ": "75",
+          "গ": "100",
+          "ঘ": "125"
+        },
+        "question": "কিছু সংখ্যক ছাত্র-ছাত্রীর মধ্যে 60 জন ক্রিকেট, 40 জন ফুটবল, 25 জন দুইটি খেলা পছন্দ করে। কমপক্ষে একটি খেলা কতজন পছন্দ করে?",
+        "solution": "খ. 75",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:58:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3818,
+          "full_name": "সি. বো.'২০১৬",
+          "short_name": "সি. বো.'২০১৬",
+          "slug": "si-bo2016",
+          "pivot": {
+            "question_bank_id": 775226,
+            "tag_id": 3818,
+            "year": null,
+            "created_at": "2025-12-01T13:58:06.000000Z",
+            "updated_at": "2025-12-01T13:58:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775227,
+      "value": {
+        "options": {
+          "খ": "1",
+          "গ": "2",
+          "ঘ": "3"
+        },
+        "question": "কোন শ্রেণির 30 জন শিক্ষার্থীর মধ্যে 19 জন অর্থনীতি, 17 জন ভূগোল, 11 জন পৌরনীতি, 12 জন অর্থনীতি ও ভূগোল, 4 জন পৌরনীতি ও ভূগোল, 7 জন অর্থনীতি ও পৌরনীতি এবং 4 জন তিনটি বিষয়ই নিয়েছে। কতজন শিক্ষার্থী তিনটি বিষয়ের কোনটিই নেয়নি?",
+        "solution": "মোট শিক্ষার্থীর সংখ্যা $n(s)=30$\u003Cbr /\u003E\nঅর্থনীতি নিয়েছে $n(E)=19^{\\circ}$\u003Cbr /\u003E\nভূগোল নিয়েছে $n(G)=17$\u003Cbr /\u003E\nপৌরনীতি নিয়েছে $n(C)=17$\u003Cbr /\u003E\nঅর্থনীতি ও ভূগোল নিয়েছে $\\mathrm{n}(\\mathrm{E} \\cap \\mathrm{G})=12$\u003Cbr /\u003E\nপৌরনীতি ও ভূগোল নিয়েছে $n(C \\cap G)=4$\u003Cbr /\u003E\nঅর্থনীতি ও পৌরনীতি নিয়েছে $n(E \\cap C)=7$\u003Cbr /\u003E\nএবং তিনটি বিষয়ই নিয়েছে $n(E \\cap G \\cap C)^{\\circ}=4$\u003Cbr /\u003E\n$\\therefore \\mathrm{n}(\\mathrm{E} \\cup \\mathrm{G} \\cup \\mathrm{C})=\\mathrm{n}(\\mathrm{E})+\\mathrm{n}(\\mathrm{G})+\\mathrm{n}(\\mathrm{c})-\\mathrm{n}\\\\(\\mathrm{E} \\cap \\mathrm{G})$&nbsp;$-n(C \\cap G)-n(E \\cap C)+n(E \\cap G \\cap C)$\u003Cbr /\u003E\n$=19+17+11-12-4-7+4=28$\u003Cbr /\u003E\n$\\therefore$ তিনটি বিষয়ের কোনোটিই নেয়াটি (E $\\cup \\mathrm{G} \\cup \\mathrm{C}$ )\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n&amp; =n(S)-n(E \\cup G \\cup S) \\\\\u003Cbr /\u003E\n&amp; =30-28=2 \\text { জন। }\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:58:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775228,
+      "value": {
+        "options": {
+          "ক": "70",
+          "খ": "80",
+          "গ": "120",
+          "ঘ": "160"
+        },
+        "question": "কিছু সংখ্যক লোকের মধ্যে 70 জন ফুটবল, 50 জন ক্রিকেট এবং 40 জন ফুটবল ও ক্রিকেট খেলা পছন্দ করে। দুইটি খেলার অন্তত একটি খেলা পছন্দ করে কত জন?",
+        "solution": "ধরি, দুইটি খেলার অন্তত একটি খেলা পছন্দ করে এমন লোকের সেট S ।\u003Cbr /\u003E\nএদের মধ্যে যারা ফুটবল পছন্দ করে তাদের সেট F এবং যারা ক্রিকেট খেলা পছন্দ করে তাদের সেট C.\u003Cbr /\u003E\nতাহলে প্রশ্নানুসারে,\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n&amp; \\mathrm{n}(\\mathrm{~F})=70 \\\\\u003Cbr /\u003E\n&amp; \\mathrm{n}(\\mathrm{C})=50 \\\\\u003Cbr /\u003E\n&amp; \\mathrm{n}(\\mathrm{~F} \\cap \\mathrm{C})=40\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\begin{aligned}\u003Cbr /\u003E\n\\text { আবার, } n(S) &amp; =n(F \\cup C) \\\\\u003Cbr /\u003E\n&amp; =n(F)+n(C)-n(F \\cap C) \\\\\u003Cbr /\u003E\n&amp; =70+50-40=80\u003Cbr /\u003E\n\\end{aligned}\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\\therefore$ দুইটি খেলার অন্তত একটি খেলা পছন্দ করে 80 জন।",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:58:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3800,
+          "full_name": "রা. বো.'২০২৪",
+          "short_name": "রা. বো.'২০২৪",
+          "slug": "ra-bo2024",
+          "pivot": {
+            "question_bank_id": 775228,
+            "tag_id": 3800,
+            "year": null,
+            "created_at": "2025-12-01T13:58:06.000000Z",
+            "updated_at": "2025-12-01T13:58:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 775229,
+      "value": {
+        "options": {
+          "ক": "50 জন",
+          "খ": "55 জন",
+          "গ": "60 জন",
+          "ঘ": "70 জন"
+        },
+        "question": "কিছু সংখ্যক লোকের মধ্যে 50 জন বাংলা, 20 জন ইংরেজি এবং 10 জন বাংলা ও ইংরেজি বলতে পারে। দুইটি ভাষার অন্ততঃ একটি ভাষা কতজন বলতে পারে?",
+        "solution": "ধরি, দুইটি ভাষার অন্তত একটি ভাষা বলতে পারে এমন লোকের সেট $S$ এবং তাদের মধ্যে যারা বাংলা বলতে পারে তাদের সেট $B$ ও ইংরেজি বলতে পারে তাদের সেট $E$.\u003Cbr /\u003E\nতাহলে, $n(B)=50, n(E)=20, n(B \\cap E)=10$\u003Cbr /\u003E\nআবার, $n(S)=n(B \\cup E)$\u003Cbr /\u003E\n$\\therefore \\mathrm{n}(\\mathrm{S})=\\mathrm{n}(\\mathrm{B} \\cup \\mathrm{E})$\u003Cbr /\u003E\n$=n(B)+n(E)-n(B \\cap E)\\\\=50+20-10=60$.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8019,
+      "created_at": "2025-12-01T13:58:06.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3970,
+          "full_name": "বগুড়া জিলা স্কুল",
+          "short_name": "বগুড়া জিলা স্কুল",
+          "slug": "bgura-jila-skul",
+          "pivot": {
+            "question_bank_id": 775229,
+            "tag_id": 3970,
+            "year": null,
+            "created_at": "2025-12-01T13:58:06.000000Z",
+            "updated_at": "2025-12-01T13:58:06.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14536&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14536&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8019&grade=5&lesson=14536&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 4,
+  "total": 4
+}

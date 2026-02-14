@@ -1,0 +1,1619 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 538453,
+      "value": {
+        "options": [],
+        "question": "[math]m^3 + m^{-3} + 2[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]m^3 + m^{-3} + 2[/math]\u003Cbr\u003E [math]= \\frac{m^6 + 1 + 2m^3}{m^3}[/math]\u003Cbr\u003E [math]= \\frac{(m^3 + 1)^2}{m^3}[/math]\u003Cbr\u003E [math]= \\frac{(m + 1)^2(m^2 - m + 1)^2}{m^3}[/math]\u003Cbr\u003E",
+        "explanation": "[math]x=m+\\dfrac{1}{m}[/math] ধরে [math]m^3+m^{-3}=x^3-3x[/math] হওয়ায় প্রকাশটি [math]x^3-3x+2=(x-1)^2(x+2)[/math] হয়। পিছন ফিরে লিখলে ফল থাকে [math](m+\\dfrac{1}{m}-1)^2\\bigl(m+\\dfrac{1}{m}+2\\bigr)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538453,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538406,
+      "value": {
+        "options": [],
+        "question": "[math]x^3 + 9y^3 + (x + y)^3[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]x^3 + 9y^3 + (x + y)^3[/math]\u003Cbr\u003E [math]= x^3 + 9y^3 + x^3 + 3x^2y + 3xy^2 + y^3[/math]\u003Cbr\u003E [math]= 2x^3 + 10y^3 + 3x^2y + 3xy^2[/math]\u003Cbr\u003E [math]= (x + 2y)[2x^2 + 3xy + 5y^2][/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: যদি আমরা [math]x=-2y[/math] ধরি তবে [math]x^3+9y^3+(x+y)^3 = (-2y)^3+9y^3+(-y)^3 = -8y^3+9y^3-y^3=0[/math}, তাই [math]x+2y[/math] একটি গুণক। ভগ্নাংশ করে বা গুণফল মিলিয়ে পাই যে ভাগফল হচ্ছে [math]2x^2-xy+5y^2[/math], ফলে সমীকরণটি বিশ্লেষিত হয়ে যায় [math](x+2y)(2x^2-xy+5y^2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538406,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538415,
+      "value": {
+        "options": [],
+        "question": "[math]x^3 - 9y^3 + (x - y)^3[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]x^3 - 9y^3 + (x - y)^3[/math]\u003Cbr\u003E [math]= x^3 - 8y^3 + (x - y)^3 - y^3[/math]\u003Cbr\u003E [math]= (x^3) - (2y)^3 + (x - y)^3 - y^3[/math]\u003Cbr\u003E [math]= (x - 2y)(x^2 + 2xy + 4y^2) + (x - y - y)^3[/math]\u003Cbr\u003E [math]= (x - 2y)(x^2 + 2xy + 4y^2) + (x - 2y)^3[/math]\u003Cbr\u003E [math]= (x - 2y)\\left(x^2 + 2xy + 4y^2 + (x - 2y)^2\\right)[/math]\u003Cbr\u003E [math]= (x - 2y)(2x^2 + xy + 5y^2)[/math]\u003Cbr\u003E",
+        "explanation": "x=2y বসালে [math]x^3-9y^3+(x-y)^3=8y^3-9y^3+y^3=0[/math], তাই [math](x-2y)[/math] একটি গুণক। ভাগ করলে বা [math]t=x/y[/math] ধরে ভাগ করলে ভাগফল আসে [math]2x^2+xy+5y^2[/math], সুতরাং সমীকরণের উৎপাদক হলো [math](x-2y)(2x^2+xy+5y^2)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538415,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538425,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + 4x - 21[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]x^2 + 4x - 21[/math]\u003Cbr\u003E [math]= x^2 + 7x - 3x - 21[/math]\u003Cbr\u003E [math]= x(x + 7) - 3(x + 7)[/math]\u003Cbr\u003E [math]= (x + 7)(x - 3)[/math]\u003Cbr\u003E",
+        "explanation": "এই বহুপদকে এমন দুটি সংখ্যা দরকার যা গুণে [math]-21[/math] এবং যোগে [math]4[/math] দেয়, সেগুলো হলো [math]7[/math] ও [math]-3[/math], তাই [math]x^2+4x-21=(x+7)(x-3)[/math]. যাচাই করতে সম্প্রসারণ করলে [math](x+7)(x-3)=x^2-3x+7x-21=x^2+4x-21[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538425,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538432,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + 10x + 16 - y^2 + 6y[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "প্রক্রিয়া:[math]x^2 + 10x + 16 - y^2 + 6y[/math]\u003Cbr\u003E [math]= x^2 + 10x + 25 - y^2 + 6y - 9[/math]\u003Cbr\u003E [math]= (x + 5)^2 - (y - 3)^2[/math]\u003Cbr\u003E [math]= (x + 5 + y - 3)(x + 5 - y + 3)[/math]\u003Cbr\u003E [math]= (x + y + 2)(x - y + 8)[/math]\u003Cbr\u003E",
+        "explanation": "উৎপাদকে বিশ্লেষণের জন্য ধরা যাক [math](x+y+m)(x-y+n)=x^2-y^2+(n+m)x+(n-m)y+mn[/math], যা মূল বহুপদীটির সঙ্গে মেলে: [math]n+m=10,\\ n-m=6,\\ mn=16[/math]. এই সমীকরণ থেকে [math]n=8,\\ m=2[/math] পাওয়া যায়, তাই [math]x^2+10x+16-y^2+6y=(x+y+2)(x-y+8)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538432,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538437,
+      "value": {
+        "options": [],
+        "question": "[math]x^2 + (ab - 1)x - b[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]x^2 + (ab - 1)x - b[/math]\u003Cbr\u003E [math]= x^2 + abx - x - b[/math]\u003Cbr\u003E [math]= x(x + ab) - 1(x + b)[/math]\u003Cbr\u003E [math]= (x + b)(x - 1)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: এই বর্গ সমীকরণের সহগগুলি হলো [math]B=ab-1[/math] ও [math]C=-b[/math], তাই বিচ্ছেদক (discriminant) [math]\\Delta=(ab-1)^2+4b[/math]. মূলদ্বয় হয় [math]x=\\frac{-(ab-1)\\pm\\sqrt{(ab-1)^2+4b}}{2}[/math], তাই বহুগুণকে লেখা যায়:  \n[math]x^2+(ab-1)x-b=\\left(x+\\frac{ab-1-\\sqrt{(ab-1)^2+4b}}{2}\\right)\\left(x+\\frac{ab-1+\\sqrt{(ab-1)^2+4b}}{2}\\right).[/math]",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538437,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538442,
+      "value": {
+        "options": [],
+        "question": "[math]p^4 + p^2 - 2[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]p^4 + p^2 - 2 = p^4 + p^2 - 1 + 1 - 2[/math]\u003Cbr\u003E [math]= (p^2)^2 + p^2 - 1[/math]\u003Cbr\u003E [math]= (p^2)^2 + p^2 - 1[/math]\u003Cbr\u003E [math]= (p^2 - 1)(p^2 + 2)[/math]\u003Cbr\u003E [math]= (p + 1)(p - 1)(p^2 + 2)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]p^4+p^2-2[/math]-টিকে [math]x=p^2[/math] ধরে দেখলে এটি [math]x^2+x-2=(x+2)(x-1)[math] হয়, তাই [math]p^4+p^2-2=(p^2+2)(p^2-1)[/math]. এছাড়া [math]p^2-1=(p-1)(p+1)[/math], সুতরাং পূর্ণ উৎপাদক হল [math](p-1)(p+1)(p^2+2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538442,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538448,
+      "value": {
+        "options": [],
+        "question": "[math]m^4 - 7m^2 + 9[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]m^4 - 7m^2 + 9[/math]\u003Cbr\u003E [math]= (m^2)^2 - 2 \\cdot 3m^2 + 3^2 - m^2[/math]\u003Cbr\u003E [math]= (m^2 - 3m)^2 - (m)^2[/math]\u003Cbr\u003E [math]= (m^2 - 3m + m)(m^2 - 3m - m)[/math]\u003Cbr\u003E [math]= (m^2 - 2m)(m^2 - 4m)[/math]\u003Cbr\u003E",
+        "explanation": "এটি [math]m^2[/math] নিয়ে একটি দ্বিঘাত; [math](m^2)^2-7(m^2)+9[/math] তাই [math]x=m^2[/math] ধরে [math]x^2-7x+9=0[/math] এর মূল হল [math]x=\\frac{7\\pm\\sqrt{49-36}}{2}=\\frac{7\\pm\\sqrt{13}}{2}[/math]. অতএব উৎপাদক লেখা যায়: [math]m^4-7m^2+9=\\left(m^2-\\frac{7+\\sqrt{13}}{2}\\right)\\left(m^2-\\frac{7-\\sqrt{13}}{2}\\right)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538448,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538449,
+      "value": {
+        "options": [],
+        "question": "[math]m^4 - 7m^2 + 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]m^4 - 7m^2 + 1[/math]\u003Cbr\u003E [math]= (m^2)^2 - 2 \\cdot m^2 \\cdot 1 + 1^2 - 9m^2[/math]\u003Cbr\u003E [math]= (m^2 + 1)^2 - (3m)^2[/math]\u003Cbr\u003E [math]= (m^2 + 1 + 3m)(m^2 + 1 - 3m)[/math]\u003Cbr\u003E [math]= (m^2 + 3m + 1)(m^2 - 3m + 1)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: প্রথমে [math]x=m^2[/math] ধরে লিখলে বহুগুণকটি হয়ে যায় [math]x^2-7x+1[/math]। এর মূলগুলো [math]x=\\dfrac{7\\pm\\sqrt{49-4}}{2}=\\dfrac{7\\pm3\\sqrt5}{2}[/math]। তাই মূল বহुगুণক হল [math]\\bigl(m^2-\\dfrac{7+3\\sqrt5}{2}\\bigr)\\bigl(m^2-\\dfrac{7-3\\sqrt5}{2}\\bigr)[/math], যা বাস্তব সংখ্যার উপর ভাঙন; এটি মৌলিক রাশিফলিক ধরণে ভগ্ন নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538449,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538397,
+      "value": {
+        "options": [],
+        "question": "[math]x^4 - 36x^2 + 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]x^4 - 36x^2 + 1[/math]\u003Cbr\u003E [math]= (x^2)^2 - 2 \\cdot x^2 \\cdot 1 + 1^2 - 36x^2[/math]\u003Cbr\u003E [math]= (x^2 - 1)^2 - (6x)^2[/math]\u003Cbr\u003E [math]= [(x^2 - 1) + 6x][(x^2 - 1) - 6x][/math]\u003Cbr\u003E [math]= (x^2 + 6x - 1)(x^2 - 6x - 1)[/math]\u003Cbr\u003E",
+        "explanation": "[math]x^4-36x^2+1[/math]কে আমরা রূপ ধরে বিশ্লেষণ করতে পারি: ধরুন এটি হবে [math](x^2+bx+1)(x^2-bx+1)[/math] এবং প্রসারণ করলে মধ্যবর্তী সহগ হবে [math]2-b^2[/math]. তাই [math]2-b^2=-36[/math] থেকে [math]b^2=38[/math], ফলে ফলাফলটি হলো [math]x^4-36x^2+1=(x^2+\\sqrt{38}\\,x+1)(x^2-\\sqrt{38}\\,x+1)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538397,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538457,
+      "value": {
+        "options": [],
+        "question": "[math]m^3 + m^{-3} + 2[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "প্রদত্ত রাশি: [math]m^3 + m^{-3} + 2[/math]\u003Cbr\u003E [math]= m^3 + \\frac{1}{m^3} + 2[/math]\u003Cbr\u003E [math]= \\frac{(m^3)^2 + 2 \\cdot m^3 \\cdot \\frac{1}{m^3} + \\left(\\frac{1}{m^3}\\right)^2}{m^3}[/math]\u003Cbr\u003E [math]= \\frac{(m^3 + \\frac{1}{m^3})^2}{m^3}[/math]\u003Cbr\u003E [math]= \\frac{(m + \\frac{1}{m})^6}{m^3}[/math]\u003Cbr\u003Eঅথবা সরলভাবে:[math]= \\frac{(m + 1)^2 (m^2 - m + 1)^2}{m^3}[/math]\u003Cbr\u003E",
+        "explanation": "[x] = [math]m + m^{-1}[/math] ধরা হলে [math]x^3 = m^3 + m^{-3} + 3(m + m^{-1})[/math], সুতরাং [math]m^3 + m^{-3} + 2 = x^3 - 3x + 2[/math]. এখন [math]x^3 - 3x + 2 = (x-1)^2(x+2)[/math] হওয়ায় উত্তর হচ্ছে [math]\\left(m + m^{-1} - 1\\right)^2\\left(m + m^{-1} + 2\\right)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538457,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538462,
+      "value": {
+        "options": [],
+        "question": "[math]b^2 - 1 + 2b - c^2[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]b^2 - 1 + 2b - c^2[/math]\u003Cbr\u003E [math]= (b^2 + 2b + 1) - (c^2 + 1 - 1)[/math]\u003Cbr\u003E [math]= (b + 1)^2 - c^2[/math]\u003Cbr\u003E [math]= (b + 1 + c)(b + 1 - c)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে [math]b^2 - 1 + 2b - c^2[/math] কে পুনর্বিন্যাস করে লেখা যায় [math](b+1)^2 - (c^2+2)[/math], এবং এটি দুই বর্গের পার্থক্য হওয়ায় আমরা পাই [math](b+1-\\sqrt{c^2+2})(b+1+\\sqrt{c^2+2})[/math]। এইরকম সম্পূর্ণ বর্গ করে পার্থক্য নেওয়াতে উৎসেখ্যাত কারণটি স্পষ্ট হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538462,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538464,
+      "value": {
+        "options": [],
+        "question": "[math]ax^2 + ay^2 + a^2xy - x^2 + y^2[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]ax^2 + ay^2 + a^2xy - x^2 + y^2[/math]\u003Cbr\u003E [math]= ax^2 - x^2 + a^2xy + ay^2 + y^2[/math]\u003Cbr\u003E [math]= (a - 1)x^2 + a^2xy + (a + 1)y^2[/math]\u003Cbr\u003Eধরি, [math]a - 1 = p[/math]\u003Cbr\u003E এবং [math]a + 1 = q[/math]\u003Cbr\u003E⇒ [math]a = \\frac{p + 1}{2}[/math]\u003Cbr\u003E, [math]q = p + 2[/math]\u003Cbr\u003E⇒ প্রদত্ত রাশি = [math]px^2 + (pq + 1)xy + qy^2[/math]\u003Cbr\u003E [math]= px^2 + pqxy + xy + qy^2[/math]\u003Cbr\u003E [math]= (px + qy)(x + ay)[/math]\u003Cbr\u003E [math]= (x + ay)(px + qy)[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে যোগ-বাদ করে লেখা যায় [math](a-1)x^2 + a^2xy + (a+1)y^2[/math], যা ফ্যাক্টর করা যায়: [math]((a-1)x+y)(x+(a+1)y)[/math]. গুণ করলে [math]((a-1)x+y)(x+(a+1)y)=(a-1)x^2+(a^2-1)xy+xy+(a+1)y^2=(a-1)x^2+a^2xy+(a+1)y^2[/math] হয়, তাই ফ্যাক্টরটি সঠিক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538464,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538468,
+      "value": {
+        "options": [],
+        "question": "[math]a^4 - 51a^2 + 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]a^4 - 51a^2 + 1[/math]\u003Cbr\u003E [math]= a^4 - 2a^2 + 1 - 49a^2[/math]\u003Cbr\u003E [math]= (a^2)^2 - 2 \\cdot a^2 \\cdot 1 + 1^2 - (7a)^2[/math]\u003Cbr\u003E [math]= (a^2 - 1)^2 - (7a)^2[/math]\u003Cbr\u003E [math]= [(a^2 - 1) - 7a][(a^2 - 1) + 7a][/math]\u003Cbr\u003E [math]= (a^2 - 7a - 1)(a^2 + 7a - 1)[/math]\u003Cbr\u003E",
+        "explanation": "এটি [math]a^2[/math] অনুসারে দ্বিঘাত ধরে নিন: [math]x^2-51x+1[/math] যেখানে [math]x=a^2[/math]। অদূরবর্তী (কিউবিক ও একক) ধাপের সহগ নেই ফলে গুণকগুলোতে [math]a[/math]-এর সহগ বিপরীত হবে, ফলে গুণনীয়করা হল [math](a^2+\\sqrt{53}\\,a+1)(a^2-\\sqrt{53}\\,a+1)[/math], যেগুলো প্রসারিত করলে [math]a^4-51a^2+1[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538468,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538471,
+      "value": {
+        "options": [],
+        "question": "[math]a^3 - 9 + (a + 1)^3[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]a^3 - 9 + (a + 1)^3[/math]\u003Cbr\u003E [math]= a^3 + (a + 1)^3 - 9[/math]\u003Cbr\u003E [math]= (a - 1)[a^2 + a(a + 1) + (a + 1)^2][/math]\u003Cbr\u003E [math]= (a - 1)[a^2 + a^2 + a + a^2 + 2a + 1][/math]\u003Cbr\u003E [math]= (a - 1)(3a^2 + 3a + 1)[/math]\u003Cbr\u003E [math]= (a - 1)(2a^2 + 5a + 8)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে [math](a+1)^3=a^3+3a^2+3a+1[/math] উপবৃত্ত করলে সমষ্টি হয় [math]2a^3+3a^2+3a-8[/math]. এটির মধ্যে [math]a=1[/math] বসালে শূন্য হয়, তাই [math](a-1)[/math] দ্বারা বিভাজ্য; বিভাজন করলে ভাগফল [math]2a^2+5a+8[/math] আসে। তাই উৎপাদকী রূপ হলো [math](a-1)(2a^2+5a+8)[/math], এবং দ্বিতীয় ঘনদ্বিপদটি এনটিয়ার বা বাস্তব রাশিতে আরও বিভক্ত হয় না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538471,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538473,
+      "value": {
+        "options": [],
+        "question": "[math]a^3 - 35b^3 + (a - b)^3[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]a^3 - 35b^3 + (a - b)^3[/math]\u003Cbr\u003E [math]= a^3 - 27b^3 + (a - b)^3 - 8b^3[/math]\u003Cbr\u003E [math]= (a)^3 - (3b)^3 + (a - b)^3 - (2b)^3[/math]\u003Cbr\u003E [math]= (a - 3b)\\left(a^2 + 3ab + 9b^2\\right) + (a - b - 2b)^3[/math]\u003Cbr\u003E [math]= (a - 3b)(a^2 + 3ab + 9b^2) + (a - 3b)^3[/math]\u003Cbr\u003E [math]= (a - 3b)(2a^2 + 3ab + 12b^2)[/math]\u003Cbr\u003E",
+        "explanation": "প্রথমে (a−b)^3 প্রসারিত করে যোগ করলে পাই [math]a^3+(a-b)^3-35b^3=2a^3-3a^2b+3ab^2-36b^3[/math]. এটি দেখলে যদি [math]a=3b[/math] রাখি মোট ফলে শূন্য পাওয়া যায়, তাই [math](a-3b)[/math] একটি গুণক; ভাগ করলে বাকি অংশটি হয় [math]2a^2+3ab+12b^2[/math]. তাই সম্পূর্ণ উৎপাদকে বিশ্লেষণ হচ্ছে [math](a-3b)(2a^2+3ab+12b^2)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538473,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538477,
+      "value": {
+        "options": [],
+        "question": "[math]a^2 - 2ab - 2b - 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]a^2 - 2ab - 2b - 1[/math]\u003Cbr\u003E [math]= a^2 - 2ab - (2b + 1)[/math]\u003Cbr\u003E [math]= a^2 - 2ab - 2b - 1[/math]\u003Cbr\u003E [math]= (a + 1)(a - 2b - 1)[/math]\u003Cbr\u003E",
+        "explanation": "দুটি বাক্যে: এই বহুগুণকে [math]a[/math] সম্পর্কে একটি দ্বিঘাত হিসেবে দেখে নির্ণায়ক গণনা করলে [math]D = (-2b)^2 - 4\\cdot1\\cdot(-2b-1) = 4(b+1)^2[/math] এবং শিকড়গুলো হল [math]a=2b+1[/math] ও [math]a=-1[/math]; তাই ফলযুক্ত উৎপাদক হলো [math](a+1)(a-2b-1)[/math], যা বিস্তৃত করলে মূল অভিব্যক্তি দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538477,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538388,
+      "value": {
+        "options": [],
+        "question": "[math]x^4 - 3x^2 + 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]x^4 - 3x^2 + 1[/math]\u003Cbr\u003E [math]= (x^2)^2 - 2 \\cdot x^2 \\cdot 1 + 1^2 - x^2[/math]\u003Cbr\u003E [math]= (x^2 - 1)^2 - x^2[/math]\u003Cbr\u003E [math]= (x^2 - 1 + x)(x^2 - 1 - x)[/math]\u003Cbr\u003E [math]= (x^2 + x - 1)(x^2 - x - 1)[/math]\u003Cbr\u003E",
+        "explanation": "y = x^2 ধরে নিলে [math]y^2 - 3y + 1 = 0[/math] হয় এবং এর মূলগুলো [math]y=\\frac{3\\pm\\sqrt{5}}{2}[/math]. তাই [math]x^4-3x^2+1=(x^2-\\frac{3+\\sqrt5}{2})(x^2-\\frac{3-\\sqrt5}{2})[/math], যা চাইলে চারটি লিনিয়ার গুণকে ভেঙে লেখা যায়: [math]=(x-\\sqrt{\\tfrac{3+\\sqrt5}{2}})(x+\\sqrt{\\tfrac{3+\\sqrt5}{2}})(x-\\sqrt{\\tfrac{3-\\sqrt5}{2}})(x+\\sqrt{\\tfrac{3-\\sqrt5}{2}})[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538388,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538379,
+      "value": {
+        "options": [],
+        "question": "[math]y^2 - 2yz - 4z - 4[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]y^2 - 2yz - 4z - 4[/math]\u003Cbr\u003E [math]= y^2 - 2z(y + 2) - 2(y + 2)[/math]\u003Cbr\u003E [math]= (y + 2)(y - 2z - 2)[/math]\u003Cbr\u003E [math]= (y + 2)(y - 2z - 2)[/math]\u003Cbr\u003E",
+        "explanation": "[math]y^2-2yz-4z-4=(y^2-4)-2z(y+2)[/math] এবং [math]y^2-4=(y+2)(y-2)[/math] হওয়ায় সাধারণ গুণক [math]y+2[/math] বের করলে ফল হয় [math](y+2)(y-2-2z)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538379,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538374,
+      "value": {
+        "options": [],
+        "question": "[math](2a - b)^3 - 27[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math](2a - b)^3 - 27[/math]\u003Cbr\u003E [math]= (2a - b)^3 - 3^3[/math]\u003Cbr\u003E [math]= [(2a - b) - 3]\\left{(2a - b)^2 + (2a - b) \\cdot 3 + 3^2\\right}[/math]\u003Cbr\u003E [math]= (2a - b - 3)\\left(4a^2 - 4ab + b^2 + 6a - 3b + 9\\right)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে লক্ষ্য করুন [math](2a-b)^3-27=(2a-b)^3-3^3[/math] এবং সাধারণভাবে [math]x^3-y^3=(x-y)(x^2+xy+y^2)[/math] হয়, এখানে [math]x=2a-b,\\,y=3[/math]. তাই গুণনায় বিভক্তি হল [math](2a-b-3)\\big((2a-b)^2+3(2a-b)+9\\big)[/math]. আরও সরল করে দ্বিতীয় গুণকটি লেখা যায়: [math]4a^2-4ab+b^2+6a-3b+9[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538374,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538370,
+      "value": {
+        "options": [],
+        "question": "উৎপাদকে বিশ্লেষণ কর: [math]16a^2 + \\frac{1}{16a^2} - 2 + 16a - \\frac{1}{a}[/math]",
+        "solution": "[math]16a^2 + \\frac{1}{16a^2} - 2 + 16a - \\frac{1}{a}[/math]\u003Cbr\u003E [math]= (4a)^2 - 2 \\cdot 4a \\cdot \\frac{1}{4a} + \\left( \\frac{1}{4a} \\right)^2 + 4 \\cdot (4a - \\frac{1}{4a})[/math]\u003Cbr\u003E [math]= \\left( 4a - \\frac{1}{4a} \\right)^2 + 4 \\left( 4a - \\frac{1}{4a} \\right)[/math]\u003Cbr\u003E [math]= \\left( 4a - \\frac{1}{4a} \\right) \\left( \\left( 4a - \\frac{1}{4a} \\right) + 4 \\right)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথম তিনটি পদগুলোকে লক্ষ্য করলে [math]16a^2+\\frac{1}{16a^2}-2=(4a-\\frac{1}{4a})^2[/math] হয়, তাই মুখ্য বহুগুণকটি লেখা যায় [math](4a-\\frac{1}{4a})^2+16a-\\frac{1}{a}[/math]. আরও দেখা যায় যে [math]16a-\\frac{1}{a}=4\\left(4a-\\frac{1}{4a}\\right)[/math], ফলে যদি [math]x=4a-\\frac{1}{4a}[/math] ধরি তো অভিব্যক্তি হবে [math]x^2+4x=x(x+4)[/math]. সুতরাং মূল গুণফল হলো [math]\\left(4a-\\frac{1}{4a}\\right)\\left(4a-\\frac{1}{4a}+4\\right)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538370,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538369,
+      "value": {
+        "options": [],
+        "question": "[math]2x^3 - 3x^2 + 3x - 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]2x^3 - 3x^2 + 3x - 1[/math]\u003Cbr\u003E [math]= (x)^3 - 3 \\cdot x^2 \\cdot 1 + 3 \\cdot x \\cdot 1^2 - 1^3[/math]\u003Cbr\u003E [math]= (x - 1)^3[/math]\u003Cbr\u003E [math]= (2x - 1)(x^2 - x + 1)[/math]\u003Cbr\u003E",
+        "explanation": "যেহেতু [math]x=\\tfrac{1}{2}[/math] বসালে [math]2x^3-3x^2+3x-1=0[/math], তাই [math]2x-1[/math] একটি গুণক। দীর্ঘ ভাগ করে বা সিনথেটিক ভাগ করে শেষ দ্বারা পাওয়া ভাগফল হলো [math]x^2-x+1[/math], অতএব সম্পূর্ণ উৎপাদক হল [math](2x-1)(x^2-x+1)[/math]; এবং [math]x^2-x+1[/math]-এর নির্ণায়ক [math]Δ=1-4=-3\u003C0[/math] হওয়ার জন্য এটি বাস্তব রৈখিক গুণকে ভাঙে না।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:26.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538369,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:26.000000Z",
+            "updated_at": "2025-08-26T07:40:26.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538315,
+      "value": {
+        "options": [],
+        "question": "[math]a^2 - 2ab - 2b - 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "প্রদত্ত রাশি: [math]a^2 - 2ab - 2b - 1[/math]\u003Cbr\u003E [math]= a^2 - 2ab - (2b + 1)[/math]\u003Cbr\u003E [math]= (a + 1)(a - 2b - 1)[/math]\u003Cbr\u003Eঅথবা,[math]= a^2 - 2ab - 2b - 1[/math]\u003Cbr\u003E [math]= a^2 - 2ab - 2b - 1[/math]\u003Cbr\u003E [math]= (a + 1)(a - 2b - 1)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]a^2-2ab-2b-1=(a^2-1)-2b(a+1)[/math], এবং [math]a^2-1=(a+1)(a-1)[/math] হওয়ায় সাধারণ गुणক [math](a+1)[/math] বের করে লিখলে পাওয়া যায় [math](a+1)(a-1-2b)=(a+1)(a-2b-1)[/math]।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538315,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538362,
+      "value": {
+        "options": [],
+        "question": "উৎপাদকে বিশ্লেষণ কর: [math]2 - 5x - 12x^2[/math]",
+        "solution": "[math]2 - 5x - 12x^2[/math]\u003Cbr\u003E [math]= 2 + 3x - 8x - 12x^2[/math]\u003Cbr\u003E [math]= 1(2 + 3x) - 4x(2 + 3x)[/math]\u003Cbr\u003E [math]= (2 + 3x)(1 - 4x)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]2 - 5x - 12x^2 = (1-4x)(3x+2)[/math]. কারণ [math]-12x^2 -5x +2[/math]-এ মধ্যপদকে [math]-8x + 3x[/math] ভেঙ্গে নেওয়া যায়, ফলে [math]-12x^2 -8x +3x +2 = -4x(3x+2) + 1(3x+2) = (1-4x)(3x+2)[/math] হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538362,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538360,
+      "value": {
+        "options": [],
+        "question": "[math]3x^6 - 2x^3 - 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]3x^6 - 2x^3 - 1[/math]\u003Cbr\u003E [math]= 3x^6 - 3x^3 + x^3 - 1[/math]\u003Cbr\u003E [math]= 3x^3(x^3 - 1) + (x^3 - 1)[/math]\u003Cbr\u003E [math]= (3x^3 + 1)(x^3 - 1)[/math]\u003Cbr\u003E [math]= (3x^3 + 1)(x - 1)(x^2 + x + 1)[/math]\u003Cbr\u003E [math]= (x - 1)(x^2 + x + 1)(3x^3 + 1)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: এখানে [math]y=x^3[/math] ধরে নিলে বহুপদটি হয়ে যায় [math]3y^2-2y-1=(3y+1)(y-1)[/math]. তাই মূল বহুপদটি হচ্ছে [math](3x^3+1)(x^3-1)[/math], এবং [math]x^3-1=(x-1)(x^2+x+1)[/math]. অতএব পূর্ণ উৎপাদকীকরণ হলো [math](3x^3+1)(x-1)(x^2+x+1)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538360,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538352,
+      "value": {
+        "options": [],
+        "question": "[math]4p^2 - 4q^2 + 4q - 1[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]4p^2 - 4q^2 + 4q - 1[/math]\u003Cbr\u003E [math]= 4p^2 - (4q^2 - 4q + 1)[/math]\u003Cbr\u003E [math]= 4p^2 - (2q - 1)^2[/math]\u003Cbr\u003E [math]= (2p)^2 - (2q - 1)^2[/math]\u003Cbr\u003E [math]= (2p + 2q - 1)(2p - 2q + 1)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: প্রথমে দেখা যায় [math]4q^2-4q+1=(2q-1)^2[/math], তাই প্রদত্তটি হয় [math]4p^2-(2q-1)^2[/math], যা বর্গের পার্থক্য। ফলে উৎপাদকে বিশ্লেষণ করা যায়: [math](2p-2q+1)(2p+2q-1)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538352,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538351,
+      "value": {
+        "options": [],
+        "question": "উৎপাদকে বিশ্লেষণ কর: [math]4P^2 - 1 + 2R - R^2[/math]",
+        "solution": "প্রক্রিয়া:[math]4P^2 - 1 + 2R - R^2[/math]\u003Cbr\u003E [math]= 4P^2 - (R^2 - 2R + 1)[/math]\u003Cbr\u003E [math]= 4P^2 - (R - 1)^2[/math]\u003Cbr\u003E [math]= (2P)^2 - (R - 1)^2[/math]\u003Cbr\u003E [math]= (2P + R - 1)(2P - R + 1)[/math]\u003Cbr\u003E",
+        "explanation": "সমাধান: [math]4P^2 -1 +2R - R^2 = (2P - R + 1)(2P + R - 1)[/math]. কারণ বিস্তারে [math](2P - R + 1)(2P + R - 1)=4P^2 - R^2 +2R -1[/math], যা মূল বহুপদীর সঙ্গে সাম্য দেয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538351,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538340,
+      "value": {
+        "options": [],
+        "question": "[math]4x^2 - 12xy + 9y^2 - 16z^2[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]4x^2 - 12xy + 9y^2 - 16z^2[/math]\u003Cbr\u003E [math]= (2x - 3y)^2 - (4z)^2[/math]\u003Cbr\u003E [math]= [(2x - 3y) + 4z][(2x - 3y) - 4z][/math]\u003Cbr\u003E [math]= (2x - 3y + 4z)(2x - 3y - 4z)[/math]\u003Cbr\u003E",
+        "explanation": "প্রথম তিনটি পদটি একটি পূর্ণবর্গ কারণ [math]4x^2-12xy+9y^2=(2x-3y)^2[/math]. তাই পুরো বহুগুণটি হয়ে যায় [math](2x-3y)^2-(4z)^2[/math], এবং ভগ্নজোড় সূত্র প্রয়োগ করলে এটি হয় [math](2x-3y-4z)(2x-3y+4z)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538340,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538339,
+      "value": {
+        "options": [],
+        "question": "উৎপাদকে বিশ্লেষণ কর: [math]x^4 + 64[/math]",
+        "solution": "প্রক্রিয়া:[math]x^4 + 64 = (x^2)^2 + (8)^2[/math]\u003Cbr\u003E [math]= x^4 + 2x^2 \\cdot 8 - 2x^2 \\cdot 8 + 64[/math]\u003Cbr\u003E [math]= (x^2 + 4x)^2 - (4x)^2[/math]\u003Cbr\u003E [math]= (x^2 + 4x + 4x)(x^2 + 4x - 4x)[/math]\u003Cbr\u003E [math]= (x^2 + 8x)(x^2)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]x^4+64=x^4+4\\cdot2^4[/math] এবং Sophie Germain পরিচিতি [math]a^4+4b^4=(a^2-2ab+2b^2)(a^2+2ab+2b^2)[/math] অনুযায়ী [math]a=x,\\;b=2[/math] বসালে পাওয়া যায় [math]x^4+64=(x^2-4x+8)(x^2+4x+8)[/math]. এই দুই দ্বিঘাতের ডিসক্রিমিন্যান্ট [math]16-32=-16[/math], তাই বাস্তব সংখ্যায় এগুলো আর ভগ্নযোগ্য নয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538339,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538330,
+      "value": {
+        "options": [],
+        "question": "উৎপাদকে বিশ্লেষণ কর: [math]y^4 - 79y^2 + 1[/math]",
+        "solution": "[math]y^4 - 79y^2 + 1[/math]\u003Cbr\u003E [math]= y^4 - 2 \\cdot y^2 \\cdot \\frac{79}{2} + \\left(\\frac{79}{2}\\right)^2 - \\left(\\frac{79}{2}\\right)^2 + 1[/math]\u003Cbr\u003E [math]= (y^2 - \\frac{79}{2})^2 - \\left(\\frac{79}{2}\\right)^2 + 1[/math]\u003Cbr\u003E [math]= \\left(y^2 + 9y + 1\\right)\\left(y^2 - 9y + 1\\right)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]t=y^2[/math] ধরে নিলে বহুপদীটি [math]t^2-79t+1[/math] হয়, যার মূলগুলো [math]\\dfrac{79\\pm\\sqrt{6237}}{2}[/math]. তাই উত্পাদকটি হলো [math]\\left(y^2-\\dfrac{79+\\sqrt{6237}}{2}\\right)\\left(y^2-\\dfrac{79-\\sqrt{6237}}{2}\\right)[/math], যেটি গুণ করলে মূল বহুপদীটি পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538330,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538328,
+      "value": {
+        "options": [],
+        "question": "[math]7x^2 - x - 116[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]7x^2 - x - 116[/math]\u003Cbr\u003E [math]= 7x^2 - 29x + 28x - 116[/math]\u003Cbr\u003E [math]= x(7x - 29) + 4(7x - 29)[/math]\u003Cbr\u003E [math]= (7x - 29)(x + 4)[/math]\u003Cbr\u003E",
+        "explanation": "বিভাজ্যকটি বিশ্লেষণ করতে ডিসক্রিমিন্যান্ট গণনা করুন: [math]D = (-1)^2 - 4·7·(-116) = 1 + 3248 = 3249[/math], তাই [math]\\sqrt{D}=57[/math].  \nমূলগুলো হল [math]x = \\frac{1±57}{14}[/math], অর্থাৎ [math]x = \\frac{29}{7}[/math] অথবা [math]x = -4[/math].  \nতাই বহুগুণকের রূপ হবে [math](7x - 29)(x + 4)[/math], যা বিস্তৃত করলে আবার [math]7x^2 - x - 116[/math] পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538328,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538322,
+      "value": {
+        "options": [],
+        "question": "উৎপাদকে বিশ্লেষণ কাকে বলে?",
+        "solution": "কোনো রাশি দুই বা ততোধিক রাশির গুণফলের সমান হলে, শেষোক্ত রাশির প্রত্যেকটিকে প্রথমোক্ত রাশির উৎপাদক বা গুণনীয়ক বলা হয়।\n\nকোনো বীজগাণিতিক রাশির উৎপাদকগুলো নির্ণয় করার পর রাশিটিকে লব্ধ উৎপাদক গুলোর গুণফল রূপে প্রকাশ করাকে উৎপাদকে বিশ্লেষণ বলা হয়।",
+        "explanation": "উৎপাদকে বিশ্লেষণ হল কোনো সংখ্যা বা বহুপদকে এমনভাবে বিভক্ত করা যাতে তা ছোট বা অবিভাজ্য গুণফলগুলোর গুণ হিসেবে লেখা যায়। এটি তাই কারণ বিশ্লেষণের মাধ্যমে আমরা কোনো পরিমাণের মৌলিক গঠন—যেমন মৌলিক সংখ্যাগুলো বা অবিভাজ্য বহুপদকগুলো—চিহ্নিত করতে পারি, যা সমীকরণ সমাধান এবং গুণযোগ্যতার বৈশিষ্ট্য বোঝায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538322,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 538321,
+      "value": {
+        "options": [],
+        "question": "[math]a^2 - 2\\left(x + \\frac{1}{x}\\right)a + 4[/math] কে উৎপাদকে বিশ্লেষণ কর।",
+        "solution": "[math]a^2 - 2\\left(x + \\frac{1}{x}\\right)a + 4[/math]\u003Cbr\u003E [math]= a^2 - 2a\\left(x + \\frac{1}{x}\\right) + 4[/math]\u003Cbr\u003E [math]= a(a - 2x) - \\frac{2}{x}(a - 2x)[/math]\u003Cbr\u003E [math]= (a - 2x)\\left(a - \\frac{2}{x}\\right)[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: [math]a^2 - 2\\left(x + \\frac{1}{x}\\right)a + 4[/math]‑কে [math]a[/math] অনুযায়ী বর্গীয় মনে করলে বিচ্ছুরক [math]\\Delta=4\\left(x+\\frac{1}{x}\\right)^2-16=4\\left(x-\\frac{1}{x}\\right)^2[/math], তাই মূলগুলো হল [math]a=2x[/math] এবং [math]a=\\frac{2}{x}[/math]; অতএব বিশ্লেষণ হলো [math](a-2x)\\left(a-\\frac{2}{x}\\right)[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12924,
+      "created_at": "2025-08-26T07:40:25.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 538321,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:40:25.000000Z",
+            "updated_at": "2025-08-26T07:40:25.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12927&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12927&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12924&grade=5&lesson=12927&question_paper_id=47719&subject=201&type=board&per_page=2200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 2200,
+  "prev_page_url": null,
+  "to": 33,
+  "total": 33
+}

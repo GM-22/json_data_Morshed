@@ -1,0 +1,866 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 773928,
+      "value": {
+        "options": {
+          "খ": "1",
+          "গ": "$\\frac{2}{5}$",
+          "ঘ": "$\\frac{3}{5}$"
+        },
+        "question": "DHAKA শব্দটির প্রতিটি বর্ণ আলাদা করে একটি বক্সে রাখা হলো। দৈবভাবে একটি বর্ণ তোলা হলে, সেটি A হওয়ার সম্ভাবনা নিচের কোনটি?",
+        "solution": "DHAKA শব্দটিতে,\u003Cbr /\u003E\nD আছে 1 টি, H আছে 1 টি, A আছে 2 টি এবং K আছে 1 টি\u003Cbr /\u003E\nমোট বর্ণ $=(1+1+2+1)$ টি = 5 টি। $\\therefore P(A)=\\frac{2}{5}$",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3947,
+          "full_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "short_name": "ভিকারুননিসা নূন স্কুল এন্ড কলেজ, ঢাকা",
+          "slug": "vikarunnisa-nuun-skul-end-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 773928,
+            "tag_id": 3947,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773929,
+      "value": {
+        "options": {
+          "ক": "$\\frac{1}{6}$",
+          "খ": "$\\frac{1}{3}$",
+          "গ": "$\\frac{2}{3}$",
+          "ঘ": "$\\frac{5}{6}$"
+        },
+        "question": "একটি ছক্কা একবার নিক্ষেপ করা হলে প্রাপ্ত সংখ্যাটি জোড় এবং 3 দ্বারা বিভাজ্য হওয়ার সম্ভাবনা কত?",
+        "solution": "একটি ছক্কা নিক্ষেপের নমুনাক্ষেত্র:\u003Cbr /\u003E\n$\u003Cbr /\u003E\nS=\\{1,2,3,4,5,6\\}=6 \\text { টি }\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\\therefore$ জোড় সংখ্যা হওয়ার অনুকূল ফলাফল : $\\{2,4,6\\}$\u003Cbr /\u003E\n3 দ্বারা বিভাজ্য হওয়ার অনুকূল ফলাফল $=\\{3,6\\}$\u003Cbr /\u003E\n$\\therefore$ জোড় এবং 3 দ্বারা বিভাজ্য হওয়ার অনুকূল ফলাফল\u003Cbr /\u003E\n$\u003Cbr /\u003E\n=\\{2,4,6\\} \\cap\\{3,6\\}=\\{6\\}=1 \\text { টি }\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\\therefore P($ জোড় সংখ্যা এবং 3 দ্বারা বিভাজ্য $)=\\frac{1}{6}$.",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 773929,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773930,
+      "value": {
+        "options": {
+          "ক": "144টি",
+          "খ": "72টি",
+          "গ": "36টি",
+          "ঘ": "24টি"
+        },
+        "question": "দুইটি ছক্কা ও 2টি মুদ্রা একত্রে নিক্ষেপ করলে তাদের নমুনা বিন্দুর সংখ্যা কত?",
+        "solution": "দুইটি ছক্কা নিক্ষেপে নমুনা বিন্দুর সংখ্যা $=6^2=36$\u003Cbr /\u003E\nদুইটি মুদ্রা নিক্ষেপে নমুনা বিন্দুর সংখ্যা $=2^2=4$\u003Cbr /\u003E\n$\\therefore$ দুইটি ছক্কা ও দুইটি মুদ্রা একত্রে নিক্ষেপে মোট নমুনা বিন্দুর সংখ্যা $=36 \\times 4=144$.",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 773930,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773931,
+      "value": {
+        "options": {
+          "ক": "$\\frac{5}{9}$",
+          "খ": "$\\frac{4}{9}$",
+          "গ": "$\\frac{1}{5}$",
+          "ঘ": "$\\frac{1}{9}$"
+        },
+        "question": "একটি বাক্সে 2টি কালো, 2টি লাল এবং 5টি নীল বল আছে। দৈবভাবে একটি বল নেওয়া হলো। বলটি নীল হওয়ার সম্ভাবনা কত?",
+        "solution": "মোট বল $=(2+2+5)$ বা 9 টি।\u003Cbr /\u003E\nএদের মধ্যে নীল বল 5 টি\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore P(\\text { নীল বল })=\\frac{5}{9}.\u003Cbr /\u003E\n$",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3824,
+          "full_name": "সি. বো.'২০১৯",
+          "short_name": "সি. বো.'২০১৯",
+          "slug": "si-bo2019",
+          "pivot": {
+            "question_bank_id": 773931,
+            "tag_id": 3824,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773932,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি নিরপেক্ষ ছক্কা নিক্ষেপ করা হলো-\u003Cbr\u003E\ni. 3 আসার সম্ভাবনা \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25189-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;6&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-356810\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-356811\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-356812\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-356813\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.622em;\"\u003E\u003Cspan id=\"MJXc-Node-356814\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E6\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.365em; vertical-align: -0.44em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmn\u003E6\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25189\"\u003E\\frac{1}{6}\u003C/script\u003E\u003Cbr\u003E\nii. জোড় সংখ্যা আসার সম্ভাবনা \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25190-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-356815\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-356816\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-356817\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-356818\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.6em;\"\u003E\u003Cspan id=\"MJXc-Node-356819\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.349em; vertical-align: -0.425em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25190\"\u003E\\frac{1}{2}\u003C/script\u003E\u003Cbr\u003E\niii. 5 এর কম সংখ্যা আসার সম্ভাবনা \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25191-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-356820\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-356821\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-356822\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-356823\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.621em;\"\u003E\u003Cspan id=\"MJXc-Node-356824\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.364em; vertical-align: -0.439em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25191\"\u003E\\frac{2}{3}\u003C/script\u003E\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "একটি ছক্কা নিক্ষেপের নমুনাক্ষেত্র,\u003Cbr /\u003E\n$\u003Cbr /\u003E\nS=\\{1,2,3,4,5,6\\}=6 {}\u003Cbr /\u003E\n$ টি\u003Cbr /\u003E\n(i) 3 আসার অনুকূল ফলাফল $=\\{3\\}=1$ টি\u003Cbr /\u003E\n$\\therefore 3$ আসার সম্ভাবনা $=\\frac{1}{6}$\u003Cbr /\u003E\n(ii) জোড় সংখ্যা আসার অনুকূল ফলাফল $=\\{2,4,6\\}=3$ টি\u003Cbr /\u003E\n$\\therefore$ জোড় সংখ্যা আসার সম্ভাবনা $=\\frac{3}{6}=\\frac{1}{2}$\u003Cbr /\u003E\n(iii) 5 এর কম সংখ্যা আসার অনুকূল ফলাফল $=\\{1,2,3,4\\}=4$ টি\u003Cbr /\u003E\n$\\therefore 5$ এর কম সংখ্যা আসার সম্ভাবনা $=\\frac{4}{6}=\\frac{2}{3}$\u003Cbr /\u003E\n$\\therefore$ (i), (ii) ও (iii) সঠিক।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 773932,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773933,
+      "value": {
+        "options": {
+          "ক": "$\\frac{32}{47}$",
+          "খ": "$\\frac{20}{47}$",
+          "গ": "$\\frac{15}{47}$",
+          "ঘ": "$\\frac{12}{47}$"
+        },
+        "question": "একটি ঝুড়িতে একই ধরনের 12টি নীল, 15টি সবুজ ও 20টি কালো বল আছে। দৈবভাবে একটি বল নেয়া হল।\u003Cbr\u003E\nবলটি নীল হওয়ার সম্ভাবনা কত?",
+        "solution": "ঝুড়িতে নীল বল আছে 12টি\u003Cbr /\u003E\nসবুজ বল আছে&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 15টি\u003Cbr /\u003E\nকালো বল আছে&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;20টি\u003Cbr /\u003E\nমোট বল আছে&nbsp; &nbsp; &nbsp; &nbsp; = 47টি\u003Cbr /\u003E\n\u003Cspan class=\"math-tex\"\u003E\\(\\therefore\\)\u003C/span\u003E&nbsp;বলটি নীল হওয়ার সম্ভাবনা&nbsp;$=\\frac{12}{47}.$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 773933,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773934,
+      "value": {
+        "options": {
+          "ক": "6",
+          "খ": "12",
+          "গ": "18",
+          "ঘ": "36"
+        },
+        "question": "একটি ছক্কাকে দুইবার নিক্ষেপ করা হলো।\u003Cbr\u003E\nমোট নমুনা বিন্দু কতটি?",
+        "solution": "একটি ছক্কাকে দুইবার নিক্ষেপ করলে মোট নমুনা বিন্দু&nbsp;$=6 \\times 6=6^2=36$",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 773934,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773935,
+      "value": {
+        "options": {
+          "ক": "$\\frac{1}{6}$",
+          "খ": "$\\frac{1}{12}$",
+          "গ": "$\\frac{1}{18}$",
+          "ঘ": "$\\frac{1}{36}$"
+        },
+        "question": "একটি ছক্কাকে দুইবার নিক্ষেপ করা হলো।\u003Cbr\u003E\nদুইটি একই সংখ্যা আসার সম্ভাবনা কত?",
+        "solution": "দুইটি একই সংখ্যা আসার অনুকূল ফলাফল:\u003Cbr /\u003E\n(1, 1), (2, 2), (3, 3), (4, 4), (5, 5), (6, 6) মোট = 6টি\u003Cbr /\u003E\n$\\therefore P($ দুইটি একই সংখ্যা $)=\\frac{6}{36}=\\frac{1}{6}.$",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3862,
+          "full_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "short_name": "রাজউক উত্তরা মডেল কলেজ, ঢাকা",
+          "slug": "rajuk-uttra-mdel-klej-dhaka",
+          "pivot": {
+            "question_bank_id": 773935,
+            "tag_id": 3862,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773936,
+      "value": {
+        "options": {
+          "ক": "$\\frac{3}{4}$",
+          "খ": "$\\frac{1}{4}$",
+          "গ": "$\\frac{1}{2}$",
+          "ঘ": "1"
+        },
+        "question": "দুইটি নিরপেক্ষ মুদ্রা একত্রে নিক্ষেপ করা হলে, দুইটি টেল না আসার সম্ভাবনা কত?",
+        "solution": "দুইটি নিরপেক্ষ মুদ্রা নিক্ষেপে সম্ভাব্য নমুনাক্ষেত্র:\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\{\\mathrm{HH}, \\mathrm{HT}, \\mathrm{TH}, \\mathrm{TT}\\}\u003Cbr /\u003E\n$\u003Cbr /\u003E\n$\\therefore$ মোট নমুনাবিন্দু 4টি অর্থাৎ সমগ্র ফলাফল 4\u003Cbr /\u003E\nদুইটি টেল অর্থাৎ T আসার নমুনা বিন্দু একটি (TT)\u003Cbr /\u003E\n$\\therefore$ অনুকূল ফলাফল 1\u003Cbr /\u003E\n$\\therefore P($ দুইটি $T)=\\frac{1}{4}$\u003Cbr /\u003E\n$\\therefore \\quad \\mathrm{P}($ দুইটি T নয় $)=1-\\frac{1}{4}=\\frac{3}{4}$.",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 773936,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773937,
+      "value": {
+        "options": {
+          "ক": "$\\frac{5}{21}$",
+          "খ": "$\\frac{7}{21}$",
+          "গ": "$\\frac{9}{21}$",
+          "ঘ": "$\\frac{16}{21}$"
+        },
+        "question": "একটি থলিতে নীল বল 10টি, সাদা বল 14টি এবং কালো বল 18টি আছে। দৈবভাবে একটি বল নেওয়া হলে বলটি নীল না হওয়ার সম্ভাবনা কত?",
+        "solution": "থলিতে মোট বল আছে $(10+14+18)$ টি \u003Cspan class=\"math-tex\"\u003E\\(= 42\\)\u003C/span\u003E টি\u003Cbr /\u003E\nএদের মধ্যে নীল বল আছে 10টি।\u003Cbr /\u003E\n$\\therefore$ বলটি নীল না হওয়ার সম্ভাবনা $=1-\\frac{10}{42}=1-\\frac{5}{21}=\\frac{21-5}{21}=\\frac{16}{21}$.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3931,
+          "full_name": "সি. বো.'২০২২",
+          "short_name": "সি. বো.'২০২২",
+          "slug": "si-bo2022",
+          "pivot": {
+            "question_bank_id": 773937,
+            "tag_id": 3931,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773938,
+      "value": {
+        "options": {
+          "ক": "$\\frac{1}{9}$",
+          "খ": "$\\frac{4}{9}$",
+          "গ": "$\\frac{5}{9}$",
+          "ঘ": "1"
+        },
+        "question": "একটি থলেতে চারটি সাদা বল ও পাঁচটি লাল বল আছে। দৈবভাবে একটি বল তুলে আনা হলে, বলটি সাদা হওয়ার সম্ভাবনা কত?",
+        "solution": "মোট বল $=4+5=9$ টি।\u003Cbr /\u003E\nএর মধ্যে সাদা বল $=4$ টি\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore P(\\text { সাদা বল })=\\frac{4}{9} .\u003Cbr /\u003E\n$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3808,
+          "full_name": "কু. বো.'২০১৯",
+          "short_name": "কু. বো.'২০১৯",
+          "slug": "ku-bo2019",
+          "pivot": {
+            "question_bank_id": 773938,
+            "tag_id": 3808,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773939,
+      "value": {
+        "options": {
+          "ক": "$\\frac{1}{3}$",
+          "খ": "$\\frac{1}{9}$",
+          "গ": "$\\frac{1}{27}$",
+          "ঘ": "$\\frac{1}{81}$"
+        },
+        "question": "একটি থলেতে 5 টি লাল, 4 টি কাল ও 6 টি সাদা বল আছে। পুনরায় স্থাপন করে একটি বল পর পর তিনবার উঠানো হলো। তিনবারই বলটি লাল হওয়ার সম্ভাবনা কত?",
+        "solution": "থলেতে মোট বল $=(5+4+6)=15$ টি\u003Cbr /\u003E\nএদের মধ্যে লাল বল $=5$ টি\u003Cbr /\u003E\n$\\therefore$ পুনঃস্থাপন না করে একটি বল পরপর তিনবার উঠানো হলে\u003Cbr /\u003E\nবলটি লাল হওয়ার সম্ভাবনা $=\\frac{5}{15} \\times \\frac{5}{15} \\times \\frac{5}{15}=\\frac{1}{27}$.",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4048,
+          "full_name": "কুমিল্লা জিলা স্কুল",
+          "short_name": "কুমিল্লা জিলা স্কুল",
+          "slug": "kumilla-jila-skul",
+          "pivot": {
+            "question_bank_id": 773939,
+            "tag_id": 4048,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773940,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "10টি কালো ও 5টি লাল বল হতে দৈবভাবে একটি বল নির্বাচন করা হলে, বলটি-\u003Cbr\u003E\ni. লাল হওয়ার সম্ভাবনা&nbsp;\u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25248-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-357234\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-357235\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-357236\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-357237\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.621em;\"\u003E\u003Cspan id=\"MJXc-Node-357238\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.364em; vertical-align: -0.439em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25248\"\u003E\\frac{1}{3}\u003C/script\u003E\u003C/span\u003E\u003Cbr\u003E\nii. লাল না হওয়ার সম্ভাবনা&nbsp;\u003Cspan class=\"math-tex\"\u003E\u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25249-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-357239\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-357240\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-357241\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-357242\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.621em;\"\u003E\u003Cspan id=\"MJXc-Node-357243\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.39em;\"\u003E3\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.364em; vertical-align: -0.439em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003Cmn\u003E3\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25249\"\u003E\\frac{2}{3}\u003C/script\u003E\u003C/span\u003E\u003Cbr\u003E\niii. লাল অথবা কালো হওয়ার সম্ভাবনা 1\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "মোট বল $=10+5=15$\u003Cbr /\u003E\n$\\therefore$ সমগ্র ফলাফল 15\u003Cbr /\u003E\n$\\therefore$ i. লাল হওয়ার সম্ভাবনা $=\\frac{\\text { লাল বল সংখ্যা }}{\\text { মোট বল সংখ্যা }}=\\frac{5}{15}=\\frac{1}{3}$\u003Cbr /\u003E\nii. লাল না হওয়ার সম্ভাবনা $=1-\\frac{1}{3}=\\frac{2}{3}$\u003Cbr /\u003E\niii. লাল অথবা কালো হওয়ার সম্ভাবনা $=\\frac{15}{15}=1$\u003Cbr /\u003E\n$\\therefore$ i, ii ও iii সঠিক।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 773940,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773941,
+      "value": {
+        "options": {
+          "ক": "$\\frac{0}{18}$",
+          "খ": "$\\frac{5}{18}$",
+          "গ": "$\\frac{6}{18}$",
+          "ঘ": "$\\frac{7}{18}$"
+        },
+        "question": "একটি বাক্সে 5টি লাল, 7টি সাদা ও 6টি বেগুনি বল আছে। বাক্সটি থেকে নিরপেক্ষভাবে একটি বল তোলা হলে তা লাল হওয়ার সম্ভাবনা কত?",
+        "solution": "বাক্সে মোট বল আছে $(5+7+6)$ টি $=18$ টি\u003Cbr /\u003E\nলাল বল = 5 টি\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\therefore \\mathrm{P}(\\text { বলটি লাল })=\\frac{5}{18}.\u003Cbr /\u003E\n$",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4734,
+          "full_name": "মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, যশোর",
+          "short_name": "মাধ্যমিক ও উচ্চ মাধ্যমিক শিক্ষা বোর্ড, যশোর",
+          "slug": "madhzmik-oo-ucc-madhzmik-siksha-bord-zsor",
+          "pivot": {
+            "question_bank_id": 773941,
+            "tag_id": 4734,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773942,
+      "value": {
+        "options": {
+          "ক": "i ও ii",
+          "খ": "i ও iii",
+          "গ": "ii ও iii",
+          "ঘ": "i, ii ও iii"
+        },
+        "question": "একটি ছক্কা নিক্ষেপের ক্ষেত্রে-\u003Cbr\u003E\ni. বিজোড় সংখ্যা পাওয়ার সম্ভাবনা \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25264-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-357342\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-357343\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-357344\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-357345\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.6em;\"\u003E\u003Cspan id=\"MJXc-Node-357346\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.349em; vertical-align: -0.425em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25264\"\u003E\\frac{1}{2}\u003C/script\u003E\u003Cbr\u003E\nii. মৌলিক সংখ্যা পাওয়ার সম্ভাবনা \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25265-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-357347\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-357348\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-357349\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-357350\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.6em;\"\u003E\u003Cspan id=\"MJXc-Node-357351\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.349em; vertical-align: -0.425em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25265\"\u003E\\frac{1}{2}\u003C/script\u003E\u003Cbr\u003E\niii. জোড় সংখ্যা পাওয়ার সম্ভাবনা \u003Cspan class=\"MathJax_Preview\" style=\"color: inherit;\"\u003E\u003C/span\u003E\u003Cspan id=\"MathJax-Element-25266-Frame\" class=\"mjx-chtml MathJax_CHTML\" tabindex=\"0\" data-mathml=\"&lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot;&gt;&lt;mfrac&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;/math&gt;\" role=\"presentation\" style=\"font-size: 113%; position: relative;\"\u003E\u003Cspan id=\"MJXc-Node-357352\" class=\"mjx-math\" aria-hidden=\"true\"\u003E\u003Cspan id=\"MJXc-Node-357353\" class=\"mjx-mrow\"\u003E\u003Cspan id=\"MJXc-Node-357354\" class=\"mjx-mfrac\"\u003E\u003Cspan class=\"mjx-box MJXc-stacked\" style=\"width: 0.495em; padding: 0px 0.12em;\"\u003E\u003Cspan class=\"mjx-numerator\" style=\"font-size: 70.7%; width: 0.7em; top: -1.308em;\"\u003E\u003Cspan id=\"MJXc-Node-357355\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E1\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-denominator\" style=\"font-size: 70.7%; width: 0.7em; bottom: -0.6em;\"\u003E\u003Cspan id=\"MJXc-Node-357356\" class=\"mjx-mn\" style=\"\"\u003E\u003Cspan class=\"mjx-char MJXc-TeX-main-R\" style=\"padding-top: 0.39em; padding-bottom: 0.335em;\"\u003E2\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-line\" style=\"border-bottom: 1.3px solid; top: -0.285em; width: 0.495em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"mjx-vsize\" style=\"height: 1.349em; vertical-align: -0.425em;\"\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003C/span\u003E\u003Cspan class=\"MJX_Assistive_MathML\" role=\"presentation\"\u003E\u003Cmath xmlns=\"http://www.w3.org/1998/Math/MathML\"\u003E\u003Cmfrac\u003E\u003Cmn\u003E1\u003C/mn\u003E\u003Cmn\u003E2\u003C/mn\u003E\u003C/mfrac\u003E\u003C/math\u003E\u003C/span\u003E\u003C/span\u003E\u003Cscript type=\"math/tex\" id=\"MathJax-Element-25266\"\u003E\\frac{1}{2}\u003C/script\u003E\u003Cbr\u003E\nনিচের কোনটি সঠিক?",
+        "solution": "একটি ছক্কা নিক্ষেপের নমুনাক্ষেত্র\u003Cbr /\u003E\n$\u003Cbr /\u003E\n\\{1,2,3,4,5 , 6\\}=6&nbsp;\u003Cbr /\u003E\n$ টি\u003Cbr /\u003E\nএদের মধ্যে বিজোড় সংখ্যা $\\{1,3,5\\}$, মৌলিক সংখ্যা $\\{2,3,5\\}$\u003Cbr /\u003E\nএবং জোড় সংখ্যা $\\{2,4,6\\}$.\u003Cbr /\u003E\n(i) বিজোড় সংখ্যা পাওয়ার সম্ভাবনা $=\\frac{3}{6}=\\frac{1}{2}$\u003Cbr /\u003E\n(ii) মৌলিক সংখ্যা পাওয়ার সম্ভাবনা $=\\frac{3}{6}=\\frac{1}{2}$\u003Cbr /\u003E\n(iii) জোড় সংখ্যা পাওয়ার সম্ভাবনা $=\\frac{3}{6}=\\frac{1}{2}$\u003Cbr /\u003E\n$\\therefore$ (i), (ii) ও (iii) সঠিক।",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3854,
+          "full_name": "চ. বো.'২০২২",
+          "short_name": "চ. বো.'২০২২",
+          "slug": "c-bo2022",
+          "pivot": {
+            "question_bank_id": 773942,
+            "tag_id": 3854,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 773943,
+      "value": {
+        "options": {
+          "ক": "$\\frac{15}{47}$",
+          "খ": "$\\frac{20}{47}$",
+          "গ": "$\\frac{32}{47}$",
+          "ঘ": "$\\frac{35}{47}$"
+        },
+        "question": "একটি ঝুড়িতে একই ধরনের 12টি নীল, 15টি সবুজ ও 20টি কালো বল আছে। দৈবভাবে একটি বল নেয়া হল।\u003Cbr\u003E\nবলটি সবুজ অথবা কালো হওয়ার সম্ভাবনা কত?",
+        "solution": "সবুজ অথবা কালো হওয়ার অনুকূল ফলাফল $(15+20)=35$\u003Cbr /\u003E\n$\\therefore$ বলটি সবুজ অথবা কালো হওয়ার সম্ভাবনা $\\frac{35}{47}$.",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 58,
+      "book_grade_id": 5,
+      "content_chunk_id": 8032,
+      "created_at": "2025-12-01T13:02:21.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 58,
+        "title": "উচ্চতর গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 773943,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-12-01T13:02:21.000000Z",
+            "updated_at": "2025-12-01T13:02:21.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8032&grade=5&lesson=14597&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8032&grade=5&lesson=14597&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8032&grade=5&lesson=14597&question_paper_id=47719&subject=58&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

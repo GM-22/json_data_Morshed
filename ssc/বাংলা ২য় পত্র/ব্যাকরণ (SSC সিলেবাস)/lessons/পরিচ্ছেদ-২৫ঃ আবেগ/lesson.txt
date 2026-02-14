@@ -1,0 +1,932 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695911,
+      "value": {
+        "options": {
+          "ক": "বাহ্, চমৎকার লিখেছ।",
+          "খ": "উহ্, কী বিপদে পড়া গেল।",
+          "গ": "হায় হায়, ওর এখন কী হবে!",
+          "ঘ": "ওগো, তোরা জয়ধ্বনি কর।"
+        },
+        "question": "নিচের কোন বাক্যে প্রশংসা আবেগ ব্যবহার করা হয়েছে?",
+        "solution": "‘বাহ্, চমৎকার লিখেছ’ বাক্যে আনন্দ ও প্রশংসার আবেগ প্রকাশ পেয়েছে।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:24:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695911,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695911,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695911,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T08:24:41.000000Z",
+            "updated_at": "2025-10-09T08:24:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695912,
+      "value": {
+        "options": {
+          "ক": "প্রশংসা আবেগ",
+          "খ": "বিস্ময় আবেগ",
+          "গ": "সিদ্ধান্ত আবেগ",
+          "ঘ": "আতঙ্ক আবেগ"
+        },
+        "question": "বেশ, তবে সেটাই হোক'-বাক্যটি কোন আবেগের উদাহরণ?",
+        "solution": "বেশ, তবে সেটাই হোক' বাক্যে ব্যক্তির কোনো সিদ্ধান্ত প্রকাশ পেয়েছে। এখানে ইতিবাচক সিদ্ধান্ত ও সম্মতি বোঝানো হয়েছে। তাই এটি 'সিদ্ধান্ত আবেগ'-এর অন্তর্ভুক্ত।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:24:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695912,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695912,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T08:24:41.000000Z",
+            "updated_at": "2025-10-09T08:24:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695913,
+      "value": {
+        "options": {
+          "ক": "করুণা",
+          "খ": "অলংকার",
+          "গ": "বিরক্তি",
+          "ঘ": "প্রশংসা"
+        },
+        "question": "‘যাক গে, ওসব কথা থাক।’ বাক্যটিতে কোন ধরনের আবেগ ব্যবহৃত হয়েছে?",
+        "solution": "‘যাক গে’ বা ‘থাক’ শব্দগুলো সাধারণত বিরক্তি, অনিচ্ছা বা কথা ঘোরানোর আবেগ প্রকাশ করে — এটি অলংকারিক আবেগ নয়, বরং একধরনের বক্তব্য পাল্টানোর আবেগ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:24:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695913,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695913,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695913,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T08:24:41.000000Z",
+            "updated_at": "2025-10-09T08:24:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695914,
+      "value": {
+        "options": {
+          "ক": "বিরক্তি",
+          "খ": "সিদ্ধান্ত",
+          "গ": "করুণা",
+          "ঘ": "অলংকার"
+        },
+        "question": "যাকগে, ওসব কথা থাক। বাক্যে 'যাকগে' কোন আবেগ?",
+        "solution": "‘যাকগে’ শব্দটি অলংকার বা নিরস আবেগ প্রকাশে ব্যবহৃত হয় — কথাবার্তা বন্ধ করে বিষয়ান্তরে যেতে এটি ব্যবহার হয়।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:24:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695914,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695914,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695914,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T08:24:41.000000Z",
+            "updated_at": "2025-10-09T08:24:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695915,
+      "value": {
+        "options": {
+          "ক": "ছি ছি!",
+          "খ": "বাপরে বাপ!",
+          "গ": "আরে!",
+          "ঘ": "আহা!"
+        },
+        "question": "নিচের কোনটি আতঙ্ক আবেগের উদাহরণ?",
+        "solution": "‘বাপরে বাপ!’ বাক্যাংশটি আতঙ্ক বা ভয় প্রকাশ করে।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:24:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695915,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695915,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695915,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T08:24:41.000000Z",
+            "updated_at": "2025-10-09T08:24:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695916,
+      "value": {
+        "options": {
+          "ক": "হ্যাঁ, আমাদের জিততেই হবে।",
+          "খ": "হে বন্ধু, তোমাকে অভিনন্দন।",
+          "গ": "শাবাশ! এমন খেলাই তো চেয়েছিলাম।",
+          "ঘ": "আহ, কী চমৎকার দৃশ্য!"
+        },
+        "question": "নিচের কোন বাক্যটি প্রশংসা আবেগ প্রকাশ করে?",
+        "solution": "প্রশংসা আবেগ প্রকাশ হলো অন্য ব্যক্তির প্রতি ইতিবাচক মনোভাব, সন্তুষ্টি, এবং মূল্যবোধ প্রকাশের একটি উপায়।",
+        "explanation": "",
+        "correct_answer": "C.শাবাশ! এমন খেলাই তো চেয়েছিলাম।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:24:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695916,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695916,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695916,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T08:24:41.000000Z",
+            "updated_at": "2025-10-09T08:24:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695917,
+      "value": {
+        "options": {
+          "ক": "যাকগে, ওসব কথা থাক।",
+          "খ": "আহা! বেচারার এত কষ্ট।",
+          "গ": "আহ্, কী চমৎকার দৃশ্য।",
+          "ঘ": "বাহ্, চমৎকার লিখেছ।"
+        },
+        "question": "নিচের কোনটি অলংকার আবেগ?",
+        "solution": "এ ধরনের শব্দ শব্দ বাক্যের অর্থের পরিবর্তন না ঘটিয়ে কোমলতা, মাধুর্য ইত্যাদি বৈশিষ্ট্য এবং সংশয়, অনুরোধ, মিনতি ইত্যাদি মনোভাব প্রকাশের জন্য অলংকার হিসেবে ব্যবহৃত হয়। যেমন: যাকগে, ওসব কথা থাক।",
+        "explanation": "",
+        "correct_answer": "A.যাকগে, ওসব কথা থাক।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:24:41.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695917,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695917,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695917,
+            "tag_id": 3,
+            "year": "2024",
+            "created_at": "2025-10-09T08:24:41.000000Z",
+            "updated_at": "2025-10-09T08:24:41.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718699,
+      "value": {
+        "options": {
+          "ক": "অলংকার আবেগ",
+          "খ": "সম্বোধন আবেগ",
+          "গ": "বিরক্তি আবেগ",
+          "ঘ": "করুণা আবেগ"
+        },
+        "question": "যে শব্দ সম্বোধন বা আহ্বান করার ক্ষেত্রে&nbsp;ব্যবহৃত হয় তাকে বলে-",
+        "solution": "খ. সম্বোধন আবেগ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718701,
+      "value": {
+        "options": {
+          "ক": "আহ্, কী চমৎকার দৃশ্য!",
+          "খ": "আরে! তুমি আবার কখন এলে?",
+          "গ": "হায় হায়! ওর এখন কী হবে!",
+          "ঘ": "উহ্, কী বিপদে পড়া গেল।"
+        },
+        "question": "নিচের কোনটিতে করুণা আবেগের উদাহরণ রয়েছে?",
+        "solution": "গ. হায় হায়! ওর এখন কী হবে!"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3859,
+          "full_name": "ঢা. বো.'২০২৩",
+          "short_name": "ঢা. বো.'২০২৩",
+          "slug": "dha-bo2023",
+          "pivot": {
+            "question_bank_id": 718701,
+            "tag_id": 3859,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718703,
+      "value": {
+        "options": {
+          "ক": "সম্বোধন আবেগ",
+          "খ": "বিস্ময় আবেগ",
+          "গ": "করুণা আবেগ",
+          "ঘ": "অলংকার আবেগ"
+        },
+        "question": "ওগো, তোরা জয়ধ্বনি কর। এটি কোন&nbsp;ধরনের আবেগ?",
+        "solution": "ক. সম্বোধন আবেগ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 718703,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718705,
+      "value": {
+        "options": {
+          "ক": "হ্যাঁ, আমাদের জিততেই হবে।",
+          "খ": "হে বন্ধু, তোমাকে অভিনন্দন।",
+          "গ": "শাবাশ! এমন খেলাই তো চেয়েছিলাম।",
+          "ঘ": "আহ, কী চমৎকার দৃশ্য!"
+        },
+        "question": "নিচের কোন বাক্যটিতে প্রশংসা&nbsp;আবেগ&nbsp;প্রকাশ করে?",
+        "solution": "গ. শাবাশ! এমন খেলাই তো চেয়েছিলাম।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718708,
+      "value": {
+        "options": {
+          "ক": "প্রশংসা",
+          "খ": "করুণা",
+          "গ": "সম্বোধন",
+          "ঘ": "অলংকার"
+        },
+        "question": "\"হে বন্ধু, তোমাকে অভিনন্দন।\"- এ বাক্যে&nbsp;কোন আবেগ প্রকাশ পেয়েছে?",
+        "solution": "গ. সম্বোধন"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 718708,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718710,
+      "value": {
+        "options": {
+          "ক": "ওগো, তোরা জয়ধ্বনি কর।",
+          "খ": "যাকগে, ওসব কথা থাক।",
+          "গ": "উহ্, কী বিপদে পড়া গেল।",
+          "ঘ": "আহ্, কী চমৎকার দৃশ্য!"
+        },
+        "question": "নিচের কোনটিতে সম্বোধন আবেগের, উদাহরণ রয়েছে?",
+        "solution": "ক. ওগো, তোরা জয়ধ্বনি কর।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 718710,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718712,
+      "value": {
+        "options": {
+          "ক": "বাহ, চমৎকার লিখেছ।",
+          "খ": "আহ, কী চমৎকার দৃশ্য।",
+          "গ": "বেশ, তবে যাওয়াই যাক।",
+          "ঘ": "আহা! বেচারার এত কষ্ট।"
+        },
+        "question": "সিদ্ধান্ত আবেগ কোনটি?",
+        "solution": "গ. বেশ, তবে যাওয়াই যাক।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718714,
+      "value": {
+        "options": {
+          "ক": "সিদ্ধান্ত",
+          "খ": "প্রশংসা",
+          "গ": "বিরক্তি",
+          "ঘ": "আতঙ্ক"
+        },
+        "question": "'হ্যাঁ, আমাদের জিততেই হবে।'- এই বাক্যে 'হ্যাঁ' কোন ধরনের আবেগ?",
+        "solution": "ক. সিদ্ধান্ত"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718715,
+      "value": {
+        "options": {
+          "ক": "বিরক্তি আবেগ",
+          "খ": "আতঙ্ক আবেগ",
+          "গ": "অলংকার আবেগ",
+          "ঘ": "বিস্ময় আবেগ"
+        },
+        "question": "\"দূর! এ কথা কি বলতে আছে?\"- এখানে 'দূর' কোন ধরনের আবেগ?",
+        "solution": "গ. অলংকার আবেগ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3855,
+          "full_name": "চ. বো.'২০২৩",
+          "short_name": "চ. বো.'২০২৩",
+          "slug": "c-bo2023",
+          "pivot": {
+            "question_bank_id": 718715,
+            "tag_id": 3855,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13178&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13178&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13178&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 16,
+  "total": 16
+}

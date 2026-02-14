@@ -1,0 +1,1432 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695702,
+      "value": {
+        "options": {
+          "ক": "সাধারণ",
+          "খ": "বিরোধ",
+          "গ": "কারণ",
+          "ঘ": "সাপেক্ষ"
+        },
+        "question": "এত পড়লাম, কিন্তু পরীক্ষায় ভালো করতে পারলাম না। বাক্যে 'কিন্তু' কোন ধরনের যোজক?",
+        "solution": "কিন্তু' একটি বিরোধ যোজক, যা দুটি বিপরীত ধারণার মধ্যে সম্পর্ক বোঝাতে ব্যবহৃত হয়।",
+        "explanation": "",
+        "correct_answer": "খ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695702,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695702,
+            "question_bank_institution_id": 231
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695702,
+            "tag_id": 5,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695713,
+      "value": {
+        "options": {
+          "ক": "ভিক্ষুককে টাকা দাও।",
+          "খ": "তুমি চেষ্টা না করায় ব্যর্থ হয়েছ।",
+          "গ": "যেহেতু দোষ করেছ, সেহেতু শাস্তি পাবে।",
+          "ঘ": "বিপদ ও দুঃখ একসঙ্গে আসে।"
+        },
+        "question": "সাপেক্ষ সর্বনাম ও সাপেক্ষ যোজক যুক্ত রয়েছে কোনটিতে?",
+        "solution": "যে সকল সর্বনাম দ্বারা একটি বাক্যের সাপেক্ষে অন্য বাক্যকে যুক্ত করা হয়, তাদেরকে সাপেক্ষ সর্বনাম বলা হয়। এবং পরস্পর নির্ভরশীল যে যোজকগুলো একে অন্যের পরিপূরক হিসেবে বাক্যে ব্যবহৃত হয় তাদের সাপেক্ষ যোজক বলে।\nযেমন : যেহেতু দোষ করেছ, সেহেতু শাস্তি পাবে, বা এই সেই লোক, যে গতকাল এখানে এসেছিল।",
+        "explanation": "",
+        "correct_answer": "C.যেহেতু দোষ করেছ, সেহেতু শাস্তি পাবে।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695713,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695713,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695713,
+            "tag_id": 3626,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695712,
+      "value": {
+        "options": {
+          "ক": "সাধারণ",
+          "খ": "বিকল্প",
+          "গ": "বিরোধ",
+          "ঘ": "সাপেক্ষ"
+        },
+        "question": "\"তাকে আসতে বললাম, তবু এলো না\" - বাক্যটি কোন যোজক নির্দেশ করেছে?",
+        "solution": "বিরোধমূলক যোজক : যে যোজক দুটি বাক্যের সংযোগ ঘটিয়ে দ্বিতীয়টির সাহায্যে প্রথম বাক্যের বক্তব্যের সংশোধন বা বিরোধ নিদের্শ করে, তাকে বিরোধমূলক যোজক বলে। যেমন: এত বৃষ্টি হলো, তবু গরম গেল না, তাকে আসতে বললাম, তবু এলো না।",
+        "explanation": "",
+        "correct_answer": "C.বিরোধ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695712,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695712,
+            "year_id": 5
+          }
+        },
+        {
+          "id": 4,
+          "year": "2023",
+          "pivot": {
+            "question_bank_id": 695712,
+            "year_id": 4
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695712,
+            "question_bank_institution_id": 235
+          }
+        },
+        {
+          "id": 231,
+          "name": "Dinajpur Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695712,
+            "question_bank_institution_id": 231
+          }
+        },
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695712,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695712,
+            "tag_id": 3626,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        },
+        {
+          "id": 5,
+          "full_name": "Dinajpur Board",
+          "short_name": "DiB",
+          "slug": "dinajpur-board",
+          "pivot": {
+            "question_bank_id": 695712,
+            "tag_id": 5,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        },
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695712,
+            "tag_id": 1,
+            "year": "2023",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695711,
+      "value": {
+        "options": {
+          "ক": "বিধেয়",
+          "খ": "সরল",
+          "গ": "জটিল",
+          "ঘ": "যৌগিক"
+        },
+        "question": "কোন শ্রেণির বাক্য সাপেক্ষ যোজক দ্বারা যুক্ত হয়?",
+        "solution": "জটিল বাক্য : যে বাক্যে একটি স্বাধীন বাক্য এবং এক বা একাধিক অধীন বাক্য পরস্পর সাপেক্ষভাবে ব্যবহৃত হয়, তাকে জটিল বাক্য বা মিশ্র বাক্য বলে। যেমন : যিনি পরের উপকার করেন, তাঁকে সবাই শ্রদ্ধা করে। কোথাও পথ না পেয়ে তোমার কাছে এসেছি।",
+        "explanation": "",
+        "correct_answer": "C.জটিল"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695711,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695711,
+            "tag_id": 3585,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695710,
+      "value": {
+        "options": {
+          "ক": "ক্রিয়াবর্গ",
+          "খ": "বিশেষ্যবর্গ",
+          "গ": "বিশেষণবর্গ",
+          "ঘ": "ক্রিয়া বিশেষণবর্গ"
+        },
+        "question": "যোজক দ্বারা দুইটি বিশেষ্য যুক্ত হয়ে কোন বর্গ তৈরি করে?",
+        "solution": "",
+        "explanation": "",
+        "correct_answer": "B.বিশেষ্যবর্গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695710,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695710,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695710,
+            "tag_id": 1,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695709,
+      "value": {
+        "options": {
+          "ক": "যদি রোদ ওঠে, তবে রওনা দেবো।",
+          "খ": "বসার সময় নেই, তাই যেতে হচ্ছে।",
+          "গ": "চা না-হয় কফি খান।",
+          "ঘ": "তাকে আসতে বললাম, তবু এলো না।"
+        },
+        "question": "কোন বাক্যটি বিরোধ যোজকের উদাহরণ?",
+        "solution": "বিরোধমূলক যোজক : যে যোজক দ্বারা দুটি বাক্যের সংযোগ ঘটিয়ে দ্বিতীয়টি দ্বারা প্রথমটির সংশোধন বা বিরোধ নির্দেশ করা হয়, তাকে বিরোধমূলক যোজক বলে। যেমন— তাকে আসতে বললাম, তবু এলো না, তোমাকে টাকা দিতে চাইলাম কিন্তু নিলে না।",
+        "explanation": "",
+        "correct_answer": "D.তাকে আসতে বললাম, তবু এলো না।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695709,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695709,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695709,
+            "tag_id": 4,
+            "year": "2024",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695708,
+      "value": {
+        "options": {
+          "ক": "মালা",
+          "খ": "বৃন্দ",
+          "গ": "বর্গ",
+          "ঘ": "আবলি"
+        },
+        "question": "রচনা' শব্দকে বহুবচন করতে কোন লগ্নকটি ব্যবহৃত হয়?",
+        "solution": "‘রচনাবলি’ অর্থ একাধিক রচনা, এখানে 'আবলি' লগ্নক বহুবচনে ব্যবহৃত হয়েছে।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695708,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 233,
+          "name": "Rajshahi Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695708,
+            "question_bank_institution_id": 233
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 46,
+          "full_name": "Rajshahi Board",
+          "short_name": "RB",
+          "slug": "rajshahi-board",
+          "pivot": {
+            "question_bank_id": 695708,
+            "tag_id": 46,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695707,
+      "value": {
+        "options": {
+          "ক": "লগ্নক",
+          "খ": "বলক",
+          "গ": "পূরক",
+          "ঘ": "যোজক"
+        },
+        "question": "পদ, বর্গ বা বাক্যকে যেসব শব্দ যুক্ত করে, সেগুলোকে কী বলে?",
+        "solution": "যেসব শব্দ পদ বা বাক্যকে যুক্ত করে তারা ‘যোজক’। যেমন: এবং, কিন্তু, অথবা ইত্যাদি।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695707,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 232,
+          "name": "Dhaka Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695707,
+            "question_bank_institution_id": 232
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 1,
+          "full_name": "Dhaka Board",
+          "short_name": "DB",
+          "slug": "dhaka-board",
+          "pivot": {
+            "question_bank_id": 695707,
+            "tag_id": 1,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695706,
+      "value": {
+        "options": {
+          "ক": "বিকল্প",
+          "খ": "কারণ",
+          "গ": "সাধারণ",
+          "ঘ": "সাপেক্ষ"
+        },
+        "question": "কোন ধরনের যোজক একে অপরের পরিপূরক হয়ে বাক্যে ব্যবহৃত হয়?",
+        "solution": "সাপেক্ষ যোজক দুটি বাক্যাংশ বা বাক্যকে একে অপরের উপর নির্ভরশীলভাবে যুক্ত করে। যেমন: যত-তত, যেমন-তেমন।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695706,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695706,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695706,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695705,
+      "value": {
+        "options": {
+          "ক": "যোজক",
+          "খ": "ধাতু",
+          "গ": "ক্রিয়া",
+          "ঘ": "অনুসর্গ"
+        },
+        "question": "পদ, বর্গ বা বাক্যকে যেসব শব্দ যুক্ত করে সেগুলোকে কী বলে?",
+        "solution": "যোজক শব্দ বা বাক্যাংশকে যুক্ত করে বাক্যের অংশসমূহে সম্পর্ক স্থাপন করে, যেমন: এবং, অথবা, কিন্তু।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695705,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695705,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695705,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695704,
+      "value": {
+        "options": {
+          "ক": "বিকল্প যোজক",
+          "খ": "কারণ যোজক",
+          "গ": "সাপেক্ষ যোজক",
+          "ঘ": "বিরোধ যোজক"
+        },
+        "question": "কোন ধরনের যোজক একে অন্যের পূরক হয়ে বাক্যে ব্যবহৃত হয়?",
+        "solution": "সাপেক্ষ যোজক এমন যোজক যা দুটি বাক্যাংশ বা বাক্যকে পারস্পরিক নির্ভরশীল করে তোলে, যেমন: 'যত-তত', 'যখন-তখন'। এরা একে অপরকে পূর্ণ করে। এদের একটি অংশ ছাড়া বাক্য অসম্পূর্ণ থাকে।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695704,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3585,
+          "full_name": "Comilla Board",
+          "short_name": "ALDCB",
+          "slug": "comilla-board-1",
+          "pivot": {
+            "question_bank_id": 695704,
+            "tag_id": 3585,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695703,
+      "value": {
+        "options": {
+          "ক": "বিকল্প",
+          "খ": "বিরোধ",
+          "গ": "কারণ",
+          "ঘ": "সাপেক্ষ"
+        },
+        "question": "চা না-হয় কফি খান।' বাক্যটি কোন ধরনের যোজকের উদাহরণ?",
+        "solution": "এখানে দুটি বিকল্প উপস্থাপন করা হয়েছে, তাই এটি বিকল্প যোজকের উদাহরণ।",
+        "explanation": "",
+        "correct_answer": "ক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695703,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 47,
+          "full_name": "Jessore Board",
+          "short_name": "JB",
+          "slug": "jessore-board",
+          "pivot": {
+            "question_bank_id": 695703,
+            "tag_id": 47,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695701,
+      "value": {
+        "options": {
+          "ক": "সাধারণ",
+          "খ": "বিরোধ",
+          "গ": "বিকল্প",
+          "ঘ": "সাপেক্ষ"
+        },
+        "question": "যত পড়ছি, ততই নতুন করে জানছি।'-এ বাক্যে কোন ধরনের যোজক ব্যবহার করা হয়েছে?",
+        "solution": "এখানে ‘যত–তত’ দুটি অংশ একে অপরের ওপর নির্ভরশীল, তাই এটি সাপেক্ষ যোজক।",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T07:00:45.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695701,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 236,
+          "name": "Mymensingh Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695701,
+            "question_bank_institution_id": 236
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3,
+          "full_name": "Mymensingh Board",
+          "short_name": "MB",
+          "slug": "madrasah-board",
+          "pivot": {
+            "question_bank_id": 695701,
+            "tag_id": 3,
+            "year": "2025",
+            "created_at": "2025-10-09T07:00:45.000000Z",
+            "updated_at": "2025-10-09T07:00:45.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718719,
+      "value": {
+        "options": {
+          "ক": "চা না-হয় কফি খান।",
+          "খ": "আজিজ ও সাহেদ এ কাজটি করেছে।",
+          "গ": "তাকে আসতে বললাম, তবু এলো না।",
+          "ঘ": "যদি রোদ ওঠে, তবে রওনা দেব।"
+        },
+        "question": "বিকল্প যোজকের উদাহরণ-",
+        "solution": "ক. চা না-হয় কফি খান।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 718719,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718722,
+      "value": {
+        "options": {
+          "ক": "অনন্বয়ী অব্যয়",
+          "খ": "অনুসর্গ অব্যয়",
+          "গ": "অনুকার অব্যয়",
+          "ঘ": "নিত্য সম্বন্ধীয় অব্যয়"
+        },
+        "question": "'যত গর্জে তত বর্ষে না।'- বাক্যে কোন ধরনের অব্যয় ব্যবহৃত হয়েছে?",
+        "solution": "ঘ. নিত্য সম্বন্ধীয় অব্যয়"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3874,
+          "full_name": "ব. বো.'২০২২",
+          "short_name": "ব. বো.'২০২২",
+          "slug": "b-bo2022",
+          "pivot": {
+            "question_bank_id": 718722,
+            "tag_id": 3874,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718724,
+      "value": {
+        "options": {
+          "ক": "অনুসর্গ অব্যয়",
+          "খ": "অনন্বয়ী অব্যয়",
+          "গ": "বিয়োজক অব্যয়",
+          "ঘ": "বাক্যালংকার"
+        },
+        "question": "'কত না হারানো স্মৃতি জাগে আজও। মনে।'- বাক্যে কোন ধরনের অব্যয়। ব্যবহৃত হয়েছে?",
+        "solution": "ঘ. বাক্যালংকার"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 718724,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718727,
+      "value": {
+        "options": {
+          "ক": "সাধারণ",
+          "খ": "বিরোধ",
+          "গ": "কারণ&nbsp;",
+          "ঘ": "সাপেক্ষ"
+        },
+        "question": "\"তাকে আসতে বললাম, তবু, এল না।\"- এই বাক্যে কোন ধরনের যোজক ব্যবহৃত&nbsp;হয়েছে?",
+        "solution": "খ. বিরোধ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3814,
+          "full_name": "ব. বো.'২০২৪",
+          "short_name": "ব. বো.'২০২৪",
+          "slug": "b-bo2024",
+          "pivot": {
+            "question_bank_id": 718727,
+            "tag_id": 3814,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718731,
+      "value": {
+        "options": {
+          "ক": "লাল বা নীল কলমটি আনো।",
+          "খ": "তাকে আসতে বললাম, তবু এলো না।",
+          "গ": "বসার সময় নেই, তাই যেতে হচ্ছে।",
+          "ঘ": "যত পড়ছি, ততই নতুন করে জানছি।"
+        },
+        "question": "কোনটি কারণ যোজকের উদাহরণ?",
+        "solution": "গ. বসার সময় নেই, তাই যেতে হচ্ছে।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3833,
+          "full_name": "য. বো.'২০২৪",
+          "short_name": "য. বো.'২০২৪",
+          "slug": "z-bo2024",
+          "pivot": {
+            "question_bank_id": 718731,
+            "tag_id": 3833,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718733,
+      "value": {
+        "options": {
+          "ক": "যোজক",
+          "খ": "বিশেষণ",
+          "গ": "ক্রিয়াবিশেষণ",
+          "ঘ": "অনুসর্গ"
+        },
+        "question": "'সুতরাং' শব্দটি-",
+        "solution": "ক. যোজক"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718734,
+      "value": {
+        "options": {
+          "ক": "তিন",
+          "খ": "চার",
+          "গ": "পাঁচ",
+          "ঘ": "ছয়"
+        },
+        "question": "বৈশিষ্ট্য অনুযায়ী যোজক কত প্রকার?",
+        "solution": "গ. পাঁচ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718736,
+      "value": {
+        "options": {
+          "ক": "যদি রোদ ওঠে, তবে রওনা দেব",
+          "খ": "বসার সময় নেই, তাই যেতে হচ্ছে।",
+          "গ": "চা না-হয় কফি খান।",
+          "ঘ": "তাকে আসতে বললাম, তবু এল না।"
+        },
+        "question": "কোন বাক্যটি বিরোধ যোজকের উদাহরণ?",
+        "solution": "ঘ. তাকে আসতে বললাম, তবু এল না।"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 718736,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718738,
+      "value": {
+        "options": {
+          "ক": "বিরোধ",
+          "খ": "সাপেক্ষ",
+          "গ": "কারণ",
+          "ঘ": "বিকল্প"
+        },
+        "question": "'যতই পড়ছি, ততই নতুন করে জানছি'- এই বাক্যে কোন যোজকের উপস্থিতি রয়েছে?",
+        "solution": "খ. সাপেক্ষ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3850,
+          "full_name": "রা. বো.'২০২৩",
+          "short_name": "রা. বো.'২০২৩",
+          "slug": "ra-bo2023",
+          "pivot": {
+            "question_bank_id": 718738,
+            "tag_id": 3850,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13177&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13177&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13177&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 22,
+  "total": 22
+}

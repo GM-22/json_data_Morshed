@@ -1,0 +1,851 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 539343,
+      "value": {
+        "options": [],
+        "question": "কমপক্ষে কয়টি উপাত্ত দেওয়া থাকলে সমদ্বিবাহু ত্রিভুজ আঁকা যায়?",
+        "solution": "সমদ্বিবাহু ত্রিভুজের দুই বাহু সমান, তাই সমান বাহুর দৈর্ঘ্য এবং ত্রিভুজের তৃতীয় বাহুর দৈর্ঘ্য জানা থাকলে ত্রিভুজ অঙ্কন করা সম্ভব। অর্থাৎ, সমান বাহুর দৈর্ঘ্য এবং অপর বাহুটির দৈর্ঘ্য— এই দুইটি উপাত্ত জানা থাকলে সমদ্বিবাহু ত্রিভুজ অঙ্কন সম্ভব। তাই, কমপক্ষে দুইটি উপাত্ত দেওয়া থাকলে সমদ্বিবাহু ত্রিভুজ আঁকা যায়।",
+        "explanation": "উত্তর: [math]2[/math] টি।  \nব্যাখ্যা: সমদ্বিবাহু ত্রিভুজে দুইটি বাহু সমান হওয়ায় স্বাধীন ডিগ্রি কমে যায়, তাই দুটি উপাত্তই ত্রিভুজ নির্ধারণে যথেষ্ট; উদাহরণস্বরূপ, ভিত্তির দৈর্ঘ্য এবং সমকক্ষ বাহুর দৈর্ঘ্য দিলে প্রতিটি ভিত্তি বিন্দু থেকে সেই দৈর্ঘ্যের বৃত্ত অঙ্কলে তাদের ছেদে শীর্ষ বিন্দু একধরনেরভাবে নির্ধারিত হয় (আর অন্য সম্ভাব্য ছেদ আয়নাসমত সমকক্ষ), ফলে একক সমদ্বিবাহু ত্রিভুজ পাওয়া যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539343,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539366,
+      "value": {
+        "options": [],
+        "question": "৩ সে.মি., ৪ সে.মি. ও ৫ সে.মি. বাহুবিশিষ্ট একটি ত্রিভুজ অঙ্কন করলে ত্রিভুজটি কি ধরনের হবে?",
+        "solution": "সমকোণী ত্রিভুজের ক্ষেত্রে, [math](\\text{ভূমি})^2 + (\\text{লম্ব})^2 = (\\text{অতিভুজ})^2[/math]\u003Cbr\u003E [পিথাগোরাসের উপপাদ্য অনুসারে]ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য ৩ সে.মি., ৪ সে.মি. ও ৫ সে.মি. হলে,[math]3^2 + 4^2 = 9 + 16 = 25 = 5^2[/math]\u003Cbr\u003Eঅর্থাৎ, ৫ সে.মি. দৈর্ঘ্যের বাহুটি অতিভুজ এবং বাকি দুইটি বাহু হবে ভূমি ও লম্ব।তাই ত্রিভুজটি সমকোণী ত্রিভুজ হবে।",
+        "explanation": "ত্রিভুজটি সমকোণী হবে, কারণ [math]3^2+4^2=9+16=25=5^2[/math] এবং পাইথাগোরাসের উপপাদ্য অনুযায়ী বড় বাহুটির বর্গফল সমীকৃত হলে তৎবিপরীত কোণ সমকোণ।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539366,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539364,
+      "value": {
+        "options": [],
+        "question": "একটি বাহুর দৈর্ঘ্য দেওয়া থাকলে কি ধরনের ত্রিভুজ অঙ্কন করা সম্ভব?",
+        "solution": "তিনটি বাহুর দৈর্ঘ্য দেওয়া থাকলে ত্রিভুজ অঙ্কন করা সম্ভব। বাহুগুলো যদি অসমান হয়, ত্রিভুজটি হবে বিষমবাহু; দুইটি সমান হলে, সমদ্বিবাহু; আর একটি বাহু দেওয়া থাকলে যদি বলা হয় তিনটি বাহু সমান, তবে তা হবে সমবাহু। সুতরাং একটি বাহুর দৈর্ঘ্য দেওয়া থাকলে সমবাহু ত্রিভুজ অঙ্কন করা সম্ভব।",
+        "explanation": "একটি বাহুর দৈর্ঘ্য মাত্র দেওয়া থাকলে অনির্দিষ্টভাবে অসীম সংখ্যক ত্রিভুজ অঙ্কন করা যায়, কারণ সেই বাহুটিকে ভিত্তি ধরে তৃতীয় শীর্ষস্থানিক বিন্দুটি সমতলেই যেকোনো স্থানে নিয়ে গেলে ভিন্ন ভিন্ন ত্রিভুজ পাব। তৃতীয় বিন্দুর অবস্থার উপর নির্ভর করে ত্রিভুজটি তীক্ষ্ণকোণী, সামকোণী বা মন্দকোণী হতে পারে; একটি নির্দিষ্ট ত্রিভুজ পেতে আরও একটি বাহু বা একটি কোণ নির্দিষ্ট করতে হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539364,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539360,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজ অঙ্কন করতে কমপক্ষে কয়টি উপাত্তের প্রয়োজন?",
+        "solution": "যেহেতু সমকোণী ত্রিভুজের একটি কোণ জানা, সেহেতু দুইটি বাহু অথবা একটি কোণ ও একটি বাহু জানলেই তা আঁকা সম্ভব। অতএব, একটি সমকোণী ত্রিভুজ আঁকতে কমপক্ষে দুইটি উপাত্তের প্রয়োজন।",
+        "explanation": "উত্তর: 2টি\n\nব্যাখ্যা: একটি সমকোণী ত্রিভুজে একটি কোণ ইতিমধ্যে [math]90^\\circ[/math] নির্দিষ্ট হওয়ায় আরও কেবল দুইটি স্বাধীন উপাত্ত দিলে ত্রিভুজ সম্পূর্ণ নির্ধারিত হয়। উদাহরণস্বরূপ—দুইটি বাহু বা একটি বাহু এবং একটি তীক্ষ্ণ কোণ দিলে ত্রিভুজ অঙ্কন করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539360,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539358,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজ অঙ্কনে অতিভুজ ১৩ সে.মি. ও ভূমি ৫ সে.মি. হলে, লম্ব কত সে.মি. হতে হবে?",
+        "solution": "সমকোণী ত্রিভুজের ক্ষেত্রে পিথাগোরাস উপপাদ্য অনুযায়ী,[math](\\text{ভূমি})^2 + (\\text{লম্ব})^2 = (\\text{অতিভুজ})^2[/math]\u003Cbr\u003Eঅর্থাৎ, [math]5^2 + (\\text{লম্ব})^2 = 13^2[/math]\u003Cbr\u003E [math]25 + (\\text{লম্ব})^2 = 169[/math]\u003Cbr\u003E [math](\\text{লম্ব})^2 = 169 - 25 = 144[/math]\u003Cbr\u003E [math]\\text{লম্ব} = \\sqrt{144} = 12[/math]\u003Cbr\u003Eসুতরাং, লম্ব ১২ সে.মি. হলে ত্রিভুজটি সঠিকভাবে আঁকা সম্ভব।",
+        "explanation": "ত্রিভুজটি সমকোণী হলে পাইথাগোর theorem প্রযোজ্য: [math]l^2 + 5^2 = 13^2[/math] (এখানে [math]l[/math] হচ্ছে লম্ব)। তাই [math]l^2 = 169 - 25 = 144[/math] এবং [math]l = 12[/math] সে.মি.",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539358,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539356,
+      "value": {
+        "options": [],
+        "question": "একটি সমকোণী ত্রিভুজে লম্ব ও ভূমির দৈর্ঘ্য যথাক্রমে ৮ সে.মি. ও ১৫ সে.মি. হলে, অতিভুজ কত সে.মি. হবে?",
+        "solution": "সমকোণী ত্রিভুজের ক্ষেত্রে, [math](\\text{অতিভুজ})^2 = (\\text{লম্ব})^2 + (\\text{ভূমি})^2[/math]\u003Cbr\u003Eঅর্থাৎ, [math](\\text{অতিভুজ})^2 = 8^2 + 15^2 = 64 + 225 = 289[/math]\u003Cbr\u003Eঅতিভুজ [math]= \\sqrt{289} = 17[/math]\u003Cbr\u003Eঅতএব, অতিভুজের দৈর্ঘ্য হবে ১৭ সে.মি.",
+        "explanation": "সমকোণী ত্রিভুজে পিথাগোরাসের সূত্র অনুযায়ী অতিভুজের বর্গ দুই লম্ব ও ভূমির বর্গের যোগফল হয়: [math]c^2=a^2+b^2[/math]. এখানে [math]a=8\\,\\text{সে.মি.}[/math], [math]b=15\\,\\text{সে.মি.}[/math] হলে [math]c=\\sqrt{8^2+15^2}=\\sqrt{289}=17\\,\\text{সে.মি.}[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539356,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539354,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজে সমান বাহুর বিপরীত কোণদ্বয় প্রত্যেকটি ৭০° হলে, অসমান বাহুর বিপরীত কোণ কত হবে?",
+        "solution": "সমদ্বিবাহু ত্রিভুজে দুইটি সমান কোণ ৭০° করে হলে, অসমান বাহুর বিপরীত কোণ নির্ণয়ের জন্য ত্রিভুজের কোণের যোগফল [math]180^\\circ[/math]\u003Cbr\u003E হবে।অর্থাৎ, [math]70^\\circ + 70^\\circ + x^\\circ = 180^\\circ[/math]\u003Cbr\u003E [math]x = 180 - 140 = 40^\\circ[/math]\u003Cbr\u003Eসুতরাং, অসমান বাহুর বিপরীত কোণ হবে [math]40^\\circ[/math]\u003Cbr\u003E",
+        "explanation": "ব্যাখ্যা: সমদ্বিবাহু ত্রিভুজে দুইটি সমান কোণ দেওয়া আছে, তাই তৃতীয় কোণকে বের করতে কোণের যোগফল [math]180°[/math] থেকে বাকী দুটি বিয়োগ করলে পাওয়া যাবে: [math]180°-70°-70°=40°[/math]. তাই অসমান বাহুর বিপরীত কোণটি [math]40°[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539354,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539349,
+      "value": {
+        "options": [],
+        "question": "একটি সমদ্বিবাহু ত্রিভুজের অসমান বাহুর বিপরীত কোণ ৫০° । এর সমান বাহুর বিপরীত কোণদ্বয় কত হলে ত্রিভুজটি আঁকা সম্ভব?",
+        "solution": "আমরা জানি, সমদ্বিবাহু ত্রিভুজের সমান সমান বাহুর বিপরীত কোণগুলো পরস্পর সমান।ধরি, সমান বাহুর বিপরীত কোণদ্বয়ের প্রত্যেকটি [math]x^\\circ[/math]\u003Cbr\u003E।শর্ত অনুযায়ী, [math]x^\\circ + x^\\circ + 50^\\circ = 180^\\circ[/math]\u003Cbr\u003Eঅর্থাৎ, [math]2x = 180 - 50 = 130[/math]\u003Cbr\u003Eসুতরাং, [math]x = \\frac{130}{2} = 65^\\circ[/math]\u003Cbr\u003Eসমান সমান বাহুর বিপরীত কোণদ্বয়ের প্রত্যেকটি [math]65^\\circ[/math]\u003Cbr\u003E হলে ত্রিভুজটি আঁকা সম্ভব।",
+        "explanation": "সমদ্বিবাহু ত্রিভুজে সমান বাহুর বিপরীত কোণগুলি সমান এবং তিন কোণের যোগফল [math]180^\\circ[/math]. অতএব যদি অসমান বাহুর বিপরীত কোণ [math]50^\\circ[/math] হয়, তাহলে [math]50^\\circ+2x=180^\\circ\\Rightarrow x=65^\\circ[/math], তাই প্রতিটি সমান কোণ [math]65^\\circ[/math].",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539349,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539346,
+      "value": {
+        "options": [],
+        "question": "একটি সমবাহু ত্রিভুজের একটি কোণ ৬০° হলে অপর দুইটি কোণের পরিমাপ কত হবে?",
+        "solution": "আমরা জানি, সমবাহু ত্রিভুজে তিনটি কোণ সমান এবং ত্রিভুজের কোণগুলোর যোগফল [math]180^\\circ[/math]\u003Cbr\u003E।ধরি, প্রত্যেক কোণের পরিমাপ [math]x^\\circ[/math]\u003Cbr\u003Eতাহলে, [math]x + x + x = 180[/math]\u003Cbr\u003Eঅর্থাৎ, [math]3x = 180 \\Rightarrow x = \\frac{180}{3} = 60^\\circ[/math]\u003Cbr\u003Eঅতএব, প্রত্যেক কোণ [math]60^\\circ[/math]\u003Cbr\u003E হওয়ায় অপর দুইটি কোণের পরিমাপও [math]60^\\circ[/math]\u003Cbr\u003E করে হবে।",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজে সব তিনটি কোণ সমান এবং ত্রিভুজের মোট কোণের যোগফল [math]180^\\circ[/math], তাই প্রতিটি কোণ [math]180^\\circ/3 = 60^\\circ[/math]. অতএব অপর দুইটি কোণও প্রতিটিই [math]60^\\circ[/math] হবে।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539346,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539326,
+      "value": {
+        "options": [],
+        "question": "সমবাহু ত্রিভুজ অঙ্কনের জন্য দুই ধরনের উপাত্ত লেখ।",
+        "solution": "সমবাহু ত্রিভুজ অঙ্কনের জন্য দুই ধরনের উপাত্ত নিম্নরূপ :\n\n১. একটি বাহুর দৈর্ঘ্য দেওয়া থাকলে সমবাহু ত্রিভুজ আঁকা যায়।\n\n২. পরিসীমা দেওয়া থাকলে সমবাহু ত্রিভুজ আঁকা যায়।",
+        "explanation": "ব্যাখ্যা: সমবাহু ত্রিভুজ অঙ্কনের জন্য সাধারণত দু'ধরনের উপাত্ত দেওয়া হয়—\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E একটি বাহুর দৈর্ঘ্য (কারণ তিন বাহুই সমান, এক বাহু জানলে বাকি দুইটি কল্পনা করে অঙ্কন করা যায়),\n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E উচ্চতা (অথবা কেন্দ্র ও ব্যাসার্ধ), কারণ উচ্চতা ও বাহুর মধ্যে সম্পর্ক [math]h=\\frac{\\sqrt{3}}{2}s[/math] হওয়ায় উচ্চতা থেকে বাহুর দৈর্ঘ্য নির্ণয় করে ত্রিভুজ অঙ্কন করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539326,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539341,
+      "value": {
+        "options": [],
+        "question": "কমপক্ষে কয়টি ও কি কি উপাত্ত দেওয়া থাকলে একটি ত্রিভুজ অঙ্কন করা সম্ভব?",
+        "solution": "কমপক্ষে তিনটি উপাত্ত দেওয়া থাকলে একটি ত্রিভুজ আঁকা সম্ভব। তা হলো :\n\n১. তিনটি বাহু\n\n২. দুইটি বাহু ও তাদের অন্তর্ভুক্ত কোণ\n\n৩. দুইটি কোণ ও তাদের সংলগ্ন বাহু\n\n৪. দুইটি কোণ ও একটির বিপরীত বাহু\n\n৫. দুইটি বাহু ও তাদের একটির বিপরীত কোণ\n\n৬. সমকোণী ত্রিভুজের অতিভুজ ও অপর একটি বাহু\n\nঅর্থাৎ সর্বক্ষেত্রেই তিনটি উপাত্ত প্রয়োজন।",
+        "explanation": "কমপক্ষে তিনটি উপাত্ত দিলে একটি ত্রিভুজ অঙ্কন করা সম্ভব। অনুমোদিত সমন্বয়গুলো: তিনটি বাহু (SSS), দুই বাহু ও অন্তর্ভুক্ত কোণ (SAS), দুই কোণ ও এক বাহু বা এক বাহু ও দুই কোণ (ASA বা AAS) — বিশেষ ক্ষেত্রে সমকোণী ত্রিভুজের জন্য হাইপোথেনিউজ ও একটি পাদ (RHS) যথেষ্ট। কারণ তিনটি স্বাধীন মাপ দিলে ত্রিভুজের যতটুকু মাত্রা দরকার তা নির্ধারিত হয়ে যায় (দুই কোণ দিলে তৃতীয় কোণই নির্ণীত হয়)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539341,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539338,
+      "value": {
+        "options": [],
+        "question": "কী কী উপাত্ত জানা থাকলে সমকোণী ত্রিভুজ আঁকা যায়?",
+        "solution": "নিম্নবর্ণিত উপাত্ত জানা থাকলে সমকোণী ত্রিভুজ আঁকা যায় :\n\n১. সমকোণ সংলগ্ন দুটি বাহুর দৈর্ঘ্য দেওয়া থাকলে সমকোণী ত্রিভুজ আঁকা যায়।\n\n২. অতিভুজ ও অপর একটি বাহু দেওয়া থাকলে সমকোণী ত্রিভুজ আঁকা যায়।",
+        "explanation": "সমকোণী ত্রিভুজ আঁকার জন্য সমকোণটি (৯০°) ধরে সাধারণত আরও দুটি স্বাধীন উপাত্ত লাগবে: দুইটি বাহুর দৈর্ঘ্য বা একটি বাহু এবং একটি তীক্ষ্ণ কোণ। উদাহরণস্বরূপ, দুটি বাহুর দৈর্ঘ্য জানা থাকলে ত্রিভুজ নির্ধারিত হয়; হাইপোথেনিউজ ও একটি লেগ জানা থাকলেই পিথাগোরাস সূত্র [math]a^2+b^2=c^2[/math] দ্বারা তৃতীয় বাহু পাওয়া যায়, আর একটি বাহু ও একটি তীক্ষ্ণ কোণ থাকলে ত্রিকোণমিতিক অনুপাত ব্যবহার করে বাকিগুলো নির্ণয় করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539338,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539336,
+      "value": {
+        "options": [],
+        "question": "ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য দেওয়া থাকলে কয়টি ত্রিভুজ আঁকা সম্ভব?",
+        "solution": "ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য নির্দিষ্ট থাকলে তাদের বিপরীত কোণও নির্দিষ্ট হয়ে যায়। সুতরাং, নির্দিষ্ট তিন বাহু থাকলে একটি মাত্র ত্রিভুজ আঁকা সম্ভব।",
+        "explanation": "ত্রিভুজের তিনটি বাহু কেবল তখনই আঁকা যায় যখন কোনো দুই বাহুর যোগ তৃতীয় বাহুর থেকে বড়, অর্থাৎ [math]a+b\u003Ec, \\; b+c\u003Ea, \\; c+a\u003Eb[/math]. যদি সমতা থাকে (যেমন [math]a+b=c[/math]) তাহলে তা একরৈখিক (ডিজেনারেট) এবং বাস্তব ত্রিভুজ নয়। এই কঠোর অশিষ্টতাগুলো পূরণ হলে SSS কনগ্রুয়েন্স অনুযায়ী সেই বাহুদের দিয়ে কেবল একটি অনন্য ত্রিভুজ নির্মাণ করা যায়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539336,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539334,
+      "value": {
+        "options": [],
+        "question": "ত্রিভুজের সাধারণ ধর্ম বা বৈশিষ্ট্য বলতে কী বোঝ?",
+        "solution": "প্রত্যেক ত্রিভুজে তিনটি বাহু ও তিনটি কোণসহ মোট ছয়টি উপাদান থাকে। এই উপাদানগুলোর মধ্যে সম্পর্ক বা নিয়মগুলোই ত্রিভুজের সাধারণ ধর্ম বা বৈশিষ্ট্য। যেমন: একটি ত্রিভুজের সব অভ্যন্তরীণ কোণের সমষ্টি [math]180^\\circ[/math]।",
+        "explanation": "ত্রিভাগ্যের সাধারণ ধর্ম বলতে যেগুলো বোঝায়—ত্রিভুজে তিনটি বাহু, তিনটি কোণ এবং তিনটি শিখর থাকে; অভ্যন্তরীণ কোণগুলোর যোগফল সবসময় [math]180^\\circ[/math]। এছাড়া যেকোনো দুই বাহুর সমষ্টি তৃতীয় বাহু থেকে বেশি হবে (ত্রিভুজ অসমতা), এবং ত্রিভুজকে বাহু/কোণের ভিত্তিতে ভিন্নভাবে শ্রেণীবদ্ধ করা যায় (সমদ্বিবাহু, সমবাহু, কৌণিক ইত্যাদি)।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539334,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539331,
+      "value": {
+        "options": [],
+        "question": "দুইটি ত্রিভুজ সর্বসম হওয়ার তিনটি শর্ত লেখ।",
+        "solution": "১. দুইটি ত্রিভুজের তিনটি বাহু যদি পরস্পর সমান হয়, তবে তারা সর্বসম হবে।\n\n২. দুই বাহু ও অন্তর্ভুক্ত কোণ যদি সমান হয়, তবে তারা সর্বসম হবে।\n\n৩. দুইটি কোণ ও সংলগ্ন বাহু যদি সমান হয়, তবে তারা সর্বসম হবে।",
+        "explanation": "\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তিনটি পাশ সমান (SSS)।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দুটো পাশ এবং তাদের অন্তর্ভুক্ত কোণ সমান (SAS)।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eগ\u003C/span\u003E দুটো কোণ এবং তাদের মধ্যে থাকা পাশ সমান (ASA)।  \n\nএগুলো প্রত্যেকেই ত্রিভুজের পারমাণবিক মাত্রা নির্ধারণ করে; অর্থাৎ তিনটি পাশ বা দুই পাশ ও অন্তর্ভুক্ত কোণ বা দুই কোণ ও সেই অন্তর্ভুক্ত পাশ নিশ্চিত করে যে দুটো ত্রিভুজ একে অপরের সাথে অভিসারিকভাবে মেলে, তাই তারা সর্বসম।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539331,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539328,
+      "value": {
+        "options": [],
+        "question": "দুইটি ত্রিভুজ সর্বসম হওয়ার বাহু সম্পর্কিত দুইটি শর্ত লেখ।",
+        "solution": "১. যদি একটি ত্রিভুজের তিনটি বাহু অপর একটি ত্রিভুজের তিনটি বাহুর সমান হয়, তবে তারা সর্বসম।\n\n২. দুইটি সমকোণী ত্রিভুজের অতিভুজ সমান এবং একটি বাহু সমান হলে, ত্রিভুজদ্বয় সর্বসম হবে।",
+        "explanation": "ব্যাখ্যা:\n\u003Cspan class=\"cq-explanation-label\"\u003Eক\u003C/span\u003E তিনটি সংশ্লিষ্ট বাহু সমান (SSS) — কারণ তিন বাহু সমান হলে ত্রিভুজের আকার একরকমভাবে নির্ধারিত হয় এবং একটির উপর স্থানান্তর/ঘূর্ণনের মাধ্যমে আরেকটি মেলে।  \n\u003Cspan class=\"cq-explanation-label\"\u003Eখ\u003C/span\u003E দুইটি সংশ্লিষ্ট বাহু ও তাদের অন্তর্ভুক্ত কোণ সমান (SAS) — কারণ দুই বাহু ও তাদের মধ্যবর্তী কোণ ত্রিভুজের আকৃতি এককভাবে স্থির করে, ফলে তারা সর্বসম হয়।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539328,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 539327,
+      "value": {
+        "options": [],
+        "question": "সমকোণী ত্রিভুজ অঙ্কনে সমকোণ ব্যতীত বাকি কোণ দুইটি কি ধরনের?",
+        "solution": "ত্রিভুজের তিন কোণের সমষ্টি [math]180^\\circ[/math]\u003Cbr\u003E। একটি কোণ যদি [math]90^\\circ[/math]\u003Cbr\u003E হয়, তাহলে বাকি দুই কোণের যোগফল [math]90^\\circ[/math]\u003Cbr\u003E হবে। তাই বাকি দুইটি কোণ [math]90^\\circ[/math]\u003Cbr\u003E এর কম হবে, অর্থাৎ তারা সূক্ষ্মকোণ হবে।",
+        "explanation": "সমকোণী ত্রিভুজে তিনটি কোণের যোগফল [math]180^\\circ[/math] এবং একটি কোণই [math]90^\\circ[/math], তাই বাকি দুই কোণের যোগফল [math]90^\\circ[/math]। যেহেতু প্রত্যেকটি কোণ [math]90^\\circ[/math]−এর থেকে ছোট, সেগুলি ধনিষ্ঠ (acute) এবং পরস্পর পরিপূরক।",
+        "correct_answer": ""
+      },
+      "question_type_id": 1,
+      "book_id": 201,
+      "book_grade_id": 5,
+      "content_chunk_id": 12937,
+      "created_at": "2025-08-26T07:41:16.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 1,
+        "name": "সংক্ষিপ্ত প্রশ্ন",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 201,
+        "title": "গণিত",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3173,
+          "full_name": "বোর্ড বই",
+          "short_name": "বোর্ড বই",
+          "slug": "bord-bi",
+          "pivot": {
+            "question_bank_id": 539327,
+            "tag_id": 3173,
+            "year": null,
+            "created_at": "2025-08-26T07:41:16.000000Z",
+            "updated_at": "2025-08-26T07:41:16.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=12937&grade=5&lesson=12938&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=12937&grade=5&lesson=12938&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=12937&grade=5&lesson=12938&question_paper_id=47719&subject=201&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 17,
+  "total": 17
+}

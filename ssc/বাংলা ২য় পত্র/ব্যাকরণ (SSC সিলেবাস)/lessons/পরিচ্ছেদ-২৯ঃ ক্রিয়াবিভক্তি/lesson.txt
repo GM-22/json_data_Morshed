@@ -1,0 +1,696 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 695948,
+      "value": {
+        "options": {
+          "ক": "-আনো",
+          "খ": "-ইয়ে",
+          "গ": "-আতে",
+          "ঘ": "-আলে"
+        },
+        "question": "নিচের কোনটি প্রযোজক ক্রিয়ার ভাবী অসমাপিকা ক্রিয়াবিভক্তি?",
+        "solution": "‘-আতে’ বিভক্তি দ্বারা ভবিষ্যৎ অসমাপ্ত কোনো কাজ বোঝানো হয় — এটি প্রযোজক ক্রিয়ার ভাবী অসমাপিকা রূপ।",
+        "explanation": "",
+        "correct_answer": "গ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:28:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 6,
+          "year": "2025",
+          "pivot": {
+            "question_bank_id": 695948,
+            "year_id": 6
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 234,
+          "name": "Sylhet Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695948,
+            "question_bank_institution_id": 234
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 4,
+          "full_name": "Sylhet Board",
+          "short_name": "SB",
+          "slug": "sylhet-board",
+          "pivot": {
+            "question_bank_id": 695948,
+            "tag_id": 4,
+            "year": "2025",
+            "created_at": "2025-10-09T08:28:02.000000Z",
+            "updated_at": "2025-10-09T08:28:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695949,
+      "value": {
+        "options": {
+          "ক": "- আ ও (করা ও)",
+          "খ": "- আস (কয়াস)",
+          "গ": "- আয় (করায়)",
+          "ঘ": "- আই (করাই)"
+        },
+        "question": "প্রযোজক ক্রিয়ার সাধারণ বর্তমান কালে বক্তা পক্ষের ক্রিয়াবিভক্তি কোনটি?",
+        "solution": "ক্রিয়ামূলের সঙ্গে যেসব লগ্নক যুক্ত হয়ে ক্রিয়ার কাল ও পক্ষ নির্দেশিত হয়, সেগুলোকে ক্রিয়া বিভক্তি বলে। অধিকাংশ বাংলা ক্রিয়ার দুটি রূপ আছে: সাধারণ রূপ ও প্রযোজক রূপ। উভয় রূপের সঙ্গে যুক্ত ক্রিয়াবিভক্তি রূপ আলাদা।",
+        "explanation": "",
+        "correct_answer": "D.- আই (করাই)"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:28:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 5,
+          "year": "2024",
+          "pivot": {
+            "question_bank_id": 695949,
+            "year_id": 5
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 235,
+          "name": "Chittagong Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695949,
+            "question_bank_institution_id": 235
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3626,
+          "full_name": "Chittagong Board",
+          "short_name": "ChB",
+          "slug": "chittagong-board-1",
+          "pivot": {
+            "question_bank_id": 695949,
+            "tag_id": 3626,
+            "year": "2024",
+            "created_at": "2025-10-09T08:28:02.000000Z",
+            "updated_at": "2025-10-09T08:28:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 695950,
+      "value": {
+        "options": {
+          "ক": "মিশ্র ক্রিয়া",
+          "খ": "যৌগিক ক্রিয়া",
+          "গ": "সকর্মক ক্রিয়া",
+          "ঘ": "প্রযোজক ক্রিয়া"
+        },
+        "question": "‘সাপুড়ে সাপ খেলায়’-কোন ক্রিয়াপদের উদাহরণ?",
+        "solution": "যে ক্রিয়া একজনের প্রযোজনা বা চালনায় অন্য\n\nকর্তৃক অনুষ্ঠিত হয় তাকে প্রযোজক বা ণিজন্ত ক্রিয়া বলে।\n\nযেমন: সাপুড়ে সাপ খোলায়",
+        "explanation": "",
+        "correct_answer": "ঘ"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-10-09T08:28:02.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [
+        {
+          "id": 1,
+          "year": "2020",
+          "pivot": {
+            "question_bank_id": 695950,
+            "year_id": 1
+          }
+        }
+      ],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [
+        {
+          "id": 238,
+          "name": "Barisal Board",
+          "type": "board",
+          "pivot": {
+            "question_bank_id": 695950,
+            "question_bank_institution_id": 238
+          }
+        }
+      ],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 7,
+          "full_name": "Barisal Board",
+          "short_name": "BB",
+          "slug": "barisal-board",
+          "pivot": {
+            "question_bank_id": 695950,
+            "tag_id": 7,
+            "year": "2020",
+            "created_at": "2025-10-09T08:28:02.000000Z",
+            "updated_at": "2025-10-09T08:28:02.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718644,
+      "value": {
+        "options": {
+          "ক": "২টি",
+          "খ": "৩টি",
+          "গ": "৪টি",
+          "ঘ": "৫টি"
+        },
+        "question": "ধাতুর 'গণ' নির্ণয় করতে কয়টি বিষয়ের প্রতি লক্ষ রাখতে হয়?",
+        "solution": "ক. ২টি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3784,
+          "full_name": "রা. বো.'২০২০",
+          "short_name": "রা. বো.'২০২০",
+          "slug": "ra-bo2020",
+          "pivot": {
+            "question_bank_id": 718644,
+            "tag_id": 3784,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718647,
+      "value": {
+        "options": {
+          "ক": "যতি",
+          "খ": "ধাতু",
+          "গ": "উক্তি",
+          "ঘ": "প্রকৃতি"
+        },
+        "question": "ক্রিয়াপদের মূল অংশকে বলা হয়-",
+        "solution": "খ. ধাতু"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3825,
+          "full_name": "য. বো.'২০১৯",
+          "short_name": "য. বো.'২০১৯",
+          "slug": "z-bo2019",
+          "pivot": {
+            "question_bank_id": 718647,
+            "tag_id": 3825,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718649,
+      "value": {
+        "options": {
+          "ক": "মৌলিক ধাতু ও সিদ্ধ ধাতু",
+          "খ": "ক্রিয়ামূল ও ক্রিয়াবিভক্তি",
+          "গ": "গম্ ও গঠ ধাতু",
+          "ঘ": "স্বয়ংসিদ্ধ ও মৌলিক ধাতু"
+        },
+        "question": "ক্রিয়াপদকে বিশ্লেষণ করলে দুটি কী কী&nbsp;অংশ পাওয়া যায়?",
+        "solution": "খ. ক্রিয়ামূল ও ক্রিয়াবিভক্তি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718650,
+      "value": {
+        "options": {
+          "ক": "পড়",
+          "খ": "দেখা",
+          "গ": "কঘুমা",
+          "ঘ": "হারা"
+        },
+        "question": "নিচের কোনটি মৌলিক ধাতু?&nbsp;",
+        "solution": "ক. পড়"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3828,
+          "full_name": "ঢা. বো.'২০২০",
+          "short_name": "ঢা. বো.'২০২০",
+          "slug": "dha-bo2020",
+          "pivot": {
+            "question_bank_id": 718650,
+            "tag_id": 3828,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718652,
+      "value": {
+        "options": {
+          "ক": "যা",
+          "খ": "থাক্",
+          "গ": "শিখ",
+          "ঘ": "ধর্&nbsp;"
+        },
+        "question": "অসম্পূর্ণ ধাতু কোনটি?",
+        "solution": "খ. থাক্"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3845,
+          "full_name": "সি. বো.'২০২০",
+          "short_name": "সি. বো.'২০২০",
+          "slug": "si-bo2020",
+          "pivot": {
+            "question_bank_id": 718652,
+            "tag_id": 3845,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718654,
+      "value": {
+        "options": {
+          "ক": "দুইটি",
+          "খ": "তিনটি",
+          "গ": "চারটি",
+          "ঘ": "পাঁচটি"
+        },
+        "question": "ক্রিয়াপদকে বিশ্লেষণ করলে কয়টি অংশ পাওয়া যায়?",
+        "solution": "ক. দুইটি"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3827,
+          "full_name": "দি. বো.'২০১৭",
+          "short_name": "দি. বো.'২০১৭",
+          "slug": "di-bo2017",
+          "pivot": {
+            "question_bank_id": 718654,
+            "tag_id": 3827,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718657,
+      "value": {
+        "options": {
+          "ক": "থাক্",
+          "খ": "রাখ",
+          "গ": "আহ্",
+          "ঘ": "ধর্"
+        },
+        "question": "কোন ধাতুটির ক্রিয়াপদ বাক্যে উহ্য বা অনুক্ত থাকতে পারে?",
+        "solution": "গ. আহ্"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3857,
+          "full_name": "রা. বো.'২০২২",
+          "short_name": "রা. বো.'২০২২",
+          "slug": "ra-bo2022",
+          "pivot": {
+            "question_bank_id": 718657,
+            "tag_id": 3857,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718660,
+      "value": {
+        "options": {
+          "ক": "১০",
+          "খ": "১৫",
+          "গ": "২০",
+          "ঘ": "২৫"
+        },
+        "question": "বাংলা ভাষায় সমস্ত ধাতুকে কয়টি গণে ভাগ করা হয়েছে?",
+        "solution": "গ. ২০"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3799,
+          "full_name": "য. বো.'২০২০",
+          "short_name": "য. বো.'২০২০",
+          "slug": "z-bo2020",
+          "pivot": {
+            "question_bank_id": 718660,
+            "tag_id": 3799,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 718662,
+      "value": {
+        "options": {
+          "ক": "পড়এ",
+          "খ": "এ",
+          "গ": "বে",
+          "ঘ": "বই"
+        },
+        "question": "রীতা বই পড়বে। এখানে ক্রিয়া বিভক্তি কোনটি?",
+        "solution": "গ. বে"
+      },
+      "question_type_id": 2,
+      "book_id": 312,
+      "book_grade_id": 5,
+      "content_chunk_id": 13153,
+      "created_at": "2025-11-11T12:36:36.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 312,
+        "title": "বাংলা ২য় পত্র",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 718662,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-11-11T12:36:36.000000Z",
+            "updated_at": "2025-11-11T12:36:36.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13182&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13182&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=13153&grade=5&lesson=13182&question_paper_id=47719&subject=312&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 12,
+  "total": 12
+}

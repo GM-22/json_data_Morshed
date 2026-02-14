@@ -1,0 +1,1481 @@
+{
+  "current_page": 1,
+  "data": [
+    {
+      "id": 710584,
+      "value": {
+        "answer": "ঘ. কারবারি বাট্টা",
+        "options": {
+          "ক": "নগদ বাট্টা",
+          "খ": "প্রদত্ত বাট্টা",
+          "গ": "প্রাপ্ত বাট্টা",
+          "ঘ": "কারবারি বাট্টা"
+        },
+        "question": "বিক্রয় বৃদ্ধি করার জন্য কোন ধরনের বাট্টা বিবেচনা করা হয়?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 710584,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710648,
+      "value": {
+        "answer": "দেনা-পাওনা নিষ্পত্তির সময় যে বাট্টা হিসাবভুক্ত করা হয় তাকে নগদ বাট্টা বলে। ক্রেতা-বিক্রেতার মাঝে দেনা-পাওনার দ্রুত নিষ্পত্তির জন্য বিক্রেতা ক্রেতাকে যে টাকা ছাড় দেয় তাই নগদ বাট্টা। এই বাট্টা বিক্রেতার জন্য প্রদত্ত বাট্টা। আর ক্রেতার জন্য প্রাপ্ত বাট্টা। উভয় পক্ষ তাদের হিসাবের বইতে এই বাট্টা লিপিবদ্ধ করে।",
+        "options": [],
+        "question": "নগদ বাট্টা বলতে কী বোঝ?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710647,
+      "value": {
+        "answer": "পণ্য ক্রয়-বিক্রয়ের সময় যে বাট্টা বিবেচনা করা হয় তাকে কারবারি বাট্টা বলে। বিক্রয় বৃদ্ধির জন্য বিক্রেতা যখন পূর্বনির্ধারিত বিক্রয়মূল্য অপেক্ষা কম মূল্যে পণ্য বিক্রয় করে, তাই কারবারি বাট্টা। এই বাট্টা বিক্রেতার জন্য বিক্রয় বাট্টা। আর ক্রেতার জন্য ক্রয় বাট্টা। ক্রেতা বা বিক্রেতা কেউই এই বাট্টার হিসাব রাখে না।",
+        "options": [],
+        "question": "কারবারি বাট্টা কী?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710643,
+      "value": {
+        "answer": "কোনো বস্তুর নির্ধারিত মূল্য থেকে যে মূল্য ছাড় পাওয়া যায় তাই বাট্টা। বাট্টা ২ প্রকার। যথা- কারবারি বাট্টা ও নগদ বাট্টা। বিক্রেতা কখনো বিক্রয় বৃদ্ধির জন্য পূর্বনির্ধারিত বিক্রয়মূল্য অপেক্ষা কম মূল্যে পণ্য বিক্রয় করে। একেই কারবারি বাট্টা হিসেবে গণ্য করা হয়। অন্যদিকে, দেনা-পাওনা নিষ্পত্তির জন্য যে বাট্টা লিপিবদ্ধ করা হয় তাই নগদ বাট্টা।",
+        "options": [],
+        "question": "বাট্টা কত প্রকার ও কী কী?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710642,
+      "value": {
+        "answer": "নয়ন কমলা কিনে যে টাকা ছাড় পেল তা মূলত কারবারি বাট্টা। কোনো বস্তুর পূর্বনির্ধারিত মূল্য অপেক্ষা কম মূল্যে ক্রয় করা সম্ভব হলে যতটুকু মূল্য কম পরিশোধ করা হয় তাই কারবারি বাট্টা। এখানে নয়ন কমলার নির্ধারিত মূল্য থেকে কিছু টাকা ছাড় পায়। অর্থাৎ, তাকে কম মূল্য পরিশোধ করতে হয়। তাই এটি বাট্টা।",
+        "options": [],
+        "question": "নয়ন বাজার থেকে ২ কেজি কমলা কিনে কিছু টাকা ছাড় পেল, এ ছাড়কে কী বলা হয়?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710640,
+      "value": {
+        "answer": "\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd style=\"text-align:center\"\u003E\u003Cstrong\u003Eকারবারি বাট্টা\u003C/strong\u003E\u003C/td\u003E\n\t\t\t\u003Ctd style=\"text-align:center\"\u003E\u003Cstrong\u003Eনগদ বাট্টা\u003C/strong\u003E\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E১. পণ্য ক্রয়-বিক্রয়ে বিক্রয় বৃদ্ধির জন্য বিক্রেতা ক্রেতাকে যে টাকা ছাড় দেয়, তাই কারবারি বাট্টা।\u003C/td\u003E\n\t\t\t\u003Ctd\u003E১. দেনা-পাওনা নিষ্পত্তির সময় বিক্রেতা ক্রেতাকে যে টাকা ছাড় দেয়, তাই নগদ বাট্টা।\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E২. ক্রেতা বা বিক্রেতা কারবারি বাট্টার হিসাব রাখেনা।\u003C/td\u003E\n\t\t\t\u003Ctd\u003E২. ক্রেতা ও বিক্রেতা উভয়ই নগদ বাট্টা লিপিবদ্ধ করে।\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n",
+        "options": [],
+        "question": "কারবারি বাট্টা ও নগদ বাট্টার ২টি পার্থক্য লেখো।",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710634,
+      "value": {
+        "answer": "ক. ১৪,৪০০ টাকা",
+        "options": {
+          "ক": "১৪,৪০০ টাকা",
+          "খ": "১৫,৪০০ টাকা",
+          "গ": "১৬,৩০০ টাকা",
+          "ঘ": "১৭,৫০০ টাকা"
+        },
+        "question": "লাবণীর নিকট থেকে ১,২০০ টাকা দরে ১০০ পিছ শাড়ি ক্রয়, কারবারি বাট্টা ১২%। এখানে কারবারি বাট্টার পরিমাণ কত?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 710634,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710628,
+      "value": {
+        "answer": "ঘ. প্রদত্ত বাট্টা",
+        "options": {
+          "ক": "বিক্রয় বাট্টা",
+          "খ": "প্রাপ্ত কারবারি বাট্টা",
+          "গ": "প্রদত্ত কমিশন",
+          "ঘ": "প্রদত্ত বাট্টা"
+        },
+        "question": "পাওনা টাকা দ্রুত নিষ্পত্তির সাথে জড়িত কোনটি?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 710628,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710622,
+      "value": {
+        "answer": "খ. বিক্রয় শর্ত",
+        "options": {
+          "ক": "ক্রয় শর্ত",
+          "খ": "বিক্রয় শর্ত",
+          "গ": "পরিশোধ শর্ত",
+          "ঘ": "আদায়ের শর্ত"
+        },
+        "question": "৩/১০, নিট ৩০ দ্বারা কী বোঝায়?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 710622,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710617,
+      "value": {
+        "answer": "ক. পাওনাদার ১,০০০ টাকা",
+        "options": {
+          "ক": "পাওনাদার ১,০০০ টাকা",
+          "খ": "দেনাদার ১,০০০ টাকা",
+          "গ": "নগদান ১,০০০ টাকা",
+          "ঘ": "বাট্টা ১,০০০ টাকা"
+        },
+        "question": "বাট্টা প্রাপ্তি ১,০০০ টাকা এই লেনদেনে ডেবিট হিসাব কোনটি?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 710617,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710614,
+      "value": {
+        "answer": "খ. বিক্রয় বাট্টা",
+        "options": {
+          "ক": "ক্রয় বাট্টা",
+          "খ": "বিক্রয় বাট্টা",
+          "গ": "নগদ বাট্টা",
+          "ঘ": "পরিমাণ বাট্টা"
+        },
+        "question": "পণ্য বিক্রয়ের সময় পণ্যের তালিকা মূল্য থেকে যে পরিমাণ টাকা ছাড় দেওয়া হয়, তাকে কী বলে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710610,
+      "value": {
+        "answer": "ঘ. কারবারি বাট্টা",
+        "options": {
+          "ক": "ক্রেডিট নোট",
+          "খ": "চালান",
+          "গ": "নগদ বাট্টা",
+          "ঘ": "কারবারি বাট্টা"
+        },
+        "question": "বিক্রেতা কোনটি সংরক্ষণ করেন না?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 710610,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710606,
+      "value": {
+        "answer": "ঘ. ৩০,০০০ টাকা",
+        "options": {
+          "ক": "৬০০ টাকা",
+          "খ": "৩,০০০ টাকা",
+          "গ": "২৯,৪০০ টাকা",
+          "ঘ": "৩০,০০০ টাকা"
+        },
+        "question": "মে ১ পণ্য বিক্রয় ৩০,০০০ টাকা। শর্ত ২/১০, নিট ৩০। ক্রেতা মে মাসের ১২ তারিখে পণ্যের মূল্য পরিশোধ করলে বিক্রেতা কত টাকা পাবে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 710606,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710600,
+      "value": {
+        "answer": "খ. ক্রয় বাট্টা",
+        "options": {
+          "ক": "বিক্রয় বাট্টা",
+          "খ": "ক্রয় বাট্টা",
+          "গ": "প্রদত্ত বাট্টা",
+          "ঘ": "প্রাপ্ত বাট্টা"
+        },
+        "question": "সামিন ট্রেডার্স ১০% বাট্টায় ৩৫,০০০ টাকার পণ্য ক্রয় করল। এটা কোন ধরনের বাট্টা হিসেবে গণ্য হবে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 710600,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710595,
+      "value": {
+        "answer": "ঘ. কারবারি বাট্টা",
+        "options": {
+          "ক": "নগদ বাট্টা",
+          "খ": "কমিশন",
+          "গ": "পরিবহন খরচ",
+          "ঘ": "কারবারি বাট্টা"
+        },
+        "question": "বিক্রয়ের প্রকৃত মূল্য নির্ণয়ের ক্ষেত্রে কোনটি বিবেচনা করা হয়?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 710595,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 710589,
+      "value": {
+        "answer": "গ. প্রদত্ত বাট্টা",
+        "options": {
+          "ক": "প্রাপ্ত বাট্টা",
+          "খ": "দেনাদার",
+          "গ": "প্রদত্ত বাট্টা",
+          "ঘ": "পাওনাদার"
+        },
+        "question": "১০,০০০ টাকা পাওয়ার পূর্ণনিষ্পত্তিতে ৯,৫০০ টাকা পাওয়া গেল। এখানে কোন হিসাব ডেবিট হবে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:49.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 710589,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-11-04T15:07:49.000000Z",
+            "updated_at": "2025-11-04T15:07:49.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708361,
+      "value": {
+        "answer": "ঘ. কারবারি বাট্টা",
+        "options": {
+          "ক": "নগদ বাট্টা",
+          "খ": "প্রদত্ত বাট্টা",
+          "গ": "প্রাপ্ত বাট্টা",
+          "ঘ": "কারবারি বাট্টা"
+        },
+        "question": "বিক্রয় বৃদ্ধি করার জন্য কোন ধরনের বাট্টা বিবেচনা করা হয়?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3870,
+          "full_name": "য. বো.'২০২৩",
+          "short_name": "য. বো.'২০২৩",
+          "slug": "z-bo2023",
+          "pivot": {
+            "question_bank_id": 708361,
+            "tag_id": 3870,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708412,
+      "value": {
+        "answer": "দেনা-পাওনা নিষ্পত্তির সময় যে বাট্টা হিসাবভুক্ত করা হয় তাকে নগদ বাট্টা বলে। ক্রেতা-বিক্রেতার মাঝে দেনা-পাওনার দ্রুত নিষ্পত্তির জন্য বিক্রেতা ক্রেতাকে যে টাকা ছাড় দেয় তাই নগদ বাট্টা। এই বাট্টা বিক্রেতার জন্য প্রদত্ত বাট্টা। আর ক্রেতার জন্য প্রাপ্ত বাট্টা। উভয় পক্ষ তাদের হিসাবের বইতে এই বাট্টা লিপিবদ্ধ করে।",
+        "options": [],
+        "question": "নগদ বাট্টা বলতে কী বোঝ?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708411,
+      "value": {
+        "answer": "পণ্য ক্রয়-বিক্রয়ের সময় যে বাট্টা বিবেচনা করা হয় তাকে কারবারি বাট্টা বলে। বিক্রয় বৃদ্ধির জন্য বিক্রেতা যখন পূর্বনির্ধারিত বিক্রয়মূল্য অপেক্ষা কম মূল্যে পণ্য বিক্রয় করে, তাই কারবারি বাট্টা। এই বাট্টা বিক্রেতার জন্য বিক্রয় বাট্টা। আর ক্রেতার জন্য ক্রয় বাট্টা। ক্রেতা বা বিক্রেতা কেউই এই বাট্টার হিসাব রাখে না।",
+        "options": [],
+        "question": "কারবারি বাট্টা কী?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708408,
+      "value": {
+        "answer": "কোনো বস্তুর নির্ধারিত মূল্য থেকে যে মূল্য ছাড় পাওয়া যায় তাই বাট্টা। বাট্টা ২ প্রকার। যথা- কারবারি বাট্টা ও নগদ বাট্টা। বিক্রেতা কখনো বিক্রয় বৃদ্ধির জন্য পূর্বনির্ধারিত বিক্রয়মূল্য অপেক্ষা কম মূল্যে পণ্য বিক্রয় করে। একেই কারবারি বাট্টা হিসেবে গণ্য করা হয়। অন্যদিকে, দেনা-পাওনা নিষ্পত্তির জন্য যে বাট্টা লিপিবদ্ধ করা হয় তাই নগদ বাট্টা।",
+        "options": [],
+        "question": "বাট্টা কত প্রকার ও কী কী?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708405,
+      "value": {
+        "answer": "নয়ন কমলা কিনে যে টাকা ছাড় পেল তা মূলত কারবারি বাট্টা। কোনো বস্তুর পূর্বনির্ধারিত মূল্য অপেক্ষা কম মূল্যে ক্রয় করা সম্ভব হলে যতটুকু মূল্য কম পরিশোধ করা হয় তাই কারবারি বাট্টা। এখানে নয়ন কমলার নির্ধারিত মূল্য থেকে কিছু টাকা ছাড় পায়। অর্থাৎ, তাকে কম মূল্য পরিশোধ করতে হয়। তাই এটি বাট্টা।",
+        "options": [],
+        "question": "নয়ন বাজার থেকে ২ কেজি কমলা কিনে কিছু টাকা ছাড় পেল, এ ছাড়কে কী বলা হয়?",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708403,
+      "value": {
+        "answer": "\u003Ctable border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width:100%\"\u003E\n\t\u003Ctbody\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd style=\"text-align:center\"\u003E\u003Cstrong\u003Eকারবারি বাট্টা\u003C/strong\u003E\u003C/td\u003E\n\t\t\t\u003Ctd style=\"text-align:center\"\u003E\u003Cstrong\u003Eনগদ বাট্টা\u003C/strong\u003E\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E১. পণ্য ক্রয়-বিক্রয়ে বিক্রয় বৃদ্ধির জন্য বিক্রেতা ক্রেতাকে যে টাকা ছাড় দেয়, তাই কারবারি বাট্টা।\u003C/td\u003E\n\t\t\t\u003Ctd\u003E১. দেনা-পাওনা নিষ্পত্তির সময় বিক্রেতা ক্রেতাকে যে টাকা ছাড় দেয়, তাই নগদ বাট্টা।\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\t\u003Ctr\u003E\n\t\t\t\u003Ctd\u003E২. ক্রেতা বা বিক্রেতা কারবারি বাট্টার হিসাব রাখেনা।\u003C/td\u003E\n\t\t\t\u003Ctd\u003E২. ক্রেতা ও বিক্রেতা উভয়ই নগদ বাট্টা লিপিবদ্ধ করে।\u003C/td\u003E\n\t\t\u003C/tr\u003E\n\t\u003C/tbody\u003E\n\u003C/table\u003E\n",
+        "options": [],
+        "question": "কারবারি বাট্টা ও নগদ বাট্টার ২টি পার্থক্য লেখো।",
+        "solution": ""
+      },
+      "question_type_id": 7,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 7,
+        "name": "সংক্ষিপ্ত",
+        "answer_type": "text"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708398,
+      "value": {
+        "answer": "ক. ১৪,৪০০ টাকা",
+        "options": {
+          "ক": "১৪,৪০০ টাকা",
+          "খ": "১৫,৪০০ টাকা",
+          "গ": "১৬,৩০০ টাকা",
+          "ঘ": "১৭,৫০০ টাকা"
+        },
+        "question": "লাবণীর নিকট থেকে ১,২০০ টাকা দরে ১০০ পিছ শাড়ি ক্রয়, কারবারি বাট্টা ১২%। এখানে কারবারি বাট্টার পরিমাণ কত?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3836,
+          "full_name": "ঢা. বো.'২০১৬",
+          "short_name": "ঢা. বো.'২০১৬",
+          "slug": "dha-bo2016",
+          "pivot": {
+            "question_bank_id": 708398,
+            "tag_id": 3836,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708394,
+      "value": {
+        "answer": "ঘ. প্রদত্ত বাট্টা",
+        "options": {
+          "ক": "বিক্রয় বাট্টা",
+          "খ": "প্রাপ্ত কারবারি বাট্টা",
+          "গ": "প্রদত্ত কমিশন",
+          "ঘ": "প্রদত্ত বাট্টা"
+        },
+        "question": "পাওনা টাকা দ্রুত নিষ্পত্তির সাথে জড়িত কোনটি?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 708394,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708391,
+      "value": {
+        "answer": "খ. বিক্রয় শর্ত",
+        "options": {
+          "ক": "ক্রয় শর্ত",
+          "খ": "বিক্রয় শর্ত",
+          "গ": "পরিশোধ শর্ত",
+          "ঘ": "আদায়ের শর্ত"
+        },
+        "question": "৩/১০, নিট ৩০ দ্বারা কী বোঝায়?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3790,
+          "full_name": "সি. বো.'২০২৪",
+          "short_name": "সি. বো.'২০২৪",
+          "slug": "si-bo2024",
+          "pivot": {
+            "question_bank_id": 708391,
+            "tag_id": 3790,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708386,
+      "value": {
+        "answer": "ক. পাওনাদার ১,০০০ টাকা",
+        "options": {
+          "ক": "পাওনাদার ১,০০০ টাকা",
+          "খ": "দেনাদার ১,০০০ টাকা",
+          "গ": "নগদান ১,০০০ টাকা",
+          "ঘ": "বাট্টা ১,০০০ টাকা"
+        },
+        "question": "বাট্টা প্রাপ্তি ১,০০০ টাকা এই লেনদেনে ডেবিট হিসাব কোনটি?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3851,
+          "full_name": "কু. বো.'২০২৩",
+          "short_name": "কু. বো.'২০২৩",
+          "slug": "ku-bo2023",
+          "pivot": {
+            "question_bank_id": 708386,
+            "tag_id": 3851,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708382,
+      "value": {
+        "answer": "খ. বিক্রয় বাট্টা",
+        "options": {
+          "ক": "ক্রয় বাট্টা",
+          "খ": "বিক্রয় বাট্টা",
+          "গ": "নগদ বাট্টা",
+          "ঘ": "পরিমাণ বাট্টা"
+        },
+        "question": "পণ্য বিক্রয়ের সময় পণ্যের তালিকা মূল্য থেকে যে পরিমাণ টাকা ছাড় দেওয়া হয়, তাকে কী বলে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708379,
+      "value": {
+        "answer": "ঘ. কারবারি বাট্টা",
+        "options": {
+          "ক": "ক্রেডিট নোট",
+          "খ": "চালান",
+          "গ": "নগদ বাট্টা",
+          "ঘ": "কারবারি বাট্টা"
+        },
+        "question": "বিক্রেতা কোনটি সংরক্ষণ করেন না?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 708379,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708375,
+      "value": {
+        "answer": "ঘ. ৩০,০০০ টাকা",
+        "options": {
+          "ক": "৬০০ টাকা",
+          "খ": "৩,০০০ টাকা",
+          "গ": "২৯,৪০০ টাকা",
+          "ঘ": "৩০,০০০ টাকা"
+        },
+        "question": "মে ১ পণ্য বিক্রয় ৩০,০০০ টাকা। শর্ত ২/১০, নিট ৩০। ক্রেতা মে মাসের ১২ তারিখে পণ্যের মূল্য পরিশোধ করলে বিক্রেতা কত টাকা পাবে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3883,
+          "full_name": "দি. বো.'২০২৩",
+          "short_name": "দি. বো.'২০২৩",
+          "slug": "di-bo2023",
+          "pivot": {
+            "question_bank_id": 708375,
+            "tag_id": 3883,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708370,
+      "value": {
+        "answer": "খ. ক্রয় বাট্টা",
+        "options": {
+          "ক": "বিক্রয় বাট্টা",
+          "খ": "ক্রয় বাট্টা",
+          "গ": "প্রদত্ত বাট্টা",
+          "ঘ": "প্রাপ্ত বাট্টা"
+        },
+        "question": "সামিন ট্রেডার্স ১০% বাট্টায় ৩৫,০০০ টাকার পণ্য ক্রয় করল। এটা কোন ধরনের বাট্টা হিসেবে গণ্য হবে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3796,
+          "full_name": "দি. বো.'২০১৬",
+          "short_name": "দি. বো.'২০১৬",
+          "slug": "di-bo2016",
+          "pivot": {
+            "question_bank_id": 708370,
+            "tag_id": 3796,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708368,
+      "value": {
+        "answer": "ঘ. কারবারি বাট্টা",
+        "options": {
+          "ক": "নগদ বাট্টা",
+          "খ": "কমিশন",
+          "গ": "পরিবহন খরচ",
+          "ঘ": "কারবারি বাট্টা"
+        },
+        "question": "বিক্রয়ের প্রকৃত মূল্য নির্ণয়ের ক্ষেত্রে কোনটি বিবেচনা করা হয়?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3823,
+          "full_name": "কু. বো.'২০১৭",
+          "short_name": "কু. বো.'২০১৭",
+          "slug": "ku-bo2017",
+          "pivot": {
+            "question_bank_id": 708368,
+            "tag_id": 3823,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    },
+    {
+      "id": 708364,
+      "value": {
+        "answer": "গ. প্রদত্ত বাট্টা",
+        "options": {
+          "ক": "প্রাপ্ত বাট্টা",
+          "খ": "দেনাদার",
+          "গ": "প্রদত্ত বাট্টা",
+          "ঘ": "পাওনাদার"
+        },
+        "question": "১০,০০০ টাকা পাওয়ার পূর্ণনিষ্পত্তিতে ৯,৫০০ টাকা পাওয়া গেল। এখানে কোন হিসাব ডেবিট হবে?",
+        "solution": ""
+      },
+      "question_type_id": 2,
+      "book_id": 10,
+      "book_grade_id": 5,
+      "content_chunk_id": 8209,
+      "created_at": "2025-11-04T15:07:24.000000Z",
+      "model_class": "App\\Models\\QuestionBank",
+      "flags": [],
+      "sub_questions": [],
+      "years": [],
+      "question_type": {
+        "id": 2,
+        "name": "MCQ",
+        "answer_type": "mcq"
+      },
+      "institutions": [],
+      "book": {
+        "id": 10,
+        "title": "হিসাববিজ্ঞান",
+        "thumbnail_url": "https://app.nexes.ai/",
+        "created_at_human": null
+      },
+      "tags": [
+        {
+          "id": 3856,
+          "full_name": "ম. বো.'২০২৩",
+          "short_name": "ম. বো.'২০২৩",
+          "slug": "m-bo2023",
+          "pivot": {
+            "question_bank_id": 708364,
+            "tag_id": 3856,
+            "year": null,
+            "created_at": "2025-11-04T15:07:24.000000Z",
+            "updated_at": "2025-11-04T15:07:24.000000Z"
+          }
+        }
+      ],
+      "labels": [],
+      "special_filters": []
+    }
+  ],
+  "first_page_url": "https://app.nexes.ai/question/view?chapter=8209&grade=5&lesson=13240&question_paper_id=47719&subject=10&type=board&per_page=200&result=1&page=1",
+  "from": 1,
+  "last_page": 1,
+  "last_page_url": "https://app.nexes.ai/question/view?chapter=8209&grade=5&lesson=13240&question_paper_id=47719&subject=10&type=board&per_page=200&result=1&page=1",
+  "links": [
+    {
+      "url": null,
+      "label": "&laquo; Previous",
+      "page": null,
+      "active": false
+    },
+    {
+      "url": "https://app.nexes.ai/question/view?chapter=8209&grade=5&lesson=13240&question_paper_id=47719&subject=10&type=board&per_page=200&result=1&page=1",
+      "label": "1",
+      "page": 1,
+      "active": true
+    },
+    {
+      "url": null,
+      "label": "Next &raquo;",
+      "page": null,
+      "active": false
+    }
+  ],
+  "next_page_url": null,
+  "path": "https://app.nexes.ai/question/view",
+  "per_page": 200,
+  "prev_page_url": null,
+  "to": 32,
+  "total": 32
+}
